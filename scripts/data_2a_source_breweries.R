@@ -5,7 +5,7 @@
 #' MODIFIED: 2020-02-05
 #' PURPOSE: source brewery data for European Cities
 #' STATUS: in.progress
-#' PACKAGES: tbd
+#' PACKAGES: tidyverse; osmdata; 
 #' COMMENTS:
 #'      The purpose of this script is to source data on breweries using the
 #'      cities gathered in scripts 1a and 1b. To do this, all cities will need
@@ -155,7 +155,7 @@ brew$overpass <- list()
 #' lat: latitude (req)
 #' lng: longitude (req)
 brew$overpass$new_query <- function(radius = 35000, lat, lng, timeout = 750) {
-    q <- paste0(
+    paste0(
         "[out:json][timeout:", timeout, "];",
         "(",
         "nwr",
@@ -182,62 +182,77 @@ brew$overpass$new_query <- function(radius = 35000, lat, lng, timeout = 750) {
         "out skel qt;",
         sep = ""
     )
-
-    # encode query
-    # query <- URLencode(q, reserved = TRUE)
-    paste0("http://overpass-api.de/api/interpreter?data=", q)
 }
 
-#' create a function that runs a query
-brew$overpass$new_command <- function(name, query, index) {
-    n <- gsub(pattern = "[[:space:]]", replacement = "_", x = tolower(name))
-    exec <- paste0(
-        "wget -O ",
-        "\"data/breweries/raw_index_", n, ".json\" ",
-        "\"", query, "\""
-    )
-    return(exec)
-}
+
 
 #' ~ A ~
 #' Run loop to fetch data from overpass API
 d <- 1
+fails <- 0
 reps <- NROW(city_info)
+failed <- list()
 while (d <= reps) {
 
+    cat("Starting new city (", d, "of", reps, ")\n")
     # prep query and shell command
     q <- brew$overpass$new_query(
         lat = city_info$lat[d],
         lng = city_info$lng[d]
     )
 
-    cmd <- brew$overpass$new_command(
-        name = paste0(city_info$city[d], " ", city_info$country[d]),
-        query = q
+    # send request
+    cat("\tSending GET request...")
+    response <- httr::GET(
+        url = "http://overpass-api.de/",
+        path = paste0("api/interpreter?data=",URLencode(q, reserved = T))
     )
-
-    # run command
-    system(cmd)
-
-    # update data
-    cat("Completed:", d, "of", reps)
+    
+    # process response
+    if (response$status_code == 200) {
+        cat("Sucess!\n")
+        
+        # extract body
+        json <- httr::content(response,"text", encoding = "utf-8")
+        
+        # form file name
+        name <- paste0(city_info$city[d]," ", city_info$country[d])
+        n <- gsub(
+            pattern = "[[:space:]]",
+            replacement = "_",
+            x = name
+        )
+        
+        # build file path with name
+        file <- paste0(
+            "data/breweries/",
+            "raw_", d, "_",
+            tolower(n),
+            ".json"
+        )
+        
+        # write json to file
+        cat("\tSaving file...\n")
+        readr::write_file(x = json, path = file)
+        cat("Success!")
+        
+    } else {
+        
+        # notify fail and update object fails
+        cat("\tFailed!\n")
+        cat("\t\tAdding to object 'failed' (fails:", fails, ")")
+        fails <- fails + 1
+        failed[[fails]] <- list(
+            city = city_info$city[d],
+            country = city_info$country[d]
+        )
+        
+    }
+    
+    # update counter and display message
+    cat("\tCompleted!\n")
     d <- d + 1
 
-    # add a kleine pauze
-    Sys.sleep(runif(1, 0, 1.25))
+    # met een kleine pauze
+    Sys.sleep(runif(1, 80, 180))
 }
-
-
-# test
-# query <- brew$overpass$new_query(
-#     radius = 35000, 
-#     lat = city_info$lat[1],
-#     lng = city_info$lng[1]
-# )
-
-# cmd <- brew$overpass$new_command(
-#     name = city_info$city[1],
-#     query = query
-# )
-
-# system(cmd)
