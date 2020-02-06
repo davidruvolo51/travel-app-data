@@ -1,0 +1,267 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T08:29:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 269055170,
+  "lat": 48.1139090,
+  "lon": -1.6367875,
+  "tags": {
+    "amenity": "restaurant",
+    "microbrewery": "yes",
+    "name": "Le Tournebride"
+  }
+},
+{
+  "type": "node",
+  "id": 872324499,
+  "lat": 47.9078668,
+  "lon": -1.4654489,
+  "tags": {
+    "addr:city": "Sainte-Colombe",
+    "addr:postcode": "35134",
+    "addr:street": "La Landelle",
+    "craft": "brewery",
+    "microbrewery": "yes",
+    "name": "Brasserie Sainte-Colombe",
+    "opening_hours": "Fr 14:00-19:00",
+    "operator": "Gonny Everts-Keizer;Henri Everts",
+    "phone": "+33 2 99 47 73 23",
+    "product": "beer",
+    "start_date": "1996",
+    "website": "http://www.brasserie-sainte-colombe.com",
+    "wikidata": "Q2924027",
+    "wikipedia": "fr:Brasserie Sainte-Colombe"
+  }
+},
+{
+  "type": "node",
+  "id": 4192175423,
+  "lat": 48.1373124,
+  "lon": -1.5172849,
+  "tags": {
+    "addr:city": "Acigné",
+    "addr:country": "FR",
+    "addr:housenumber": "5",
+    "addr:postcode": "35690",
+    "addr:street": "Rue de Joval",
+    "craft": "brewery",
+    "name": "Brasserie Skumenn",
+    "opening_hours": "Fr 14:30-18:00",
+    "phone": "+33 2 99 55 32 08",
+    "product": "beer",
+    "source:addr:housenumber:ref": "42510",
+    "source:version": "2016-04-01",
+    "website": "https://www.skumenn.com"
+  }
+},
+{
+  "type": "node",
+  "id": 4225477240,
+  "lat": 48.1007091,
+  "lon": -1.6485489,
+  "tags": {
+    "addr:city": "Rennes",
+    "addr:housenumber": "9",
+    "addr:postcode": "35000",
+    "addr:street": "Allée Claude Debussy",
+    "craft": "brewery",
+    "email": "brasserielouarn@gmail.com",
+    "name": "Brasserie Louarn",
+    "opening_hours": "Fr 14:00-19:00",
+    "phone": "+33 6 65 68 48 56",
+    "product": "beer",
+    "source:addr": "Rennes Métropole",
+    "source:addr:housenumber:ref": "65621",
+    "source:addr:version": "2016-04-01",
+    "website": "https://www.brasserielouarn.com",
+    "wikidata": "Q64224452"
+  }
+},
+{
+  "type": "node",
+  "id": 5148290136,
+  "lat": 48.2196327,
+  "lon": -1.6645379,
+  "tags": {
+    "addr:city": "Melesse",
+    "addr:postcode": "35320",
+    "addr:street": "Servaude",
+    "craft": "brewery",
+    "description": "Fabrication de bière artisanale bretonne. Principalement trois types de bières, blonde, brune et ambrée.",
+    "email": "brasseriedrao@gmail.com",
+    "name": "Ferme-brasserie Drao",
+    "opening_hours": "Fr 15:00-18:00",
+    "operator": "Rozenn MELL",
+    "phone": "+33 6 75 55 29 78",
+    "product": "beer",
+    "start_date": "2013",
+    "website": "http://www.brasseriedrao.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 6110669743,
+  "lat": 48.0665576,
+  "lon": -1.6990319,
+  "tags": {
+    "addr:city": "Saint-Jacques-de-la-Lande",
+    "addr:housenumber": "4b",
+    "addr:postcode": "35136",
+    "addr:street": "Rue Janig Corlay",
+    "craft": "brewery",
+    "email": "contact@vieuxsinge.com",
+    "name": "Brasserie du Vieux Singe",
+    "opening_hours": "Th-Fr 17:00-19:00",
+    "operator": "Brasserie du Vieux Singe SARL",
+    "phone": "+33 6 74 78 54 89",
+    "product": "beer",
+    "shop": "alcohol",
+    "start_date": "2017-11",
+    "website": "https://www.vieuxsinge.com"
+  }
+},
+{
+  "type": "node",
+  "id": 6485143834,
+  "lat": 47.9844332,
+  "lon": -2.0438596,
+  "tags": {
+    "addr:city": "Maxent",
+    "addr:housenumber": "73",
+    "addr:postcode": "35380",
+    "addr:street": "Rue Pierre Porcher",
+    "craft": "brewery",
+    "email": "brasserieoblique@gmail.com",
+    "name": "Brasserie Oblique",
+    "opening_hours": "Th 16:00-18:30",
+    "operator": "Raphaël Scherer",
+    "phone": "+33 6 26 79 60 19",
+    "product": "beer",
+    "start_date": "2018",
+    "website": "https://www.brasserie-oblique.com"
+  }
+},
+{
+  "type": "node",
+  "id": 6495267125,
+  "lat": 48.0947823,
+  "lon": -1.7711999,
+  "tags": {
+    "addr:city": "Le Rheu",
+    "addr:housenumber": "54",
+    "addr:postcode": "35650",
+    "addr:street": "Route Nationale",
+    "craft": "brewery",
+    "email": "mickael.legendre35@gmail.com",
+    "name": "Brasserie de la Bizhhh",
+    "opening_hours": "Mo-Fr 09:30-18:30",
+    "phone": "+33 6 85 81 16 97",
+    "product": "beer",
+    "start_date": "2017"
+  }
+},
+{
+  "type": "node",
+  "id": 6495311382,
+  "lat": 48.0017131,
+  "lon": -2.0858776,
+  "tags": {
+    "addr:city": "Plélan-le-Grand",
+    "addr:housenumber": "2 ter",
+    "addr:postcode": "35380",
+    "addr:street": "Les Noës",
+    "craft": "brewery",
+    "email": "contact@brasseriedelombre.com",
+    "name": "Brasserie de l'Ombre",
+    "opening_hours": "Mo-Fr 09:00-16:30",
+    "phone": "+33 6 26 76 43 11",
+    "product": "beer",
+    "start_date": "2009",
+    "website": "http://www.brasseriedelombre.com"
+  }
+},
+{
+  "type": "node",
+  "id": 6776945082,
+  "lat": 48.2109556,
+  "lon": -1.5149432,
+  "tags": {
+    "craft": "brewery",
+    "name": "Le \"🍸\" galant"
+  }
+},
+{
+  "type": "node",
+  "id": 6814774338,
+  "lat": 48.3034649,
+  "lon": -1.6660684,
+  "tags": {
+    "addr:city": "Montreuil-sur-Ille",
+    "addr:housenumber": "29",
+    "addr:postcode": "35440",
+    "addr:street": "Lotissement les Hauts de l'Ille",
+    "craft": "brewery",
+    "email": "brasseriebrittanys@gmail.com",
+    "name": "Brasserie Brittany's",
+    "opening_hours": "Th 17:00-19:30",
+    "operator": "Kevin Le Tiec",
+    "phone": "+33 7 67 60 26 58",
+    "product": "beer",
+    "start_date": "2019"
+  }
+},
+{
+  "type": "node",
+  "id": 7042371020,
+  "lat": 48.1178025,
+  "lon": -1.6788287,
+  "tags": {
+    "addr:city": "Rennes",
+    "addr:housenumber": "2",
+    "addr:postcode": "35000",
+    "addr:street": "Rue de l'Hôtel Dieu",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "brewery": "various",
+    "cuisine": "french",
+    "microbrewery": "yes",
+    "name": "Origines",
+    "opening_hours": "Mo-Su 10:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+33669011584",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7073876519,
+  "lat": 48.1041671,
+  "lon": -1.7370328,
+  "tags": {
+    "addr:city": "Vezin-le-Coquet",
+    "addr:housenumber": "69",
+    "addr:postcode": "35132",
+    "addr:street": "Rue du Manoir de Servigné",
+    "amenity": "restaurant",
+    "contact:phone": "+33299147544",
+    "craft": "brewery",
+    "cuisine": "sandwich;snack;crepe",
+    "microbrewery": "yes",
+    "name": "La Détente",
+    "opening_hours": "Mo-Fr 09:00-15:00",
+    "outdoor_seating": "yes",
+    "ref:FR:NAF": "5610C",
+    "ref:FR:SIRET": "50351999300037",
+    "website": "https://la-detente.business.site/"
+  }
+}
+
+  ]
+}

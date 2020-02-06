@@ -1,0 +1,497 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-05T21:19:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1455197861,
+  "lat": 54.9694155,
+  "lon": -1.6075429,
+  "tags": {
+    "addr:housenumber": "7",
+    "addr:postcode": "NE1 3UF",
+    "addr:street": "Akenside Hill",
+    "amenity": "pub",
+    "food": "yes",
+    "microbrewery": "yes",
+    "name": "The Bridge Tavern",
+    "old_name": "Fever",
+    "opening_hours": "Mo-Fr 12:00-24:00; Sa 00:00-01:00,12:00-24:00; Su 00:00-01:00,12:00-23:00",
+    "outdoor_seating": "yes",
+    "real_ale": "yes",
+    "source": "local_knowledge",
+    "website": "https://www.thebridgetavern.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4618156365,
+  "lat": 54.9729596,
+  "lon": -1.5886434,
+  "tags": {
+    "addr:city": "Newcastle upon Tyne",
+    "addr:housenumber": "1A",
+    "addr:postcode": "NE6 1NW",
+    "addr:street": "Ford Street",
+    "amenity": "pub",
+    "craft": "brewery",
+    "fhrs:id": "715100",
+    "internet_access": "yes",
+    "name": "Brinkburn Street Brewery",
+    "outdoor_seating": "yes",
+    "phone": "+44 191 260 0688",
+    "product": "beer",
+    "website": "https://www.brinkburnbrewery.co.uk/"
+  }
+},
+{
+  "type": "node",
+  "id": 4690343236,
+  "lat": 55.0037984,
+  "lon": -1.4871336,
+  "tags": {
+    "addr:city": "North Shields",
+    "addr:postcode": "NE29 7XJ",
+    "addr:street": "Narvik Way",
+    "craft": "brewery",
+    "name": "Mordue Brewery",
+    "phone": "+44 191 296 1879",
+    "website": "https://www.morduebrewery.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 142342494,
+  "nodes": [
+    1557944886,
+    1557944988,
+    1557944777,
+    6655618430,
+    1557944786,
+    1557944788,
+    1557944923,
+    1557944851,
+    1557944970,
+    1557944886
+  ],
+  "tags": {
+    "addr:city": "Newcastle upon Tyne",
+    "addr:housename": "Palace of Arts",
+    "addr:place": "Exhibition Park",
+    "addr:postcode": "NE2 4PZ",
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Wylam Brewery"
+  }
+},
+{
+  "type": "way",
+  "id": 183721186,
+  "nodes": [
+    813119019,
+    813119021,
+    1941345619,
+    1941345631,
+    1941345622,
+    1941345621,
+    813119019
+  ],
+  "tags": {
+    "amenity": "pub",
+    "beer_garden": "yes",
+    "brewery": "Big Lamp Brewery",
+    "building": "yes",
+    "food": "yes",
+    "microbrewery": "yes",
+    "name": "The Keelman",
+    "real_ale": "yes",
+    "source": "Bing;survey",
+    "website": "http://www.biglampbrewers.co.uk/"
+  }
+},
+{
+  "type": "way",
+  "id": 183721199,
+  "nodes": [
+    1941345622,
+    1941345631,
+    813119024,
+    813119027,
+    1941345622
+  ],
+  "tags": {
+    "building": "brewery",
+    "craft": "brewery",
+    "name": "Big Lamp Brewery",
+    "source": "Bing;survey",
+    "website": "http://www.biglampbrewers.co.uk/"
+  }
+},
+{
+  "type": "way",
+  "id": 244078706,
+  "nodes": [
+    1460492546,
+    2514312226,
+    2514312228,
+    2514312230,
+    2514312232,
+    2514312234,
+    2514312236,
+    2514312238,
+    2514312240,
+    2514312256,
+    2514312248,
+    2514312242,
+    1460492593,
+    1460492546
+  ],
+  "tags": {
+    "addr:city": "Newcastle upon Tyne",
+    "addr:housenumber": "375",
+    "addr:postcode": "NE6 2AB",
+    "addr:street": "Walker Road",
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Tyne Bank Brewery",
+    "opening_hours": "Mo-Tu off; We 12:00-23:00; Th-Sa 12:00-00:00; Su 12:00-23:00",
+    "operator": "Tyne Bank Brewery Ltd",
+    "phone": "+44 191 2652828",
+    "website": "http://www.tynebankbrewery.co.uk/"
+  }
+},
+{
+  "type": "way",
+  "id": 371638210,
+  "nodes": [
+    3751997241,
+    3751997240,
+    3751997242,
+    3751997243,
+    3751997241
+  ],
+  "tags": {
+    "building": "brewery",
+    "craft": "brewery",
+    "name": "Leamside Brewery"
+  }
+},
+{
+  "type": "way",
+  "id": 468742495,
+  "nodes": [
+    4632157020,
+    4632157021,
+    4632157022,
+    4632157023,
+    4632157020
+  ],
+  "tags": {
+    "amenity": "pub",
+    "building": "industrial",
+    "industrial": "brewery",
+    "microbrewery": "yes",
+    "name": "The Old Coal Yard"
+  }
+},
+{
+  "type": "way",
+  "id": 582631278,
+  "nodes": [
+    5571723983,
+    5571723965,
+    5571723964,
+    6132668197,
+    5571723963,
+    5571723962,
+    5571723982,
+    5571723983
+  ],
+  "tags": {
+    "addr:housenumber": "7",
+    "addr:postcode": "DH1 3RA",
+    "addr:street": "Fowlers Yard",
+    "building": "commercial",
+    "craft": "brewery",
+    "fhrs:id": "802340",
+    "name": "Hill Island Brewery"
+  }
+},
+{
+  "type": "node",
+  "id": 5571723962,
+  "lat": 54.7766384,
+  "lon": -1.5772690
+},
+{
+  "type": "node",
+  "id": 5571723963,
+  "lat": 54.7765920,
+  "lon": -1.5773052
+},
+{
+  "type": "node",
+  "id": 5571723964,
+  "lat": 54.7765703,
+  "lon": -1.5772167
+},
+{
+  "type": "node",
+  "id": 5571723965,
+  "lat": 54.7766229,
+  "lon": -1.5771778
+},
+{
+  "type": "node",
+  "id": 5571723982,
+  "lat": 54.7766853,
+  "lon": -1.5772504
+},
+{
+  "type": "node",
+  "id": 5571723983,
+  "lat": 54.7766735,
+  "lon": -1.5771565
+},
+{
+  "type": "node",
+  "id": 6132668197,
+  "lat": 54.7765820,
+  "lon": -1.5772645
+},
+{
+  "type": "node",
+  "id": 3751997240,
+  "lat": 54.8217358,
+  "lon": -1.5185328
+},
+{
+  "type": "node",
+  "id": 3751997241,
+  "lat": 54.8217409,
+  "lon": -1.5183899
+},
+{
+  "type": "node",
+  "id": 3751997242,
+  "lat": 54.8218329,
+  "lon": -1.5185432
+},
+{
+  "type": "node",
+  "id": 3751997243,
+  "lat": 54.8218379,
+  "lon": -1.5184003
+},
+{
+  "type": "node",
+  "id": 813119019,
+  "lat": 54.9846673,
+  "lon": -1.7524254
+},
+{
+  "type": "node",
+  "id": 813119021,
+  "lat": 54.9845542,
+  "lon": -1.7523755
+},
+{
+  "type": "node",
+  "id": 813119024,
+  "lat": 54.9846515,
+  "lon": -1.7518862
+},
+{
+  "type": "node",
+  "id": 813119027,
+  "lat": 54.9847134,
+  "lon": -1.7519135
+},
+{
+  "type": "node",
+  "id": 1941345619,
+  "lat": 54.9845972,
+  "lon": -1.7520791
+},
+{
+  "type": "node",
+  "id": 1941345621,
+  "lat": 54.9847103,
+  "lon": -1.7521290
+},
+{
+  "type": "node",
+  "id": 1941345622,
+  "lat": 54.9846838,
+  "lon": -1.7521173
+},
+{
+  "type": "node",
+  "id": 1941345631,
+  "lat": 54.9846219,
+  "lon": -1.7520901
+},
+{
+  "type": "node",
+  "id": 1557944777,
+  "lat": 54.9862132,
+  "lon": -1.6166390
+},
+{
+  "type": "node",
+  "id": 1557944786,
+  "lat": 54.9862126,
+  "lon": -1.6163395
+},
+{
+  "type": "node",
+  "id": 1557944788,
+  "lat": 54.9862361,
+  "lon": -1.6163394
+},
+{
+  "type": "node",
+  "id": 1557944851,
+  "lat": 54.9865861,
+  "lon": -1.6162030
+},
+{
+  "type": "node",
+  "id": 1557944886,
+  "lat": 54.9862367,
+  "lon": -1.6168019
+},
+{
+  "type": "node",
+  "id": 1557944923,
+  "lat": 54.9862358,
+  "lon": -1.6162051
+},
+{
+  "type": "node",
+  "id": 1557944970,
+  "lat": 54.9865873,
+  "lon": -1.6167998
+},
+{
+  "type": "node",
+  "id": 1557944988,
+  "lat": 54.9862364,
+  "lon": -1.6166389
+},
+{
+  "type": "node",
+  "id": 6655618430,
+  "lat": 54.9862129,
+  "lon": -1.6164856
+},
+{
+  "type": "node",
+  "id": 1460492546,
+  "lat": 54.9689772,
+  "lon": -1.5776525
+},
+{
+  "type": "node",
+  "id": 1460492593,
+  "lat": 54.9691466,
+  "lon": -1.5776150
+},
+{
+  "type": "node",
+  "id": 2514312226,
+  "lat": 54.9689820,
+  "lon": -1.5777434
+},
+{
+  "type": "node",
+  "id": 2514312228,
+  "lat": 54.9689871,
+  "lon": -1.5777434
+},
+{
+  "type": "node",
+  "id": 2514312230,
+  "lat": 54.9690323,
+  "lon": -1.5785819
+},
+{
+  "type": "node",
+  "id": 2514312232,
+  "lat": 54.9690394,
+  "lon": -1.5786225
+},
+{
+  "type": "node",
+  "id": 2514312234,
+  "lat": 54.9690546,
+  "lon": -1.5786685
+},
+{
+  "type": "node",
+  "id": 2514312236,
+  "lat": 54.9690765,
+  "lon": -1.5787092
+},
+{
+  "type": "node",
+  "id": 2514312238,
+  "lat": 54.9690968,
+  "lon": -1.5787384
+},
+{
+  "type": "node",
+  "id": 2514312240,
+  "lat": 54.9691318,
+  "lon": -1.5787605
+},
+{
+  "type": "node",
+  "id": 2514312242,
+  "lat": 54.9692080,
+  "lon": -1.5776019
+},
+{
+  "type": "node",
+  "id": 2514312248,
+  "lat": 54.9692445,
+  "lon": -1.5782042
+},
+{
+  "type": "node",
+  "id": 2514312256,
+  "lat": 54.9692821,
+  "lon": -1.5788145
+},
+{
+  "type": "node",
+  "id": 4632157020,
+  "lat": 54.9771359,
+  "lon": -1.5893463
+},
+{
+  "type": "node",
+  "id": 4632157021,
+  "lat": 54.9772572,
+  "lon": -1.5894230
+},
+{
+  "type": "node",
+  "id": 4632157022,
+  "lat": 54.9772012,
+  "lon": -1.5896917
+},
+{
+  "type": "node",
+  "id": 4632157023,
+  "lat": 54.9770799,
+  "lon": -1.5896150
+}
+
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T14:09:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 321511884,
+  "lat": 45.7996745,
+  "lon": 15.9621252,
+  "tags": {
+    "addr:housenumber": "56",
+    "addr:street": "Savska cesta",
+    "amenity": "restaurant",
+    "microbrewery": "yes",
+    "name": "Pivnica Zlatni Medo",
+    "opening_hours": "Mo-Sa 10:00-00:00; Su,PH 12:00-00:00",
+    "phone": "+38516177119",
+    "smoking": "isolated",
+    "smoking:outside": "yes",
+    "website": "http://www.pivnica.hr/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 5891170195,
+  "lat": 45.8078115,
+  "lon": 15.8627127,
+  "tags": {
+    "addr:city": "Zagreb",
+    "addr:housenumber": "3a",
+    "addr:postcode": "10000",
+    "addr:street": "Ulica Kreše Golika",
+    "craft": "brewery",
+    "email": "info@zmajskapivovara.hr",
+    "name": "Zmajska Pivovara",
+    "operator": "Zmajska pivovara d.o.o.",
+    "phone": "+385 98 583 588",
+    "website": "https://zmajskapivovara.hr/"
+  }
+},
+{
+  "type": "way",
+  "id": 92399925,
+  "nodes": [
+    1072622835,
+    1072622837,
+    1072622841,
+    1072622833,
+    1072622835
+  ],
+  "tags": {
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Zmajska pivovara",
+    "roof:material": "roof_tiles",
+    "roof:shape": "gabled"
+  }
+},
+{
+  "type": "node",
+  "id": 1072622833,
+  "lat": 45.8010452,
+  "lon": 15.9431007
+},
+{
+  "type": "node",
+  "id": 1072622835,
+  "lat": 45.8010363,
+  "lon": 15.9433001
+},
+{
+  "type": "node",
+  "id": 1072622837,
+  "lat": 45.8006517,
+  "lon": 15.9432646
+},
+{
+  "type": "node",
+  "id": 1072622841,
+  "lat": 45.8006607,
+  "lon": 15.9430653
+}
+
+  ]
+}

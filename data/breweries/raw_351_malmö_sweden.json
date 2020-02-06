@@ -1,0 +1,226 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T13:03:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 24971137,
+  "lat": 55.6902172,
+  "lon": 12.5639074,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "fvst:navnelbnr": "114128",
+    "microbrewery": "yes",
+    "name": "Nørrebro Bryghus Restaurant",
+    "opening_hours": "Mo-Th 12:00-15:00,17:30-22:00; Fr-Sa 12:00-15:00,17:30-23:00",
+    "phone": "+45 35300530",
+    "website": "https://noerrebrobryghus.dk/",
+    "wheelchair": "yes",
+    "wheelchair:description": "Adgang via elevator gennem port. Ingen armstøtte ved toilet",
+    "wikidata": "Q7071526",
+    "wikipedia": "da:Nørrebro Bryghus"
+  }
+},
+{
+  "type": "node",
+  "id": 281787637,
+  "lat": 55.6771072,
+  "lon": 12.5694984,
+  "tags": {
+    "amenity": "pub",
+    "fvst:name": "Brew Pub København, Bryggeri",
+    "fvst:navnelbnr": "116483",
+    "microbrewery": "yes",
+    "name": "Brew Pub",
+    "smoking": "no",
+    "website": "https://brewpub.dk"
+  }
+},
+{
+  "type": "node",
+  "id": 1051706959,
+  "lat": 55.6251824,
+  "lon": 12.5960986,
+  "tags": {
+    "craft": "brewery",
+    "name": "Amager Bryghus",
+    "website": "http://www.amagerbryghus.dk/",
+    "wikidata": "Q4739126",
+    "wikipedia": "da:Amager Bryghus"
+  }
+},
+{
+  "type": "node",
+  "id": 1387412579,
+  "lat": 55.5934080,
+  "lon": 13.0076180,
+  "tags": {
+    "addr:country": "SE",
+    "addr:housenumber": "33",
+    "addr:street": "Bergsgatan",
+    "alt_name": "Malmö Brewing Co",
+    "amenity": "pub",
+    "contact:email": "Boking@malmobrygghus.se",
+    "food": "yes",
+    "internet_access": "no",
+    "microbrewery": "yes",
+    "name": "Malmö Brygghus",
+    "outdoor_seating": "yes",
+    "phone": "+4640209684",
+    "short_name": "Taproom",
+    "smoking": "outside",
+    "website": "www.malmobrygghus.se",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 3898784968,
+  "lat": 55.6685278,
+  "lon": 12.5599599,
+  "tags": {
+    "amenity": "pub",
+    "facebook": "https://www.facebook.com/warpigsbrewpub",
+    "fvst:fixme": "fvst:no_pos",
+    "fvst:navnelbnr": "560424",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "microbrewery": "yes",
+    "name": "Warpigs Brewpub",
+    "opening_hours": "Mo-Th 11:00-00:00; Fr-Sa 11:00-02:00; Su 11:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+45 43484848",
+    "takeaway": "yes",
+    "website": "https://warpigs.dk/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3899145873,
+  "lat": 55.6902048,
+  "lon": 12.5638481,
+  "tags": {
+    "craft": "brewery",
+    "name": "Nørrebro Bryghus Bryggeriet"
+  }
+},
+{
+  "type": "node",
+  "id": 4020316172,
+  "lat": 55.6741194,
+  "lon": 12.5697894,
+  "tags": {
+    "amenity": "bar",
+    "fvst:navnelbnr": "122435",
+    "microbrewery": "yes",
+    "name": "Færgekroen Bryghus Bryggeri"
+  }
+},
+{
+  "type": "node",
+  "id": 4337859993,
+  "lat": 55.6921663,
+  "lon": 12.5561981,
+  "tags": {
+    "amenity": "bar",
+    "microbrewery": "yes",
+    "name": "Brus",
+    "phone": "+45 75222200",
+    "website": "https://tapperietbrus.dk/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4673702481,
+  "lat": 55.6977172,
+  "lon": 12.5468341,
+  "tags": {
+    "amenity": "pub",
+    "fvst:navnelbnr": "696953",
+    "microbrewery": "yes",
+    "name": "Brewers Inc.",
+    "opening_hours": "Tu-Th 17:00-00:00; Fr 14:00-02:00, Sa 13:00-02:00",
+    "website": "https://www.brewersinc.dk/"
+  }
+},
+{
+  "type": "node",
+  "id": 4819022717,
+  "lat": 55.7056895,
+  "lon": 12.5346603,
+  "tags": {
+    "amenity": "bar",
+    "craft": "brewery",
+    "website": "http://www.flyingcouch.dk"
+  }
+},
+{
+  "type": "node",
+  "id": 5125972259,
+  "lat": 55.6923574,
+  "lon": 12.6130843,
+  "tags": {
+    "craft": "brewery",
+    "fvst:name": "Amass Brewing Co.",
+    "fvst:navnelbnr": "709323",
+    "name": "Amass Brewing Company"
+  }
+},
+{
+  "type": "node",
+  "id": 5730583501,
+  "lat": 55.7055585,
+  "lon": 12.5793537,
+  "tags": {
+    "amenity": "bar",
+    "fvst:navnelbnr": "802404",
+    "microbrewery": "yes",
+    "name": "Bicycle Brewing",
+    "opening_hours": "16:00-22:00; Su-We off",
+    "smoking": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6185877739,
+  "lat": 55.7012874,
+  "lon": 12.5510359,
+  "tags": {
+    "addr:city": "København N",
+    "addr:housenumber": "67",
+    "addr:postcode": "2200",
+    "addr:street": "Tagensvej",
+    "amenity": "bar",
+    "email": "Tagensvej67@klintbro.dk",
+    "fvst:navnelbnr": "738789",
+    "microbrewery": "yes",
+    "name": "Klint & Bro",
+    "opening_hours": "We-Sa 15:00-23:00; Su 13:00-20:00",
+    "outdoor_seating": "yes",
+    "website": "https://www.klintbro.dk/"
+  }
+},
+{
+  "type": "node",
+  "id": 6770638323,
+  "lat": 55.6920097,
+  "lon": 12.6128626,
+  "tags": {
+    "craft": "brewery",
+    "fvst:navnelbnr": "763361",
+    "name": "Broaden & Build",
+    "phone": "+45 73708170",
+    "website": "https://broadenbuildcph.com/"
+  }
+}
+
+  ]
+}

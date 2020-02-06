@@ -1,0 +1,955 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-05T22:36:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 240272673,
+  "lat": 51.2215689,
+  "lon": 6.7853536,
+  "tags": {
+    "addr:city": "Düsseldorf",
+    "addr:country": "DE",
+    "addr:housenumber": "123",
+    "addr:postcode": "40210",
+    "addr:street": "Oststraße",
+    "amenity": "pub",
+    "microbrewery": "yes",
+    "name": "Brauhaus Schumacher",
+    "phone": "+49 211 8289020",
+    "website": "https://www.schumacher-alt.de/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 241878204,
+  "lat": 51.2292413,
+  "lon": 6.7926674,
+  "tags": {
+    "addr:city": "Düsseldorf",
+    "addr:country": "DE",
+    "addr:housenumber": "14",
+    "addr:postcode": "40211",
+    "addr:street": "Wielandstraße",
+    "amenity": "pub",
+    "microbrewery": "yes",
+    "name": "Frankenheim",
+    "phone": "+49 211 351447",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 272775824,
+  "lat": 50.9538688,
+  "lon": 6.9107278,
+  "tags": {
+    "amenity": "pub",
+    "description": "Kölns kleinste Brauerei. Gute Küche, nettes Personal, Publikum ca. 30-40. Sehr leckeres selbstgebrautes: Kölsch (Helios), Alt, Weizen, wechselndes \"Spezial-Bier\".",
+    "email": "peter.esser@web.de",
+    "microbrewery": "yes",
+    "name": "Braustelle",
+    "operator": "Mo-Sa 18:00-01:00; Su off",
+    "phone": "+49 221 285 69 32",
+    "toilets:wheelchair": "no",
+    "website": "http://www.braustelle.com",
+    "wheelchair": "no",
+    "wheelchair:description": "Toiletten ebenerdig"
+  }
+},
+{
+  "type": "node",
+  "id": 330832900,
+  "lat": 51.1962484,
+  "lon": 6.6934057,
+  "tags": {
+    "addr:city": "Neuss",
+    "addr:country": "DE",
+    "addr:housenumber": "75-77",
+    "addr:postcode": "41460",
+    "addr:street": "Michaelstraße",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "fax": "+49 2131 1258112",
+    "microbrewery": "yes",
+    "name": "Im Dom",
+    "opening_hours": "Mo-Th 12:00-23:00; Fr 12:00-24:00; Sa 11:00-24:00; Su 11:30-22:00",
+    "operator": "Karl Kehrmann",
+    "phone": "+49 2131 275599",
+    "sport": "shooting",
+    "website": "http://www.imdom.de/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 366839495,
+  "lat": 51.2981763,
+  "lon": 6.8558978,
+  "tags": {
+    "addr:city": "Ratingen",
+    "addr:country": "DE",
+    "addr:housenumber": "15",
+    "addr:postcode": "40878",
+    "addr:street": "Bahnstraße",
+    "amenity": "pub",
+    "cuisine": "german",
+    "microbrewery": "yes",
+    "name": "Ratinger Brauhaus",
+    "website": "http://www.poensgen-gastronomie-ratingen.de/index.php/brauhaus-ratingen",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 454460002,
+  "lat": 51.4304652,
+  "lon": 6.7615016,
+  "tags": {
+    "addr:city": "Duisburg",
+    "addr:country": "DE",
+    "addr:housenumber": "14",
+    "addr:postcode": "47051",
+    "addr:street": "Dellplatz",
+    "amenity": "pub",
+    "craft": "brewery",
+    "name": "Webster",
+    "opening_hours": "Mo-Sa 12:00+; Su 10:30+",
+    "phone": "+49-203-23078",
+    "website": "https://www.webster-brauhaus.de",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 515731769,
+  "lat": 51.1974482,
+  "lon": 6.4099026,
+  "tags": {
+    "addr:city": "Mönchengladbach",
+    "addr:housenumber": "133",
+    "addr:postcode": "41068",
+    "addr:street": "Untere Straße",
+    "amenity": "pub",
+    "microbrewery": "yes",
+    "name": "Hensen-Brauerei",
+    "toilets:wheelchair": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 570203749,
+  "lat": 50.9407362,
+  "lon": 6.9417890,
+  "tags": {
+    "amenity": "restaurant",
+    "microbrewery": "yes",
+    "name": "Brauerei Päffgen",
+    "phone": "+49 221 135461",
+    "toilets:wheelchair": "no",
+    "website": "http://www.paeffgen-koelsch.de/",
+    "wheelchair": "limited",
+    "wikidata": "Q152198",
+    "wikipedia": "de:Päffgen Kölsch"
+  }
+},
+{
+  "type": "node",
+  "id": 623326640,
+  "lat": 51.2790805,
+  "lon": 6.4610268,
+  "tags": {
+    "addr:city": "Willich",
+    "addr:housenumber": "28",
+    "addr:postcode": "47877",
+    "addr:street": "Jakob-Krebs-Straße",
+    "amenity": "restaurant",
+    "cuisine": "german",
+    "microbrewery": "yes",
+    "name": "Hausbrauerei Schmitz-Mönk",
+    "opening_hours": "Mo-Su 00:00-01:00,10:30-14:00,16:00-24:00; Tu 00:00-01:00; We 10:30-14:00,16:00-24:00",
+    "operator": "Willi Schmitz Jun.",
+    "website": "http://www.schmitzmoenk.de/",
+    "wheelchair": "limited",
+    "wheelchair:description": "keine Rollitoilette"
+  }
+},
+{
+  "type": "node",
+  "id": 1510626853,
+  "lat": 51.2269906,
+  "lon": 6.7733538,
+  "tags": {
+    "addr:city": "Düsseldorf",
+    "addr:country": "DE",
+    "addr:housenumber": "18-20",
+    "addr:postcode": "40213",
+    "addr:street": "Kurze Straße",
+    "amenity": "pub",
+    "contact:email": "info@brauerei-kuerzer.de",
+    "contact:fax": "+49 211 32 26 97",
+    "contact:phone": "+49 211 32 26 96",
+    "contact:website": "http://brauerei-kuerzer.de/",
+    "microbrewery": "yes",
+    "name": "Brauerei Kürzer",
+    "toilets:wheelchair": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1577235176,
+  "lat": 51.2261554,
+  "lon": 6.7746397,
+  "tags": {
+    "addr:city": "Düsseldorf",
+    "addr:country": "DE",
+    "addr:housenumber": "45",
+    "addr:postcode": "40213",
+    "addr:street": "Bolkerstraße",
+    "amenity": "pub",
+    "microbrewery": "yes",
+    "name": "Hausbrauerei Zum Schlüssel",
+    "operator": "Familie Gatzweiler",
+    "outdoor_seating": "yes",
+    "phone": "+49 211 8289550",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.zumschluessel.de/",
+    "wheelchair": "yes",
+    "wheelchair:description": "[En: 12cm Step from street, no ramp visible. Accessible WC being used as cleaner's store = unusable July 2018]",
+    "wikidata": "Q900425"
+  }
+},
+{
+  "type": "node",
+  "id": 1577235288,
+  "lat": 51.2295897,
+  "lon": 6.7752925,
+  "tags": {
+    "addr:city": "Düsseldorf",
+    "addr:country": "DE",
+    "addr:housenumber": "28",
+    "addr:postcode": "40213",
+    "addr:street": "Ratinger Straße",
+    "amenity": "pub",
+    "brewery": "Füchschen",
+    "email": "info@fuechschen.de",
+    "fax": "+49 211 1374747",
+    "microbrewery": "yes",
+    "name": "Im Füchschen",
+    "phone": "+49 211 13747 0",
+    "real_ale": "Alt",
+    "toilets:wheelchair": "no",
+    "website": "https://fuechschen.de/",
+    "wheelchair": "limited",
+    "wikidata": "Q152169",
+    "wikipedia": "de:Brauerei im Füchschen"
+  }
+},
+{
+  "type": "node",
+  "id": 1577235313,
+  "lat": 51.2263768,
+  "lon": 6.7750609,
+  "tags": {
+    "addr:city": "Düsseldorf",
+    "addr:country": "DE",
+    "addr:housenumber": "44",
+    "addr:postcode": "40213",
+    "addr:street": "Bolkerstraße",
+    "amenity": "pub",
+    "cuisine": "german;regional",
+    "email": "info@brauerei-schumacher.de",
+    "microbrewery": "yes",
+    "name": "Im Goldenen Kessel",
+    "opening_hours": "Su-Th 10:00-00:00; Fr-Sa 10:00-01:00",
+    "phone": "+49 211 326007",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.schumacher-alt.de/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1710346370,
+  "lat": 51.5234179,
+  "lon": 6.7257304,
+  "tags": {
+    "addr:city": "Duisburg",
+    "addr:housenumber": "109",
+    "addr:postcode": "47179",
+    "addr:street": "Römerstraße",
+    "amenity": "restaurant",
+    "cuisine": "german",
+    "microbrewery": "yes",
+    "name": "Walsumer Brauhaus",
+    "opening_hours": "Mo 11:30-23:00;Tu-Th 11:30-24:00;Fr-Sa 11:30-01:00, Su,PH 10:00-23:00",
+    "phone": "+49 203 9919450",
+    "website": "http://www.walsumer-brauhaus.de",
+    "wheelchair": "limited",
+    "wheelchair:description": "Öffnungszeiten\nMontag: 11:30-23:00\nDienstag: 11:30-24:00\nMittwoch: 11:30-24:00\nDonnerstag: 11:30-24:00\nFreitag: 11:30-01:00\nSamstag: 11:30-01:00\nSonntag: 10:00-23:00"
+  }
+},
+{
+  "type": "node",
+  "id": 1770325350,
+  "lat": 51.2572695,
+  "lon": 7.1392407,
+  "tags": {
+    "amenity": "pub",
+    "check_date": "2019-05-20",
+    "contact:website": "http://www.craftbeer-kiosk.de/",
+    "craft": "brewery",
+    "description": "Craftbeer und hausgemachte Feinkost",
+    "name": "Craft Beer Kiosk",
+    "opening_hours": "We-Sa 16:00-22:00; PH off",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3503765535,
+  "lat": 51.2249806,
+  "lon": 6.7721837,
+  "tags": {
+    "addr:city": "Düsseldorf",
+    "addr:country": "DE",
+    "addr:housenumber": "1",
+    "addr:postcode": "40213",
+    "addr:street": "Berger Straße",
+    "amenity": "restaurant",
+    "craft": "brewery",
+    "cuisine": "regional",
+    "email": "info@uerige.de",
+    "fax": "+49 211 132886",
+    "microbrewery": "yes",
+    "name": "Uerige Hausbrauerei",
+    "opening_hours": "10:00-24:00; Dec 25 off",
+    "operator": "Uerige Obergärige Hausbrauerei GmbH",
+    "phone": "+49 211 86699-0",
+    "real_ale": "Uerige",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.uerige.de/",
+    "wheelchair": "yes",
+    "wikidata": "Q2473656",
+    "wikipedia": "de:Uerige"
+  }
+},
+{
+  "type": "node",
+  "id": 4742840669,
+  "lat": 51.2324686,
+  "lon": 6.7214403,
+  "tags": {
+    "addr:city": "Düsseldorf",
+    "addr:country": "DE",
+    "addr:housenumber": "28",
+    "addr:postcode": "40549",
+    "addr:street": "Nikolaus-Knopp-Platz",
+    "amenity": "pub",
+    "brewery": "Heerdter Schlüssel",
+    "microbrewery": "yes",
+    "name": "Heerdter Gasthaus",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5250235350,
+  "lat": 51.2723889,
+  "lon": 7.2007412,
+  "tags": {
+    "amenity": "pub",
+    "contact:fax": "+49 202 2550525",
+    "contact:phone": "+49 202 255050",
+    "contact:website": "http://www.wuppertalerbrauhaus.de/",
+    "entrance": "main",
+    "image": "File:Barmen-brewery 13.jpg",
+    "microbrewery": "yes",
+    "name": "Wuppertaler Brauhaus",
+    "phone": "+49 202 255050",
+    "smoking": "isolated",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "yes",
+    "wheelchair:description": "Barrierefreier Zugang (Lastenaufzug in den 1. Stock), barrierefreie Toilette vorhanden"
+  }
+},
+{
+  "type": "node",
+  "id": 6064299457,
+  "lat": 51.2211352,
+  "lon": 6.3722816,
+  "tags": {
+    "amenity": "pub",
+    "email": "waldfrieden-viersen@web.de",
+    "microbrewery": "yes",
+    "name": "Haus Waldfrieden",
+    "opening_hours": "Mar-Oct: Fr 16:00-20:00,Sa 09:00-20:00, Su 11:00-19:00",
+    "outdoor_seating": "yes",
+    "phone": "+49 151 57610827"
+  }
+},
+{
+  "type": "node",
+  "id": 6170827856,
+  "lat": 51.2314683,
+  "lon": 6.7468326,
+  "tags": {
+    "addr:city": "Düsseldorf",
+    "addr:country": "DE",
+    "addr:housenumber": "2",
+    "addr:postcode": "40545",
+    "addr:street": "Belsenplatz",
+    "amenity": "pub",
+    "brewery": "Gulasch Alt und Bräu",
+    "contact:email": "info@gulaschbraeu.de",
+    "contact:fax": "+49 211 55789942",
+    "contact:phone": "+49 211 55789941",
+    "contact:website": "http://www.brauhaus-alterbahnhof.de/",
+    "cuisine": "regional",
+    "diet:vegetarian": "limited",
+    "food": "yes",
+    "microbrewery": "yes",
+    "name": "Alter Bahnhof Oberkassel",
+    "opening_hours": "Su-Th 10:00-01:00, Fr-Sa 10:00-02:00",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "toilets": "yes",
+    "toilets:access": "customers",
+    "toilets:wheelchair": "no",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 6553433147,
+  "lat": 51.4322814,
+  "lon": 6.7636159,
+  "tags": {
+    "addr:city": "Duisburg",
+    "addr:country": "DE",
+    "addr:housenumber": "3",
+    "addr:street": "Wallstraße",
+    "contact:facebook": "https://www.facebook.com/pg/BierbudeDuisburg/",
+    "craft": "brewery",
+    "email": "info@bierbude-duisburg.de",
+    "microbrewery": "yes",
+    "name": "Bier Bude",
+    "opening_hours": "Tu-Fr 11:00-19:00, Sa 11:00-17:00",
+    "phone": "+49 1575 8344256",
+    "shop": "beverages",
+    "website": "https://bierbude-duisburg.de/"
+  }
+},
+{
+  "type": "way",
+  "id": 27554657,
+  "nodes": [
+    302500046,
+    302500047,
+    5144127131,
+    302500048,
+    302500049,
+    302500050,
+    302500051,
+    5418887799,
+    5144127099,
+    302500060,
+    302500062,
+    5139013900,
+    5139013909,
+    5144127044,
+    5418944427,
+    302500046
+  ],
+  "tags": {
+    "addr:city": "Essen",
+    "addr:country": "DE",
+    "addr:housename": "Dampfe",
+    "addr:housenumber": "9-15",
+    "addr:postcode": "45355",
+    "addr:street": "Heinrich-Brauns-Straße",
+    "amenity": "restaurant",
+    "building": "yes",
+    "check_date": "2017-05-08",
+    "contact:website": "http://www.dampfe.de/",
+    "cuisine": "german",
+    "diet:gluten_free": "no",
+    "diet:vegan": "no",
+    "diet:vegetarian": "yes",
+    "fair_trade": "no",
+    "microbrewery": "yes",
+    "name": "Dampfbierbrauerei",
+    "opening_hours": "Mo-Th 11:00-23:00, Fr,Sa 11:00-01:00, Su 10:30-23:00",
+    "opening_hours:kitchen": "12:00-22:00",
+    "organic": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 155062919,
+  "nodes": [
+    470536575,
+    2724230315,
+    2724230043,
+    2724230087,
+    2724230275,
+    2724230482,
+    3925972868,
+    470536575
+  ],
+  "tags": {
+    "addr:city": "Dormagen",
+    "addr:country": "DE",
+    "addr:housenumber": "81",
+    "addr:postcode": "41542",
+    "addr:street": "In Ückerath",
+    "amenity": "restaurant",
+    "biergarten": "yes",
+    "brewery:alt": "Schlüssel",
+    "brewery:kölsch": "Sünner",
+    "brewery:landbier": "Böscher",
+    "brewery:malz": "Sünner",
+    "brewery:weizen": "Erdinger",
+    "building": "yes",
+    "contact:email": "info@manes.de",
+    "contact:phone": "+49 2133 91630",
+    "contact:website": "http://www.manes.de/",
+    "cuisine": "international",
+    "delivery": "no",
+    "internet_access": "wlan",
+    "internet_access:operator": "FON",
+    "microbrewery": "yes",
+    "name": "Manes am Bösch",
+    "opening_hours": "Mo-Sa 17:00-24:00; Su 11:30-24:00; Ph 11:30-24:00",
+    "operator": "Boris Orschel; Peter Karrasch",
+    "outdoor_seating": "yes",
+    "smoking:outside": "yes",
+    "takeaway": "no",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "way",
+  "id": 229162828,
+  "nodes": [
+    365319653,
+    2734775492,
+    2734775491,
+    2734775489,
+    2734775488,
+    2734775471,
+    2734775473,
+    2734775475,
+    2734775493,
+    365319653
+  ],
+  "tags": {
+    "addr:city": "Dormagen",
+    "addr:country": "DE",
+    "addr:housenumber": "1",
+    "addr:postcode": "41540",
+    "addr:street": "Klosterallee",
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "regional",
+    "microbrewery": "yes",
+    "name": "Klosterhof Knechtsteden",
+    "opening_hours": "Jan 2-Mar 30: We-Su 11:00+; Mar 31-Dec 29 Mo-Su 11:00+",
+    "outdoor_seating": "yes",
+    "toilets:wheelchair": "no",
+    "website": "http://www.klosterhof-knechtsteden.de",
+    "wheelchair": "limited",
+    "wheelchair:description": "Gastraum ist seitlich links durch den Nebeneingang stufenlos erreichbar - dann gibt es ausreichend Platz auch mit einem Rollstuhl dort zu essen. Im Sommer ist der Biergarten ohnehin barrierefrei erreichbar."
+  }
+},
+{
+  "type": "way",
+  "id": 264841880,
+  "nodes": [
+    2704905245,
+    2704905086,
+    2704905085,
+    2704905040,
+    2704905205,
+    2704905245
+  ],
+  "tags": {
+    "building": "brewery",
+    "old_name": "Brauerei Flock & Gerwers"
+  }
+},
+{
+  "type": "way",
+  "id": 282231258,
+  "nodes": [
+    2861759613,
+    2861754500,
+    2861759601,
+    2861759614,
+    2861759613
+  ],
+  "tags": {
+    "building": "brewery",
+    "building:levels": "2",
+    "roof:shape": "flat"
+  }
+},
+{
+  "type": "way",
+  "id": 282231262,
+  "nodes": [
+    2861759637,
+    2861759617,
+    2861759618,
+    2861759639,
+    2861759637
+  ],
+  "tags": {
+    "building": "brewery",
+    "building:levels": "1",
+    "roof:shape": "flat"
+  }
+},
+{
+  "type": "way",
+  "id": 282231288,
+  "nodes": [
+    2861759684,
+    2861759683,
+    2861759640,
+    2861759642,
+    2861759660,
+    2861759662,
+    2861759687,
+    2861759686,
+    2861759684
+  ],
+  "tags": {
+    "building": "brewery",
+    "building:levels": "2",
+    "roof:shape": "flat"
+  }
+},
+{
+  "type": "node",
+  "id": 2704905040,
+  "lat": 51.1221644,
+  "lon": 6.6854160
+},
+{
+  "type": "node",
+  "id": 2704905085,
+  "lat": 51.1221957,
+  "lon": 6.6853053
+},
+{
+  "type": "node",
+  "id": 2704905086,
+  "lat": 51.1221973,
+  "lon": 6.6853003
+},
+{
+  "type": "node",
+  "id": 2704905205,
+  "lat": 51.1223008,
+  "lon": 6.6855141
+},
+{
+  "type": "node",
+  "id": 2704905245,
+  "lat": 51.1223337,
+  "lon": 6.6853986
+},
+{
+  "type": "node",
+  "id": 2861754500,
+  "lat": 50.9352586,
+  "lon": 6.9415458
+},
+{
+  "type": "node",
+  "id": 2861759601,
+  "lat": 50.9352656,
+  "lon": 6.9416919
+},
+{
+  "type": "node",
+  "id": 2861759613,
+  "lat": 50.9353460,
+  "lon": 6.9415353
+},
+{
+  "type": "node",
+  "id": 2861759614,
+  "lat": 50.9353511,
+  "lon": 6.9416813
+},
+{
+  "type": "node",
+  "id": 2861759617,
+  "lat": 50.9353686,
+  "lon": 6.9422521
+},
+{
+  "type": "node",
+  "id": 2861759618,
+  "lat": 50.9353765,
+  "lon": 6.9424206
+},
+{
+  "type": "node",
+  "id": 2861759637,
+  "lat": 50.9354370,
+  "lon": 6.9422411
+},
+{
+  "type": "node",
+  "id": 2861759639,
+  "lat": 50.9354455,
+  "lon": 6.9424124
+},
+{
+  "type": "node",
+  "id": 2861759640,
+  "lat": 50.9354643,
+  "lon": 6.9419074
+},
+{
+  "type": "node",
+  "id": 2861759642,
+  "lat": 50.9354728,
+  "lon": 6.9420842
+},
+{
+  "type": "node",
+  "id": 2861759660,
+  "lat": 50.9355707,
+  "lon": 6.9420694
+},
+{
+  "type": "node",
+  "id": 2861759662,
+  "lat": 50.9355719,
+  "lon": 6.9421227
+},
+{
+  "type": "node",
+  "id": 2861759683,
+  "lat": 50.9356376,
+  "lon": 6.9418862
+},
+{
+  "type": "node",
+  "id": 2861759684,
+  "lat": 50.9356505,
+  "lon": 6.9418848
+},
+{
+  "type": "node",
+  "id": 2861759686,
+  "lat": 50.9356512,
+  "lon": 6.9418965
+},
+{
+  "type": "node",
+  "id": 2861759687,
+  "lat": 50.9356625,
+  "lon": 6.9421108
+},
+{
+  "type": "node",
+  "id": 365319653,
+  "lat": 51.0764367,
+  "lon": 6.7573668
+},
+{
+  "type": "node",
+  "id": 2734775471,
+  "lat": 51.0763206,
+  "lon": 6.7572712
+},
+{
+  "type": "node",
+  "id": 2734775473,
+  "lat": 51.0763244,
+  "lon": 6.7573256
+},
+{
+  "type": "node",
+  "id": 2734775475,
+  "lat": 51.0763331,
+  "lon": 6.7574502
+},
+{
+  "type": "node",
+  "id": 2734775488,
+  "lat": 51.0764280,
+  "lon": 6.7572523
+},
+{
+  "type": "node",
+  "id": 2734775489,
+  "lat": 51.0764325,
+  "lon": 6.7573169
+},
+{
+  "type": "node",
+  "id": 2734775491,
+  "lat": 51.0764367,
+  "lon": 6.7573162
+},
+{
+  "type": "node",
+  "id": 2734775492,
+  "lat": 51.0764402,
+  "lon": 6.7573662
+},
+{
+  "type": "node",
+  "id": 2734775493,
+  "lat": 51.0764412,
+  "lon": 6.7574312
+},
+{
+  "type": "node",
+  "id": 470536575,
+  "lat": 51.1105923,
+  "lon": 6.7532397
+},
+{
+  "type": "node",
+  "id": 2724230043,
+  "lat": 51.1105038,
+  "lon": 6.7532922
+},
+{
+  "type": "node",
+  "id": 2724230087,
+  "lat": 51.1105124,
+  "lon": 6.7533286
+},
+{
+  "type": "node",
+  "id": 2724230275,
+  "lat": 51.1105500,
+  "lon": 6.7534888
+},
+{
+  "type": "node",
+  "id": 2724230315,
+  "lat": 51.1105594,
+  "lon": 6.7532592
+},
+{
+  "type": "node",
+  "id": 2724230482,
+  "lat": 51.1106385,
+  "lon": 6.7534363
+},
+{
+  "type": "node",
+  "id": 3925972868,
+  "lat": 51.1106163,
+  "lon": 6.7533420
+},
+{
+  "type": "node",
+  "id": 302500046,
+  "lat": 51.4735073,
+  "lon": 6.9468044
+},
+{
+  "type": "node",
+  "id": 302500048,
+  "lat": 51.4728151,
+  "lon": 6.9465752
+},
+{
+  "type": "node",
+  "id": 302500049,
+  "lat": 51.4729523,
+  "lon": 6.9464588
+},
+{
+  "type": "node",
+  "id": 302500050,
+  "lat": 51.4729409,
+  "lon": 6.9464259
+},
+{
+  "type": "node",
+  "id": 302500051,
+  "lat": 51.4731692,
+  "lon": 6.9462288
+},
+{
+  "type": "node",
+  "id": 302500060,
+  "lat": 51.4732411,
+  "lon": 6.9464294
+},
+{
+  "type": "node",
+  "id": 302500062,
+  "lat": 51.4733458,
+  "lon": 6.9463417
+},
+{
+  "type": "node",
+  "id": 5139013900,
+  "lat": 51.4734004,
+  "lon": 6.9465047
+},
+{
+  "type": "node",
+  "id": 5139013909,
+  "lat": 51.4734296,
+  "lon": 6.9465914
+},
+{
+  "type": "node",
+  "id": 5144127044,
+  "lat": 51.4734352,
+  "lon": 6.9465865
+},
+{
+  "type": "node",
+  "id": 5144127099,
+  "lat": 51.4732206,
+  "lon": 6.9463723
+},
+{
+  "type": "node",
+  "id": 5418887799,
+  "lat": 51.4732073,
+  "lon": 6.9463351
+},
+{
+  "type": "node",
+  "id": 5418944427,
+  "lat": 51.4734646,
+  "lon": 6.9466755
+},
+{
+  "type": "node",
+  "id": 302500047,
+  "lat": 51.4730284,
+  "lon": 6.9472188
+},
+{
+  "type": "node",
+  "id": 5144127131,
+  "lat": 51.4729102,
+  "lon": 6.9468617
+}
+
+  ]
+}

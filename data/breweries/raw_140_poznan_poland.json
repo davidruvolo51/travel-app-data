@@ -1,0 +1,218 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T01:21:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1224909971,
+  "lat": 52.3524663,
+  "lon": 16.5196521,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "microbrewery": "yes",
+    "name": "Pokusa",
+    "source": "OSM",
+    "website": "http://www.pokusa.eu/kontakt.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4631907716,
+  "lat": 52.3992665,
+  "lon": 16.8957936,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "26",
+    "addr:postcode": "60-751",
+    "addr:street": "Stanisława Wyspiańskiego",
+    "amenity": "pub",
+    "cuisine": "polish",
+    "microbrewery": "yes",
+    "name": "Ułan Browar",
+    "opening_hours": "Mo-Su,PH 12:00-24:00",
+    "start_date": "2016",
+    "website": "https://cityparkhotel.pl/pl/ulan-browar/"
+  }
+},
+{
+  "type": "node",
+  "id": 6525542573,
+  "lat": 52.4080460,
+  "lon": 16.9324444,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "73-74",
+    "addr:postcode": "61-772",
+    "addr:street": "Stary Rynek",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "cuisine": "international",
+    "description": "godziny otwarcia:\nbar: 10:00-02:00; restauracja: Mo-Sa 12:00-23:00, Su 12:00-22:00",
+    "microbrewery": "yes",
+    "name": "Brovaria",
+    "opening_hours": "10:00-02:00",
+    "outdoor_seating": "yes",
+    "start_date": "2004",
+    "website": "https://brovaria.pl"
+  }
+},
+{
+  "type": "way",
+  "id": 331288710,
+  "nodes": [
+    3396054485,
+    3396054489,
+    3396054486,
+    3396054492,
+    3396054484,
+    3396054483,
+    3396054479,
+    3396054478,
+    3396054475,
+    3396054472,
+    3396054477,
+    3396054476,
+    3396054487,
+    3396054488,
+    3396054494,
+    3396054491,
+    3396054503,
+    3396054506,
+    3396054504,
+    3396054508,
+    3396054485
+  ],
+  "tags": {
+    "building": "yes",
+    "craft": "brewery"
+  }
+},
+{
+  "type": "node",
+  "id": 3396054472,
+  "lat": 52.5945590,
+  "lon": 17.1981316
+},
+{
+  "type": "node",
+  "id": 3396054475,
+  "lat": 52.5945829,
+  "lon": 17.1980471
+},
+{
+  "type": "node",
+  "id": 3396054476,
+  "lat": 52.5945892,
+  "lon": 17.1982451
+},
+{
+  "type": "node",
+  "id": 3396054477,
+  "lat": 52.5946102,
+  "lon": 17.1981708
+},
+{
+  "type": "node",
+  "id": 3396054478,
+  "lat": 52.5946345,
+  "lon": 17.1980867
+},
+{
+  "type": "node",
+  "id": 3396054479,
+  "lat": 52.5946377,
+  "lon": 17.1980756
+},
+{
+  "type": "node",
+  "id": 3396054483,
+  "lat": 52.5947021,
+  "lon": 17.1981250
+},
+{
+  "type": "node",
+  "id": 3396054484,
+  "lat": 52.5947643,
+  "lon": 17.1979053
+},
+{
+  "type": "node",
+  "id": 3396054485,
+  "lat": 52.5947809,
+  "lon": 17.1981856
+},
+{
+  "type": "node",
+  "id": 3396054486,
+  "lat": 52.5947869,
+  "lon": 17.1980729
+},
+{
+  "type": "node",
+  "id": 3396054487,
+  "lat": 52.5947978,
+  "lon": 17.1984051
+},
+{
+  "type": "node",
+  "id": 3396054488,
+  "lat": 52.5948002,
+  "lon": 17.1983965
+},
+{
+  "type": "node",
+  "id": 3396054489,
+  "lat": 52.5948082,
+  "lon": 17.1980892
+},
+{
+  "type": "node",
+  "id": 3396054491,
+  "lat": 52.5948203,
+  "lon": 17.1984426
+},
+{
+  "type": "node",
+  "id": 3396054492,
+  "lat": 52.5948218,
+  "lon": 17.1979494
+},
+{
+  "type": "node",
+  "id": 3396054494,
+  "lat": 52.5948274,
+  "lon": 17.1984173
+},
+{
+  "type": "node",
+  "id": 3396054503,
+  "lat": 52.5949171,
+  "lon": 17.1985169
+},
+{
+  "type": "node",
+  "id": 3396054504,
+  "lat": 52.5949364,
+  "lon": 17.1984093
+},
+{
+  "type": "node",
+  "id": 3396054506,
+  "lat": 52.5949455,
+  "lon": 17.1984163
+},
+{
+  "type": "node",
+  "id": 3396054508,
+  "lat": 52.5949607,
+  "lon": 17.1983235
+}
+
+  ]
+}

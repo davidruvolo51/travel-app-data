@@ -1,0 +1,1071 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-05T23:34:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 282719544,
+  "lat": 48.3780823,
+  "lon": 10.0934846,
+  "tags": {
+    "addr:city": "Holzheim-Neuhausen",
+    "addr:housenumber": "2",
+    "addr:postcode": "89291",
+    "addr:street": "Hohlgasse",
+    "amenity": "restaurant",
+    "contact:email": "baerenwirt@baerenbraeu-neuhausen.de",
+    "contact:fax": "+49 7302 6736",
+    "contact:phone": "+49 7302 3113",
+    "contact:website": "http://www.baerig-gut.de/",
+    "cuisine": "regional",
+    "microbrewery": "yes",
+    "name": "Bärenwirt Neuhausen",
+    "opening_hours": "Tu-Su 11:00-23:00",
+    "operator": "Peter Stephan",
+    "outdoor_seating": "yes",
+    "toilets:wheelchair": "no",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 334516779,
+  "lat": 48.2654583,
+  "lon": 10.2209273,
+  "tags": {
+    "addr:city": "Meßhofen",
+    "addr:housenumber": "24",
+    "addr:postcode": "89297",
+    "addr:street": "Illertisser Straße",
+    "amenity": "restaurant",
+    "cuisine": "german",
+    "microbrewery": "yes",
+    "name": "Brauerei Kolb",
+    "phone": "+49 7300-301",
+    "website": "http://www.brauerei-kolb.de"
+  }
+},
+{
+  "type": "node",
+  "id": 438205400,
+  "lat": 48.3988800,
+  "lon": 10.0057110,
+  "tags": {
+    "addr:city": "Neu-Ulm",
+    "addr:country": "DE",
+    "addr:housenumber": "4",
+    "addr:postcode": "89231",
+    "addr:street": "Paulstraße",
+    "amenity": "restaurant",
+    "delivery": "no",
+    "fax": "+49 731 9744820",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "microbrewery": "yes",
+    "name": "Barfüßer Neu-Ulm",
+    "opening_hours": "Mo-Fr 11:00-24:00; Sa-Su 00:00-01:00,11:00-24:00",
+    "operator": "Barfüßer Gastronomie-Betriebs GmbH & Co. KG",
+    "outdoor_seating": "yes",
+    "phone": "+49 731 974480",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.barfuesser-brauhaus.de/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 812181396,
+  "lat": 48.3646968,
+  "lon": 10.2544745,
+  "tags": {
+    "addr:city": "Ichenhausen",
+    "addr:housenumber": "2",
+    "addr:postcode": "89335",
+    "addr:street": "Hopfengartenweg",
+    "addr:suburb": "Autenried",
+    "amenity": "restaurant",
+    "cuisine": "german",
+    "microbrewery": "yes",
+    "name": "Autenrieder Brauereigasthof",
+    "phone": "+49 8223 9684 40",
+    "toilets:wheelchair": "yes",
+    "tourism": "hotel",
+    "website": "https://brauereigasthof-autenried.de/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 971085304,
+  "lat": 48.2654447,
+  "lon": 10.4448911,
+  "tags": {
+    "addr:city": "Ursberg",
+    "addr:housenumber": "2",
+    "addr:postcode": "86513",
+    "addr:street": "Dominikus-Ringeisen-Straße",
+    "amenity": "restaurant",
+    "cuisine": "german",
+    "microbrewery": "yes",
+    "name": "Klosterbräuhaus Ursberg",
+    "website": "https://klosterbraeuhaus.de/restaurant.html",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 4902458021,
+  "lat": 48.3976570,
+  "lon": 9.9938592,
+  "tags": {
+    "addr:city": "Ulm",
+    "addr:housenumber": "87-89",
+    "addr:postcode": "89073",
+    "addr:street": "Neue Straße",
+    "amenity": "restaurant",
+    "contact:phone": "+49 731 60265615",
+    "contact:website": "http://www.barfuesser-brauhaus.de",
+    "cuisine": "german",
+    "microbrewery": "yes",
+    "name": "Barfüßer",
+    "opening_hours": "Mo-Th, Su, PH 09:00-01:00; Fr, Sa 09:00-02:00",
+    "opening_hours:kitchen": "11:30-23:00",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 27387203,
+  "nodes": [
+    300646022,
+    300646024,
+    300646042,
+    300646028,
+    300646030,
+    300646034,
+    300646038,
+    300646040,
+    300646022
+  ],
+  "tags": {
+    "craft": "brewery",
+    "landuse": "industrial",
+    "name": "Königsbräu"
+  }
+},
+{
+  "type": "way",
+  "id": 46933274,
+  "nodes": [
+    599055787,
+    599055793,
+    599055785,
+    599055788,
+    599055787
+  ],
+  "tags": {
+    "addr:city": "Nattheim",
+    "addr:country": "DE",
+    "addr:housenumber": "11",
+    "addr:postcode": "89564",
+    "addr:street": "Hauptstraße",
+    "building": "brewery",
+    "craft": "brewery",
+    "industrial": "brewery",
+    "man_made": "works",
+    "name": "Brauerei Schlumberger",
+    "product": "beer"
+  }
+},
+{
+  "type": "way",
+  "id": 87406257,
+  "nodes": [
+    1016356036,
+    1016355903,
+    1018177837,
+    2091335558,
+    2091335528,
+    2091335546,
+    2091335562,
+    2091335573,
+    2091335574,
+    2091335599,
+    2091335590,
+    1016355601,
+    1016355955,
+    1016355987,
+    1016355798,
+    2091335555,
+    2091335553,
+    1016355697,
+    2091335513,
+    2091335491,
+    2091335512,
+    1016356073,
+    1016356170,
+    1016355935,
+    1016356036
+  ],
+  "tags": {
+    "addr:city": "Thannhausen",
+    "addr:country": "DE",
+    "addr:postcode": "86470",
+    "addr:street": "Schreieggstraße",
+    "building": "brewery",
+    "craft": "brewery",
+    "man_made": "works"
+  }
+},
+{
+  "type": "way",
+  "id": 123563469,
+  "nodes": [
+    828859870,
+    1377465891,
+    1377465900,
+    1377465899,
+    1377465905,
+    1377465906,
+    1377465903,
+    1377465901,
+    1377465878,
+    1377465877,
+    828859891,
+    828859870
+  ],
+  "tags": {
+    "addr:city": "Neu-Ulm",
+    "addr:country": "DE",
+    "addr:housenumber": "3",
+    "addr:postcode": "89231",
+    "addr:street": "Schlößleweg",
+    "amenity": "restaurant",
+    "brewery": "Schlössle Craftbeer",
+    "building": "yes",
+    "cuisine": "regional",
+    "description": "Juni-August + Dezember mittwochs ab 17h geöffnet.",
+    "email": "kontakt@schloessle.com",
+    "fax": "+49 731 9727557",
+    "microbrewery": "yes",
+    "name": "Schlössle",
+    "note": "Juni-August + Dezember mittwochs ab 17h geöffnet.",
+    "opening_hours": "Mo-Su 10:30-24:00; We off",
+    "operator": "Brauerei & Gasthof Schlössle",
+    "phone": "+49 731 77390",
+    "smoking": "outside",
+    "website": "http://schloessle-bier.de/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 129879635,
+  "nodes": [
+    1432178330,
+    1432178322,
+    1432178314,
+    1432178316,
+    1432178330
+  ],
+  "tags": {
+    "building": "brewery"
+  }
+},
+{
+  "type": "way",
+  "id": 129879708,
+  "nodes": [
+    1432178394,
+    1432178346,
+    1432178349,
+    1432178333,
+    1432178340,
+    1432178352,
+    1432178351,
+    1432178417,
+    1432178394
+  ],
+  "tags": {
+    "addr:city": "Günzburg",
+    "addr:housenumber": "8",
+    "addr:postcode": "89312",
+    "addr:street": "Peter-Henlein-Straße",
+    "building": "brewery",
+    "name": "Radbrauerei Gebr. Bucher GmbH & Co. KG",
+    "website": "https://www.guenzburger-weizen.de/"
+  }
+},
+{
+  "type": "way",
+  "id": 222954514,
+  "nodes": [
+    2318962366,
+    2318962351,
+    2318962335,
+    2318962318,
+    2318962329,
+    2318962324,
+    2318962337,
+    2318962332,
+    2318962343,
+    2318962342,
+    2318962354,
+    2318962364,
+    2318962383,
+    2318962407,
+    2318962397,
+    2318962406,
+    2318962366
+  ],
+  "tags": {
+    "addr:city": "Neu-Ulm",
+    "addr:country": "DE",
+    "addr:housenumber": "4",
+    "addr:postcode": "89233",
+    "addr:street": "Dorfstraße",
+    "addr:suburb": "Finningen",
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "regional",
+    "email": "info@hirsch-nu.de",
+    "fax": "+49 731 / 9707474",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "microbrewery": "yes",
+    "name": "Landgasthof Hirsch",
+    "operator": "Hotel- und Landgasthof Hirsch",
+    "phone": "+49 731 / 970744",
+    "smoking": "no",
+    "stars": "4",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.hirsch-nu.de/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 267936447,
+  "nodes": [
+    2733259865,
+    2733259866,
+    2733259867,
+    2733259869,
+    2733259868,
+    4405015528,
+    4405015529,
+    2733259864,
+    2733259865
+  ],
+  "tags": {
+    "addr:housenumber": "2",
+    "addr:postcode": "86877",
+    "addr:street": "Grimoldsrieder Straße",
+    "building": "manufacture",
+    "craft": "brewery",
+    "name": "Staudenbräu Schorer",
+    "shop": "beverages"
+  }
+},
+{
+  "type": "way",
+  "id": 388200773,
+  "nodes": [
+    3914233661,
+    3914233662,
+    3914233663,
+    3914233664,
+    3914233665,
+    3914233769,
+    3914233666,
+    3914233768,
+    3914233667,
+    3914233668,
+    3914233669,
+    3914233670,
+    3914233661
+  ],
+  "tags": {
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Bärenbräu",
+    "product": "beer",
+    "shop": "alcohol"
+  }
+},
+{
+  "type": "way",
+  "id": 595776206,
+  "nodes": [
+    5677355206,
+    5677355203,
+    5677355207,
+    5677355208,
+    5677355209,
+    5677355210,
+    5677355214,
+    5677355215,
+    5677355216,
+    5677355213,
+    5677355212,
+    5677355211,
+    5677355206
+  ],
+  "tags": {
+    "building": "commercial",
+    "craft": "brewery"
+  }
+},
+{
+  "type": "node",
+  "id": 828859870,
+  "lat": 48.4030120,
+  "lon": 10.0200350
+},
+{
+  "type": "node",
+  "id": 828859891,
+  "lat": 48.4029118,
+  "lon": 10.0200639
+},
+{
+  "type": "node",
+  "id": 1377465877,
+  "lat": 48.4029532,
+  "lon": 10.0203285
+},
+{
+  "type": "node",
+  "id": 1377465878,
+  "lat": 48.4029686,
+  "lon": 10.0204266
+},
+{
+  "type": "node",
+  "id": 1377465891,
+  "lat": 48.4030525,
+  "lon": 10.0203113
+},
+{
+  "type": "node",
+  "id": 1377465899,
+  "lat": 48.4031402,
+  "lon": 10.0202048
+},
+{
+  "type": "node",
+  "id": 1377465900,
+  "lat": 48.4031459,
+  "lon": 10.0202949
+},
+{
+  "type": "node",
+  "id": 1377465901,
+  "lat": 48.4031520,
+  "lon": 10.0203948
+},
+{
+  "type": "node",
+  "id": 1377465903,
+  "lat": 48.4031547,
+  "lon": 10.0204327
+},
+{
+  "type": "node",
+  "id": 1377465905,
+  "lat": 48.4032421,
+  "lon": 10.0201901
+},
+{
+  "type": "node",
+  "id": 1377465906,
+  "lat": 48.4032564,
+  "lon": 10.0204180
+},
+{
+  "type": "node",
+  "id": 2733259864,
+  "lat": 48.2260706,
+  "lon": 10.5921424
+},
+{
+  "type": "node",
+  "id": 2733259865,
+  "lat": 48.2261294,
+  "lon": 10.5923210
+},
+{
+  "type": "node",
+  "id": 2733259866,
+  "lat": 48.2263845,
+  "lon": 10.5921320
+},
+{
+  "type": "node",
+  "id": 2733259867,
+  "lat": 48.2263605,
+  "lon": 10.5920590
+},
+{
+  "type": "node",
+  "id": 2733259868,
+  "lat": 48.2263398,
+  "lon": 10.5918657
+},
+{
+  "type": "node",
+  "id": 2733259869,
+  "lat": 48.2263950,
+  "lon": 10.5920335
+},
+{
+  "type": "node",
+  "id": 4405015528,
+  "lat": 48.2261795,
+  "lon": 10.5919845
+},
+{
+  "type": "node",
+  "id": 4405015529,
+  "lat": 48.2261999,
+  "lon": 10.5920466
+},
+{
+  "type": "node",
+  "id": 3914233661,
+  "lat": 48.3782746,
+  "lon": 10.0932587
+},
+{
+  "type": "node",
+  "id": 3914233662,
+  "lat": 48.3783352,
+  "lon": 10.0934620
+},
+{
+  "type": "node",
+  "id": 3914233663,
+  "lat": 48.3782414,
+  "lon": 10.0935253
+},
+{
+  "type": "node",
+  "id": 3914233664,
+  "lat": 48.3782502,
+  "lon": 10.0935548
+},
+{
+  "type": "node",
+  "id": 3914233665,
+  "lat": 48.3781743,
+  "lon": 10.0936062
+},
+{
+  "type": "node",
+  "id": 3914233666,
+  "lat": 48.3781406,
+  "lon": 10.0934932
+},
+{
+  "type": "node",
+  "id": 3914233667,
+  "lat": 48.3781883,
+  "lon": 10.0934609
+},
+{
+  "type": "node",
+  "id": 3914233668,
+  "lat": 48.3781750,
+  "lon": 10.0934160
+},
+{
+  "type": "node",
+  "id": 3914233669,
+  "lat": 48.3781995,
+  "lon": 10.0933994
+},
+{
+  "type": "node",
+  "id": 3914233670,
+  "lat": 48.3781772,
+  "lon": 10.0933245
+},
+{
+  "type": "node",
+  "id": 3914233768,
+  "lat": 48.3781550,
+  "lon": 10.0934835
+},
+{
+  "type": "node",
+  "id": 3914233769,
+  "lat": 48.3781663,
+  "lon": 10.0935796
+},
+{
+  "type": "node",
+  "id": 2318962318,
+  "lat": 48.3836863,
+  "lon": 10.0768713
+},
+{
+  "type": "node",
+  "id": 2318962324,
+  "lat": 48.3836993,
+  "lon": 10.0769237
+},
+{
+  "type": "node",
+  "id": 2318962329,
+  "lat": 48.3837110,
+  "lon": 10.0769029
+},
+{
+  "type": "node",
+  "id": 2318962332,
+  "lat": 48.3837210,
+  "lon": 10.0769993
+},
+{
+  "type": "node",
+  "id": 2318962335,
+  "lat": 48.3837312,
+  "lon": 10.0767914
+},
+{
+  "type": "node",
+  "id": 2318962337,
+  "lat": 48.3837367,
+  "lon": 10.0769714
+},
+{
+  "type": "node",
+  "id": 2318962342,
+  "lat": 48.3837428,
+  "lon": 10.0770523
+},
+{
+  "type": "node",
+  "id": 2318962343,
+  "lat": 48.3837511,
+  "lon": 10.0770376
+},
+{
+  "type": "node",
+  "id": 2318962351,
+  "lat": 48.3837644,
+  "lon": 10.0768336
+},
+{
+  "type": "node",
+  "id": 2318962354,
+  "lat": 48.3837707,
+  "lon": 10.0770878
+},
+{
+  "type": "node",
+  "id": 2318962364,
+  "lat": 48.3837950,
+  "lon": 10.0771187
+},
+{
+  "type": "node",
+  "id": 2318962366,
+  "lat": 48.3838023,
+  "lon": 10.0767660
+},
+{
+  "type": "node",
+  "id": 2318962383,
+  "lat": 48.3838589,
+  "lon": 10.0772001
+},
+{
+  "type": "node",
+  "id": 2318962397,
+  "lat": 48.3839014,
+  "lon": 10.0770005
+},
+{
+  "type": "node",
+  "id": 2318962406,
+  "lat": 48.3839368,
+  "lon": 10.0769374
+},
+{
+  "type": "node",
+  "id": 2318962407,
+  "lat": 48.3839420,
+  "lon": 10.0770523
+},
+{
+  "type": "node",
+  "id": 1016355601,
+  "lat": 48.2836066,
+  "lon": 10.4746521
+},
+{
+  "type": "node",
+  "id": 1016355697,
+  "lat": 48.2829433,
+  "lon": 10.4740287
+},
+{
+  "type": "node",
+  "id": 1016355798,
+  "lat": 48.2832574,
+  "lon": 10.4749747
+},
+{
+  "type": "node",
+  "id": 1016355903,
+  "lat": 48.2830900,
+  "lon": 10.4738987
+},
+{
+  "type": "node",
+  "id": 1016355935,
+  "lat": 48.2829464,
+  "lon": 10.4737221
+},
+{
+  "type": "node",
+  "id": 1016355955,
+  "lat": 48.2834343,
+  "lon": 10.4747629
+},
+{
+  "type": "node",
+  "id": 1016355987,
+  "lat": 48.2834535,
+  "lon": 10.4748603
+},
+{
+  "type": "node",
+  "id": 1016356036,
+  "lat": 48.2830266,
+  "lon": 10.4736742
+},
+{
+  "type": "node",
+  "id": 1016356073,
+  "lat": 48.2825787,
+  "lon": 10.4732969
+},
+{
+  "type": "node",
+  "id": 1016356170,
+  "lat": 48.2826578,
+  "lon": 10.4731968
+},
+{
+  "type": "node",
+  "id": 1018177837,
+  "lat": 48.2832524,
+  "lon": 10.4737972
+},
+{
+  "type": "node",
+  "id": 2091335491,
+  "lat": 48.2827930,
+  "lon": 10.4738204
+},
+{
+  "type": "node",
+  "id": 2091335512,
+  "lat": 48.2828634,
+  "lon": 10.4737803
+},
+{
+  "type": "node",
+  "id": 2091335513,
+  "lat": 48.2828691,
+  "lon": 10.4740692
+},
+{
+  "type": "node",
+  "id": 2091335528,
+  "lat": 48.2829491,
+  "lon": 10.4730738
+},
+{
+  "type": "node",
+  "id": 2091335546,
+  "lat": 48.2830538,
+  "lon": 10.4729680
+},
+{
+  "type": "node",
+  "id": 2091335553,
+  "lat": 48.2831216,
+  "lon": 10.4746319
+},
+{
+  "type": "node",
+  "id": 2091335555,
+  "lat": 48.2831479,
+  "lon": 10.4746176
+},
+{
+  "type": "node",
+  "id": 2091335558,
+  "lat": 48.2831894,
+  "lon": 10.4735585
+},
+{
+  "type": "node",
+  "id": 2091335562,
+  "lat": 48.2832841,
+  "lon": 10.4734342
+},
+{
+  "type": "node",
+  "id": 2091335573,
+  "lat": 48.2833679,
+  "lon": 10.4737231
+},
+{
+  "type": "node",
+  "id": 2091335574,
+  "lat": 48.2833827,
+  "lon": 10.4737165
+},
+{
+  "type": "node",
+  "id": 2091335590,
+  "lat": 48.2835228,
+  "lon": 10.4743495
+},
+{
+  "type": "node",
+  "id": 2091335599,
+  "lat": 48.2835646,
+  "lon": 10.4743209
+},
+{
+  "type": "node",
+  "id": 1432178314,
+  "lat": 48.4736299,
+  "lon": 10.2747726
+},
+{
+  "type": "node",
+  "id": 1432178316,
+  "lat": 48.4736657,
+  "lon": 10.2742854
+},
+{
+  "type": "node",
+  "id": 1432178322,
+  "lat": 48.4738171,
+  "lon": 10.2748040
+},
+{
+  "type": "node",
+  "id": 1432178330,
+  "lat": 48.4738530,
+  "lon": 10.2743168
+},
+{
+  "type": "node",
+  "id": 1432178333,
+  "lat": 48.4738815,
+  "lon": 10.2749993
+},
+{
+  "type": "node",
+  "id": 1432178340,
+  "lat": 48.4739505,
+  "lon": 10.2740673
+},
+{
+  "type": "node",
+  "id": 1432178346,
+  "lat": 48.4739643,
+  "lon": 10.2751946
+},
+{
+  "type": "node",
+  "id": 1432178349,
+  "lat": 48.4739776,
+  "lon": 10.2750154
+},
+{
+  "type": "node",
+  "id": 1432178351,
+  "lat": 48.4741560,
+  "lon": 10.2741353
+},
+{
+  "type": "node",
+  "id": 1432178352,
+  "lat": 48.4741585,
+  "lon": 10.2741023
+},
+{
+  "type": "node",
+  "id": 1432178394,
+  "lat": 48.4744772,
+  "lon": 10.2752811
+},
+{
+  "type": "node",
+  "id": 1432178417,
+  "lat": 48.4745570,
+  "lon": 10.2742028
+},
+{
+  "type": "node",
+  "id": 5677355203,
+  "lat": 48.6261347,
+  "lon": 10.2441287
+},
+{
+  "type": "node",
+  "id": 5677355206,
+  "lat": 48.6261840,
+  "lon": 10.2441255
+},
+{
+  "type": "node",
+  "id": 5677355207,
+  "lat": 48.6261326,
+  "lon": 10.2440539
+},
+{
+  "type": "node",
+  "id": 5677355208,
+  "lat": 48.6260488,
+  "lon": 10.2440592
+},
+{
+  "type": "node",
+  "id": 5677355209,
+  "lat": 48.6260559,
+  "lon": 10.2443139
+},
+{
+  "type": "node",
+  "id": 5677355210,
+  "lat": 48.6259611,
+  "lon": 10.2443200
+},
+{
+  "type": "node",
+  "id": 5677355211,
+  "lat": 48.6261935,
+  "lon": 10.2444658
+},
+{
+  "type": "node",
+  "id": 5677355212,
+  "lat": 48.6261504,
+  "lon": 10.2444686
+},
+{
+  "type": "node",
+  "id": 5677355213,
+  "lat": 48.6261563,
+  "lon": 10.2446793
+},
+{
+  "type": "node",
+  "id": 5677355214,
+  "lat": 48.6259632,
+  "lon": 10.2443961
+},
+{
+  "type": "node",
+  "id": 5677355215,
+  "lat": 48.6258287,
+  "lon": 10.2444047
+},
+{
+  "type": "node",
+  "id": 5677355216,
+  "lat": 48.6258370,
+  "lon": 10.2446997
+},
+{
+  "type": "node",
+  "id": 300646030,
+  "lat": 48.6703206,
+  "lon": 10.2362117
+},
+{
+  "type": "node",
+  "id": 300646034,
+  "lat": 48.6699665,
+  "lon": 10.2362794
+},
+{
+  "type": "node",
+  "id": 300646038,
+  "lat": 48.6698571,
+  "lon": 10.2362051
+},
+{
+  "type": "node",
+  "id": 300646040,
+  "lat": 48.6692612,
+  "lon": 10.2348472
+},
+{
+  "type": "node",
+  "id": 300646022,
+  "lat": 48.6704572,
+  "lon": 10.2345523
+},
+{
+  "type": "node",
+  "id": 300646024,
+  "lat": 48.6705705,
+  "lon": 10.2352770
+},
+{
+  "type": "node",
+  "id": 300646028,
+  "lat": 48.6707326,
+  "lon": 10.2360629
+},
+{
+  "type": "node",
+  "id": 300646042,
+  "lat": 48.6706876,
+  "lon": 10.2357155
+},
+{
+  "type": "node",
+  "id": 599055785,
+  "lat": 48.6980546,
+  "lon": 10.2410125
+},
+{
+  "type": "node",
+  "id": 599055787,
+  "lat": 48.6985114,
+  "lon": 10.2404096
+},
+{
+  "type": "node",
+  "id": 599055788,
+  "lat": 48.6983262,
+  "lon": 10.2401761
+},
+{
+  "type": "node",
+  "id": 599055793,
+  "lat": 48.6982451,
+  "lon": 10.2411917
+}
+
+  ]
+}

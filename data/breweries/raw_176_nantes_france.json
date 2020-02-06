@@ -1,0 +1,329 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T08:30:03Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1776401875,
+  "lat": 47.3104079,
+  "lon": -1.5076158,
+  "tags": {
+    "addr:housenumber": "54",
+    "addr:postcode": "44470",
+    "craft": "brewery",
+    "name": "La Brasserie du Bouffay",
+    "phone": "+33 2 40 52 76 16",
+    "source": "Nantes Métropole 11/2011",
+    "website": "https://www.brasserie-du-bouffay.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 1815618992,
+  "lat": 47.2576709,
+  "lon": -1.6607728,
+  "tags": {
+    "addr:city": "Sautron",
+    "addr:housenumber": "18",
+    "addr:postcode": "44880",
+    "addr:street": "Rue du Moulin",
+    "craft": "brewery",
+    "email": "salut@aerofab.fr",
+    "name": "Brasserie AERoFAB",
+    "opening_hours": "Th-Fr 18:00-21:00",
+    "phone": "+33 7 70 02 09 09",
+    "product": "beer",
+    "website": "http://aerofab.fr/"
+  }
+},
+{
+  "type": "node",
+  "id": 3392551911,
+  "lat": 47.4321190,
+  "lon": -1.2275050,
+  "tags": {
+    "addr:city": "Mésanger",
+    "addr:housenumber": "235",
+    "addr:postcode": "44522",
+    "addr:street": "Avenue des Chênes",
+    "craft": "brewery",
+    "name": "L'Incontournable"
+  }
+},
+{
+  "type": "node",
+  "id": 3405659158,
+  "lat": 47.3466492,
+  "lon": -1.2859310,
+  "tags": {
+    "addr:housenumber": "6",
+    "amenity": "restaurant",
+    "craft": "brewery",
+    "name": "Bistrot le 6 Sous",
+    "phone": "+33 2 40 96 03 37"
+  }
+},
+{
+  "type": "node",
+  "id": 3455451607,
+  "lat": 47.2983543,
+  "lon": -1.4925261,
+  "tags": {
+    "addr:housenumber": "21",
+    "addr:street": "Rue des Halles",
+    "amenity": "restaurant",
+    "cuisine": "french",
+    "microbrewery": "yes",
+    "name": "L'Authentique",
+    "opening_hours": "Tu-Sa 09:30-19:15; Su 09:30-12:30",
+    "outdoor_seating": "yes",
+    "shop": "deli",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3557670116,
+  "lat": 47.2254266,
+  "lon": -1.5438625,
+  "tags": {
+    "contact:phone": "+33 6 33 01 56 63",
+    "contact:website": "http://www.lesbieresdecharlotte.fr",
+    "craft": "brewery",
+    "name": "Les bières de Charlotte",
+    "opening_hours": "Th,Fr 17:30-19:30",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 4066680344,
+  "lat": 47.2159569,
+  "lon": -1.5339198,
+  "tags": {
+    "addr:housenumber": "5",
+    "addr:street": "Mail Pablo Picasso",
+    "amenity": "restaurant",
+    "contact:facebook": "https://www.facebook.com/lesbrassesnantes",
+    "contact:phone": "+33 228293101",
+    "contact:website": "http://lesbrasses.fr",
+    "cuisine": "french",
+    "microbrewery": "yes",
+    "name": "Les Brassés",
+    "opening_hours": "Mo-We 12:00-24:00, Th-Sa 12:00-02:00, Su 12:00-15:00",
+    "outdoor_seating": "yes",
+    "smoking": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4321343189,
+  "lat": 47.2067707,
+  "lon": -1.5547800,
+  "tags": {
+    "amenity": "bar",
+    "contact:facebook": "https://www.facebook.com/bubarnantes",
+    "contact:phone": "+33 9 81 19 77 05",
+    "description": "Bières artisanale, microbrasserie, bar et boutique",
+    "fixme": "Horaires à vérifier sur place",
+    "microbrewery": "yes",
+    "name": "Bubar",
+    "opening_hours": "Mo-We 17:00-24:00; Th-Sa 17:00-02:00",
+    "survey:date": "2019-01-03",
+    "wheelchair": "yes",
+    "wheelchair:description": "Le bar est accessible à savoir qu'il y a une petite marche de 5 cm à l'entrée, que les wc sont de plein pied accessible mais pas adapté et assez étroit pour manoeuvrer"
+  }
+},
+{
+  "type": "node",
+  "id": 4951131318,
+  "lat": 47.2852197,
+  "lon": -1.4850470,
+  "tags": {
+    "addr:city": "Carquefou",
+    "addr:housenumber": "21",
+    "addr:postcode": "44470",
+    "addr:street": "Allée du Bois de la Bauche",
+    "craft": "brewery",
+    "name": "La Hulotte",
+    "website": "http://www.brasserie-lahulotte.fr/"
+  }
+},
+{
+  "type": "node",
+  "id": 6395824708,
+  "lat": 47.4027489,
+  "lon": -1.2788575,
+  "tags": {
+    "contact:website": "https://www.tete-haute.fr/",
+    "craft": "brewery",
+    "name": "Brasserie Tête Haute",
+    "opening_hours": "Mo-Fr 14:00-18:00; Sa 09:30-12:00",
+    "organic": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6395824709,
+  "lat": 47.1005161,
+  "lon": -1.4507476,
+  "tags": {
+    "contact:website": "https://www.brasserielaconviviale.com/",
+    "craft": "brewery",
+    "name": "Brasserie La ConviviAle"
+  }
+},
+{
+  "type": "node",
+  "id": 6495364347,
+  "lat": 47.1955408,
+  "lon": -1.5556455,
+  "tags": {
+    "addr:city": "Rezé",
+    "addr:housenumber": "20",
+    "addr:postcode": "44400",
+    "addr:street": "Rue de l'Île Macé",
+    "craft": "brewery",
+    "email": "contact@brasserienautile.com",
+    "name": "Brasserie Nautile",
+    "opening_hours": "Mo-We 09:00-12:00, 14:00-18:00; Fr 09:00-12:00, 14:00-18:00",
+    "phone": "+33 6 61 71 32 98",
+    "product": "beer",
+    "start_date": "2017",
+    "website": "http://www.brasserienautile.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 6874245119,
+  "lat": 47.2142533,
+  "lon": -1.5524155,
+  "tags": {
+    "amenity": "restaurant",
+    "contact:phone": "+33 2 40 35 10 18",
+    "contact:website": "https://restaurants.3brasseurs.com/",
+    "cuisine": "french",
+    "internet_access": "wlan",
+    "microbrewery": "yes",
+    "name": "Les 3 Brasseurs",
+    "opening_hours": "Mo-Su 08:00-00:00; Fr,Sa 08:00-01:00",
+    "survey:date": "2019-10-12",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6905505113,
+  "lat": 46.9471031,
+  "lon": -1.3445340,
+  "tags": {
+    "addr:city": "Boufféré (Montaigu-Vendée)",
+    "addr:housenumber": "2",
+    "addr:postcode": "85600",
+    "addr:street": "Rue Nicolas Sadi Carnot",
+    "amenity": "pub",
+    "microbrewery": "yes",
+    "name": "Le Comptoir de la Bière"
+  }
+},
+{
+  "type": "node",
+  "id": 7106620281,
+  "lat": 47.1961199,
+  "lon": -1.5890314,
+  "tags": {
+    "alt_name": "LAB",
+    "amenity": "pub",
+    "brewery": "spered pale ale;lab hefeweisen;scelerate;exocet;berlinerweisse framboise;la party",
+    "contact:facebook": "https://www.facebook.com/Little-Atlantique-Brewery-265454010973766/",
+    "microbrewery": "yes",
+    "name": "Little Atlantique Brewery",
+    "opening_hours": "Mo-su 12:00-02:00",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 65505066,
+  "nodes": [
+    799409731,
+    799405648,
+    799411064,
+    799421660,
+    799407596,
+    799402861,
+    799399606,
+    799429535,
+    799409731
+  ],
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "craft": "brewery",
+    "microbrewery": "yes",
+    "name": "Les Trois Brasseurs",
+    "opening_hours": "Mo 10:30-22:00; Tu,Su 10:30-22:30; We,Th 10:30-23:00; Fr,Sa 10:30-24:00",
+    "phone": "+33 2 40 03 30 23",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+    "website": "http://www.les3brasseurs.com"
+  }
+},
+{
+  "type": "node",
+  "id": 799399606,
+  "lat": 47.1911942,
+  "lon": -1.4889699
+},
+{
+  "type": "node",
+  "id": 799402861,
+  "lat": 47.1912060,
+  "lon": -1.4891568
+},
+{
+  "type": "node",
+  "id": 799405648,
+  "lat": 47.1912277,
+  "lon": -1.4894973
+},
+{
+  "type": "node",
+  "id": 799407596,
+  "lat": 47.1911700,
+  "lon": -1.4891617
+},
+{
+  "type": "node",
+  "id": 799409731,
+  "lat": 47.1913644,
+  "lon": -1.4894785
+},
+{
+  "type": "node",
+  "id": 799411064,
+  "lat": 47.1912157,
+  "lon": -1.4893108
+},
+{
+  "type": "node",
+  "id": 799421660,
+  "lat": 47.1911798,
+  "lon": -1.4893158
+},
+{
+  "type": "node",
+  "id": 799429535,
+  "lat": 47.1913310,
+  "lon": -1.4889511
+}
+
+  ]
+}

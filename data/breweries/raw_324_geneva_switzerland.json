@@ -1,0 +1,430 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T12:20:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 3266866627,
+  "lat": 46.2408674,
+  "lon": 6.0298491,
+  "tags": {
+    "addr:city": "Saint-Genis-Pouilly",
+    "addr:country": "FR",
+    "addr:housenumber": "45",
+    "addr:postcode": "01630",
+    "addr:street": "Rue de Genève",
+    "amenity": "pub",
+    "email": "info@obrasseur.com",
+    "microbrewery": "yes",
+    "name": "ÔBrasseur",
+    "opening_hours": "Mo-Sa 08:00-01:00; Su 17:00-01:00",
+    "phone": "+33 4 50 42 49 88",
+    "website": "https://www.obrasseur.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 3579013335,
+  "lat": 45.9041420,
+  "lon": 6.1599230,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "burger",
+    "microbrewery": "yes",
+    "name": "La Fringale",
+    "outdoor_seating": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4779939095,
+  "lat": 46.3840139,
+  "lon": 6.2180429,
+  "tags": {
+    "addr:housenumber": "2c",
+    "addr:street": "Route de Champ-Colin",
+    "craft": "brewery",
+    "name": "Cap’taine Mousse",
+    "phone": "+41 22 343 88 88",
+    "shop": "alcohol",
+    "website": "http://captainemousse.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 4794810108,
+  "lat": 46.2423345,
+  "lon": 6.0871309,
+  "tags": {
+    "addr:city": "Meyrin",
+    "addr:housenumber": "62",
+    "addr:postcode": "1217",
+    "addr:street": "Route de Prévessin",
+    "amenity": "pub",
+    "craft": "brewery",
+    "description": "Brasserie artisanale. Vente directe sur rendez-vous au +41 77 453 88 65. Plus d'infos sur https://www.lapiece.ch/",
+    "name": "Brasserie de la Pièce",
+    "opening_hours:signed": "no",
+    "website": "https://www.lapiece.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 5331212684,
+  "lat": 45.9051347,
+  "lon": 6.0925037,
+  "tags": {
+    "craft": "brewery",
+    "name": "Brasserie Pirate",
+    "opening_hours": "Tu-Th 16:30-22:00, Fr 16:30-01:00"
+  }
+},
+{
+  "type": "node",
+  "id": 6166335748,
+  "lat": 45.9196796,
+  "lon": 6.1240936,
+  "tags": {
+    "addr:city": "Annecy",
+    "addr:housenumber": "1",
+    "addr:postcode": "74000",
+    "addr:street": "Boulevard Bellevue",
+    "amenity": "pub",
+    "microbrewery": "yes",
+    "name": "Artmalté",
+    "website": "http://www.artmalte.com"
+  }
+},
+{
+  "type": "node",
+  "id": 6166335749,
+  "lat": 45.9196847,
+  "lon": 6.1246257,
+  "tags": {
+    "addr:city": "Annecy",
+    "addr:housenumber": "7",
+    "addr:postcode": "74000",
+    "addr:street": "Boulevard Bellevue",
+    "craft": "brewery",
+    "name": "La petite fabrique",
+    "operator": "Artmalté",
+    "product": "beer",
+    "website": "http://www.artmalte.com"
+  }
+},
+{
+  "type": "way",
+  "id": 64047762,
+  "nodes": [
+    790041513,
+    790041497,
+    790041506,
+    790041517,
+    790041515,
+    790041507,
+    790041512,
+    790041503,
+    790041510,
+    790041500,
+    790041509,
+    790041498,
+    790041508,
+    790041496,
+    790041505,
+    790041516,
+    790041501,
+    790041514,
+    790041499,
+    790041511,
+    790041513
+  ],
+  "tags": {
+    "addr:city": "Lucinges",
+    "addr:country": "FR",
+    "addr:housenumber": "91",
+    "addr:postcode": "74380",
+    "addr:street": "Chemin du Château",
+    "building": "yes",
+    "craft": "brewery",
+    "name": "La Brasserie des Voirons",
+    "operator": "LUG",
+    "produce": "beer",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+  }
+},
+{
+  "type": "way",
+  "id": 78492082,
+  "nodes": [
+    921151901,
+    921150272,
+    921151451,
+    921151817,
+    921151901
+  ],
+  "tags": {
+    "addr:housenumber": "151",
+    "addr:street": "Rue du Jura",
+    "building": "brewery",
+    "contact:email": "contact@labrasseriedumontsaleve.com",
+    "contact:phone": "+33 4 50 74 96 61",
+    "contact:website": "http://www.labrasseriedumontsaleve.com/",
+    "craft": "brewery",
+    "name": "Brasserie du Mont Salève",
+    "source": "extraction vectorielle v1 cadastre-dgi-fr source : Direction Générale des Impôts - Cadas. Mise à jour : 2010"
+  }
+},
+{
+  "type": "way",
+  "id": 470055670,
+  "nodes": [
+    4643004915,
+    4643011310,
+    4643012899,
+    4642995609,
+    4643004915
+  ],
+  "tags": {
+    "addr:housenumber": "358",
+    "addr:street": "Rue de Perruet",
+    "building": "yes",
+    "contact:email": "contact@brasseriegessienne.fr",
+    "contact:website": "http://www.brasseriegessienne.fr",
+    "craft": "brewery",
+    "microbrewery": "yes",
+    "name": "Brasserie Gessienne",
+    "organic": "only",
+    "shop": "beverages",
+    "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2017"
+  }
+},
+{
+  "type": "way",
+  "id": 548829035,
+  "nodes": [
+    5301860407,
+    5301860402,
+    5301860403,
+    5301860409,
+    5301860408,
+    5301860407
+  ],
+  "tags": {
+    "addr:housenumber": "670",
+    "addr:street": "Route des Blaves",
+    "building": "brewery",
+    "contact:phone": "+33 4 50 37 45 83",
+    "craft": "brewery",
+    "name": "Brasserie artisanale du Léman",
+    "opening_hours": "Mo-Su off; Tu-Fr 09:00-18:00; Sa 14:00-18:00",
+    "start_date": "2007",
+    "website": "https://www.biere-leman.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 921150272,
+  "lat": 46.1218103,
+  "lon": 6.0927898
+},
+{
+  "type": "node",
+  "id": 921151451,
+  "lat": 46.1216273,
+  "lon": 6.0928918
+},
+{
+  "type": "node",
+  "id": 921151817,
+  "lat": 46.1216526,
+  "lon": 6.0929911
+},
+{
+  "type": "node",
+  "id": 921151901,
+  "lat": 46.1218372,
+  "lon": 6.0928931
+},
+{
+  "type": "node",
+  "id": 4642995609,
+  "lat": 46.2832329,
+  "lon": 6.0920944
+},
+{
+  "type": "node",
+  "id": 4643004915,
+  "lat": 46.2833254,
+  "lon": 6.0923006
+},
+{
+  "type": "node",
+  "id": 4643011310,
+  "lat": 46.2834147,
+  "lon": 6.0922187
+},
+{
+  "type": "node",
+  "id": 4643012899,
+  "lat": 46.2833216,
+  "lon": 6.0920115
+},
+{
+  "type": "node",
+  "id": 790041496,
+  "lat": 46.1912247,
+  "lon": 6.3190790
+},
+{
+  "type": "node",
+  "id": 790041497,
+  "lat": 46.1913084,
+  "lon": 6.3190828
+},
+{
+  "type": "node",
+  "id": 790041498,
+  "lat": 46.1911986,
+  "lon": 6.3190830
+},
+{
+  "type": "node",
+  "id": 790041499,
+  "lat": 46.1912925,
+  "lon": 6.3188392
+},
+{
+  "type": "node",
+  "id": 790041500,
+  "lat": 46.1911909,
+  "lon": 6.3191144
+},
+{
+  "type": "node",
+  "id": 790041501,
+  "lat": 46.1911231,
+  "lon": 6.3189142
+},
+{
+  "type": "node",
+  "id": 790041503,
+  "lat": 46.1912014,
+  "lon": 6.3191352
+},
+{
+  "type": "node",
+  "id": 790041505,
+  "lat": 46.1912362,
+  "lon": 6.3190944
+},
+{
+  "type": "node",
+  "id": 790041506,
+  "lat": 46.1913552,
+  "lon": 6.3191138
+},
+{
+  "type": "node",
+  "id": 790041507,
+  "lat": 46.1912225,
+  "lon": 6.3191408
+},
+{
+  "type": "node",
+  "id": 790041508,
+  "lat": 46.1912133,
+  "lon": 6.3190746
+},
+{
+  "type": "node",
+  "id": 790041509,
+  "lat": 46.1911935,
+  "lon": 6.3190974
+},
+{
+  "type": "node",
+  "id": 790041510,
+  "lat": 46.1911969,
+  "lon": 6.3191288
+},
+{
+  "type": "node",
+  "id": 790041511,
+  "lat": 46.1912877,
+  "lon": 6.3188592
+},
+{
+  "type": "node",
+  "id": 790041512,
+  "lat": 46.1912088,
+  "lon": 6.3191424
+},
+{
+  "type": "node",
+  "id": 790041513,
+  "lat": 46.1913666,
+  "lon": 6.3189246
+},
+{
+  "type": "node",
+  "id": 790041514,
+  "lat": 46.1911839,
+  "lon": 6.3187543
+},
+{
+  "type": "node",
+  "id": 790041515,
+  "lat": 46.1912060,
+  "lon": 6.3191949
+},
+{
+  "type": "node",
+  "id": 790041516,
+  "lat": 46.1912595,
+  "lon": 6.3190235
+},
+{
+  "type": "node",
+  "id": 790041517,
+  "lat": 46.1913145,
+  "lon": 6.3192547
+},
+{
+  "type": "node",
+  "id": 5301860402,
+  "lat": 46.3346116,
+  "lon": 6.4883702
+},
+{
+  "type": "node",
+  "id": 5301860403,
+  "lat": 46.3346172,
+  "lon": 6.4885277
+},
+{
+  "type": "node",
+  "id": 5301860407,
+  "lat": 46.3348348,
+  "lon": 6.4883535
+},
+{
+  "type": "node",
+  "id": 5301860408,
+  "lat": 46.3348383,
+  "lon": 6.4884569
+},
+{
+  "type": "node",
+  "id": 5301860409,
+  "lat": 46.3348404,
+  "lon": 6.4885110
+}
+
+  ]
+}

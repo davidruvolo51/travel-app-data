@@ -1,0 +1,818 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-05T21:23:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 233186722,
+  "lat": 53.4435400,
+  "lon": -1.9566313,
+  "tags": {
+    "amenity": "pub",
+    "microbrewery": "yes",
+    "name": "The Globe",
+    "real_ale": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1998604230,
+  "lat": 53.4014340,
+  "lon": -2.1523352,
+  "tags": {
+    "addr:street": "Hempshaw Lane",
+    "brewery": "Quantum Brewing Company",
+    "craft": "brewery",
+    "craft_beer": "yes",
+    "microbrewery": "yes",
+    "name": "Quantum Brewing Company",
+    "real_ale": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2146827442,
+  "lat": 53.1938669,
+  "lon": -2.7209384,
+  "tags": {
+    "building": "brewery",
+    "craft": "brewery",
+    "name": "Weetwood Brewery"
+  }
+},
+{
+  "type": "node",
+  "id": 3278929816,
+  "lat": 53.4901135,
+  "lon": -2.2352420,
+  "tags": {
+    "addr:city": "Manchester",
+    "addr:housenumber": "36",
+    "addr:postcode": "M4 4JT",
+    "addr:street": "Irk Street",
+    "amenity": "bar",
+    "craft": "brewery",
+    "name": "Blackjack Brewtap",
+    "operator": "Blackjack Beers Ltd"
+  }
+},
+{
+  "type": "node",
+  "id": 4212298766,
+  "lat": 53.4735672,
+  "lon": -2.2183620,
+  "tags": {
+    "amenity": "bar",
+    "craft": "brewery",
+    "name": "Beer Nouveau"
+  }
+},
+{
+  "type": "node",
+  "id": 4212298767,
+  "lat": 53.4902867,
+  "lon": -2.2343821,
+  "tags": {
+    "craft": "brewery",
+    "name": "Marble Beer"
+  }
+},
+{
+  "type": "node",
+  "id": 4575975753,
+  "lat": 53.4733098,
+  "lon": -2.2178504,
+  "tags": {
+    "craft": "brewery",
+    "name": "Chorlton Brewing Company"
+  }
+},
+{
+  "type": "node",
+  "id": 4575975754,
+  "lat": 53.4728094,
+  "lon": -2.2168261,
+  "tags": {
+    "amenity": "bar",
+    "craft": "brewery",
+    "name": "Manchester Brewing Company"
+  }
+},
+{
+  "type": "node",
+  "id": 5298912116,
+  "lat": 53.2559956,
+  "lon": -2.1212189,
+  "tags": {
+    "addr:city": "Macclesfield",
+    "addr:housenumber": "2",
+    "addr:postcode": "SK11 7HJ",
+    "addr:street": "Waterside",
+    "craft": "brewery",
+    "name": "Storm Brewing Co Ltd"
+  }
+},
+{
+  "type": "node",
+  "id": 5305215499,
+  "lat": 53.6047576,
+  "lon": -2.4224753,
+  "tags": {
+    "addr:city": "Bolton",
+    "addr:postcode": "BL1 8RA",
+    "addr:street": "The Pavilion",
+    "craft": "brewery",
+    "name": "Bank Top Brewery",
+    "phone": "+44 1204 595800",
+    "website": "https://www.banktopbrewery.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 5489732528,
+  "lat": 53.3282784,
+  "lon": -1.9828583,
+  "tags": {
+    "addr:housenumber": "20",
+    "addr:postcode": "SK23 7HR",
+    "addr:street": "Old Road",
+    "amenity": "bar",
+    "brewery": "yes",
+    "craft": "brewery",
+    "name": "Whaley Tap House",
+    "opening_hours": "We-Fr 17:00-22:30; Sa-Su 15:30-22:30",
+    "operator": "Whaley Bridge Brewery",
+    "smoking": "outside"
+  }
+},
+{
+  "type": "node",
+  "id": 6328418947,
+  "lat": 53.4690167,
+  "lon": -2.2759992,
+  "tags": {
+    "craft": "brewery",
+    "name": "The Outstanding Brewery Co",
+    "website": "http://www.outstandingbeers.co.uk/"
+  }
+},
+{
+  "type": "node",
+  "id": 6431741624,
+  "lat": 53.4779434,
+  "lon": -2.2216576,
+  "tags": {
+    "addr:city": "Manchester",
+    "addr:housenumber": "7-9",
+    "addr:postcode": "M1 2NP",
+    "addr:street": "Gidding Road",
+    "craft": "brewery",
+    "name": "Cloudwater Brew Co"
+  }
+},
+{
+  "type": "way",
+  "id": 120017136,
+  "nodes": [
+    3258288890,
+    1346702260,
+    1346702169,
+    1346702073,
+    3258288890
+  ],
+  "tags": {
+    "addr:city": "Knutsford",
+    "addr:country": "GB",
+    "addr:housenumber": "Unit 7",
+    "addr:postcode": "WA16 8PR",
+    "addr:street": "Longridge Trading Estate",
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Tatton Brewery",
+    "source": "Bing"
+  }
+},
+{
+  "type": "way",
+  "id": 151092758,
+  "nodes": [
+    1639351617,
+    1639351514,
+    1639351539,
+    6130205637,
+    1639351541,
+    1639351536,
+    1639351617
+  ],
+  "tags": {
+    "addr:city": "Salford",
+    "addr:housenumber": "30",
+    "addr:postcode": "M50 2GL",
+    "addr:street": "Kansas Avenue",
+    "building": "yes",
+    "contact:email": "info@thebeerstudio.co.uk",
+    "contact:phone": "0161 226 1317",
+    "craft": "brewery",
+    "name": "The Beer Studio",
+    "product": "beer",
+    "website": "http://thebeerstudio.co.uk"
+  }
+},
+{
+  "type": "way",
+  "id": 180004018,
+  "nodes": [
+    1904446196,
+    1904446182,
+    1904446167,
+    1904446152,
+    1904446190,
+    1904446180,
+    1904446192,
+    1904446216,
+    1904446184,
+    1904446145,
+    1904446179,
+    1904446196
+  ],
+  "tags": {
+    "building": "brewery"
+  }
+},
+{
+  "type": "way",
+  "id": 180004019,
+  "nodes": [
+    1904446163,
+    1904446157,
+    1904446188,
+    1904446202,
+    1904446200,
+    1904446144,
+    1904446155,
+    1904446183,
+    1904446147,
+    1904446178,
+    1904446148,
+    1904446150,
+    1904446161,
+    1904446185,
+    1904446177,
+    1904446163
+  ],
+  "tags": {
+    "building": "brewery"
+  }
+},
+{
+  "type": "way",
+  "id": 202840892,
+  "nodes": [
+    2127769515,
+    2127769543,
+    2127769505,
+    2127769548,
+    2127769513,
+    2127769522,
+    2127769521,
+    2127769519,
+    2127769552,
+    2127769532,
+    2127769515
+  ],
+  "tags": {
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Howard Town Brewery Ltd",
+    "operator": "Howard Town Brewery Ltd",
+    "phone": "+44 1457 869800",
+    "source": "Bing",
+    "website": "https://www.howardtownbrewery.co.uk/"
+  }
+},
+{
+  "type": "way",
+  "id": 207978374,
+  "nodes": [
+    2182450145,
+    2182450146,
+    2182450132,
+    2182450134,
+    2182450139,
+    2182450145
+  ],
+  "tags": {
+    "amenity": "pub",
+    "building": "brewery",
+    "microbrewery": "yes",
+    "name": "Irwell Works Brewery",
+    "opening_hours": "We-Su 12:00-23:00"
+  }
+},
+{
+  "type": "way",
+  "id": 207982315,
+  "nodes": [
+    2182522891,
+    2182522895,
+    2182522897,
+    2182522898,
+    2182522896,
+    2182522890,
+    2645916523,
+    2182522891
+  ],
+  "tags": {
+    "craft": "brewery",
+    "landuse": "industrial",
+    "name": "J.W.Lees & Co."
+  }
+},
+{
+  "type": "way",
+  "id": 300719701,
+  "nodes": [
+    4900126865,
+    4900126866,
+    5787555039,
+    4900126867,
+    3039893494,
+    4900126865
+  ],
+  "tags": {
+    "addr:city": "Weatherfield",
+    "addr:street": "Arkwright Street",
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Newton & Ridley"
+  }
+},
+{
+  "type": "way",
+  "id": 387192367,
+  "nodes": [
+    3905141348,
+    3905141349,
+    3905141350,
+    3905141351,
+    3905141348
+  ],
+  "tags": {
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Torrside Brewing",
+    "website": "http://www.torrside.co.uk/"
+  }
+},
+{
+  "type": "way",
+  "id": 562008835,
+  "nodes": [
+    5418400143,
+    5418400144,
+    5418400145,
+    5418400146,
+    5418400143
+  ],
+  "tags": {
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Dunham Massey Brewery",
+    "shop": "alcohol",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 1346702073,
+  "lat": 53.3107959,
+  "lon": -2.3497196
+},
+{
+  "type": "node",
+  "id": 1346702169,
+  "lat": 53.3109138,
+  "lon": -2.3488046
+},
+{
+  "type": "node",
+  "id": 1346702260,
+  "lat": 53.3111636,
+  "lon": -2.3488948
+},
+{
+  "type": "node",
+  "id": 3258288890,
+  "lat": 53.3110457,
+  "lon": -2.3498097
+},
+{
+  "type": "node",
+  "id": 5418400143,
+  "lat": 53.3847946,
+  "lon": -2.3909506
+},
+{
+  "type": "node",
+  "id": 5418400144,
+  "lat": 53.3848387,
+  "lon": -2.3910292
+},
+{
+  "type": "node",
+  "id": 5418400145,
+  "lat": 53.3849155,
+  "lon": -2.3909108
+},
+{
+  "type": "node",
+  "id": 5418400146,
+  "lat": 53.3848700,
+  "lon": -2.3908254
+},
+{
+  "type": "node",
+  "id": 3039893494,
+  "lat": 53.4700884,
+  "lon": -2.3019280
+},
+{
+  "type": "node",
+  "id": 4900126865,
+  "lat": 53.4700480,
+  "lon": -2.3020108
+},
+{
+  "type": "node",
+  "id": 4900126866,
+  "lat": 53.4703363,
+  "lon": -2.3027682
+},
+{
+  "type": "node",
+  "id": 4900126867,
+  "lat": 53.4701070,
+  "lon": -2.3019139
+},
+{
+  "type": "node",
+  "id": 5787555039,
+  "lat": 53.4702736,
+  "lon": -2.3025348
+},
+{
+  "type": "node",
+  "id": 1639351514,
+  "lat": 53.4774407,
+  "lon": -2.2973244
+},
+{
+  "type": "node",
+  "id": 1639351536,
+  "lat": 53.4779912,
+  "lon": -2.2976091
+},
+{
+  "type": "node",
+  "id": 1639351539,
+  "lat": 53.4775148,
+  "lon": -2.2979573
+},
+{
+  "type": "node",
+  "id": 1639351541,
+  "lat": 53.4775809,
+  "lon": -2.2977501
+},
+{
+  "type": "node",
+  "id": 1639351617,
+  "lat": 53.4779361,
+  "lon": -2.2971547
+},
+{
+  "type": "node",
+  "id": 6130205637,
+  "lat": 53.4776037,
+  "lon": -2.2979248
+},
+{
+  "type": "node",
+  "id": 1904446144,
+  "lat": 53.4933122,
+  "lon": -2.2415496
+},
+{
+  "type": "node",
+  "id": 1904446148,
+  "lat": 53.4935627,
+  "lon": -2.2415899
+},
+{
+  "type": "node",
+  "id": 1904446150,
+  "lat": 53.4935962,
+  "lon": -2.2417629
+},
+{
+  "type": "node",
+  "id": 1904446155,
+  "lat": 53.4934390,
+  "lon": -2.2414745
+},
+{
+  "type": "node",
+  "id": 1904446161,
+  "lat": 53.4935060,
+  "lon": -2.2418138
+},
+{
+  "type": "node",
+  "id": 1904446177,
+  "lat": 53.4933293,
+  "lon": -2.2420730
+},
+{
+  "type": "node",
+  "id": 1904446178,
+  "lat": 53.4936042,
+  "lon": -2.2415604
+},
+{
+  "type": "node",
+  "id": 1904446183,
+  "lat": 53.4934159,
+  "lon": -2.2413552
+},
+{
+  "type": "node",
+  "id": 1904446185,
+  "lat": 53.4935332,
+  "lon": -2.2419640
+},
+{
+  "type": "node",
+  "id": 1904446200,
+  "lat": 53.4932787,
+  "lon": -2.2414008
+},
+{
+  "type": "node",
+  "id": 1904446202,
+  "lat": 53.4932978,
+  "lon": -2.2413833
+},
+{
+  "type": "node",
+  "id": 1904446145,
+  "lat": 53.4935427,
+  "lon": -2.2407262
+},
+{
+  "type": "node",
+  "id": 1904446147,
+  "lat": 53.4935451,
+  "lon": -2.2412868
+},
+{
+  "type": "node",
+  "id": 1904446152,
+  "lat": 53.4933768,
+  "lon": -2.2411674
+},
+{
+  "type": "node",
+  "id": 1904446157,
+  "lat": 53.4932483,
+  "lon": -2.2412398
+},
+{
+  "type": "node",
+  "id": 1904446163,
+  "lat": 53.4931696,
+  "lon": -2.2412862
+},
+{
+  "type": "node",
+  "id": 1904446167,
+  "lat": 53.4933592,
+  "lon": -2.2410883
+},
+{
+  "type": "node",
+  "id": 1904446179,
+  "lat": 53.4931056,
+  "lon": -2.2409789
+},
+{
+  "type": "node",
+  "id": 1904446180,
+  "lat": 53.4935052,
+  "lon": -2.2411191
+},
+{
+  "type": "node",
+  "id": 1904446182,
+  "lat": 53.4933249,
+  "lon": -2.2410507
+},
+{
+  "type": "node",
+  "id": 1904446184,
+  "lat": 53.4936201,
+  "lon": -2.2411004
+},
+{
+  "type": "node",
+  "id": 1904446188,
+  "lat": 53.4932787,
+  "lon": -2.2412626
+},
+{
+  "type": "node",
+  "id": 1904446190,
+  "lat": 53.4935005,
+  "lon": -2.2411004
+},
+{
+  "type": "node",
+  "id": 1904446192,
+  "lat": 53.4935643,
+  "lon": -2.2410870
+},
+{
+  "type": "node",
+  "id": 1904446196,
+  "lat": 53.4931435,
+  "lon": -2.2411567
+},
+{
+  "type": "node",
+  "id": 1904446216,
+  "lat": 53.4935707,
+  "lon": -2.2411232
+},
+{
+  "type": "node",
+  "id": 2182450132,
+  "lat": 53.6469134,
+  "lon": -2.3172931
+},
+{
+  "type": "node",
+  "id": 2182450134,
+  "lat": 53.6469245,
+  "lon": -2.3174109
+},
+{
+  "type": "node",
+  "id": 2182450139,
+  "lat": 53.6469483,
+  "lon": -2.3174350
+},
+{
+  "type": "node",
+  "id": 2182450145,
+  "lat": 53.6470419,
+  "lon": -2.3174510
+},
+{
+  "type": "node",
+  "id": 2182450146,
+  "lat": 53.6470562,
+  "lon": -2.3173360
+},
+{
+  "type": "node",
+  "id": 2182522890,
+  "lat": 53.5415413,
+  "lon": -2.1732093
+},
+{
+  "type": "node",
+  "id": 2182522891,
+  "lat": 53.5417690,
+  "lon": -2.1741672
+},
+{
+  "type": "node",
+  "id": 2182522895,
+  "lat": 53.5421301,
+  "lon": -2.1739873
+},
+{
+  "type": "node",
+  "id": 2182522896,
+  "lat": 53.5425325,
+  "lon": -2.1723811
+},
+{
+  "type": "node",
+  "id": 2182522897,
+  "lat": 53.5427257,
+  "lon": -2.1734725
+},
+{
+  "type": "node",
+  "id": 2182522898,
+  "lat": 53.5427809,
+  "lon": -2.1731938
+},
+{
+  "type": "node",
+  "id": 2645916523,
+  "lat": 53.5416700,
+  "lon": -2.1737328
+},
+{
+  "type": "node",
+  "id": 3905141348,
+  "lat": 53.3604302,
+  "lon": -2.0056479
+},
+{
+  "type": "node",
+  "id": 3905141351,
+  "lat": 53.3603069,
+  "lon": -2.0056681
+},
+{
+  "type": "node",
+  "id": 3905141349,
+  "lat": 53.3604062,
+  "lon": -2.0050900
+},
+{
+  "type": "node",
+  "id": 3905141350,
+  "lat": 53.3602789,
+  "lon": -2.0051102
+},
+{
+  "type": "node",
+  "id": 2127769505,
+  "lat": 53.4519545,
+  "lon": -1.9350598
+},
+{
+  "type": "node",
+  "id": 2127769513,
+  "lat": 53.4516902,
+  "lon": -1.9346208
+},
+{
+  "type": "node",
+  "id": 2127769515,
+  "lat": 53.4515832,
+  "lon": -1.9357037
+},
+{
+  "type": "node",
+  "id": 2127769519,
+  "lat": 53.4515128,
+  "lon": -1.9350053
+},
+{
+  "type": "node",
+  "id": 2127769521,
+  "lat": 53.4516161,
+  "lon": -1.9348895
+},
+{
+  "type": "node",
+  "id": 2127769522,
+  "lat": 53.4515651,
+  "lon": -1.9347610
+},
+{
+  "type": "node",
+  "id": 2127769532,
+  "lat": 53.4515221,
+  "lon": -1.9355501
+},
+{
+  "type": "node",
+  "id": 2127769543,
+  "lat": 53.4520171,
+  "lon": -1.9352175
+},
+{
+  "type": "node",
+  "id": 2127769548,
+  "lat": 53.4518923,
+  "lon": -1.9351295
+},
+{
+  "type": "node",
+  "id": 2127769552,
+  "lat": 53.4516654,
+  "lon": -1.9353896
+}
+
+  ]
+}

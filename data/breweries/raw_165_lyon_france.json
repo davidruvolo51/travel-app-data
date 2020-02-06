@@ -1,0 +1,481 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T08:10:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 828579675,
+  "lat": 45.7483221,
+  "lon": 4.8283428,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "delivery": "no",
+    "email": "brasserie.georges@orange.fr",
+    "fax": "+33478425165",
+    "microbrewery": "yes",
+    "name": "Brasserie Georges",
+    "opening_hours": "Mo-Th 11:30-22:45; Fr,Sa 11:30-00:15",
+    "outdoor_seating": "yes",
+    "phone": "+33 4 72 56 54 54",
+    "smoking": "outside",
+    "source": "survey",
+    "start_date": "1836",
+    "takeaway": "no",
+    "website": "https://www.brasseriegeorges.com/",
+    "wheelchair": "yes",
+    "wikidata": "Q10939",
+    "wikipedia": "fr:Brasserie Georges"
+  }
+},
+{
+  "type": "node",
+  "id": 1083416094,
+  "lat": 45.7259075,
+  "lon": 5.2532784,
+  "tags": {
+    "craft": "brewery",
+    "name": "Brasserie des Ursulines",
+    "note": "to place more precisely, on the 4 Côte Chausson",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"
+  }
+},
+{
+  "type": "node",
+  "id": 3156352461,
+  "lat": 45.7128369,
+  "lon": 4.8039934,
+  "tags": {
+    "amenity": "pub",
+    "microbrewery": "yes",
+    "name": "Malting-Pot"
+  }
+},
+{
+  "type": "node",
+  "id": 3161686630,
+  "lat": 45.7632553,
+  "lon": 4.8560234,
+  "tags": {
+    "amenity": "cafe",
+    "contact:phone": "+33 4 78 60 01 56",
+    "craft": "brewery",
+    "cuisine": "french",
+    "name": "Brasserie Deruelle",
+    "opening_hours": "Mo-Sa 07:00-19:30",
+    "smoking": "outside"
+  }
+},
+{
+  "type": "node",
+  "id": 3824873160,
+  "lat": 45.7474334,
+  "lon": 4.8583696,
+  "tags": {
+    "amenity": "pub",
+    "brewery": "yes",
+    "microbrewery": "yes",
+    "name": "Malting-Pot",
+    "opening_hours": "Mo 12:00-14:00; Tu-Fr 12:00-14:00, 18:00-00:00; Sa 12:00-15:00, 18:00-00:00",
+    "outdoor_seating": "yes",
+    "phone": "+33970952778"
+  }
+},
+{
+  "type": "node",
+  "id": 4237225589,
+  "lat": 45.7594862,
+  "lon": 4.8316484,
+  "tags": {
+    "craft": "brewery",
+    "name": "Brasserie Chavant",
+    "opening_hours": "Mo-Fr 12:00-14:00,18:45-23:00; Sa-Su 12:00-15:00,18:45-23:00",
+    "phone": "+33 4 78373864",
+    "source": "http://www.brasserie-chavant-lyon.fr/",
+    "website": "http://www.brasserie-chavant-lyon.fr/"
+  }
+},
+{
+  "type": "node",
+  "id": 5984999103,
+  "lat": 45.8931359,
+  "lon": 4.4397558,
+  "tags": {
+    "addr:city": "Tarare",
+    "addr:housenumber": "1",
+    "addr:postcode": "69170",
+    "addr:street": "Avenue Edouard Herriot",
+    "craft": "brewery",
+    "name": "Ninkasi",
+    "opening_hours": "Tu-We 11:00-15:00; Th 11:00-23:00; Fr-Sa 11:00-01:00",
+    "phone": "+33 4 81 00 10 02",
+    "product": "beer",
+    "website": "https://www.ninkasi.fr/lieux/tarare.html"
+  }
+},
+{
+  "type": "node",
+  "id": 6067436077,
+  "lat": 45.6848393,
+  "lon": 4.7679948,
+  "tags": {
+    "craft": "brewery",
+    "email": "contact@microbrasseriecaribrew.fr",
+    "facebook": "https://www.facebook.com/caribrew/",
+    "name": "Microbrasserie Caribrew",
+    "website": "https://microbrasseriecaribrew.fr"
+  }
+},
+{
+  "type": "node",
+  "id": 6092632092,
+  "lat": 45.7604682,
+  "lon": 4.8412539,
+  "tags": {
+    "craft": "brewery",
+    "email": "contact@etlabierefut.com",
+    "name": "Et la bière fût...",
+    "phone": "+33 9 81 06 66 02",
+    "product": "beer"
+  }
+},
+{
+  "type": "node",
+  "id": 6536933873,
+  "lat": 45.7691294,
+  "lon": 4.8327487,
+  "tags": {
+    "craft": "brewery",
+    "name": "Tom & Co",
+    "opening_hours": "Tu-Fr 13:00-20:00; Sa 11:00-20:00"
+  }
+},
+{
+  "type": "node",
+  "id": 6821847386,
+  "lat": 45.6561714,
+  "lon": 4.7134753,
+  "tags": {
+    "addr:housenumber": "96",
+    "addr:street": "Route des Côteaux du Lyonnais",
+    "craft": "brewery",
+    "name": "Microbrasserie La Chénou",
+    "opening_hours": "We-Fr 16:00-21:00; Sa 09:30-21:00",
+    "phone": "+33679586685",
+    "website": "http://lachenou.fr/"
+  }
+},
+{
+  "type": "node",
+  "id": 6954907667,
+  "lat": 45.7610886,
+  "lon": 4.8317449,
+  "tags": {
+    "amenity": "restaurant",
+    "craft": "brewery",
+    "cuisine": "french",
+    "microbrewery": "yes",
+    "name": "Diplomatico Brasserie",
+    "opening_hours": "09:00-03:00",
+    "phone": "+33 4 78 37 41 80",
+    "website": "http://www.diplomatico.fr/"
+  }
+},
+{
+  "type": "way",
+  "id": 84987387,
+  "nodes": [
+    986457096,
+    986460877,
+    986454462,
+    2274346885,
+    986459915,
+    986461514,
+    986461764,
+    986457096
+  ],
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "craft": "brewery",
+    "cuisine": "french",
+    "microbrewery": "yes",
+    "name": "Le Pré Fleuri",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+  }
+},
+{
+  "type": "way",
+  "id": 138335054,
+  "nodes": [
+    1516681528,
+    6029288727,
+    1516681511,
+    1516681501,
+    5096108052,
+    6029288726,
+    5096108051,
+    5096108050,
+    1516681526,
+    1516681528
+  ],
+  "tags": {
+    "addr:city": "Chabanière",
+    "addr:housenumber": "520",
+    "addr:postcode": "69440",
+    "addr:street": "Route de Comte Boiron",
+    "building": "yes",
+    "craft": "brewery",
+    "description": "Paysan brasseur",
+    "name": "Ferme de la Quintillière - Bière Busard",
+    "opening_hours": "We 16:30-19:30",
+    "product": "beer",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+    "website": "http://www.fermedelaquintilliere.com/bieres-busard/"
+  }
+},
+{
+  "type": "way",
+  "id": 150069038,
+  "nodes": [
+    4067006609,
+    1629990674,
+    1629991114,
+    1629991022,
+    2079496022,
+    1629990998,
+    1629991613,
+    1629991648,
+    1629991684,
+    1629991694,
+    1629991178,
+    1629991210,
+    4067006609
+  ],
+  "tags": {
+    "building": "yes",
+    "contact:email": "contact@terredebieres.com",
+    "contact:phone": "+33 4 74 68 41 81",
+    "craft": "brewery",
+    "name": "Terre de Bières",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+    "website": "http://terredebieres.fr/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 626939934,
+  "nodes": [
+    5918534582,
+    5918534583,
+    5918534584,
+    5918540885,
+    5918534582
+  ],
+  "tags": {
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Brasserie du LOU Rugby"
+  }
+},
+{
+  "type": "node",
+  "id": 1516681501,
+  "lat": 45.5900931,
+  "lon": 4.6358085
+},
+{
+  "type": "node",
+  "id": 5096108052,
+  "lat": 45.5900549,
+  "lon": 4.6359040
+},
+{
+  "type": "node",
+  "id": 6029288726,
+  "lat": 45.5900533,
+  "lon": 4.6359206
+},
+{
+  "type": "node",
+  "id": 1516681511,
+  "lat": 45.5902145,
+  "lon": 4.6359026
+},
+{
+  "type": "node",
+  "id": 1516681526,
+  "lat": 45.5903442,
+  "lon": 4.6361380
+},
+{
+  "type": "node",
+  "id": 1516681528,
+  "lat": 45.5903754,
+  "lon": 4.6360584
+},
+{
+  "type": "node",
+  "id": 5096108050,
+  "lat": 45.5901729,
+  "lon": 4.6360050
+},
+{
+  "type": "node",
+  "id": 5096108051,
+  "lat": 45.5901698,
+  "lon": 4.6360129
+},
+{
+  "type": "node",
+  "id": 6029288727,
+  "lat": 45.5902060,
+  "lon": 4.6359250
+},
+{
+  "type": "node",
+  "id": 5918534582,
+  "lat": 45.7244594,
+  "lon": 4.8299081
+},
+{
+  "type": "node",
+  "id": 5918540885,
+  "lat": 45.7237908,
+  "lon": 4.8294105
+},
+{
+  "type": "node",
+  "id": 5918534583,
+  "lat": 45.7241956,
+  "lon": 4.8306376
+},
+{
+  "type": "node",
+  "id": 5918534584,
+  "lat": 45.7235557,
+  "lon": 4.8301587
+},
+{
+  "type": "node",
+  "id": 986454462,
+  "lat": 45.7697651,
+  "lon": 4.8899378
+},
+{
+  "type": "node",
+  "id": 986457096,
+  "lat": 45.7695953,
+  "lon": 4.8900061
+},
+{
+  "type": "node",
+  "id": 986459915,
+  "lat": 45.7695620,
+  "lon": 4.8899195
+},
+{
+  "type": "node",
+  "id": 986460877,
+  "lat": 45.7697607,
+  "lon": 4.8900198
+},
+{
+  "type": "node",
+  "id": 986461514,
+  "lat": 45.7695586,
+  "lon": 4.8900315
+},
+{
+  "type": "node",
+  "id": 986461764,
+  "lat": 45.7695946,
+  "lon": 4.8900345
+},
+{
+  "type": "node",
+  "id": 2274346885,
+  "lat": 45.7696657,
+  "lon": 4.8899288
+},
+{
+  "type": "node",
+  "id": 1629990674,
+  "lat": 45.9774670,
+  "lon": 4.7286560
+},
+{
+  "type": "node",
+  "id": 1629990998,
+  "lat": 45.9775390,
+  "lon": 4.7289120
+},
+{
+  "type": "node",
+  "id": 1629991022,
+  "lat": 45.9775450,
+  "lon": 4.7288420
+},
+{
+  "type": "node",
+  "id": 1629991114,
+  "lat": 45.9775580,
+  "lon": 4.7286690
+},
+{
+  "type": "node",
+  "id": 1629991178,
+  "lat": 45.9775660,
+  "lon": 4.7286480
+},
+{
+  "type": "node",
+  "id": 1629991210,
+  "lat": 45.9775680,
+  "lon": 4.7285790
+},
+{
+  "type": "node",
+  "id": 1629991613,
+  "lat": 45.9776140,
+  "lon": 4.7289220
+},
+{
+  "type": "node",
+  "id": 1629991648,
+  "lat": 45.9776190,
+  "lon": 4.7288530
+},
+{
+  "type": "node",
+  "id": 1629991684,
+  "lat": 45.9776310,
+  "lon": 4.7287040
+},
+{
+  "type": "node",
+  "id": 1629991694,
+  "lat": 45.9776350,
+  "lon": 4.7286520
+},
+{
+  "type": "node",
+  "id": 2079496022,
+  "lat": 45.9775445,
+  "lon": 4.7288419
+},
+{
+  "type": "node",
+  "id": 4067006609,
+  "lat": 45.9774726,
+  "lon": 4.7285623
+}
+
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T00:54:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 3145000467,
+  "lat": 49.9408931,
+  "lon": 17.9009980,
+  "tags": {
+    "amenity": "restaurant",
+    "contact:email": "gastronomieopava@gastro-opava.cz",
+    "contact:website": "http://www.nova-sladovna.cz/",
+    "microbrewery": "yes",
+    "name": "Nová Sladovna",
+    "opening_hours": "Mo-Su 11:00-23:00"
+  }
+},
+{
+  "type": "node",
+  "id": 3145066610,
+  "lat": 50.0153016,
+  "lon": 18.0729049,
+  "tags": {
+    "amenity": "restaurant",
+    "contact:email": "info@ukomarku.cz",
+    "contact:website": "http://www.ukomarku.cz/hlavni-strana/",
+    "microbrewery": "yes",
+    "name": "U Komárků",
+    "opening_hours": "Mo-Fr 15:00-22:00; Sa 10:00-23:00; Su 10:00-22:00"
+  }
+},
+{
+  "type": "way",
+  "id": 274541779,
+  "nodes": [
+    2792466901,
+    7112419209,
+    2792466913,
+    2792466903,
+    7112419211,
+    7112419213,
+    2792466893,
+    2792466895,
+    2792466894,
+    2792466896,
+    2792466897,
+    2792466901
+  ],
+  "tags": {
+    "addr:city": "Vysoká",
+    "addr:conscriptionnumber": "44",
+    "addr:country": "CZ",
+    "addr:housenumber": "44",
+    "addr:place": "Bartultovice",
+    "addr:postcode": "79399",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "building": "yes",
+    "building:flats": "1",
+    "building:levels": "1",
+    "building:ruian:type": "15",
+    "cuisine": "regional",
+    "internet_access": "wlan",
+    "microbrewery": "yes",
+    "name": "Restaurace Western",
+    "ref:ruian:addr": "14050161",
+    "ref:ruian:building": "13958950",
+    "source": "cuzk:ruian"
+  }
+},
+{
+  "type": "node",
+  "id": 2792466893,
+  "lat": 50.2760153,
+  "lon": 17.5894942
+},
+{
+  "type": "node",
+  "id": 2792466894,
+  "lat": 50.2759672,
+  "lon": 17.5894142
+},
+{
+  "type": "node",
+  "id": 2792466895,
+  "lat": 50.2760263,
+  "lon": 17.5894622
+},
+{
+  "type": "node",
+  "id": 2792466896,
+  "lat": 50.2760053,
+  "lon": 17.5893027
+},
+{
+  "type": "node",
+  "id": 2792466897,
+  "lat": 50.2760535,
+  "lon": 17.5893502
+},
+{
+  "type": "node",
+  "id": 2792466901,
+  "lat": 50.2760770,
+  "lon": 17.5892851
+},
+{
+  "type": "node",
+  "id": 2792466903,
+  "lat": 50.2761135,
+  "lon": 17.5895407
+},
+{
+  "type": "node",
+  "id": 2792466913,
+  "lat": 50.2761767,
+  "lon": 17.5893728
+},
+{
+  "type": "node",
+  "id": 7112419209,
+  "lat": 50.2761160,
+  "lon": 17.5893194
+},
+{
+  "type": "node",
+  "id": 7112419211,
+  "lat": 50.2760865,
+  "lon": 17.5895537
+},
+{
+  "type": "node",
+  "id": 7112419213,
+  "lat": 50.2760630,
+  "lon": 17.5895341
+}
+
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-05T23:57:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 5858916188,
+  "lat": 50.4051818,
+  "lon": 12.8346667,
+  "tags": {
+    "addr:city": "Boží Dar",
+    "addr:housenumber": "77",
+    "addr:postcode": "36262",
+    "addr:street": "Ryžovna",
+    "craft": "brewery",
+    "name": "Pivovar Ryžovna",
+    "opening_hours": "Sa-Su 11:00-19:00",
+    "operator": "Pivovar Ryžovna s.r.o.",
+    "product": "beer"
+  }
+},
+{
+  "type": "node",
+  "id": 6737201782,
+  "lat": 50.3214536,
+  "lon": 12.9459911,
+  "tags": {
+    "craft": "brewery",
+    "email": "info@rudohor.cz",
+    "operator": "Rudohor",
+    "phone": "+420703361158",
+    "website": "https://www.rudohor.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 6778251794,
+  "lat": 50.3483270,
+  "lon": 12.5111638,
+  "tags": {
+    "craft": "brewery",
+    "name": "Pivovar Krušnohor",
+    "website": "http://www.krusnohor.eu"
+  }
+},
+{
+  "type": "way",
+  "id": 344932173,
+  "nodes": [
+    3516547068,
+    3516547069,
+    7066563466,
+    7066563467,
+    3516547070,
+    3516547071,
+    1559462315,
+    1559462396,
+    3516547068
+  ],
+  "tags": {
+    "addr:city": "Kynšperk nad Ohří",
+    "addr:housenumber": "482",
+    "addr:postcode": "35751",
+    "addr:street": "Sokolovská",
+    "craft": "brewery",
+    "landuse": "industrial",
+    "name": "Kynšperský pivovar"
+  }
+},
+{
+  "type": "way",
+  "id": 722609862,
+  "nodes": [
+    6778251795,
+    6778251796,
+    6778251797,
+    6778251798,
+    6778251799,
+    6778251800,
+    6778251795
+  ],
+  "tags": {
+    "building": "yes",
+    "craft": "brewery"
+  }
+},
+{
+  "type": "node",
+  "id": 1559462315,
+  "lat": 50.1240850,
+  "lon": 12.5317790
+},
+{
+  "type": "node",
+  "id": 1559462396,
+  "lat": 50.1242840,
+  "lon": 12.5316010
+},
+{
+  "type": "node",
+  "id": 3516547068,
+  "lat": 50.1241256,
+  "lon": 12.5310586
+},
+{
+  "type": "node",
+  "id": 3516547069,
+  "lat": 50.1234382,
+  "lon": 12.5315270
+},
+{
+  "type": "node",
+  "id": 3516547070,
+  "lat": 50.1237345,
+  "lon": 12.5325252
+},
+{
+  "type": "node",
+  "id": 3516547071,
+  "lat": 50.1241809,
+  "lon": 12.5321185
+},
+{
+  "type": "node",
+  "id": 7066563466,
+  "lat": 50.1234537,
+  "lon": 12.5315791
+},
+{
+  "type": "node",
+  "id": 7066563467,
+  "lat": 50.1236151,
+  "lon": 12.5321231
+},
+{
+  "type": "node",
+  "id": 6778251795,
+  "lat": 50.3484543,
+  "lon": 12.5113257
+},
+{
+  "type": "node",
+  "id": 6778251796,
+  "lat": 50.3483767,
+  "lon": 12.5111224
+},
+{
+  "type": "node",
+  "id": 6778251797,
+  "lat": 50.3481987,
+  "lon": 12.5112903
+},
+{
+  "type": "node",
+  "id": 6778251798,
+  "lat": 50.3482410,
+  "lon": 12.5113957
+},
+{
+  "type": "node",
+  "id": 6778251799,
+  "lat": 50.3481987,
+  "lon": 12.5114382
+},
+{
+  "type": "node",
+  "id": 6778251800,
+  "lat": 50.3482351,
+  "lon": 12.5115337
+}
+
+  ]
+}

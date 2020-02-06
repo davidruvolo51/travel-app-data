@@ -1,0 +1,330 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T20:42:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 992680776,
+  "lat": 49.5725550,
+  "lon": 5.9234384,
+  "tags": {
+    "addr:city": "Bascharage",
+    "addr:country": "LU",
+    "addr:housenumber": "240",
+    "addr:postcode": "4940",
+    "addr:street": "Avenue de Luxembourg",
+    "amenity": "restaurant",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "microbrewery": "yes",
+    "name": "Béierhaascht",
+    "smoking": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4018493318,
+  "lat": 49.6128507,
+  "lon": 6.1425125,
+  "tags": {
+    "addr:city": "Luxembourg",
+    "addr:housenumber": "12",
+    "addr:postcode": "2165",
+    "addr:street": "Rives de Clausen",
+    "amenity": "pub",
+    "contact:phone": "+352 26 20 10 17",
+    "contact:website": "http://www.bigbeercompany.lu/",
+    "microbrewery": "yes",
+    "name": "Big Beer Company",
+    "operator": "Clausen Brewery",
+    "toilets:wheelchair": "no",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 4935952224,
+  "lat": 49.4682073,
+  "lon": 6.2356551,
+  "tags": {
+    "craft": "brewery",
+    "name": "Brasserie Artisanale de Rodemack",
+    "source": "survey",
+    "website": "http://www.b-a-r.fr/"
+  }
+},
+{
+  "type": "node",
+  "id": 5483123374,
+  "lat": 49.6906363,
+  "lon": 6.4625895,
+  "tags": {
+    "craft": "brewery",
+    "drink:beer": "yes",
+    "name": "Temmelser Braukeller",
+    "opening_hours": "Sa 10:00-13:00",
+    "shop": "alcohol"
+  }
+},
+{
+  "type": "node",
+  "id": 6895401402,
+  "lat": 49.5593643,
+  "lon": 5.8369693,
+  "tags": {
+    "amenity": "bar",
+    "microbrewery": "yes",
+    "name": "Athem",
+    "website": "https://athem.be"
+  }
+},
+{
+  "type": "node",
+  "id": 6895401403,
+  "lat": 49.5594384,
+  "lon": 5.8369399,
+  "tags": {
+    "craft": "brewery",
+    "name": "Athem",
+    "website": "https://athem.be"
+  }
+},
+{
+  "type": "way",
+  "id": 110549263,
+  "nodes": [
+    1262235630,
+    1262235586,
+    6883801372,
+    1262235604,
+    6883801479,
+    6883801419,
+    1262235561,
+    1262235630
+  ],
+  "tags": {
+    "addr:city": "Mannebach",
+    "addr:country": "DE",
+    "addr:housenumber": "1",
+    "addr:postcode": "54441",
+    "addr:street": "Hauptstraße",
+    "amenity": "restaurant",
+    "building": "yes",
+    "contact:phone": "+49 6581 99277",
+    "contact:website": "www.mannebacher.de",
+    "craft": "brewery",
+    "microbrewery": "yes",
+    "name": "Mannebacher Brauhaus",
+    "start_date": "1897",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "way",
+  "id": 128637468,
+  "nodes": [
+    1421132076,
+    5117450472,
+    1421132065,
+    1421132040,
+    1421132076
+  ],
+  "tags": {
+    "addr:city": "Arlon",
+    "addr:housenumber": "115b",
+    "addr:postcode": "6700",
+    "addr:street": "Rue de l'Hydrion",
+    "brand": "L'Aramiss",
+    "building": "yes",
+    "craft": "brewery",
+    "description": "new buiding is constuct here schape ?",
+    "facebook": "https://www.facebook.com/brasseriedarlon/",
+    "name": "Brasserie d'Arlon",
+    "website": "http://www.brasseriedarlon.com"
+  }
+},
+{
+  "type": "way",
+  "id": 572870461,
+  "nodes": [
+    5503523158,
+    5503523157,
+    5503523156,
+    5503523155,
+    5503523154,
+    5503523151,
+    5503523147,
+    5503523150,
+    5503523158
+  ],
+  "tags": {
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Ramborn",
+    "source": "geoportail.lu all layers Carte de base haute résolution; geoportail.lu ortho latest"
+  }
+},
+{
+  "type": "way",
+  "id": 716695123,
+  "nodes": [
+    6731909767,
+    6731909768,
+    6731909769,
+    6731909770,
+    6731909767
+  ],
+  "tags": {
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Bare Brewing",
+    "product": "beer"
+  }
+},
+{
+  "type": "node",
+  "id": 1421132040,
+  "lat": 49.6845307,
+  "lon": 5.7963692
+},
+{
+  "type": "node",
+  "id": 1421132065,
+  "lat": 49.6843346,
+  "lon": 5.7968064
+},
+{
+  "type": "node",
+  "id": 1421132076,
+  "lat": 49.6847094,
+  "lon": 5.7965596
+},
+{
+  "type": "node",
+  "id": 5117450472,
+  "lat": 49.6845099,
+  "lon": 5.7969968
+},
+{
+  "type": "node",
+  "id": 6731909767,
+  "lat": 49.5171118,
+  "lon": 5.8900908
+},
+{
+  "type": "node",
+  "id": 6731909768,
+  "lat": 49.5171249,
+  "lon": 5.8902577
+},
+{
+  "type": "node",
+  "id": 6731909769,
+  "lat": 49.5171823,
+  "lon": 5.8902471
+},
+{
+  "type": "node",
+  "id": 6731909770,
+  "lat": 49.5171690,
+  "lon": 5.8900798
+},
+{
+  "type": "node",
+  "id": 1262235561,
+  "lat": 49.6335028,
+  "lon": 6.5081571
+},
+{
+  "type": "node",
+  "id": 1262235604,
+  "lat": 49.6335520,
+  "lon": 6.5083953
+},
+{
+  "type": "node",
+  "id": 6883801372,
+  "lat": 49.6336895,
+  "lon": 6.5083276
+},
+{
+  "type": "node",
+  "id": 6883801419,
+  "lat": 49.6335258,
+  "lon": 6.5082683
+},
+{
+  "type": "node",
+  "id": 6883801479,
+  "lat": 49.6335481,
+  "lon": 6.5083766
+},
+{
+  "type": "node",
+  "id": 1262235586,
+  "lat": 49.6337519,
+  "lon": 6.5082968
+},
+{
+  "type": "node",
+  "id": 1262235630,
+  "lat": 49.6337028,
+  "lon": 6.5080587
+},
+{
+  "type": "node",
+  "id": 5503523147,
+  "lat": 49.7600830,
+  "lon": 6.5134955
+},
+{
+  "type": "node",
+  "id": 5503523150,
+  "lat": 49.7601582,
+  "lon": 6.5133871
+},
+{
+  "type": "node",
+  "id": 5503523151,
+  "lat": 49.7599830,
+  "lon": 6.5136397
+},
+{
+  "type": "node",
+  "id": 5503523154,
+  "lat": 49.7599731,
+  "lon": 6.5136536
+},
+{
+  "type": "node",
+  "id": 5503523155,
+  "lat": 49.7599343,
+  "lon": 6.5135919
+},
+{
+  "type": "node",
+  "id": 5503523156,
+  "lat": 49.7600397,
+  "lon": 6.5134364
+},
+{
+  "type": "node",
+  "id": 5503523157,
+  "lat": 49.7599392,
+  "lon": 6.5132592
+},
+{
+  "type": "node",
+  "id": 5503523158,
+  "lat": 49.7600198,
+  "lon": 6.5131467
+}
+
+  ]
+}

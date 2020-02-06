@@ -1,0 +1,153 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T01:27:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1997119486,
+  "lat": 51.1099758,
+  "lon": 17.0311585,
+  "tags": {
+    "amenity": "pub",
+    "microbrewery": "yes",
+    "name": "Spiż",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4320247200,
+  "lat": 51.0839922,
+  "lon": 17.2843495,
+  "tags": {
+    "craft": "brewery",
+    "name": "Browar Widawa"
+  }
+},
+{
+  "type": "node",
+  "id": 4344137199,
+  "lat": 51.1319657,
+  "lon": 17.0591678,
+  "tags": {
+    "addr:city": "Wrocław",
+    "addr:housenumber": "2",
+    "addr:postcode": "51-162",
+    "addr:street": "Jana Długosza",
+    "craft": "brewery",
+    "name": "Browar Stu Mostów",
+    "phone": "+48 501 822 305",
+    "website": "https://100mostow.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 5021892490,
+  "lat": 51.0817022,
+  "lon": 17.0708040,
+  "tags": {
+    "addr:city": "Wrocław",
+    "addr:housenumber": "2-4",
+    "addr:postcode": "50-514",
+    "addr:street": "Międzyleska",
+    "craft": "brewery",
+    "name": "Warsztat Piwowarski",
+    "product": "beer"
+  }
+},
+{
+  "type": "node",
+  "id": 6107246758,
+  "lat": 51.1507474,
+  "lon": 17.0228756,
+  "tags": {
+    "addr:city": "Wrocław",
+    "addr:housenumber": "4",
+    "addr:postcode": "51-117",
+    "addr:street": "Paprotna",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "capacity": "200",
+    "cuisine": "polish",
+    "email": "rezerwacje@browarprost.pl",
+    "microbrewery": "yes",
+    "name": "Browar Prost",
+    "opening_hours": "Mo closed, Tu-Th 15:00-22:00, Fr 15:00-00:00, Sa 12:00-00:00, Su 12:00-20:00",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "phone": "+48 71 321 07 47",
+    "smoking": "outside",
+    "takeaway": "no",
+    "website": "http://www.browarprost.pl"
+  }
+},
+{
+  "type": "node",
+  "id": 6905025596,
+  "lat": 50.8927971,
+  "lon": 16.7271169,
+  "tags": {
+    "addr:city": "Sobótka",
+    "addr:postcode": "55-050",
+    "addr:street": "Armii Krajowej",
+    "craft": "brewery",
+    "name": "Browar Wieżyca",
+    "opening_hours": "09:00-16:00",
+    "phone": "+48 519 797 367",
+    "website": "http://browarwiezyca.pl"
+  }
+},
+{
+  "type": "way",
+  "id": 396349557,
+  "nodes": [
+    5265151858,
+    5265151855,
+    5265151854,
+    5265151857,
+    5265151858
+  ],
+  "tags": {
+    "addr:city": "Kąty Wrocławskie",
+    "addr:housenumber": "11",
+    "addr:postcode": "55-080",
+    "addr:street": "1 Maja",
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Browar Caminus",
+    "source:geometry": "geoportal.gov.pl, GPS"
+  }
+},
+{
+  "type": "node",
+  "id": 5265151854,
+  "lat": 51.0307795,
+  "lon": 16.7666201
+},
+{
+  "type": "node",
+  "id": 5265151855,
+  "lat": 51.0308327,
+  "lon": 16.7664300
+},
+{
+  "type": "node",
+  "id": 5265151857,
+  "lat": 51.0309210,
+  "lon": 16.7667225
+},
+{
+  "type": "node",
+  "id": 5265151858,
+  "lat": 51.0309734,
+  "lon": 16.7665355
+}
+
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T08:52:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2753810968,
+  "lat": 45.8331633,
+  "lon": 1.2559131,
+  "tags": {
+    "addr:housenumber": "8",
+    "addr:street": "Place Denis Dussoubs",
+    "amenity": "bar",
+    "contact:phone": "+33 5 55 79 37 98",
+    "contact:website": "http://www.bieres-michard.com/la-brasserie/",
+    "microbrewery": "yes",
+    "name": "Bières Michard",
+    "opening_hours": "Tu-Sa 16:00-01:00",
+    "outdoor_seating": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2787257831,
+  "lat": 45.8364687,
+  "lon": 1.3061606,
+  "tags": {
+    "addr:city": "Panazol",
+    "addr:postcode": "87350",
+    "addr:street": "place francois mitterand",
+    "craft": "brewery",
+    "name": "La Beausserie"
+  }
+},
+{
+  "type": "way",
+  "id": 70373966,
+  "nodes": [
+    839730245,
+    839734371,
+    839728490,
+    839731256,
+    839733349,
+    839734833,
+    839730245
+  ],
+  "tags": {
+    "building": "yes",
+    "contact:website": "http://www.bieres-michard.com",
+    "craft": "brewery",
+    "name": "Brasserie Michard",
+    "source": "extraction vectorielle: cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+  }
+},
+{
+  "type": "way",
+  "id": 70525417,
+  "nodes": [
+    841602369,
+    841594720,
+    841602459,
+    841601766,
+    841602369
+  ],
+  "tags": {
+    "addr:housenumber": "7",
+    "addr:street": "Place Sadi Carnot",
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Le Comptoir Carnot",
+    "source": "extraction vectorielle: cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+    "wall": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 841594720,
+  "lat": 45.8402510,
+  "lon": 1.2581800
+},
+{
+  "type": "node",
+  "id": 841601766,
+  "lat": 45.8401970,
+  "lon": 1.2581726
+},
+{
+  "type": "node",
+  "id": 841602369,
+  "lat": 45.8402143,
+  "lon": 1.2582121
+},
+{
+  "type": "node",
+  "id": 841602459,
+  "lat": 45.8402337,
+  "lon": 1.2581405
+},
+{
+  "type": "node",
+  "id": 839728490,
+  "lat": 45.8548259,
+  "lon": 1.2878375
+},
+{
+  "type": "node",
+  "id": 839730245,
+  "lat": 45.8545334,
+  "lon": 1.2876172
+},
+{
+  "type": "node",
+  "id": 839731256,
+  "lat": 45.8548734,
+  "lon": 1.2875299
+},
+{
+  "type": "node",
+  "id": 839733349,
+  "lat": 45.8545631,
+  "lon": 1.2874294
+},
+{
+  "type": "node",
+  "id": 839734371,
+  "lat": 45.8545147,
+  "lon": 1.2877370
+},
+{
+  "type": "node",
+  "id": 839734833,
+  "lat": 45.8545444,
+  "lon": 1.2875481
+}
+
+  ]
+}

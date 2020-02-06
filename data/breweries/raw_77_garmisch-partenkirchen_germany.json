@@ -1,0 +1,424 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-05T23:02:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 275514440,
+  "lat": 47.5680689,
+  "lon": 10.6956606,
+  "tags": {
+    "addr:city": "Füssen",
+    "addr:country": "DE",
+    "addr:housenumber": "7",
+    "addr:postcode": "87629",
+    "addr:street": "Ottostraße",
+    "amenity": "restaurant",
+    "cuisine": "italian;regional",
+    "email": "info@beim-olivenbauer.de",
+    "microbrewery": "yes",
+    "name": "Beim Olivenbauer",
+    "operator": "Rainer Jörg",
+    "outdoor_seating": "yes",
+    "phone": "+49 8362 6250",
+    "source": "http://www.beim-olivenbauer.de/fuessen-frame.htm",
+    "source:date": "2015-07-20",
+    "website": "http://www.beim-olivenbauer.de/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 450194444,
+  "lat": 47.5954683,
+  "lon": 11.0665985,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "microbrewery": "yes",
+    "name": "Maximilian",
+    "toilets:wheelchair": "yes",
+    "tourism": "hotel",
+    "website": "http://www.maximilian-oberammergau.de/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 825333033,
+  "lat": 47.4053941,
+  "lon": 10.7186867,
+  "tags": {
+    "addr:city": "Berwang",
+    "addr:country": "AT",
+    "addr:housenumber": "38",
+    "addr:place": "Rinnen",
+    "addr:postcode": "6622",
+    "amenity": "restaurant",
+    "microbrewery": "yes",
+    "name": "Stadl Bräu"
+  }
+},
+{
+  "type": "node",
+  "id": 966540827,
+  "lat": 47.5742494,
+  "lon": 10.7351181,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "german",
+    "microbrewery": "yes",
+    "name": "Schlossbrauhaus Schwangau",
+    "outdoor_seating": "yes",
+    "website": "http://www.schlossbrauhaus.de/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1033677775,
+  "lat": 47.2543756,
+  "lon": 11.3882326,
+  "tags": {
+    "addr:city": "Innsbruck",
+    "addr:country": "AT",
+    "addr:housenumber": "11a",
+    "addr:postcode": "6020",
+    "addr:street": "Feldstraße",
+    "amenity": "pub",
+    "craft": "brewery",
+    "fax": "+43 512 937970",
+    "microbrewery": "yes",
+    "name": "Tiroler Bier",
+    "opening_hours": "Mo,We,Fr 14:00-18:00",
+    "operator": "Harald Baumgartner",
+    "phone": "+43 664 2346839",
+    "website": "https://www.tirolerbier.at/"
+  }
+},
+{
+  "type": "node",
+  "id": 1033677779,
+  "lat": 47.2603824,
+  "lon": 11.2565848,
+  "tags": {
+    "addr:city": "Unterperfuss",
+    "addr:country": "AT",
+    "addr:housenumber": "32",
+    "addr:postcode": "6178",
+    "addr:street": "Unterperfuss",
+    "amenity": "restaurant",
+    "brewery": "Branger Alm",
+    "cuisine": "regional",
+    "microbrewery": "yes",
+    "name": "Branger Alm",
+    "opening_hours": "Mo-Su, PH 11:00+",
+    "phone": "+43 5232 2209",
+    "website": "http://www.brangeralm.at"
+  }
+},
+{
+  "type": "node",
+  "id": 1565939937,
+  "lat": 47.6800849,
+  "lon": 11.2010503,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "microbrewery": "yes",
+    "name": "Gaststätte Griesbräu",
+    "outdoor_seating": "yes",
+    "phone": "+49 8841 1422",
+    "toilets:wheelchair": "no",
+    "website": "https://griesbraeu.de/",
+    "wheelchair": "limited",
+    "wheelchair:description": "Rampe am Eingang, Toilette nicht behindertengerecht"
+  }
+},
+{
+  "type": "node",
+  "id": 1780533576,
+  "lat": 47.6766465,
+  "lon": 11.2010581,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "info@karg-murnau.de",
+    "microbrewery": "yes",
+    "name": "Karg´s Bräustüberl",
+    "name:de": "Karg Bräustüberl",
+    "name:en": "Karg Bräustüberl",
+    "opening_hours": "We-Su 10:00-14:00,18:00-23:00; Tu OFF",
+    "phone": "+49 8841 8272",
+    "toilets:wheelchair": "no",
+    "website": "https://karg-murnau.de/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4730537764,
+  "lat": 47.3290426,
+  "lon": 11.1856614,
+  "tags": {
+    "addr:city": "Seefeld in Tirol",
+    "addr:housenumber": "30",
+    "addr:postcode": "6100",
+    "addr:street": "Klosterstraße",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "cuisine": "burger;regional",
+    "diet:meat": "yes",
+    "microbrewery": "yes",
+    "name": "Bräukeller & Grill",
+    "opening_hours": "Mo-Su,PH 12:00-21:30",
+    "phone": "+43 5212 2621",
+    "website": "https://www.klosterbraeu.com/de/kulinarik/braeukeller-grill/"
+  }
+},
+{
+  "type": "node",
+  "id": 6029508185,
+  "lat": 47.6644905,
+  "lon": 11.2852700,
+  "tags": {
+    "addr:city": "Schlehdorf",
+    "addr:housenumber": "1",
+    "addr:postcode": "82444",
+    "addr:street": "An der Glentleiten",
+    "craft": "brewery",
+    "name": "Glentleitner Brauerei",
+    "opening_hours": "Tu-Su 09:00-18:00",
+    "operator": "Brauerei Karg",
+    "product": "beer",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 67395762,
+  "nodes": [
+    1911022809,
+    813901642,
+    813901852,
+    813901276,
+    1911022809
+  ],
+  "tags": {
+    "building": "yes",
+    "craft": "brewery",
+    "email": "mail@brauerei-mittenwald.de",
+    "name": "Brauerei Mittenwald",
+    "phone": "+49 (0) 8823 1007/1008",
+    "website": "https://www.brauerei-mittenwald.de/"
+  }
+},
+{
+  "type": "way",
+  "id": 218351914,
+  "nodes": [
+    2275970497,
+    2275970492,
+    1109029067,
+    2275970470,
+    2275970478,
+    2275970497
+  ],
+  "tags": {
+    "addr:city": "Füssen",
+    "addr:country": "DE",
+    "addr:housenumber": "10",
+    "addr:postcode": "87629",
+    "addr:street": "Schrannengasse",
+    "amenity": "restaurant",
+    "biergarten": "yes",
+    "building": "yes",
+    "building:levels": "3",
+    "cuisine": "german",
+    "email": "info@woaze.de",
+    "fax": "+49 8362 505304",
+    "microbrewery": "yes",
+    "name": "Gasthof Woaze",
+    "operator": "Erwin Müller",
+    "phone": "+49 8362 6312",
+    "roof:levels": "2",
+    "source": "http://www.woaze.de/",
+    "source:date": "2015-07-20",
+    "website": "http://www.woaze.de/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 278509331,
+  "nodes": [
+    701240822,
+    701240806,
+    701240837,
+    1135578016,
+    701240790,
+    701240794,
+    701240798,
+    1193597395,
+    1193597375,
+    1135578023,
+    2828713301,
+    1235916883,
+    701240822
+  ],
+  "tags": {
+    "addr:city": "Innsbruck",
+    "addr:country": "AT",
+    "addr:housenumber": "53",
+    "addr:postcode": "6020",
+    "addr:street": "Maria-Theresien-Straße",
+    "amenity": "restaurant",
+    "building": "yes",
+    "contact:email": "office@theresienbraeu.com",
+    "contact:fax": "+435125875805",
+    "cuisine": "regional",
+    "fax": "+43 512 5875805",
+    "microbrewery": "yes",
+    "name": "Theresienbräu",
+    "opening_hours": "Mo-Th 11:00-23:00; Fr 11:00-01:00, Sa 11:00-02:00",
+    "operator": "Theresienbrauerei und Gaststätte GmbH",
+    "outdoor_seating": "yes",
+    "phone": "+43 512 587580",
+    "website": "https://www.theresienbraeu.com",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 701240790,
+  "lat": 47.2634460,
+  "lon": 11.3954839
+},
+{
+  "type": "node",
+  "id": 701240794,
+  "lat": 47.2634359,
+  "lon": 11.3953455
+},
+{
+  "type": "node",
+  "id": 701240798,
+  "lat": 47.2634111,
+  "lon": 11.3953499
+},
+{
+  "type": "node",
+  "id": 701240806,
+  "lat": 47.2635562,
+  "lon": 11.3953159
+},
+{
+  "type": "node",
+  "id": 701240822,
+  "lat": 47.2635586,
+  "lon": 11.3951293
+},
+{
+  "type": "node",
+  "id": 701240837,
+  "lat": 47.2635547,
+  "lon": 11.3954301
+},
+{
+  "type": "node",
+  "id": 1135578016,
+  "lat": 47.2635544,
+  "lon": 11.3954567
+},
+{
+  "type": "node",
+  "id": 1135578023,
+  "lat": 47.2633919,
+  "lon": 11.3949044
+},
+{
+  "type": "node",
+  "id": 1193597375,
+  "lat": 47.2633890,
+  "lon": 11.3951245
+},
+{
+  "type": "node",
+  "id": 1193597395,
+  "lat": 47.2633954,
+  "lon": 11.3951247
+},
+{
+  "type": "node",
+  "id": 1235916883,
+  "lat": 47.2635614,
+  "lon": 11.3949092
+},
+{
+  "type": "node",
+  "id": 2828713301,
+  "lat": 47.2634717,
+  "lon": 11.3949067
+},
+{
+  "type": "node",
+  "id": 1109029067,
+  "lat": 47.5686224,
+  "lon": 10.7008827
+},
+{
+  "type": "node",
+  "id": 2275970470,
+  "lat": 47.5685273,
+  "lon": 10.7008385
+},
+{
+  "type": "node",
+  "id": 2275970478,
+  "lat": 47.5685558,
+  "lon": 10.7007041
+},
+{
+  "type": "node",
+  "id": 2275970492,
+  "lat": 47.5686318,
+  "lon": 10.7008866
+},
+{
+  "type": "node",
+  "id": 2275970497,
+  "lat": 47.5686598,
+  "lon": 10.7007529
+},
+{
+  "type": "node",
+  "id": 813901276,
+  "lat": 47.4363479,
+  "lon": 11.2606499
+},
+{
+  "type": "node",
+  "id": 813901642,
+  "lat": 47.4366216,
+  "lon": 11.2604344
+},
+{
+  "type": "node",
+  "id": 813901852,
+  "lat": 47.4365414,
+  "lon": 11.2607616
+},
+{
+  "type": "node",
+  "id": 1911022809,
+  "lat": 47.4364305,
+  "lon": 11.2603166
+}
+
+  ]
+}

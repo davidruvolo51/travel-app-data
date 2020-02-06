@@ -1,0 +1,706 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T00:31:03Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 296505082,
+  "lat": 49.1961947,
+  "lon": 16.6071115,
+  "tags": {
+    "addr:conscriptionnumber": "120",
+    "addr:housenumber": "120/4",
+    "addr:postcode": "60200",
+    "addr:street": "Jakubská",
+    "addr:streetnumber": "4",
+    "amenity": "restaurant",
+    "brewery": "Pivovar Pegas",
+    "microbrewery": "yes",
+    "name": "Pivnice Pegas",
+    "opening_hours": "Mo-Th 10:00-24:00, Fr-Sa 10:00-01:00, Su 11:00-23:00",
+    "source:addr": "uir_adr",
+    "source:position": "cuzk:km",
+    "uir_adr:ADRESA_KOD": "19094736",
+    "website": "https://brnorestauracepivnice.hotelpegas.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 950717682,
+  "lat": 49.2073769,
+  "lon": 16.4839073,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "12",
+    "addr:postcode": "64100",
+    "addr:street": "Ríšova",
+    "amenity": "restaurant",
+    "internet_access": "wlan",
+    "microbrewery": "yes",
+    "name": "U Richarda",
+    "smoking": "separated",
+    "website": "http://www.uricharda.eu/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1348030649,
+  "lat": 49.1190497,
+  "lon": 16.7274486,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "info@pivovarsokolnice.cz",
+    "microbrewery": "yes",
+    "name": "Panský pivovar",
+    "outdoor_seating": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "payment:visa_debit": "yes",
+    "payment:visa_electron": "yes",
+    "phone": "+420 602 818 126",
+    "website": "pivovarsokolnice.cz/restaurace/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1725973748,
+  "lat": 49.2107440,
+  "lon": 16.6803864,
+  "tags": {
+    "amenity": "pub",
+    "contact:email": "lisenskypivovar@seznam.cz",
+    "contact:website": "http://www.lisenskypivovar.cz/",
+    "internet_access": "wlan",
+    "microbrewery": "yes",
+    "name": "Líšeňský pivovar",
+    "opening_hours": "Su-Th 11:00-23:00; Fr-Sa 11:00-24:00"
+  }
+},
+{
+  "type": "node",
+  "id": 1835649099,
+  "lat": 49.2419827,
+  "lon": 16.5740720,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "6",
+    "addr:postcode": "62100",
+    "addr:street": "Kytnerova",
+    "addr:streetnumber": "1",
+    "amenity": "restaurant",
+    "brewery": "Moravia",
+    "cuisine": "regional",
+    "email": "info@pivovarskarestauracemoravia.cz",
+    "microbrewery": "yes",
+    "name": "Pivovarská restaurace Moravia",
+    "opening_hours": "Mo-Th 11:00-23:00; Fr 11:00-24:00; Sa 12:00-24:00; Su 12:00-22:00",
+    "phone": "+420 739 027 509",
+    "website": "https://www.pivovarskarestauracemoravia.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 2608463986,
+  "lat": 49.2118204,
+  "lon": 16.6003611,
+  "tags": {
+    "craft": "brewery",
+    "man_made": "works",
+    "name": "Lucky Bastard",
+    "website": "http://www.lucky-bastard.cz/en/"
+  }
+},
+{
+  "type": "node",
+  "id": 2812477065,
+  "lat": 49.2139818,
+  "lon": 16.8237850,
+  "tags": {
+    "addr:conscriptionnumber": "389",
+    "addr:housenumber": "389",
+    "addr:place": "Viničné Šumice",
+    "addr:postcode": "66406",
+    "amenity": "restaurant",
+    "cuisine": "czech",
+    "kids_area": "yes",
+    "microbrewery": "yes",
+    "name": "Restaurace Hradská",
+    "opening_hours": "16:00-22:00; Fr,Sa 16:00-23:00",
+    "phone": "+420603114193",
+    "ref:ruian:addr": "27754952",
+    "reservation": "yes",
+    "start_date": "2003-11-26",
+    "website": "http://www.vildenberg.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 2812478788,
+  "lat": 49.4047758,
+  "lon": 16.4142450,
+  "tags": {
+    "addr:city": "Lomnice",
+    "addr:conscriptionnumber": "330",
+    "addr:housenumber": "330",
+    "addr:place": "Lomnice",
+    "addr:postcode": "67923",
+    "addr:street": "nám. Palackého",
+    "craft": "brewery",
+    "email": "hcipivo@geniusnoci.cz",
+    "name": "Pivovar Genius noci",
+    "operator": "Genius noci, s.r.o.",
+    "product": "beer",
+    "ref:ruian:addr": "15202780",
+    "website": "https://www.geniusnoci.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 2903191124,
+  "lat": 49.1496421,
+  "lon": 16.8886673,
+  "tags": {
+    "amenity": "restaurant",
+    "microbrewery": "yes",
+    "name": "Slavkovský pivovar",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 3686251421,
+  "lat": 49.3090272,
+  "lon": 16.4435639,
+  "tags": {
+    "craft": "brewery",
+    "microbrewery": "yes",
+    "name": "KVASAR",
+    "website": "http://pivokvasar.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 3781762994,
+  "lat": 49.5154191,
+  "lon": 16.2469031,
+  "tags": {
+    "craft": "brewery",
+    "name": "Pivovar Centrum Eden",
+    "name:en": "brewery Eden Centre",
+    "operator": "Centrum Eden"
+  }
+},
+{
+  "type": "node",
+  "id": 3971800420,
+  "lat": 49.0561221,
+  "lon": 16.6500884,
+  "tags": {
+    "craft": "brewery",
+    "name": "Pivovar Xaver",
+    "website": "http://www.pivoxaver.eu/"
+  }
+},
+{
+  "type": "node",
+  "id": 3978068599,
+  "lat": 49.6126285,
+  "lon": 16.6863819,
+  "tags": {
+    "addr:conscriptionnumber": "771",
+    "addr:housenumber": "771",
+    "addr:place": "Velké Opatovice",
+    "addr:postcode": "67963",
+    "addr:street": "Rybník",
+    "amenity": "pub",
+    "microbrewery": "yes",
+    "name": "Hospoda na hřišti",
+    "ref:ruian:addr": "74471341"
+  }
+},
+{
+  "type": "node",
+  "id": 4591240594,
+  "lat": 49.2786883,
+  "lon": 17.0407385,
+  "tags": {
+    "addr:housenumber": "19",
+    "addr:street": "Topolany",
+    "amenity": "restaurant",
+    "microbrewery": "yes",
+    "name": "Minipivovar Lišák"
+  }
+},
+{
+  "type": "node",
+  "id": 5661548196,
+  "lat": 49.5332566,
+  "lon": 16.6254781,
+  "tags": {
+    "amenity": "restaurant",
+    "microbrewery": "yes",
+    "name": "Ohrada",
+    "outdoor_seating": "yes",
+    "source": "bing;survey",
+    "website": "http://www.pivovarohrada.cz/restaurace"
+  }
+},
+{
+  "type": "node",
+  "id": 6242693314,
+  "lat": 49.3412256,
+  "lon": 16.4199283,
+  "tags": {
+    "craft": "brewery",
+    "email": "Lukas.Fiala@pivovargrado.cz",
+    "name": "Minipivovar Grádo",
+    "opening_hours": "Mo-Fr 08:00-15:00",
+    "phone": "+420 605 295 072",
+    "website": "http://www.pivovargrado.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 6443915049,
+  "lat": 49.1189702,
+  "lon": 16.7274072,
+  "tags": {
+    "craft": "brewery",
+    "email": "info@pivovarsokolnice.cz",
+    "name": "Panský pivovar Sokolnice",
+    "phone": "+420 602 818 126",
+    "website": "http://pivovarsokolnice.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 6641376971,
+  "lat": 49.3421572,
+  "lon": 16.4349726,
+  "tags": {
+    "craft": "brewery",
+    "name": "Pivovar Květnice",
+    "website": "http://pivovar-kvetnice.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 6641376972,
+  "lat": 49.3438356,
+  "lon": 16.4209949,
+  "tags": {
+    "craft": "brewery",
+    "name": "Pivovar Tišnov",
+    "website": "https://www.pivovartisnov.cz/"
+  }
+},
+{
+  "type": "way",
+  "id": 71507411,
+  "nodes": [
+    850631585,
+    850631599,
+    850631659,
+    850631676,
+    850631751,
+    850631771,
+    1553556847,
+    850631615,
+    850631610,
+    850631672,
+    1553556844,
+    850631690,
+    850631767,
+    850631785,
+    850631626,
+    850631643,
+    850631710,
+    850631708,
+    850631782,
+    3805552361,
+    850631638,
+    3805552372,
+    850631656,
+    850631614,
+    3805552241,
+    3805552234,
+    850631585
+  ],
+  "tags": {
+    "building": "warehouse",
+    "building:ruian:type": "12",
+    "craft": "brewery",
+    "name": "sladovna Briess",
+    "ref:ruian:building": "48686298",
+    "source": "cuzk:ruian",
+    "start_date": "1890"
+  }
+},
+{
+  "type": "way",
+  "id": 88715418,
+  "nodes": [
+    4771634096,
+    4771634095,
+    4771634094,
+    2970050652,
+    2970050639,
+    2970050631,
+    2970050638,
+    2970050600,
+    2970050613,
+    4771634093,
+    4771634096
+  ],
+  "tags": {
+    "amenity": "restaurant",
+    "building": "house",
+    "building:flats": "1",
+    "building:levels": "1",
+    "craft": "brewery",
+    "microbrewery": "yes",
+    "name": "Svatojakubský pivovar",
+    "ref:ruian:building": "18469116",
+    "source": "cuzk:ruian"
+  }
+},
+{
+  "type": "way",
+  "id": 742713462,
+  "nodes": [
+    733152258,
+    712628640,
+    712628243,
+    712628366,
+    3799539009,
+    3799539008,
+    712628561,
+    712628687,
+    712628459,
+    712628588,
+    6952731425,
+    6952731424,
+    3480947431,
+    733152265,
+    733152258
+  ],
+  "tags": {
+    "craft": "brewery",
+    "email": "pivovar@hauskrecht.cz",
+    "man_made": "works",
+    "name": "Minipivovar Hauskrecht",
+    "website": "http://www.hauskrecht.cz"
+  }
+},
+{
+  "type": "node",
+  "id": 2970050600,
+  "lat": 49.2250021,
+  "lon": 16.2300181
+},
+{
+  "type": "node",
+  "id": 2970050613,
+  "lat": 49.2250420,
+  "lon": 16.2298774
+},
+{
+  "type": "node",
+  "id": 2970050631,
+  "lat": 49.2250963,
+  "lon": 16.2303626
+},
+{
+  "type": "node",
+  "id": 2970050638,
+  "lat": 49.2251464,
+  "lon": 16.2301204
+},
+{
+  "type": "node",
+  "id": 2970050639,
+  "lat": 49.2251498,
+  "lon": 16.2303883
+},
+{
+  "type": "node",
+  "id": 2970050652,
+  "lat": 49.2252239,
+  "lon": 16.2300115
+},
+{
+  "type": "node",
+  "id": 4771634093,
+  "lat": 49.2250603,
+  "lon": 16.2298918
+},
+{
+  "type": "node",
+  "id": 4771634094,
+  "lat": 49.2250668,
+  "lon": 16.2298969
+},
+{
+  "type": "node",
+  "id": 4771634095,
+  "lat": 49.2250838,
+  "lon": 16.2298719
+},
+{
+  "type": "node",
+  "id": 4771634096,
+  "lat": 49.2250787,
+  "lon": 16.2298682
+},
+{
+  "type": "node",
+  "id": 3480947431,
+  "lat": 49.1874440,
+  "lon": 16.6263796
+},
+{
+  "type": "node",
+  "id": 6952731424,
+  "lat": 49.1874415,
+  "lon": 16.6263780
+},
+{
+  "type": "node",
+  "id": 6952731425,
+  "lat": 49.1874222,
+  "lon": 16.6263914
+},
+{
+  "type": "node",
+  "id": 712628243,
+  "lat": 49.1874421,
+  "lon": 16.6284450
+},
+{
+  "type": "node",
+  "id": 712628366,
+  "lat": 49.1874395,
+  "lon": 16.6281267
+},
+{
+  "type": "node",
+  "id": 712628459,
+  "lat": 49.1874266,
+  "lon": 16.6269341
+},
+{
+  "type": "node",
+  "id": 712628561,
+  "lat": 49.1874308,
+  "lon": 16.6273479
+},
+{
+  "type": "node",
+  "id": 712628588,
+  "lat": 49.1874234,
+  "lon": 16.6266268
+},
+{
+  "type": "node",
+  "id": 712628640,
+  "lat": 49.1876572,
+  "lon": 16.6284405
+},
+{
+  "type": "node",
+  "id": 712628687,
+  "lat": 49.1874272,
+  "lon": 16.6269914
+},
+{
+  "type": "node",
+  "id": 733152258,
+  "lat": 49.1876617,
+  "lon": 16.6287155
+},
+{
+  "type": "node",
+  "id": 3799539008,
+  "lat": 49.1874355,
+  "lon": 16.6277585
+},
+{
+  "type": "node",
+  "id": 3799539009,
+  "lat": 49.1874364,
+  "lon": 16.6278494
+},
+{
+  "type": "node",
+  "id": 733152265,
+  "lat": 49.1881871,
+  "lon": 16.6285779
+},
+{
+  "type": "node",
+  "id": 850631638,
+  "lat": 49.2095640,
+  "lon": 16.6329136
+},
+{
+  "type": "node",
+  "id": 3805552361,
+  "lat": 49.2095519,
+  "lon": 16.6329897
+},
+{
+  "type": "node",
+  "id": 850631585,
+  "lat": 49.2092675,
+  "lon": 16.6352050
+},
+{
+  "type": "node",
+  "id": 850631599,
+  "lat": 49.2091641,
+  "lon": 16.6351382
+},
+{
+  "type": "node",
+  "id": 850631610,
+  "lat": 49.2092469,
+  "lon": 16.6346442
+},
+{
+  "type": "node",
+  "id": 850631614,
+  "lat": 49.2095907,
+  "lon": 16.6339649
+},
+{
+  "type": "node",
+  "id": 850631615,
+  "lat": 49.2092653,
+  "lon": 16.6346498
+},
+{
+  "type": "node",
+  "id": 850631626,
+  "lat": 49.2093584,
+  "lon": 16.6340939
+},
+{
+  "type": "node",
+  "id": 850631643,
+  "lat": 49.2092599,
+  "lon": 16.6340354
+},
+{
+  "type": "node",
+  "id": 850631656,
+  "lat": 49.2097827,
+  "lon": 16.6331076
+},
+{
+  "type": "node",
+  "id": 850631659,
+  "lat": 49.2093019,
+  "lon": 16.6346384
+},
+{
+  "type": "node",
+  "id": 850631672,
+  "lat": 49.2092405,
+  "lon": 16.6346927
+},
+{
+  "type": "node",
+  "id": 850631676,
+  "lat": 49.2092914,
+  "lon": 16.6346322
+},
+{
+  "type": "node",
+  "id": 850631690,
+  "lat": 49.2091673,
+  "lon": 16.6346684
+},
+{
+  "type": "node",
+  "id": 850631708,
+  "lat": 49.2094830,
+  "lon": 16.6339156
+},
+{
+  "type": "node",
+  "id": 850631710,
+  "lat": 49.2093130,
+  "lon": 16.6338207
+},
+{
+  "type": "node",
+  "id": 850631751,
+  "lat": 49.2093372,
+  "lon": 16.6344683
+},
+{
+  "type": "node",
+  "id": 850631767,
+  "lat": 49.2092140,
+  "lon": 16.6343478
+},
+{
+  "type": "node",
+  "id": 850631771,
+  "lat": 49.2092963,
+  "lon": 16.6344415
+},
+{
+  "type": "node",
+  "id": 850631782,
+  "lat": 49.2096664,
+  "lon": 16.6330991
+},
+{
+  "type": "node",
+  "id": 850631785,
+  "lat": 49.2092895,
+  "lon": 16.6343732
+},
+{
+  "type": "node",
+  "id": 1553556844,
+  "lat": 49.2092068,
+  "lon": 16.6346839
+},
+{
+  "type": "node",
+  "id": 1553556847,
+  "lat": 49.2092705,
+  "lon": 16.6345969
+},
+{
+  "type": "node",
+  "id": 3805552234,
+  "lat": 49.2093484,
+  "lon": 16.6349152
+},
+{
+  "type": "node",
+  "id": 3805552241,
+  "lat": 49.2094499,
+  "lon": 16.6345295
+},
+{
+  "type": "node",
+  "id": 3805552372,
+  "lat": 49.2097074,
+  "lon": 16.6330515
+}
+
+  ]
+}

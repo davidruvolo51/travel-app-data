@@ -1,0 +1,293 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T09:53:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2905821301,
+  "lat": 51.5034011,
+  "lon": 3.8893862,
+  "tags": {
+    "addr:city": "Goes",
+    "addr:housenumber": "5",
+    "addr:postcode": "4461HZ",
+    "addr:street": "Singelstraat",
+    "amenity": "restaurant",
+    "craft": "brewery",
+    "cuisine": "international;french;regional",
+    "description": "Slot Oostende is een historische plek, misschien wel de vroegst bebouwde plek van Goes. De geschiedenis is een nieuw leven ingeblazen in de vorm van een bierbrouwerij, restaurant, hotel, cafe en (bier)winkel.",
+    "email": "info@slotoostende.nl",
+    "microbrewery": "yes",
+    "name": "Slot Oostende",
+    "phone": "+31614562981",
+    "tourism": "yes",
+    "website": "https://www.slotoostende.nl/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5684489923,
+  "lat": 51.4826838,
+  "lon": 3.8826772,
+  "tags": {
+    "addr:city": "Goes",
+    "addr:housenumber": "3",
+    "addr:postcode": "4462HG",
+    "addr:street": "Diazweg",
+    "craft": "brewery",
+    "name": "Het Biercollectief",
+    "operator": "Het Biercollectief",
+    "product": "beer",
+    "source": "BAG",
+    "source:date": "2018-06-08",
+    "website": "https://www.hetbiercollectief.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 5808575162,
+  "lat": 51.2430966,
+  "lon": 3.3459452,
+  "tags": {
+    "craft": "brewery",
+    "name": "Bryggja",
+    "product": "beer"
+  }
+},
+{
+  "type": "node",
+  "id": 6494474312,
+  "lat": 51.4828504,
+  "lon": 3.8823272,
+  "tags": {
+    "craft": "brewery",
+    "name": "Dutch Craft Beer",
+    "operator": "Het Biercollectief",
+    "product": "beer",
+    "website": "https://www.hetbiercollectief.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 6494474313,
+  "lat": 51.4830959,
+  "lon": 3.8826678,
+  "tags": {
+    "craft": "brewery",
+    "name": "Emelisse",
+    "operator": "Het Biercollectief",
+    "phone": "+31 6 14746754",
+    "product": "beer",
+    "website": "https://www.emelisse.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 6494474314,
+  "lat": 51.4829155,
+  "lon": 3.8830380,
+  "tags": {
+    "craft": "brewery",
+    "name": "Slot Oostende",
+    "operator": "Het Biercollectief",
+    "phone": "+31 06 1456 2981",
+    "product": "beer",
+    "website": "https://www.slotoostende.nl/"
+  }
+},
+{
+  "type": "way",
+  "id": 281440448,
+  "nodes": [
+    2853952493,
+    2853952475,
+    2853952467,
+    2853952455,
+    2853952449,
+    2853952433,
+    2853952434,
+    2853952426,
+    2853952421,
+    2853952403,
+    2853952413,
+    2853952411,
+    2853952417,
+    2853952420,
+    2853952432,
+    2853952448,
+    2853952446,
+    2853952452,
+    2853952454,
+    2853952486,
+    2853952476,
+    2853952496,
+    2853952489,
+    2853952502,
+    2853952493
+  ],
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "craft": "brewery",
+    "microbrewery": "yes",
+    "name": "Emelisse",
+    "ref:bag": "1695100000005935",
+    "source": "BAG",
+    "source:date": "2014-05-07",
+    "start_date": "2005",
+    "website": "http://www.emelisse.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 2853952403,
+  "lat": 51.5752858,
+  "lon": 3.7090201
+},
+{
+  "type": "node",
+  "id": 2853952411,
+  "lat": 51.5753058,
+  "lon": 3.7088728
+},
+{
+  "type": "node",
+  "id": 2853952413,
+  "lat": 51.5753152,
+  "lon": 3.7088778
+},
+{
+  "type": "node",
+  "id": 2853952417,
+  "lat": 51.5753221,
+  "lon": 3.7087939
+},
+{
+  "type": "node",
+  "id": 2853952420,
+  "lat": 51.5753317,
+  "lon": 3.7087989
+},
+{
+  "type": "node",
+  "id": 2853952421,
+  "lat": 51.5753344,
+  "lon": 3.7090459
+},
+{
+  "type": "node",
+  "id": 2853952426,
+  "lat": 51.5753437,
+  "lon": 3.7090011
+},
+{
+  "type": "node",
+  "id": 2853952432,
+  "lat": 51.5753610,
+  "lon": 3.7086566
+},
+{
+  "type": "node",
+  "id": 2853952433,
+  "lat": 51.5753612,
+  "lon": 3.7090151
+},
+{
+  "type": "node",
+  "id": 2853952434,
+  "lat": 51.5753621,
+  "lon": 3.7090109
+},
+{
+  "type": "node",
+  "id": 2853952446,
+  "lat": 51.5753998,
+  "lon": 3.7087274
+},
+{
+  "type": "node",
+  "id": 2853952448,
+  "lat": 51.5754092,
+  "lon": 3.7086822
+},
+{
+  "type": "node",
+  "id": 2853952449,
+  "lat": 51.5754099,
+  "lon": 3.7090410
+},
+{
+  "type": "node",
+  "id": 2853952452,
+  "lat": 51.5754184,
+  "lon": 3.7087373
+},
+{
+  "type": "node",
+  "id": 2853952454,
+  "lat": 51.5754193,
+  "lon": 3.7087329
+},
+{
+  "type": "node",
+  "id": 2853952455,
+  "lat": 51.5754195,
+  "lon": 3.7089944
+},
+{
+  "type": "node",
+  "id": 2853952467,
+  "lat": 51.5754457,
+  "lon": 3.7090083
+},
+{
+  "type": "node",
+  "id": 2853952475,
+  "lat": 51.5754572,
+  "lon": 3.7089529
+},
+{
+  "type": "node",
+  "id": 2853952476,
+  "lat": 51.5754584,
+  "lon": 3.7088052
+},
+{
+  "type": "node",
+  "id": 2853952486,
+  "lat": 51.5754680,
+  "lon": 3.7087587
+},
+{
+  "type": "node",
+  "id": 2853952489,
+  "lat": 51.5754732,
+  "lon": 3.7088748
+},
+{
+  "type": "node",
+  "id": 2853952493,
+  "lat": 51.5754768,
+  "lon": 3.7089633
+},
+{
+  "type": "node",
+  "id": 2853952496,
+  "lat": 51.5754847,
+  "lon": 3.7088192
+},
+{
+  "type": "node",
+  "id": 2853952502,
+  "lat": 51.5754929,
+  "lon": 3.7088852
+}
+
+  ]
+}

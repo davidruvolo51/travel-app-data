@@ -1,0 +1,325 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T01:55:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1176897893,
+  "lat": 54.3491700,
+  "lon": 18.6604752,
+  "tags": {
+    "addr:city": "Gdańsk",
+    "addr:country": "PL",
+    "addr:housenumber": "9",
+    "addr:street": "Szafarnia",
+    "amenity": "pub",
+    "microbrewery": "yes",
+    "name": "Brovarnia",
+    "operator": "Brovarnia",
+    "phone": "+48 583201970"
+  }
+},
+{
+  "type": "node",
+  "id": 1777255606,
+  "lat": 54.3486621,
+  "lon": 18.6532605,
+  "tags": {
+    "addr:city": "Gdańsk",
+    "addr:housenumber": "44",
+    "addr:street": "Długi Targ",
+    "amenity": "restaurant",
+    "level": "-1",
+    "microbrewery": "yes",
+    "name": "Piwnica Rajców",
+    "website": "http://piwnicarajcowgdansk.pl/pl/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1779537646,
+  "lat": 54.3500166,
+  "lon": 18.6515695,
+  "tags": {
+    "addr:city": "Gdańsk",
+    "addr:housenumber": "50/51",
+    "addr:postcode": "80-831",
+    "addr:street": "Piwna",
+    "amenity": "restaurant",
+    "brewery": "Pils;Alt;Pszeniczne",
+    "contact:phone": "+48583013924",
+    "cuisine": "spanish;mexican;tapas",
+    "email": "holatapas.gdansk@gmail.com",
+    "internet_access": "wlan",
+    "microbrewery": "yes",
+    "name": "Hola Tapas",
+    "opening_hours": "Su-Th 11:00-00:00; Fr-Sa 11:00-03:00",
+    "phone": "+48519446189",
+    "source": "survey",
+    "website": "http://browarpiwna.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 2984291023,
+  "lat": 54.4434257,
+  "lon": 18.5636000,
+  "tags": {
+    "addr:city": "Sopot",
+    "addr:housenumber": "35",
+    "addr:postcode": "81-767",
+    "addr:street": "Bohaterów Monte Cassino",
+    "amenity": "pub",
+    "microbrewery": "yes",
+    "name": "Browar Miejski Sopot",
+    "opening_hours": "Mo-Su 11:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+48583420242",
+    "website": "http://www.browarmiejskisopot.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 3828344596,
+  "lat": 54.3550759,
+  "lon": 18.6464568,
+  "tags": {
+    "addr:city": "Gdańsk",
+    "addr:housenumber": "1",
+    "addr:postcode": "80-851",
+    "addr:street": "Karmelicka",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "microbrewery": "yes",
+    "name": "Lubrow mini browar",
+    "opening_hours": "Mo-Th, Su 11:00-00:00; Fr, Sa 11:00-04:00",
+    "phone": "502 268 290",
+    "source": "website http://www.barbados.com.pl/",
+    "website": "http://www.barbados.com.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 4086331334,
+  "lat": 54.5138263,
+  "lon": 18.5501066,
+  "tags": {
+    "amenity": "restaurant",
+    "email": "biuro@browarportgdynia.com",
+    "microbrewery": "yes",
+    "name": "Browar Port Gdynia",
+    "opening_hours": "Mo-Th 11:00-23:00; Fr-Sa 11:00-01:00; Su 11:00-23:00",
+    "phone": "+48 733 000 355",
+    "website": "https://www.browarportgdynia.com/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4470476528,
+  "lat": 54.3542200,
+  "lon": 18.6445885,
+  "tags": {
+    "addr:city": "Gdańsk",
+    "addr:country": "PL",
+    "addr:housenumber": "4",
+    "addr:postcode": "80-895",
+    "addr:street": "Podwale Grodzkie",
+    "amenity": "restaurant",
+    "microbrewery": "yes",
+    "name": "PG4",
+    "phone": "+48 668 215 608",
+    "source:addr": "Urząd Miasta Gdańsk",
+    "website": "http://pg4.pl"
+  }
+},
+{
+  "type": "way",
+  "id": 402854226,
+  "nodes": [
+    4052594360,
+    4052594362,
+    4052594363,
+    4052594365,
+    4052594364,
+    4052594350,
+    4052594345,
+    4052594347,
+    4052594346,
+    4052594349,
+    4052594344,
+    4052594348,
+    4052594352,
+    4052594353,
+    4052594351,
+    4053157697,
+    4052594354,
+    4052594355,
+    4052594357,
+    4052594356,
+    4052594359,
+    4052594358,
+    4052594361,
+    4052594360
+  ],
+  "tags": {
+    "addr:housenumber": "2",
+    "addr:street": "Bulwar Nadmorski",
+    "building": "brewery",
+    "craft": "brewery",
+    "email": "biuro@browarportgdynia.com",
+    "microbrewery": "yes",
+    "name": "Browar Port Gdynia",
+    "opening_hours": "Mo-Th 11:00-23:00; Fr-Sa 11:00-01:00; Su 11:00-23:00",
+    "phone": "+48 733 000 355",
+    "website": "https://www.browarportgdynia.com/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4052594344,
+  "lat": 54.5136437,
+  "lon": 18.5502586
+},
+{
+  "type": "node",
+  "id": 4052594345,
+  "lat": 54.5136569,
+  "lon": 18.5501903
+},
+{
+  "type": "node",
+  "id": 4052594346,
+  "lat": 54.5136587,
+  "lon": 18.5502029
+},
+{
+  "type": "node",
+  "id": 4052594347,
+  "lat": 54.5136595,
+  "lon": 18.5502020
+},
+{
+  "type": "node",
+  "id": 4052594348,
+  "lat": 54.5136614,
+  "lon": 18.5503385
+},
+{
+  "type": "node",
+  "id": 4052594349,
+  "lat": 54.5136675,
+  "lon": 18.5502421
+},
+{
+  "type": "node",
+  "id": 4052594350,
+  "lat": 54.5136815,
+  "lon": 18.5500585
+},
+{
+  "type": "node",
+  "id": 4052594351,
+  "lat": 54.5138070,
+  "lon": 18.5502130
+},
+{
+  "type": "node",
+  "id": 4052594352,
+  "lat": 54.5138121,
+  "lon": 18.5502365
+},
+{
+  "type": "node",
+  "id": 4052594353,
+  "lat": 54.5138124,
+  "lon": 18.5502352
+},
+{
+  "type": "node",
+  "id": 4052594354,
+  "lat": 54.5138659,
+  "lon": 18.5501729
+},
+{
+  "type": "node",
+  "id": 4052594355,
+  "lat": 54.5138710,
+  "lon": 18.5501963
+},
+{
+  "type": "node",
+  "id": 4052594356,
+  "lat": 54.5140164,
+  "lon": 18.5500484
+},
+{
+  "type": "node",
+  "id": 4052594357,
+  "lat": 54.5140261,
+  "lon": 18.5500913
+},
+{
+  "type": "node",
+  "id": 4052594358,
+  "lat": 54.5140264,
+  "lon": 18.5499917
+},
+{
+  "type": "node",
+  "id": 4052594359,
+  "lat": 54.5140362,
+  "lon": 18.5500345
+},
+{
+  "type": "node",
+  "id": 4052594360,
+  "lat": 54.5140364,
+  "lon": 18.5499344
+},
+{
+  "type": "node",
+  "id": 4052594361,
+  "lat": 54.5140464,
+  "lon": 18.5499779
+},
+{
+  "type": "node",
+  "id": 4052594362,
+  "lat": 54.5140556,
+  "lon": 18.5499218
+},
+{
+  "type": "node",
+  "id": 4052594363,
+  "lat": 54.5140612,
+  "lon": 18.5498865
+},
+{
+  "type": "node",
+  "id": 4052594364,
+  "lat": 54.5140724,
+  "lon": 18.5497514
+},
+{
+  "type": "node",
+  "id": 4052594365,
+  "lat": 54.5140793,
+  "lon": 18.5497792
+},
+{
+  "type": "node",
+  "id": 4053157697,
+  "lat": 54.5138477,
+  "lon": 18.5501853
+}
+
+  ]
+}

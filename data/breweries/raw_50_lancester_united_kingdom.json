@@ -1,0 +1,511 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-05T22:00:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 582468165,
+  "lat": 53.8177432,
+  "lon": -3.0480707,
+  "tags": {
+    "addr:city": "Blackpool",
+    "addr:housename": "139-141",
+    "addr:postcode": "FY1 3NX",
+    "addr:street": "Church Street",
+    "amenity": "pub",
+    "microbrewery": "yes",
+    "name": "The Brew Room"
+  }
+},
+{
+  "type": "node",
+  "id": 2688569834,
+  "lat": 54.1932265,
+  "lon": -3.0931922,
+  "tags": {
+    "addr:city": "Ulverston",
+    "addr:postcode": "LA12 0AU",
+    "addr:street": "Lightburn Road",
+    "craft": "brewery",
+    "name": "Ulverston Brewing Company",
+    "phone": "+44 1229 586 870",
+    "website": "http://www.ulverstonbrewingcompany.co.uk/"
+  }
+},
+{
+  "type": "node",
+  "id": 2995549527,
+  "lat": 54.2005573,
+  "lon": -2.9533162,
+  "tags": {
+    "addr:city": "Cartmel",
+    "addr:housenumber": "4",
+    "addr:postcode": "LA11 6PG",
+    "addr:street": "Unsworth's Yard",
+    "craft": "brewery",
+    "name": "Unsworth's Yard Brewery",
+    "phone": "+44 7810 461313",
+    "website": "www.unsworthsyardbrewery.co.uk"
+  }
+},
+{
+  "type": "node",
+  "id": 3231723546,
+  "lat": 54.1890796,
+  "lon": -3.0774240,
+  "tags": {
+    "addr:city": "Ulverston",
+    "addr:housenumber": "3",
+    "addr:postcode": "LA12 9EE",
+    "addr:street": "Low Mill Business Park",
+    "craft": "brewery",
+    "name": "Stringers",
+    "operator": "Stringers Beer"
+  }
+},
+{
+  "type": "node",
+  "id": 4081187478,
+  "lat": 53.8472380,
+  "lon": -2.9912666,
+  "tags": {
+    "addr:city": "Poulton-le-Fylde",
+    "addr:postcode": "FY6 7BX",
+    "addr:street": "Chapel Street",
+    "craft": "brewery",
+    "name": "Chapel Street Brewhouse"
+  }
+},
+{
+  "type": "node",
+  "id": 4081187479,
+  "lat": 53.8435327,
+  "lon": -2.9748863,
+  "tags": {
+    "craft": "brewery",
+    "name": "Fuzzy Duck Brewery"
+  }
+},
+{
+  "type": "node",
+  "id": 5146230709,
+  "lat": 54.2019393,
+  "lon": -2.5979040,
+  "tags": {
+    "addr:city": "Kirkby Lonsdale",
+    "addr:postcode": "LA6 2AB",
+    "addr:street": "New Road",
+    "amenity": "pub",
+    "changing_table": "yes",
+    "internet_access": "yes",
+    "internet_access:fee": "no",
+    "microbrewery": "yes",
+    "name": "The Royal Barn",
+    "opening_hours": "Mo-We 10:00-21:30; Th-Sa 10:00-23:00; Su 11:00-22:00",
+    "operator": "Kirkby Lonsdale Brewery",
+    "outdoor_seating": "no",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "toilets": "yes",
+    "toilets:access": "customers",
+    "website": "https://www.kirkbylonsdalebrewery.com/the-royal-barn.html",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6230379451,
+  "lat": 53.7783152,
+  "lon": -2.5527223,
+  "tags": {
+    "addr:city": "Blackburn",
+    "addr:housename": "Thwaites Brewery",
+    "addr:postcode": "BB2 7LB",
+    "addr:street": "Myerscough Road",
+    "craft": "brewery",
+    "name": "Thwaites Brewery",
+    "operator": "Thwaites",
+    "product": "beer"
+  }
+},
+{
+  "type": "node",
+  "id": 6340018290,
+  "lat": 54.0475638,
+  "lon": -2.7961987,
+  "tags": {
+    "addr:city": "Lancaster",
+    "addr:housename": "The Old Stables",
+    "addr:postcode": "LA1 1PU",
+    "addr:street": "Bulk Street",
+    "amenity": "pub",
+    "craft": "brewery",
+    "fhrs:id": "1077047",
+    "name": "Accidental Brewery",
+    "website": "https://www.facebook.com/accidentalbrewery/"
+  }
+},
+{
+  "type": "way",
+  "id": 354074230,
+  "nodes": [
+    3598509652,
+    3598509653,
+    3598509654,
+    3598509655,
+    3598509656,
+    3598509661,
+    3598509671,
+    3598509672,
+    3598509670,
+    3598509669,
+    3598509668,
+    3598509667,
+    3598509666,
+    3598509665,
+    3598509664,
+    3598509663,
+    3598509662,
+    3598509657,
+    3598509658,
+    3598509659,
+    3598509660,
+    3598509652
+  ],
+  "tags": {
+    "addr:city": "Kendal",
+    "addr:postcode": "LA9 6BS",
+    "addr:street": "Beezon Road",
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Thomas Hardy Brewery Packaging Plant",
+    "phone": "+44 1539 721791",
+    "website": "https://www.thomashardybrewery.co.uk/content/thomas-hardy-kendal"
+  }
+},
+{
+  "type": "way",
+  "id": 359514088,
+  "nodes": [
+    3642152027,
+    3642152028,
+    3642152029,
+    3642152030,
+    3642152027
+  ],
+  "tags": {
+    "addr:city": "Lancaster",
+    "addr:postcode": "LA1 3LA",
+    "addr:street": "Wyresdale Road",
+    "building": "industrial",
+    "craft": "brewery",
+    "fhrs:id": "553221",
+    "name": "Lancaster Brewery",
+    "phone": "+44 1524 848537",
+    "product": "beer",
+    "website": "https://www.lancasterbrewery.co.uk/"
+  }
+},
+{
+  "type": "way",
+  "id": 436358244,
+  "nodes": [
+    4342299759,
+    4342299760,
+    4342299761,
+    4342299762,
+    4342299759
+  ],
+  "tags": {
+    "amenity": "pub",
+    "building": "commercial",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "microbrewery": "yes",
+    "name": "The Brewhouse",
+    "opening_hours": "Sa 11:00-23:00; Sa-Su 11:00-21:00; PH closed",
+    "operator": "Cross Bay Brewery",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "toilets": "yes",
+    "toilets:access": "customers",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 511825810,
+  "nodes": [
+    5005818814,
+    5005818812,
+    5005818816,
+    5005818813,
+    5005818817,
+    5005818815,
+    5005818814
+  ],
+  "tags": {
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Old School Brewery"
+  }
+},
+{
+  "type": "way",
+  "id": 700422483,
+  "nodes": [
+    6577588026,
+    6577588024,
+    6577588027,
+    6577588025,
+    6577588026
+  ],
+  "tags": {
+    "building": "barn",
+    "craft": "brewery",
+    "name": "Farm Yard Ales"
+  }
+},
+{
+  "type": "node",
+  "id": 6577588024,
+  "lat": 53.9364470,
+  "lon": -2.8558998
+},
+{
+  "type": "node",
+  "id": 6577588025,
+  "lat": 53.9363363,
+  "lon": -2.8557685
+},
+{
+  "type": "node",
+  "id": 6577588026,
+  "lat": 53.9363362,
+  "lon": -2.8558995
+},
+{
+  "type": "node",
+  "id": 6577588027,
+  "lat": 53.9364471,
+  "lon": -2.8557687
+},
+{
+  "type": "node",
+  "id": 4342299759,
+  "lat": 54.0565544,
+  "lon": -2.8365583
+},
+{
+  "type": "node",
+  "id": 4342299760,
+  "lat": 54.0564798,
+  "lon": -2.8363523
+},
+{
+  "type": "node",
+  "id": 4342299761,
+  "lat": 54.0561092,
+  "lon": -2.8367416
+},
+{
+  "type": "node",
+  "id": 4342299762,
+  "lat": 54.0561837,
+  "lon": -2.8369476
+},
+{
+  "type": "node",
+  "id": 3642152027,
+  "lat": 54.0392169,
+  "lon": -2.7817773
+},
+{
+  "type": "node",
+  "id": 3642152028,
+  "lat": 54.0395891,
+  "lon": -2.7813262
+},
+{
+  "type": "node",
+  "id": 3642152029,
+  "lat": 54.0394926,
+  "lon": -2.7810952
+},
+{
+  "type": "node",
+  "id": 3642152030,
+  "lat": 54.0391203,
+  "lon": -2.7815463
+},
+{
+  "type": "node",
+  "id": 5005818812,
+  "lat": 54.1454093,
+  "lon": -2.7699365
+},
+{
+  "type": "node",
+  "id": 5005818813,
+  "lat": 54.1453130,
+  "lon": -2.7700482
+},
+{
+  "type": "node",
+  "id": 5005818814,
+  "lat": 54.1454287,
+  "lon": -2.7698290
+},
+{
+  "type": "node",
+  "id": 5005818815,
+  "lat": 54.1453031,
+  "lon": -2.7697627
+},
+{
+  "type": "node",
+  "id": 5005818816,
+  "lat": 54.1453399,
+  "lon": -2.7698999
+},
+{
+  "type": "node",
+  "id": 5005818817,
+  "lat": 54.1452568,
+  "lon": -2.7700185
+},
+{
+  "type": "node",
+  "id": 3598509652,
+  "lat": 54.3328899,
+  "lon": -2.7435360
+},
+{
+  "type": "node",
+  "id": 3598509653,
+  "lat": 54.3331727,
+  "lon": -2.7436103
+},
+{
+  "type": "node",
+  "id": 3598509654,
+  "lat": 54.3335049,
+  "lon": -2.7437802
+},
+{
+  "type": "node",
+  "id": 3598509655,
+  "lat": 54.3336507,
+  "lon": -2.7438898
+},
+{
+  "type": "node",
+  "id": 3598509656,
+  "lat": 54.3336444,
+  "lon": -2.7439381
+},
+{
+  "type": "node",
+  "id": 3598509657,
+  "lat": 54.3334536,
+  "lon": -2.7444504
+},
+{
+  "type": "node",
+  "id": 3598509658,
+  "lat": 54.3330117,
+  "lon": -2.7442545
+},
+{
+  "type": "node",
+  "id": 3598509659,
+  "lat": 54.3330633,
+  "lon": -2.7437271
+},
+{
+  "type": "node",
+  "id": 3598509660,
+  "lat": 54.3328755,
+  "lon": -2.7436882
+},
+{
+  "type": "node",
+  "id": 3598509661,
+  "lat": 54.3337054,
+  "lon": -2.7439676
+},
+{
+  "type": "node",
+  "id": 3598509662,
+  "lat": 54.3335459,
+  "lon": -2.7444692
+},
+{
+  "type": "node",
+  "id": 3598509663,
+  "lat": 54.3335600,
+  "lon": -2.7443941
+},
+{
+  "type": "node",
+  "id": 3598509664,
+  "lat": 54.3336382,
+  "lon": -2.7444370
+},
+{
+  "type": "node",
+  "id": 3598509665,
+  "lat": 54.3336288,
+  "lon": -2.7445255
+},
+{
+  "type": "node",
+  "id": 3598509666,
+  "lat": 54.3337164,
+  "lon": -2.7445309
+},
+{
+  "type": "node",
+  "id": 3598509667,
+  "lat": 54.3337304,
+  "lon": -2.7444799
+},
+{
+  "type": "node",
+  "id": 3598509668,
+  "lat": 54.3338821,
+  "lon": -2.7445068
+},
+{
+  "type": "node",
+  "id": 3598509669,
+  "lat": 54.3339666,
+  "lon": -2.7441795
+},
+{
+  "type": "node",
+  "id": 3598509670,
+  "lat": 54.3338008,
+  "lon": -2.7439676
+},
+{
+  "type": "node",
+  "id": 3598509671,
+  "lat": 54.3336648,
+  "lon": -2.7441849
+},
+{
+  "type": "node",
+  "id": 3598509672,
+  "lat": 54.3337351,
+  "lon": -2.7442198
+}
+
+  ]
+}

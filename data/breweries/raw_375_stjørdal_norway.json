@@ -1,0 +1,197 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T13:40:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 33209415,
+  "lat": 63.4224338,
+  "lon": 10.3957807,
+  "tags": {
+    "amenity": "pub",
+    "microbrewery": "yes",
+    "name": "Daglighallen"
+  }
+},
+{
+  "type": "node",
+  "id": 153142045,
+  "lat": 63.4313285,
+  "lon": 10.3928913,
+  "tags": {
+    "amenity": "pub",
+    "craft": "brewery",
+    "food": "yes",
+    "microbrewery": "yes",
+    "name": "Trondhjem Mikrobryggeri",
+    "opening_hours": "Mo 15:00-24:00; Th-Fr 15:00-02:00; Sa 12:00-02:00; Su Closed",
+    "outdoor_seating": "yes",
+    "website": "https://www.tmb.no/",
+    "wheelchair": "limited",
+    "wikidata": "Q12007654",
+    "wikipedia": "no:Trondhjem Mikrobryggeri"
+  }
+},
+{
+  "type": "node",
+  "id": 682348373,
+  "lat": 63.5838664,
+  "lon": 10.6230267,
+  "tags": {
+    "amenity": "restaurant",
+    "microbrewery": "yes",
+    "name": "Klostergården",
+    "toilets:wheelchair": "yes",
+    "website": "https://klostergardentautra.no/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3826475163,
+  "lat": 63.4427235,
+  "lon": 10.3482700,
+  "tags": {
+    "addr:city": "Trondheim",
+    "addr:housenumber": "48",
+    "addr:postcode": "7018",
+    "addr:street": "Bynesveien",
+    "craft": "brewery",
+    "name": "Austmann Bryggeri",
+    "website": "https://austmann.no/"
+  }
+},
+{
+  "type": "node",
+  "id": 3844368712,
+  "lat": 63.4867415,
+  "lon": 10.9419902,
+  "tags": {
+    "craft": "brewery",
+    "name": "Stjørdalsbryggeriet",
+    "operator": "Stjørdalsbryggeriet",
+    "website": "http://stjordalsbryggeriet.no"
+  }
+},
+{
+  "type": "node",
+  "id": 3985333057,
+  "lat": 63.4307698,
+  "lon": 10.3936429,
+  "tags": {
+    "addr:city": "Trondheim",
+    "addr:housenumber": "20",
+    "addr:postcode": "7011",
+    "addr:street": "Kongens gate",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "microbrewery": "yes",
+    "name": "Frati",
+    "opening_hours": "Mo-Sa 11:00-23:00; Su 13:00-23:00",
+    "toilets:wheelchair": "yes",
+    "website": "http://www.frati.no/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3987117865,
+  "lat": 63.4722793,
+  "lon": 11.1078261,
+  "tags": {
+    "craft": "brewery",
+    "name": "Granås Gård"
+  }
+},
+{
+  "type": "node",
+  "id": 5202389883,
+  "lat": 63.3839224,
+  "lon": 10.3638193,
+  "tags": {
+    "addr:city": "Trondheim",
+    "addr:housenumber": "9",
+    "addr:postcode": "7028",
+    "addr:street": "Forsøkslia",
+    "amenity": "bar",
+    "microbrewery": "yes",
+    "name": "Brew Lab & Hammerhead Brewing Company taproom",
+    "operator": "Hammerhead Brewing Company",
+    "outdoor_seating": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5782201801,
+  "lat": 63.3963067,
+  "lon": 10.3982279,
+  "tags": {
+    "addr:city": "Trondheim",
+    "addr:housenumber": "10",
+    "addr:postcode": "7037",
+    "addr:street": "Sluppenvegen",
+    "amenity": "pub",
+    "brewery": "yes",
+    "microbrewery": "yes",
+    "name": "Austmann Taproom",
+    "opening_hours": "Tu-Th 15:00-23:00; Fr-Sa 15:00-24:00",
+    "outdoor_seating": "yes",
+    "product": "beer",
+    "smoking": "outside",
+    "website": "https://www.austmann.no/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 224736260,
+  "nodes": [
+    2335282167,
+    2335282169,
+    2335282162,
+    2335282161,
+    2335282167
+  ],
+  "tags": {
+    "addr:city": "Trondheim",
+    "addr:housenumber": "45",
+    "addr:postcode": "7018",
+    "addr:street": "Osloveien",
+    "building": "yes",
+    "craft": "brewery",
+    "name": "To Tårn Bryggeri",
+    "website": "http://www.totaarn.no"
+  }
+},
+{
+  "type": "node",
+  "id": 2335282161,
+  "lat": 63.4229985,
+  "lon": 10.3750388
+},
+{
+  "type": "node",
+  "id": 2335282162,
+  "lat": 63.4230161,
+  "lon": 10.3751552
+},
+{
+  "type": "node",
+  "id": 2335282167,
+  "lat": 63.4231594,
+  "lon": 10.3749174
+},
+{
+  "type": "node",
+  "id": 2335282169,
+  "lat": 63.4231770,
+  "lon": 10.3750338
+}
+
+  ]
+}

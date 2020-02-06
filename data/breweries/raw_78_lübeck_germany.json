@@ -1,0 +1,120 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-05T23:04:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 389394617,
+  "lat": 54.1367064,
+  "lon": 10.6167924,
+  "tags": {
+    "addr:city": "Eutin",
+    "addr:housenumber": "11",
+    "addr:postcode": "23701",
+    "addr:street": "Markt",
+    "amenity": "restaurant",
+    "contact:phone": "+49 4521 766777",
+    "cuisine": "regional",
+    "microbrewery": "yes",
+    "name": "Brauhaus Eutin",
+    "opening_hours": "Mo-Su 11:30-23:00",
+    "outdoor_seating": "yes",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.brauhaus-eutin.de/",
+    "wheelchair": "limited",
+    "wheelchair:description": "Über eine Rampe können Sie in unser Brauhaus gelangen. Dort finden Sie auch ein behinderten gerechtes WC. Wir freuen uns auf Ihren Besuch. Familie Gutzeit und das Team vom Brauhaus Eutin"
+  }
+},
+{
+  "type": "node",
+  "id": 435081518,
+  "lat": 53.8682830,
+  "lon": 10.6809617,
+  "tags": {
+    "alt_name": "Traditions-Brauerei und Gaststätte",
+    "amenity": "pub",
+    "microbrewery": "yes",
+    "name": "Brauberger",
+    "phone": "+4945171444",
+    "website": "www.brauberger.de",
+    "wheelchair": "no",
+    "wikidata": "Q899983"
+  }
+},
+{
+  "type": "node",
+  "id": 1693082092,
+  "lat": 54.1056592,
+  "lon": 10.8113706,
+  "tags": {
+    "addr:city": "Neustadt in Holstein",
+    "addr:housenumber": "2-4",
+    "addr:postcode": "23730",
+    "addr:street": "Schiffbrücke",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "fax": "+49 4561 517090",
+    "internet_access": "no",
+    "microbrewery": "yes",
+    "name": "Klüver's Brauhaus",
+    "opening_hours": "00:00-22:00",
+    "operator": "Fisch Feinkost Klüver GmbH & Co. KG",
+    "phone": "+49 4561 5170-0",
+    "smoking": "yes",
+    "website": "http://www.kluevers-brauhaus.de/brauerei_inhalt/navigation.php",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "way",
+  "id": 176236185,
+  "nodes": [
+    1867805547,
+    1867805555,
+    1867805553,
+    1867805550,
+    1867805547
+  ],
+  "tags": {
+    "addr:city": "Grönwohld",
+    "addr:housenumber": "21c",
+    "addr:postcode": "22956",
+    "addr:street": "Poststraße",
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Grönwohlder Hausbrauerei",
+    "website": "https://www.groenwohlder.de/index_.php"
+  }
+},
+{
+  "type": "node",
+  "id": 1867805547,
+  "lat": 53.6394443,
+  "lon": 10.4086419
+},
+{
+  "type": "node",
+  "id": 1867805550,
+  "lat": 53.6394218,
+  "lon": 10.4088038
+},
+{
+  "type": "node",
+  "id": 1867805553,
+  "lat": 53.6395975,
+  "lon": 10.4088733
+},
+{
+  "type": "node",
+  "id": 1867805555,
+  "lat": 53.6396200,
+  "lon": 10.4087114
+}
+
+  ]
+}

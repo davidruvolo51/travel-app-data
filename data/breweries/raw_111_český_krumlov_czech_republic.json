@@ -1,0 +1,1328 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T00:15:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 296706844,
+  "lat": 48.9768671,
+  "lon": 14.4736420,
+  "tags": {
+    "addr:city": "České Budějovice",
+    "addr:conscriptionnumber": "235",
+    "addr:country": "CZ",
+    "addr:housenumber": "235/27",
+    "addr:postcode": "37001",
+    "addr:street": "Krajinská",
+    "addr:streetnumber": "27",
+    "amenity": "restaurant",
+    "is_in": "České Budějovice 1, České Budějovice, Jihočeský kraj, CZ",
+    "microbrewery": "yes",
+    "name": "Minipivovar Krajinská 27",
+    "ref:ruian": "23342234",
+    "source:addr": "ruian"
+  }
+},
+{
+  "type": "node",
+  "id": 942823973,
+  "lat": 49.0152300,
+  "lon": 14.6114892,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "microbrewery": "yes",
+    "name": "Restaurace Na obci",
+    "opening_hours": "Su-th 09:00-22:00,Fr-Sa 09:00-24:00",
+    "outdoor_seating": "yes",
+    "smoking": "separated",
+    "takeaway": "yes",
+    "website": "http://restaurace-obec.cz/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2693861233,
+  "lat": 48.8269712,
+  "lon": 14.3631826,
+  "tags": {
+    "addr:city": "Mirkovice",
+    "addr:housenumber": "1",
+    "addr:postcode": "38232",
+    "addr:street": "Svachova lhotka",
+    "craft": "brewery",
+    "microbrewery": "yes",
+    "name": "Glokner Hostinský pivovar",
+    "product": "beer",
+    "website": "http://www.villagegolfhotel.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 2694581227,
+  "lat": 48.9749659,
+  "lon": 14.4725161,
+  "tags": {
+    "addr:city": "České Budějovice",
+    "addr:housenumber": "7/55",
+    "addr:postcode": "37001",
+    "addr:street": "Česká",
+    "craft": "brewery",
+    "name": "Beeránek",
+    "website": "http://beeranek.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 2737126880,
+  "lat": 48.8126420,
+  "lon": 14.3200577,
+  "tags": {
+    "craft": "brewery",
+    "man_made": "works",
+    "name": "Pivovar Eggenberg",
+    "name:de": "Brauerei Eggenberg",
+    "name:en": "Brewery Eggenberg",
+    "name:ru": "Пивоваренный завод Эггенберг",
+    "phone": "+420 380 711 426",
+    "website": "http://www.eggenberg.cz/",
+    "wikidata": "Q1297476",
+    "wikipedia": "cs:Pivovar Eggenberg"
+  }
+},
+{
+  "type": "node",
+  "id": 3822997275,
+  "lat": 48.6159204,
+  "lon": 14.3125700,
+  "tags": {
+    "amenity": "pub",
+    "microbrewery": "yes",
+    "name": "Pajzl u Jakuba",
+    "website": "http://www.vysebrodskypivovar.cz"
+  }
+},
+{
+  "type": "node",
+  "id": 4011963596,
+  "lat": 48.9113582,
+  "lon": 13.8920177,
+  "tags": {
+    "craft": "brewery",
+    "microbrewery": "yes",
+    "name": "Městský pivovar Gabretus",
+    "website": "https://www.hotelbobik.eu/"
+  }
+},
+{
+  "type": "node",
+  "id": 4783981279,
+  "lat": 48.9766288,
+  "lon": 14.4754558,
+  "tags": {
+    "addr:city": "České Budějovice",
+    "addr:country": "CZ",
+    "addr:housenumber": "15",
+    "addr:postcode": "37001",
+    "addr:street": "U Černé věže",
+    "amenity": "restaurant",
+    "cuisine": "steak_house",
+    "email": "rezervace@nasefarma.cz",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "microbrewery": "yes",
+    "name": "Naše farma",
+    "operator": "ATS Invest s.r.o.",
+    "phone": "+420 605 228 803",
+    "smoking": "no",
+    "website": "http://www.nasefarma.cz/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 37211618,
+  "nodes": [
+    433297154,
+    433297143,
+    433297149,
+    433297150,
+    433297155,
+    433297157,
+    433297158,
+    433297159,
+    433297154
+  ],
+  "tags": {
+    "building": "yes",
+    "craft": "brewery",
+    "microbrewery": "yes",
+    "name": "Pivovar Prachatice",
+    "phone": "+420 602 107 007",
+    "website": "https://www.pivovarprachatice.cz/"
+  }
+},
+{
+  "type": "way",
+  "id": 60574704,
+  "nodes": [
+    756825940,
+    7005172537,
+    7005172536,
+    756825601,
+    756825847,
+    756825878,
+    7061684587,
+    756825726,
+    3257330048,
+    756825570,
+    7061684586,
+    756826217,
+    756826249,
+    756825692,
+    7005172540,
+    756825713,
+    756825562,
+    756826245,
+    756826134,
+    756826132,
+    756826240,
+    756825940
+  ],
+  "tags": {
+    "addr:city": "Český Krumlov",
+    "addr:postcode": "381 01",
+    "addr:street": "Pivovarská",
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Pivovar Eggenberg",
+    "operator": "Pivovar Eggenberg",
+    "product": "beer",
+    "source": "cuzk:km",
+    "website": "http://www.eggenberg.cz/",
+    "wikidata": "Q1297476",
+    "wikipedia": "cs:Pivovar Eggenberg"
+  }
+},
+{
+  "type": "way",
+  "id": 70855243,
+  "nodes": [
+    844787237,
+    844791544,
+    844792768,
+    844794633,
+    844793414,
+    844788616,
+    844787346,
+    5133422437,
+    5133422436,
+    844792118,
+    844790767,
+    844794487,
+    844793269,
+    844795110,
+    844793842,
+    844789105,
+    844787774,
+    844789873,
+    844788535,
+    844792724,
+    844791606,
+    844793332,
+    844792183,
+    844787289,
+    844794556,
+    844787152,
+    844794384,
+    844789729,
+    844788379,
+    844790635,
+    844789005,
+    844793194,
+    844792036,
+    844793808,
+    5133422435,
+    5133422434,
+    844792691,
+    5133422433,
+    5133422432,
+    844787718,
+    844795042,
+    844788461,
+    844787237
+  ],
+  "tags": {
+    "addr:city": "České Budějovice",
+    "addr:housenumber": "51",
+    "addr:postcode": "37001",
+    "addr:street": "Lidická tř.",
+    "building": "industrial",
+    "building:flats": "2",
+    "building:ruian:type": "3",
+    "craft": "brewery",
+    "man_made": "works",
+    "name": "Pivovar Samson",
+    "ref:ruian:building": "23048131",
+    "source": "cuzk:ruian",
+    "website": "https://www.samson.cz/cs-CZ/samson.html"
+  }
+},
+{
+  "type": "way",
+  "id": 97741399,
+  "nodes": [
+    6544347160,
+    6544347157,
+    3722360114,
+    1131470235,
+    1131469260,
+    1131468291,
+    1131475360,
+    1131473573,
+    6544347162,
+    6544347156,
+    3722360107,
+    1131475306,
+    6544347160
+  ],
+  "tags": {
+    "building": "house",
+    "building:flats": "3",
+    "building:levels": "1",
+    "building:ruian:type": "7",
+    "craft": "brewery",
+    "microbrewery": "yes",
+    "name": "Vyšebrodský minipivovar",
+    "phone": "+420 777 280 610",
+    "ref:ruian:building": "8701784",
+    "source": "cuzk:ruian",
+    "website": "http://www.vysebrodskypivovar.cz"
+  }
+},
+{
+  "type": "way",
+  "id": 137321285,
+  "nodes": [
+    3231522170,
+    3231522172,
+    1506375907,
+    3231522182,
+    3231522188,
+    3231522187,
+    3231522186,
+    3231522185,
+    3231522184,
+    3231522183,
+    1506375922,
+    3231522181,
+    1506375873,
+    1506375895,
+    1506375931,
+    1506375939,
+    1506375897,
+    3231522162,
+    3231522163,
+    6589106980,
+    1506375869,
+    1506375925,
+    1506375880,
+    3231522170
+  ],
+  "tags": {
+    "addr:city": "Volary",
+    "addr:country": "CZ",
+    "addr:housenumber": "325",
+    "addr:postcode": "384 51",
+    "addr:street": "Náměstí",
+    "amenity": "restaurant",
+    "building": "yes",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "microbrewery": "yes",
+    "name": "Bobík",
+    "opening_hours": "Mo-Th 10:00-22:00; Fr 10:00-23:00; Sa 11:00-23:00; Su,PH 11:00-22:00",
+    "operator": "Městský hotel Bobík s.r.o.",
+    "ref:ruian:building": "854301",
+    "source": "cuzk:ruian",
+    "tourism": "hotel",
+    "website": "https://www.hotelbobik.eu/"
+  }
+},
+{
+  "type": "way",
+  "id": 203438554,
+  "nodes": [
+    2134543590,
+    2134543589,
+    2134543581,
+    2134543580,
+    2134543579,
+    2134543578,
+    2134543576,
+    2138727752,
+    2134543574,
+    2134543567,
+    2134543571,
+    2134543572,
+    2134543573,
+    2134543590
+  ],
+  "tags": {
+    "addr:city": "Ulrichsberg",
+    "addr:country": "AT",
+    "addr:housenumber": "23",
+    "addr:postcode": "4161",
+    "addr:street": "Markt",
+    "amenity": "restaurant",
+    "building": "yes",
+    "microbrewery": "yes",
+    "name": "Ulrichsberger Hof",
+    "opening_hours": "Mo-Tu off",
+    "operator": "Rainer Anton Lanzersdorfer",
+    "phone": "+43 (07288) 71000"
+  }
+},
+{
+  "type": "way",
+  "id": 220292648,
+  "nodes": [
+    3359956244,
+    3359956235,
+    2294206498,
+    2294206496,
+    2294206497,
+    3611351829,
+    2294206495,
+    2294206494,
+    2294206493,
+    305452119,
+    2294206483,
+    2294206464,
+    2294206480,
+    2294206472,
+    2294206473,
+    2294206440,
+    2294206450,
+    3359956225,
+    3359956236,
+    3359956244
+  ],
+  "tags": {
+    "addr:city": "Aigen-Schlägl",
+    "addr:country": "AT",
+    "addr:housenumber": "3",
+    "addr:postcode": "4160",
+    "addr:street": "Schaubergstraße",
+    "amenity": "brewery",
+    "brewery": "Schlägl",
+    "building": "brewery",
+    "craft": "brewery",
+    "man_made": "works",
+    "name": "Stiftsbrauerei Schlägl",
+    "source": "geoimage.at"
+  }
+},
+{
+  "type": "way",
+  "id": 292617786,
+  "nodes": [
+    2961536304,
+    2961536314,
+    2961536305,
+    2961536306,
+    2961536320,
+    2961536312,
+    2961536310,
+    2961536304
+  ],
+  "tags": {
+    "building": "yes",
+    "craft": "brewery",
+    "microbrewery": "yes",
+    "name": "Minipivovar Žumberk",
+    "phone": "+420 774 232 886",
+    "website": "http://pivozumberk.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 305452119,
+  "lat": 48.6371799,
+  "lon": 13.9700399
+},
+{
+  "type": "node",
+  "id": 2294206440,
+  "lat": 48.6369081,
+  "lon": 13.9693225
+},
+{
+  "type": "node",
+  "id": 2294206450,
+  "lat": 48.6369890,
+  "lon": 13.9691700
+},
+{
+  "type": "node",
+  "id": 2294206464,
+  "lat": 48.6370882,
+  "lon": 13.9698565
+},
+{
+  "type": "node",
+  "id": 2294206472,
+  "lat": 48.6371401,
+  "lon": 13.9696338
+},
+{
+  "type": "node",
+  "id": 2294206473,
+  "lat": 48.6371496,
+  "lon": 13.9696159
+},
+{
+  "type": "node",
+  "id": 2294206480,
+  "lat": 48.6371804,
+  "lon": 13.9696828
+},
+{
+  "type": "node",
+  "id": 2294206483,
+  "lat": 48.6372031,
+  "lon": 13.9699961
+},
+{
+  "type": "node",
+  "id": 2294206493,
+  "lat": 48.6375375,
+  "lon": 13.9704744
+},
+{
+  "type": "node",
+  "id": 3359956225,
+  "lat": 48.6370752,
+  "lon": 13.9692747
+},
+{
+  "type": "node",
+  "id": 3359956235,
+  "lat": 48.6371445,
+  "lon": 13.9693589
+},
+{
+  "type": "node",
+  "id": 3359956236,
+  "lat": 48.6371472,
+  "lon": 13.9691345
+},
+{
+  "type": "node",
+  "id": 3359956244,
+  "lat": 48.6372174,
+  "lon": 13.9692171
+},
+{
+  "type": "node",
+  "id": 2294206494,
+  "lat": 48.6375892,
+  "lon": 13.9703768
+},
+{
+  "type": "node",
+  "id": 2294206495,
+  "lat": 48.6376389,
+  "lon": 13.9704372
+},
+{
+  "type": "node",
+  "id": 2294206496,
+  "lat": 48.6376946,
+  "lon": 13.9701842
+},
+{
+  "type": "node",
+  "id": 2294206497,
+  "lat": 48.6377424,
+  "lon": 13.9702422
+},
+{
+  "type": "node",
+  "id": 2294206498,
+  "lat": 48.6377453,
+  "lon": 13.9700887
+},
+{
+  "type": "node",
+  "id": 3611351829,
+  "lat": 48.6376909,
+  "lon": 13.9703391
+},
+{
+  "type": "node",
+  "id": 2134543567,
+  "lat": 48.6741772,
+  "lon": 13.9117446
+},
+{
+  "type": "node",
+  "id": 2134543571,
+  "lat": 48.6742005,
+  "lon": 13.9115266
+},
+{
+  "type": "node",
+  "id": 2134543572,
+  "lat": 48.6742847,
+  "lon": 13.9115441
+},
+{
+  "type": "node",
+  "id": 2134543573,
+  "lat": 48.6742984,
+  "lon": 13.9114393
+},
+{
+  "type": "node",
+  "id": 2134543574,
+  "lat": 48.6743831,
+  "lon": 13.9118253
+},
+{
+  "type": "node",
+  "id": 2134543576,
+  "lat": 48.6743986,
+  "lon": 13.9117271
+},
+{
+  "type": "node",
+  "id": 2134543578,
+  "lat": 48.6744341,
+  "lon": 13.9117420
+},
+{
+  "type": "node",
+  "id": 2134543579,
+  "lat": 48.6744364,
+  "lon": 13.9117295
+},
+{
+  "type": "node",
+  "id": 2134543580,
+  "lat": 48.6744929,
+  "lon": 13.9117474
+},
+{
+  "type": "node",
+  "id": 2134543581,
+  "lat": 48.6744947,
+  "lon": 13.9117309
+},
+{
+  "type": "node",
+  "id": 2134543589,
+  "lat": 48.6746359,
+  "lon": 13.9117653
+},
+{
+  "type": "node",
+  "id": 2134543590,
+  "lat": 48.6746660,
+  "lon": 13.9115308
+},
+{
+  "type": "node",
+  "id": 2138727752,
+  "lat": 48.6743966,
+  "lon": 13.9117399
+},
+{
+  "type": "node",
+  "id": 1506375869,
+  "lat": 48.9112196,
+  "lon": 13.8917332
+},
+{
+  "type": "node",
+  "id": 1506375873,
+  "lat": 48.9114555,
+  "lon": 13.8921068
+},
+{
+  "type": "node",
+  "id": 1506375880,
+  "lat": 48.9111852,
+  "lon": 13.8915818
+},
+{
+  "type": "node",
+  "id": 1506375895,
+  "lat": 48.9113912,
+  "lon": 13.8922113
+},
+{
+  "type": "node",
+  "id": 1506375897,
+  "lat": 48.9112067,
+  "lon": 13.8920580
+},
+{
+  "type": "node",
+  "id": 1506375907,
+  "lat": 48.9114362,
+  "lon": 13.8915902
+},
+{
+  "type": "node",
+  "id": 1506375922,
+  "lat": 48.9114235,
+  "lon": 13.8919684
+},
+{
+  "type": "node",
+  "id": 1506375925,
+  "lat": 48.9111800,
+  "lon": 13.8917284
+},
+{
+  "type": "node",
+  "id": 1506375931,
+  "lat": 48.9113359,
+  "lon": 13.8921344
+},
+{
+  "type": "node",
+  "id": 1506375939,
+  "lat": 48.9112636,
+  "lon": 13.8921399
+},
+{
+  "type": "node",
+  "id": 3231522162,
+  "lat": 48.9112065,
+  "lon": 13.8920502
+},
+{
+  "type": "node",
+  "id": 3231522163,
+  "lat": 48.9112088,
+  "lon": 13.8920504
+},
+{
+  "type": "node",
+  "id": 3231522170,
+  "lat": 48.9112882,
+  "lon": 13.8915950
+},
+{
+  "type": "node",
+  "id": 3231522172,
+  "lat": 48.9112887,
+  "lon": 13.8915792
+},
+{
+  "type": "node",
+  "id": 3231522181,
+  "lat": 48.9114207,
+  "lon": 13.8920572
+},
+{
+  "type": "node",
+  "id": 3231522182,
+  "lat": 48.9114316,
+  "lon": 13.8917346
+},
+{
+  "type": "node",
+  "id": 3231522183,
+  "lat": 48.9114356,
+  "lon": 13.8919694
+},
+{
+  "type": "node",
+  "id": 3231522184,
+  "lat": 48.9114366,
+  "lon": 13.8919376
+},
+{
+  "type": "node",
+  "id": 3231522185,
+  "lat": 48.9114464,
+  "lon": 13.8919382
+},
+{
+  "type": "node",
+  "id": 3231522186,
+  "lat": 48.9114469,
+  "lon": 13.8919248
+},
+{
+  "type": "node",
+  "id": 3231522187,
+  "lat": 48.9114905,
+  "lon": 13.8919286
+},
+{
+  "type": "node",
+  "id": 3231522188,
+  "lat": 48.9114966,
+  "lon": 13.8917391
+},
+{
+  "type": "node",
+  "id": 6589106980,
+  "lat": 48.9112147,
+  "lon": 13.8918781
+},
+{
+  "type": "node",
+  "id": 433297143,
+  "lat": 49.0122761,
+  "lon": 13.9967785
+},
+{
+  "type": "node",
+  "id": 433297149,
+  "lat": 49.0123258,
+  "lon": 13.9968495
+},
+{
+  "type": "node",
+  "id": 433297150,
+  "lat": 49.0122126,
+  "lon": 13.9969616
+},
+{
+  "type": "node",
+  "id": 433297154,
+  "lat": 49.0120787,
+  "lon": 13.9969750
+},
+{
+  "type": "node",
+  "id": 433297155,
+  "lat": 49.0122197,
+  "lon": 13.9969719
+},
+{
+  "type": "node",
+  "id": 433297157,
+  "lat": 49.0122089,
+  "lon": 13.9969844
+},
+{
+  "type": "node",
+  "id": 433297158,
+  "lat": 49.0122022,
+  "lon": 13.9969750
+},
+{
+  "type": "node",
+  "id": 433297159,
+  "lat": 49.0121360,
+  "lon": 13.9970538
+},
+{
+  "type": "node",
+  "id": 1131468291,
+  "lat": 48.6162538,
+  "lon": 14.3126588
+},
+{
+  "type": "node",
+  "id": 1131469260,
+  "lat": 48.6162501,
+  "lon": 14.3126780
+},
+{
+  "type": "node",
+  "id": 1131470235,
+  "lat": 48.6162662,
+  "lon": 14.3126854
+},
+{
+  "type": "node",
+  "id": 1131473573,
+  "lat": 48.6161391,
+  "lon": 14.3127145
+},
+{
+  "type": "node",
+  "id": 1131475306,
+  "lat": 48.6161237,
+  "lon": 14.3129243
+},
+{
+  "type": "node",
+  "id": 1131475360,
+  "lat": 48.6161556,
+  "lon": 14.3126168
+},
+{
+  "type": "node",
+  "id": 3722360107,
+  "lat": 48.6161492,
+  "lon": 14.3127213
+},
+{
+  "type": "node",
+  "id": 3722360114,
+  "lat": 48.6162269,
+  "lon": 14.3129603
+},
+{
+  "type": "node",
+  "id": 6544347156,
+  "lat": 48.6161480,
+  "lon": 14.3127208
+},
+{
+  "type": "node",
+  "id": 6544347157,
+  "lat": 48.6162258,
+  "lon": 14.3129599
+},
+{
+  "type": "node",
+  "id": 6544347160,
+  "lat": 48.6162260,
+  "lon": 14.3129572
+},
+{
+  "type": "node",
+  "id": 6544347162,
+  "lat": 48.6161483,
+  "lon": 14.3127182
+},
+{
+  "type": "node",
+  "id": 756825601,
+  "lat": 48.8134199,
+  "lon": 14.3195015
+},
+{
+  "type": "node",
+  "id": 756825726,
+  "lat": 48.8134346,
+  "lon": 14.3195698
+},
+{
+  "type": "node",
+  "id": 756825847,
+  "lat": 48.8134047,
+  "lon": 14.3195228
+},
+{
+  "type": "node",
+  "id": 756825878,
+  "lat": 48.8134176,
+  "lon": 14.3195424
+},
+{
+  "type": "node",
+  "id": 756825940,
+  "lat": 48.8135078,
+  "lon": 14.3193654
+},
+{
+  "type": "node",
+  "id": 756826132,
+  "lat": 48.8133546,
+  "lon": 14.3191257
+},
+{
+  "type": "node",
+  "id": 756826217,
+  "lat": 48.8133656,
+  "lon": 14.3196141
+},
+{
+  "type": "node",
+  "id": 756826240,
+  "lat": 48.8134791,
+  "lon": 14.3193204
+},
+{
+  "type": "node",
+  "id": 756826249,
+  "lat": 48.8133485,
+  "lon": 14.3195896
+},
+{
+  "type": "node",
+  "id": 3257330048,
+  "lat": 48.8134098,
+  "lon": 14.3196124
+},
+{
+  "type": "node",
+  "id": 7005172536,
+  "lat": 48.8134447,
+  "lon": 14.3194639
+},
+{
+  "type": "node",
+  "id": 7005172537,
+  "lat": 48.8134631,
+  "lon": 14.3194336
+},
+{
+  "type": "node",
+  "id": 7061684587,
+  "lat": 48.8134268,
+  "lon": 14.3195572
+},
+{
+  "type": "node",
+  "id": 756825562,
+  "lat": 48.8132222,
+  "lon": 14.3196905
+},
+{
+  "type": "node",
+  "id": 756825570,
+  "lat": 48.8133876,
+  "lon": 14.3196479
+},
+{
+  "type": "node",
+  "id": 756825692,
+  "lat": 48.8133283,
+  "lon": 14.3196193
+},
+{
+  "type": "node",
+  "id": 756825713,
+  "lat": 48.8132494,
+  "lon": 14.3197331
+},
+{
+  "type": "node",
+  "id": 756826134,
+  "lat": 48.8129696,
+  "lon": 14.3196934
+},
+{
+  "type": "node",
+  "id": 756826245,
+  "lat": 48.8130912,
+  "lon": 14.3198836
+},
+{
+  "type": "node",
+  "id": 7005172540,
+  "lat": 48.8132845,
+  "lon": 14.3196849
+},
+{
+  "type": "node",
+  "id": 7061684586,
+  "lat": 48.8133774,
+  "lon": 14.3196323
+},
+{
+  "type": "node",
+  "id": 844787152,
+  "lat": 48.9630375,
+  "lon": 14.4743225
+},
+{
+  "type": "node",
+  "id": 844787237,
+  "lat": 48.9633804,
+  "lon": 14.4740669
+},
+{
+  "type": "node",
+  "id": 844787289,
+  "lat": 48.9630061,
+  "lon": 14.4744977
+},
+{
+  "type": "node",
+  "id": 844787346,
+  "lat": 48.9638165,
+  "lon": 14.4748366
+},
+{
+  "type": "node",
+  "id": 844787718,
+  "lat": 48.9624976,
+  "lon": 14.4743794
+},
+{
+  "type": "node",
+  "id": 844787774,
+  "lat": 48.9633208,
+  "lon": 14.4744971
+},
+{
+  "type": "node",
+  "id": 844788379,
+  "lat": 48.9629551,
+  "lon": 14.4741987
+},
+{
+  "type": "node",
+  "id": 844788461,
+  "lat": 48.9633677,
+  "lon": 14.4741102
+},
+{
+  "type": "node",
+  "id": 844788535,
+  "lat": 48.9632649,
+  "lon": 14.4744022
+},
+{
+  "type": "node",
+  "id": 844788616,
+  "lat": 48.9638443,
+  "lon": 14.4747377
+},
+{
+  "type": "node",
+  "id": 844789005,
+  "lat": 48.9628927,
+  "lon": 14.4743322
+},
+{
+  "type": "node",
+  "id": 844789105,
+  "lat": 48.9633261,
+  "lon": 14.4745157
+},
+{
+  "type": "node",
+  "id": 844789729,
+  "lat": 48.9630725,
+  "lon": 14.4742688
+},
+{
+  "type": "node",
+  "id": 844789873,
+  "lat": 48.9633348,
+  "lon": 14.4744477
+},
+{
+  "type": "node",
+  "id": 844790635,
+  "lat": 48.9629131,
+  "lon": 14.4743456
+},
+{
+  "type": "node",
+  "id": 844790767,
+  "lat": 48.9634891,
+  "lon": 14.4746085
+},
+{
+  "type": "node",
+  "id": 844791544,
+  "lat": 48.9641070,
+  "lon": 14.4745383
+},
+{
+  "type": "node",
+  "id": 844791606,
+  "lat": 48.9632779,
+  "lon": 14.4744958
+},
+{
+  "type": "node",
+  "id": 844792036,
+  "lat": 48.9628085,
+  "lon": 14.4745724
+},
+{
+  "type": "node",
+  "id": 844792118,
+  "lat": 48.9634875,
+  "lon": 14.4746145
+},
+{
+  "type": "node",
+  "id": 844792183,
+  "lat": 48.9629875,
+  "lon": 14.4745614
+},
+{
+  "type": "node",
+  "id": 844792691,
+  "lat": 48.9627985,
+  "lon": 14.4745743
+},
+{
+  "type": "node",
+  "id": 844792724,
+  "lat": 48.9632466,
+  "lon": 14.4744713
+},
+{
+  "type": "node",
+  "id": 844792768,
+  "lat": 48.9639894,
+  "lon": 14.4749507
+},
+{
+  "type": "node",
+  "id": 844793194,
+  "lat": 48.9628263,
+  "lon": 14.4745650
+},
+{
+  "type": "node",
+  "id": 844793269,
+  "lat": 48.9634477,
+  "lon": 14.4744740
+},
+{
+  "type": "node",
+  "id": 844793332,
+  "lat": 48.9632169,
+  "lon": 14.4747107
+},
+{
+  "type": "node",
+  "id": 844793414,
+  "lat": 48.9639612,
+  "lon": 14.4748081
+},
+{
+  "type": "node",
+  "id": 844793808,
+  "lat": 48.9628017,
+  "lon": 14.4745685
+},
+{
+  "type": "node",
+  "id": 844793842,
+  "lat": 48.9633915,
+  "lon": 14.4745566
+},
+{
+  "type": "node",
+  "id": 844794384,
+  "lat": 48.9630525,
+  "lon": 14.4743322
+},
+{
+  "type": "node",
+  "id": 844794487,
+  "lat": 48.9634224,
+  "lon": 14.4745632
+},
+{
+  "type": "node",
+  "id": 844794556,
+  "lat": 48.9629913,
+  "lon": 14.4744871
+},
+{
+  "type": "node",
+  "id": 844794633,
+  "lat": 48.9639317,
+  "lon": 14.4749134
+},
+{
+  "type": "node",
+  "id": 844795042,
+  "lat": 48.9626939,
+  "lon": 14.4736709
+},
+{
+  "type": "node",
+  "id": 844795110,
+  "lat": 48.9634204,
+  "lon": 14.4744564
+},
+{
+  "type": "node",
+  "id": 5133422432,
+  "lat": 48.9627950,
+  "lon": 14.4745744
+},
+{
+  "type": "node",
+  "id": 5133422433,
+  "lat": 48.9627968,
+  "lon": 14.4745748
+},
+{
+  "type": "node",
+  "id": 5133422434,
+  "lat": 48.9628000,
+  "lon": 14.4745730
+},
+{
+  "type": "node",
+  "id": 5133422435,
+  "lat": 48.9628011,
+  "lon": 14.4745710
+},
+{
+  "type": "node",
+  "id": 5133422436,
+  "lat": 48.9637403,
+  "lon": 14.4747800
+},
+{
+  "type": "node",
+  "id": 5133422437,
+  "lat": 48.9637387,
+  "lon": 14.4747856
+},
+{
+  "type": "node",
+  "id": 2961536304,
+  "lat": 48.7963623,
+  "lon": 14.6821020
+},
+{
+  "type": "node",
+  "id": 2961536305,
+  "lat": 48.7963406,
+  "lon": 14.6817503
+},
+{
+  "type": "node",
+  "id": 2961536306,
+  "lat": 48.7963609,
+  "lon": 14.6816557
+},
+{
+  "type": "node",
+  "id": 2961536310,
+  "lat": 48.7964086,
+  "lon": 14.6821532
+},
+{
+  "type": "node",
+  "id": 2961536312,
+  "lat": 48.7964504,
+  "lon": 14.6820681
+},
+{
+  "type": "node",
+  "id": 2961536314,
+  "lat": 48.7964839,
+  "lon": 14.6818467
+},
+{
+  "type": "node",
+  "id": 2961536320,
+  "lat": 48.7965777,
+  "lon": 14.6818033
+}
+
+  ]
+}

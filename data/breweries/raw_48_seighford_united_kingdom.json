@@ -1,0 +1,1197 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-05T21:56:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1523125467,
+  "lat": 52.7650382,
+  "lon": -1.8440510,
+  "tags": {
+    "addr:city": "Hamstall Ridware Lichfield",
+    "addr:postcode": "WS15 3QQ",
+    "addr:street": "Lichfield Road",
+    "craft": "brewery",
+    "name": "Blythe Brewery",
+    "note": "needs survey to locate brewery inside the farmyard",
+    "source": "website;bing",
+    "url": "http://www.blythebrewery.co.uk/index.htm"
+  }
+},
+{
+  "type": "node",
+  "id": 4081374371,
+  "lat": 52.5749307,
+  "lon": -2.1008602,
+  "tags": {
+    "addr:city": "Wolverhampton",
+    "craft": "brewery",
+    "name": "Sacre Brew"
+  }
+},
+{
+  "type": "way",
+  "id": 47660395,
+  "nodes": [
+    606369317,
+    2886713957,
+    2886713964,
+    2886714102,
+    6183952543,
+    606369319,
+    2886714175,
+    606369320,
+    2886713672,
+    2886713668,
+    2979785031,
+    2979785023,
+    606369321,
+    2979785021,
+    2979785013,
+    1695923464,
+    606369333,
+    1695923483,
+    606369323,
+    2886713675,
+    2886713676,
+    606369324,
+    606369325,
+    606369326,
+    6183696727,
+    6183696728,
+    6183696729,
+    6183696732,
+    6183696733,
+    2886713680,
+    2886713692,
+    2886713926,
+    2886713934,
+    606369317
+  ],
+  "tags": {
+    "craft": "brewery",
+    "landuse": "industrial",
+    "name": "Banks's Brewery",
+    "note": "Banks's Brewery, may now be Marstons",
+    "operator": "Marstons"
+  }
+},
+{
+  "type": "way",
+  "id": 69588991,
+  "nodes": [
+    832772330,
+    832772395,
+    832772505,
+    832772258,
+    832772341,
+    832772448,
+    832772330
+  ],
+  "tags": {
+    "building": "brewery",
+    "heritage": "2",
+    "heritage:operator": "Historic England",
+    "industrial": "brewery",
+    "listed_status": "Grade II",
+    "name": "Highgate & Walsall Brewing Co. Ltd (Davenports)",
+    "source": "observation & OS OpenData StreetView",
+    "start_date": "1898",
+    "wikipedia": "en:Highgate Brewery"
+  }
+},
+{
+  "type": "way",
+  "id": 112236183,
+  "nodes": [
+    1276286679,
+    1276286771,
+    1276286787,
+    1276286802,
+    1276286660,
+    1276286671,
+    1276286684,
+    1276286750,
+    1276286765,
+    1276286780,
+    1276286710,
+    1276286679
+  ],
+  "tags": {
+    "craft": "brewery",
+    "landuse": "industrial",
+    "name": "Freedom Brewery",
+    "source": "visual survey;brewery"
+  }
+},
+{
+  "type": "way",
+  "id": 135430735,
+  "nodes": [
+    1487491274,
+    1487491277,
+    1487491273,
+    1487491271,
+    1487491274
+  ],
+  "tags": {
+    "addr:city": "Brownhills",
+    "addr:postcode": "WS8 7NL",
+    "addr:street": "Pool Road",
+    "brewery": "yes",
+    "building": "yes",
+    "craft": "brewery",
+    "name": "The Beowulf Brewing Company",
+    "source": "local knowledge; estimate",
+    "url": "http://beowulfbrewery.co.uk/"
+  }
+},
+{
+  "type": "way",
+  "id": 136989958,
+  "nodes": [
+    1502792496,
+    1502792495,
+    1502792492,
+    1502792491,
+    1502792488,
+    1502792486,
+    1502792487,
+    1502792489,
+    1502792490,
+    1502792494,
+    1502792493,
+    3721521600,
+    3721521609,
+    1502792496
+  ],
+  "tags": {
+    "craft": "brewery",
+    "landuse": "industrial",
+    "name": "Holdens Brewery",
+    "source": "bing;website",
+    "url": "http://www.holdensbrewery.co.uk/index.asp?loc=home"
+  }
+},
+{
+  "type": "way",
+  "id": 137112618,
+  "nodes": [
+    1504005312,
+    1504005331,
+    1504005332,
+    2578902778,
+    2578902776,
+    2578902777,
+    2578902780,
+    1504005340,
+    1504005334,
+    1504005312
+  ],
+  "tags": {
+    "addr:housename": "Unit 5",
+    "addr:postcode": "ST6 1JL",
+    "addr:street": "Callender Place",
+    "building": "industrial",
+    "craft": "brewery",
+    "name": "Titanic Brewery",
+    "real_ale": "yes",
+    "source": "Bing",
+    "website": "https://www.titanicbrewery.co.uk/",
+    "wikipedia": "en:Titanic Brewery"
+  }
+},
+{
+  "type": "way",
+  "id": 138929365,
+  "nodes": [
+    1523052875,
+    1523052882,
+    1523052874,
+    1523052858,
+    1523052875
+  ],
+  "tags": {
+    "addr:city": "Walsall",
+    "addr:housename": "The Gatehouse",
+    "addr:housenumber": "Unit 8A",
+    "addr:postcode": "WS8 6JZ",
+    "addr:street": "Lichfield Road",
+    "building": "brewery",
+    "craft": "brewery",
+    "name": "The Backyard Brewhouse",
+    "source": "website;bing",
+    "url": "http://thebackyardbrewhouse.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 138936623,
+  "nodes": [
+    1523125481,
+    1523125476,
+    1523125479,
+    1523125482,
+    1523125477,
+    1523125478,
+    1523125469,
+    1523125468,
+    1523125471,
+    1523125472,
+    1523125473,
+    1523125470,
+    1523125474,
+    1523125475,
+    1523125480,
+    1523125481
+  ],
+  "tags": {
+    "craft": "brewery",
+    "landuse": "farmyard",
+    "name": "Blythe House Farm",
+    "source": "bing",
+    "url": "http://www.blythebrewery.co.uk/index.htm"
+  }
+},
+{
+  "type": "way",
+  "id": 142517138,
+  "nodes": [
+    1559605615,
+    1559605639,
+    1559605636,
+    1559605634,
+    1559605645,
+    1559605646,
+    1559605649,
+    1559605623,
+    1559605621,
+    1559605617,
+    1559605615
+  ],
+  "tags": {
+    "addr:city": "Sedgley Dudley",
+    "addr:housenumber": "120",
+    "addr:postcode": "DY3 1JE",
+    "addr:street": "Bilston Street",
+    "building": "brewery",
+    "craft": "brewery",
+    "name": "Sarah Hughes Brewery",
+    "source": "visual survey; bing",
+    "url": "http://www.sarahhughesbrewery.co.uk/index.html"
+  }
+},
+{
+  "type": "way",
+  "id": 147466007,
+  "nodes": [
+    1606840826,
+    1606840825,
+    6784784455,
+    1606840827,
+    6784784456,
+    1606840828,
+    1606840826
+  ],
+  "tags": {
+    "addr:city": "Lichfield",
+    "addr:housenumber": "1",
+    "addr:postcode": "WS13 6PW",
+    "addr:street": "Bird Street",
+    "alt_name": "The Gatehouse",
+    "amenity": "pub",
+    "branch": "Lichfield",
+    "building": "yes",
+    "changing_table": "yes",
+    "contact:website": "https://www.brewhouseandkitchen.com/venue/lichfield/",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "fhrs:id": "978736",
+    "fhrs:local_authority_id": "60834",
+    "food": "yes",
+    "internet_access": "yes",
+    "internet_access:fee": "no",
+    "microbrewery": "yes",
+    "name": "Brewhouse & Kitchen",
+    "opening_hours": "Mo-We 11:00-23:00;Th 11:00-24:00;Fr-Sa 11:00-01:00;Su 11:00-23:00",
+    "opening_hours:kitchen": "Mo-Sa 12:00-22:00;Su 12:00-21:00",
+    "operator": "Brewhouse & Kitchen",
+    "real_ale": "yes",
+    "source:addr": "FHRS Open Data",
+    "toilets": "yes",
+    "toilets:access": "customers",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 436433914,
+  "nodes": [
+    4343228097,
+    4343228121,
+    4343228122,
+    4343228125,
+    4343228127,
+    4343228123,
+    4343228124,
+    4343228108,
+    4343228100,
+    4343228097
+  ],
+  "tags": {
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Salopian",
+    "website": "http://www.salopianbrewery.co.uk/"
+  }
+},
+{
+  "type": "way",
+  "id": 512228038,
+  "nodes": [
+    5008923621,
+    5008923517,
+    5008923516,
+    5008923520,
+    5008923519,
+    5008923518,
+    5008923621
+  ],
+  "tags": {
+    "addr:postcode": "ST15 8LL",
+    "addr:street": "Mount Road",
+    "amenity": "pub",
+    "brewery": "various",
+    "building": "yes",
+    "fhrs:id": "1195111",
+    "microbrewery": "yes",
+    "name": "The Borehole",
+    "operator": "Lymestone Brewery",
+    "source": "Bing",
+    "source:addr": "FHRS Open Data"
+  }
+},
+{
+  "type": "way",
+  "id": 512228040,
+  "nodes": [
+    5008923631,
+    5008923630,
+    5008923627,
+    5008923626,
+    5008923629,
+    5008923628,
+    5008923631
+  ],
+  "tags": {
+    "addr:postcode": "ST15 8LL",
+    "addr:street": "Mount Road",
+    "building": "yes",
+    "craft": "brewery",
+    "fhrs:id": "1195456",
+    "name": "Lymestone Brewery",
+    "source": "Bing",
+    "source:addr": "FHRS Open Data"
+  }
+},
+{
+  "type": "node",
+  "id": 4343228097,
+  "lat": 52.7735290,
+  "lon": -2.7154497
+},
+{
+  "type": "node",
+  "id": 4343228100,
+  "lat": 52.7735863,
+  "lon": -2.7152273
+},
+{
+  "type": "node",
+  "id": 4343228108,
+  "lat": 52.7736567,
+  "lon": -2.7149539
+},
+{
+  "type": "node",
+  "id": 4343228121,
+  "lat": 52.7738747,
+  "lon": -2.7156930
+},
+{
+  "type": "node",
+  "id": 4343228122,
+  "lat": 52.7739430,
+  "lon": -2.7154277
+},
+{
+  "type": "node",
+  "id": 4343228123,
+  "lat": 52.7739827,
+  "lon": -2.7152662
+},
+{
+  "type": "node",
+  "id": 4343228124,
+  "lat": 52.7740008,
+  "lon": -2.7151961
+},
+{
+  "type": "node",
+  "id": 4343228125,
+  "lat": 52.7740104,
+  "lon": -2.7154751
+},
+{
+  "type": "node",
+  "id": 4343228127,
+  "lat": 52.7740517,
+  "lon": -2.7153147
+},
+{
+  "type": "node",
+  "id": 1559605615,
+  "lat": 52.5437157,
+  "lon": -2.1146808
+},
+{
+  "type": "node",
+  "id": 1559605617,
+  "lat": 52.5437248,
+  "lon": -2.1146010
+},
+{
+  "type": "node",
+  "id": 1559605621,
+  "lat": 52.5437618,
+  "lon": -2.1146125
+},
+{
+  "type": "node",
+  "id": 1559605623,
+  "lat": 52.5437681,
+  "lon": -2.1145577
+},
+{
+  "type": "node",
+  "id": 1559605634,
+  "lat": 52.5437498,
+  "lon": -2.1147679
+},
+{
+  "type": "node",
+  "id": 1559605636,
+  "lat": 52.5437520,
+  "lon": -2.1147493
+},
+{
+  "type": "node",
+  "id": 1559605639,
+  "lat": 52.5437583,
+  "lon": -2.1146940
+},
+{
+  "type": "node",
+  "id": 1559605645,
+  "lat": 52.5437988,
+  "lon": -2.1147831
+},
+{
+  "type": "node",
+  "id": 1559605646,
+  "lat": 52.5438138,
+  "lon": -2.1146527
+},
+{
+  "type": "node",
+  "id": 1559605649,
+  "lat": 52.5438227,
+  "lon": -2.1145746
+},
+{
+  "type": "node",
+  "id": 606369317,
+  "lat": 52.5857240,
+  "lon": -2.1393968
+},
+{
+  "type": "node",
+  "id": 606369324,
+  "lat": 52.5853075,
+  "lon": -2.1370266
+},
+{
+  "type": "node",
+  "id": 606369325,
+  "lat": 52.5854822,
+  "lon": -2.1377191
+},
+{
+  "type": "node",
+  "id": 606369326,
+  "lat": 52.5852283,
+  "lon": -2.1378982
+},
+{
+  "type": "node",
+  "id": 2886713676,
+  "lat": 52.5852569,
+  "lon": -2.1365817
+},
+{
+  "type": "node",
+  "id": 2886713680,
+  "lat": 52.5852956,
+  "lon": -2.1381493
+},
+{
+  "type": "node",
+  "id": 2886713692,
+  "lat": 52.5853547,
+  "lon": -2.1383884
+},
+{
+  "type": "node",
+  "id": 2886713926,
+  "lat": 52.5855923,
+  "lon": -2.1392459
+},
+{
+  "type": "node",
+  "id": 2886713934,
+  "lat": 52.5856553,
+  "lon": -2.1393366
+},
+{
+  "type": "node",
+  "id": 2886713957,
+  "lat": 52.5858769,
+  "lon": -2.1389439
+},
+{
+  "type": "node",
+  "id": 2886713964,
+  "lat": 52.5859097,
+  "lon": -2.1388330
+},
+{
+  "type": "node",
+  "id": 2886714102,
+  "lat": 52.5863196,
+  "lon": -2.1374708
+},
+{
+  "type": "node",
+  "id": 6183696727,
+  "lat": 52.5852427,
+  "lon": -2.1379534
+},
+{
+  "type": "node",
+  "id": 6183696728,
+  "lat": 52.5852508,
+  "lon": -2.1379842
+},
+{
+  "type": "node",
+  "id": 6183696729,
+  "lat": 52.5852632,
+  "lon": -2.1380316
+},
+{
+  "type": "node",
+  "id": 6183696732,
+  "lat": 52.5852785,
+  "lon": -2.1380843
+},
+{
+  "type": "node",
+  "id": 6183696733,
+  "lat": 52.5852875,
+  "lon": -2.1381186
+},
+{
+  "type": "node",
+  "id": 6183952543,
+  "lat": 52.5865786,
+  "lon": -2.1366008
+},
+{
+  "type": "node",
+  "id": 606369319,
+  "lat": 52.5867536,
+  "lon": -2.1359819
+},
+{
+  "type": "node",
+  "id": 606369320,
+  "lat": 52.5852780,
+  "lon": -2.1352919
+},
+{
+  "type": "node",
+  "id": 606369321,
+  "lat": 52.5849449,
+  "lon": -2.1356412
+},
+{
+  "type": "node",
+  "id": 606369323,
+  "lat": 52.5851849,
+  "lon": -2.1364371
+},
+{
+  "type": "node",
+  "id": 606369333,
+  "lat": 52.5848470,
+  "lon": -2.1360900
+},
+{
+  "type": "node",
+  "id": 1695923464,
+  "lat": 52.5848583,
+  "lon": -2.1360186
+},
+{
+  "type": "node",
+  "id": 1695923483,
+  "lat": 52.5850125,
+  "lon": -2.1361147
+},
+{
+  "type": "node",
+  "id": 2886713668,
+  "lat": 52.5851206,
+  "lon": -2.1354205
+},
+{
+  "type": "node",
+  "id": 2886713672,
+  "lat": 52.5851858,
+  "lon": -2.1353493
+},
+{
+  "type": "node",
+  "id": 2886713675,
+  "lat": 52.5852457,
+  "lon": -2.1364379
+},
+{
+  "type": "node",
+  "id": 2886714175,
+  "lat": 52.5867468,
+  "lon": -2.1358774
+},
+{
+  "type": "node",
+  "id": 2979785013,
+  "lat": 52.5848822,
+  "lon": -2.1360256
+},
+{
+  "type": "node",
+  "id": 2979785021,
+  "lat": 52.5849424,
+  "lon": -2.1356582
+},
+{
+  "type": "node",
+  "id": 2979785023,
+  "lat": 52.5849482,
+  "lon": -2.1356374
+},
+{
+  "type": "node",
+  "id": 2979785031,
+  "lat": 52.5850190,
+  "lon": -2.1355558
+},
+{
+  "type": "node",
+  "id": 1502792486,
+  "lat": 52.5310098,
+  "lon": -2.0912404
+},
+{
+  "type": "node",
+  "id": 1502792487,
+  "lat": 52.5310491,
+  "lon": -2.0915135
+},
+{
+  "type": "node",
+  "id": 1502792488,
+  "lat": 52.5311116,
+  "lon": -2.0909674
+},
+{
+  "type": "node",
+  "id": 1502792489,
+  "lat": 52.5311902,
+  "lon": -2.0917161
+},
+{
+  "type": "node",
+  "id": 1502792490,
+  "lat": 52.5314599,
+  "lon": -2.0921389
+},
+{
+  "type": "node",
+  "id": 1502792491,
+  "lat": 52.5317297,
+  "lon": -2.0906150
+},
+{
+  "type": "node",
+  "id": 1502792493,
+  "lat": 52.5320029,
+  "lon": -2.0913021
+},
+{
+  "type": "node",
+  "id": 1502792494,
+  "lat": 52.5320994,
+  "lon": -2.0917396
+},
+{
+  "type": "node",
+  "id": 1502792496,
+  "lat": 52.5324012,
+  "lon": -2.0910643
+},
+{
+  "type": "node",
+  "id": 3721521600,
+  "lat": 52.5320521,
+  "lon": -2.0912713
+},
+{
+  "type": "node",
+  "id": 3721521609,
+  "lat": 52.5321172,
+  "lon": -2.0912353
+},
+{
+  "type": "node",
+  "id": 1502792492,
+  "lat": 52.5318904,
+  "lon": -2.0905171
+},
+{
+  "type": "node",
+  "id": 1502792495,
+  "lat": 52.5322614,
+  "lon": -2.0903126
+},
+{
+  "type": "node",
+  "id": 832772258,
+  "lat": 52.5774951,
+  "lon": -1.9753233
+},
+{
+  "type": "node",
+  "id": 832772330,
+  "lat": 52.5774631,
+  "lon": -1.9758817
+},
+{
+  "type": "node",
+  "id": 832772341,
+  "lat": 52.5771851,
+  "lon": -1.9753338
+},
+{
+  "type": "node",
+  "id": 832772395,
+  "lat": 52.5774601,
+  "lon": -1.9756387
+},
+{
+  "type": "node",
+  "id": 832772448,
+  "lat": 52.5771921,
+  "lon": -1.9758909
+},
+{
+  "type": "node",
+  "id": 832772505,
+  "lat": 52.5774990,
+  "lon": -1.9756374
+},
+{
+  "type": "node",
+  "id": 1523052858,
+  "lat": 52.6521458,
+  "lon": -1.9200603
+},
+{
+  "type": "node",
+  "id": 1523052874,
+  "lat": 52.6522292,
+  "lon": -1.9196412
+},
+{
+  "type": "node",
+  "id": 1523052875,
+  "lat": 52.6522338,
+  "lon": -1.9201079
+},
+{
+  "type": "node",
+  "id": 1523052882,
+  "lat": 52.6523172,
+  "lon": -1.9196888
+},
+{
+  "type": "node",
+  "id": 1487491271,
+  "lat": 52.6616767,
+  "lon": -1.9416155
+},
+{
+  "type": "node",
+  "id": 1487491273,
+  "lat": 52.6616914,
+  "lon": -1.9414784
+},
+{
+  "type": "node",
+  "id": 1487491274,
+  "lat": 52.6617448,
+  "lon": -1.9416354
+},
+{
+  "type": "node",
+  "id": 1487491277,
+  "lat": 52.6617596,
+  "lon": -1.9414983
+},
+{
+  "type": "node",
+  "id": 1606840825,
+  "lat": 52.6821074,
+  "lon": -1.8295661
+},
+{
+  "type": "node",
+  "id": 1606840826,
+  "lat": 52.6822028,
+  "lon": -1.8293610
+},
+{
+  "type": "node",
+  "id": 1606840827,
+  "lat": 52.6822160,
+  "lon": -1.8295576
+},
+{
+  "type": "node",
+  "id": 1606840828,
+  "lat": 52.6823271,
+  "lon": -1.8295182
+},
+{
+  "type": "node",
+  "id": 6784784455,
+  "lat": 52.6821733,
+  "lon": -1.8296494
+},
+{
+  "type": "node",
+  "id": 6784784456,
+  "lat": 52.6822744,
+  "lon": -1.8296315
+},
+{
+  "type": "node",
+  "id": 1523125468,
+  "lat": 52.7643816,
+  "lon": -1.8434036
+},
+{
+  "type": "node",
+  "id": 1523125469,
+  "lat": 52.7645538,
+  "lon": -1.8428661
+},
+{
+  "type": "node",
+  "id": 1523125470,
+  "lat": 52.7645959,
+  "lon": -1.8451487
+},
+{
+  "type": "node",
+  "id": 1523125471,
+  "lat": 52.7647527,
+  "lon": -1.8436881
+},
+{
+  "type": "node",
+  "id": 1523125472,
+  "lat": 52.7647565,
+  "lon": -1.8440991
+},
+{
+  "type": "node",
+  "id": 1523125473,
+  "lat": 52.7648598,
+  "lon": -1.8443584
+},
+{
+  "type": "node",
+  "id": 1523125474,
+  "lat": 52.7650282,
+  "lon": -1.8456230
+},
+{
+  "type": "node",
+  "id": 1523125475,
+  "lat": 52.7651047,
+  "lon": -1.8455218
+},
+{
+  "type": "node",
+  "id": 1523125476,
+  "lat": 52.7652004,
+  "lon": -1.8452689
+},
+{
+  "type": "node",
+  "id": 1523125477,
+  "lat": 52.7652080,
+  "lon": -1.8435364
+},
+{
+  "type": "node",
+  "id": 1523125478,
+  "lat": 52.7652348,
+  "lon": -1.8434162
+},
+{
+  "type": "node",
+  "id": 1523125479,
+  "lat": 52.7653190,
+  "lon": -1.8439031
+},
+{
+  "type": "node",
+  "id": 1523125480,
+  "lat": 52.7653228,
+  "lon": -1.8457305
+},
+{
+  "type": "node",
+  "id": 1523125481,
+  "lat": 52.7653763,
+  "lon": -1.8454396
+},
+{
+  "type": "node",
+  "id": 1523125482,
+  "lat": 52.7653840,
+  "lon": -1.8436502
+},
+{
+  "type": "node",
+  "id": 1276286660,
+  "lat": 52.8403438,
+  "lon": -1.8620528
+},
+{
+  "type": "node",
+  "id": 1276286671,
+  "lat": 52.8410130,
+  "lon": -1.8621208
+},
+{
+  "type": "node",
+  "id": 1276286679,
+  "lat": 52.8407429,
+  "lon": -1.8643073
+},
+{
+  "type": "node",
+  "id": 1276286684,
+  "lat": 52.8410042,
+  "lon": -1.8625970
+},
+{
+  "type": "node",
+  "id": 1276286710,
+  "lat": 52.8408457,
+  "lon": -1.8643608
+},
+{
+  "type": "node",
+  "id": 1276286750,
+  "lat": 52.8413798,
+  "lon": -1.8626504
+},
+{
+  "type": "node",
+  "id": 1276286765,
+  "lat": 52.8413094,
+  "lon": -1.8638409
+},
+{
+  "type": "node",
+  "id": 1276286771,
+  "lat": 52.8403849,
+  "lon": -1.8638166
+},
+{
+  "type": "node",
+  "id": 1276286780,
+  "lat": 52.8408931,
+  "lon": -1.8638632
+},
+{
+  "type": "node",
+  "id": 1276286787,
+  "lat": 52.8405668,
+  "lon": -1.8632335
+},
+{
+  "type": "node",
+  "id": 1276286802,
+  "lat": 52.8402763,
+  "lon": -1.8631412
+},
+{
+  "type": "node",
+  "id": 5008923516,
+  "lat": 52.9100299,
+  "lon": -2.1548322
+},
+{
+  "type": "node",
+  "id": 5008923517,
+  "lat": 52.9100054,
+  "lon": -2.1547970
+},
+{
+  "type": "node",
+  "id": 5008923518,
+  "lat": 52.9098565,
+  "lon": -2.1548059
+},
+{
+  "type": "node",
+  "id": 5008923519,
+  "lat": 52.9099776,
+  "lon": -2.1545742
+},
+{
+  "type": "node",
+  "id": 5008923520,
+  "lat": 52.9100845,
+  "lon": -2.1547277
+},
+{
+  "type": "node",
+  "id": 5008923621,
+  "lat": 52.9099389,
+  "lon": -2.1549243
+},
+{
+  "type": "node",
+  "id": 5008923626,
+  "lat": 52.9103548,
+  "lon": -2.1537371
+},
+{
+  "type": "node",
+  "id": 5008923627,
+  "lat": 52.9102658,
+  "lon": -2.1538836
+},
+{
+  "type": "node",
+  "id": 5008923628,
+  "lat": 52.9098592,
+  "lon": -2.1541254
+},
+{
+  "type": "node",
+  "id": 5008923629,
+  "lat": 52.9102261,
+  "lon": -2.1535220
+},
+{
+  "type": "node",
+  "id": 5008923630,
+  "lat": 52.9103183,
+  "lon": -2.1539714
+},
+{
+  "type": "node",
+  "id": 5008923631,
+  "lat": 52.9100404,
+  "lon": -2.1544283
+},
+{
+  "type": "node",
+  "id": 1504005312,
+  "lat": 53.0453025,
+  "lon": -2.1889313
+},
+{
+  "type": "node",
+  "id": 1504005331,
+  "lat": 53.0454161,
+  "lon": -2.1890843
+},
+{
+  "type": "node",
+  "id": 1504005332,
+  "lat": 53.0454488,
+  "lon": -2.1891283
+},
+{
+  "type": "node",
+  "id": 2578902776,
+  "lat": 53.0454402,
+  "lon": -2.1890426
+},
+{
+  "type": "node",
+  "id": 2578902777,
+  "lat": 53.0454639,
+  "lon": -2.1889940
+},
+{
+  "type": "node",
+  "id": 2578902778,
+  "lat": 53.0454706,
+  "lon": -2.1890835
+},
+{
+  "type": "node",
+  "id": 2578902780,
+  "lat": 53.0454925,
+  "lon": -2.1890326
+},
+{
+  "type": "node",
+  "id": 1504005334,
+  "lat": 53.0454773,
+  "lon": -2.1885723
+},
+{
+  "type": "node",
+  "id": 1504005340,
+  "lat": 53.0456218,
+  "lon": -2.1887670
+}
+
+  ]
+}

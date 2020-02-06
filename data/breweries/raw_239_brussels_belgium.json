@@ -1,0 +1,3358 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T10:17:01Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 462255459,
+  "lat": 50.6685565,
+  "lon": 4.6165067,
+  "tags": {
+    "addr:city": "Ottignies-Louvain-la-Neuve",
+    "addr:country": "BE",
+    "addr:housenumber": "4",
+    "addr:postcode": "1348",
+    "addr:street": "Place des Brabançons",
+    "amenity": "pub",
+    "brewery": "yes",
+    "food": "no",
+    "level": "0",
+    "microbrewery": "yes",
+    "name": "Brasse-Temps",
+    "operator": "Brasserie Dubuisson",
+    "outdoor_seating": "yes",
+    "phone": "+32 10 45 70 27",
+    "smoking": "outside",
+    "website": "https://dubuisson.com"
+  }
+},
+{
+  "type": "node",
+  "id": 1559867958,
+  "lat": 50.8875446,
+  "lon": 3.8914962,
+  "tags": {
+    "craft": "brewery",
+    "name": "Brouwerij De Ryck",
+    "website": "http://www.brouwerijderyck.be/",
+    "wikidata": "Q2996856"
+  }
+},
+{
+  "type": "node",
+  "id": 2522741179,
+  "lat": 50.8527567,
+  "lon": 4.3419096,
+  "tags": {
+    "addr:city": "Bruxelles - Brussel",
+    "addr:city:fr": "Bruxelles",
+    "addr:city:nl": "Brussel",
+    "addr:country": "BE",
+    "addr:housenumber": "188",
+    "addr:postcode": "1000",
+    "addr:street": "Rue Antoine Dansaert - Antoine Dansaertstraat",
+    "addr:street:fr": "Rue Antoine Dansaert",
+    "addr:street:nl": "Antoine Dansaertstraat",
+    "amenity": "pub",
+    "craft": "brewery",
+    "name": "Brussels Beer Project",
+    "opening_hours": "Th-Sa 14:00-22:00",
+    "operator": "Brussels Beer Project",
+    "ref:UrbIS": "8318415",
+    "website": "https://www.beerproject.be/en"
+  }
+},
+{
+  "type": "node",
+  "id": 3020376199,
+  "lat": 50.6977323,
+  "lon": 4.3586001,
+  "tags": {
+    "addr:city": "Braine-l'Alleud",
+    "addr:country": "BE",
+    "addr:housename": "Le monde est petit",
+    "addr:housenumber": "65",
+    "addr:postcode": "1420",
+    "addr:street": "Chaussée de Tubize",
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "microbrewery": "yes",
+    "name": "Le monde est petit",
+    "opening_hours": "Mo-Fr 12:00-14:00, 18:00-22:00",
+    "phone": "+32 2 384 40 29",
+    "website": "https://lmep65.be/"
+  }
+},
+{
+  "type": "node",
+  "id": 3251986236,
+  "lat": 50.7665448,
+  "lon": 4.3082674,
+  "tags": {
+    "addr:city": "Beersel",
+    "addr:housenumber": "2a",
+    "addr:postcode": "1650",
+    "addr:street": "Hoogstraat",
+    "building": "brewery",
+    "craft": "brewery",
+    "email": "lydie@3fonteinen.be",
+    "man_made": "works",
+    "name": "Geuzestekerij 3 Fonteinen",
+    "phone": "+32 2 306 71 03",
+    "product": "beer",
+    "website": "http://www.3fonteinen.be"
+  }
+},
+{
+  "type": "node",
+  "id": 3525591688,
+  "lat": 50.8159038,
+  "lon": 4.2126220,
+  "tags": {
+    "craft": "brewery",
+    "man_made": "works",
+    "name": "Lindemans",
+    "product": "beer",
+    "wikidata": "Q1410111"
+  }
+},
+{
+  "type": "node",
+  "id": 3530756412,
+  "lat": 51.0136080,
+  "lon": 4.2012138,
+  "tags": {
+    "craft": "brewery",
+    "name": "Bosteels"
+  }
+},
+{
+  "type": "node",
+  "id": 3530756413,
+  "lat": 51.0232031,
+  "lon": 4.1582723,
+  "tags": {
+    "addr:street": "Mandekensstraat",
+    "craft": "brewery",
+    "name": "De Landtsheer",
+    "wikidata": "Q2086194"
+  }
+},
+{
+  "type": "node",
+  "id": 3585765694,
+  "lat": 51.0593744,
+  "lon": 4.6612284,
+  "tags": {
+    "craft": "brewery",
+    "name": "'t Hofbrouwerijke"
+  }
+},
+{
+  "type": "node",
+  "id": 3847628120,
+  "lat": 50.6923613,
+  "lon": 4.1077939,
+  "tags": {
+    "addr:city": "Rebecq",
+    "addr:housenumber": "110",
+    "addr:postcode": "1430",
+    "addr:street": "Chaussée Maieur Habils",
+    "building": "brewery",
+    "craft": "brewery",
+    "name": "Gueuzerie Tilquin S.A.",
+    "shop": "brewery"
+  }
+},
+{
+  "type": "node",
+  "id": 4432908948,
+  "lat": 50.7586278,
+  "lon": 4.3007575,
+  "tags": {
+    "addr:city": "Beersel",
+    "addr:housenumber": "230",
+    "addr:postcode": "1650",
+    "addr:street": "Laarheidestraat",
+    "craft": "brewery",
+    "name": "Oud Beersel",
+    "opening_hours": "Sa 09:00-14:00; PH off"
+  }
+},
+{
+  "type": "node",
+  "id": 5170789093,
+  "lat": 51.1126556,
+  "lon": 4.1760515,
+  "tags": {
+    "addr:city": "Tielrode",
+    "addr:housenumber": "12",
+    "addr:postcode": "9140",
+    "addr:street": "Antwerpse Steenweg",
+    "craft": "brewery",
+    "email": "nomonks@vbdck.be",
+    "name": "VBDCK Brewery",
+    "opening_hours": "Mo-Sa 08:00-18:00",
+    "operator": "VBDCK Brewery",
+    "outdoor_seating": "yes",
+    "smoking": "isolated",
+    "source": "www.vbdck.be",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5179964599,
+  "lat": 50.9456886,
+  "lon": 4.5514125,
+  "tags": {
+    "craft": "brewery",
+    "name": "Brouwerij Van Campenhout"
+  }
+},
+{
+  "type": "node",
+  "id": 6266236214,
+  "lat": 50.8243316,
+  "lon": 4.3431704,
+  "tags": {
+    "addr:housenumber": "75",
+    "addr:street": "Chaussée d'Alsemberg - Alsembergse Steenweg",
+    "amenity": "pub",
+    "food": "no",
+    "internet_access": "wlan",
+    "microbrewery": "yes",
+    "name": "Beerstorming",
+    "opening_hours": "Fr 14:00-18:00; Sa 14:00-20:00",
+    "phone": "+32 04 72897401",
+    "website": "http://www.beerstorming.net/"
+  }
+},
+{
+  "type": "node",
+  "id": 6266237277,
+  "lat": 50.8406197,
+  "lon": 4.3371719,
+  "tags": {
+    "addr:housenumber": "26",
+    "addr:street": "Rue Lambert Crickx - Lambert Crickxstraat",
+    "amenity": "pub",
+    "brewery": "Ermitage",
+    "food": "no",
+    "internet_access": "wlan",
+    "microbrewery": "yes",
+    "name": "Nanobrasserie de l'Ermitage",
+    "opening_hours": "Fr,Sa 14:00-22:00",
+    "phone": "+3225205111",
+    "website": "https://ermitagenanobrasserie.be/"
+  }
+},
+{
+  "type": "node",
+  "id": 6305227150,
+  "lat": 50.7665208,
+  "lon": 4.6489518,
+  "tags": {
+    "addr:housenumber": "31",
+    "addr:street": "Rue Leopold Vanmeerbeek",
+    "craft": "brewery",
+    "email": "info@brasseriedurenard.be",
+    "name": "Brasserie du Renard",
+    "website": "http://brasseriedurenard.be"
+  }
+},
+{
+  "type": "node",
+  "id": 6828537684,
+  "lat": 50.7631244,
+  "lon": 4.2732927,
+  "tags": {
+    "addr:housenumber": "47",
+    "addr:street": "Molenstraat",
+    "craft": "brewery",
+    "email": "info@3fonteinen.be",
+    "name": "Brouwerij 3 Fonteinen",
+    "shop": "beverages",
+    "website": "https://3fonteinen.be/nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 7041630137,
+  "lat": 50.8311560,
+  "lon": 4.3460042,
+  "tags": {
+    "addr:city": "Saint-Gilles - Sint-Gillis",
+    "addr:housenumber": "34",
+    "addr:postcode": "1060",
+    "addr:street": "Rue de Moscou - Moskoustraat",
+    "amenity": "bar",
+    "brewery": "Ermitage;Kaapse_Brouwers;Cantillon;Cyclic_Beer_Farm;Ministry_of_Belgian_Beer",
+    "microbrewery": "yes",
+    "name": "L'Ermitage Saint-Gilles",
+    "opening_hours": "Mo-Su",
+    "outdoor_seating": "yes",
+    "start_date": "2019-12-07"
+  }
+},
+{
+  "type": "way",
+  "id": 35994932,
+  "nodes": [
+    420730638,
+    420730639,
+    420730640,
+    420730641,
+    420730638
+  ],
+  "tags": {
+    "addr:city": "Lot",
+    "addr:housenumber": "47",
+    "addr:postcode": "1651",
+    "addr:street": "Molenstraat",
+    "building": "yes",
+    "craft": "brewery",
+    "email": "info@3fonteinen.be",
+    "name": "Brouwerij 3 Fonteinen",
+    "phone": "+32 (0)2 306 71 03",
+    "product": "beer",
+    "website": "https://3fonteinen.be/",
+    "wikidata": "Q3033355",
+    "wikipedia": "nl:3 Fonteinen"
+  }
+},
+{
+  "type": "way",
+  "id": 39022543,
+  "nodes": [
+    5142155089,
+    5142155088,
+    465233469,
+    465233475,
+    465233471,
+    465233476,
+    465233474,
+    465233473,
+    465233472,
+    5142155089
+  ],
+  "tags": {
+    "building": "yes",
+    "craft": "brewery",
+    "image": "https://commons.wikimedia.org/wiki/File:De_Oude_Cam_Gooik.JPG",
+    "name": "Geuzestekerij De Cam",
+    "source:geometry:date": "2016/01/15",
+    "source:geometry:ref": "Gbg/892980"
+  }
+},
+{
+  "type": "way",
+  "id": 40639254,
+  "nodes": [
+    493607107,
+    493607108,
+    6961339406,
+    6961339405,
+    493607109,
+    6961339403,
+    6961339404,
+    493607110,
+    493607107
+  ],
+  "tags": {
+    "addr:city": "Sint-Pieters-Leeuw",
+    "addr:housenumber": "144",
+    "addr:street": "Bergensesteenweg",
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Belle-Vue",
+    "operator": "ABInbev"
+  }
+},
+{
+  "type": "way",
+  "id": 84324586,
+  "nodes": [
+    980528931,
+    980528934,
+    980528940,
+    980528947,
+    980528953,
+    980530199,
+    980528957,
+    980528931
+  ],
+  "tags": {
+    "building": "brewery"
+  }
+},
+{
+  "type": "way",
+  "id": 84324746,
+  "nodes": [
+    980530194,
+    6376137777,
+    6376137779,
+    6376137778,
+    980528957,
+    980530199,
+    980530204,
+    980530213,
+    980530220,
+    980530230,
+    980530238,
+    980530244,
+    6376137776,
+    6376137775,
+    980530248,
+    6376137762,
+    980530250,
+    6376137763,
+    6376137768,
+    980530254,
+    980530261,
+    980530268,
+    980530272,
+    6376137769,
+    6376137770,
+    6376137771,
+    6376137772,
+    6376137773,
+    6376137774,
+    980530275,
+    980530194
+  ],
+  "tags": {
+    "building": "brewery",
+    "name": "Stella Artois"
+  }
+},
+{
+  "type": "way",
+  "id": 84325576,
+  "nodes": [
+    1141970563,
+    5298125043,
+    980536276,
+    980536292,
+    980536297,
+    980536301,
+    980536305,
+    980536315,
+    980536322,
+    980536324,
+    980536327,
+    980536377,
+    980536379,
+    980536382,
+    980536384,
+    980536393,
+    980536396,
+    980536401,
+    980536432,
+    980536440,
+    980536443,
+    980536453,
+    980536459,
+    980536226,
+    980536230,
+    980536234,
+    980536235,
+    980536239,
+    980536244,
+    980536248,
+    980536252,
+    980536254,
+    1141970561,
+    1141970562,
+    980536256,
+    980536257,
+    1141970567,
+    1141970565,
+    1141970564,
+    980536261,
+    980536264,
+    980536267,
+    980536269,
+    980536273,
+    1141970563
+  ],
+  "tags": {
+    "alt_name": "Stella Artois Brewery",
+    "building": "brewery",
+    "man_made": "works",
+    "name": "AB Inbev",
+    "product": "beer",
+    "wikipedia": "nl:Anheuser-Busch InBev"
+  }
+},
+{
+  "type": "way",
+  "id": 103041023,
+  "nodes": [
+    1189829486,
+    1189829563,
+    1189829436,
+    1189829728,
+    1189829445,
+    1189829736,
+    1189829486
+  ],
+  "tags": {
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Mort Subite"
+  }
+},
+{
+  "type": "way",
+  "id": 125741963,
+  "nodes": [
+    1395878092,
+    1395878093,
+    1395878087,
+    1395878086,
+    1395878084,
+    1395878083,
+    1395878074,
+    1395878075,
+    1395878070,
+    1395878071,
+    1395878065,
+    1395878063,
+    1395878069,
+    1395878068,
+    1395878090,
+    1395878091,
+    1395878072,
+    1395878073,
+    1395878089,
+    1395878088,
+    1395878092
+  ],
+  "tags": {
+    "addr:city": "Sint-Ulriks Kapelle",
+    "addr:housenumber": "10-12",
+    "addr:postcode": "1700",
+    "addr:street": "Lindenberg",
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Girardin",
+    "wikipedia": "nl:Brouwerij Girardin"
+  }
+},
+{
+  "type": "way",
+  "id": 131173858,
+  "nodes": [
+    1444191255,
+    1444191252,
+    1444191253,
+    1444191256,
+    1444191255
+  ],
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "craft": "brewery",
+    "cuisine": "regional",
+    "microbrewery": "yes",
+    "name": "La Brasserie de Tubize"
+  }
+},
+{
+  "type": "way",
+  "id": 131299806,
+  "nodes": [
+    1445337984,
+    1445337980,
+    1445337968,
+    1445337962,
+    1445337924,
+    1445337944,
+    1445337928,
+    1445337948,
+    1445337945,
+    1445337956,
+    1445337964,
+    1445337950,
+    1445337982,
+    1445337978,
+    1445337984
+  ],
+  "tags": {
+    "addr:city": "Tildonk",
+    "addr:housenumber": "2",
+    "addr:postcode": "3150",
+    "addr:street": "Caubergstraat",
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Hof ten Dormaal",
+    "website": "http://www.hoftendormaal.com",
+    "wikidata": "Q3095874"
+  }
+},
+{
+  "type": "way",
+  "id": 132419521,
+  "nodes": [
+    1456756561,
+    1456756575,
+    1456756584,
+    1456756542,
+    1455969089,
+    1455969095,
+    1455968855,
+    1455968837,
+    1455968884,
+    1455968892,
+    1455968890,
+    1455968965,
+    1455968831,
+    1455969043,
+    1455969040,
+    1456756589,
+    1454703059,
+    1454703021,
+    1456756608,
+    1456756572,
+    1456756546,
+    1456756544,
+    1456756526,
+    1456756505,
+    1456756532,
+    1456756533,
+    1456756504,
+    1456756525,
+    1456756556,
+    1456756605,
+    1456756561
+  ],
+  "tags": {
+    "craft": "brewery",
+    "landuse": "industrial",
+    "name": "Affligem Brouwerij BDS"
+  }
+},
+{
+  "type": "way",
+  "id": 151333840,
+  "nodes": [
+    1641575739,
+    1641575747,
+    1641575744,
+    1641575737,
+    1641575739
+  ],
+  "tags": {
+    "addr:city": "Ottignies",
+    "addr:country": "BE",
+    "addr:housenumber": "1",
+    "addr:postcode": "1340",
+    "addr:street": "Rue des Prairies",
+    "amenity": "restaurant",
+    "building": "yes",
+    "craft": "brewery",
+    "cuisine": "regional;french",
+    "fax": "+32 10 41 61 95",
+    "microbrewery": "yes",
+    "name": "La Ferme de Balbrière",
+    "opening_hours": "Mo-Su 12:00-14:30,18:30-22:00; We off; Sa 18:30-22:00",
+    "phone": "+32 10 41 40 34",
+    "smoking": "separated",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 175052515,
+  "nodes": [
+    1857005743,
+    1857005741,
+    1857005733,
+    1857005735,
+    1857005730,
+    1857005736,
+    1857005743
+  ],
+  "tags": {
+    "addr:housenumber": "24",
+    "addr:street": "Trieststraat",
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Microbrouwerij Den Triest",
+    "website": "https://www.dentriest.be/",
+    "wikipedia:nl": "Microbrouwerij_Den_Triest"
+  }
+},
+{
+  "type": "way",
+  "id": 229892901,
+  "nodes": [
+    2384296905,
+    2384296901,
+    2384296899,
+    2384296873,
+    2384296870,
+    2384296885,
+    2384296882,
+    2384296903,
+    2384296879,
+    2384296890,
+    2384296905
+  ],
+  "tags": {
+    "building": "brewery"
+  }
+},
+{
+  "type": "way",
+  "id": 244955716,
+  "nodes": [
+    2522240912,
+    2522241032,
+    2522240950,
+    2522240837,
+    2522240816,
+    2522240872,
+    2522240912
+  ],
+  "tags": {
+    "addr:city": "Bruxelles - Brussel",
+    "addr:city:fr": "Bruxelles",
+    "addr:city:nl": "Brussel",
+    "addr:housenumber": "14",
+    "addr:postcode": "1000",
+    "addr:street": "Borgval - Borgwal",
+    "addr:street:fr": "Borgval",
+    "addr:street:nl": "Borgwal",
+    "amenity": "bar",
+    "brewery": "Vedette;Chouffe",
+    "building": "yes",
+    "craft": "brewery",
+    "internet_access": "yes",
+    "microbrewery": "yes",
+    "name": "Café Central",
+    "opening_hours": "Mo-Su 00:00-02:00,16:00-24:00",
+    "phone": "+32 2 513 73 08",
+    "ref:UrbIS": "6049451",
+    "smoking": "no",
+    "website": "https://www.lecafecentral.com/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 253242466,
+  "nodes": [
+    2591980085,
+    2591980088,
+    2591980091,
+    2591980093,
+    2591980096,
+    2591980085
+  ],
+  "tags": {
+    "addr:housenumber": "11",
+    "addr:street": "Kerkstraat",
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Timmermans"
+  }
+},
+{
+  "type": "way",
+  "id": 263997031,
+  "nodes": [
+    2696741862,
+    2696741955,
+    2696741941,
+    2696741915,
+    2696741900,
+    2696741824,
+    2696741829,
+    2696741862
+  ],
+  "tags": {
+    "addr:city": "Ville de Bruxelles - Stad Brussel",
+    "addr:housenumber": "56",
+    "addr:postcode": "1070",
+    "addr:street": "Rue Gheude - Gheudestraat",
+    "building": "industrial",
+    "contact:facebook": "https://www.facebook.com/Brasserie-Cantillon-110627652322553/",
+    "craft": "brewery",
+    "email": "info@cantillon.be",
+    "name": "Brasserie-Brouwerij Cantillon",
+    "name:en": "Cantillon Brewery",
+    "name:nl": "Brasserie-Brouwerij Cantillon",
+    "opening_hours": "Mo-Tu 10:00-17:00; Th-Fr 10:00-17:00",
+    "phone": "+32 2 521 49 28",
+    "product": "beer",
+    "ref:UrbIS": "8195049",
+    "website": "https://www.cantillon.be/",
+    "wikidata": "Q2345368",
+    "wikipedia": "en:Cantillon Brewery"
+  }
+},
+{
+  "type": "way",
+  "id": 305566029,
+  "nodes": [
+    3102080146,
+    3102080147,
+    3102080148,
+    508773270,
+    2609347047,
+    2609347045,
+    508773246,
+    508773251,
+    3102080146
+  ],
+  "tags": {
+    "building": "yes",
+    "craft": "brewery"
+  }
+},
+{
+  "type": "way",
+  "id": 318802262,
+  "nodes": [
+    3251838041,
+    3251838044,
+    3251838042,
+    3251838043,
+    3251838041
+  ],
+  "tags": {
+    "addr:city": "Linden",
+    "addr:housenumber": "21",
+    "addr:postcode": "3210",
+    "addr:street": "Wolvendreef",
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Brouwerij De Schuur"
+  }
+},
+{
+  "type": "way",
+  "id": 389768245,
+  "nodes": [
+    3929318867,
+    551943087,
+    3929315937,
+    3929318882,
+    3929318865,
+    3929318889,
+    3929315956,
+    3929315930,
+    3929318927,
+    3929315941,
+    3929318875,
+    3929315939,
+    3929318867
+  ],
+  "tags": {
+    "addr:city": "Dworp",
+    "addr:housenumber": "15",
+    "addr:postcode": "1653",
+    "addr:street": "Vroenenbosstraat",
+    "craft": "brewery",
+    "landuse": "industrial",
+    "name": "Hanssens Artisanaal"
+  }
+},
+{
+  "type": "way",
+  "id": 444052602,
+  "nodes": [
+    4415561776,
+    4415561777,
+    4415561778,
+    4415561779,
+    4415561780,
+    4415561781,
+    4415561782,
+    4415561783,
+    4415561784,
+    4415561785,
+    4415561776
+  ],
+  "tags": {
+    "addr:city": "Dilbeek",
+    "addr:housenumber": "30",
+    "addr:postcode": "1700",
+    "addr:street": "Snakkaertstraat",
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Angerik"
+  }
+},
+{
+  "type": "way",
+  "id": 445953931,
+  "nodes": [
+    6902427039,
+    6902427038,
+    6902427037,
+    6902427036,
+    6902427035,
+    6902427034,
+    6902427033,
+    6902427032,
+    6902427053,
+    4432957211,
+    6902427052,
+    6902427051,
+    4432957213,
+    4432957212,
+    4432957209,
+    6902427054,
+    6902427055,
+    4432957205,
+    4432957207,
+    4432957206,
+    4432957208,
+    4432957210,
+    4432957204,
+    6902427050,
+    6902427049,
+    6902427048,
+    6902427015,
+    6902427039
+  ],
+  "tags": {
+    "addr:city": "Lembeek",
+    "addr:housenumber": "65",
+    "addr:postcode": "1502",
+    "addr:street": "Fonteinstraat",
+    "building": "industrial",
+    "craft": "brewery",
+    "name": "Boon",
+    "source:geometry:date": "2019-02-11",
+    "source:geometry:ref": "Gbg/6576204"
+  }
+},
+{
+  "type": "way",
+  "id": 455126735,
+  "nodes": [
+    6979291796,
+    6979291795,
+    6979291794,
+    6979291793,
+    4515685752,
+    4515685754,
+    4515685756,
+    4515685746,
+    4515685755,
+    6979291796
+  ],
+  "tags": {
+    "addr:city": "Buizingen",
+    "addr:housenumber": "16",
+    "addr:postcode": "1501",
+    "addr:street": "Oct de Kerchove d'Exaerdestraat",
+    "amenity": "pub",
+    "building": "yes",
+    "craft": "brewery",
+    "internet_access": "wlan",
+    "microbrewery": "yes",
+    "name": "Café-brouwerij Den Herberg",
+    "opening_hours": "Su-Th 11:00-01:00, Fr-Sa11:00-03:00",
+    "outdoor_seating": "no",
+    "product": "beer",
+    "smoking": "outside",
+    "source:geometry:date": "2016-05-09",
+    "source:geometry:ref": "Gbg/3551567",
+    "website": "http://www.denherberg.be/"
+  }
+},
+{
+  "type": "way",
+  "id": 463716212,
+  "nodes": [
+    4589584816,
+    4589584815,
+    4589584814,
+    4589584813,
+    4589584812,
+    4589584811,
+    4589584810,
+    4589584809,
+    4589584808,
+    4589584807,
+    4589584806,
+    2623356493,
+    4589584805,
+    4589584804,
+    4589584803,
+    4589584801,
+    4589584800,
+    4589584799,
+    4589584802,
+    4589584816
+  ],
+  "tags": {
+    "addr:city": "Ternat",
+    "addr:country": "BE",
+    "addr:housenumber": "20",
+    "addr:postcode": "1741",
+    "addr:street": "Langestraat",
+    "building": "yes",
+    "craft": "brewery",
+    "name": "De Troch"
+  }
+},
+{
+  "type": "way",
+  "id": 465178732,
+  "nodes": [
+    4601762046,
+    4601762043,
+    4601762044,
+    4601762045,
+    4601762046
+  ],
+  "tags": {
+    "building": "brewery"
+  }
+},
+{
+  "type": "way",
+  "id": 465178733,
+  "nodes": [
+    4601762050,
+    4601762049,
+    4601762048,
+    4601762047,
+    4601762050
+  ],
+  "tags": {
+    "building": "brewery"
+  }
+},
+{
+  "type": "way",
+  "id": 465178739,
+  "nodes": [
+    4601762062,
+    4601762061,
+    4601762060,
+    4601762059,
+    4601762062
+  ],
+  "tags": {
+    "building": "brewery"
+  }
+},
+{
+  "type": "way",
+  "id": 465178741,
+  "nodes": [
+    4601762066,
+    4601762065,
+    4601762064,
+    4601762063,
+    4601762066
+  ],
+  "tags": {
+    "building": "brewery"
+  }
+},
+{
+  "type": "way",
+  "id": 572894943,
+  "nodes": [
+    5503777284,
+    5503777285,
+    5503777286,
+    5503777287,
+    5503777288,
+    5503777289,
+    5503777290,
+    5503777291,
+    5503777292,
+    5503777293,
+    5503777284
+  ],
+  "tags": {
+    "addr:city": "Erpe-Mere",
+    "addr:housenumber": "11",
+    "addr:postcode": "9420",
+    "addr:street": "Glazentorenweg",
+    "building": "yes",
+    "craft": "brewery",
+    "name": "De Glazentoren"
+  }
+},
+{
+  "type": "way",
+  "id": 675398231,
+  "nodes": [
+    6325103633,
+    6325130231,
+    6325130229,
+    6325130227,
+    6325130228,
+    1597380091,
+    6325103633
+  ],
+  "tags": {
+    "addr:city": "Wolvertem",
+    "addr:housenumber": "14",
+    "addr:postcode": "1861",
+    "addr:street": "Stationsstraat",
+    "building": "yes",
+    "craft": "brewery",
+    "name": "De Keersmaeker",
+    "opening_hours": "Closed"
+  }
+},
+{
+  "type": "way",
+  "id": 678645183,
+  "nodes": [
+    6362217267,
+    6362217271,
+    6362217265,
+    6362217264,
+    6362217263,
+    6362217270,
+    6362217269,
+    6362217261,
+    6362217260,
+    6362217267
+  ],
+  "tags": {
+    "building": "yes",
+    "craft": "brewery"
+  }
+},
+{
+  "type": "way",
+  "id": 768801762,
+  "nodes": [
+    7177360333,
+    7177360334,
+    7177360335,
+    7054104011,
+    7054104010,
+    7054103987,
+    7054103986,
+    7054103985,
+    7054103984,
+    7054103983,
+    7054103982,
+    7177360336,
+    7054104033,
+    7177360337,
+    7177360338,
+    7177360339,
+    7054104078,
+    7177360340,
+    7177360343,
+    7177360342,
+    7177360341,
+    7177360333
+  ],
+  "tags": {
+    "addr:city": "Dworp",
+    "addr:housenumber": "15",
+    "addr:postcode": "1653",
+    "addr:street": "Vroenenbosstraat",
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Geuzestekerij Hanssens Artisanaal",
+    "operator": "Hanssens Artisanaal bvba",
+    "phone": "02 380 31 33",
+    "product": "beer",
+    "wikidata": "Q5110604",
+    "wikipedia": "nl:Geuzestekerij Hanssens Artisanaal"
+  }
+},
+{
+  "type": "node",
+  "id": 6362217260,
+  "lat": 50.6923970,
+  "lon": 4.1074622
+},
+{
+  "type": "node",
+  "id": 6362217261,
+  "lat": 50.6924438,
+  "lon": 4.1076347
+},
+{
+  "type": "node",
+  "id": 6362217263,
+  "lat": 50.6930190,
+  "lon": 4.1074286
+},
+{
+  "type": "node",
+  "id": 6362217264,
+  "lat": 50.6930304,
+  "lon": 4.1074705
+},
+{
+  "type": "node",
+  "id": 6362217265,
+  "lat": 50.6930819,
+  "lon": 4.1074357
+},
+{
+  "type": "node",
+  "id": 6362217267,
+  "lat": 50.6929054,
+  "lon": 4.1071178
+},
+{
+  "type": "node",
+  "id": 6362217269,
+  "lat": 50.6925555,
+  "lon": 4.1075593
+},
+{
+  "type": "node",
+  "id": 6362217270,
+  "lat": 50.6925973,
+  "lon": 4.1077135
+},
+{
+  "type": "node",
+  "id": 6362217271,
+  "lat": 50.6930381,
+  "lon": 4.1072741
+},
+{
+  "type": "node",
+  "id": 2384296870,
+  "lat": 50.6746936,
+  "lon": 4.1526140
+},
+{
+  "type": "node",
+  "id": 2384296873,
+  "lat": 50.6747088,
+  "lon": 4.1524427
+},
+{
+  "type": "node",
+  "id": 2384296879,
+  "lat": 50.6750320,
+  "lon": 4.1524157
+},
+{
+  "type": "node",
+  "id": 2384296882,
+  "lat": 50.6748740,
+  "lon": 4.1528318
+},
+{
+  "type": "node",
+  "id": 2384296885,
+  "lat": 50.6748894,
+  "lon": 4.1526572
+},
+{
+  "type": "node",
+  "id": 2384296890,
+  "lat": 50.6749156,
+  "lon": 4.1523900
+},
+{
+  "type": "node",
+  "id": 2384296899,
+  "lat": 50.6743428,
+  "lon": 4.1523620
+},
+{
+  "type": "node",
+  "id": 2384296901,
+  "lat": 50.6743527,
+  "lon": 4.1522502
+},
+{
+  "type": "node",
+  "id": 2384296903,
+  "lat": 50.6749928,
+  "lon": 4.1528581
+},
+{
+  "type": "node",
+  "id": 2384296905,
+  "lat": 50.6749169,
+  "lon": 4.1523747
+},
+{
+  "type": "node",
+  "id": 4601762043,
+  "lat": 50.6749193,
+  "lon": 4.1523261
+},
+{
+  "type": "node",
+  "id": 4601762044,
+  "lat": 50.6745674,
+  "lon": 4.1522416
+},
+{
+  "type": "node",
+  "id": 4601762045,
+  "lat": 50.6746061,
+  "lon": 4.1518405
+},
+{
+  "type": "node",
+  "id": 4601762046,
+  "lat": 50.6749579,
+  "lon": 4.1519250
+},
+{
+  "type": "node",
+  "id": 4601762047,
+  "lat": 50.6754248,
+  "lon": 4.1529389
+},
+{
+  "type": "node",
+  "id": 4601762048,
+  "lat": 50.6754631,
+  "lon": 4.1525164
+},
+{
+  "type": "node",
+  "id": 4601762049,
+  "lat": 50.6750824,
+  "lon": 4.1524306
+},
+{
+  "type": "node",
+  "id": 4601762050,
+  "lat": 50.6750442,
+  "lon": 4.1528531
+},
+{
+  "type": "node",
+  "id": 4601762059,
+  "lat": 50.6749771,
+  "lon": 4.1517340
+},
+{
+  "type": "node",
+  "id": 4601762060,
+  "lat": 50.6747926,
+  "lon": 4.1516958
+},
+{
+  "type": "node",
+  "id": 4601762061,
+  "lat": 50.6747778,
+  "lon": 4.1518744
+},
+{
+  "type": "node",
+  "id": 4601762062,
+  "lat": 50.6749622,
+  "lon": 4.1519126
+},
+{
+  "type": "node",
+  "id": 4601762063,
+  "lat": 50.6752312,
+  "lon": 4.1521140
+},
+{
+  "type": "node",
+  "id": 4601762064,
+  "lat": 50.6752082,
+  "lon": 4.1524024
+},
+{
+  "type": "node",
+  "id": 4601762065,
+  "lat": 50.6753439,
+  "lon": 4.1524293
+},
+{
+  "type": "node",
+  "id": 4601762066,
+  "lat": 50.6753668,
+  "lon": 4.1521409
+},
+{
+  "type": "node",
+  "id": 1444191252,
+  "lat": 50.6958240,
+  "lon": 4.2064087
+},
+{
+  "type": "node",
+  "id": 1444191253,
+  "lat": 50.6958880,
+  "lon": 4.2064906
+},
+{
+  "type": "node",
+  "id": 1444191255,
+  "lat": 50.6960072,
+  "lon": 4.2060921
+},
+{
+  "type": "node",
+  "id": 1444191256,
+  "lat": 50.6960677,
+  "lon": 4.2061828
+},
+{
+  "type": "node",
+  "id": 4432957204,
+  "lat": 50.7120084,
+  "lon": 4.2192026
+},
+{
+  "type": "node",
+  "id": 4432957205,
+  "lat": 50.7117731,
+  "lon": 4.2190189
+},
+{
+  "type": "node",
+  "id": 4432957206,
+  "lat": 50.7119403,
+  "lon": 4.2190105
+},
+{
+  "type": "node",
+  "id": 4432957207,
+  "lat": 50.7118219,
+  "lon": 4.2188945
+},
+{
+  "type": "node",
+  "id": 4432957208,
+  "lat": 50.7118909,
+  "lon": 4.2191356
+},
+{
+  "type": "node",
+  "id": 4432957209,
+  "lat": 50.7116859,
+  "lon": 4.2192512
+},
+{
+  "type": "node",
+  "id": 4432957210,
+  "lat": 50.7119944,
+  "lon": 4.2192378
+},
+{
+  "type": "node",
+  "id": 4432957211,
+  "lat": 50.7119899,
+  "lon": 4.2192829
+},
+{
+  "type": "node",
+  "id": 4432957212,
+  "lat": 50.7116406,
+  "lon": 4.2193634
+},
+{
+  "type": "node",
+  "id": 4432957213,
+  "lat": 50.7118329,
+  "lon": 4.2195558
+},
+{
+  "type": "node",
+  "id": 6902427015,
+  "lat": 50.7122069,
+  "lon": 4.2193809
+},
+{
+  "type": "node",
+  "id": 6902427032,
+  "lat": 50.7121296,
+  "lon": 4.2194774
+},
+{
+  "type": "node",
+  "id": 6902427033,
+  "lat": 50.7121652,
+  "lon": 4.2195096
+},
+{
+  "type": "node",
+  "id": 6902427034,
+  "lat": 50.7121678,
+  "lon": 4.2195029
+},
+{
+  "type": "node",
+  "id": 6902427035,
+  "lat": 50.7121847,
+  "lon": 4.2195180
+},
+{
+  "type": "node",
+  "id": 6902427036,
+  "lat": 50.7121817,
+  "lon": 4.2195256
+},
+{
+  "type": "node",
+  "id": 6902427037,
+  "lat": 50.7122291,
+  "lon": 4.2195679
+},
+{
+  "type": "node",
+  "id": 6902427038,
+  "lat": 50.7122749,
+  "lon": 4.2194428
+},
+{
+  "type": "node",
+  "id": 6902427039,
+  "lat": 50.7122517,
+  "lon": 4.2194216
+},
+{
+  "type": "node",
+  "id": 6902427048,
+  "lat": 50.7122050,
+  "lon": 4.2193852
+},
+{
+  "type": "node",
+  "id": 6902427049,
+  "lat": 50.7121753,
+  "lon": 4.2193577
+},
+{
+  "type": "node",
+  "id": 6902427050,
+  "lat": 50.7121748,
+  "lon": 4.2193589
+},
+{
+  "type": "node",
+  "id": 6902427051,
+  "lat": 50.7119104,
+  "lon": 4.2194734
+},
+{
+  "type": "node",
+  "id": 6902427052,
+  "lat": 50.7119137,
+  "lon": 4.2194766
+},
+{
+  "type": "node",
+  "id": 6902427053,
+  "lat": 50.7121478,
+  "lon": 4.2194292
+},
+{
+  "type": "node",
+  "id": 6902427054,
+  "lat": 50.7116468,
+  "lon": 4.2192121
+},
+{
+  "type": "node",
+  "id": 6902427055,
+  "lat": 50.7117374,
+  "lon": 4.2189843
+},
+{
+  "type": "node",
+  "id": 551943087,
+  "lat": 50.7244828,
+  "lon": 4.2964752
+},
+{
+  "type": "node",
+  "id": 3929315930,
+  "lat": 50.7239359,
+  "lon": 4.2951500
+},
+{
+  "type": "node",
+  "id": 3929315937,
+  "lat": 50.7243139,
+  "lon": 4.2969982
+},
+{
+  "type": "node",
+  "id": 3929315939,
+  "lat": 50.7240377,
+  "lon": 4.2957334
+},
+{
+  "type": "node",
+  "id": 3929315941,
+  "lat": 50.7239885,
+  "lon": 4.2953713
+},
+{
+  "type": "node",
+  "id": 3929315956,
+  "lat": 50.7238275,
+  "lon": 4.2956858
+},
+{
+  "type": "node",
+  "id": 3929318865,
+  "lat": 50.7240446,
+  "lon": 4.2962122
+},
+{
+  "type": "node",
+  "id": 3929318867,
+  "lat": 50.7245777,
+  "lon": 4.2961397
+},
+{
+  "type": "node",
+  "id": 3929318875,
+  "lat": 50.7240437,
+  "lon": 4.2954116
+},
+{
+  "type": "node",
+  "id": 3929318882,
+  "lat": 50.7239327,
+  "lon": 4.2967828
+},
+{
+  "type": "node",
+  "id": 3929318889,
+  "lat": 50.7237452,
+  "lon": 4.2959808
+},
+{
+  "type": "node",
+  "id": 3929318927,
+  "lat": 50.7240564,
+  "lon": 4.2951473
+},
+{
+  "type": "node",
+  "id": 7054103982,
+  "lat": 50.7288110,
+  "lon": 4.2977676
+},
+{
+  "type": "node",
+  "id": 7054103983,
+  "lat": 50.7288045,
+  "lon": 4.2978052
+},
+{
+  "type": "node",
+  "id": 7054103984,
+  "lat": 50.7289103,
+  "lon": 4.2978500
+},
+{
+  "type": "node",
+  "id": 7054103985,
+  "lat": 50.7289231,
+  "lon": 4.2977754
+},
+{
+  "type": "node",
+  "id": 7054103986,
+  "lat": 50.7288884,
+  "lon": 4.2977606
+},
+{
+  "type": "node",
+  "id": 7054103987,
+  "lat": 50.7288926,
+  "lon": 4.2977358
+},
+{
+  "type": "node",
+  "id": 7054104010,
+  "lat": 50.7289001,
+  "lon": 4.2977348
+},
+{
+  "type": "node",
+  "id": 7054104011,
+  "lat": 50.7289161,
+  "lon": 4.2976483
+},
+{
+  "type": "node",
+  "id": 7054104033,
+  "lat": 50.7285515,
+  "lon": 4.2976446
+},
+{
+  "type": "node",
+  "id": 7054104078,
+  "lat": 50.7283698,
+  "lon": 4.2974402
+},
+{
+  "type": "node",
+  "id": 7177360333,
+  "lat": 50.7291918,
+  "lon": 4.2972104
+},
+{
+  "type": "node",
+  "id": 7177360334,
+  "lat": 50.7291072,
+  "lon": 4.2974286
+},
+{
+  "type": "node",
+  "id": 7177360335,
+  "lat": 50.7289531,
+  "lon": 4.2973391
+},
+{
+  "type": "node",
+  "id": 7177360336,
+  "lat": 50.7288092,
+  "lon": 4.2977475
+},
+{
+  "type": "node",
+  "id": 7177360337,
+  "lat": 50.7285574,
+  "lon": 4.2976092
+},
+{
+  "type": "node",
+  "id": 7177360338,
+  "lat": 50.7284922,
+  "lon": 4.2975724
+},
+{
+  "type": "node",
+  "id": 7177360339,
+  "lat": 50.7284986,
+  "lon": 4.2975253
+},
+{
+  "type": "node",
+  "id": 7177360340,
+  "lat": 50.7284334,
+  "lon": 4.2971070
+},
+{
+  "type": "node",
+  "id": 7177360341,
+  "lat": 50.7289461,
+  "lon": 4.2970994
+},
+{
+  "type": "node",
+  "id": 7177360342,
+  "lat": 50.7287055,
+  "lon": 4.2970646
+},
+{
+  "type": "node",
+  "id": 7177360343,
+  "lat": 50.7285854,
+  "lon": 4.2970623
+},
+{
+  "type": "node",
+  "id": 4515685746,
+  "lat": 50.7421979,
+  "lon": 4.2503988
+},
+{
+  "type": "node",
+  "id": 4515685752,
+  "lat": 50.7418110,
+  "lon": 4.2507592
+},
+{
+  "type": "node",
+  "id": 4515685754,
+  "lat": 50.7419536,
+  "lon": 4.2506047
+},
+{
+  "type": "node",
+  "id": 4515685755,
+  "lat": 50.7422879,
+  "lon": 4.2505636
+},
+{
+  "type": "node",
+  "id": 4515685756,
+  "lat": 50.7421783,
+  "lon": 4.2504002
+},
+{
+  "type": "node",
+  "id": 6979291793,
+  "lat": 50.7418624,
+  "lon": 4.2508539
+},
+{
+  "type": "node",
+  "id": 6979291794,
+  "lat": 50.7419294,
+  "lon": 4.2507812
+},
+{
+  "type": "node",
+  "id": 6979291795,
+  "lat": 50.7419937,
+  "lon": 4.2507116
+},
+{
+  "type": "node",
+  "id": 6979291796,
+  "lat": 50.7421936,
+  "lon": 4.2506110
+},
+{
+  "type": "node",
+  "id": 420730638,
+  "lat": 50.7629783,
+  "lon": 4.2744395
+},
+{
+  "type": "node",
+  "id": 420730639,
+  "lat": 50.7626047,
+  "lon": 4.2733923
+},
+{
+  "type": "node",
+  "id": 420730640,
+  "lat": 50.7630762,
+  "lon": 4.2729720
+},
+{
+  "type": "node",
+  "id": 420730641,
+  "lat": 50.7634497,
+  "lon": 4.2740191
+},
+{
+  "type": "node",
+  "id": 1641575737,
+  "lat": 50.6772051,
+  "lon": 4.5491690
+},
+{
+  "type": "node",
+  "id": 1641575739,
+  "lat": 50.6772589,
+  "lon": 4.5490283
+},
+{
+  "type": "node",
+  "id": 1641575744,
+  "lat": 50.6773754,
+  "lon": 4.5493314
+},
+{
+  "type": "node",
+  "id": 1641575747,
+  "lat": 50.6774292,
+  "lon": 4.5491907
+},
+{
+  "type": "node",
+  "id": 5503777284,
+  "lat": 50.9192629,
+  "lon": 3.9670267
+},
+{
+  "type": "node",
+  "id": 5503777285,
+  "lat": 50.9192684,
+  "lon": 3.9671177
+},
+{
+  "type": "node",
+  "id": 5503777286,
+  "lat": 50.9190922,
+  "lon": 3.9671503
+},
+{
+  "type": "node",
+  "id": 5503777287,
+  "lat": 50.9190890,
+  "lon": 3.9671155
+},
+{
+  "type": "node",
+  "id": 5503777288,
+  "lat": 50.9190385,
+  "lon": 3.9671168
+},
+{
+  "type": "node",
+  "id": 5503777289,
+  "lat": 50.9190389,
+  "lon": 3.9671310
+},
+{
+  "type": "node",
+  "id": 5503777290,
+  "lat": 50.9189697,
+  "lon": 3.9671422
+},
+{
+  "type": "node",
+  "id": 5503777291,
+  "lat": 50.9189650,
+  "lon": 3.9670715
+},
+{
+  "type": "node",
+  "id": 5503777292,
+  "lat": 50.9190357,
+  "lon": 3.9670596
+},
+{
+  "type": "node",
+  "id": 5503777293,
+  "lat": 50.9190859,
+  "lon": 3.9670568
+},
+{
+  "type": "node",
+  "id": 465233469,
+  "lat": 50.7959215,
+  "lon": 4.1142294
+},
+{
+  "type": "node",
+  "id": 465233471,
+  "lat": 50.7960429,
+  "lon": 4.1139490
+},
+{
+  "type": "node",
+  "id": 465233472,
+  "lat": 50.7957857,
+  "lon": 4.1144199
+},
+{
+  "type": "node",
+  "id": 465233473,
+  "lat": 50.7959831,
+  "lon": 4.1144935
+},
+{
+  "type": "node",
+  "id": 465233474,
+  "lat": 50.7960961,
+  "lon": 4.1139132
+},
+{
+  "type": "node",
+  "id": 465233475,
+  "lat": 50.7959806,
+  "lon": 4.1139206
+},
+{
+  "type": "node",
+  "id": 465233476,
+  "lat": 50.7960520,
+  "lon": 4.1138935
+},
+{
+  "type": "node",
+  "id": 5142155088,
+  "lat": 50.7958264,
+  "lon": 4.1141839
+},
+{
+  "type": "node",
+  "id": 5142155089,
+  "lat": 50.7957970,
+  "lon": 4.1143539
+},
+{
+  "type": "node",
+  "id": 4589584808,
+  "lat": 50.8526133,
+  "lon": 4.1637921
+},
+{
+  "type": "node",
+  "id": 4589584809,
+  "lat": 50.8525925,
+  "lon": 4.1639571
+},
+{
+  "type": "node",
+  "id": 4589584811,
+  "lat": 50.8526548,
+  "lon": 4.1641677
+},
+{
+  "type": "node",
+  "id": 2623356493,
+  "lat": 50.8530642,
+  "lon": 4.1638797
+},
+{
+  "type": "node",
+  "id": 4589584799,
+  "lat": 50.8530258,
+  "lon": 4.1640855
+},
+{
+  "type": "node",
+  "id": 4589584800,
+  "lat": 50.8529752,
+  "lon": 4.1640694
+},
+{
+  "type": "node",
+  "id": 4589584801,
+  "lat": 50.8529335,
+  "lon": 4.1643346
+},
+{
+  "type": "node",
+  "id": 4589584802,
+  "lat": 50.8529858,
+  "lon": 4.1643474
+},
+{
+  "type": "node",
+  "id": 4589584803,
+  "lat": 50.8527750,
+  "lon": 4.1642937
+},
+{
+  "type": "node",
+  "id": 4589584804,
+  "lat": 50.8528131,
+  "lon": 4.1639397
+},
+{
+  "type": "node",
+  "id": 4589584805,
+  "lat": 50.8530358,
+  "lon": 4.1640188
+},
+{
+  "type": "node",
+  "id": 4589584806,
+  "lat": 50.8527699,
+  "lon": 4.1637600
+},
+{
+  "type": "node",
+  "id": 4589584807,
+  "lat": 50.8527598,
+  "lon": 4.1638324
+},
+{
+  "type": "node",
+  "id": 4589584810,
+  "lat": 50.8526759,
+  "lon": 4.1639759
+},
+{
+  "type": "node",
+  "id": 4589584812,
+  "lat": 50.8527013,
+  "lon": 4.1641770
+},
+{
+  "type": "node",
+  "id": 4589584813,
+  "lat": 50.8526776,
+  "lon": 4.1643956
+},
+{
+  "type": "node",
+  "id": 4589584814,
+  "lat": 50.8527962,
+  "lon": 4.1644319
+},
+{
+  "type": "node",
+  "id": 4589584815,
+  "lat": 50.8527564,
+  "lon": 4.1647604
+},
+{
+  "type": "node",
+  "id": 4589584816,
+  "lat": 50.8529257,
+  "lon": 4.1648074
+},
+{
+  "type": "node",
+  "id": 1455968831,
+  "lat": 50.9702087,
+  "lon": 4.1897707
+},
+{
+  "type": "node",
+  "id": 1455968837,
+  "lat": 50.9698000,
+  "lon": 4.1900094
+},
+{
+  "type": "node",
+  "id": 1455968855,
+  "lat": 50.9697307,
+  "lon": 4.1901516
+},
+{
+  "type": "node",
+  "id": 1455968884,
+  "lat": 50.9697713,
+  "lon": 4.1899531
+},
+{
+  "type": "node",
+  "id": 1455968890,
+  "lat": 50.9700246,
+  "lon": 4.1900872
+},
+{
+  "type": "node",
+  "id": 1455968892,
+  "lat": 50.9698625,
+  "lon": 4.1898324
+},
+{
+  "type": "node",
+  "id": 1455968965,
+  "lat": 50.9700734,
+  "lon": 4.1900064
+},
+{
+  "type": "node",
+  "id": 1455969040,
+  "lat": 50.9703337,
+  "lon": 4.1897063
+},
+{
+  "type": "node",
+  "id": 1455969043,
+  "lat": 50.9702577,
+  "lon": 4.1898378
+},
+{
+  "type": "node",
+  "id": 1455969089,
+  "lat": 50.9698371,
+  "lon": 4.1904654
+},
+{
+  "type": "node",
+  "id": 1455969095,
+  "lat": 50.9698895,
+  "lon": 4.1903742
+},
+{
+  "type": "node",
+  "id": 1456756542,
+  "lat": 50.9699020,
+  "lon": 4.1905595
+},
+{
+  "type": "node",
+  "id": 1456756561,
+  "lat": 50.9701992,
+  "lon": 4.1910401
+},
+{
+  "type": "node",
+  "id": 1456756575,
+  "lat": 50.9700429,
+  "lon": 4.1913012
+},
+{
+  "type": "node",
+  "id": 1456756584,
+  "lat": 50.9697195,
+  "lon": 4.1908416
+},
+{
+  "type": "node",
+  "id": 1456756589,
+  "lat": 50.9704854,
+  "lon": 4.1898930
+},
+{
+  "type": "node",
+  "id": 1456756605,
+  "lat": 50.9706350,
+  "lon": 4.1916302
+},
+{
+  "type": "node",
+  "id": 1454703021,
+  "lat": 50.9710085,
+  "lon": 4.1904844
+},
+{
+  "type": "node",
+  "id": 1454703059,
+  "lat": 50.9706774,
+  "lon": 4.1900827
+},
+{
+  "type": "node",
+  "id": 1456756504,
+  "lat": 50.9706924,
+  "lon": 4.1914773
+},
+{
+  "type": "node",
+  "id": 1456756505,
+  "lat": 50.9707313,
+  "lon": 4.1912895
+},
+{
+  "type": "node",
+  "id": 1456756525,
+  "lat": 50.9707110,
+  "lon": 4.1915095
+},
+{
+  "type": "node",
+  "id": 1456756526,
+  "lat": 50.9706645,
+  "lon": 4.1911966
+},
+{
+  "type": "node",
+  "id": 1456756532,
+  "lat": 50.9707127,
+  "lon": 4.1913190
+},
+{
+  "type": "node",
+  "id": 1456756533,
+  "lat": 50.9707043,
+  "lon": 4.1913834
+},
+{
+  "type": "node",
+  "id": 1456756544,
+  "lat": 50.9706920,
+  "lon": 4.1911492
+},
+{
+  "type": "node",
+  "id": 1456756546,
+  "lat": 50.9707253,
+  "lon": 4.1910920
+},
+{
+  "type": "node",
+  "id": 1456756556,
+  "lat": 50.9706638,
+  "lon": 4.1915844
+},
+{
+  "type": "node",
+  "id": 1456756572,
+  "lat": 50.9707692,
+  "lon": 4.1911456
+},
+{
+  "type": "node",
+  "id": 1456756608,
+  "lat": 50.9710834,
+  "lon": 4.1905824
+},
+{
+  "type": "node",
+  "id": 493607109,
+  "lat": 50.7974589,
+  "lon": 4.2854892
+},
+{
+  "type": "node",
+  "id": 6961339405,
+  "lat": 50.7973177,
+  "lon": 4.2859449
+},
+{
+  "type": "node",
+  "id": 493607107,
+  "lat": 50.7988121,
+  "lon": 4.2872321
+},
+{
+  "type": "node",
+  "id": 493607108,
+  "lat": 50.7975409,
+  "lon": 4.2862236
+},
+{
+  "type": "node",
+  "id": 493607110,
+  "lat": 50.7988728,
+  "lon": 4.2870380
+},
+{
+  "type": "node",
+  "id": 6961339403,
+  "lat": 50.7985816,
+  "lon": 4.2863722
+},
+{
+  "type": "node",
+  "id": 6961339404,
+  "lat": 50.7984710,
+  "lon": 4.2867125
+},
+{
+  "type": "node",
+  "id": 6961339406,
+  "lat": 50.7975624,
+  "lon": 4.2861460
+},
+{
+  "type": "node",
+  "id": 2591980093,
+  "lat": 50.8397578,
+  "lon": 4.2462125
+},
+{
+  "type": "node",
+  "id": 2591980096,
+  "lat": 50.8401444,
+  "lon": 4.2466096
+},
+{
+  "type": "node",
+  "id": 2591980091,
+  "lat": 50.8394931,
+  "lon": 4.2470288
+},
+{
+  "type": "node",
+  "id": 2591980085,
+  "lat": 50.8401096,
+  "lon": 4.2468854
+},
+{
+  "type": "node",
+  "id": 2591980088,
+  "lat": 50.8399215,
+  "lon": 4.2474314
+},
+{
+  "type": "node",
+  "id": 4415561776,
+  "lat": 50.8508415,
+  "lon": 4.2469492
+},
+{
+  "type": "node",
+  "id": 4415561777,
+  "lat": 50.8509653,
+  "lon": 4.2470926
+},
+{
+  "type": "node",
+  "id": 4415561778,
+  "lat": 50.8508804,
+  "lon": 4.2472729
+},
+{
+  "type": "node",
+  "id": 4415561779,
+  "lat": 50.8509101,
+  "lon": 4.2473080
+},
+{
+  "type": "node",
+  "id": 4415561780,
+  "lat": 50.8508908,
+  "lon": 4.2473489
+},
+{
+  "type": "node",
+  "id": 4415561781,
+  "lat": 50.8509339,
+  "lon": 4.2473999
+},
+{
+  "type": "node",
+  "id": 4415561782,
+  "lat": 50.8508500,
+  "lon": 4.2475781
+},
+{
+  "type": "node",
+  "id": 4415561783,
+  "lat": 50.8506960,
+  "lon": 4.2473962
+},
+{
+  "type": "node",
+  "id": 4415561784,
+  "lat": 50.8507784,
+  "lon": 4.2472212
+},
+{
+  "type": "node",
+  "id": 4415561785,
+  "lat": 50.8507381,
+  "lon": 4.2471768
+},
+{
+  "type": "node",
+  "id": 2696741824,
+  "lat": 50.8415051,
+  "lon": 4.3355787
+},
+{
+  "type": "node",
+  "id": 2696741829,
+  "lat": 50.8415085,
+  "lon": 4.3355751
+},
+{
+  "type": "node",
+  "id": 2696741862,
+  "lat": 50.8415854,
+  "lon": 4.3354995
+},
+{
+  "type": "node",
+  "id": 2696741900,
+  "lat": 50.8417052,
+  "lon": 4.3360702
+},
+{
+  "type": "node",
+  "id": 2696741915,
+  "lat": 50.8417278,
+  "lon": 4.3361315
+},
+{
+  "type": "node",
+  "id": 2696741941,
+  "lat": 50.8417803,
+  "lon": 4.3361168
+},
+{
+  "type": "node",
+  "id": 2696741955,
+  "lat": 50.8418254,
+  "lon": 4.3361026
+},
+{
+  "type": "node",
+  "id": 2522240816,
+  "lat": 50.8476114,
+  "lon": 4.3475965
+},
+{
+  "type": "node",
+  "id": 2522240837,
+  "lat": 50.8476292,
+  "lon": 4.3476498
+},
+{
+  "type": "node",
+  "id": 2522240872,
+  "lat": 50.8476502,
+  "lon": 4.3475640
+},
+{
+  "type": "node",
+  "id": 2522240912,
+  "lat": 50.8476695,
+  "lon": 4.3475469
+},
+{
+  "type": "node",
+  "id": 2522240950,
+  "lat": 50.8476962,
+  "lon": 4.3478343
+},
+{
+  "type": "node",
+  "id": 2522241032,
+  "lat": 50.8477537,
+  "lon": 4.3477876
+},
+{
+  "type": "node",
+  "id": 508773246,
+  "lat": 50.8746493,
+  "lon": 4.2345795
+},
+{
+  "type": "node",
+  "id": 508773251,
+  "lat": 50.8746053,
+  "lon": 4.2339212
+},
+{
+  "type": "node",
+  "id": 508773270,
+  "lat": 50.8752422,
+  "lon": 4.2348828
+},
+{
+  "type": "node",
+  "id": 1395878063,
+  "lat": 50.8747925,
+  "lon": 4.2341445
+},
+{
+  "type": "node",
+  "id": 1395878065,
+  "lat": 50.8748167,
+  "lon": 4.2345436
+},
+{
+  "type": "node",
+  "id": 1395878068,
+  "lat": 50.8748842,
+  "lon": 4.2340357
+},
+{
+  "type": "node",
+  "id": 1395878069,
+  "lat": 50.8748907,
+  "lon": 4.2341182
+},
+{
+  "type": "node",
+  "id": 1395878070,
+  "lat": 50.8749094,
+  "lon": 4.2345635
+},
+{
+  "type": "node",
+  "id": 1395878071,
+  "lat": 50.8749132,
+  "lon": 4.2345363
+},
+{
+  "type": "node",
+  "id": 1395878072,
+  "lat": 50.8749566,
+  "lon": 4.2341802
+},
+{
+  "type": "node",
+  "id": 1395878073,
+  "lat": 50.8749711,
+  "lon": 4.2344232
+},
+{
+  "type": "node",
+  "id": 1395878074,
+  "lat": 50.8749834,
+  "lon": 4.2346578
+},
+{
+  "type": "node",
+  "id": 1395878075,
+  "lat": 50.8749904,
+  "lon": 4.2345771
+},
+{
+  "type": "node",
+  "id": 1395878083,
+  "lat": 50.8750735,
+  "lon": 4.2346739
+},
+{
+  "type": "node",
+  "id": 1395878084,
+  "lat": 50.8750798,
+  "lon": 4.2345987
+},
+{
+  "type": "node",
+  "id": 1395878086,
+  "lat": 50.8751316,
+  "lon": 4.2346080
+},
+{
+  "type": "node",
+  "id": 1395878087,
+  "lat": 50.8751334,
+  "lon": 4.2345884
+},
+{
+  "type": "node",
+  "id": 1395878088,
+  "lat": 50.8751416,
+  "lon": 4.2342227
+},
+{
+  "type": "node",
+  "id": 1395878089,
+  "lat": 50.8751566,
+  "lon": 4.2344725
+},
+{
+  "type": "node",
+  "id": 1395878090,
+  "lat": 50.8751620,
+  "lon": 4.2339397
+},
+{
+  "type": "node",
+  "id": 1395878091,
+  "lat": 50.8751808,
+  "lon": 4.2340961
+},
+{
+  "type": "node",
+  "id": 1395878092,
+  "lat": 50.8752232,
+  "lon": 4.2342124
+},
+{
+  "type": "node",
+  "id": 1395878093,
+  "lat": 50.8752415,
+  "lon": 4.2346099
+},
+{
+  "type": "node",
+  "id": 2609347045,
+  "lat": 50.8748410,
+  "lon": 4.2345473
+},
+{
+  "type": "node",
+  "id": 2609347047,
+  "lat": 50.8748676,
+  "lon": 4.2348371
+},
+{
+  "type": "node",
+  "id": 3102080146,
+  "lat": 50.8751821,
+  "lon": 4.2337111
+},
+{
+  "type": "node",
+  "id": 3102080147,
+  "lat": 50.8752349,
+  "lon": 4.2342483
+},
+{
+  "type": "node",
+  "id": 3102080148,
+  "lat": 50.8752511,
+  "lon": 4.2347550
+},
+{
+  "type": "node",
+  "id": 1189829436,
+  "lat": 50.9103914,
+  "lon": 4.2499396
+},
+{
+  "type": "node",
+  "id": 1189829445,
+  "lat": 50.9105577,
+  "lon": 4.2501198
+},
+{
+  "type": "node",
+  "id": 1189829486,
+  "lat": 50.9105989,
+  "lon": 4.2501814
+},
+{
+  "type": "node",
+  "id": 1189829563,
+  "lat": 50.9105101,
+  "lon": 4.2502633
+},
+{
+  "type": "node",
+  "id": 1189829728,
+  "lat": 50.9104663,
+  "lon": 4.2498705
+},
+{
+  "type": "node",
+  "id": 1189829736,
+  "lat": 50.9105716,
+  "lon": 4.2501070
+},
+{
+  "type": "node",
+  "id": 1597380091,
+  "lat": 50.9499923,
+  "lon": 4.3103860
+},
+{
+  "type": "node",
+  "id": 6325103633,
+  "lat": 50.9500965,
+  "lon": 4.3105005
+},
+{
+  "type": "node",
+  "id": 6325130227,
+  "lat": 50.9503254,
+  "lon": 4.3098221
+},
+{
+  "type": "node",
+  "id": 6325130228,
+  "lat": 50.9502376,
+  "lon": 4.3097068
+},
+{
+  "type": "node",
+  "id": 6325130229,
+  "lat": 50.9501714,
+  "lon": 4.3102780
+},
+{
+  "type": "node",
+  "id": 6325130231,
+  "lat": 50.9501309,
+  "lon": 4.3103984
+},
+{
+  "type": "node",
+  "id": 1857005730,
+  "lat": 51.0219411,
+  "lon": 4.3628091
+},
+{
+  "type": "node",
+  "id": 1857005733,
+  "lat": 51.0219467,
+  "lon": 4.3628502
+},
+{
+  "type": "node",
+  "id": 1857005735,
+  "lat": 51.0219552,
+  "lon": 4.3628187
+},
+{
+  "type": "node",
+  "id": 1857005736,
+  "lat": 51.0219641,
+  "lon": 4.3627243
+},
+{
+  "type": "node",
+  "id": 1857005741,
+  "lat": 51.0221042,
+  "lon": 4.3629584
+},
+{
+  "type": "node",
+  "id": 1857005743,
+  "lat": 51.0221357,
+  "lon": 4.3628421
+},
+{
+  "type": "node",
+  "id": 980528931,
+  "lat": 50.8891715,
+  "lon": 4.7088707
+},
+{
+  "type": "node",
+  "id": 980528934,
+  "lat": 50.8890251,
+  "lon": 4.7092133
+},
+{
+  "type": "node",
+  "id": 980528940,
+  "lat": 50.8889395,
+  "lon": 4.7091215
+},
+{
+  "type": "node",
+  "id": 980528947,
+  "lat": 50.8888267,
+  "lon": 4.7093853
+},
+{
+  "type": "node",
+  "id": 980528953,
+  "lat": 50.8884732,
+  "lon": 4.7090055
+},
+{
+  "type": "node",
+  "id": 980528957,
+  "lat": 50.8887325,
+  "lon": 4.7083990
+},
+{
+  "type": "node",
+  "id": 980530194,
+  "lat": 50.8884824,
+  "lon": 4.7083342
+},
+{
+  "type": "node",
+  "id": 980530199,
+  "lat": 50.8885001,
+  "lon": 4.7089427
+},
+{
+  "type": "node",
+  "id": 980530204,
+  "lat": 50.8883080,
+  "lon": 4.7087655
+},
+{
+  "type": "node",
+  "id": 980530213,
+  "lat": 50.8882727,
+  "lon": 4.7088513
+},
+{
+  "type": "node",
+  "id": 980530220,
+  "lat": 50.8877389,
+  "lon": 4.7083167
+},
+{
+  "type": "node",
+  "id": 980530230,
+  "lat": 50.8879494,
+  "lon": 4.7077990
+},
+{
+  "type": "node",
+  "id": 980530238,
+  "lat": 50.8880025,
+  "lon": 4.7078464
+},
+{
+  "type": "node",
+  "id": 980530244,
+  "lat": 50.8879997,
+  "lon": 4.7077019
+},
+{
+  "type": "node",
+  "id": 980530248,
+  "lat": 50.8880851,
+  "lon": 4.7076159
+},
+{
+  "type": "node",
+  "id": 980530250,
+  "lat": 50.8881561,
+  "lon": 4.7075699
+},
+{
+  "type": "node",
+  "id": 980530254,
+  "lat": 50.8882440,
+  "lon": 4.7076176
+},
+{
+  "type": "node",
+  "id": 980530261,
+  "lat": 50.8882742,
+  "lon": 4.7076197
+},
+{
+  "type": "node",
+  "id": 980530268,
+  "lat": 50.8882766,
+  "lon": 4.7076917
+},
+{
+  "type": "node",
+  "id": 980530272,
+  "lat": 50.8883238,
+  "lon": 4.7076952
+},
+{
+  "type": "node",
+  "id": 980530275,
+  "lat": 50.8882284,
+  "lon": 4.7080829
+},
+{
+  "type": "node",
+  "id": 980536226,
+  "lat": 50.8892090,
+  "lon": 4.7105655
+},
+{
+  "type": "node",
+  "id": 980536230,
+  "lat": 50.8887801,
+  "lon": 4.7116253
+},
+{
+  "type": "node",
+  "id": 980536234,
+  "lat": 50.8888546,
+  "lon": 4.7117011
+},
+{
+  "type": "node",
+  "id": 980536235,
+  "lat": 50.8888053,
+  "lon": 4.7118228
+},
+{
+  "type": "node",
+  "id": 980536239,
+  "lat": 50.8888240,
+  "lon": 4.7119695
+},
+{
+  "type": "node",
+  "id": 980536244,
+  "lat": 50.8887323,
+  "lon": 4.7119945
+},
+{
+  "type": "node",
+  "id": 980536305,
+  "lat": 50.8866287,
+  "lon": 4.7100123
+},
+{
+  "type": "node",
+  "id": 980536315,
+  "lat": 50.8866817,
+  "lon": 4.7100662
+},
+{
+  "type": "node",
+  "id": 980536322,
+  "lat": 50.8867648,
+  "lon": 4.7098609
+},
+{
+  "type": "node",
+  "id": 980536324,
+  "lat": 50.8869004,
+  "lon": 4.7099988
+},
+{
+  "type": "node",
+  "id": 980536327,
+  "lat": 50.8869872,
+  "lon": 4.7097843
+},
+{
+  "type": "node",
+  "id": 980536377,
+  "lat": 50.8873771,
+  "lon": 4.7101808
+},
+{
+  "type": "node",
+  "id": 980536379,
+  "lat": 50.8875335,
+  "lon": 4.7097944
+},
+{
+  "type": "node",
+  "id": 980536382,
+  "lat": 50.8877298,
+  "lon": 4.7099941
+},
+{
+  "type": "node",
+  "id": 980536384,
+  "lat": 50.8876331,
+  "lon": 4.7102332
+},
+{
+  "type": "node",
+  "id": 980536393,
+  "lat": 50.8878609,
+  "lon": 4.7104650
+},
+{
+  "type": "node",
+  "id": 980536396,
+  "lat": 50.8877963,
+  "lon": 4.7106247
+},
+{
+  "type": "node",
+  "id": 980536401,
+  "lat": 50.8879459,
+  "lon": 4.7107769
+},
+{
+  "type": "node",
+  "id": 980536432,
+  "lat": 50.8881396,
+  "lon": 4.7102985
+},
+{
+  "type": "node",
+  "id": 980536440,
+  "lat": 50.8885088,
+  "lon": 4.7106741
+},
+{
+  "type": "node",
+  "id": 980536443,
+  "lat": 50.8886962,
+  "lon": 4.7102111
+},
+{
+  "type": "node",
+  "id": 980536453,
+  "lat": 50.8889067,
+  "lon": 4.7104252
+},
+{
+  "type": "node",
+  "id": 980536459,
+  "lat": 50.8889546,
+  "lon": 4.7103068
+},
+{
+  "type": "node",
+  "id": 6376137762,
+  "lat": 50.8881134,
+  "lon": 4.7075835
+},
+{
+  "type": "node",
+  "id": 6376137763,
+  "lat": 50.8881894,
+  "lon": 4.7075703
+},
+{
+  "type": "node",
+  "id": 6376137768,
+  "lat": 50.8882224,
+  "lon": 4.7075951
+},
+{
+  "type": "node",
+  "id": 6376137769,
+  "lat": 50.8883253,
+  "lon": 4.7077968
+},
+{
+  "type": "node",
+  "id": 6376137770,
+  "lat": 50.8882486,
+  "lon": 4.7077981
+},
+{
+  "type": "node",
+  "id": 6376137771,
+  "lat": 50.8882278,
+  "lon": 4.7078513
+},
+{
+  "type": "node",
+  "id": 6376137772,
+  "lat": 50.8881963,
+  "lon": 4.7078795
+},
+{
+  "type": "node",
+  "id": 6376137773,
+  "lat": 50.8881945,
+  "lon": 4.7078980
+},
+{
+  "type": "node",
+  "id": 6376137774,
+  "lat": 50.8882264,
+  "lon": 4.7078997
+},
+{
+  "type": "node",
+  "id": 6376137775,
+  "lat": 50.8880495,
+  "lon": 4.7076206
+},
+{
+  "type": "node",
+  "id": 6376137776,
+  "lat": 50.8880516,
+  "lon": 4.7076973
+},
+{
+  "type": "node",
+  "id": 6376137777,
+  "lat": 50.8885791,
+  "lon": 4.7081069
+},
+{
+  "type": "node",
+  "id": 6376137778,
+  "lat": 50.8886614,
+  "lon": 4.7083377
+},
+{
+  "type": "node",
+  "id": 6376137779,
+  "lat": 50.8886948,
+  "lon": 4.7082400
+},
+{
+  "type": "node",
+  "id": 980536248,
+  "lat": 50.8883440,
+  "lon": 4.7129477
+},
+{
+  "type": "node",
+  "id": 980536252,
+  "lat": 50.8884842,
+  "lon": 4.7130911
+},
+{
+  "type": "node",
+  "id": 980536254,
+  "lat": 50.8884163,
+  "lon": 4.7132577
+},
+{
+  "type": "node",
+  "id": 980536256,
+  "lat": 50.8881276,
+  "lon": 4.7131612
+},
+{
+  "type": "node",
+  "id": 980536257,
+  "lat": 50.8879572,
+  "lon": 4.7135797
+},
+{
+  "type": "node",
+  "id": 980536261,
+  "lat": 50.8874611,
+  "lon": 4.7137219
+},
+{
+  "type": "node",
+  "id": 980536264,
+  "lat": 50.8872439,
+  "lon": 4.7135009
+},
+{
+  "type": "node",
+  "id": 980536267,
+  "lat": 50.8871317,
+  "lon": 4.7137780
+},
+{
+  "type": "node",
+  "id": 980536269,
+  "lat": 50.8869765,
+  "lon": 4.7136108
+},
+{
+  "type": "node",
+  "id": 980536273,
+  "lat": 50.8867887,
+  "lon": 4.7141040
+},
+{
+  "type": "node",
+  "id": 980536276,
+  "lat": 50.8863442,
+  "lon": 4.7139945
+},
+{
+  "type": "node",
+  "id": 980536292,
+  "lat": 50.8856405,
+  "lon": 4.7132919
+},
+{
+  "type": "node",
+  "id": 980536297,
+  "lat": 50.8858411,
+  "lon": 4.7127616
+},
+{
+  "type": "node",
+  "id": 980536301,
+  "lat": 50.8856107,
+  "lon": 4.7125273
+},
+{
+  "type": "node",
+  "id": 1141970561,
+  "lat": 50.8882798,
+  "lon": 4.7131180
+},
+{
+  "type": "node",
+  "id": 1141970562,
+  "lat": 50.8882226,
+  "lon": 4.7132584
+},
+{
+  "type": "node",
+  "id": 1141970563,
+  "lat": 50.8866063,
+  "lon": 4.7141557
+},
+{
+  "type": "node",
+  "id": 1141970564,
+  "lat": 50.8876122,
+  "lon": 4.7137180
+},
+{
+  "type": "node",
+  "id": 1141970565,
+  "lat": 50.8876569,
+  "lon": 4.7136236
+},
+{
+  "type": "node",
+  "id": 1141970567,
+  "lat": 50.8876998,
+  "lon": 4.7136713
+},
+{
+  "type": "node",
+  "id": 5298125043,
+  "lat": 50.8863737,
+  "lon": 4.7139207
+},
+{
+  "type": "node",
+  "id": 1445337924,
+  "lat": 50.9500237,
+  "lon": 4.6645352
+},
+{
+  "type": "node",
+  "id": 1445337928,
+  "lat": 50.9500394,
+  "lon": 4.6644542
+},
+{
+  "type": "node",
+  "id": 1445337944,
+  "lat": 50.9500544,
+  "lon": 4.6644727
+},
+{
+  "type": "node",
+  "id": 1445337945,
+  "lat": 50.9500667,
+  "lon": 4.6642684
+},
+{
+  "type": "node",
+  "id": 1445337948,
+  "lat": 50.9501065,
+  "lon": 4.6643178
+},
+{
+  "type": "node",
+  "id": 1445337950,
+  "lat": 50.9501215,
+  "lon": 4.6643240
+},
+{
+  "type": "node",
+  "id": 1445337956,
+  "lat": 50.9501244,
+  "lon": 4.6641510
+},
+{
+  "type": "node",
+  "id": 1445337962,
+  "lat": 50.9501743,
+  "lon": 4.6647217
+},
+{
+  "type": "node",
+  "id": 1445337964,
+  "lat": 50.9501755,
+  "lon": 4.6642143
+},
+{
+  "type": "node",
+  "id": 1445337968,
+  "lat": 50.9502003,
+  "lon": 4.6646689
+},
+{
+  "type": "node",
+  "id": 1445337978,
+  "lat": 50.9502540,
+  "lon": 4.6645815
+},
+{
+  "type": "node",
+  "id": 1445337980,
+  "lat": 50.9502733,
+  "lon": 4.6647593
+},
+{
+  "type": "node",
+  "id": 1445337982,
+  "lat": 50.9502825,
+  "lon": 4.6645235
+},
+{
+  "type": "node",
+  "id": 1445337984,
+  "lat": 50.9503203,
+  "lon": 4.6646637
+},
+{
+  "type": "node",
+  "id": 3251838041,
+  "lat": 50.8937213,
+  "lon": 4.7684373
+},
+{
+  "type": "node",
+  "id": 3251838042,
+  "lat": 50.8936651,
+  "lon": 4.7686221
+},
+{
+  "type": "node",
+  "id": 3251838043,
+  "lat": 50.8937207,
+  "lon": 4.7686225
+},
+{
+  "type": "node",
+  "id": 3251838044,
+  "lat": 50.8936657,
+  "lon": 4.7684369
+}
+
+  ]
+}

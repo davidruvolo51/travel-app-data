@@ -1,0 +1,264 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T01:34:03Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 655152523,
+  "lat": 50.2703506,
+  "lon": 19.0021469,
+  "tags": {
+    "addr:door": "233",
+    "amenity": "restaurant",
+    "contact:facebook": "https://facebook.com/Restauracja-Browar-Bierhalle-Katowice-183517601661364",
+    "contact:phone": "+48 609 677 709",
+    "cuisine": "regional",
+    "level": "1",
+    "microbrewery": "yes",
+    "name": "Bierhalle",
+    "opening_hours": "Mo-Th 12:00-22:00; Fr 12:00-23:00; Sa 11:00-23:00; Su 12:00-20:00; Su[-1] 11:00-21:00; PH off",
+    "website": "http://bierhalle.pl/aktualnosci-kat"
+  }
+},
+{
+  "type": "node",
+  "id": 2118225590,
+  "lat": 50.2021768,
+  "lon": 18.9766776,
+  "tags": {
+    "addr:city": "Katowice",
+    "addr:country": "PL",
+    "addr:housenumber": "153",
+    "addr:postcode": "40-750",
+    "addr:street": "Armii Krajowej",
+    "amenity": "restaurant",
+    "email": "restauracja@restauracjavillarossa.pl",
+    "microbrewery": "yes",
+    "name": "Villa Rossa",
+    "phone": "322505283",
+    "source": "bing",
+    "website": "http://www.restauracjavillarossa.pl"
+  }
+},
+{
+  "type": "node",
+  "id": 3684289908,
+  "lat": 50.2561188,
+  "lon": 19.0276033,
+  "tags": {
+    "amenity": "pub",
+    "contact:phone": "+ 48 53 50 09 768",
+    "cuisine": "gastropub",
+    "microbrewery": "yes",
+    "name": "Browariat",
+    "opening_hours": "Mo-Th 16:00-23:00; Fr 16:00-24:00; Sa 00:00-02:00,17:00-24:00; Su 00:00-02:00,18:00-22:00",
+    "website": "http://browariat.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4023447727,
+  "lat": 50.2701067,
+  "lon": 19.0265386,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "asian",
+    "microbrewery": "yes",
+    "name": "Shurma Dubai",
+    "smoking": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 206397536,
+  "nodes": [
+    2164079158,
+    2164079185,
+    2164079322,
+    2164079343,
+    2164079371,
+    2164079306,
+    2164079281,
+    2164079181,
+    2164079164,
+    2164079152,
+    2164079129,
+    2164079083,
+    2164079147,
+    2164079158
+  ],
+  "tags": {
+    "addr:city": "Ruda Śląska",
+    "addr:housenumber": "17",
+    "addr:postcode": "41-712",
+    "addr:street": "Tylna",
+    "amenity": "pub",
+    "building": "service",
+    "building:fireproof": "yes",
+    "building:levels": "1",
+    "building:use:pl": "Inny niemieszkalny",
+    "ewmapa:warstwa": "Przyziemie budynku ognioodpornego, podpory, podcienia z rastra",
+    "microbrewery": "yes",
+    "name": "Browar Alternatywa",
+    "phone": "+48 662032844",
+    "source": "UM Ruda Śląska",
+    "website": "http://www.browar-alternatywa.pl/"
+  }
+},
+{
+  "type": "way",
+  "id": 385394353,
+  "nodes": [
+    3887420013,
+    3887420008,
+    3887420000,
+    3887420004,
+    3887419997,
+    3887420010,
+    3887420013
+  ],
+  "tags": {
+    "addr:city": "Łany Wielkie",
+    "addr:city:simc": "0221860",
+    "addr:housenumber": "39",
+    "addr:postcode": "44-153",
+    "addr:street": "Wiejska",
+    "addr:street:sym_ul": "24048",
+    "amenity": "restaurant",
+    "building": "commercial",
+    "cuisine": "pizza",
+    "email": "pizza.urudika@wp.pl",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "microbrewery": "yes",
+    "name": "Pizza u Rudika",
+    "official_name": "Pizza u Rudika — Martina Skoczowska",
+    "opening_hours": "Mo-Th 12:00-22:00; Fr 12:00-23:00; Sa 12:00-23:59; Su 12:00-23:00",
+    "phone": "+48322387052",
+    "source:addr": "sosnicowice.e-mapa.net",
+    "website": "http://pizzaurudika.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 3887419997,
+  "lat": 50.2835426,
+  "lon": 18.5427909
+},
+{
+  "type": "node",
+  "id": 3887420000,
+  "lat": 50.2835469,
+  "lon": 18.5426903
+},
+{
+  "type": "node",
+  "id": 3887420004,
+  "lat": 50.2835714,
+  "lon": 18.5427123
+},
+{
+  "type": "node",
+  "id": 3887420008,
+  "lat": 50.2835939,
+  "lon": 18.5425628
+},
+{
+  "type": "node",
+  "id": 3887420010,
+  "lat": 50.2836439,
+  "lon": 18.5428817
+},
+{
+  "type": "node",
+  "id": 3887420013,
+  "lat": 50.2837202,
+  "lon": 18.5426728
+},
+{
+  "type": "node",
+  "id": 2164079083,
+  "lat": 50.3105390,
+  "lon": 18.8828903
+},
+{
+  "type": "node",
+  "id": 2164079129,
+  "lat": 50.3105620,
+  "lon": 18.8828207
+},
+{
+  "type": "node",
+  "id": 2164079147,
+  "lat": 50.3105989,
+  "lon": 18.8829368
+},
+{
+  "type": "node",
+  "id": 2164079152,
+  "lat": 50.3105027,
+  "lon": 18.8827722
+},
+{
+  "type": "node",
+  "id": 2164079158,
+  "lat": 50.3105847,
+  "lon": 18.8829857
+},
+{
+  "type": "node",
+  "id": 2164079164,
+  "lat": 50.3105819,
+  "lon": 18.8825288
+},
+{
+  "type": "node",
+  "id": 2164079181,
+  "lat": 50.3106416,
+  "lon": 18.8825784
+},
+{
+  "type": "node",
+  "id": 2164079185,
+  "lat": 50.3106262,
+  "lon": 18.8830214
+},
+{
+  "type": "node",
+  "id": 2164079281,
+  "lat": 50.3107137,
+  "lon": 18.8826334
+},
+{
+  "type": "node",
+  "id": 2164079306,
+  "lat": 50.3107274,
+  "lon": 18.8825941
+},
+{
+  "type": "node",
+  "id": 2164079322,
+  "lat": 50.3107359,
+  "lon": 18.8826848
+},
+{
+  "type": "node",
+  "id": 2164079343,
+  "lat": 50.3107526,
+  "lon": 18.8826992
+},
+{
+  "type": "node",
+  "id": 2164079371,
+  "lat": 50.3107739,
+  "lon": 18.8826346
+}
+
+  ]
+}

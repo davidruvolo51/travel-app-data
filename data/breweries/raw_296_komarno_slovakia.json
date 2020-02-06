@@ -1,0 +1,70 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T11:40:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 5115920321,
+  "lat": 47.9782813,
+  "lon": 18.1669943,
+  "tags": {
+    "addr:postcode": "940 57",
+    "amenity": "restaurant",
+    "cuisine": "pizza;regional",
+    "internet_access": "wlan",
+    "microbrewery": "yes",
+    "name": "Header's Pivovar & Reštaurácia",
+    "opening_hours": "Su-Th 11:00-22:00; Fr-Sa 11:00-23:00",
+    "website": "https://www.headers.sk/"
+  }
+},
+{
+  "type": "way",
+  "id": 312862611,
+  "nodes": [
+    3187702230,
+    3187702225,
+    3187702216,
+    3187702218,
+    3187702230
+  ],
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "regional",
+    "microbrewery": "yes",
+    "name": "Barátok asztala étterem és söröző"
+  }
+},
+{
+  "type": "node",
+  "id": 3187702216,
+  "lat": 47.5254239,
+  "lon": 18.3071878
+},
+{
+  "type": "node",
+  "id": 3187702218,
+  "lat": 47.5255140,
+  "lon": 18.3070766
+},
+{
+  "type": "node",
+  "id": 3187702225,
+  "lat": 47.5256336,
+  "lon": 18.3075605
+},
+{
+  "type": "node",
+  "id": 3187702230,
+  "lat": 47.5257237,
+  "lon": 18.3074493
+}
+
+  ]
+}

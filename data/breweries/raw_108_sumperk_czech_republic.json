@@ -1,0 +1,272 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T00:08:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2385363175,
+  "lat": 50.1525606,
+  "lon": 17.0108873,
+  "tags": {
+    "amenity": "restaurant",
+    "contact:email": "pivovar@relaxkolstejn.cz",
+    "contact:website": "http://www.pivovarkolstejn.cz/",
+    "microbrewery": "yes",
+    "name": "Restaurace Kolštejn"
+  }
+},
+{
+  "type": "node",
+  "id": 2443050242,
+  "lat": 50.2323730,
+  "lon": 17.2012053,
+  "tags": {
+    "amenity": "restaurant",
+    "contact:email": "info@minipivovarjesenik.cz",
+    "craft": "brewery",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "microbrewery": "yes",
+    "name": "Minipivovar Jeseník",
+    "note": "pivovar",
+    "opening_hours": "Tu-Sa 14:00-22:00; Su 14:00-18:30",
+    "smoking": "no",
+    "website": "http://www.minipivovarjesenik.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 3144986166,
+  "lat": 50.0677894,
+  "lon": 17.0925465,
+  "tags": {
+    "amenity": "restaurant",
+    "contact:email": "nastareposte@email.cz",
+    "contact:website": "http://www.nastareposte.cz/",
+    "internet_access": "wlan",
+    "microbrewery": "yes",
+    "name": "Na staré poště",
+    "opening_hours": "Mo-Su 10:00-22:00",
+    "outdoor_seating": "yes",
+    "tourism": "guest_house"
+  }
+},
+{
+  "type": "node",
+  "id": 3144990809,
+  "lat": 49.9308811,
+  "lon": 17.2698689,
+  "tags": {
+    "amenity": "restaurant",
+    "email": "hotel@excelent.cz",
+    "internet_access": "wlan",
+    "microbrewery": "yes",
+    "name": "Excelent",
+    "opening_hours": "Mo-Th 10:30-23:00; Fr-Sa 10:30-24:00; Su 10:30-22:00",
+    "smoking": "yes",
+    "website": "http://www.hotelexcelent.cz/restaurace/"
+  }
+},
+{
+  "type": "node",
+  "id": 3145000468,
+  "lat": 49.8264385,
+  "lon": 17.0656521,
+  "tags": {
+    "contact:email": "trubadur@volny.cz",
+    "contact:website": "http://www.pivo-trubadur.cz/",
+    "craft": "brewery",
+    "name": "Pivovárek Trubadúr"
+  }
+},
+{
+  "type": "node",
+  "id": 3274753463,
+  "lat": 50.1524782,
+  "lon": 17.0109590,
+  "tags": {
+    "craft": "brewery"
+  }
+},
+{
+  "type": "node",
+  "id": 3931993482,
+  "lat": 49.9307894,
+  "lon": 17.2699232,
+  "tags": {
+    "contact:email": "info@hotelexcelent.cz",
+    "contact:phone": "+420 721007623",
+    "craft": "brewery",
+    "name": "Pivovar Excelent",
+    "website": "http://www.hotelexcelent.cz/pivovar/"
+  }
+},
+{
+  "type": "node",
+  "id": 5178207115,
+  "lat": 50.0301095,
+  "lon": 16.6000230,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "czech",
+    "microbrewery": "yes",
+    "name": "Hotel U Černého medvěda",
+    "website": "http://www.cernymedved.cz/"
+  }
+},
+{
+  "type": "way",
+  "id": 110415536,
+  "nodes": [
+    1260949278,
+    1260953640,
+    1260951035,
+    1260946243,
+    1260955797,
+    1260947308,
+    1260945703,
+    1260949437,
+    1260948239,
+    1260949983,
+    1260948862,
+    1260950489,
+    1260949278
+  ],
+  "tags": {
+    "building": "yes",
+    "building:ruian:type": "16",
+    "craft": "brewery",
+    "name": "Pivovar Welzl",
+    "product": "beer",
+    "ref:ruian:building": "8106991",
+    "source": "cuzk:ruian"
+  }
+},
+{
+  "type": "way",
+  "id": 339742876,
+  "nodes": [
+    3469543478,
+    3469543477,
+    3469543467,
+    3469543468,
+    3469543478
+  ],
+  "tags": {
+    "addr:city:simc": "0855575",
+    "addr:housenumber": "1a",
+    "addr:place": "Kamienica",
+    "addr:postcode": "57-550",
+    "amenity": "restaurant",
+    "building": "yes",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "microbrewery": "yes",
+    "name": "Browar Kamienica",
+    "source:addr": "emuia.gugik.gov.pl"
+  }
+},
+{
+  "type": "node",
+  "id": 1260945703,
+  "lat": 49.8879417,
+  "lon": 16.8605494
+},
+{
+  "type": "node",
+  "id": 1260946243,
+  "lat": 49.8878958,
+  "lon": 16.8609717
+},
+{
+  "type": "node",
+  "id": 1260947308,
+  "lat": 49.8878282,
+  "lon": 16.8606153
+},
+{
+  "type": "node",
+  "id": 1260948239,
+  "lat": 49.8880893,
+  "lon": 16.8608583
+},
+{
+  "type": "node",
+  "id": 1260948862,
+  "lat": 49.8880523,
+  "lon": 16.8610075
+},
+{
+  "type": "node",
+  "id": 1260949278,
+  "lat": 49.8880073,
+  "lon": 16.8615018
+},
+{
+  "type": "node",
+  "id": 1260949437,
+  "lat": 49.8880252,
+  "lon": 16.8608953
+},
+{
+  "type": "node",
+  "id": 1260949983,
+  "lat": 49.8881165,
+  "lon": 16.8609702
+},
+{
+  "type": "node",
+  "id": 1260950489,
+  "lat": 49.8881514,
+  "lon": 16.8614180
+},
+{
+  "type": "node",
+  "id": 1260951035,
+  "lat": 49.8879232,
+  "lon": 16.8610831
+},
+{
+  "type": "node",
+  "id": 1260953640,
+  "lat": 49.8879097,
+  "lon": 16.8610910
+},
+{
+  "type": "node",
+  "id": 1260955797,
+  "lat": 49.8879126,
+  "lon": 16.8609618
+},
+{
+  "type": "node",
+  "id": 3469543467,
+  "lat": 50.2515410,
+  "lon": 16.8868246
+},
+{
+  "type": "node",
+  "id": 3469543468,
+  "lat": 50.2515460,
+  "lon": 16.8865957
+},
+{
+  "type": "node",
+  "id": 3469543477,
+  "lat": 50.2518693,
+  "lon": 16.8868421
+},
+{
+  "type": "node",
+  "id": 3469543478,
+  "lat": 50.2518742,
+  "lon": 16.8866131
+}
+
+  ]
+}

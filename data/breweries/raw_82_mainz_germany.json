@@ -1,0 +1,622 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-05T23:13:03Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 32419990,
+  "lat": 50.1440883,
+  "lon": 8.6492332,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "german",
+    "microbrewery": "yes",
+    "name": "Zum Adler",
+    "website": "http://www.zumadler.net/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 249782821,
+  "lat": 50.2142385,
+  "lon": 8.6112863,
+  "tags": {
+    "addr:city": "Bad Homburg v. d. Höhe",
+    "addr:country": "DE",
+    "addr:housename": "Kronenhof",
+    "addr:housenumber": "10",
+    "addr:postcode": "61352",
+    "addr:street": "Zeppelinstraße",
+    "amenity": "restaurant",
+    "fax": "+49 6172 288660",
+    "loc_name": "Kronenhof",
+    "microbrewery": "yes",
+    "name": "Kronenhof",
+    "opening_hours": "Mo-Su 11:00-23:00",
+    "operator": "Bad Homburger Brauhaus GmbH & Co. KG",
+    "phone": "+49 6172 288662",
+    "source": "http://www.hofgut-kronenhof.de/",
+    "source:date": "2015-09-09",
+    "toilets:wheelchair": "yes",
+    "website": "http://www.hofgut-kronenhof.de/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 255459917,
+  "lat": 49.8721332,
+  "lon": 8.6558767,
+  "tags": {
+    "addr:city": "Darmstadt",
+    "addr:country": "DE",
+    "addr:housenumber": "8",
+    "addr:postcode": "64283",
+    "addr:street": "Marktplatz",
+    "amenity": "pub",
+    "microbrewery": "yes",
+    "name": "Ratskeller",
+    "opening_hours": "Mo-Su 10:00-01:00",
+    "toilets:wheelchair": "no",
+    "website": "https://www.ratskeller-darmstadt.de/",
+    "wheelchair": "limited",
+    "wifi": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 290864677,
+  "lat": 50.0846113,
+  "lon": 8.6720493,
+  "tags": {
+    "addr:city": "Frankfurt am Main",
+    "addr:country": "DE",
+    "addr:housenumber": "17",
+    "addr:postcode": "60598",
+    "addr:street": "Schwarzsteinkautweg",
+    "amenity": "pub",
+    "cuisine": "regional",
+    "email": "info@buchscheer.de",
+    "microbrewery": "yes",
+    "name": "Zur Buchscheer",
+    "opening_hours": "Mo-Fr 16:00-23:00; Sa-Su 12:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+49 69 63 51 21",
+    "website": "https://www.buchscheer.de",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 325235952,
+  "lat": 49.9952264,
+  "lon": 8.2733632,
+  "tags": {
+    "addr:postcode": "55116",
+    "amenity": "pub",
+    "cuisine": "german",
+    "email": "info@eisgrub.de",
+    "microbrewery": "yes",
+    "name": "Eisgrub-Bräu",
+    "opening_hours": "Su-Th 11:30-00:00; Fr-Sa 11:30-01:00",
+    "operator": "Mainzer Gasthausbrauerei GmbH",
+    "phone": "+49 6131 221104",
+    "toilets:wheelchair": "no",
+    "website": "https://www.eisgrub.de/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 416599496,
+  "lat": 49.9848323,
+  "lon": 8.4567084,
+  "tags": {
+    "addr:housenumber": "1",
+    "addr:postcode": "65428",
+    "addr:street": "An der Wied",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "microbrewery": "yes",
+    "name": "Kleines Rüsselsheimer Brauhaus",
+    "smoking": "isolated",
+    "website": "http://www.ruesselsheimerbrauhaus.de/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 641307147,
+  "lat": 49.8691218,
+  "lon": 8.6567725,
+  "tags": {
+    "addr:housenumber": "3",
+    "addr:postcode": "64283",
+    "addr:street": "Nieder-Ramstädter Straße",
+    "amenity": "pub",
+    "cuisine": "regional",
+    "food": "yes",
+    "microbrewery": "yes",
+    "name": "Grohe Brauereiausschank",
+    "opening_hours": "Mo-Sa 11:00-24:00",
+    "real_ale": "Grohe",
+    "website": "https://www.grohe-bier.de",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 849150704,
+  "lat": 50.1388475,
+  "lon": 8.0671496,
+  "tags": {
+    "addr:housenumber": "1a-1b",
+    "addr:street": "Goetheweg",
+    "amenity": "pub",
+    "contact:email": "hotel-kaiserhof@t-online.de",
+    "contact:fax": "+49 6124 2850",
+    "contact:phone": "+49 6124 4061",
+    "contact:website": "https://www.hotel-restaurant-kaiserhof.de/",
+    "entrance": "yes",
+    "microbrewery": "yes",
+    "name": "Bierstube",
+    "source": "https://www.hotel-restaurant-kaiserhof.de/",
+    "source:date": "2019-02-27"
+  }
+},
+{
+  "type": "node",
+  "id": 1829779705,
+  "lat": 50.0169225,
+  "lon": 8.2924219,
+  "tags": {
+    "addr:city": "Wiesbaden",
+    "addr:country": "DE",
+    "addr:housenumber": "27",
+    "addr:postcode": "55252",
+    "addr:street": "Otto-Suhr-Ring",
+    "addr:suburb": "Mainz-Kastel",
+    "amenity": "restaurant",
+    "cuisine": "german",
+    "email": "info@brauhaus-castel.de",
+    "fax": "+49 6134 62709",
+    "microbrewery": "yes",
+    "name": "Brauhaus Castel",
+    "phone": "+49 6134 24999",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.brauhaus-castel.de/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5308963521,
+  "lat": 49.9961855,
+  "lon": 8.4112071,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "german",
+    "microbrewery": "yes",
+    "name": "Rüsselsheimer Bräu",
+    "website": "https://www.ruesselsheimer-braeu.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 5310080732,
+  "lat": 49.9176252,
+  "lon": 8.2453689,
+  "tags": {
+    "addr:city": "Ebersheim",
+    "addr:country": "DE",
+    "addr:housenumber": "7",
+    "addr:postcode": "55129",
+    "addr:street": "Reiterweg",
+    "craft": "brewery",
+    "email": "christian@rheinhessen-braeu.de",
+    "name": "Rheinhessen-Bräu",
+    "opening_hours": "Mo, We, Fr 17:00-18:30; Sa 10:00-12:00",
+    "operator": "Rheinhessen-Bräu GbR",
+    "phone": "+49 6136 763642",
+    "website": "https://www.rheinhessen-braeu.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 5596213521,
+  "lat": 50.0837137,
+  "lon": 8.6160849,
+  "tags": {
+    "addr:city": "Frankfurt am Main",
+    "addr:housenumber": "254",
+    "addr:postcode": "60529",
+    "addr:street": "Goldsteinstraße",
+    "craft": "brewery",
+    "email": "kontakt@brauerei-fluegge.de",
+    "name": "Brauerei Flügge GmbH",
+    "product": "beer",
+    "website": "https://brauerei-fluegge.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 5618131891,
+  "lat": 49.9914876,
+  "lon": 8.2854460,
+  "tags": {
+    "addr:city": "Mainz",
+    "addr:country": "DE",
+    "addr:housenumber": "15",
+    "addr:postcode": "55131",
+    "addr:street": "Weisenauer Straße",
+    "amenity": "pub",
+    "brewery": "Kuehn Kunz Rosen",
+    "email": "info@kuehnkunzrosen.de",
+    "microbrewery": "yes",
+    "name": "Kuehn Kunz Rosen",
+    "opening_hours": "We-Sa 17:00-23:45",
+    "outdoor_seating": "yes",
+    "phone": "+49 (0)6131 2116101",
+    "smoking": "outside",
+    "toilets:wheelchair": "yes",
+    "website": "http://kuehnkunzrosen.de/",
+    "wheelchair": "yes",
+    "wheelchair:description": "Zugang zum Gastraum über die Brauhalle. Dort ist ein Fahrstuhl eingebaut."
+  }
+},
+{
+  "type": "node",
+  "id": 5619212860,
+  "lat": 49.9915326,
+  "lon": 8.2852501,
+  "tags": {
+    "addr:city": "Mainz",
+    "addr:housenumber": "15",
+    "addr:postcode": "55131",
+    "addr:street": "Weisenauer Straße",
+    "craft": "brewery",
+    "email": "info@kuehnkunzrosen.de",
+    "microbrewery": "yes",
+    "name": "Kuehn Kunz Rosen",
+    "phone": "+49 (0)6131 2116101",
+    "website": "http://kuehnkunzrosen.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 6070801333,
+  "lat": 49.9973206,
+  "lon": 8.2635222,
+  "tags": {
+    "addr:city": "Mainz",
+    "addr:country": "DE",
+    "addr:housenumber": "17",
+    "addr:postcode": "55116",
+    "addr:street": "Kupferberg Terrasse",
+    "amenity": "pub",
+    "cuisine": "regional",
+    "email": "info@eulchen-bier.de",
+    "microbrewery": "yes",
+    "name": "Eulchen Brauereiausschank",
+    "opening_hours": "We-Sa 17:30+",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "toilets:wheelchair": "no",
+    "website": "www.eulchen-bier.de",
+    "wheelchair": "yes",
+    "wheelchair:description": "Barrierefreier Zugang von der Augustusstraße. Die Toiletten sind stufenfrei erreichbar aber für Menschen im Rollstuhl zu eng."
+  }
+},
+{
+  "type": "node",
+  "id": 6070801334,
+  "lat": 49.9971965,
+  "lon": 8.2633631,
+  "tags": {
+    "addr:city": "Mainz",
+    "addr:country": "DE",
+    "addr:housenumber": "17",
+    "addr:postcode": "55116",
+    "addr:street": "Kupferberg Terrasse",
+    "craft": "brewery",
+    "name": "Eulchen Brauerei",
+    "website": "www.eulchen-bier.de"
+  }
+},
+{
+  "type": "way",
+  "id": 25940832,
+  "nodes": [
+    282964705,
+    282964706,
+    282964707,
+    2194377335,
+    2194377332,
+    2194377330,
+    2194377328,
+    282964708,
+    2378439677,
+    282964705
+  ],
+  "tags": {
+    "addr:city": "Ingelheim am Rhein",
+    "addr:country": "DE",
+    "addr:housename": "Brauhaus Goldener Engel",
+    "addr:housenumber": "1",
+    "addr:postcode": "55218",
+    "addr:street": "Neisser Straße",
+    "amenity": "restaurant",
+    "biergarten": "yes",
+    "building": "yes",
+    "building:levels": "2",
+    "craft": "brewery",
+    "cuisine": "german",
+    "internet_access": "wlan",
+    "microbrewery": "yes",
+    "name": "Brauhaus Goldener Engel",
+    "opening_hours": "Mo off;PH,Tu-Su 11:00-25:00",
+    "phone": "+49 6132 89948",
+    "toilets:wheelchair": "yes",
+    "url": "http://www.brauhausgoldenerengel.de/",
+    "website": "http://www.brauhausgoldenerengel.de",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 52009282,
+  "nodes": [
+    663081762,
+    663081756,
+    663081757,
+    663081755,
+    663081762
+  ],
+  "tags": {
+    "addr:city": "Idstein",
+    "addr:country": "DE",
+    "addr:housename": "\"Alte Feuerwache\"",
+    "addr:housenumber": "6",
+    "addr:postcode": "65510",
+    "addr:street": "Schulgasse",
+    "amenity": "restaurant",
+    "biergarten": "yes",
+    "building": "yes",
+    "craft": "brewery",
+    "description": "Durchgehend warme Küche bis 22:00 Uhr. Biergarten.",
+    "email": "info@brauhaus-alte-feuerwache.de",
+    "fax": "+49 6126 224212",
+    "microbrewery": "yes",
+    "name": "Idsteiner Brauhaus",
+    "opening_hours": "Tu-Sa 11:30-24:00; Su,PH 11:30-23:00; Mo off",
+    "operator": "Idsteiner Brauhaus GmbH",
+    "phone": "+49 6126 958112",
+    "source": "http://www.brauhaus-alte-feuerwache.de/",
+    "source:date": "2016-10-11",
+    "website": "http://www.brauhaus-alte-feuerwache.de/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 101952888,
+  "nodes": [
+    1177054986,
+    1177054518,
+    1177053931,
+    1177054039,
+    1177055631,
+    1177055276,
+    1177054862,
+    1177053837,
+    1177055586,
+    1177054315,
+    1177054154,
+    1177053864,
+    1177055742,
+    1177055229,
+    1177054718,
+    1177054986
+  ],
+  "tags": {
+    "addr:city": "Oberursel (Taunus)",
+    "addr:country": "DE",
+    "addr:housenumber": "13",
+    "addr:postcode": "61440",
+    "addr:street": "Ackergasse",
+    "amenity": "restaurant",
+    "building": "yes",
+    "craft": "brewery",
+    "cuisine": "regional",
+    "diet:vegetarian": "yes",
+    "email": "info@meinbier.de",
+    "fax": "+49 6171 56900",
+    "internet_access": "wlan",
+    "microbrewery": "yes",
+    "name": "Alt-Oberurseler Brauhaus",
+    "opening_hours": "Mo-Th 11:00-24:00; Fr,Sa 11:00-01:00, Su 10:00-23:00",
+    "operator": "Thomas Studanski",
+    "phone": "+49 6171 54370",
+    "source": "Bing",
+    "toilets:wheelchair": "no",
+    "website": "https://www.meinbier.de/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 282964705,
+  "lat": 49.9718378,
+  "lon": 8.0251706
+},
+{
+  "type": "node",
+  "id": 282964706,
+  "lat": 49.9720311,
+  "lon": 8.0251881
+},
+{
+  "type": "node",
+  "id": 282964707,
+  "lat": 49.9720221,
+  "lon": 8.0247497
+},
+{
+  "type": "node",
+  "id": 282964708,
+  "lat": 49.9717904,
+  "lon": 8.0247115
+},
+{
+  "type": "node",
+  "id": 2194377328,
+  "lat": 49.9718712,
+  "lon": 8.0247196
+},
+{
+  "type": "node",
+  "id": 2194377330,
+  "lat": 49.9719020,
+  "lon": 8.0250352
+},
+{
+  "type": "node",
+  "id": 2194377332,
+  "lat": 49.9719389,
+  "lon": 8.0250390
+},
+{
+  "type": "node",
+  "id": 2194377335,
+  "lat": 49.9719746,
+  "lon": 8.0247445
+},
+{
+  "type": "node",
+  "id": 2378439677,
+  "lat": 49.9718268,
+  "lon": 8.0251094
+},
+{
+  "type": "node",
+  "id": 663081755,
+  "lat": 50.2218568,
+  "lon": 8.2681830
+},
+{
+  "type": "node",
+  "id": 663081756,
+  "lat": 50.2219273,
+  "lon": 8.2679030
+},
+{
+  "type": "node",
+  "id": 663081757,
+  "lat": 50.2217984,
+  "lon": 8.2680148
+},
+{
+  "type": "node",
+  "id": 663081762,
+  "lat": 50.2219857,
+  "lon": 8.2680712
+},
+{
+  "type": "node",
+  "id": 1177053837,
+  "lat": 50.2029421,
+  "lon": 8.5789691
+},
+{
+  "type": "node",
+  "id": 1177053864,
+  "lat": 50.2028665,
+  "lon": 8.5791963
+},
+{
+  "type": "node",
+  "id": 1177053931,
+  "lat": 50.2029595,
+  "lon": 8.5787982
+},
+{
+  "type": "node",
+  "id": 1177054039,
+  "lat": 50.2030024,
+  "lon": 8.5788651
+},
+{
+  "type": "node",
+  "id": 1177054154,
+  "lat": 50.2029360,
+  "lon": 8.5791332
+},
+{
+  "type": "node",
+  "id": 1177054315,
+  "lat": 50.2029175,
+  "lon": 8.5790868
+},
+{
+  "type": "node",
+  "id": 1177054518,
+  "lat": 50.2028739,
+  "lon": 8.5788802
+},
+{
+  "type": "node",
+  "id": 1177054718,
+  "lat": 50.2027852,
+  "lon": 8.5790071
+},
+{
+  "type": "node",
+  "id": 1177054862,
+  "lat": 50.2029596,
+  "lon": 8.5789439
+},
+{
+  "type": "node",
+  "id": 1177054986,
+  "lat": 50.2027731,
+  "lon": 8.5789711
+},
+{
+  "type": "node",
+  "id": 1177055229,
+  "lat": 50.2028088,
+  "lon": 8.5790688
+},
+{
+  "type": "node",
+  "id": 1177055276,
+  "lat": 50.2029856,
+  "lon": 8.5789801
+},
+{
+  "type": "node",
+  "id": 1177055586,
+  "lat": 50.2029721,
+  "lon": 8.5790182
+},
+{
+  "type": "node",
+  "id": 1177055631,
+  "lat": 50.2030332,
+  "lon": 8.5789242
+},
+{
+  "type": "node",
+  "id": 1177055742,
+  "lat": 50.2028587,
+  "lon": 8.5791998
+}
+
+  ]
+}

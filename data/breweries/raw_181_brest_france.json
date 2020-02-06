@@ -1,0 +1,271 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T08:38:03Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 5075303526,
+  "lat": 48.3823072,
+  "lon": -4.2465269,
+  "tags": {
+    "alt_name": "Mignonne",
+    "craft": "brewery",
+    "name": "Brasserie de Trévarn"
+  }
+},
+{
+  "type": "node",
+  "id": 6815226491,
+  "lat": 48.4028005,
+  "lon": -4.7298767,
+  "tags": {
+    "addr:city": "Ploumoguer",
+    "addr:postcode": "29810",
+    "addr:street": "Messouflin",
+    "craft": "brewery",
+    "email": "memestra@arvarus.bzh",
+    "name": "Arvarus, brasserie incertaine",
+    "opening_hours": "Fr 16:00-22:00",
+    "phone": "+33 9 81 00 11 08",
+    "product": "beer",
+    "start_date": "2018-04-20",
+    "website": "https://brasserie-arvarus.business.site"
+  }
+},
+{
+  "type": "node",
+  "id": 6815231768,
+  "lat": 48.3974740,
+  "lon": -4.4801055,
+  "tags": {
+    "addr:city": "Brest",
+    "addr:housenumber": "29",
+    "addr:postcode": "29200",
+    "addr:street": "Rue Charles Berthelot",
+    "craft": "brewery",
+    "email": "contact@brasserielurbaine.com",
+    "name": "Brasserie l'Urbaine",
+    "opening_hours": "Tu, Fr 9:00-12:00, 14:00-18:30",
+    "phone": "+33 6 61 42 19 83",
+    "product": "beer"
+  }
+},
+{
+  "type": "way",
+  "id": 53692716,
+  "nodes": [
+    678002327,
+    678002328,
+    678002329,
+    678002330,
+    678002331,
+    678002332,
+    678002333,
+    678002334,
+    678002335,
+    678002336,
+    678002337,
+    678002338,
+    678002339,
+    678002340,
+    678002341,
+    678002342,
+    678002343,
+    678002327
+  ],
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "craft": "brewery",
+    "cuisine": "french",
+    "microbrewery": "yes",
+    "name": "Beg ar Mor"
+  }
+},
+{
+  "type": "way",
+  "id": 54022033,
+  "nodes": [
+    681157723,
+    681157724,
+    681157725,
+    681157726,
+    681157727,
+    681157728,
+    681157692,
+    681157691,
+    681157723
+  ],
+  "tags": {
+    "FID": "20090",
+    "addr:housenumber": "5",
+    "addr:postcode": "29260",
+    "addr:street": "Lestevennoc bian",
+    "building": "yes",
+    "craft": "brewery",
+    "email": "bier.distribilh@gmail.com",
+    "name": "Brasserie D’istribilh",
+    "opening_hours": "Fr 10:00-19:00",
+    "phone": "+33 6 52 56 23 98",
+    "source": "cadastre-dgi-fr source : PaysDeBrest - 20100331",
+    "website": "http://www.distribilh.bzh"
+  }
+},
+{
+  "type": "node",
+  "id": 678002327,
+  "lat": 48.5519526,
+  "lon": -4.6990242
+},
+{
+  "type": "node",
+  "id": 678002328,
+  "lat": 48.5519769,
+  "lon": -4.6989347
+},
+{
+  "type": "node",
+  "id": 678002329,
+  "lat": 48.5520066,
+  "lon": -4.6989501
+},
+{
+  "type": "node",
+  "id": 678002330,
+  "lat": 48.5520207,
+  "lon": -4.6988742
+},
+{
+  "type": "node",
+  "id": 678002331,
+  "lat": 48.5520034,
+  "lon": -4.6988668
+},
+{
+  "type": "node",
+  "id": 678002332,
+  "lat": 48.5520195,
+  "lon": -4.6987853
+},
+{
+  "type": "node",
+  "id": 678002333,
+  "lat": 48.5519731,
+  "lon": -4.6987603
+},
+{
+  "type": "node",
+  "id": 678002334,
+  "lat": 48.5519595,
+  "lon": -4.6988105
+},
+{
+  "type": "node",
+  "id": 678002335,
+  "lat": 48.5519631,
+  "lon": -4.6988131
+},
+{
+  "type": "node",
+  "id": 678002336,
+  "lat": 48.5519579,
+  "lon": -4.6988307
+},
+{
+  "type": "node",
+  "id": 678002337,
+  "lat": 48.5519260,
+  "lon": -4.6988121
+},
+{
+  "type": "node",
+  "id": 678002338,
+  "lat": 48.5519191,
+  "lon": -4.6988369
+},
+{
+  "type": "node",
+  "id": 678002339,
+  "lat": 48.5518961,
+  "lon": -4.6988231
+},
+{
+  "type": "node",
+  "id": 678002340,
+  "lat": 48.5518851,
+  "lon": -4.6988626
+},
+{
+  "type": "node",
+  "id": 678002341,
+  "lat": 48.5518240,
+  "lon": -4.6988253
+},
+{
+  "type": "node",
+  "id": 678002342,
+  "lat": 48.5517969,
+  "lon": -4.6989210
+},
+{
+  "type": "node",
+  "id": 678002343,
+  "lat": 48.5517961,
+  "lon": -4.6989239
+},
+{
+  "type": "node",
+  "id": 681157691,
+  "lat": 48.6083296,
+  "lon": -4.3316423
+},
+{
+  "type": "node",
+  "id": 681157692,
+  "lat": 48.6084151,
+  "lon": -4.3310003
+},
+{
+  "type": "node",
+  "id": 681157723,
+  "lat": 48.6085016,
+  "lon": -4.3316932
+},
+{
+  "type": "node",
+  "id": 681157724,
+  "lat": 48.6085155,
+  "lon": -4.3315857
+},
+{
+  "type": "node",
+  "id": 681157725,
+  "lat": 48.6085371,
+  "lon": -4.3314186
+},
+{
+  "type": "node",
+  "id": 681157726,
+  "lat": 48.6085013,
+  "lon": -4.3314080
+},
+{
+  "type": "node",
+  "id": 681157727,
+  "lat": 48.6085289,
+  "lon": -4.3311945
+},
+{
+  "type": "node",
+  "id": 681157728,
+  "lat": 48.6085491,
+  "lon": -4.3310383
+}
+
+  ]
+}

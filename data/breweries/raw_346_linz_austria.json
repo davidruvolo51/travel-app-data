@@ -1,0 +1,489 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T12:55:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 305220416,
+  "lat": 48.4291708,
+  "lon": 14.0367364,
+  "tags": {
+    "addr:city": "Sankt Martin Im Mühlkreis",
+    "addr:housenumber": "5",
+    "addr:postcode": "4113",
+    "addr:street": "Adsdorf",
+    "amenity": "biergarten",
+    "building": "brewery",
+    "is_in": "Sankt Martin im Mühlkreis",
+    "microbrewery": "yes",
+    "name": "Brauerei Hofstetten",
+    "opening_hours": "Mo-Fr 07:00-12:00,13:00-18:00; Sa 08:00-12:00",
+    "website": "https://www.hofstetten.at/"
+  }
+},
+{
+  "type": "node",
+  "id": 425975979,
+  "lat": 48.1575380,
+  "lon": 14.0242523,
+  "tags": {
+    "addr:city": "Wels",
+    "addr:country": "AT",
+    "addr:housenumber": "11",
+    "addr:postcode": "4600",
+    "addr:street": "Freiung",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "office@gerstl-braeu.at",
+    "fax": "+43 7242 351500 50",
+    "microbrewery": "yes",
+    "name": "Gerstl-Bräu",
+    "opening_hours": "Mo-Sa 11:00-24:00",
+    "phone": "+43 7242 351500",
+    "website": "http://www.gerstl-braeu.at",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1018933247,
+  "lat": 48.1559761,
+  "lon": 14.4735068,
+  "tags": {
+    "amenity": "restaurant",
+    "email": "Seebuffet@seebuffet.at",
+    "microbrewery": "yes",
+    "name": "Seebuffet",
+    "operator": "Manuela Krieger",
+    "phone": "+43-660-1402200",
+    "website": "https://www.seebuffet.at/"
+  }
+},
+{
+  "type": "node",
+  "id": 1028379637,
+  "lat": 48.3002390,
+  "lon": 14.2869653,
+  "tags": {
+    "amenity": "restaurant",
+    "contact:email": "office@pauls-linz.at",
+    "contact:phone": "+43 732 783338",
+    "contact:website": "http://www.pauls-linz.at/",
+    "cuisine": "burger;german;regional",
+    "microbrewery": "yes",
+    "name": "paul's Küche.Bar.Greisslerei",
+    "opening_hours": "Mo-Th 10:30-01:00, Fr 10:30-03:00, Sa 14:00-22:30,",
+    "outdoor_seating": "yes",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1196970910,
+  "lat": 48.4486922,
+  "lon": 14.5395363,
+  "tags": {
+    "addr:city": "Kefermarkt",
+    "addr:housenumber": "2",
+    "addr:postcode": "4292",
+    "addr:street": "Weinberg",
+    "amenity": "pub",
+    "cuisine": "regional",
+    "food": "yes",
+    "microbrewery": "yes",
+    "name": "Schlossbrauerei Weinberg",
+    "opening_hours": "Mo off",
+    "phone": "+43 7947 71 11",
+    "source": "survey",
+    "website": "https://www.schlossbrauerei.at/"
+  }
+},
+{
+  "type": "node",
+  "id": 1994251098,
+  "lat": 48.4845385,
+  "lon": 13.9987547,
+  "tags": {
+    "craft": "brewery",
+    "name": "Neufeldner BioBrauerei GmbH"
+  }
+},
+{
+  "type": "node",
+  "id": 3667294825,
+  "lat": 48.3320236,
+  "lon": 14.1752249,
+  "tags": {
+    "amenity": "pub",
+    "microbrewery": "yes",
+    "name": "Thor Bräu",
+    "operator": "Thor-Bräu Laska GmbH",
+    "outdoor_seating": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3713604843,
+  "lat": 48.2352112,
+  "lon": 13.8289223,
+  "tags": {
+    "building": "brewery",
+    "craft": "brewery",
+    "man_made": "works",
+    "name": "Brauerei Grieskirchner"
+  }
+},
+{
+  "type": "node",
+  "id": 3822997275,
+  "lat": 48.6159204,
+  "lon": 14.3125700,
+  "tags": {
+    "amenity": "pub",
+    "microbrewery": "yes",
+    "name": "Pajzl u Jakuba",
+    "website": "http://www.vysebrodskypivovar.cz"
+  }
+},
+{
+  "type": "node",
+  "id": 4125212494,
+  "lat": 48.2743029,
+  "lon": 14.5807322,
+  "tags": {
+    "amenity": "pub",
+    "microbrewery": "yes",
+    "name": "Schwertberger Bräu",
+    "operator": "Dipl.-Ing. Karl Kiesenhofer",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 29076937,
+  "nodes": [
+    319837324,
+    319837323,
+    320388652,
+    319837332,
+    319837317,
+    319837316,
+    319837324
+  ],
+  "tags": {
+    "addr:city": "Pregarten",
+    "addr:country": "AT",
+    "addr:housenumber": "32",
+    "addr:place": "Netzberg",
+    "addr:postcode": "4292",
+    "amenity": "restaurant",
+    "building": "yes",
+    "contact:email": "bierbuschenschank@ederbraeu.at",
+    "contact:phone": "+43 7236 20940",
+    "contact:website": "http://www.ederbraeu.at/",
+    "cuisine": "buschenschank",
+    "microbrewery": "yes",
+    "name": "Bierbuschenschank Eder Bräu",
+    "opening_hours": "Th-Su 15:00+",
+    "operator": "Margit Ehrensperger",
+    "outdoor_seating": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 97741399,
+  "nodes": [
+    6544347160,
+    6544347157,
+    3722360114,
+    1131470235,
+    1131469260,
+    1131468291,
+    1131475360,
+    1131473573,
+    6544347162,
+    6544347156,
+    3722360107,
+    1131475306,
+    6544347160
+  ],
+  "tags": {
+    "building": "house",
+    "building:flats": "3",
+    "building:levels": "1",
+    "building:ruian:type": "7",
+    "craft": "brewery",
+    "microbrewery": "yes",
+    "name": "Vyšebrodský minipivovar",
+    "phone": "+420 777 280 610",
+    "ref:ruian:building": "8701784",
+    "source": "cuzk:ruian",
+    "website": "http://www.vysebrodskypivovar.cz"
+  }
+},
+{
+  "type": "way",
+  "id": 188750292,
+  "nodes": [
+    1993713216,
+    2443323375,
+    2443323376,
+    1993713234,
+    1993713226,
+    1993713223,
+    1993713222,
+    1993713192,
+    1993713216
+  ],
+  "tags": {
+    "addr:city": "Kremsmünster",
+    "addr:country": "AT",
+    "addr:housenumber": "1",
+    "addr:place": "Sandberg",
+    "addr:postcode": "4550",
+    "brewery": "Sandbergbräu",
+    "building": "brewery",
+    "craft": "brewery",
+    "email": "m.bergmair@aon.at",
+    "microbrewery": "yes",
+    "name": "Sandbergbräu",
+    "operator": "Martin Bergmair",
+    "phone": "+43 664 42 59 812",
+    "source": "geoimage.at",
+    "website": "http://members.aon.at/sandbergbraeu/"
+  }
+},
+{
+  "type": "way",
+  "id": 230766059,
+  "nodes": [
+    2392173140,
+    3440917726,
+    2392173063,
+    2392173111,
+    2392173102,
+    2392173070,
+    2392173072,
+    2392173140
+  ],
+  "tags": {
+    "addr:city": "Traun",
+    "addr:country": "AT",
+    "addr:housenumber": "7",
+    "addr:postcode": "4050",
+    "addr:street": "Madlschenterweg",
+    "amenity": "pub",
+    "building": "yes",
+    "foot": "yes",
+    "microbrewery": "yes",
+    "name": "Trauner Bier",
+    "opening_hours": "Mo-Th 17:00+; Fr 14:00-24:00; Sa 17:00-24:00"
+  }
+},
+{
+  "type": "node",
+  "id": 1993713192,
+  "lat": 48.0496133,
+  "lon": 14.1208668
+},
+{
+  "type": "node",
+  "id": 1993713216,
+  "lat": 48.0497443,
+  "lon": 14.1207529
+},
+{
+  "type": "node",
+  "id": 1993713222,
+  "lat": 48.0498047,
+  "lon": 14.1213593
+},
+{
+  "type": "node",
+  "id": 1993713223,
+  "lat": 48.0498359,
+  "lon": 14.1213322
+},
+{
+  "type": "node",
+  "id": 1993713226,
+  "lat": 48.0498636,
+  "lon": 14.1214034
+},
+{
+  "type": "node",
+  "id": 1993713234,
+  "lat": 48.0499746,
+  "lon": 14.1213069
+},
+{
+  "type": "node",
+  "id": 2443323375,
+  "lat": 48.0497834,
+  "lon": 14.1208536
+},
+{
+  "type": "node",
+  "id": 2443323376,
+  "lat": 48.0497947,
+  "lon": 14.1208438
+},
+{
+  "type": "node",
+  "id": 2392173063,
+  "lat": 48.2195769,
+  "lon": 14.2402505
+},
+{
+  "type": "node",
+  "id": 2392173070,
+  "lat": 48.2193258,
+  "lon": 14.2404629
+},
+{
+  "type": "node",
+  "id": 2392173072,
+  "lat": 48.2192716,
+  "lon": 14.2400061
+},
+{
+  "type": "node",
+  "id": 2392173102,
+  "lat": 48.2194296,
+  "lon": 14.2404352
+},
+{
+  "type": "node",
+  "id": 2392173111,
+  "lat": 48.2195936,
+  "lon": 14.2403914
+},
+{
+  "type": "node",
+  "id": 2392173140,
+  "lat": 48.2193575,
+  "lon": 14.2399832
+},
+{
+  "type": "node",
+  "id": 3440917726,
+  "lat": 48.2193950,
+  "lon": 14.2402991
+},
+{
+  "type": "node",
+  "id": 319837316,
+  "lat": 48.4001828,
+  "lon": 14.5659716
+},
+{
+  "type": "node",
+  "id": 319837317,
+  "lat": 48.4001586,
+  "lon": 14.5655660
+},
+{
+  "type": "node",
+  "id": 319837323,
+  "lat": 48.4000303,
+  "lon": 14.5657351
+},
+{
+  "type": "node",
+  "id": 319837324,
+  "lat": 48.4000456,
+  "lon": 14.5659902
+},
+{
+  "type": "node",
+  "id": 319837332,
+  "lat": 48.4000555,
+  "lon": 14.5655799
+},
+{
+  "type": "node",
+  "id": 320388652,
+  "lat": 48.4000645,
+  "lon": 14.5657305
+},
+{
+  "type": "node",
+  "id": 1131468291,
+  "lat": 48.6162538,
+  "lon": 14.3126588
+},
+{
+  "type": "node",
+  "id": 1131469260,
+  "lat": 48.6162501,
+  "lon": 14.3126780
+},
+{
+  "type": "node",
+  "id": 1131470235,
+  "lat": 48.6162662,
+  "lon": 14.3126854
+},
+{
+  "type": "node",
+  "id": 1131473573,
+  "lat": 48.6161391,
+  "lon": 14.3127145
+},
+{
+  "type": "node",
+  "id": 1131475306,
+  "lat": 48.6161237,
+  "lon": 14.3129243
+},
+{
+  "type": "node",
+  "id": 1131475360,
+  "lat": 48.6161556,
+  "lon": 14.3126168
+},
+{
+  "type": "node",
+  "id": 3722360107,
+  "lat": 48.6161492,
+  "lon": 14.3127213
+},
+{
+  "type": "node",
+  "id": 3722360114,
+  "lat": 48.6162269,
+  "lon": 14.3129603
+},
+{
+  "type": "node",
+  "id": 6544347156,
+  "lat": 48.6161480,
+  "lon": 14.3127208
+},
+{
+  "type": "node",
+  "id": 6544347157,
+  "lat": 48.6162258,
+  "lon": 14.3129599
+},
+{
+  "type": "node",
+  "id": 6544347160,
+  "lat": 48.6162260,
+  "lon": 14.3129572
+},
+{
+  "type": "node",
+  "id": 6544347162,
+  "lat": 48.6161483,
+  "lon": 14.3127182
+}
+
+  ]
+}

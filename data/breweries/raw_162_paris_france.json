@@ -1,0 +1,1818 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T08:03:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 252958952,
+  "lat": 48.8646895,
+  "lon": 2.2880988,
+  "tags": {
+    "addr:city": "Paris",
+    "addr:housenumber": "110 bis",
+    "addr:postcode": "75116",
+    "addr:street": "Avenue Kléber",
+    "amenity": "pub",
+    "brewery": "Frog Natural Blonde",
+    "microbrewery": "yes",
+    "name": "Frog XVI",
+    "phone": "+33 1 47 27 88 88",
+    "terrace": "yes",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.frogpubs.com/fr/pub-XVI-paris.php",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 536574152,
+  "lat": 48.8308857,
+  "lon": 2.3767781,
+  "tags": {
+    "addr:city": "Paris",
+    "addr:housenumber": "114",
+    "addr:postcode": "75013",
+    "addr:street": "Avenue de France",
+    "amenity": "pub",
+    "brewery": "Parislytic;Hopster;Pearl;White Rhubarb",
+    "changing_table": "yes",
+    "changing_table:count": "1",
+    "changing_table:fee": "yes",
+    "changing_table:location": "wheelchair_toilet",
+    "diaper": "1",
+    "diet:vegetarian": "yes",
+    "happy_hours": "Mo-Fr 17:30-20:00",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "level": "0",
+    "microbrewery": "yes",
+    "name": "The Frog & British Library",
+    "opening_hours": "Su-We 08:00-01:00, Th-Sa 08:00-02:00",
+    "operator": "FrogPubs",
+    "outdoor_seating": "yes",
+    "phone": "+33 1 45 84 34 26",
+    "smoking": "outside",
+    "terrace": "yes",
+    "toilets": "yes",
+    "toilets:access": "customers",
+    "toilets:position": "seated;urinal",
+    "toilets:wheelchair": "designated",
+    "website": "https://www.frogpubs.com/fr/pub-british-library-paris.php",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 609212551,
+  "lat": 48.8330467,
+  "lon": 2.3860133,
+  "tags": {
+    "addr:housenumber": "25",
+    "addr:postcode": "75012",
+    "addr:street": "Cour Saint-Émilion",
+    "amenity": "pub",
+    "brewery": "Inseine;Maison Blanche;Ginger Twist;Dark de Triomphe;Wham;Tha Wack",
+    "contact:city": "Paris",
+    "contact:housenumber": "25",
+    "contact:postcode": "75012",
+    "contact:street": "Cour Saint-Émilion",
+    "cuisine": "burger",
+    "diet:vegetarian": "yes",
+    "happy_hours": "Mo-Fr 17:00-20:00",
+    "microbrewery": "yes",
+    "name": "The Frog at Bercy Village",
+    "opening_hours": "Mo-Su 12:00-02:00",
+    "operator": "FrogPubs",
+    "phone": "+33 1 43 40 70 71",
+    "terrace": "yes",
+    "website": "https://www.frogpubs.com/fr/pub-bercy-village-paris.php",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 611670639,
+  "lat": 48.8070710,
+  "lon": 2.3916744,
+  "tags": {
+    "craft": "brewery",
+    "name": "Le Parmentier"
+  }
+},
+{
+  "type": "node",
+  "id": 640596152,
+  "lat": 48.8900097,
+  "lon": 2.1975009,
+  "tags": {
+    "amenity": "restaurant",
+    "description": "Restaurant Bar",
+    "microbrewery": "yes",
+    "name": "Pizza de la Place",
+    "old_name": "Sunlight - Savoie; Pizza de la Place",
+    "outdoor_seating": "yes",
+    "source": "survey 2020;knowledge",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 914052803,
+  "lat": 48.8606391,
+  "lon": 2.3188790,
+  "tags": {
+    "addr:city": "Paris",
+    "addr:housenumber": "1",
+    "addr:postcode": "75007",
+    "addr:street": "Place du Palais Bourbon",
+    "amenity": "restaurant",
+    "craft": "brewery",
+    "cuisine": "french",
+    "email": "brasserie.bourbon@orange.fr",
+    "name": "Le Bourbon",
+    "opening_hours": "Mo-Fr 07:00-23:00, Sa 09:00-23:00, Su 12:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+33 1 45 51 58 27",
+    "smoking": "outside",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+    "website": "https://www.brasserie-bourbon.fr/"
+  }
+},
+{
+  "type": "node",
+  "id": 1465462980,
+  "lat": 48.8710339,
+  "lon": 2.3430453,
+  "tags": {
+    "amenity": "pub",
+    "brewery": "affligem;amstel;heineken;Edelweiss;Fisher Ambrée",
+    "happy_hours": "Mo-Sa 15:00-20:00",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "microbrewery": "yes",
+    "name": "The Frog & Underground",
+    "phone": "+33 1 44820472",
+    "website": "https://www.frogpubs.com/fr/pub-the-frog-underground-paris-13.php"
+  }
+},
+{
+  "type": "node",
+  "id": 1493404734,
+  "lat": 48.7016482,
+  "lon": 2.1898270,
+  "tags": {
+    "amenity": "pub",
+    "microbrewery": "yes",
+    "name": "Hall of Beer",
+    "opening_hours": "Tu-Th 17:00-24:00, Fr,Sa 17:00-02:00"
+  }
+},
+{
+  "type": "node",
+  "id": 1955771578,
+  "lat": 48.8928417,
+  "lon": 2.2385708,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "french",
+    "indoor": "yes",
+    "level": "0",
+    "microbrewery": "yes",
+    "name": "Flo Prestige"
+  }
+},
+{
+  "type": "node",
+  "id": 2461799896,
+  "lat": 48.8851214,
+  "lon": 2.3524019,
+  "tags": {
+    "addr:city": "Paris",
+    "addr:housenumber": "28",
+    "addr:postcode": "75018",
+    "addr:street": "Rue de la Goutte d'Or",
+    "amenity": "bar",
+    "craft": "brewery",
+    "email": "contact@brasserielagouttedor.com",
+    "name": "Brasserie de la Goutte d'Or",
+    "opening_hours": "Th 18:00-00:00; Fr 18:00-23:00; Sa 16:00-23:00",
+    "phone": "+33 9 80 64 23 51",
+    "website": "http://www.brasserielagouttedor.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 2883404222,
+  "lat": 48.8561145,
+  "lon": 2.5904280,
+  "tags": {
+    "addr:city": "Champs-sur-Marne",
+    "addr:postcode": "77420",
+    "addr:street": "Place Matteotti",
+    "amenity": "bar",
+    "craft": "brewery",
+    "name": "Pétanque Campésienne"
+  }
+},
+{
+  "type": "node",
+  "id": 3020757911,
+  "lat": 48.8944719,
+  "lon": 2.2271592,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "microbrewery": "yes",
+    "name": "Le Piano",
+    "phone": "+33140991846",
+    "source": "survey 2014",
+    "website": "https://www.restaurantlepiano.fr/"
+  }
+},
+{
+  "type": "node",
+  "id": 3056137111,
+  "lat": 48.8711993,
+  "lon": 2.3697018,
+  "tags": {
+    "addr:city": "Paris",
+    "addr:housenumber": "13",
+    "addr:postcode": "75010",
+    "addr:street": "Rue Jacques Louvel-Tessier",
+    "amenity": "bar",
+    "brewery": "India Dark Sour;Kout 10;Home;Rodenbach;XX Bitter;Citra Galactique;All Bretts Are Off;Beergeek Breakfast",
+    "cuisine": "pizza",
+    "microbrewery": "yes",
+    "name": "Le Triangle",
+    "opening_hours": "Tu-We 17:00-23:00; Sa 12:00-14:00, 17:00-23:00",
+    "phone": "+33 1 71 39 58 02",
+    "website": "http://triangleparis.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 3058136850,
+  "lat": 48.9278931,
+  "lon": 2.4910352,
+  "tags": {
+    "craft": "brewery",
+    "name": "Le Relais Parisien"
+  }
+},
+{
+  "type": "node",
+  "id": 3512392272,
+  "lat": 48.8587626,
+  "lon": 2.4235683,
+  "tags": {
+    "craft": "brewery",
+    "name": "Deck & Donohue",
+    "opening_hours": "Sa 11:00-15:00",
+    "phone": "+33 9 67 31 15 96",
+    "website": "http://deck-donohue.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 3512397640,
+  "lat": 48.8415939,
+  "lon": 1.9484292,
+  "tags": {
+    "addr:city": "Thiverval-Grignon",
+    "addr:housenumber": "50",
+    "addr:place": "Ferme de Grignon",
+    "addr:postcode": "78850",
+    "addr:street": "Route de la Ferme",
+    "contact:website": "http://www.distriktbeer.com/",
+    "craft": "brewery",
+    "name": "Distrikt Beer"
+  }
+},
+{
+  "type": "node",
+  "id": 3515250017,
+  "lat": 48.8635170,
+  "lon": 2.4128907,
+  "tags": {
+    "addr:city": "Paris",
+    "addr:housenumber": "17",
+    "addr:postcode": "75020",
+    "addr:street": "Rue Henri Duvernois",
+    "craft": "brewery",
+    "name": "La Baleine",
+    "opening_hours": "Fr 17:00-19:00",
+    "phone": "+33 6 60 99 65 22",
+    "website": "http://www.brasserie-la-baleine.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 3515412159,
+  "lat": 48.6886878,
+  "lon": 2.5125796,
+  "tags": {
+    "addr:city": "Épinay-sous-Sénart",
+    "addr:housenumber": "34 k",
+    "addr:postcode": "91860",
+    "addr:street": "Rue de la Forêt",
+    "craft": "brewery",
+    "name": "Parisis",
+    "opening_hours": "Fr 17:30-19:00; Sa 09:30-12:30",
+    "phone": "+33 1 60 46 62 33",
+    "website": "http://brasserie-parisis.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 3518878110,
+  "lat": 48.8687655,
+  "lon": 2.3475832,
+  "tags": {
+    "craft": "brewery",
+    "name": "Brew Unique",
+    "phone": "+33 9 81 36 66 33",
+    "website": "https://www.brewunique.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 3519591021,
+  "lat": 48.9450414,
+  "lon": 2.1440472,
+  "tags": {
+    "addr:city": "Maisons-Laffitte",
+    "addr:housenumber": "2 bis",
+    "addr:postcode": "78600",
+    "addr:street": "Avenue de Saint-Germain",
+    "amenity": "bar",
+    "microbrewery": "yes",
+    "name": "RockOut",
+    "opening_hours": "Tu-Sa 18:00-01:00",
+    "phone": "+33 1 83 58 08 29",
+    "website": "https://www.facebook.com/RockOut78"
+  }
+},
+{
+  "type": "node",
+  "id": 3520483492,
+  "lat": 48.8522792,
+  "lon": 2.3345573,
+  "tags": {
+    "amenity": "pub",
+    "brewery": "Inseine;Maison Blanche;Ginger Twist;Dark de Triomphe",
+    "internet_access": "wlan",
+    "microbrewery": "yes",
+    "name": "The Frog & Princess",
+    "operator": "FrogPubs",
+    "phone": "+33 1 40 51 77 38",
+    "website": "https://www.frogpubs.com/fr/pub-princess-paris.php"
+  }
+},
+{
+  "type": "node",
+  "id": 3520535766,
+  "lat": 48.8538941,
+  "lon": 2.3682709,
+  "tags": {
+    "amenity": "pub",
+    "brewery": "Inseine;Maison Blanche;Ginger Twist;Dark de Triomphe",
+    "internet_access": "yes",
+    "microbrewery": "yes",
+    "name": "The Frog Revolution",
+    "operator": "FrogPubs",
+    "phone": "+33 1 42 74 34 41",
+    "website": "https://www.frogpubs.com/fr/pub-revolution.php",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 3536633873,
+  "lat": 48.6272817,
+  "lon": 2.5927356,
+  "tags": {
+    "addr:city": "Moissy-Cramayel",
+    "addr:housenumber": "27",
+    "addr:postcode": "77550",
+    "addr:street": "Avenue Philippe Bur",
+    "craft": "brewery",
+    "name": "Le Royal Club",
+    "phone": "+33 1 64 88 57 27"
+  }
+},
+{
+  "type": "node",
+  "id": 3563903281,
+  "lat": 48.6274816,
+  "lon": 2.5901601,
+  "tags": {
+    "addr:city": "Moissy-Cramayel",
+    "addr:housenumber": "6",
+    "addr:postcode": "77550",
+    "addr:street": "Rue de la Liberté",
+    "craft": "brewery",
+    "name": "Le Cantalou",
+    "phone": "+33 1 64 88 80 46"
+  }
+},
+{
+  "type": "node",
+  "id": 3612667439,
+  "lat": 48.8985106,
+  "lon": 2.1844004,
+  "tags": {
+    "amenity": "restaurant",
+    "description:fr": "Bar Restaurant",
+    "microbrewery": "yes",
+    "name": "La Sirène",
+    "source": "survey 2015"
+  }
+},
+{
+  "type": "node",
+  "id": 3752510374,
+  "lat": 48.9389156,
+  "lon": 2.1579198,
+  "tags": {
+    "craft": "brewery",
+    "name": "Le Voyageur"
+  }
+},
+{
+  "type": "node",
+  "id": 3765494684,
+  "lat": 48.8635457,
+  "lon": 2.3783874,
+  "tags": {
+    "addr:city": "Paris",
+    "addr:housenumber": "79",
+    "addr:street": "Rue Saint-Maur",
+    "craft": "brewery",
+    "name": "Brasserie BapBap",
+    "website": "http://bapbap.paris"
+  }
+},
+{
+  "type": "node",
+  "id": 3765529089,
+  "lat": 48.8644086,
+  "lon": 2.4612309,
+  "tags": {
+    "addr:city": "Montreuil",
+    "addr:housenumber": "97",
+    "addr:street": "Rue Pierre de Montreuil",
+    "craft": "brewery",
+    "name": "Brasserie La Montreuilloise;Brasserie artisanale La Montreuilloise",
+    "website": "http://la-montreuilloise.com"
+  }
+},
+{
+  "type": "node",
+  "id": 3780183357,
+  "lat": 48.8894140,
+  "lon": 2.3767221,
+  "tags": {
+    "addr:city": "Paris",
+    "addr:housenumber": "7 ter",
+    "addr:postcode": "75019",
+    "addr:street": "Rue Duvergier",
+    "craft": "brewery"
+  }
+},
+{
+  "type": "node",
+  "id": 3820989176,
+  "lat": 48.9084319,
+  "lon": 2.3328234,
+  "tags": {
+    "craft": "brewery",
+    "name": "Le Basilic"
+  }
+},
+{
+  "type": "node",
+  "id": 3820993594,
+  "lat": 48.9098237,
+  "lon": 2.3306733,
+  "tags": {
+    "addr:housenumber": "49",
+    "addr:street": "Boulevard Victor Hugo",
+    "amenity": "bar",
+    "microbrewery": "yes",
+    "name": "Bar de l'Industrie",
+    "phone": "+33140123972"
+  }
+},
+{
+  "type": "node",
+  "id": 3980268299,
+  "lat": 48.8709579,
+  "lon": 2.3050717,
+  "tags": {
+    "craft": "brewery",
+    "name": "68 by Guy Martin"
+  }
+},
+{
+  "type": "node",
+  "id": 4121736150,
+  "lat": 48.9418104,
+  "lon": 2.1337777,
+  "tags": {
+    "addr:city": "Maisons-Laffitte",
+    "addr:housenumber": "32",
+    "addr:postcode": "78600",
+    "addr:street": "Rue du Haut des Petits Bois",
+    "craft": "brewery",
+    "name": "Brasserie Sagesse",
+    "phone": "+33 6 82 67 38 58"
+  }
+},
+{
+  "type": "node",
+  "id": 4139006665,
+  "lat": 48.9319752,
+  "lon": 2.1491804,
+  "tags": {
+    "addr:city": "Sartrouville",
+    "addr:housenumber": "165",
+    "addr:postcode": "78500",
+    "addr:street": "Avenue de la République",
+    "craft": "brewery",
+    "name": "La P'tite Sœur",
+    "opening_hours": "Fr 11:00-19:00; Sa 14:00-20:00",
+    "phone": "+33 1 75 93 77 29",
+    "website": "http://www.laptitesœur.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4155657290,
+  "lat": 48.7670303,
+  "lon": 2.0793715,
+  "tags": {
+    "addr:city": "Guyancourt",
+    "addr:housenumber": "1",
+    "addr:postcode": "78280",
+    "addr:street": "Rue Nicolas Ledoux",
+    "craft": "brewery",
+    "cuisine": "brasserie",
+    "name": "Le Villaroy"
+  }
+},
+{
+  "type": "node",
+  "id": 4338728093,
+  "lat": 48.8384157,
+  "lon": 2.3714560,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "asian",
+    "drive_in": "no",
+    "microbrewery": "yes",
+    "name": "Nems & Sushi",
+    "smoking": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4449883375,
+  "lat": 48.8892351,
+  "lon": 2.4135466,
+  "tags": {
+    "addr:city": "Pantin",
+    "addr:housenumber": "35",
+    "addr:postcode": "93500",
+    "addr:street": "Rue Méhul",
+    "alcohol": "beer",
+    "brewery": "yes",
+    "contact:phone": "+33 1 57 14 56 72",
+    "craft": "brewery",
+    "name": "Brasserie Gallia",
+    "opening_hours": "We-Fr 17:00-24:00, Sa,Su 15:00-24:00",
+    "shop": "alcohol",
+    "website": "http://www.galliaparis.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4557926169,
+  "lat": 48.9109535,
+  "lon": 2.3834730,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "french",
+    "microbrewery": "yes",
+    "name": "Restaurant du Théâtre",
+    "opening_hours": "Sa 14:30-21:30 \"si représentation\"; Su 14:30-18:30 \"si représentation\"; Tu-Fr 12:00-23:30 \"si représentation\", Mo-Fr 12:00-18:00",
+    "outdoor_seating": "yes",
+    "website": "http://www.lacommune-aubervilliers.fr/bar-restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 4606214087,
+  "lat": 48.8306402,
+  "lon": 2.1782833,
+  "tags": {
+    "addr:housenumber": "4",
+    "addr:postcode": "92430",
+    "addr:street": "Place de la Mairie",
+    "amenity": "restaurant",
+    "cuisine": "french",
+    "microbrewery": "yes",
+    "name": "La Tête Noire",
+    "phone": "+33 1 47 41 87 68",
+    "website": "https://latetenoire-restaurant.fr/"
+  }
+},
+{
+  "type": "node",
+  "id": 5949837271,
+  "lat": 48.9287272,
+  "lon": 2.3432656,
+  "tags": {
+    "addr:city": "Saint-Denis",
+    "addr:housenumber": "103",
+    "addr:postcode": "93200",
+    "addr:street": "Rue Charles Michels",
+    "brewery": "yes",
+    "building": "yes",
+    "contact:phone": "+339 81 04 81 20",
+    "craft": "brewery",
+    "name": "Brasserie du Grand Paris",
+    "opening_hours": "We-Fr 11:30-17:30",
+    "operator": "My Beer Company",
+    "shop": "alcohol",
+    "website": "https://www.bgp.paris"
+  }
+},
+{
+  "type": "node",
+  "id": 6001149522,
+  "lat": 48.8632247,
+  "lon": 2.3799534,
+  "tags": {
+    "addr:housenumber": "6",
+    "addr:street": "Rue Guillaume Bertrand",
+    "craft": "brewery",
+    "name": "La Beer Fabrique",
+    "phone": "+33 1 71 27 71 02",
+    "website": "https://www.labeerfabrique.com"
+  }
+},
+{
+  "type": "node",
+  "id": 6032266320,
+  "lat": 48.5803833,
+  "lon": 2.3010939,
+  "tags": {
+    "amenity": "restaurant",
+    "dog": "yes",
+    "microbrewery": "yes",
+    "name": "3 Brasseurs"
+  }
+},
+{
+  "type": "node",
+  "id": 6087697663,
+  "lat": 48.8893534,
+  "lon": 2.3768209,
+  "tags": {
+    "addr:city": "Paris",
+    "addr:housenumber": "7ter",
+    "addr:postcode": "75019",
+    "addr:street": "Rue Duvergier",
+    "craft": "brewery",
+    "name": "Brasserie de l'Être",
+    "phone": "+33662716600",
+    "website": "https://brasseriedeletre.paris/"
+  }
+},
+{
+  "type": "node",
+  "id": 6166347948,
+  "lat": 48.9094198,
+  "lon": 2.1778825,
+  "tags": {
+    "addr:city": "Carrières-sur-Seine",
+    "addr:housenumber": "62",
+    "addr:postcode": "78420",
+    "addr:street": "Boulevard Carnot",
+    "craft": "brewery",
+    "name": "La Brasserie du Moulin",
+    "phone": "+33 9 82 53 21 45"
+  }
+},
+{
+  "type": "node",
+  "id": 6277459840,
+  "lat": 48.8535933,
+  "lon": 2.7652156,
+  "tags": {
+    "craft": "brewery",
+    "name": "Le Cercle"
+  }
+},
+{
+  "type": "node",
+  "id": 6308540715,
+  "lat": 48.8955842,
+  "lon": 2.5139342,
+  "tags": {
+    "craft": "brewery",
+    "name": "La Maison"
+  }
+},
+{
+  "type": "node",
+  "id": 6308540716,
+  "lat": 48.8975363,
+  "lon": 2.5157094,
+  "tags": {
+    "addr:city": "Le Raincy",
+    "addr:housenumber": "113",
+    "addr:postcode": "93320",
+    "addr:street": "Avenue de la Résistance",
+    "craft": "brewery",
+    "name": "La Maison"
+  }
+},
+{
+  "type": "node",
+  "id": 6409925921,
+  "lat": 48.8183266,
+  "lon": 2.3053941,
+  "tags": {
+    "craft": "brewery",
+    "name": "Get Your Drinks"
+  }
+},
+{
+  "type": "node",
+  "id": 6924326429,
+  "lat": 48.8764539,
+  "lon": 2.5842640,
+  "tags": {
+    "addr:city": "Chelles",
+    "addr:postcode": "77500",
+    "addr:street": "Avenue de la Résistance",
+    "amenity": "pub",
+    "microbrewery": "yes",
+    "name": "La Guinche Bières des bords de Marne"
+  }
+},
+{
+  "type": "way",
+  "id": 54734681,
+  "nodes": [
+    689212516,
+    689212645,
+    689346588,
+    689212387,
+    689212553,
+    689212256,
+    689212449,
+    689212323,
+    689212609,
+    689346927,
+    689212516
+  ],
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "building:levels": "7",
+    "craft": "brewery",
+    "cuisine": "french",
+    "microbrewery": "yes",
+    "name": "Le SO",
+    "opening_hours": "Mo 10:00-17:00; Tu 10:00-24:00; We-Fr 00:00-02:00,10:00-24:00; Sa 00:00-02:00,18:30-24:00; Su 00:00-02:00",
+    "phone": "+33 140280283",
+    "smoking": "no",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "way",
+  "id": 54740915,
+  "nodes": [
+    689347031,
+    689346836,
+    689346850,
+    689346590,
+    689346155,
+    689346322,
+    689347031
+  ],
+  "tags": {
+    "amenity": "pub",
+    "building": "yes",
+    "building:levels": "7",
+    "craft": "brewery",
+    "microbrewery": "yes",
+    "name": "Le Biscornu",
+    "opening_hours": "Mo-Sa 07:00-02:00; Su off",
+    "outdoor_seating": "yes",
+    "phone": "+33 1 40 26 07 30",
+    "smoking": "no",
+    "source": "http://www.lebiscornu.fr/infos-utiles.html",
+    "website": "http://www.lebiscornu.fr/"
+  }
+},
+{
+  "type": "way",
+  "id": 63158105,
+  "nodes": [
+    783988539,
+    783966109,
+    783958335,
+    783975579,
+    784057821,
+    783990726,
+    783988539
+  ],
+  "tags": {
+    "addr:city": "Trappes",
+    "addr:housenumber": "15",
+    "addr:postcode": "78190",
+    "addr:street": "Avenue Paul Vaillant-Couturier",
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Le Sporting",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+  }
+},
+{
+  "type": "way",
+  "id": 70002564,
+  "nodes": [
+    836374419,
+    836411873,
+    836385959,
+    1991010668,
+    836363205,
+    836374419
+  ],
+  "tags": {
+    "building": "industrial",
+    "building:levels": "1",
+    "contact:facebook": "https://www.facebook.com/lesbieresdeBelleville/",
+    "craft": "brewery",
+    "name": "Les bières de Belleville",
+    "roof:colour": "gray",
+    "roof:material": "metal",
+    "roof:shape": "skillion",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+  }
+},
+{
+  "type": "way",
+  "id": 73836407,
+  "nodes": [
+    873783064,
+    873752698,
+    873789465,
+    873732762,
+    873783064
+  ],
+  "tags": {
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Café de l'Avenir",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+  }
+},
+{
+  "type": "way",
+  "id": 142909471,
+  "nodes": [
+    1563706315,
+    1563706318,
+    1563706409,
+    1563706417,
+    1563706663,
+    1563706654,
+    1563706557,
+    1563706378,
+    1563706385,
+    1563706288,
+    1563706315
+  ],
+  "tags": {
+    "addr:city": "Ormoy",
+    "addr:country": "FR",
+    "addr:postcode": "91540",
+    "addr:street": "Rue des Activités",
+    "amenity": "restaurant",
+    "building": "yes",
+    "contact:phone": "+33 1 69 90 26 57",
+    "craft": "brewery",
+    "cuisine": "sushi",
+    "microbrewery": "yes",
+    "name": "Sushi Antony 2",
+    "outdoor_seating": "yes",
+    "source": "extrapolation",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 143701129,
+  "nodes": [
+    1572528221,
+    1572528180,
+    1572528092,
+    1572527932,
+    1572527876,
+    1572527757,
+    1572528038,
+    1572528230,
+    1572528221
+  ],
+  "tags": {
+    "addr:city": "Saint-Michel-sur-Orge",
+    "addr:country": "FR",
+    "addr:housenumber": "26",
+    "addr:postcode": "91240",
+    "addr:street": "Rue d'Enfer",
+    "amenity": "pub",
+    "building": "yes",
+    "delivery": "no",
+    "microbrewery": "yes",
+    "name": "Taverne Gambrinus",
+    "outdoor_seating": "yes",
+    "phone": "+33 9 70 35 30 85",
+    "smoking": "no",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+    "takeaway": "no",
+    "website": "https://www.gambrinus-taverne.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 146093848,
+  "nodes": [
+    1593849499,
+    1593849701,
+    1593849639,
+    1593849298,
+    6373495012,
+    6373495011,
+    6373495010,
+    6373495013,
+    1593849499
+  ],
+  "tags": {
+    "amenity": "bar",
+    "building": "yes",
+    "craft": "brewery",
+    "email": "brasserie.oxbier@gmail.com",
+    "name": "Brasserie Artisanale de Marcoussis",
+    "opening_hours": "Tu-Th 17:00-19:30, Fr 17:00-19:00; Sa 10:00-12:00,17:00-19:00",
+    "phone": "+33169634554",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+    "wall": "no",
+    "website": "https://brasserieoxbier.wordpress.com"
+  }
+},
+{
+  "type": "way",
+  "id": 146734234,
+  "nodes": [
+    1599771268,
+    1599771281,
+    1599771307,
+    1599771294,
+    1599771181,
+    1599771156,
+    1599771149,
+    1076665328,
+    1599771179,
+    3124750467,
+    1599771268
+  ],
+  "tags": {
+    "addr:city": "Montmorency",
+    "addr:housenumber": "127",
+    "addr:postcode": "95160",
+    "addr:street": "Boulevard de Montmorency",
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Le voltigeur",
+    "operator": "GROND Marie France Simonne",
+    "phone": "+33 1 39 64 60 04",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012"
+  }
+},
+{
+  "type": "way",
+  "id": 146946125,
+  "nodes": [
+    1601503172,
+    1601503177,
+    1601503247,
+    1601503261,
+    1601503198,
+    1601502764,
+    1601502297,
+    1601502246,
+    1601502451,
+    1601502795,
+    1601502860,
+    1601502698,
+    1601502592,
+    1601503172
+  ],
+  "tags": {
+    "addr:city": "Deuil-la-Barre",
+    "addr:housenumber": "13",
+    "addr:postcode": "95170",
+    "addr:street": "Rue Charles de Gaulle",
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Terrabière",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012"
+  }
+},
+{
+  "type": "way",
+  "id": 374975539,
+  "nodes": [
+    785356941,
+    3783574677,
+    3783574682,
+    3783574684,
+    3783574692,
+    3783574693,
+    785087912,
+    785117018,
+    785356941
+  ],
+  "tags": {
+    "addr:city": "Gif-sur-Yvette",
+    "addr:country": "FR",
+    "addr:housenumber": "10",
+    "addr:postcode": "91190",
+    "addr:street": "Allée du Val-Fleury",
+    "amenity": "restaurant",
+    "building": "yes",
+    "craft": "brewery",
+    "cuisine": "regional",
+    "email": "brasserie.fleury@orange.fr",
+    "microbrewery": "yes",
+    "name": "Brasserie Val Fleury",
+    "opening_hours": "Mo-Sa 08:30-23:00; Su 08:00-12:00",
+    "outdoor_seating": "yes",
+    "phone": "+33160129232",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2015",
+    "website": "http://brasserievalfleury.fr/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 443752445,
+  "nodes": [
+    4412932061,
+    691721682,
+    4412941912,
+    691721271,
+    691721111,
+    4412941911,
+    691721367,
+    4412932032,
+    4412932036,
+    4412932030,
+    4412932028,
+    4412932025,
+    4412932023,
+    4412932022,
+    4412932021,
+    4412932019,
+    4412932020,
+    4412932026,
+    4412932027,
+    4412932038,
+    4412932041,
+    4412932061
+  ],
+  "tags": {
+    "amenity": "pub",
+    "brewery": "Inseine;Maison Blanche;Ginger Twist;Dark de Triomphe",
+    "indoor": "room",
+    "level": "0",
+    "microbrewery": "yes",
+    "name": "The Frog & Rosbif",
+    "operator": "FrogPubs",
+    "phone": "+33 1 42 36 34 73",
+    "room": "pub",
+    "terrace": "yes",
+    "website": "https://www.frogpubs.com/fr/pub-rosbif-paris.php"
+  }
+},
+{
+  "type": "way",
+  "id": 737527439,
+  "nodes": [
+    6905157248,
+    6905157247,
+    6905157246,
+    6905157245,
+    6905157248
+  ],
+  "tags": {
+    "amenity": "pub",
+    "building": "yes",
+    "microbrewery": "yes",
+    "name": "Au Bureau",
+    "outdoor_seating": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1593849298,
+  "lat": 48.6591606,
+  "lon": 2.2075966
+},
+{
+  "type": "node",
+  "id": 1593849499,
+  "lat": 48.6592724,
+  "lon": 2.2079016
+},
+{
+  "type": "node",
+  "id": 1593849639,
+  "lat": 48.6593151,
+  "lon": 2.2074674
+},
+{
+  "type": "node",
+  "id": 1593849701,
+  "lat": 48.6594284,
+  "lon": 2.2077725
+},
+{
+  "type": "node",
+  "id": 6373495010,
+  "lat": 48.6592153,
+  "lon": 2.2078656
+},
+{
+  "type": "node",
+  "id": 6373495011,
+  "lat": 48.6591867,
+  "lon": 2.2077875
+},
+{
+  "type": "node",
+  "id": 6373495012,
+  "lat": 48.6592202,
+  "lon": 2.2077593
+},
+{
+  "type": "node",
+  "id": 6373495013,
+  "lat": 48.6592489,
+  "lon": 2.2078374
+},
+{
+  "type": "node",
+  "id": 1572527757,
+  "lat": 48.6317750,
+  "lon": 2.3029110
+},
+{
+  "type": "node",
+  "id": 1572527876,
+  "lat": 48.6318250,
+  "lon": 2.3028150
+},
+{
+  "type": "node",
+  "id": 1572527932,
+  "lat": 48.6318580,
+  "lon": 2.3028520
+},
+{
+  "type": "node",
+  "id": 1572528038,
+  "lat": 48.6318920,
+  "lon": 2.3030630
+},
+{
+  "type": "node",
+  "id": 1572528092,
+  "lat": 48.6319000,
+  "lon": 2.3029130
+},
+{
+  "type": "node",
+  "id": 1572528180,
+  "lat": 48.6319350,
+  "lon": 2.3029620
+},
+{
+  "type": "node",
+  "id": 1572528221,
+  "lat": 48.6319540,
+  "lon": 2.3029880
+},
+{
+  "type": "node",
+  "id": 1572528230,
+  "lat": 48.6319570,
+  "lon": 2.3029910
+},
+{
+  "type": "node",
+  "id": 1563706288,
+  "lat": 48.5699750,
+  "lon": 2.4591480
+},
+{
+  "type": "node",
+  "id": 1563706315,
+  "lat": 48.5700110,
+  "lon": 2.4593180
+},
+{
+  "type": "node",
+  "id": 1563706318,
+  "lat": 48.5700180,
+  "lon": 2.4593550
+},
+{
+  "type": "node",
+  "id": 1563706378,
+  "lat": 48.5701140,
+  "lon": 2.4590380
+},
+{
+  "type": "node",
+  "id": 1563706385,
+  "lat": 48.5701230,
+  "lon": 2.4590800
+},
+{
+  "type": "node",
+  "id": 1563706409,
+  "lat": 48.5701480,
+  "lon": 2.4592950
+},
+{
+  "type": "node",
+  "id": 1563706417,
+  "lat": 48.5701550,
+  "lon": 2.4593290
+},
+{
+  "type": "node",
+  "id": 1563706557,
+  "lat": 48.5702280,
+  "lon": 2.4589840
+},
+{
+  "type": "node",
+  "id": 1563706654,
+  "lat": 48.5702790,
+  "lon": 2.4592360
+},
+{
+  "type": "node",
+  "id": 1563706663,
+  "lat": 48.5702860,
+  "lon": 2.4592700
+},
+{
+  "type": "node",
+  "id": 783958335,
+  "lat": 48.7792362,
+  "lon": 2.0109712
+},
+{
+  "type": "node",
+  "id": 783966109,
+  "lat": 48.7792732,
+  "lon": 2.0110794
+},
+{
+  "type": "node",
+  "id": 783975579,
+  "lat": 48.7792251,
+  "lon": 2.0109678
+},
+{
+  "type": "node",
+  "id": 783988539,
+  "lat": 48.7792313,
+  "lon": 2.0111298
+},
+{
+  "type": "node",
+  "id": 783990726,
+  "lat": 48.7791813,
+  "lon": 2.0111902
+},
+{
+  "type": "node",
+  "id": 784057821,
+  "lat": 48.7791278,
+  "lon": 2.0110859
+},
+{
+  "type": "node",
+  "id": 785087912,
+  "lat": 48.7024469,
+  "lon": 2.1357168
+},
+{
+  "type": "node",
+  "id": 785117018,
+  "lat": 48.7023763,
+  "lon": 2.1357523
+},
+{
+  "type": "node",
+  "id": 785356941,
+  "lat": 48.7023086,
+  "lon": 2.1357760
+},
+{
+  "type": "node",
+  "id": 3783574677,
+  "lat": 48.7023303,
+  "lon": 2.1358810
+},
+{
+  "type": "node",
+  "id": 3783574682,
+  "lat": 48.7023925,
+  "lon": 2.1358452
+},
+{
+  "type": "node",
+  "id": 3783574684,
+  "lat": 48.7024121,
+  "lon": 2.1359288
+},
+{
+  "type": "node",
+  "id": 3783574692,
+  "lat": 48.7024804,
+  "lon": 2.1358906
+},
+{
+  "type": "node",
+  "id": 3783574693,
+  "lat": 48.7024848,
+  "lon": 2.1358765
+},
+{
+  "type": "node",
+  "id": 6905157245,
+  "lat": 48.6839041,
+  "lon": 2.2234687
+},
+{
+  "type": "node",
+  "id": 6905157246,
+  "lat": 48.6841149,
+  "lon": 2.2236390
+},
+{
+  "type": "node",
+  "id": 6905157247,
+  "lat": 48.6841805,
+  "lon": 2.2234528
+},
+{
+  "type": "node",
+  "id": 6905157248,
+  "lat": 48.6839696,
+  "lon": 2.2232825
+},
+{
+  "type": "node",
+  "id": 691721111,
+  "lat": 48.8643133,
+  "lon": 2.3503128
+},
+{
+  "type": "node",
+  "id": 691721271,
+  "lat": 48.8643244,
+  "lon": 2.3502614
+},
+{
+  "type": "node",
+  "id": 691721367,
+  "lat": 48.8642958,
+  "lon": 2.3503945
+},
+{
+  "type": "node",
+  "id": 691721682,
+  "lat": 48.8643472,
+  "lon": 2.3502392
+},
+{
+  "type": "node",
+  "id": 4412932019,
+  "lat": 48.8643490,
+  "lon": 2.3503486
+},
+{
+  "type": "node",
+  "id": 4412932020,
+  "lat": 48.8643492,
+  "lon": 2.3503450
+},
+{
+  "type": "node",
+  "id": 4412932021,
+  "lat": 48.8643493,
+  "lon": 2.3503516
+},
+{
+  "type": "node",
+  "id": 4412932022,
+  "lat": 48.8643500,
+  "lon": 2.3503538
+},
+{
+  "type": "node",
+  "id": 4412932023,
+  "lat": 48.8643508,
+  "lon": 2.3503559
+},
+{
+  "type": "node",
+  "id": 4412932025,
+  "lat": 48.8643522,
+  "lon": 2.3503582
+},
+{
+  "type": "node",
+  "id": 4412932026,
+  "lat": 48.8643524,
+  "lon": 2.3503189
+},
+{
+  "type": "node",
+  "id": 4412932027,
+  "lat": 48.8643533,
+  "lon": 2.3503120
+},
+{
+  "type": "node",
+  "id": 4412932028,
+  "lat": 48.8643538,
+  "lon": 2.3503601
+},
+{
+  "type": "node",
+  "id": 4412932030,
+  "lat": 48.8643555,
+  "lon": 2.3503611
+},
+{
+  "type": "node",
+  "id": 4412932032,
+  "lat": 48.8643511,
+  "lon": 2.3504143
+},
+{
+  "type": "node",
+  "id": 4412932036,
+  "lat": 48.8643579,
+  "lon": 2.3503621
+},
+{
+  "type": "node",
+  "id": 4412932038,
+  "lat": 48.8643593,
+  "lon": 2.3503137
+},
+{
+  "type": "node",
+  "id": 4412932041,
+  "lat": 48.8643599,
+  "lon": 2.3503083
+},
+{
+  "type": "node",
+  "id": 4412932061,
+  "lat": 48.8643679,
+  "lon": 2.3502419
+},
+{
+  "type": "node",
+  "id": 4412941911,
+  "lat": 48.8643024,
+  "lon": 2.3503635
+},
+{
+  "type": "node",
+  "id": 4412941912,
+  "lat": 48.8643358,
+  "lon": 2.3502503
+},
+{
+  "type": "node",
+  "id": 689212256,
+  "lat": 48.8678656,
+  "lon": 2.3433974
+},
+{
+  "type": "node",
+  "id": 689212323,
+  "lat": 48.8678862,
+  "lon": 2.3434067
+},
+{
+  "type": "node",
+  "id": 689212387,
+  "lat": 48.8677858,
+  "lon": 2.3433812
+},
+{
+  "type": "node",
+  "id": 689212449,
+  "lat": 48.8678856,
+  "lon": 2.3433930
+},
+{
+  "type": "node",
+  "id": 689212516,
+  "lat": 48.8678280,
+  "lon": 2.3436536
+},
+{
+  "type": "node",
+  "id": 689212553,
+  "lat": 48.8678639,
+  "lon": 2.3433679
+},
+{
+  "type": "node",
+  "id": 689212609,
+  "lat": 48.8678950,
+  "lon": 2.3436245
+},
+{
+  "type": "node",
+  "id": 689212645,
+  "lat": 48.8678067,
+  "lon": 2.3436321
+},
+{
+  "type": "node",
+  "id": 689346155,
+  "lat": 48.8676956,
+  "lon": 2.3437303
+},
+{
+  "type": "node",
+  "id": 689346322,
+  "lat": 48.8676717,
+  "lon": 2.3435107
+},
+{
+  "type": "node",
+  "id": 689346588,
+  "lat": 48.8677960,
+  "lon": 2.3435032
+},
+{
+  "type": "node",
+  "id": 689346590,
+  "lat": 48.8677231,
+  "lon": 2.3437191
+},
+{
+  "type": "node",
+  "id": 689346836,
+  "lat": 48.8677396,
+  "lon": 2.3435830
+},
+{
+  "type": "node",
+  "id": 689346850,
+  "lat": 48.8677504,
+  "lon": 2.3437079
+},
+{
+  "type": "node",
+  "id": 689346927,
+  "lat": 48.8678616,
+  "lon": 2.3436390
+},
+{
+  "type": "node",
+  "id": 689347031,
+  "lat": 48.8677322,
+  "lon": 2.3434966
+},
+{
+  "type": "node",
+  "id": 836363205,
+  "lat": 48.8744390,
+  "lon": 2.3877789
+},
+{
+  "type": "node",
+  "id": 836374419,
+  "lat": 48.8744208,
+  "lon": 2.3876358
+},
+{
+  "type": "node",
+  "id": 836385959,
+  "lat": 48.8743199,
+  "lon": 2.3878136
+},
+{
+  "type": "node",
+  "id": 836411873,
+  "lat": 48.8743048,
+  "lon": 2.3876936
+},
+{
+  "type": "node",
+  "id": 1991010668,
+  "lat": 48.8743831,
+  "lon": 2.3877952
+},
+{
+  "type": "node",
+  "id": 873732762,
+  "lat": 48.9061649,
+  "lon": 2.3323009
+},
+{
+  "type": "node",
+  "id": 873752698,
+  "lat": 48.9060734,
+  "lon": 2.3325306
+},
+{
+  "type": "node",
+  "id": 873783064,
+  "lat": 48.9059934,
+  "lon": 2.3323995
+},
+{
+  "type": "node",
+  "id": 873789465,
+  "lat": 48.9061776,
+  "lon": 2.3323198
+},
+{
+  "type": "node",
+  "id": 1076665328,
+  "lat": 48.9754725,
+  "lon": 2.3170503
+},
+{
+  "type": "node",
+  "id": 1599771149,
+  "lat": 48.9754576,
+  "lon": 2.3170273
+},
+{
+  "type": "node",
+  "id": 1599771156,
+  "lat": 48.9754635,
+  "lon": 2.3168512
+},
+{
+  "type": "node",
+  "id": 1599771179,
+  "lat": 48.9754847,
+  "lon": 2.3170692
+},
+{
+  "type": "node",
+  "id": 1599771181,
+  "lat": 48.9754856,
+  "lon": 2.3168502
+},
+{
+  "type": "node",
+  "id": 1599771268,
+  "lat": 48.9755321,
+  "lon": 2.3170586
+},
+{
+  "type": "node",
+  "id": 1599771281,
+  "lat": 48.9755365,
+  "lon": 2.3168605
+},
+{
+  "type": "node",
+  "id": 1599771294,
+  "lat": 48.9755403,
+  "lon": 2.3168495
+},
+{
+  "type": "node",
+  "id": 1599771307,
+  "lat": 48.9755452,
+  "lon": 2.3168580
+},
+{
+  "type": "node",
+  "id": 3124750467,
+  "lat": 48.9754920,
+  "lon": 2.3170676
+},
+{
+  "type": "node",
+  "id": 1601502246,
+  "lat": 48.9759203,
+  "lon": 2.3271019
+},
+{
+  "type": "node",
+  "id": 1601502297,
+  "lat": 48.9759327,
+  "lon": 2.3270667
+},
+{
+  "type": "node",
+  "id": 1601502451,
+  "lat": 48.9759589,
+  "lon": 2.3271334
+},
+{
+  "type": "node",
+  "id": 1601502592,
+  "lat": 48.9759710,
+  "lon": 2.3272457
+},
+{
+  "type": "node",
+  "id": 1601502698,
+  "lat": 48.9759783,
+  "lon": 2.3272331
+},
+{
+  "type": "node",
+  "id": 1601502764,
+  "lat": 48.9759818,
+  "lon": 2.3271013
+},
+{
+  "type": "node",
+  "id": 1601502795,
+  "lat": 48.9759850,
+  "lon": 2.3271546
+},
+{
+  "type": "node",
+  "id": 1601502860,
+  "lat": 48.9759912,
+  "lon": 2.3271707
+},
+{
+  "type": "node",
+  "id": 1601503172,
+  "lat": 48.9760369,
+  "lon": 2.3272496
+},
+{
+  "type": "node",
+  "id": 1601503177,
+  "lat": 48.9760382,
+  "lon": 2.3272159
+},
+{
+  "type": "node",
+  "id": 1601503198,
+  "lat": 48.9760460,
+  "lon": 2.3270772
+},
+{
+  "type": "node",
+  "id": 1601503247,
+  "lat": 48.9760619,
+  "lon": 2.3272164
+},
+{
+  "type": "node",
+  "id": 1601503261,
+  "lat": 48.9760656,
+  "lon": 2.3270803
+}
+
+  ]
+}

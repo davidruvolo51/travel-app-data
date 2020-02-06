@@ -1,0 +1,258 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T13:41:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 3768498414,
+  "lat": 59.6641770,
+  "lon": 9.6452837,
+  "tags": {
+    "amenity": "pub",
+    "microbrewery": "yes",
+    "name": "Bryggeripuben",
+    "outdoor_seating": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3828386263,
+  "lat": 59.8985120,
+  "lon": 10.2700583,
+  "tags": {
+    "craft": "brewery",
+    "name": "Låven mikrobryggeri"
+  }
+},
+{
+  "type": "node",
+  "id": 3844916464,
+  "lat": 59.7408252,
+  "lon": 10.1775278,
+  "tags": {
+    "addr:city": "Drammen",
+    "addr:postcode": "3047",
+    "addr:street": "Skogliveien",
+    "craft": "brewery",
+    "name": "Aja Bryggeri",
+    "website": "https://ajabryggeri.no/"
+  }
+},
+{
+  "type": "node",
+  "id": 3958757968,
+  "lat": 59.7511762,
+  "lon": 10.0317287,
+  "tags": {
+    "craft": "brewery",
+    "name": "Eiker ølfabrikk",
+    "operator": "Eiker ølfabrikk AS",
+    "website": "https://www.eikerfab.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 96343522,
+  "nodes": [
+    1116582589,
+    1116581414,
+    1116581930,
+    1116582449,
+    1443471649,
+    1116582589
+  ],
+  "tags": {
+    "addr:city": "Drammen",
+    "addr:housenumber": "6d",
+    "addr:postcode": "3012",
+    "addr:street": "Jacob Borchs gate",
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Haandbryggeriet",
+    "website": "http://www.haandbryggeriet.net"
+  }
+},
+{
+  "type": "way",
+  "id": 111637612,
+  "nodes": [
+    4846565019,
+    1271369343,
+    1271369388,
+    1271369383,
+    1271369381,
+    1271369361,
+    1271369396,
+    1271369400,
+    4846560778,
+    4846560788,
+    4846560791,
+    1271369372,
+    1271369344,
+    4846560792,
+    1271369364,
+    1271369367,
+    1271369362,
+    1271369404,
+    4846565019
+  ],
+  "tags": {
+    "building": "yes",
+    "craft": "brewery",
+    "height": "19",
+    "industrial": "brewery",
+    "name": "Aass bryggeri",
+    "website": "https://www.aass.no/",
+    "wikidata": "Q303690",
+    "wikipedia": "en:Aass Brewery",
+    "wikipedia:de": "Aass Bryggeri",
+    "wikipedia:nn": "Aass Bryggeri",
+    "wikipedia:no": "Aass Bryggeri"
+  }
+},
+{
+  "type": "node",
+  "id": 1271369343,
+  "lat": 59.7415541,
+  "lon": 10.2104213
+},
+{
+  "type": "node",
+  "id": 1271369383,
+  "lat": 59.7416298,
+  "lon": 10.2104052
+},
+{
+  "type": "node",
+  "id": 1271369388,
+  "lat": 59.7416136,
+  "lon": 10.2104535
+},
+{
+  "type": "node",
+  "id": 1271369404,
+  "lat": 59.7416744,
+  "lon": 10.2089139
+},
+{
+  "type": "node",
+  "id": 4846565019,
+  "lat": 59.7418825,
+  "lon": 10.2091231
+},
+{
+  "type": "node",
+  "id": 1271369344,
+  "lat": 59.7410993,
+  "lon": 10.2114473
+},
+{
+  "type": "node",
+  "id": 1271369361,
+  "lat": 59.7419677,
+  "lon": 10.2106037
+},
+{
+  "type": "node",
+  "id": 1271369362,
+  "lat": 59.7412466,
+  "lon": 10.2106614
+},
+{
+  "type": "node",
+  "id": 1271369364,
+  "lat": 59.7411892,
+  "lon": 10.2110852
+},
+{
+  "type": "node",
+  "id": 1271369367,
+  "lat": 59.7411682,
+  "lon": 10.2110610
+},
+{
+  "type": "node",
+  "id": 1271369372,
+  "lat": 59.7409155,
+  "lon": 10.2125416
+},
+{
+  "type": "node",
+  "id": 1271369381,
+  "lat": 59.7419177,
+  "lon": 10.2107458
+},
+{
+  "type": "node",
+  "id": 1271369396,
+  "lat": 59.7420542,
+  "lon": 10.2107110
+},
+{
+  "type": "node",
+  "id": 1271369400,
+  "lat": 59.7416886,
+  "lon": 10.2117924
+},
+{
+  "type": "node",
+  "id": 4846560778,
+  "lat": 59.7416152,
+  "lon": 10.2127220
+},
+{
+  "type": "node",
+  "id": 4846560788,
+  "lat": 59.7416109,
+  "lon": 10.2127722
+},
+{
+  "type": "node",
+  "id": 4846560791,
+  "lat": 59.7412656,
+  "lon": 10.2126577
+},
+{
+  "type": "node",
+  "id": 4846560792,
+  "lat": 59.7411514,
+  "lon": 10.2112373
+},
+{
+  "type": "node",
+  "id": 1116581414,
+  "lat": 59.7424102,
+  "lon": 10.2316311
+},
+{
+  "type": "node",
+  "id": 1116581930,
+  "lat": 59.7421698,
+  "lon": 10.2319306
+},
+{
+  "type": "node",
+  "id": 1116582449,
+  "lat": 59.7419194,
+  "lon": 10.2311390
+},
+{
+  "type": "node",
+  "id": 1116582589,
+  "lat": 59.7421598,
+  "lon": 10.2308395
+},
+{
+  "type": "node",
+  "id": 1443471649,
+  "lat": 59.7420933,
+  "lon": 10.2309224
+}
+
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T11:21:03Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2501106307,
+  "lat": 45.0634045,
+  "lon": 38.9714962,
+  "tags": {
+    "amenity": "pub",
+    "microbrewery": "yes",
+    "name": "Раковая №1"
+  }
+},
+{
+  "type": "node",
+  "id": 3512275673,
+  "lat": 45.0666006,
+  "lon": 39.0079999,
+  "tags": {
+    "amenity": "pub",
+    "microbrewery": "yes",
+    "name": "Пивной офис"
+  }
+},
+{
+  "type": "way",
+  "id": 491944122,
+  "nodes": [
+    4840261481,
+    4840261482,
+    4840261483,
+    4840261484,
+    4840261481
+  ],
+  "tags": {
+    "addr:street": "улица Комарова",
+    "building": "yes",
+    "craft": "brewery"
+  }
+},
+{
+  "type": "node",
+  "id": 4840261481,
+  "lat": 45.1155872,
+  "lon": 39.0223930
+},
+{
+  "type": "node",
+  "id": 4840261482,
+  "lat": 45.1155157,
+  "lon": 39.0223955
+},
+{
+  "type": "node",
+  "id": 4840261483,
+  "lat": 45.1155174,
+  "lon": 39.0224965
+},
+{
+  "type": "node",
+  "id": 4840261484,
+  "lat": 45.1155889,
+  "lon": 39.0224941
+}
+
+  ]
+}

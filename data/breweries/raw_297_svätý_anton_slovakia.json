@@ -1,0 +1,119 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T11:42:03Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1305253408,
+  "lat": 48.4581485,
+  "lon": 18.8934385,
+  "tags": {
+    "addr:city": "Banská Štiavnica",
+    "amenity": "restaurant",
+    "craft": "brewery",
+    "cuisine": "regional",
+    "microbrewery": "yes",
+    "name": "Erb"
+  }
+},
+{
+  "type": "node",
+  "id": 3789369146,
+  "lat": 48.4726824,
+  "lon": 19.1068154,
+  "tags": {
+    "craft": "brewery",
+    "microbrewery": "yes",
+    "name": "Dobrovar"
+  }
+},
+{
+  "type": "way",
+  "id": 71430514,
+  "nodes": [
+    849888523,
+    849890006,
+    852022559,
+    849897550,
+    852022567,
+    849888761,
+    849874659,
+    849889677,
+    852022577,
+    849888523
+  ],
+  "tags": {
+    "addr:city": "Dobrá Niva",
+    "addr:conscriptionnumber": "209",
+    "addr:housenumber": "209",
+    "addr:place": "Dobrá Niva",
+    "building": "yes",
+    "craft": "brewery",
+    "import": "budovy201004",
+    "operator": "Dobrovar",
+    "source": "kapor2",
+    "source:conscriptionnumber": "kapor2"
+  }
+},
+{
+  "type": "node",
+  "id": 849874659,
+  "lat": 48.4725796,
+  "lon": 19.1067988
+},
+{
+  "type": "node",
+  "id": 849888523,
+  "lat": 48.4727372,
+  "lon": 19.1069530
+},
+{
+  "type": "node",
+  "id": 849888761,
+  "lat": 48.4726329,
+  "lon": 19.1067834
+},
+{
+  "type": "node",
+  "id": 849889677,
+  "lat": 48.4725650,
+  "lon": 19.1066892
+},
+{
+  "type": "node",
+  "id": 849890006,
+  "lat": 48.4726103,
+  "lon": 19.1070073
+},
+{
+  "type": "node",
+  "id": 849897550,
+  "lat": 48.4726712,
+  "lon": 19.1068961
+},
+{
+  "type": "node",
+  "id": 852022559,
+  "lat": 48.4725961,
+  "lon": 19.1069270
+},
+{
+  "type": "node",
+  "id": 852022567,
+  "lat": 48.4726580,
+  "lon": 19.1067885
+},
+{
+  "type": "node",
+  "id": 852022577,
+  "lat": 48.4726852,
+  "lon": 19.1066330
+}
+
+  ]
+}

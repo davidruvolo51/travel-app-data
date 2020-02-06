@@ -1,0 +1,526 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T08:37:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 598984741,
+  "lat": 43.6052067,
+  "lon": 3.8823519,
+  "tags": {
+    "addr:city": "Montpellier",
+    "addr:housenumber": "1",
+    "addr:postcode": "34000",
+    "addr:street": "Rue des Deux Ponts",
+    "amenity": "pub",
+    "microbrewery": "yes",
+    "name": "La Barbote",
+    "opening_hours": "Mo-Su 18:00-01:00",
+    "phone": "+33 7 68 31 12 50",
+    "website": "http://microbrasserielabarbote.com",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 724171869,
+  "lat": 43.6134358,
+  "lon": 3.8799476,
+  "tags": {
+    "addr:city": "Montpellier",
+    "addr:housenumber": "14",
+    "addr:postcode": "34000",
+    "addr:street": "Rue du Pila Saint-Gély",
+    "amenity": "pub",
+    "microbrewery": "yes",
+    "name": "Popular Brewing",
+    "opening_hours": "Tu-Sa 18:00-01:00",
+    "outdoor_seating": "yes",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 2228674696,
+  "lat": 43.6099290,
+  "lon": 3.8784827,
+  "tags": {
+    "amenity": "pub",
+    "internet_access": "yes",
+    "microbrewery": "yes",
+    "name": "Hopulus",
+    "opening_hours": "Mo-Su 16:00-25:00",
+    "outdoor_seating": "yes",
+    "toilets": "yes",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 3501133839,
+  "lat": 43.7830700,
+  "lon": 4.0903679,
+  "tags": {
+    "amenity": "restaurant",
+    "microbrewery": "yes",
+    "name": "La Boite à Thé",
+    "outdoor_seating": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3654614991,
+  "lat": 43.5565102,
+  "lon": 4.0851437,
+  "tags": {
+    "amenity": "restaurant",
+    "contact:email": "contact-grandemotte@brasseriegusto.com",
+    "contact:facebook": "https://www.facebook.com/Brasserie-Gusto-La-Grande-Motte-311664538998479/",
+    "contact:phone": "+33467575482",
+    "cuisine": "italian;regional",
+    "description": "Brasserie Italienne",
+    "email": "contact-brasseriegusto@lagrandemotte.com",
+    "microbrewery": "yes",
+    "name": "Gusto",
+    "opening_hours": "Mo-Su",
+    "outdoor_seating": "yes",
+    "source": "Photomapping 2015 avec Perche à Selphies"
+  }
+},
+{
+  "type": "node",
+  "id": 3654632230,
+  "lat": 43.5564788,
+  "lon": 4.0856306,
+  "tags": {
+    "amenity": "restaurant",
+    "description": "Brasserie;Buffet de la Mer;Restaurant;Bar à;Glacier",
+    "microbrewery": "yes",
+    "name": "Entre Terre et Mer",
+    "outdoor_seating": "yes",
+    "source": "Photomapping 2015 avec Perche à Selphies"
+  }
+},
+{
+  "type": "node",
+  "id": 3654642893,
+  "lat": 43.5568945,
+  "lon": 4.0856864,
+  "tags": {
+    "amenity": "restaurant",
+    "description": "Brasserie;Cocktails;Pizzeria;Restaurant;Glacier;Bar",
+    "microbrewery": "yes",
+    "name": "Le Quai",
+    "outdoor_seating": "yes",
+    "source": "Photomapping 2015 avec Perche à Selphies",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3654876814,
+  "lat": 43.5573642,
+  "lon": 4.0895603,
+  "tags": {
+    "amenity": "restaurant",
+    "description": "Pub;Brasserie;Restaurant",
+    "internet_access": "wlan",
+    "microbrewery": "yes",
+    "name": "Carlsbarg",
+    "outdoor_seating": "yes",
+    "phone": "+33 4 67566134"
+  }
+},
+{
+  "type": "node",
+  "id": 3664529237,
+  "lat": 43.5280978,
+  "lon": 3.9305583,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "coffee_shop;french",
+    "microbrewery": "yes",
+    "name": "Léo",
+    "outdoor_seating": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3664529241,
+  "lat": 43.5280306,
+  "lon": 3.9306982,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "coffee_shop;french",
+    "microbrewery": "yes",
+    "name": "Leo",
+    "outdoor_seating": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3688273747,
+  "lat": 43.5435094,
+  "lon": 4.1309419,
+  "tags": {
+    "craft": "brewery",
+    "name": "L'Entr'Act",
+    "operator": "L'Entr'Act"
+  }
+},
+{
+  "type": "node",
+  "id": 3787683030,
+  "lat": 43.6179984,
+  "lon": 3.8102729,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "microbrewery": "yes",
+    "name": "Bellagio",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4408197922,
+  "lat": 43.5728160,
+  "lon": 3.9006440,
+  "tags": {
+    "amenity": "restaurant",
+    "microbrewery": "yes",
+    "name": "Les Délices d'Ariane"
+  }
+},
+{
+  "type": "node",
+  "id": 4674787578,
+  "lat": 43.6763697,
+  "lon": 3.8678712,
+  "tags": {
+    "craft": "brewery",
+    "name": "Brasserie le BBM"
+  }
+},
+{
+  "type": "node",
+  "id": 5167906015,
+  "lat": 43.5819471,
+  "lon": 3.8446185,
+  "tags": {
+    "craft": "brewery",
+    "name": "Brasserie Saint-Jean"
+  }
+},
+{
+  "type": "node",
+  "id": 5607626221,
+  "lat": 43.4073188,
+  "lon": 3.6957191,
+  "tags": {
+    "amenity": "pub",
+    "craft": "brewery",
+    "name": "La Singulière",
+    "opening_hours": "Tu-Sa 10:00-12:30;Tu-We 17:00-19:30 ;Th-Sa 17:00-21:00",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6151883427,
+  "lat": 43.6425080,
+  "lon": 3.9177238,
+  "tags": {
+    "addr:city": "Castelnau-le-Lez",
+    "addr:housenumber": "185",
+    "addr:postcode": "34170",
+    "addr:street": "Avenue Blaise Pascal",
+    "craft": "brewery",
+    "description": "Craft brewery and Bar ",
+    "email": "contact@zoobrew.fr",
+    "name": "Zoobrew Brasserie Animale",
+    "opening_hours": "Mo-We 09:00-17:00, Th-Fr 09:00-20:30, Sa 17:00-20:30",
+    "phone": "+33 4 67 40 69 74",
+    "product": "beer",
+    "website": "https://www.zoobrew.fr/"
+  }
+},
+{
+  "type": "node",
+  "id": 7134332662,
+  "lat": 43.6188035,
+  "lon": 3.8904988,
+  "tags": {
+    "contact:email": "blanc_mat@yahoo.fr",
+    "craft": "brewery",
+    "email": "blanc_mat@yahoo.fr",
+    "entrance:width": "1.2",
+    "name": "La MatCé",
+    "note": "Brasserie artisanale bio et point de vente",
+    "opening_hours": "Tu,Th,Fr 14:00-18:30",
+    "phone": "0674814940",
+    "shop": "alcohol",
+    "website": "https://www.la-matce.fr",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 279569100,
+  "nodes": [
+    2837916579,
+    2837916586,
+    2837916587,
+    2837916591,
+    2837916590,
+    2837916593,
+    2837916592,
+    2837916589,
+    2837916588,
+    2837916585,
+    2837916584,
+    2837916583,
+    2837916582,
+    2837916581,
+    2837916580,
+    2837916578,
+    2837916577,
+    2837916576,
+    3635891476,
+    2837916570,
+    2837916563,
+    2837916574,
+    2837916575,
+    2837916579
+  ],
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "craft": "brewery",
+    "description": "Restaurant-Bar-Lounge",
+    "internet_access": "wlan",
+    "internet_access:fee": "yes",
+    "microbrewery": "yes",
+    "name": "Le b",
+    "operator": "Belambra Clubs",
+    "outdoor_seating": "yes",
+    "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2014",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 705088594,
+  "nodes": [
+    6622364303,
+    6622364302,
+    6622364301,
+    6622364300,
+    6622364299,
+    7171811720,
+    7171811721,
+    6622364298,
+    6622364303
+  ],
+  "tags": {
+    "building": "yes",
+    "craft": "brewery",
+    "microbrewery": "yes",
+    "name": "Kombucha",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2019"
+  }
+},
+{
+  "type": "node",
+  "id": 2837916563,
+  "lat": 43.5631660,
+  "lon": 4.1050860
+},
+{
+  "type": "node",
+  "id": 2837916570,
+  "lat": 43.5632150,
+  "lon": 4.1050080
+},
+{
+  "type": "node",
+  "id": 2837916574,
+  "lat": 43.5632860,
+  "lon": 4.1052270
+},
+{
+  "type": "node",
+  "id": 2837916575,
+  "lat": 43.5632960,
+  "lon": 4.1052110
+},
+{
+  "type": "node",
+  "id": 2837916576,
+  "lat": 43.5633050,
+  "lon": 4.1051150
+},
+{
+  "type": "node",
+  "id": 2837916577,
+  "lat": 43.5633300,
+  "lon": 4.1050760
+},
+{
+  "type": "node",
+  "id": 2837916578,
+  "lat": 43.5633570,
+  "lon": 4.1051090
+},
+{
+  "type": "node",
+  "id": 2837916579,
+  "lat": 43.5633780,
+  "lon": 4.1053080
+},
+{
+  "type": "node",
+  "id": 2837916580,
+  "lat": 43.5633860,
+  "lon": 4.1050630
+},
+{
+  "type": "node",
+  "id": 2837916581,
+  "lat": 43.5633870,
+  "lon": 4.1050620
+},
+{
+  "type": "node",
+  "id": 2837916582,
+  "lat": 43.5633880,
+  "lon": 4.1050620
+},
+{
+  "type": "node",
+  "id": 2837916583,
+  "lat": 43.5633890,
+  "lon": 4.1050620
+},
+{
+  "type": "node",
+  "id": 2837916584,
+  "lat": 43.5633900,
+  "lon": 4.1050620
+},
+{
+  "type": "node",
+  "id": 2837916585,
+  "lat": 43.5633920,
+  "lon": 4.1050640
+},
+{
+  "type": "node",
+  "id": 2837916586,
+  "lat": 43.5634400,
+  "lon": 4.1052090
+},
+{
+  "type": "node",
+  "id": 2837916587,
+  "lat": 43.5634470,
+  "lon": 4.1052180
+},
+{
+  "type": "node",
+  "id": 2837916588,
+  "lat": 43.5634750,
+  "lon": 4.1051620
+},
+{
+  "type": "node",
+  "id": 2837916589,
+  "lat": 43.5634760,
+  "lon": 4.1051640
+},
+{
+  "type": "node",
+  "id": 2837916590,
+  "lat": 43.5634760,
+  "lon": 4.1051700
+},
+{
+  "type": "node",
+  "id": 2837916591,
+  "lat": 43.5634760,
+  "lon": 4.1051720
+},
+{
+  "type": "node",
+  "id": 2837916592,
+  "lat": 43.5634770,
+  "lon": 4.1051660
+},
+{
+  "type": "node",
+  "id": 2837916593,
+  "lat": 43.5634770,
+  "lon": 4.1051670
+},
+{
+  "type": "node",
+  "id": 3635891476,
+  "lat": 43.5632430,
+  "lon": 4.1050413
+},
+{
+  "type": "node",
+  "id": 6622364298,
+  "lat": 43.6479581,
+  "lon": 3.7405847
+},
+{
+  "type": "node",
+  "id": 6622364299,
+  "lat": 43.6477744,
+  "lon": 3.7405006
+},
+{
+  "type": "node",
+  "id": 6622364300,
+  "lat": 43.6477336,
+  "lon": 3.7406057
+},
+{
+  "type": "node",
+  "id": 6622364301,
+  "lat": 43.6479763,
+  "lon": 3.7407857
+},
+{
+  "type": "node",
+  "id": 6622364302,
+  "lat": 43.6480707,
+  "lon": 3.7405425
+},
+{
+  "type": "node",
+  "id": 6622364303,
+  "lat": 43.6479960,
+  "lon": 3.7404871
+},
+{
+  "type": "node",
+  "id": 7171811720,
+  "lat": 43.6478444,
+  "lon": 3.7405526
+},
+{
+  "type": "node",
+  "id": 7171811721,
+  "lat": 43.6478602,
+  "lon": 3.7405120
+}
+
+  ]
+}

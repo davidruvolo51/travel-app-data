@@ -1,0 +1,369 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-05T23:41:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 286986148,
+  "lat": 52.1533865,
+  "lon": 7.3392477,
+  "tags": {
+    "craft": "brewery",
+    "man_made": "works",
+    "name": "Brauerei Rolinck"
+  }
+},
+{
+  "type": "node",
+  "id": 620079746,
+  "lat": 51.9655737,
+  "lon": 7.6216172,
+  "tags": {
+    "addr:city": "Münster",
+    "addr:country": "DE",
+    "addr:housename": "Pinkus Müller",
+    "addr:housenumber": "4-6",
+    "addr:postcode": "48143",
+    "addr:street": "Kreuzstraße",
+    "amenity": "pub",
+    "brewery": "Pinkus Müller",
+    "contact:phone": "+49 251 45151",
+    "entry_fee": "no",
+    "food": "yes",
+    "happy_hour": "no",
+    "microbrewery": "yes",
+    "name": "Pinkus Müller",
+    "opening_hours": "Mo-Sa 12:00-24:00; Su off",
+    "outdoor_seating": "yes",
+    "toilets:wheelchair": "no",
+    "website": "http://www.pinkus-mueller.de/",
+    "wheelchair": "no",
+    "wikidata": "Q880090"
+  }
+},
+{
+  "type": "node",
+  "id": 3691415173,
+  "lat": 51.9282064,
+  "lon": 7.6287318,
+  "tags": {
+    "addr:city": "Münster",
+    "addr:country": "DE",
+    "addr:housenumber": "371",
+    "addr:postcode": "48153",
+    "addr:street": "Hammer Straße",
+    "addr:suburb": "Berg Fidel",
+    "craft": "brewery",
+    "description": "Verkaufen im nebenan liegenden Trinkgut, kein Ausschank vor Ort, es gibt aber sowas wie open tap nights",
+    "email": "kontakt@laeuterwerk.de",
+    "microbrewery": "yes",
+    "name": "Läuterwerk",
+    "operator": "Läuterwerk GmbH",
+    "website": "https://www.laeuterwerk.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 4073273523,
+  "lat": 51.9769615,
+  "lon": 7.6103704,
+  "tags": {
+    "addr:city": "Münster",
+    "addr:country": "DE",
+    "addr:housenumber": "10",
+    "addr:postcode": "48159",
+    "addr:street": "Dorpatweg",
+    "amenity": "restaurant",
+    "description": "Hier wird das Bier von Das Dackel ausgeschenkt",
+    "microbrewery": "yes",
+    "name": "Mole",
+    "opening_hours": "Tu-Th 17:00-24:00, Fr 17:00-01:00, Sa 14:00-01:00, Su 09:00-20:00",
+    "website": "https://mole.factoryhotel-muenster.de",
+    "website:brewery": "https://dasdackel.de/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4370860402,
+  "lat": 51.9727771,
+  "lon": 7.6283874,
+  "tags": {
+    "addr:housenumber": "8",
+    "addr:street": "Kerßenbrockstraße",
+    "craft": "brewery",
+    "email": "info@finne-brauerei.de",
+    "microbrewery": "yes",
+    "name": "Münsteraner Finne GmbH",
+    "opening_hours": "Fr,Sa 18:00-00:00",
+    "phone": "+49 163 2358152",
+    "website": "https://www.finne-brauerei.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 5188799506,
+  "lat": 51.7661008,
+  "lon": 7.4277367,
+  "tags": {
+    "brand": "Spökenkieker",
+    "craft": "brewery",
+    "name": "Lüdinghauser Brauwerkstatt",
+    "operator": "Norman Tenberge"
+  }
+},
+{
+  "type": "node",
+  "id": 5284859998,
+  "lat": 51.9768608,
+  "lon": 7.6102167,
+  "tags": {
+    "contact:email": "wuff@brauereidackel.de",
+    "contact:facebook": "https://fb.me/dasdackel",
+    "contact:website": "http://www.dasdackel.de",
+    "craft": "brewery",
+    "description": "Gebraut am Germania Campus, ausgeschenkt in der Mole.",
+    "level": "0",
+    "name": "Das Dackel",
+    "opening_hours": "Mo-Su 11:30-21:30",
+    "operator": "Bierbrauerei Dackel GmbH & Co. KG",
+    "product": "beer"
+  }
+},
+{
+  "type": "way",
+  "id": 80643977,
+  "nodes": [
+    940654449,
+    940653300,
+    940653848,
+    5586722765,
+    940653492,
+    940654025,
+    940653779,
+    940652867,
+    5586722774,
+    5586722773,
+    940654363,
+    940653411,
+    5586722766,
+    5586722776,
+    5586722775,
+    940653120,
+    940653702,
+    940653337,
+    5586722779,
+    5586722778,
+    940653898,
+    940653675,
+    940654449
+  ],
+  "tags": {
+    "addr:city": "Coesfeld",
+    "addr:country": "DE",
+    "addr:housenumber": "1",
+    "addr:postcode": "48653",
+    "addr:street": "Overhagenweg",
+    "amenity": "restaurant",
+    "building": "yes",
+    "microbrewery": "yes",
+    "name": "Brauhaus Stephanus",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 107137282,
+  "nodes": [
+    4514442533,
+    4514442522,
+    4514442534,
+    4514442535,
+    4514442536,
+    4514442533
+  ],
+  "tags": {
+    "addr:city": "Havixbeck",
+    "addr:country": "DE",
+    "addr:housenumber": "28",
+    "addr:postcode": "48329",
+    "addr:street": "Poppenbeck",
+    "amenity": "pub",
+    "building": "yes",
+    "cuisine": "regional",
+    "food": "yes",
+    "microbrewery": "yes",
+    "name": "Brauhaus Klute",
+    "website": "http://www.brauhaus-klute.de"
+  }
+},
+{
+  "type": "node",
+  "id": 940652867,
+  "lat": 51.9370629,
+  "lon": 7.1567842
+},
+{
+  "type": "node",
+  "id": 940653120,
+  "lat": 51.9367843,
+  "lon": 7.1569663
+},
+{
+  "type": "node",
+  "id": 940653300,
+  "lat": 51.9369188,
+  "lon": 7.1566048
+},
+{
+  "type": "node",
+  "id": 940653337,
+  "lat": 51.9366922,
+  "lon": 7.1569050
+},
+{
+  "type": "node",
+  "id": 940653411,
+  "lat": 51.9370696,
+  "lon": 7.1568664
+},
+{
+  "type": "node",
+  "id": 940653492,
+  "lat": 51.9369353,
+  "lon": 7.1565705
+},
+{
+  "type": "node",
+  "id": 940653675,
+  "lat": 51.9368052,
+  "lon": 7.1566493
+},
+{
+  "type": "node",
+  "id": 940653702,
+  "lat": 51.9367780,
+  "lon": 7.1568892
+},
+{
+  "type": "node",
+  "id": 940653779,
+  "lat": 51.9370458,
+  "lon": 7.1565773
+},
+{
+  "type": "node",
+  "id": 940653848,
+  "lat": 51.9369178,
+  "lon": 7.1565737
+},
+{
+  "type": "node",
+  "id": 940653898,
+  "lat": 51.9366732,
+  "lon": 7.1566771
+},
+{
+  "type": "node",
+  "id": 940654025,
+  "lat": 51.9369381,
+  "lon": 7.1566004
+},
+{
+  "type": "node",
+  "id": 940654363,
+  "lat": 51.9370680,
+  "lon": 7.1568428
+},
+{
+  "type": "node",
+  "id": 940654449,
+  "lat": 51.9368042,
+  "lon": 7.1566304
+},
+{
+  "type": "node",
+  "id": 5586722765,
+  "lat": 51.9369259,
+  "lon": 7.1565722
+},
+{
+  "type": "node",
+  "id": 5586722766,
+  "lat": 51.9368983,
+  "lon": 7.1569002
+},
+{
+  "type": "node",
+  "id": 5586722773,
+  "lat": 51.9370869,
+  "lon": 7.1568391
+},
+{
+  "type": "node",
+  "id": 5586722774,
+  "lat": 51.9370824,
+  "lon": 7.1567794
+},
+{
+  "type": "node",
+  "id": 5586722775,
+  "lat": 51.9368302,
+  "lon": 7.1569564
+},
+{
+  "type": "node",
+  "id": 5586722776,
+  "lat": 51.9368277,
+  "lon": 7.1569142
+},
+{
+  "type": "node",
+  "id": 5586722778,
+  "lat": 51.9366738,
+  "lon": 7.1566803
+},
+{
+  "type": "node",
+  "id": 5586722779,
+  "lat": 51.9366890,
+  "lon": 7.1568668
+},
+{
+  "type": "node",
+  "id": 4514442522,
+  "lat": 51.9891845,
+  "lon": 7.3931335
+},
+{
+  "type": "node",
+  "id": 4514442533,
+  "lat": 51.9892977,
+  "lon": 7.3930100
+},
+{
+  "type": "node",
+  "id": 4514442534,
+  "lat": 51.9893027,
+  "lon": 7.3934182
+},
+{
+  "type": "node",
+  "id": 4514442535,
+  "lat": 51.9893830,
+  "lon": 7.3933305
+},
+{
+  "type": "node",
+  "id": 4514442536,
+  "lat": 51.9894161,
+  "lon": 7.3932945
+}
+
+  ]
+}

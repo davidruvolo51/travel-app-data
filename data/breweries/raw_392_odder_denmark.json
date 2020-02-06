@@ -1,0 +1,182 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T14:04:03Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 291643175,
+  "lat": 55.8630502,
+  "lon": 9.8453681,
+  "tags": {
+    "amenity": "restaurant",
+    "fvst:navnelbnr": "71110",
+    "microbrewery": "yes",
+    "name": "Oksen",
+    "opening_hours": "Mo-Su 10:00-21:00",
+    "phone": "+45 75626900",
+    "smoking": "no",
+    "website": "https://oksen-horsens.dk/"
+  }
+},
+{
+  "type": "node",
+  "id": 828079226,
+  "lat": 56.1560349,
+  "lon": 10.2100251,
+  "tags": {
+    "alt_name": "Bryggeriet Sanct Clement",
+    "amenity": "restaurant",
+    "capacity": "160",
+    "cuisine": "steak",
+    "fvst:navnelbnr": "754374",
+    "microbrewery": "yes",
+    "name": "A Hereford Beefstouw",
+    "opening_hours": "Mo-Th 17:30-23:00; Fr-Sa 12:00-24:00; Su,PH 17:30-23:00",
+    "phone": "+45 86138000",
+    "website": "http://www.bryggeriet.dk/dk/bryggerierne/sct-clemens-aarhus",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 4403383112,
+  "lat": 56.1482558,
+  "lon": 10.2006518,
+  "tags": {
+    "amenity": "bar",
+    "fvst:navnelbnr": "577631",
+    "microbrewery": "yes",
+    "name": "Mikkeller"
+  }
+},
+{
+  "type": "node",
+  "id": 4715468032,
+  "lat": 56.1644574,
+  "lon": 10.2186220,
+  "tags": {
+    "amenity": "pub",
+    "fvst:navnelbnr": "698934",
+    "microbrewery": "yes",
+    "name": "Humleland I/S"
+  }
+},
+{
+  "type": "node",
+  "id": 5159425685,
+  "lat": 56.1097119,
+  "lon": 10.1378435,
+  "tags": {
+    "contact:phone": "+45 8689 2040",
+    "contact:website": "http://aarhusbryghus.dk/",
+    "craft": "brewery",
+    "name": "Aarhus Bryghus",
+    "phone": "+45 8689 2040",
+    "source": "http://aarhusbryghus.dk/",
+    "website": "http://aarhusbryghus.dk/kontakt/"
+  }
+},
+{
+  "type": "way",
+  "id": 406409243,
+  "nodes": [
+    6089659549,
+    6089667539,
+    6089672720,
+    4084777093,
+    6089676486,
+    6089682372,
+    4084777092,
+    6089684626,
+    6089649113,
+    4084777091,
+    4084777090,
+    6089660089,
+    6089659549
+  ],
+  "tags": {
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Skanderborg Bryghus"
+  }
+},
+{
+  "type": "node",
+  "id": 4084777090,
+  "lat": 56.0506869,
+  "lon": 9.9446154
+},
+{
+  "type": "node",
+  "id": 4084777091,
+  "lat": 56.0505933,
+  "lon": 9.9446404
+},
+{
+  "type": "node",
+  "id": 4084777092,
+  "lat": 56.0506159,
+  "lon": 9.9450130
+},
+{
+  "type": "node",
+  "id": 4084777093,
+  "lat": 56.0507171,
+  "lon": 9.9450776
+},
+{
+  "type": "node",
+  "id": 6089649113,
+  "lat": 56.0506005,
+  "lon": 9.9447267
+},
+{
+  "type": "node",
+  "id": 6089659549,
+  "lat": 56.0508911,
+  "lon": 9.9446855
+},
+{
+  "type": "node",
+  "id": 6089660089,
+  "lat": 56.0506967,
+  "lon": 9.9447426
+},
+{
+  "type": "node",
+  "id": 6089667539,
+  "lat": 56.0509565,
+  "lon": 9.9454526
+},
+{
+  "type": "node",
+  "id": 6089672720,
+  "lat": 56.0507544,
+  "lon": 9.9455108
+},
+{
+  "type": "node",
+  "id": 6089676486,
+  "lat": 56.0506323,
+  "lon": 9.9451001
+},
+{
+  "type": "node",
+  "id": 6089682372,
+  "lat": 56.0506249,
+  "lon": 9.9450107
+},
+{
+  "type": "node",
+  "id": 6089684626,
+  "lat": 56.0505922,
+  "lon": 9.9447289
+}
+
+  ]
+}

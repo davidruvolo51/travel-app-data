@@ -1,0 +1,127 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T13:39:03Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 850838152,
+  "lat": 58.0278662,
+  "lon": 7.4573595,
+  "tags": {
+    "addr:city": "Mandal",
+    "addr:housenumber": "45A",
+    "addr:postcode": "4514",
+    "addr:street": "Store Elvegate",
+    "amenity": "restaurant",
+    "microbrewery": "yes",
+    "name": "Provianten",
+    "operator": "Provianten Brygghus",
+    "website": "http://www.provianten.no/"
+  }
+},
+{
+  "type": "node",
+  "id": 3842619442,
+  "lat": 58.1517819,
+  "lon": 8.0265279,
+  "tags": {
+    "addr:city": "Kristiansand S",
+    "addr:housenumber": "9",
+    "addr:postcode": "4632",
+    "addr:street": "Nye Teglverksvei",
+    "craft": "brewery",
+    "name": "Qvart Ølkompani",
+    "operator": "Qvart Ølkompani",
+    "website": "http://www.qvart.no/"
+  }
+},
+{
+  "type": "node",
+  "id": 3842642808,
+  "lat": 58.0251226,
+  "lon": 7.4578639,
+  "tags": {
+    "addr:city": "Mandal",
+    "addr:housenumber": "8",
+    "addr:postcode": "4515",
+    "addr:street": "Keiser Nicolaus gate",
+    "craft": "brewery",
+    "name": "Nua Brygghus",
+    "operator": "Nua Brygghus AS",
+    "website": "http://www.nuabrygghus.no/"
+  }
+},
+{
+  "type": "node",
+  "id": 3993257974,
+  "lat": 58.2635976,
+  "lon": 7.9680735,
+  "tags": {
+    "craft": "brewery",
+    "name": "Hunsfos Bryggeri",
+    "website": "http://hunsfos-bryggeri.no/"
+  }
+},
+{
+  "type": "way",
+  "id": 109896187,
+  "nodes": [
+    1256953906,
+    1256954293,
+    5753166709,
+    1256954339,
+    1256954532,
+    1256953906
+  ],
+  "tags": {
+    "addr:city": "Kristiansand S",
+    "addr:housenumber": "9",
+    "addr:postcode": "4611",
+    "addr:street": "Tollbodgata",
+    "amenity": "pub",
+    "building": "yes",
+    "microbrewery": "yes",
+    "name": "Christianssand Brygghus",
+    "opening_hours": "Mo-We 15:00-24:00, Th 15:00-01:00, Fr,Sa 15:00-02:30",
+    "website": "https://www.mat-uteliv.no/christianssand-brygghus/",
+    "wikidata": "Q17762331"
+  }
+},
+{
+  "type": "node",
+  "id": 1256953906,
+  "lat": 58.1445285,
+  "lon": 7.9941980
+},
+{
+  "type": "node",
+  "id": 1256954293,
+  "lat": 58.1444074,
+  "lon": 7.9939806
+},
+{
+  "type": "node",
+  "id": 1256954339,
+  "lat": 58.1445039,
+  "lon": 7.9937874
+},
+{
+  "type": "node",
+  "id": 1256954532,
+  "lat": 58.1446251,
+  "lon": 7.9940048
+},
+{
+  "type": "node",
+  "id": 5753166709,
+  "lat": 58.1444860,
+  "lon": 7.9938233
+}
+
+  ]
+}

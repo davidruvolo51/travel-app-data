@@ -1,0 +1,364 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T01:41:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1013229696,
+  "lat": 51.2244716,
+  "lon": 22.5765719,
+  "tags": {
+    "addr:city": "Lublin",
+    "addr:housenumber": "106",
+    "addr:postcode": "20-422",
+    "addr:street": "Władysława Kunickiego",
+    "craft": "brewery",
+    "man_made": "works",
+    "name": "Browar Perła",
+    "note": "dobre piwko"
+  }
+},
+{
+  "type": "node",
+  "id": 1042455764,
+  "lat": 51.2492437,
+  "lon": 22.5694428,
+  "tags": {
+    "addr:city": "Lublin",
+    "addr:housenumber": "15",
+    "addr:street": "Grodzka",
+    "amenity": "pub",
+    "email": "restauracja@grodzka15.pl",
+    "microbrewery": "yes",
+    "name": "Grodzka 15",
+    "opening_hours": "Su-Th 11:00-24:00; Fr,Sa 11:00- 02:00",
+    "website": "http://www.grodzka15.pl"
+  }
+},
+{
+  "type": "node",
+  "id": 4491763875,
+  "lat": 51.2572305,
+  "lon": 22.5736910,
+  "tags": {
+    "addr:city": "Lublin",
+    "addr:housenumber": "3",
+    "addr:postcode": "20-126",
+    "addr:street": "Unicka",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "microbrewery": "yes",
+    "name": "Mąka z wodą",
+    "opening_hours": "Mo-Su 11:00-23:00; Fr,Sa 11:00-24:00",
+    "phone": "510 017 119",
+    "takeaway": "yes",
+    "website": "http://www.makazwoda.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 5830142747,
+  "lat": 51.2472189,
+  "lon": 22.5634468,
+  "tags": {
+    "addr:city": "Lublin",
+    "addr:housenumber": "9",
+    "addr:postcode": "20-004",
+    "addr:street": "Gabriela Narutowicza",
+    "amenity": "restaurant",
+    "microbrewery": "yes",
+    "name": "Bar A Boo",
+    "opening_hours": "Mo 10:00 - 23:00",
+    "outdoor_seating": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 66293302,
+  "nodes": [
+    3686146025,
+    3686145827,
+    3686145428,
+    3686145327,
+    3686145826,
+    3686145727,
+    3686145430,
+    3686145431,
+    3686145728,
+    3686145229,
+    3686145432,
+    3686146025
+  ],
+  "tags": {
+    "addr:city": "Lublin",
+    "addr:housenumber": "15",
+    "addr:postcode": "20-112",
+    "addr:street": "Grodzka",
+    "building": "yes",
+    "building:levels": "3",
+    "craft": "brewery",
+    "roof:orientation": "across",
+    "roof:shape": "gabled"
+  }
+},
+{
+  "type": "way",
+  "id": 293368853,
+  "nodes": [
+    3537723619,
+    3537723179,
+    3537723490,
+    3537723610,
+    3537723710,
+    3537723619
+  ],
+  "tags": {
+    "building": "yes",
+    "craft": "brewery"
+  }
+},
+{
+  "type": "way",
+  "id": 293368854,
+  "nodes": [
+    3537722887,
+    3537723629,
+    3537723604,
+    3537723166,
+    3537723172,
+    3537723174,
+    3537723179,
+    3537723619,
+    3537723622,
+    3537722887
+  ],
+  "tags": {
+    "building": "yes",
+    "craft": "brewery"
+  }
+},
+{
+  "type": "way",
+  "id": 347470871,
+  "nodes": [
+    3537723160,
+    3537723170,
+    3537723598,
+    3537723175,
+    3537723163,
+    3537723158,
+    3537723157,
+    3537723147,
+    3537723149,
+    3537723160
+  ],
+  "tags": {
+    "addr:city": "Lublin",
+    "addr:housenumber": "106",
+    "addr:postcode": "20-422",
+    "addr:street": "Władysława Kunickiego",
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Browar Perła"
+  }
+},
+{
+  "type": "node",
+  "id": 3537723147,
+  "lat": 51.2243017,
+  "lon": 22.5757924
+},
+{
+  "type": "node",
+  "id": 3537723149,
+  "lat": 51.2243044,
+  "lon": 22.5758013
+},
+{
+  "type": "node",
+  "id": 3537723157,
+  "lat": 51.2243954,
+  "lon": 22.5757202
+},
+{
+  "type": "node",
+  "id": 3537723158,
+  "lat": 51.2243998,
+  "lon": 22.5757345
+},
+{
+  "type": "node",
+  "id": 3537723160,
+  "lat": 51.2244096,
+  "lon": 22.5761393
+},
+{
+  "type": "node",
+  "id": 3537723163,
+  "lat": 51.2244487,
+  "lon": 22.5756994
+},
+{
+  "type": "node",
+  "id": 3537723170,
+  "lat": 51.2245298,
+  "lon": 22.5765247
+},
+{
+  "type": "node",
+  "id": 3537723175,
+  "lat": 51.2245646,
+  "lon": 22.5760810
+},
+{
+  "type": "node",
+  "id": 3537723598,
+  "lat": 51.2246709,
+  "lon": 22.5764323
+},
+{
+  "type": "node",
+  "id": 3537723604,
+  "lat": 51.2247288,
+  "lon": 22.5770416
+},
+{
+  "type": "node",
+  "id": 3537723629,
+  "lat": 51.2248308,
+  "lon": 22.5769681
+},
+{
+  "type": "node",
+  "id": 3537722887,
+  "lat": 51.2249054,
+  "lon": 22.5772104
+},
+{
+  "type": "node",
+  "id": 3537723166,
+  "lat": 51.2244814,
+  "lon": 22.5772249
+},
+{
+  "type": "node",
+  "id": 3537723172,
+  "lat": 51.2245511,
+  "lon": 22.5774707
+},
+{
+  "type": "node",
+  "id": 3537723174,
+  "lat": 51.2245589,
+  "lon": 22.5774645
+},
+{
+  "type": "node",
+  "id": 3537723179,
+  "lat": 51.2246025,
+  "lon": 22.5774326
+},
+{
+  "type": "node",
+  "id": 3537723490,
+  "lat": 51.2246259,
+  "lon": 22.5775134
+},
+{
+  "type": "node",
+  "id": 3537723610,
+  "lat": 51.2247627,
+  "lon": 22.5779865
+},
+{
+  "type": "node",
+  "id": 3537723619,
+  "lat": 51.2248017,
+  "lon": 22.5772841
+},
+{
+  "type": "node",
+  "id": 3537723622,
+  "lat": 51.2248053,
+  "lon": 22.5772816
+},
+{
+  "type": "node",
+  "id": 3537723710,
+  "lat": 51.2249597,
+  "lon": 22.5778451
+},
+{
+  "type": "node",
+  "id": 3686145229,
+  "lat": 51.2492360,
+  "lon": 22.5696239
+},
+{
+  "type": "node",
+  "id": 3686145327,
+  "lat": 51.2491575,
+  "lon": 22.5696258
+},
+{
+  "type": "node",
+  "id": 3686145428,
+  "lat": 51.2491550,
+  "lon": 22.5696241
+},
+{
+  "type": "node",
+  "id": 3686145430,
+  "lat": 51.2492212,
+  "lon": 22.5696473
+},
+{
+  "type": "node",
+  "id": 3686145431,
+  "lat": 51.2492312,
+  "lon": 22.5696545
+},
+{
+  "type": "node",
+  "id": 3686145432,
+  "lat": 51.2492380,
+  "lon": 22.5696167
+},
+{
+  "type": "node",
+  "id": 3686145727,
+  "lat": 51.2492220,
+  "lon": 22.5696439
+},
+{
+  "type": "node",
+  "id": 3686145728,
+  "lat": 51.2492380,
+  "lon": 22.5696252
+},
+{
+  "type": "node",
+  "id": 3686145826,
+  "lat": 51.2491602,
+  "lon": 22.5696090
+},
+{
+  "type": "node",
+  "id": 3686145827,
+  "lat": 51.2492187,
+  "lon": 22.5693597
+},
+{
+  "type": "node",
+  "id": 3686146025,
+  "lat": 51.2492920,
+  "lon": 22.5694110
+}
+
+  ]
+}

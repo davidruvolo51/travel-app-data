@@ -1,0 +1,335 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T13:34:03Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 4070480298,
+  "lat": 59.1440194,
+  "lon": 5.2729781,
+  "tags": {
+    "craft": "brewery",
+    "name": "Skudenes Bryggeri",
+    "website": "http://skudenesbryggeri.no/"
+  }
+},
+{
+  "type": "node",
+  "id": 4121727389,
+  "lat": 58.9454828,
+  "lon": 5.7260539,
+  "tags": {
+    "craft": "brewery",
+    "name": "Salikatt bryggeri",
+    "website": "http://www.salikattbryggeri.no/"
+  }
+},
+{
+  "type": "node",
+  "id": 7149995492,
+  "lat": 58.7819821,
+  "lon": 5.7009483,
+  "tags": {
+    "addr:city": "Klepp Stasjon",
+    "addr:housenumber": "15",
+    "addr:postcode": "4353",
+    "addr:street": "Plogfabrikkvegen",
+    "craft": "brewery",
+    "name": "RYGR Brygghus",
+    "opening_hours": "Mo-Fr 08:00-16:00",
+    "phone": "+47913 34 170"
+  }
+},
+{
+  "type": "way",
+  "id": 41107655,
+  "nodes": [
+    501551946,
+    501551926,
+    501551947,
+    501551948,
+    501551949,
+    1091681146,
+    1091681189,
+    501551946
+  ],
+  "tags": {
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Lervig Aktiebryggeri",
+    "operator": "Lervig Aktiebryggeri",
+    "website": "https://www.lervig.no/",
+    "wikidata": "Q11983781",
+    "wikipedia": "no:Lervig Aktiebryggeri"
+  }
+},
+{
+  "type": "way",
+  "id": 482225150,
+  "nodes": [
+    2795600288,
+    4750687394,
+    4750687395,
+    4750687397,
+    4750687398,
+    4750687399,
+    4750687401,
+    4750687402,
+    6178256502,
+    4750687403,
+    6178256503,
+    4750687404,
+    4750687409,
+    4750687410,
+    4750687411,
+    4750687412,
+    4750687413,
+    6178256504,
+    4750687414,
+    4750687415,
+    4750687416,
+    4750687417,
+    4750687418,
+    4750687419,
+    4750687420,
+    4750687621,
+    4750687622,
+    4750687623,
+    2795600288
+  ],
+  "tags": {
+    "addr:city": "Tau",
+    "addr:housenumber": "8",
+    "addr:postcode": "4120",
+    "addr:street": "Bergtunvegen",
+    "amenity": "restaurant",
+    "amenity_1": "brewery",
+    "area": "yes",
+    "building": "yes",
+    "facebook": "https://www.facebook.com/lillandhotell",
+    "internet_access": "yes",
+    "microbrewery": "yes",
+    "name": "Lilland Bryggerihotell",
+    "phone": "+47 51 74 74 34",
+    "tourism": "hotel",
+    "website": "http://lillandhotell.no/"
+  }
+},
+{
+  "type": "node",
+  "id": 501551926,
+  "lat": 58.9458168,
+  "lon": 5.7462727
+},
+{
+  "type": "node",
+  "id": 501551946,
+  "lat": 58.9457463,
+  "lon": 5.7456662
+},
+{
+  "type": "node",
+  "id": 501551947,
+  "lat": 58.9458430,
+  "lon": 5.7464983
+},
+{
+  "type": "node",
+  "id": 501551948,
+  "lat": 58.9456703,
+  "lon": 5.7466190
+},
+{
+  "type": "node",
+  "id": 501551949,
+  "lat": 58.9455735,
+  "lon": 5.7457386
+},
+{
+  "type": "node",
+  "id": 1091681146,
+  "lat": 58.9455895,
+  "lon": 5.7457318
+},
+{
+  "type": "node",
+  "id": 1091681189,
+  "lat": 58.9456847,
+  "lon": 5.7456911
+},
+{
+  "type": "node",
+  "id": 2795600288,
+  "lat": 59.0660531,
+  "lon": 5.9140312
+},
+{
+  "type": "node",
+  "id": 4750687394,
+  "lat": 59.0660233,
+  "lon": 5.9140732
+},
+{
+  "type": "node",
+  "id": 4750687395,
+  "lat": 59.0660328,
+  "lon": 5.9140987
+},
+{
+  "type": "node",
+  "id": 4750687397,
+  "lat": 59.0659858,
+  "lon": 5.9141645
+},
+{
+  "type": "node",
+  "id": 4750687398,
+  "lat": 59.0660059,
+  "lon": 5.9142189
+},
+{
+  "type": "node",
+  "id": 4750687399,
+  "lat": 59.0660192,
+  "lon": 5.9142003
+},
+{
+  "type": "node",
+  "id": 4750687401,
+  "lat": 59.0660784,
+  "lon": 5.9143605
+},
+{
+  "type": "node",
+  "id": 4750687402,
+  "lat": 59.0660930,
+  "lon": 5.9143974
+},
+{
+  "type": "node",
+  "id": 4750687403,
+  "lat": 59.0661000,
+  "lon": 5.9144630
+},
+{
+  "type": "node",
+  "id": 4750687404,
+  "lat": 59.0661567,
+  "lon": 5.9146437
+},
+{
+  "type": "node",
+  "id": 4750687409,
+  "lat": 59.0662431,
+  "lon": 5.9145122
+},
+{
+  "type": "node",
+  "id": 4750687410,
+  "lat": 59.0662253,
+  "lon": 5.9144683
+},
+{
+  "type": "node",
+  "id": 4750687411,
+  "lat": 59.0662387,
+  "lon": 5.9144479
+},
+{
+  "type": "node",
+  "id": 4750687412,
+  "lat": 59.0662306,
+  "lon": 5.9144277
+},
+{
+  "type": "node",
+  "id": 4750687413,
+  "lat": 59.0661935,
+  "lon": 5.9143314
+},
+{
+  "type": "node",
+  "id": 4750687414,
+  "lat": 59.0661656,
+  "lon": 5.9143217
+},
+{
+  "type": "node",
+  "id": 4750687415,
+  "lat": 59.0661611,
+  "lon": 5.9143282
+},
+{
+  "type": "node",
+  "id": 4750687416,
+  "lat": 59.0661451,
+  "lon": 5.9142860
+},
+{
+  "type": "node",
+  "id": 4750687417,
+  "lat": 59.0661768,
+  "lon": 5.9142404
+},
+{
+  "type": "node",
+  "id": 4750687418,
+  "lat": 59.0661381,
+  "lon": 5.9141385
+},
+{
+  "type": "node",
+  "id": 4750687419,
+  "lat": 59.0661332,
+  "lon": 5.9141456
+},
+{
+  "type": "node",
+  "id": 4750687420,
+  "lat": 59.0661252,
+  "lon": 5.9141243
+},
+{
+  "type": "node",
+  "id": 4750687621,
+  "lat": 59.0661171,
+  "lon": 5.9141358
+},
+{
+  "type": "node",
+  "id": 4750687622,
+  "lat": 59.0660781,
+  "lon": 5.9140312
+},
+{
+  "type": "node",
+  "id": 4750687623,
+  "lat": 59.0660617,
+  "lon": 5.9140544
+},
+{
+  "type": "node",
+  "id": 6178256502,
+  "lat": 59.0660811,
+  "lon": 5.9144151
+},
+{
+  "type": "node",
+  "id": 6178256503,
+  "lat": 59.0660906,
+  "lon": 5.9144771
+},
+{
+  "type": "node",
+  "id": 6178256504,
+  "lat": 59.0661780,
+  "lon": 5.9143539
+}
+
+  ]
+}

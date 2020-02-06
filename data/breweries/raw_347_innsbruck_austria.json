@@ -1,0 +1,318 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T12:56:03Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 409501422,
+  "lat": 47.1108157,
+  "lon": 11.3058300,
+  "tags": {
+    "addr:city": "Neustift im Stubaital",
+    "addr:country": "AT",
+    "addr:housenumber": "15",
+    "addr:postcode": "6167",
+    "addr:street": "Dorf",
+    "amenity": "pub",
+    "microbrewery": "yes",
+    "name": "Dorfpub",
+    "website": "http://www.dorfpub.at/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1033677775,
+  "lat": 47.2543756,
+  "lon": 11.3882326,
+  "tags": {
+    "addr:city": "Innsbruck",
+    "addr:country": "AT",
+    "addr:housenumber": "11a",
+    "addr:postcode": "6020",
+    "addr:street": "Feldstraße",
+    "amenity": "pub",
+    "craft": "brewery",
+    "fax": "+43 512 937970",
+    "microbrewery": "yes",
+    "name": "Tiroler Bier",
+    "opening_hours": "Mo,We,Fr 14:00-18:00",
+    "operator": "Harald Baumgartner",
+    "phone": "+43 664 2346839",
+    "website": "https://www.tirolerbier.at/"
+  }
+},
+{
+  "type": "node",
+  "id": 1033677779,
+  "lat": 47.2603824,
+  "lon": 11.2565848,
+  "tags": {
+    "addr:city": "Unterperfuss",
+    "addr:country": "AT",
+    "addr:housenumber": "32",
+    "addr:postcode": "6178",
+    "addr:street": "Unterperfuss",
+    "amenity": "restaurant",
+    "brewery": "Branger Alm",
+    "cuisine": "regional",
+    "microbrewery": "yes",
+    "name": "Branger Alm",
+    "opening_hours": "Mo-Su, PH 11:00+",
+    "phone": "+43 5232 2209",
+    "website": "http://www.brangeralm.at"
+  }
+},
+{
+  "type": "node",
+  "id": 4730537764,
+  "lat": 47.3290426,
+  "lon": 11.1856614,
+  "tags": {
+    "addr:city": "Seefeld in Tirol",
+    "addr:housenumber": "30",
+    "addr:postcode": "6100",
+    "addr:street": "Klosterstraße",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "cuisine": "burger;regional",
+    "diet:meat": "yes",
+    "microbrewery": "yes",
+    "name": "Bräukeller & Grill",
+    "opening_hours": "Mo-Su,PH 12:00-21:30",
+    "phone": "+43 5212 2621",
+    "website": "https://www.klosterbraeu.com/de/kulinarik/braeukeller-grill/"
+  }
+},
+{
+  "type": "way",
+  "id": 67395762,
+  "nodes": [
+    1911022809,
+    813901642,
+    813901852,
+    813901276,
+    1911022809
+  ],
+  "tags": {
+    "building": "yes",
+    "craft": "brewery",
+    "email": "mail@brauerei-mittenwald.de",
+    "name": "Brauerei Mittenwald",
+    "phone": "+49 (0) 8823 1007/1008",
+    "website": "https://www.brauerei-mittenwald.de/"
+  }
+},
+{
+  "type": "way",
+  "id": 117880845,
+  "nodes": [
+    3276242529,
+    1326901848,
+    1326901177,
+    1326901439,
+    1326901775,
+    3276242532,
+    1326901978,
+    3276242529
+  ],
+  "tags": {
+    "addr:city": "Absam",
+    "addr:country": "AT",
+    "addr:housenumber": "17",
+    "addr:postcode": "6067",
+    "addr:street": "Karl Zanger-Straße",
+    "amenity": "restaurant",
+    "building": "yes",
+    "contact:website": "http://www.gasthofebner.at/",
+    "microbrewery": "yes",
+    "name": "Ebner",
+    "tourism": "guest_house"
+  }
+},
+{
+  "type": "way",
+  "id": 278509331,
+  "nodes": [
+    701240822,
+    701240806,
+    701240837,
+    1135578016,
+    701240790,
+    701240794,
+    701240798,
+    1193597395,
+    1193597375,
+    1135578023,
+    2828713301,
+    1235916883,
+    701240822
+  ],
+  "tags": {
+    "addr:city": "Innsbruck",
+    "addr:country": "AT",
+    "addr:housenumber": "53",
+    "addr:postcode": "6020",
+    "addr:street": "Maria-Theresien-Straße",
+    "amenity": "restaurant",
+    "building": "yes",
+    "contact:email": "office@theresienbraeu.com",
+    "contact:fax": "+435125875805",
+    "cuisine": "regional",
+    "fax": "+43 512 5875805",
+    "microbrewery": "yes",
+    "name": "Theresienbräu",
+    "opening_hours": "Mo-Th 11:00-23:00; Fr 11:00-01:00, Sa 11:00-02:00",
+    "operator": "Theresienbrauerei und Gaststätte GmbH",
+    "outdoor_seating": "yes",
+    "phone": "+43 512 587580",
+    "website": "https://www.theresienbraeu.com",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 701240790,
+  "lat": 47.2634460,
+  "lon": 11.3954839
+},
+{
+  "type": "node",
+  "id": 701240794,
+  "lat": 47.2634359,
+  "lon": 11.3953455
+},
+{
+  "type": "node",
+  "id": 701240798,
+  "lat": 47.2634111,
+  "lon": 11.3953499
+},
+{
+  "type": "node",
+  "id": 701240806,
+  "lat": 47.2635562,
+  "lon": 11.3953159
+},
+{
+  "type": "node",
+  "id": 701240822,
+  "lat": 47.2635586,
+  "lon": 11.3951293
+},
+{
+  "type": "node",
+  "id": 701240837,
+  "lat": 47.2635547,
+  "lon": 11.3954301
+},
+{
+  "type": "node",
+  "id": 1135578016,
+  "lat": 47.2635544,
+  "lon": 11.3954567
+},
+{
+  "type": "node",
+  "id": 1135578023,
+  "lat": 47.2633919,
+  "lon": 11.3949044
+},
+{
+  "type": "node",
+  "id": 1193597375,
+  "lat": 47.2633890,
+  "lon": 11.3951245
+},
+{
+  "type": "node",
+  "id": 1193597395,
+  "lat": 47.2633954,
+  "lon": 11.3951247
+},
+{
+  "type": "node",
+  "id": 1235916883,
+  "lat": 47.2635614,
+  "lon": 11.3949092
+},
+{
+  "type": "node",
+  "id": 2828713301,
+  "lat": 47.2634717,
+  "lon": 11.3949067
+},
+{
+  "type": "node",
+  "id": 1326901177,
+  "lat": 47.2938584,
+  "lon": 11.5050372
+},
+{
+  "type": "node",
+  "id": 1326901439,
+  "lat": 47.2939019,
+  "lon": 11.5051874
+},
+{
+  "type": "node",
+  "id": 1326901848,
+  "lat": 47.2938034,
+  "lon": 11.5047394
+},
+{
+  "type": "node",
+  "id": 1326901978,
+  "lat": 47.2939104,
+  "lon": 11.5048319
+},
+{
+  "type": "node",
+  "id": 3276242529,
+  "lat": 47.2938750,
+  "lon": 11.5046947
+},
+{
+  "type": "node",
+  "id": 3276242532,
+  "lat": 47.2940005,
+  "lon": 11.5047814
+},
+{
+  "type": "node",
+  "id": 1326901775,
+  "lat": 47.2940782,
+  "lon": 11.5050806
+},
+{
+  "type": "node",
+  "id": 813901276,
+  "lat": 47.4363479,
+  "lon": 11.2606499
+},
+{
+  "type": "node",
+  "id": 813901642,
+  "lat": 47.4366216,
+  "lon": 11.2604344
+},
+{
+  "type": "node",
+  "id": 813901852,
+  "lat": 47.4365414,
+  "lon": 11.2607616
+},
+{
+  "type": "node",
+  "id": 1911022809,
+  "lat": 47.4364305,
+  "lon": 11.2603166
+}
+
+  ]
+}

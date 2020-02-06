@@ -1,0 +1,139 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-05T20:27:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 248102331,
+  "lat": 55.8509199,
+  "lon": -4.2338811,
+  "tags": {
+    "addr:housename": "Templeton Building",
+    "addr:postcode": "G40 1AW",
+    "amenity": "pub",
+    "internet_access": "wlan",
+    "microbrewery": "yes",
+    "name": "WEST Beer",
+    "website": "https://www.westbeer.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 371094435,
+  "lat": 55.8232301,
+  "lon": -4.2586922,
+  "tags": {
+    "amenity": "pub",
+    "microbrewery": "yes",
+    "name": "The Clockwork Bar"
+  }
+},
+{
+  "type": "node",
+  "id": 4813680278,
+  "lat": 55.8622604,
+  "lon": -4.2551493,
+  "tags": {
+    "addr:city": "Glasgow",
+    "addr:housenumber": "92",
+    "addr:postcode": "G2 1PJ",
+    "addr:street": "West George Street",
+    "amenity": "pub",
+    "contact:website": "http://www.shillingbrewingcompany.co.uk/",
+    "craft": "brewery",
+    "name": "Shilling Brewing Co"
+  }
+},
+{
+  "type": "way",
+  "id": 302586257,
+  "nodes": [
+    3068342725,
+    3068342726,
+    3068342727,
+    3068342728,
+    3812629479,
+    3068342729,
+    3068342730,
+    1762436570,
+    3812629480,
+    3068342725
+  ],
+  "tags": {
+    "addr:city": "Glasgow",
+    "addr:housenumber": "85",
+    "addr:postcode": "G4 0UP",
+    "addr:street": "Drygate",
+    "building": "yes",
+    "building:levels": "2",
+    "craft": "brewery",
+    "cuisine": "regional",
+    "email": "ali@drygate.com",
+    "name": "Drygate",
+    "opening_hours": "Mo-Su 11:00-00:00",
+    "phone": "+44 141 2128815",
+    "website": "https://www.drygate.com"
+  }
+},
+{
+  "type": "node",
+  "id": 1762436570,
+  "lat": 55.8601315,
+  "lon": -4.2334530
+},
+{
+  "type": "node",
+  "id": 3068342725,
+  "lat": 55.8601722,
+  "lon": -4.2334552
+},
+{
+  "type": "node",
+  "id": 3068342726,
+  "lat": 55.8602606,
+  "lon": -4.2333763
+},
+{
+  "type": "node",
+  "id": 3068342727,
+  "lat": 55.8601913,
+  "lon": -4.2331081
+},
+{
+  "type": "node",
+  "id": 3068342728,
+  "lat": 55.8601010,
+  "lon": -4.2331832
+},
+{
+  "type": "node",
+  "id": 3068342729,
+  "lat": 55.8600215,
+  "lon": -4.2332606
+},
+{
+  "type": "node",
+  "id": 3068342730,
+  "lat": 55.8600178,
+  "lon": -4.2334468
+},
+{
+  "type": "node",
+  "id": 3812629479,
+  "lat": 55.8601251,
+  "lon": -4.2332623
+},
+{
+  "type": "node",
+  "id": 3812629480,
+  "lat": 55.8601586,
+  "lon": -4.2334545
+}
+
+  ]
+}

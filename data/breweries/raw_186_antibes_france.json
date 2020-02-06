@@ -1,0 +1,294 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T08:48:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 321647302,
+  "lat": 43.7338202,
+  "lon": 7.4221485,
+  "tags": {
+    "addr:country": "MC",
+    "amenity": "restaurant",
+    "capacity": "250",
+    "cuisine": "pizza;burger",
+    "internet_access": "wlan",
+    "internet_access:fee": "yes",
+    "microbrewery": "yes",
+    "name": "Brasserie de Monaco",
+    "phone": "+377 97 98 51 20",
+    "url": "http://www.bar-brasseriedemonaco.com"
+  }
+},
+{
+  "type": "node",
+  "id": 2779377547,
+  "lat": 43.7015937,
+  "lon": 7.2777823,
+  "tags": {
+    "addr:city": "Nice",
+    "addr:housenumber": "1",
+    "addr:postcode": "06000",
+    "addr:street": "Rue Defly",
+    "craft": "brewery",
+    "name": "Art Café"
+  }
+},
+{
+  "type": "node",
+  "id": 3667405187,
+  "lat": 43.5517919,
+  "lon": 7.0169835,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "description": "Brasserie;Pizzeria",
+    "microbrewery": "yes",
+    "name": "La Californie"
+  }
+},
+{
+  "type": "node",
+  "id": 4009780894,
+  "lat": 43.7094209,
+  "lon": 7.2641110,
+  "tags": {
+    "addr:city": "Nice",
+    "addr:housenumber": "14",
+    "addr:postcode": "06000",
+    "addr:street": "Avenue Villermont",
+    "craft": "brewery",
+    "name": "La Brasserie Artisanale de Nice",
+    "website": "https://brasserie-nice.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4361140463,
+  "lat": 43.5681186,
+  "lon": 7.0730128,
+  "tags": {
+    "amenity": "bar",
+    "craft": "brewery",
+    "name": "Le Fontenoy",
+    "outdoor_seating": "yes",
+    "shop": "tobacco"
+  }
+},
+{
+  "type": "node",
+  "id": 4717138328,
+  "lat": 43.6958381,
+  "lon": 7.2718017,
+  "tags": {
+    "addr:city": "Nice",
+    "addr:postcode": "06000",
+    "addr:street": "Rue de l'Hôtel de Ville",
+    "craft": "brewery",
+    "name": "Brasserie Bistrot de la Mairie"
+  }
+},
+{
+  "type": "node",
+  "id": 5043098988,
+  "lat": 43.7002311,
+  "lon": 7.2621289,
+  "tags": {
+    "craft": "brewery",
+    "name": "Le Mozart"
+  }
+},
+{
+  "type": "node",
+  "id": 5421042657,
+  "lat": 43.5493254,
+  "lon": 6.9799523,
+  "tags": {
+    "craft": "brewery",
+    "name": "Le M.A.ODY"
+  }
+},
+{
+  "type": "node",
+  "id": 6430502395,
+  "lat": 43.6607204,
+  "lon": 7.1758318,
+  "tags": {
+    "craft": "brewery",
+    "name": "N7 Café"
+  }
+},
+{
+  "type": "node",
+  "id": 6623392110,
+  "lat": 43.6080528,
+  "lon": 7.0725794,
+  "tags": {
+    "addr:city": "Antibes",
+    "addr:housenumber": "165",
+    "addr:postcode": "06600;06160",
+    "addr:street": "Rue des Cistes",
+    "craft": "brewery",
+    "name": "La Crafterie d'Azur",
+    "produce": "beer"
+  }
+},
+{
+  "type": "way",
+  "id": 67150299,
+  "nodes": [
+    811071019,
+    811078528,
+    811072338,
+    811074124,
+    811073210,
+    811078684,
+    811071019
+  ],
+  "tags": {
+    "building": "yes",
+    "craft": "brewery",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+  }
+},
+{
+  "type": "way",
+  "id": 130079233,
+  "nodes": [
+    1433800163,
+    1433800172,
+    1433800146,
+    1433800154,
+    1433800118,
+    1433800025,
+    1433800059,
+    1433800080,
+    1433800112,
+    1433800166,
+    1433800165,
+    1433800138,
+    1433800163
+  ],
+  "tags": {
+    "amenity": "bar",
+    "building": "yes",
+    "microbrewery": "yes",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"
+  }
+},
+{
+  "type": "node",
+  "id": 811071019,
+  "lat": 43.5698528,
+  "lon": 7.0055046
+},
+{
+  "type": "node",
+  "id": 811072338,
+  "lat": 43.5697257,
+  "lon": 7.0054370
+},
+{
+  "type": "node",
+  "id": 811073210,
+  "lat": 43.5697044,
+  "lon": 7.0055005
+},
+{
+  "type": "node",
+  "id": 811074124,
+  "lat": 43.5697184,
+  "lon": 7.0054583
+},
+{
+  "type": "node",
+  "id": 811078528,
+  "lat": 43.5697305,
+  "lon": 7.0054229
+},
+{
+  "type": "node",
+  "id": 811078684,
+  "lat": 43.5698253,
+  "lon": 7.0055826
+},
+{
+  "type": "node",
+  "id": 1433800025,
+  "lat": 43.6816236,
+  "lon": 7.0998176
+},
+{
+  "type": "node",
+  "id": 1433800059,
+  "lat": 43.6816436,
+  "lon": 7.0998746
+},
+{
+  "type": "node",
+  "id": 1433800080,
+  "lat": 43.6816526,
+  "lon": 7.0998686
+},
+{
+  "type": "node",
+  "id": 1433800112,
+  "lat": 43.6816766,
+  "lon": 7.0999376
+},
+{
+  "type": "node",
+  "id": 1433800118,
+  "lat": 43.6816806,
+  "lon": 7.0997806
+},
+{
+  "type": "node",
+  "id": 1433800138,
+  "lat": 43.6816936,
+  "lon": 7.0998846
+},
+{
+  "type": "node",
+  "id": 1433800146,
+  "lat": 43.6816966,
+  "lon": 7.0998376
+},
+{
+  "type": "node",
+  "id": 1433800154,
+  "lat": 43.6816996,
+  "lon": 7.0998356
+},
+{
+  "type": "node",
+  "id": 1433800163,
+  "lat": 43.6817036,
+  "lon": 7.0998776
+},
+{
+  "type": "node",
+  "id": 1433800165,
+  "lat": 43.6817046,
+  "lon": 7.0999136
+},
+{
+  "type": "node",
+  "id": 1433800166,
+  "lat": 43.6817056,
+  "lon": 7.0999176
+},
+{
+  "type": "node",
+  "id": 1433800172,
+  "lat": 43.6817096,
+  "lon": 7.0998736
+}
+
+  ]
+}

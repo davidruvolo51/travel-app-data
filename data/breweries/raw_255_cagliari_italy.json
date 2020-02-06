@@ -1,0 +1,59 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T10:42:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 601813749,
+  "nodes": [
+    5718546037,
+    5718546038,
+    5718546050,
+    5718546040,
+    5718546037
+  ],
+  "tags": {
+    "addr:city": "Maracalagonis",
+    "addr:postcode": "09040",
+    "building": "brewery",
+    "craft": "brewery",
+    "email": "info@barley.it",
+    "fixme": "resurvey",
+    "name": "Barley",
+    "operator": "Barley Brewery S.r.l.",
+    "phone": "+39 070 789496",
+    "website": "http://www.barley.it"
+  }
+},
+{
+  "type": "node",
+  "id": 5718546040,
+  "lat": 39.2657928,
+  "lon": 9.2370579
+},
+{
+  "type": "node",
+  "id": 5718546050,
+  "lat": 39.2658793,
+  "lon": 9.2372583
+},
+{
+  "type": "node",
+  "id": 5718546037,
+  "lat": 39.2659593,
+  "lon": 9.2369380
+},
+{
+  "type": "node",
+  "id": 5718546038,
+  "lat": 39.2660459,
+  "lon": 9.2371384
+}
+
+  ]
+}

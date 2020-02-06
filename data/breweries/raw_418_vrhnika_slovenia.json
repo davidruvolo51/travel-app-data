@@ -1,0 +1,392 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T14:41:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 53407830,
+  "lat": 46.0646646,
+  "lon": 14.5435475,
+  "tags": {
+    "amenity": "restaurant",
+    "brewery": "Kratochwill",
+    "microbrewery": "yes",
+    "name": "Pivnica Kratochwill",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6538096173,
+  "lat": 46.0965017,
+  "lon": 14.5271003,
+  "tags": {
+    "addr:city": "Ljubljana - Črnuče",
+    "addr:housenumber": "25",
+    "addr:postcode": "1231",
+    "addr:street": "Cesta 24. junija",
+    "amenity": "pub",
+    "craft": "brewery",
+    "microbrewery": "yes",
+    "name": "Loo-blah-nah",
+    "website": "https://www.looblahnah.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 6745807258,
+  "lat": 46.0020570,
+  "lon": 14.5520761,
+  "tags": {
+    "addr:city": "Škofljica",
+    "addr:housenumber": "52",
+    "addr:postcode": "1291",
+    "addr:street": "Nebčeva ulica",
+    "craft": "brewery",
+    "microbrewery": "yes",
+    "name": "Pivovarna Rooster",
+    "name:en": "Rooster Brewery",
+    "product": "beer",
+    "website": "https://rooster.si/"
+  }
+},
+{
+  "type": "way",
+  "id": 153057698,
+  "nodes": [
+    1658054944,
+    1658054902,
+    1658054888,
+    1658054959,
+    1658055031,
+    1658055018,
+    1658055081,
+    1658054937,
+    1658054944
+  ],
+  "tags": {
+    "addr:housenumber": "2",
+    "addr:street": "Pivovarniška ulica",
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Pivovarna Union"
+  }
+},
+{
+  "type": "way",
+  "id": 165810423,
+  "nodes": [
+    1773378202,
+    1773378196,
+    1773378188,
+    1773378199,
+    1773378202
+  ],
+  "tags": {
+    "amenity": "pub",
+    "microbrewery": "yes",
+    "name": "masažni salon Belin & Street Pub"
+  }
+},
+{
+  "type": "way",
+  "id": 280206928,
+  "nodes": [
+    2843588377,
+    2843588389,
+    2843588390,
+    2843588393,
+    2843588395,
+    2843588392,
+    2843588394,
+    2843588384,
+    2843588382,
+    2843588379,
+    2843588378,
+    2843588369,
+    2843588368,
+    2843588364,
+    2843588363,
+    2843588366,
+    2843588367,
+    2843588380,
+    2843588377
+  ],
+  "tags": {
+    "addr:city": "Domžale",
+    "addr:housenumber": "17",
+    "addr:postcode": "1230",
+    "addr:street": "Perkova ulica",
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "pizza;regional",
+    "email": "info@pivnica-adamravbar.si",
+    "fax": "+386 1 7295506",
+    "microbrewery": "yes",
+    "name": "Pivovarna in pivnica Adam Ravbar",
+    "opening_hours": "Mo-Th 09:00-21:00, Fr 09:00-22:00, Sa 11:00-22:00; Su,PH 09:00-17:00",
+    "operator": "Pivnica Adam Ravbar d.o.o.",
+    "outdoor_seating": "yes",
+    "phone": "+386 1 7295505",
+    "ref:vatin": "SI25917854",
+    "website": "http://www.pivnica-adamravbar.si/"
+  }
+},
+{
+  "type": "way",
+  "id": 297343925,
+  "nodes": [
+    3012174464,
+    3012174465,
+    3012174466,
+    3012174467,
+    3012174468,
+    3012174469,
+    3012174470,
+    3012174471,
+    3012174464
+  ],
+  "tags": {
+    "building": "yes",
+    "craft": "brewery",
+    "name": "H",
+    "name:en": "Human Fish",
+    "name:sl": "Human Fish"
+  }
+},
+{
+  "type": "node",
+  "id": 3012174464,
+  "lat": 45.9607431,
+  "lon": 14.2945303
+},
+{
+  "type": "node",
+  "id": 3012174465,
+  "lat": 45.9606549,
+  "lon": 14.2947294
+},
+{
+  "type": "node",
+  "id": 3012174466,
+  "lat": 45.9608534,
+  "lon": 14.2949115
+},
+{
+  "type": "node",
+  "id": 3012174467,
+  "lat": 45.9609471,
+  "lon": 14.2947000
+},
+{
+  "type": "node",
+  "id": 3012174468,
+  "lat": 45.9608844,
+  "lon": 14.2946425
+},
+{
+  "type": "node",
+  "id": 3012174469,
+  "lat": 45.9608996,
+  "lon": 14.2946081
+},
+{
+  "type": "node",
+  "id": 3012174470,
+  "lat": 45.9608273,
+  "lon": 14.2945419
+},
+{
+  "type": "node",
+  "id": 3012174471,
+  "lat": 45.9608066,
+  "lon": 14.2945886
+},
+{
+  "type": "node",
+  "id": 1773378188,
+  "lat": 45.9502597,
+  "lon": 14.6576924
+},
+{
+  "type": "node",
+  "id": 1773378196,
+  "lat": 45.9503936,
+  "lon": 14.6573486
+},
+{
+  "type": "node",
+  "id": 1773378199,
+  "lat": 45.9503821,
+  "lon": 14.6577911
+},
+{
+  "type": "node",
+  "id": 1773378202,
+  "lat": 45.9505161,
+  "lon": 14.6574473
+},
+{
+  "type": "node",
+  "id": 1658054888,
+  "lat": 46.0596322,
+  "lon": 14.5004350
+},
+{
+  "type": "node",
+  "id": 1658054902,
+  "lat": 46.0595823,
+  "lon": 14.5004884
+},
+{
+  "type": "node",
+  "id": 1658054937,
+  "lat": 46.0595362,
+  "lon": 14.5010103
+},
+{
+  "type": "node",
+  "id": 1658054944,
+  "lat": 46.0593792,
+  "lon": 14.5007059
+},
+{
+  "type": "node",
+  "id": 1658054959,
+  "lat": 46.0595667,
+  "lon": 14.5003080
+},
+{
+  "type": "node",
+  "id": 1658055018,
+  "lat": 46.0598228,
+  "lon": 14.5000340
+},
+{
+  "type": "node",
+  "id": 1658055031,
+  "lat": 46.0596526,
+  "lon": 14.5002161
+},
+{
+  "type": "node",
+  "id": 1658055081,
+  "lat": 46.0600452,
+  "lon": 14.5004652
+},
+{
+  "type": "node",
+  "id": 2843588363,
+  "lat": 46.1489472,
+  "lon": 14.5933935
+},
+{
+  "type": "node",
+  "id": 2843588364,
+  "lat": 46.1489522,
+  "lon": 14.5932681
+},
+{
+  "type": "node",
+  "id": 2843588366,
+  "lat": 46.1489939,
+  "lon": 14.5933994
+},
+{
+  "type": "node",
+  "id": 2843588367,
+  "lat": 46.1489944,
+  "lon": 14.5934131
+},
+{
+  "type": "node",
+  "id": 2843588368,
+  "lat": 46.1490011,
+  "lon": 14.5932738
+},
+{
+  "type": "node",
+  "id": 2843588369,
+  "lat": 46.1490021,
+  "lon": 14.5932536
+},
+{
+  "type": "node",
+  "id": 2843588377,
+  "lat": 46.1490521,
+  "lon": 14.5937135
+},
+{
+  "type": "node",
+  "id": 2843588378,
+  "lat": 46.1490590,
+  "lon": 14.5932608
+},
+{
+  "type": "node",
+  "id": 2843588379,
+  "lat": 46.1490610,
+  "lon": 14.5932104
+},
+{
+  "type": "node",
+  "id": 2843588380,
+  "lat": 46.1490708,
+  "lon": 14.5934251
+},
+{
+  "type": "node",
+  "id": 2843588382,
+  "lat": 46.1490880,
+  "lon": 14.5932090
+},
+{
+  "type": "node",
+  "id": 2843588384,
+  "lat": 46.1490890,
+  "lon": 14.5931873
+},
+{
+  "type": "node",
+  "id": 2843588389,
+  "lat": 46.1491469,
+  "lon": 14.5937235
+},
+{
+  "type": "node",
+  "id": 2843588390,
+  "lat": 46.1491509,
+  "lon": 14.5936572
+},
+{
+  "type": "node",
+  "id": 2843588392,
+  "lat": 46.1491669,
+  "lon": 14.5933012
+},
+{
+  "type": "node",
+  "id": 2843588393,
+  "lat": 46.1491689,
+  "lon": 14.5936558
+},
+{
+  "type": "node",
+  "id": 2843588394,
+  "lat": 46.1491719,
+  "lon": 14.5931989
+},
+{
+  "type": "node",
+  "id": 2843588395,
+  "lat": 46.1491829,
+  "lon": 14.5933026
+}
+
+  ]
+}

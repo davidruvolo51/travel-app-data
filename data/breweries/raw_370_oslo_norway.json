@@ -1,0 +1,396 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T13:33:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 311166353,
+  "lat": 59.9242717,
+  "lon": 10.7241227,
+  "tags": {
+    "amenity": "pub",
+    "microbrewery": "yes",
+    "name": "Oslo Mikrobryggeri",
+    "opening_hours": "Su-Th 15:00-01:00; Fr 15:00-02:30; Sa 13:00-02:30",
+    "website": "http://www.mikrobryggeriet.no/index.php"
+  }
+},
+{
+  "type": "node",
+  "id": 355320757,
+  "lat": 59.9500590,
+  "lon": 10.7645120,
+  "tags": {
+    "addr:city": "Oslo",
+    "addr:housenumber": "30A",
+    "addr:postcode": "0484",
+    "addr:street": "Nydalsveien",
+    "amenity": "restaurant",
+    "microbrewery": "yes",
+    "name": "Nydalen Bryggeri og Spiseri",
+    "phone": "+47 22 23 94 40",
+    "smoking": "outside",
+    "source": "Homepage",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.nydalenbryggeri.no/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 942521179,
+  "lat": 59.9183680,
+  "lon": 10.7602100,
+  "tags": {
+    "addr:housenumber": "2",
+    "addr:street": "Trondheimsveien",
+    "amenity": "pub",
+    "email": "schouskjelleren@gmail.com",
+    "microbrewery": "yes",
+    "name": "Schouskjelleren Mikrobryggeri",
+    "opening_hours": "Mo-Tu 16:00-01:00; We-Th 16:00-02:00; Fr 15:00-03:30; Sa 16:00-03:30; Su 16:00-00:00",
+    "website": "http://schouskjelleren.no/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2667403841,
+  "lat": 59.9134993,
+  "lon": 10.7348069,
+  "tags": {
+    "addr:housename": "Gastropub",
+    "addr:housenumber": "20",
+    "addr:postcode": "0161",
+    "addr:street": "Stortingsgata",
+    "amenity": "pub",
+    "brewery": "Beavertown Bloody 'Ell;To Øl Wit or Witout;Rådanäs California Common;Amundsen DePeach Mode;BBP - Delta IPA;Amundsen Stor Raudur",
+    "internet_access": "yes",
+    "microbrewery": "yes",
+    "name": "Amundsen Bryggeri og Spiseri",
+    "note": "Entry from Roal Amundsensgate",
+    "website": "https://www.amundsenbryggeri.no/"
+  }
+},
+{
+  "type": "node",
+  "id": 2949645533,
+  "lat": 59.9172003,
+  "lon": 10.7534487,
+  "tags": {
+    "addr:city": "Oslo",
+    "addr:housenumber": "32",
+    "addr:postcode": "0183",
+    "addr:street": "Torggata",
+    "amenity": "bar",
+    "microbrewery": "yes",
+    "name": "Crowbar & Bryggeri",
+    "opening_hours": "Mo-Su 15:00-03:00, Sa 13:00-03:00",
+    "outdoor_seating": "yes",
+    "phone": "+47 213 86 757",
+    "website": "https://www.crowbryggeri.com"
+  }
+},
+{
+  "type": "node",
+  "id": 3828386263,
+  "lat": 59.8985120,
+  "lon": 10.2700583,
+  "tags": {
+    "craft": "brewery",
+    "name": "Låven mikrobryggeri"
+  }
+},
+{
+  "type": "node",
+  "id": 3828856358,
+  "lat": 59.9193872,
+  "lon": 10.7306558,
+  "tags": {
+    "addr:city": "Oslo",
+    "addr:housenumber": "17",
+    "addr:postcode": "0167",
+    "addr:street": "Wergelandsveien",
+    "craft": "brewery",
+    "name": "Dronebrygg",
+    "operator": "Dronebrygg"
+  }
+},
+{
+  "type": "node",
+  "id": 3828856359,
+  "lat": 59.8261471,
+  "lon": 10.4793838,
+  "tags": {
+    "addr:city": "Vettre",
+    "addr:housenumber": "20",
+    "addr:postcode": "1392",
+    "addr:street": "L. P. Wettres Vei",
+    "craft": "brewery",
+    "name": "Wettre Bryggeri",
+    "operator": "Wettre Bryggeri",
+    "website": "http://www.wettrebryggeri.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 3844929512,
+  "lat": 60.1427833,
+  "lon": 11.1692973,
+  "tags": {
+    "craft": "brewery",
+    "name": "Sundbytunet",
+    "operator": "Sundbytunet",
+    "website": "https://www.sundbytunet.no/"
+  }
+},
+{
+  "type": "node",
+  "id": 3973462652,
+  "lat": 59.6760599,
+  "lon": 11.0413940,
+  "tags": {
+    "craft": "brewery",
+    "name": "MikroMeyer",
+    "website": "http://www.mikromeyer.no/"
+  }
+},
+{
+  "type": "node",
+  "id": 3984850616,
+  "lat": 59.9463560,
+  "lon": 10.8754651,
+  "tags": {
+    "craft": "brewery",
+    "name": "St. Hallvards Bryggeri",
+    "website": "http://www.sthallvards.no/"
+  }
+},
+{
+  "type": "node",
+  "id": 4004537184,
+  "lat": 59.8953434,
+  "lon": 11.1886947,
+  "tags": {
+    "alt_name": "Ale by Alex",
+    "craft": "brewery",
+    "name": "Fet Hjemmebryggeri"
+  }
+},
+{
+  "type": "node",
+  "id": 4050684835,
+  "lat": 59.9248882,
+  "lon": 10.7624362,
+  "tags": {
+    "craft": "brewery",
+    "name": "Günerløkka Brygghus",
+    "web": "http://brygghus.no/"
+  }
+},
+{
+  "type": "node",
+  "id": 4472271068,
+  "lat": 60.0344979,
+  "lon": 11.2337393,
+  "tags": {
+    "addr:city": "Sørum",
+    "addr:housenumber": "23",
+    "addr:postcode": "1923",
+    "addr:street": "Norumvegen",
+    "craft": "brewery",
+    "name": "Norumbryggeriet"
+  }
+},
+{
+  "type": "node",
+  "id": 6216331185,
+  "lat": 59.9211501,
+  "lon": 10.7588191,
+  "tags": {
+    "craft": "brewery",
+    "name": "Ølakademiet",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 96343522,
+  "nodes": [
+    1116582589,
+    1116581414,
+    1116581930,
+    1116582449,
+    1443471649,
+    1116582589
+  ],
+  "tags": {
+    "addr:city": "Drammen",
+    "addr:housenumber": "6d",
+    "addr:postcode": "3012",
+    "addr:street": "Jacob Borchs gate",
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Haandbryggeriet",
+    "website": "http://www.haandbryggeriet.net"
+  }
+},
+{
+  "type": "way",
+  "id": 112292885,
+  "nodes": [
+    1276802935,
+    1276802875,
+    1276803127,
+    1276803021,
+    1276802935
+  ],
+  "tags": {
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Little Brother Brewery",
+    "website": "http://littlebrothercraftbrewery.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 113512370,
+  "nodes": [
+    6306560103,
+    1286853755,
+    1286854048,
+    1286853886,
+    1286853921,
+    5169532540,
+    1286853794,
+    6306560101,
+    6306560102,
+    6306560103
+  ],
+  "tags": {
+    "addr:city": "Oslo",
+    "addr:housenumber": "23A",
+    "addr:postcode": "0459",
+    "addr:street": "Sagveien",
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Sagene Bryggeri",
+    "website": "http://www.sagenebryggeri.com"
+  }
+},
+{
+  "type": "node",
+  "id": 1116581414,
+  "lat": 59.7424102,
+  "lon": 10.2316311
+},
+{
+  "type": "node",
+  "id": 1116581930,
+  "lat": 59.7421698,
+  "lon": 10.2319306
+},
+{
+  "type": "node",
+  "id": 1116582449,
+  "lat": 59.7419194,
+  "lon": 10.2311390
+},
+{
+  "type": "node",
+  "id": 1116582589,
+  "lat": 59.7421598,
+  "lon": 10.2308395
+},
+{
+  "type": "node",
+  "id": 1443471649,
+  "lat": 59.7420933,
+  "lon": 10.2309224
+},
+{
+  "type": "node",
+  "id": 1276802875,
+  "lat": 59.9193191,
+  "lon": 10.7448402
+},
+{
+  "type": "node",
+  "id": 1276802935,
+  "lat": 59.9194189,
+  "lon": 10.7450494
+},
+{
+  "type": "node",
+  "id": 1276803021,
+  "lat": 59.9194783,
+  "lon": 10.7449344
+},
+{
+  "type": "node",
+  "id": 1276803127,
+  "lat": 59.9193790,
+  "lon": 10.7447210
+},
+{
+  "type": "node",
+  "id": 1286853755,
+  "lat": 59.9310586,
+  "lon": 10.7565449
+},
+{
+  "type": "node",
+  "id": 1286853794,
+  "lat": 59.9310617,
+  "lon": 10.7563064
+},
+{
+  "type": "node",
+  "id": 1286853886,
+  "lat": 59.9309466,
+  "lon": 10.7564092
+},
+{
+  "type": "node",
+  "id": 1286853921,
+  "lat": 59.9309761,
+  "lon": 10.7562017
+},
+{
+  "type": "node",
+  "id": 1286854048,
+  "lat": 59.9309541,
+  "lon": 10.7564883
+},
+{
+  "type": "node",
+  "id": 5169532540,
+  "lat": 59.9310692,
+  "lon": 10.7562517
+},
+{
+  "type": "node",
+  "id": 6306560101,
+  "lat": 59.9310811,
+  "lon": 10.7563184
+},
+{
+  "type": "node",
+  "id": 6306560102,
+  "lat": 59.9310882,
+  "lon": 10.7563223
+},
+{
+  "type": "node",
+  "id": 6306560103,
+  "lat": 59.9310588,
+  "lon": 10.7565421
+}
+
+  ]
+}

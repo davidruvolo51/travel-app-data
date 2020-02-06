@@ -1,0 +1,451 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T12:22:03Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 122337399,
+  "lat": 47.5593065,
+  "lon": 7.5932236,
+  "tags": {
+    "addr:city": "Basel",
+    "addr:housenumber": "45",
+    "addr:postcode": "4058",
+    "addr:street": "Rheingasse",
+    "amenity": "restaurant",
+    "craft": "brewery",
+    "name": "Brauerei Fischerstube",
+    "phone": "+41 61 692 9495",
+    "website": "http://uelibier.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 252661997,
+  "lat": 47.6313742,
+  "lon": 7.6930863,
+  "tags": {
+    "contact:phone": "+49 7621 51654",
+    "contact:website": "http://www.hausbraeu-muelhaupt.de/",
+    "craft": "brewery",
+    "name": "Hausbräu Mülhaupt",
+    "opening_hours": "Fr 14:30-18:30; Sa 09:00-13:00; PH off",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 740490382,
+  "lat": 47.5405891,
+  "lon": 7.5924078,
+  "tags": {
+    "amenity": "pub",
+    "craft": "brewery",
+    "name": "Unser Bier Braustube",
+    "website": "https://www.unser-bier.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 1801292048,
+  "lat": 47.4911717,
+  "lon": 7.9965941,
+  "tags": {
+    "amenity": "pub",
+    "brewery": "Thiersteiner Bräu",
+    "email": "doris@tiersteiner.ch",
+    "internet_access": "no",
+    "microbrewery": "yes",
+    "name": "Thiersteiner Bräu Stäuble",
+    "opening_hours": "Fr 16:00-22:00",
+    "operator": "Doris und Hansjörg Stäuble",
+    "phone": "+41 62 871 05 70",
+    "smoking": "no",
+    "website": "http://www.tiersteiner.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 4690227192,
+  "lat": 47.5970835,
+  "lon": 7.5530803,
+  "tags": {
+    "contact:website": "http://www.saint-louis.biz/",
+    "craft": "brewery",
+    "name": "Brasserie de Saint-Louis",
+    "shop": "alcohol"
+  }
+},
+{
+  "type": "node",
+  "id": 4690227193,
+  "lat": 47.7140254,
+  "lon": 7.4065407,
+  "tags": {
+    "contact:website": "http://brasseriegsundgo.com/",
+    "craft": "brewery",
+    "name": "Microbrasserie G'Sundgo"
+  }
+},
+{
+  "type": "node",
+  "id": 4756212358,
+  "lat": 47.5482385,
+  "lon": 7.5479143,
+  "tags": {
+    "addr:city": "Allschwil",
+    "addr:housenumber": "101",
+    "addr:postcode": "4123",
+    "addr:street": "Binningerstrasse",
+    "craft": "brewery",
+    "email": "info@kitchenbrew.ch",
+    "name": "Kitchen Brew",
+    "opening_hours": "We 17:00-22:00 \"usually, check website\"",
+    "operator": "Sygama SA",
+    "website": "https://www.kitchenbrew.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 4834443311,
+  "lat": 47.5404711,
+  "lon": 7.5928332,
+  "tags": {
+    "craft": "brewery",
+    "name": "Unser Bier Brauerei"
+  }
+},
+{
+  "type": "node",
+  "id": 5029136754,
+  "lat": 47.5846850,
+  "lon": 7.6516873,
+  "tags": {
+    "amenity": "restaurant",
+    "microbrewery": "yes",
+    "name": "Zur grünen Amsel"
+  }
+},
+{
+  "type": "node",
+  "id": 5092107011,
+  "lat": 47.5397352,
+  "lon": 7.6009447,
+  "tags": {
+    "craft": "brewery",
+    "name": "Bîrtel"
+  }
+},
+{
+  "type": "node",
+  "id": 5983901622,
+  "lat": 47.6079762,
+  "lon": 7.2220536,
+  "tags": {
+    "addr:city": "Hirtzbach",
+    "addr:housenumber": "26",
+    "addr:postcode": "68118",
+    "addr:street": "Rue de Lattre de Tassigny",
+    "craft": "brewery",
+    "email": "contact@brasserie4pays.fr",
+    "name": "Brasserie des Quatre Pays",
+    "opening_hours": "Mo 14:00-18:30; Tu-Fr 10:00-12:00,14:00-18:30; Sa 10:00-12:00,14:00-17:00",
+    "operator": "Fabien SANTENER",
+    "phone": "+33 3 68 06 13 07",
+    "product": "beer"
+  }
+},
+{
+  "type": "way",
+  "id": 98020654,
+  "nodes": [
+    1134257455,
+    1134258401,
+    1134257937,
+    1134260327,
+    1134259777,
+    1134260278,
+    1134260774,
+    1134257392,
+    1134257152,
+    1134257685,
+    1134258329,
+    1134259041,
+    1134258674,
+    1134259438,
+    1134260049,
+    1134260596,
+    1134260314,
+    1134260796,
+    1134257422,
+    1134258009,
+    1134260617,
+    1134257172,
+    1134257689,
+    1134258338,
+    1134258027,
+    1134258697,
+    1134259481,
+    1134260081,
+    1134259813,
+    1134260321,
+    1134260817,
+    1134257446,
+    1134257201,
+    1134257745,
+    1134258371,
+    1134259118,
+    1134258310,
+    1134259009,
+    729941338,
+    1134257455
+  ],
+  "tags": {
+    "building": "industrial",
+    "building:roof": "flat",
+    "craft": "brewery",
+    "name": "Feldschlösschen"
+  }
+},
+{
+  "type": "node",
+  "id": 729941338,
+  "lat": 47.5470345,
+  "lon": 7.7844840
+},
+{
+  "type": "node",
+  "id": 1134257152,
+  "lat": 47.5456822,
+  "lon": 7.7847626
+},
+{
+  "type": "node",
+  "id": 1134257201,
+  "lat": 47.5470658,
+  "lon": 7.7847724
+},
+{
+  "type": "node",
+  "id": 1134257392,
+  "lat": 47.5459465,
+  "lon": 7.7845939
+},
+{
+  "type": "node",
+  "id": 1134257422,
+  "lat": 47.5464411,
+  "lon": 7.7855962
+},
+{
+  "type": "node",
+  "id": 1134257446,
+  "lat": 47.5471129,
+  "lon": 7.7847424
+},
+{
+  "type": "node",
+  "id": 1134257455,
+  "lat": 47.5470616,
+  "lon": 7.7844667
+},
+{
+  "type": "node",
+  "id": 1134257685,
+  "lat": 47.5457645,
+  "lon": 7.7850455
+},
+{
+  "type": "node",
+  "id": 1134257745,
+  "lat": 47.5470550,
+  "lon": 7.7847352
+},
+{
+  "type": "node",
+  "id": 1134257937,
+  "lat": 47.5457606,
+  "lon": 7.7833168
+},
+{
+  "type": "node",
+  "id": 1134258027,
+  "lat": 47.5470381,
+  "lon": 7.7853441
+},
+{
+  "type": "node",
+  "id": 1134258310,
+  "lat": 47.5470178,
+  "lon": 7.7845834
+},
+{
+  "type": "node",
+  "id": 1134258329,
+  "lat": 47.5456913,
+  "lon": 7.7850922
+},
+{
+  "type": "node",
+  "id": 1134258338,
+  "lat": 47.5469693,
+  "lon": 7.7853880
+},
+{
+  "type": "node",
+  "id": 1134258371,
+  "lat": 47.5470775,
+  "lon": 7.7847208
+},
+{
+  "type": "node",
+  "id": 1134258401,
+  "lat": 47.5465757,
+  "lon": 7.7827964
+},
+{
+  "type": "node",
+  "id": 1134258674,
+  "lat": 47.5455581,
+  "lon": 7.7850573
+},
+{
+  "type": "node",
+  "id": 1134258697,
+  "lat": 47.5470668,
+  "lon": 7.7854427
+},
+{
+  "type": "node",
+  "id": 1134259009,
+  "lat": 47.5469960,
+  "lon": 7.7845086
+},
+{
+  "type": "node",
+  "id": 1134259041,
+  "lat": 47.5456618,
+  "lon": 7.7849911
+},
+{
+  "type": "node",
+  "id": 1134259118,
+  "lat": 47.5470344,
+  "lon": 7.7845728
+},
+{
+  "type": "node",
+  "id": 1134259438,
+  "lat": 47.5456683,
+  "lon": 7.7854360
+},
+{
+  "type": "node",
+  "id": 1134259481,
+  "lat": 47.5471309,
+  "lon": 7.7854018
+},
+{
+  "type": "node",
+  "id": 1134259777,
+  "lat": 47.5460463,
+  "lon": 7.7848383
+},
+{
+  "type": "node",
+  "id": 1134259813,
+  "lat": 47.5470930,
+  "lon": 7.7848581
+},
+{
+  "type": "node",
+  "id": 1134260049,
+  "lat": 47.5464714,
+  "lon": 7.7849232
+},
+{
+  "type": "node",
+  "id": 1134260081,
+  "lat": 47.5469916,
+  "lon": 7.7849229
+},
+{
+  "type": "node",
+  "id": 1134260278,
+  "lat": 47.5459996,
+  "lon": 7.7846775
+},
+{
+  "type": "node",
+  "id": 1134260314,
+  "lat": 47.5462844,
+  "lon": 7.7852340
+},
+{
+  "type": "node",
+  "id": 1134260321,
+  "lat": 47.5470864,
+  "lon": 7.7848353
+},
+{
+  "type": "node",
+  "id": 1134260327,
+  "lat": 47.5461787,
+  "lon": 7.7847539
+},
+{
+  "type": "node",
+  "id": 1134260596,
+  "lat": 47.5465183,
+  "lon": 7.7850846
+},
+{
+  "type": "node",
+  "id": 1134260617,
+  "lat": 47.5468485,
+  "lon": 7.7856501
+},
+{
+  "type": "node",
+  "id": 1134260774,
+  "lat": 47.5459754,
+  "lon": 7.7846930
+},
+{
+  "type": "node",
+  "id": 1134260796,
+  "lat": 47.5463978,
+  "lon": 7.7856238
+},
+{
+  "type": "node",
+  "id": 1134260817,
+  "lat": 47.5471316,
+  "lon": 7.7848064
+},
+{
+  "type": "node",
+  "id": 1134257172,
+  "lat": 47.5468885,
+  "lon": 7.7857878
+},
+{
+  "type": "node",
+  "id": 1134257689,
+  "lat": 47.5470548,
+  "lon": 7.7856817
+},
+{
+  "type": "node",
+  "id": 1134258009,
+  "lat": 47.5465181,
+  "lon": 7.7858610
+}
+
+  ]
+}

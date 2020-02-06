@@ -1,0 +1,203 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T00:13:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1567852281,
+  "lat": 50.7822476,
+  "lon": 15.4192670,
+  "tags": {
+    "amenity": "restaurant",
+    "microbrewery": "yes",
+    "name": "Pivovar Novosad",
+    "opening_hours": "Mo-Th 09:00-22:00; Fr 09:00-23:00; Sa 10:00-23:00; Su 10:00-22:00",
+    "operator": "Chech Inn Hotels s.r.o",
+    "outdoor_seating": "yes",
+    "payment:coins": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:notes": "yes",
+    "payment:visa": "yes",
+    "phone": "+320 481 528100",
+    "website": "http://www.pivovarharrachov.cz",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3217884407,
+  "lat": 50.7769311,
+  "lon": 14.6421575,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "microbrewery": "yes",
+    "name": "Pivovar Cvikov"
+  }
+},
+{
+  "type": "node",
+  "id": 3401392910,
+  "lat": 50.9146570,
+  "lon": 15.0867714,
+  "tags": {
+    "amenity": "pub",
+    "microbrewery": "yes",
+    "name": "Pivovarsky Klub",
+    "name:de": "Schlossbrauerei Friedland",
+    "opening_hours": "14:00-22:00",
+    "operator": "Pivovar Frydland",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3841852393,
+  "lat": 50.6408062,
+  "lon": 15.1918304,
+  "tags": {
+    "amenity": "restaurant",
+    "microbrewery": "yes",
+    "name": "Restaurace Pod Pantheonem a Maloskalský Minipivovar"
+  }
+},
+{
+  "type": "node",
+  "id": 4826728169,
+  "lat": 50.8105656,
+  "lon": 15.0315802,
+  "tags": {
+    "addr:city": "Liberec",
+    "addr:housenumber": "227",
+    "addr:postcode": "46001",
+    "addr:street": "Albrechtická",
+    "craft": "brewery",
+    "email": "studanka.minipivovar@email.cz",
+    "name": "Minipivovar Studánka",
+    "opening_hours": "Apr 01-Oct 31 Mo-Fr 15:00-21:00; Apr 01-Oct 31 Tu off; Apr 01-Oct 31 Sa,Su 13:00-21:00; Nov 01-Mar 31 We-Fr 16:00-20:00; Nov 01-Mar 31 Sa,Su 14:00-20:00",
+    "phone": "+420 602 646 639",
+    "website": "http://www.minipivovar.eu"
+  }
+},
+{
+  "type": "node",
+  "id": 4844435541,
+  "lat": 50.7397612,
+  "lon": 15.3463658,
+  "tags": {
+    "craft": "brewery",
+    "name": "U Čápa"
+  }
+},
+{
+  "type": "node",
+  "id": 5180677744,
+  "lat": 50.7319318,
+  "lon": 15.1698554,
+  "tags": {
+    "addr:city": "Jablonec nad Nisou",
+    "addr:housenumber": "2302/28",
+    "addr:postcode": "46601",
+    "addr:street": "Palackého",
+    "craft": "brewery",
+    "email": "info@pivovarvolt.cz",
+    "name": "Pivovar Volt",
+    "phone": "+420739 520 176",
+    "website": "http://pivovarvolt.cz"
+  }
+},
+{
+  "type": "way",
+  "id": 196287087,
+  "nodes": [
+    2066323089,
+    2066323091,
+    2066323097,
+    4715587160,
+    2066323093,
+    2066323085,
+    2066323087,
+    2066323086,
+    2066323088,
+    2066323089
+  ],
+  "tags": {
+    "addr:city": "Liberec",
+    "addr:housenumber": "43",
+    "addr:postcode": "46016",
+    "addr:street": "Lukášovská",
+    "building": "yes",
+    "craft": "brewery",
+    "microbrewery": "yes",
+    "name": "Vendelín",
+    "opening_hours": "Mo-Su 14:00-21:00",
+    "operator": "Vendelín Krkoška",
+    "outdoor_seating": "yes",
+    "ref:ruian": "23343851",
+    "source": "ruian",
+    "website": "http://www.pivovarvendelin.cz"
+  }
+},
+{
+  "type": "node",
+  "id": 2066323085,
+  "lat": 50.7605371,
+  "lon": 15.1125927
+},
+{
+  "type": "node",
+  "id": 2066323086,
+  "lat": 50.7605576,
+  "lon": 15.1125105
+},
+{
+  "type": "node",
+  "id": 2066323087,
+  "lat": 50.7605617,
+  "lon": 15.1125138
+},
+{
+  "type": "node",
+  "id": 2066323088,
+  "lat": 50.7605720,
+  "lon": 15.1124641
+},
+{
+  "type": "node",
+  "id": 2066323089,
+  "lat": 50.7605754,
+  "lon": 15.1124668
+},
+{
+  "type": "node",
+  "id": 2066323091,
+  "lat": 50.7606127,
+  "lon": 15.1123472
+},
+{
+  "type": "node",
+  "id": 2066323097,
+  "lat": 50.7607023,
+  "lon": 15.1124170
+},
+{
+  "type": "node",
+  "id": 2066323093,
+  "lat": 50.7606263,
+  "lon": 15.1126622
+},
+{
+  "type": "node",
+  "id": 4715587160,
+  "lat": 50.7606288,
+  "lon": 15.1126536
+}
+
+  ]
+}

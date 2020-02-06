@@ -1,0 +1,518 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T10:31:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 309787189,
+  "lat": 45.4708645,
+  "lon": 9.2430698,
+  "tags": {
+    "amenity": "restaurant",
+    "microbrewery": "yes",
+    "name": "Il Giardino della Birra"
+  }
+},
+{
+  "type": "node",
+  "id": 524320493,
+  "lat": 45.4857051,
+  "lon": 9.2315149,
+  "tags": {
+    "addr:city": "Milano",
+    "addr:housenumber": "5",
+    "addr:postcode": "20131",
+    "addr:street": "Via Privata Adelchi",
+    "amenity": "pub",
+    "brewery": "Draft",
+    "microbrewery": "yes",
+    "name": "Birrificio Lambrate",
+    "opening_hours": "Mo 00:00-02:30; Tu 18:00-24:00; We-Su 00:00-02:30,18:00-24:00",
+    "phone": "+39 02 70638678",
+    "smoking": "no",
+    "website": "http://www.birrificiolambrate.com/",
+    "wikidata": "Q24702775",
+    "wikipedia": "en:Birrificio Lambrate"
+  }
+},
+{
+  "type": "node",
+  "id": 3824931973,
+  "lat": 45.6055168,
+  "lon": 8.8531198,
+  "tags": {
+    "craft": "brewery",
+    "name": "Birrificio L'Orso Verde"
+  }
+},
+{
+  "type": "node",
+  "id": 4706683029,
+  "lat": 45.6441062,
+  "lon": 9.2036767,
+  "tags": {
+    "addr:city": "Seregno",
+    "addr:housenumber": "3",
+    "addr:postcode": "20831",
+    "addr:street": "Via Milano",
+    "craft": "brewery",
+    "name": "Alder Beer Co.",
+    "product": "beer"
+  }
+},
+{
+  "type": "node",
+  "id": 4760546006,
+  "lat": 45.4996960,
+  "lon": 9.2247616,
+  "tags": {
+    "amenity": "bar",
+    "microbrewery": "yes",
+    "name": "Il giardino della birra"
+  }
+},
+{
+  "type": "node",
+  "id": 5024791510,
+  "lat": 45.5540076,
+  "lon": 9.4170289,
+  "tags": {
+    "addr:city": "Gessate",
+    "addr:housenumber": "107/32",
+    "addr:postcode": "20060",
+    "addr:street": "Via Monza",
+    "craft": "brewery",
+    "name": "Birrificio Arigianale Licor Dei",
+    "product": "beer"
+  }
+},
+{
+  "type": "node",
+  "id": 5311190445,
+  "lat": 45.5956006,
+  "lon": 9.2946119,
+  "tags": {
+    "addr:housenumber": "168/A",
+    "addr:street": "Via Lecco",
+    "craft": "brewery",
+    "name": "Alma Birrificio Monzese",
+    "website": "http://www.almabirrificio.it/"
+  }
+},
+{
+  "type": "node",
+  "id": 5347214564,
+  "lat": 45.3822879,
+  "lon": 8.9249919,
+  "tags": {
+    "craft": "brewery",
+    "fixme": "posizione approssimata, dal loro sito non si capisce la posizione esatta",
+    "name": "Ma'am"
+  }
+},
+{
+  "type": "node",
+  "id": 5691292153,
+  "lat": 45.5030088,
+  "lon": 9.3222836,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "pizza;italian",
+    "microbrewery": "yes",
+    "name": "Dadaumpa",
+    "takeaway": "no",
+    "toilets": "yes",
+    "wheelchair": "designated"
+  }
+},
+{
+  "type": "node",
+  "id": 5878825426,
+  "lat": 45.4919899,
+  "lon": 9.5537459,
+  "tags": {
+    "addr:city": "Casirate d'Adda",
+    "addr:postcode": "24040",
+    "addr:street": "Via dell'Industria",
+    "craft": "brewery",
+    "name": "Gerundium Fest",
+    "opening_hours": "Aug 09-Sep 09 19:00-01:00",
+    "website": "https://www.gerundiumfest.it"
+  }
+},
+{
+  "type": "node",
+  "id": 5933585756,
+  "lat": 45.6138739,
+  "lon": 9.5488695,
+  "tags": {
+    "addr:city": "Brembate",
+    "addr:housenumber": "11",
+    "addr:postcode": "24041",
+    "addr:street": "Via Veneto",
+    "craft": "brewery",
+    "name": "Birrificio Adda",
+    "product": "beer",
+    "website": "https://www.birrificioadda.it"
+  }
+},
+{
+  "type": "node",
+  "id": 5999727445,
+  "lat": 45.4802374,
+  "lon": 9.2121635,
+  "tags": {
+    "craft": "brewery"
+  }
+},
+{
+  "type": "node",
+  "id": 6539942453,
+  "lat": 45.4891069,
+  "lon": 9.1892051,
+  "tags": {
+    "amenity": "pub",
+    "brewery": "yes",
+    "microbrewery": "yes",
+    "name": "BeerShow"
+  }
+},
+{
+  "type": "way",
+  "id": 60142889,
+  "nodes": [
+    747149803,
+    4640092911,
+    4640092910,
+    4640092912,
+    4640092909,
+    4640092908,
+    747149821,
+    747149837,
+    747149857,
+    747149869,
+    747149880,
+    747149891,
+    747149905,
+    747149803
+  ],
+  "tags": {
+    "amenity": "pub",
+    "building": "yes",
+    "craft": "brewery",
+    "microbrewery": "yes",
+    "name": "Birrificio Italiano"
+  }
+},
+{
+  "type": "way",
+  "id": 74354734,
+  "nodes": [
+    878878094,
+    878878095,
+    878878096,
+    878878097,
+    878878094
+  ],
+  "tags": {
+    "addr:city": "Cogliate",
+    "addr:housenumber": "35",
+    "addr:postcode": "20815",
+    "addr:street": "Via Alcide de Gasperi",
+    "building": "yes",
+    "building:levels": "1",
+    "craft": "brewery",
+    "name": "L'Officina della Birra",
+    "note": "Produzione Birra biologica - Sede amministrativa e operativa",
+    "website": "https://www.officinadellabirra.it/"
+  }
+},
+{
+  "type": "way",
+  "id": 194149672,
+  "nodes": [
+    2046663808,
+    2046663816,
+    2046663803,
+    2046663800,
+    2046663808
+  ],
+  "tags": {
+    "building": "brewery",
+    "craft": "brewery",
+    "name": "Qbeer"
+  }
+},
+{
+  "type": "way",
+  "id": 194149673,
+  "nodes": [
+    2046663858,
+    2046663864,
+    2046663856,
+    2046663854,
+    2046663826,
+    2046663823,
+    2046663858
+  ],
+  "tags": {
+    "building": "brewery",
+    "craft": "brewery",
+    "name": "Qbeer"
+  }
+},
+{
+  "type": "way",
+  "id": 542244941,
+  "nodes": [
+    5242573139,
+    5242573138,
+    5242573137,
+    5242573136,
+    5242573139
+  ],
+  "tags": {
+    "building": "barn",
+    "craft": "brewery",
+    "name": "Birrificio WAR",
+    "website": "http://birrificiowar.it/"
+  }
+},
+{
+  "type": "way",
+  "id": 670991240,
+  "nodes": [
+    6283526344,
+    6283526345,
+    6283526346,
+    6283526347,
+    6283526344
+  ],
+  "tags": {
+    "addr:city": "Seregno",
+    "addr:housenumber": "43",
+    "addr:postcode": "20831",
+    "addr:street": "Via Montello",
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Railroad Brewing Company"
+  }
+},
+{
+  "type": "node",
+  "id": 747149803,
+  "lat": 45.7064550,
+  "lon": 8.9832314
+},
+{
+  "type": "node",
+  "id": 747149821,
+  "lat": 45.7063795,
+  "lon": 8.9833531
+},
+{
+  "type": "node",
+  "id": 747149837,
+  "lat": 45.7062551,
+  "lon": 8.9832420
+},
+{
+  "type": "node",
+  "id": 747149857,
+  "lat": 45.7061965,
+  "lon": 8.9833585
+},
+{
+  "type": "node",
+  "id": 747149869,
+  "lat": 45.7061313,
+  "lon": 8.9833008
+},
+{
+  "type": "node",
+  "id": 747149880,
+  "lat": 45.7062604,
+  "lon": 8.9831290
+},
+{
+  "type": "node",
+  "id": 747149891,
+  "lat": 45.7062825,
+  "lon": 8.9831461
+},
+{
+  "type": "node",
+  "id": 747149905,
+  "lat": 45.7063189,
+  "lon": 8.9830857
+},
+{
+  "type": "node",
+  "id": 4640092908,
+  "lat": 45.7064197,
+  "lon": 8.9832870
+},
+{
+  "type": "node",
+  "id": 4640092909,
+  "lat": 45.7064497,
+  "lon": 8.9832910
+},
+{
+  "type": "node",
+  "id": 4640092910,
+  "lat": 45.7066033,
+  "lon": 8.9833607
+},
+{
+  "type": "node",
+  "id": 4640092911,
+  "lat": 45.7064703,
+  "lon": 8.9832132
+},
+{
+  "type": "node",
+  "id": 4640092912,
+  "lat": 45.7065705,
+  "lon": 8.9834157
+},
+{
+  "type": "node",
+  "id": 878878094,
+  "lat": 45.6455400,
+  "lon": 9.0886238
+},
+{
+  "type": "node",
+  "id": 878878095,
+  "lat": 45.6450797,
+  "lon": 9.0887005
+},
+{
+  "type": "node",
+  "id": 878878096,
+  "lat": 45.6451420,
+  "lon": 9.0893913
+},
+{
+  "type": "node",
+  "id": 878878097,
+  "lat": 45.6455951,
+  "lon": 9.0893011
+},
+{
+  "type": "node",
+  "id": 6283526344,
+  "lat": 45.6500468,
+  "lon": 9.2180989
+},
+{
+  "type": "node",
+  "id": 6283526345,
+  "lat": 45.6501166,
+  "lon": 9.2181015
+},
+{
+  "type": "node",
+  "id": 6283526346,
+  "lat": 45.6501072,
+  "lon": 9.2184529
+},
+{
+  "type": "node",
+  "id": 6283526347,
+  "lat": 45.6500385,
+  "lon": 9.2184529
+},
+{
+  "type": "node",
+  "id": 2046663800,
+  "lat": 45.4392393,
+  "lon": 9.3906882
+},
+{
+  "type": "node",
+  "id": 2046663803,
+  "lat": 45.4393457,
+  "lon": 9.3913565
+},
+{
+  "type": "node",
+  "id": 2046663808,
+  "lat": 45.4394135,
+  "lon": 9.3906312
+},
+{
+  "type": "node",
+  "id": 2046663816,
+  "lat": 45.4395250,
+  "lon": 9.3913067
+},
+{
+  "type": "node",
+  "id": 2046663823,
+  "lat": 45.4396189,
+  "lon": 9.3904003
+},
+{
+  "type": "node",
+  "id": 2046663826,
+  "lat": 45.4396476,
+  "lon": 9.3906067
+},
+{
+  "type": "node",
+  "id": 2046663854,
+  "lat": 45.4399893,
+  "lon": 9.3905035
+},
+{
+  "type": "node",
+  "id": 2046663856,
+  "lat": 45.4400848,
+  "lon": 9.3911204
+},
+{
+  "type": "node",
+  "id": 2046663858,
+  "lat": 45.4401017,
+  "lon": 9.3902642
+},
+{
+  "type": "node",
+  "id": 2046663864,
+  "lat": 45.4402243,
+  "lon": 9.3910726
+},
+{
+  "type": "node",
+  "id": 5242573136,
+  "lat": 45.5109230,
+  "lon": 9.4008330
+},
+{
+  "type": "node",
+  "id": 5242573137,
+  "lat": 45.5109821,
+  "lon": 9.4010536
+},
+{
+  "type": "node",
+  "id": 5242573138,
+  "lat": 45.5111357,
+  "lon": 9.4009698
+},
+{
+  "type": "node",
+  "id": 5242573139,
+  "lat": 45.5110766,
+  "lon": 9.4007492
+}
+
+  ]
+}

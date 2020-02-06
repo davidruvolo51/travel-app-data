@@ -1,0 +1,109 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T08:52:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1392664965,
+  "lat": 49.0850668,
+  "lon": 1.8936592,
+  "tags": {
+    "addr:city": "Théméricourt",
+    "addr:housenumber": "3",
+    "addr:postcode": "95450",
+    "addr:street": "Rue de la Croix des Ruelles",
+    "craft": "brewery",
+    "name": "Ferme Brasserie du Vexin",
+    "opening_hours": "Sa,Su 10:30-12:30,14:30-18:00; PH 10:30-12:30,14:30-18:00",
+    "shop": "alcohol",
+    "website": "https://www.biere-du-vexin.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 1854003295,
+  "lat": 49.0401762,
+  "lon": 1.5935493,
+  "tags": {
+    "craft": "brewery",
+    "name": "Rolling's Bar"
+  }
+},
+{
+  "type": "node",
+  "id": 5729746311,
+  "lat": 48.9902503,
+  "lon": 1.7182025,
+  "tags": {
+    "addr:housenumber": "9",
+    "addr:street": "Rue Marie et Robert Dubois",
+    "craft": "brewery",
+    "name": "Rog Brasserie",
+    "opening_hours": "Mo-Su 08:00-00:00"
+  }
+},
+{
+  "type": "way",
+  "id": 150419402,
+  "nodes": [
+    1633279329,
+    1633280417,
+    1633280492,
+    1633280356,
+    1633279474,
+    1633279329
+  ],
+  "tags": {
+    "addr:housenumber": "19",
+    "addr:street": "Rue du Grand Champ Fleury",
+    "alcohol": "beer",
+    "brewery": "Sutter",
+    "building": "yes",
+    "contact:email": "contact@brasseriedesutter.com",
+    "contact:phone": "+33232275717",
+    "craft": "brewery",
+    "drink:beer": "yes",
+    "name": "Brasserie de Sutter",
+    "opening_hours": "Mo-Sa 10:00-12:30,13:30-19:00",
+    "shop": "alcohol",
+    "website": "http://www.brasseriedesutter.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 1633279329,
+  "lat": 49.2765350,
+  "lon": 1.7815070
+},
+{
+  "type": "node",
+  "id": 1633279474,
+  "lat": 49.2765580,
+  "lon": 1.7810750
+},
+{
+  "type": "node",
+  "id": 1633280356,
+  "lat": 49.2768270,
+  "lon": 1.7811150
+},
+{
+  "type": "node",
+  "id": 1633280417,
+  "lat": 49.2768500,
+  "lon": 1.7815420
+},
+{
+  "type": "node",
+  "id": 1633280492,
+  "lat": 49.2768780,
+  "lon": 1.7811380
+}
+
+  ]
+}

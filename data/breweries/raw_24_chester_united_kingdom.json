@@ -1,0 +1,124 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-05T21:02:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1673573526,
+  "lat": 53.3255220,
+  "lon": -3.0929330,
+  "tags": {
+    "amenity": "pub",
+    "microbrewery": "yes",
+    "name": "The Beer Lab"
+  }
+},
+{
+  "type": "node",
+  "id": 2146827442,
+  "lat": 53.1938669,
+  "lon": -2.7209384,
+  "tags": {
+    "building": "brewery",
+    "craft": "brewery",
+    "name": "Weetwood Brewery"
+  }
+},
+{
+  "type": "node",
+  "id": 5312107108,
+  "lat": 52.9931131,
+  "lon": -3.1904984,
+  "tags": {
+    "addr:city": "Llangollen",
+    "addr:country": "GB",
+    "addr:place": "Llantysilio",
+    "addr:postcode": "LL20 8DD",
+    "addr:street": "Abbey Grange",
+    "craft": "brewery",
+    "fhrs:authority": "Denbighshire",
+    "fhrs:id": "988197",
+    "fhrs:local_authority_id": "703862",
+    "name": "Llangollen Brewery",
+    "name:en": "Llangollen Brewery"
+  }
+},
+{
+  "type": "way",
+  "id": 244449045,
+  "nodes": [
+    105746431,
+    2517642911,
+    2517642913,
+    2517642912,
+    2517642907,
+    2517642894,
+    2517642901,
+    105746431
+  ],
+  "tags": {
+    "addr:street": "Wapping",
+    "amenity": "pub",
+    "building": "yes",
+    "building:levels": "3",
+    "food": "yes",
+    "heritage": "2",
+    "heritage:operator": "Historic England",
+    "listed_status": "Grade II",
+    "microbrewery": "yes",
+    "name": "Baltic Fleet",
+    "real_ale": "yes",
+    "smoking": "outside",
+    "website": "http://www.wappingbeers.co.uk/"
+  }
+},
+{
+  "type": "node",
+  "id": 105746431,
+  "lat": 53.3985948,
+  "lon": -2.9866360
+},
+{
+  "type": "node",
+  "id": 2517642894,
+  "lat": 53.3985064,
+  "lon": -2.9867391
+},
+{
+  "type": "node",
+  "id": 2517642901,
+  "lat": 53.3985697,
+  "lon": -2.9866309
+},
+{
+  "type": "node",
+  "id": 2517642907,
+  "lat": 53.3986427,
+  "lon": -2.9868391
+},
+{
+  "type": "node",
+  "id": 2517642911,
+  "lat": 53.3986658,
+  "lon": -2.9867779
+},
+{
+  "type": "node",
+  "id": 2517642912,
+  "lat": 53.3986658,
+  "lon": -2.9868453
+},
+{
+  "type": "node",
+  "id": 2517642913,
+  "lat": 53.3986719,
+  "lon": -2.9868208
+}
+
+  ]
+}

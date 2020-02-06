@@ -1,0 +1,100 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T13:45:03Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 3829021946,
+  "lat": 58.4060461,
+  "lon": 8.6372155,
+  "tags": {
+    "addr:city": "Grimstad",
+    "addr:postcode": "4885",
+    "craft": "brewery",
+    "name": "Nøgne Ø",
+    "website": "https://www.nogne-o.com/",
+    "wikipedia:en": "Nøgne Ø",
+    "wikipedia:nn": "Nøgne Ø",
+    "wikipedia:no": "Nøgne Ø"
+  }
+},
+{
+  "type": "node",
+  "id": 3985562986,
+  "lat": 58.3417684,
+  "lon": 8.5934365,
+  "tags": {
+    "alt_name": "Mad & level;Apotekergården;Apotekergaarden snaps & snitte",
+    "amenity": "restaurant",
+    "microbrewery": "yes",
+    "name": "Apotekergaarden",
+    "website": "http://www.apotekergaarden.no/"
+  }
+},
+{
+  "type": "way",
+  "id": 513978430,
+  "nodes": [
+    5022574558,
+    5022574557,
+    5022574556,
+    5022574555,
+    5022574554,
+    5022574553,
+    5022574558
+  ],
+  "tags": {
+    "addr:city": "Arendal",
+    "addr:housenumber": "9",
+    "addr:postcode": "4848",
+    "addr:street": "Bryggeriveien",
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Arendals Bryggeri AS",
+    "website": "https://www.arendalsbryggeri.no/"
+  }
+},
+{
+  "type": "node",
+  "id": 5022574553,
+  "lat": 58.4636479,
+  "lon": 8.7194367
+},
+{
+  "type": "node",
+  "id": 5022574554,
+  "lat": 58.4638265,
+  "lon": 8.7200911
+},
+{
+  "type": "node",
+  "id": 5022574555,
+  "lat": 58.4641717,
+  "lon": 8.7197468
+},
+{
+  "type": "node",
+  "id": 5022574556,
+  "lat": 58.4644665,
+  "lon": 8.7208270
+},
+{
+  "type": "node",
+  "id": 5022574557,
+  "lat": 58.4634845,
+  "lon": 8.7218065
+},
+{
+  "type": "node",
+  "id": 5022574558,
+  "lat": 58.4630111,
+  "lon": 8.7200719
+}
+
+  ]
+}

@@ -1,0 +1,1138 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-05T22:47:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 31271991,
+  "lat": 48.5193608,
+  "lon": 9.0585869,
+  "tags": {
+    "addr:city": "Tübingen",
+    "addr:country": "DE",
+    "addr:housenumber": "4",
+    "addr:postcode": "72074",
+    "addr:street": "Gartenstraße",
+    "amenity": "pub",
+    "lunch:menu:url": "https://www.neckarmueller.de/gasthausbrauerei/tageskarte/",
+    "microbrewery": "yes",
+    "name": "Neckarmüller",
+    "opening_hours": "Mo-Sa 10:00-01:00, Su 10:00-24:00",
+    "operator": "Fischer’s Brauhaus Mössingen GmbH u. Co. KG",
+    "payment:meal_voucher": "sodexo",
+    "phone": "+49 7071 27848",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.neckarmueller.de/",
+    "wheelchair": "yes",
+    "wikimedia_commons": "File:Beim_366_km_langen_Neckartalradweg,_Gasthausbrauerei_Neckarmüller_-_panoramio.jpg"
+  }
+},
+{
+  "type": "node",
+  "id": 33183159,
+  "lat": 49.0039550,
+  "lon": 9.4966852,
+  "tags": {
+    "addr:city": "Sulzbach an der Murr",
+    "addr:housenumber": "78",
+    "addr:postcode": "71560",
+    "addr:street": "Backnanger Straße",
+    "amenity": "restaurant",
+    "microbrewery": "yes",
+    "name": "Sulzbacher Schlösslebräu",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.sulzbacher-schloesslebraeu.de/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 250236964,
+  "lat": 48.6794039,
+  "lon": 9.2182194,
+  "tags": {
+    "addr:city": "Filderstadt",
+    "addr:housenumber": "36",
+    "addr:postcode": "70794",
+    "addr:street": "Bernhäuser Hauptstraße",
+    "amenity": "restaurant",
+    "cuisine": "german",
+    "description": "Biergarten Terrasse bei schönem Wetter bis 23:00 Uhr",
+    "email": "info@schwanen-braeu.de",
+    "microbrewery": "yes",
+    "name": "Schwanen-Bräu",
+    "opening_hours": "Mo-Th 16:00-24:00; Fr-Su,PH 11:00-24:00",
+    "outdoor_seating": "yes",
+    "phone": "+49 711 706954",
+    "website": "https://www.schwanen-braeu.de/",
+    "wheelchair": "limited",
+    "wheelchair:description": "ebener Eingang, Tische unterfahrbar, kein Rolli-WC"
+  }
+},
+{
+  "type": "node",
+  "id": 275129039,
+  "lat": 48.7728829,
+  "lon": 9.1724170,
+  "tags": {
+    "addr:city": "Stuttgart",
+    "addr:housenumber": "28",
+    "addr:postcode": "70178",
+    "addr:street": "Marienstraße",
+    "amenity": "pub",
+    "cuisine": "regional",
+    "microbrewery": "yes",
+    "name": "Sophie´s Brauhaus",
+    "opening_hours": "Mo-Th 11:30-24:00; Fr,Sa 11:30-02:00,Su 11:30-23:00",
+    "phone": "+49 711 610962",
+    "smoking": "no",
+    "toilets:wheelchair": "no",
+    "website": "http://www.sophies-brauhaus.de/",
+    "wheelchair": "limited",
+    "wheelchair:description": "Es gibt einen Aufzug rechts neben dem Eingang. Oben muss die Türe von innen geöffnet werden, deshalb Personal benachrichtigen"
+  }
+},
+{
+  "type": "node",
+  "id": 299574950,
+  "lat": 48.8923906,
+  "lon": 9.1864909,
+  "tags": {
+    "addr:city": "Ludwigsburg",
+    "addr:country": "DE",
+    "addr:housenumber": "17",
+    "addr:postcode": "71638",
+    "addr:street": "Bahnhofstraße",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "microbrewery": "yes",
+    "name": "Rossknecht im Sudhaus Ludwigsburg",
+    "opening_hours": "Mo-Sa 11:00-24:00, Su 11:00-21:00",
+    "phone": "+497141901767",
+    "smoking": "no",
+    "toilets:wheelchair": "no",
+    "website": "https://rossknecht-sudhaus.de/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 318699413,
+  "lat": 48.7411640,
+  "lon": 9.3101530,
+  "tags": {
+    "addr:city": "Esslingen am Neckar",
+    "addr:country": "DE",
+    "addr:housenumber": "3",
+    "addr:postcode": "73728",
+    "addr:street": "Franziskanergasse",
+    "amenity": "restaurant",
+    "contact:phone": "+49 711 35 32 53",
+    "contact:website": "http://www.schwanen.es",
+    "cuisine": "german",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "microbrewery": "yes",
+    "name": "Brauhaus Schwanen",
+    "opening_hours": "Mo-Su 17:30-23:30; Sa, Su 11:30-14:30",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "takeaway": "no",
+    "website": "www.schwanen.es",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 539991362,
+  "lat": 48.8992028,
+  "lon": 9.1887940,
+  "tags": {
+    "addr:city": "Ludwigsburg",
+    "addr:housenumber": "21",
+    "addr:postcode": "71634",
+    "addr:street": "Reithausplatz",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "diet:vegetarian": "yes",
+    "microbrewery": "yes",
+    "name": "Rossknecht am Reithausplatz",
+    "note": "\"nette Toilette\"",
+    "opening_hours": "Su-Th 11:00-24:00; Fr-Sa 11:00-01:00",
+    "phone": "+49 (0)7141 / 902 551",
+    "toilets:wheelchair": "no",
+    "website": "http://www.rossknecht.net/ludwigsburg/index.html",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 602290327,
+  "lat": 48.8291290,
+  "lon": 9.0724250,
+  "tags": {
+    "amenity": "restaurant",
+    "microbrewery": "yes",
+    "name": "KeltenFürst",
+    "opening_hours": "Mo-Fr 16:00-24:00; Sa 15:00-24:00; Su,PH 12:00-23:00",
+    "phone": "+49 7156 1778177",
+    "website": "http://www.keltenfuerst.com"
+  }
+},
+{
+  "type": "node",
+  "id": 635744397,
+  "lat": 48.6899767,
+  "lon": 9.0034043,
+  "tags": {
+    "addr:city": "Böblingen",
+    "addr:postcode": "71034",
+    "addr:street": "Graf-Zeppelin-Platz",
+    "amenity": "restaurant",
+    "microbrewery": "yes",
+    "name": "Wichtel",
+    "opening_hours": "Mo-Th 11:00-24:00, Fr-Sa 11:00-01:00, Su,PH 11:00-23:00",
+    "operator": "Böblinger Wichtel GmbH & Co. KG",
+    "phone": "+49 7031 3069899",
+    "website": "https://www.wichtel.de/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1403513341,
+  "lat": 48.4986459,
+  "lon": 9.1765454,
+  "tags": {
+    "addr:city": "Reutlingen",
+    "addr:country": "DE",
+    "addr:housenumber": "5",
+    "addr:postcode": "72770",
+    "addr:street": "Im Gäßle",
+    "addr:suburb": "Betzingen",
+    "amenity": "restaurant",
+    "contact:email": "info@tomo-braeu.de",
+    "contact:fax": "+49 7121 958767",
+    "contact:phone": "+49 7121 580868",
+    "contact:website": "http://www.tomo-braeu.de",
+    "diet:vegetarian": "yes",
+    "microbrewery": "yes",
+    "name": "TOMO Bräu Biertutorium",
+    "opening_hours": "Mo-Fr 16:00-00:00; Sa 16:00-00:00",
+    "opening_hours:lastcheck": "2017-04-12",
+    "ref:vatin": "DE146442375",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 2189594937,
+  "lat": 48.8250426,
+  "lon": 8.7102543,
+  "tags": {
+    "addr:city": "Unterreichenbach",
+    "addr:housenumber": "13",
+    "addr:postcode": "75399",
+    "addr:street": "Calwer Straße",
+    "amenity": "restaurant",
+    "contact:phone": "+49 7235 231",
+    "cuisine": "regional",
+    "lastcheck": "2018-06-10",
+    "microbrewery": "yes",
+    "name": "Gasthaus Löwen",
+    "opening_hours": "Mo-Fr 17:00+; Th off; Sa,Su 11:00+",
+    "website": "https://www.loewengasthaus.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 2428378937,
+  "lat": 48.7904513,
+  "lon": 9.4041807,
+  "tags": {
+    "addr:city": "Weinstadt",
+    "addr:country": "DE",
+    "addr:housenumber": "93",
+    "addr:postcode": "71384",
+    "addr:street": "Lützestraße",
+    "addr:suburb": "Schnait",
+    "brewery": "Alte Werkstatt Bierspezialitäten",
+    "contact:email": "reckart@alte-werkstatt-bier.de",
+    "contact:phone": "+49 7151 65559",
+    "contact:website": "http://www.alte-werkstatt-bier.de/",
+    "craft": "brewery",
+    "microbrewery": "yes",
+    "name": "Alte Werkstatt Bierspezialitäten"
+  }
+},
+{
+  "type": "node",
+  "id": 2629143614,
+  "lat": 48.7551173,
+  "lon": 9.2955201,
+  "tags": {
+    "craft": "brewery",
+    "name": "Brennhäusle Sulzgries",
+    "operator": "Brennereigemeinschaft Sulzgries e.V.",
+    "website": "http://www.rskn-esslingen.de/brennhaeusle.24.html#Brennh%C3%A4usle"
+  }
+},
+{
+  "type": "node",
+  "id": 3771945487,
+  "lat": 48.4886497,
+  "lon": 9.2176582,
+  "tags": {
+    "amenity": "restaurant",
+    "contact:website": "http://www.barfuesser-brauhaus.de/reutlingen/",
+    "diet:vegetarian": "yes",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "microbrewery": "yes",
+    "name": "Barfüßer",
+    "opening_hours": "Su-Th 11:00-24:00, Fr-Sa 11:00-01:00",
+    "outdoor_seating": "yes",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5964485025,
+  "lat": 48.6702337,
+  "lon": 9.4580952,
+  "tags": {
+    "craft": "brewery",
+    "name": "Brautevolution",
+    "product": "beer"
+  }
+},
+{
+  "type": "node",
+  "id": 7079780632,
+  "lat": 48.9270124,
+  "lon": 9.4795006,
+  "tags": {
+    "amenity": "restaurant",
+    "microbrewery": "yes",
+    "name": "Alte Schmiede"
+  }
+},
+{
+  "type": "way",
+  "id": 26833523,
+  "nodes": [
+    294635174,
+    294635184,
+    294635168,
+    294635162,
+    294635174
+  ],
+  "tags": {
+    "addr:city": "Leonberg",
+    "addr:country": "DE",
+    "addr:housenumber": "82",
+    "addr:postcode": "71229",
+    "addr:street": "Bahnhofstraße",
+    "amenity": "biergarten",
+    "building": "yes",
+    "contact:email": "info@brauhaus-sacher.de",
+    "contact:phone": "+49 7152 339515",
+    "contact:website": "http://www.brauhaus-sacher.de",
+    "craft": "brewery",
+    "diaper": "yes",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "microbrewery": "yes",
+    "name": "Brauhaus Sacher",
+    "opening_hours": "Mo-Sa 16:00-24:00; Su 11:00-23:00",
+    "payment:account_cards": "yes",
+    "payment:credit_cards": "yes",
+    "source": "Bing",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 29035417,
+  "nodes": [
+    319314606,
+    319314608,
+    3544356742,
+    3544356741,
+    3544356755,
+    3544356756,
+    319314609,
+    3544356757,
+    3544356762,
+    319314605,
+    319314604,
+    319314606
+  ],
+  "tags": {
+    "addr:city": "Nürtingen",
+    "addr:housenumber": "15",
+    "addr:postcode": "72622",
+    "addr:street": "Mühlstraße",
+    "amenity": "restaurant",
+    "building": "yes",
+    "craft": "brewery",
+    "cuisine": "german",
+    "microbrewery": "yes",
+    "name": "Schlachthof",
+    "opening_hours": "Mo-Su 11:00-24:00",
+    "phone": "+49 7022 939571",
+    "toilets:wheelchair": "no",
+    "website": "https://www.schlachthofbraeu.de/",
+    "wheelchair": "yes",
+    "wheelchair:description": "Toiletten für Drivers vorhanden."
+  }
+},
+{
+  "type": "way",
+  "id": 32127297,
+  "nodes": [
+    360639028,
+    360639030,
+    360639031,
+    360639032,
+    360639028
+  ],
+  "tags": {
+    "addr:city": "Uhingen",
+    "addr:country": "DE",
+    "addr:housenumber": "47",
+    "addr:postcode": "73066",
+    "addr:street": "Kanalstraße",
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "german",
+    "microbrewery": "yes",
+    "name": "Gerber Bräu",
+    "opening_hours": "Mo-Fr 18:00-24:00; Sa 14:00-01:00, Su 11:00-24:00",
+    "operator": "Gerber Bräu Gastronomie GmbH",
+    "toilets:wheelchair": "yes",
+    "website": "http://www.gerberbraeu.de",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 45360471,
+  "nodes": [
+    576689316,
+    576689336,
+    576689340,
+    576689338,
+    576689316
+  ],
+  "tags": {
+    "addr:city": "Sindelfingen",
+    "addr:country": "DE",
+    "addr:housenumber": "14",
+    "addr:postcode": "71067",
+    "addr:street": "Pfarrwiesenallee",
+    "amenity": "restaurant",
+    "building": "yes",
+    "craft": "brewery",
+    "cuisine": "regional",
+    "microbrewery": "yes",
+    "name": "Wirtschaftswunder",
+    "name:de": "Bierstadel",
+    "phone": "+49 7031 6320360"
+  }
+},
+{
+  "type": "way",
+  "id": 47749032,
+  "nodes": [
+    607459161,
+    607459200,
+    607459196,
+    607459163,
+    607459161
+  ],
+  "tags": {
+    "addr:city": "Stuttgart",
+    "addr:country": "DE",
+    "addr:housenumber": "21",
+    "addr:postcode": "70469",
+    "addr:street": "Stuttgarter Straße",
+    "addr:suburb": "Feuerbach",
+    "amenity": "restaurant",
+    "building": "yes",
+    "building:levels": "2",
+    "contact:phone": "+49 711 82051690",
+    "craft": "brewery",
+    "microbrewery": "yes",
+    "name": "Wichtel",
+    "opening_hours": "Su-Th 11:00-24:00; Fr,Sa 11:00-01:00",
+    "operator": "Feuerbacher Wichtel GmbH & Co KG",
+    "smoking": "isolated",
+    "source": "yahoo",
+    "start_date": "2002",
+    "toilets": "yes",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.wichtel.de/",
+    "wheelchair": "yes",
+    "wheelchair:description:de": "Keine Behindertentoilette"
+  }
+},
+{
+  "type": "way",
+  "id": 51988952,
+  "nodes": [
+    662922264,
+    662922265,
+    4339162053,
+    4339162054,
+    662922266,
+    4393995595,
+    662922267,
+    4339162045,
+    4393995594,
+    4339162050,
+    4339162049,
+    4339162044,
+    4339162043,
+    4339162046,
+    662922268,
+    4339162048,
+    4339162047,
+    4339162051,
+    4339162052,
+    4339162058,
+    4339162057,
+    4339162059,
+    4339162060,
+    662922269,
+    662922264
+  ],
+  "tags": {
+    "addr:city": "Leinfelden-Echterdingen",
+    "addr:country": "DE",
+    "addr:housenumber": "2",
+    "addr:postcode": "70771",
+    "addr:street": "Filderbahnstraße",
+    "addr:suburb": "Echterdingen",
+    "building": "hotel",
+    "contact:email": "info@parkhotel-stuttgart.de",
+    "contact:fax": "+49 711 63344100",
+    "contact:phone": "+49 711 633440",
+    "contact:website": "http://www.parkhotel-stuttgart.de",
+    "craft": "brewery",
+    "microbrewery": "yes",
+    "name": "Parkhotel Stuttgart Airport-Messe",
+    "opening": "Oktober 2010",
+    "stars": "4",
+    "toilets:wheelchair": "no",
+    "tourism": "hotel",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 96470106,
+  "nodes": [
+    1117763427,
+    1117763439,
+    1117763433,
+    2029848574,
+    2029848595,
+    1117763458,
+    1117763427
+  ],
+  "tags": {
+    "addr:city": "Simmozheim",
+    "addr:housenumber": "30",
+    "addr:street": "Im Mönchgraben",
+    "amenity": "restaurant",
+    "biergarten": "yes",
+    "building": "yes",
+    "craft": "brewery",
+    "cuisine": "german",
+    "microbrewery": "yes",
+    "name": "Mönchwasen",
+    "opening_hours": "Mo-Th 17:00-24:00; Fr 17:00-01:00, Sa 16:00-01:00, Su 11:00-23:00",
+    "smoking": "separated",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.moenchwasen.com",
+    "wheelchair": "yes",
+    "wheelchair:description:de": "Teile des Gastraums sind nicht barrierefrei erreichbar, jedoch stehen barrierefreie Toiletten zur Verfügung"
+  }
+},
+{
+  "type": "way",
+  "id": 237863518,
+  "nodes": [
+    1289367630,
+    2457277129,
+    2457277113,
+    2457277115,
+    1289367630
+  ],
+  "tags": {
+    "addr:city": "Kirchheim unter Teck",
+    "addr:country": "DE",
+    "addr:housenumber": "6-8",
+    "addr:postcode": "73230",
+    "addr:street": "Widerholtstraße",
+    "amenity": "pub",
+    "building": "yes",
+    "contact:email": "info@stiftsscheuer.de",
+    "contact:phone": "+49 7021 736154",
+    "contact:website": "http://www.stiftsscheuer.de",
+    "microbrewery": "yes",
+    "name": "Stiftsscheuer",
+    "opening_hours": "Tu-Fr 18:00-22:00; Sa 11:00-14:00,18:00-22:00",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 259564028,
+  "nodes": [
+    2649933955,
+    2649933959,
+    2649933962,
+    2649933965,
+    2649933955
+  ],
+  "tags": {
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Brennhäusle Rüdern",
+    "website": "http://www.rskn-esslingen.de/brennhaeusle.24.html#Brennh%C3%A4usle"
+  }
+},
+{
+  "type": "way",
+  "id": 284973777,
+  "nodes": [
+    1233662404,
+    3324958194,
+    2886794378,
+    2886794379,
+    1233662355,
+    1233662404
+  ],
+  "tags": {
+    "addr:city": "Stuttgart",
+    "addr:country": "DE",
+    "addr:housenumber": "20/1",
+    "addr:postcode": "70180",
+    "addr:street": "Schlosserstraße",
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Cast-Brauerei",
+    "opening_hours": "Mo-Fr 10:00-18:30; Sa 10:00-16:00",
+    "phone": "+4971112152694",
+    "website": "https://www.cast-brauerei.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 438117577,
+  "nodes": [
+    1806888127,
+    1806888139,
+    4358608316,
+    2829364929,
+    4358608317,
+    4572840468,
+    4572840469,
+    4358608318,
+    1806888127
+  ],
+  "tags": {
+    "addr:city": "Weissach im Tal",
+    "addr:country": "DE",
+    "addr:housenumber": "34",
+    "addr:postcode": "71554",
+    "addr:street": "Welzheimer Straße",
+    "alt_name": "Weissacher Tälesbräu GmbH",
+    "building": "brewery",
+    "craft": "brewery",
+    "description": "Craftbier-Manufaktur mit ProBier-Stüble und Biergarten",
+    "name": "Tälesbräu",
+    "old_name": "alte Schlosserei Firma Rombold",
+    "website": "https://taelesbraeu.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 1117763427,
+  "lat": 48.7458469,
+  "lon": 8.8060852
+},
+{
+  "type": "node",
+  "id": 1117763433,
+  "lat": 48.7458294,
+  "lon": 8.8067713
+},
+{
+  "type": "node",
+  "id": 1117763439,
+  "lat": 48.7460299,
+  "lon": 8.8066106
+},
+{
+  "type": "node",
+  "id": 1117763458,
+  "lat": 48.7456927,
+  "lon": 8.8062087
+},
+{
+  "type": "node",
+  "id": 2029848574,
+  "lat": 48.7457709,
+  "lon": 8.8066034
+},
+{
+  "type": "node",
+  "id": 2029848595,
+  "lat": 48.7458173,
+  "lon": 8.8065662
+},
+{
+  "type": "node",
+  "id": 576689316,
+  "lat": 48.7215086,
+  "lon": 9.0025995
+},
+{
+  "type": "node",
+  "id": 576689336,
+  "lat": 48.7215921,
+  "lon": 9.0028426
+},
+{
+  "type": "node",
+  "id": 576689338,
+  "lat": 48.7213883,
+  "lon": 9.0026937
+},
+{
+  "type": "node",
+  "id": 576689340,
+  "lat": 48.7214718,
+  "lon": 9.0029369
+},
+{
+  "type": "node",
+  "id": 294635162,
+  "lat": 48.7991375,
+  "lon": 9.0028952
+},
+{
+  "type": "node",
+  "id": 294635168,
+  "lat": 48.7992809,
+  "lon": 9.0032575
+},
+{
+  "type": "node",
+  "id": 294635174,
+  "lat": 48.7990704,
+  "lon": 9.0029564
+},
+{
+  "type": "node",
+  "id": 294635184,
+  "lat": 48.7992138,
+  "lon": 9.0033187
+},
+{
+  "type": "node",
+  "id": 662922264,
+  "lat": 48.6918731,
+  "lon": 9.1678002
+},
+{
+  "type": "node",
+  "id": 662922265,
+  "lat": 48.6915821,
+  "lon": 9.1677731
+},
+{
+  "type": "node",
+  "id": 662922266,
+  "lat": 48.6916280,
+  "lon": 9.1675677
+},
+{
+  "type": "node",
+  "id": 662922267,
+  "lat": 48.6914105,
+  "lon": 9.1675474
+},
+{
+  "type": "node",
+  "id": 4339162043,
+  "lat": 48.6913869,
+  "lon": 9.1683202
+},
+{
+  "type": "node",
+  "id": 4339162044,
+  "lat": 48.6914007,
+  "lon": 9.1679796
+},
+{
+  "type": "node",
+  "id": 4339162045,
+  "lat": 48.6914022,
+  "lon": 9.1677528
+},
+{
+  "type": "node",
+  "id": 4339162046,
+  "lat": 48.6914083,
+  "lon": 9.1683222
+},
+{
+  "type": "node",
+  "id": 4339162049,
+  "lat": 48.6914259,
+  "lon": 9.1679820
+},
+{
+  "type": "node",
+  "id": 4339162050,
+  "lat": 48.6914351,
+  "lon": 9.1677558
+},
+{
+  "type": "node",
+  "id": 4339162053,
+  "lat": 48.6915865,
+  "lon": 9.1676660
+},
+{
+  "type": "node",
+  "id": 4339162054,
+  "lat": 48.6916239,
+  "lon": 9.1676695
+},
+{
+  "type": "node",
+  "id": 4393995594,
+  "lat": 48.6914215,
+  "lon": 9.1677546
+},
+{
+  "type": "node",
+  "id": 4393995595,
+  "lat": 48.6914312,
+  "lon": 9.1675493
+},
+{
+  "type": "node",
+  "id": 662922268,
+  "lat": 48.6914003,
+  "lon": 9.1685204
+},
+{
+  "type": "node",
+  "id": 662922269,
+  "lat": 48.6918422,
+  "lon": 9.1685603
+},
+{
+  "type": "node",
+  "id": 4339162047,
+  "lat": 48.6914221,
+  "lon": 9.1685657
+},
+{
+  "type": "node",
+  "id": 4339162048,
+  "lat": 48.6914238,
+  "lon": 9.1685225
+},
+{
+  "type": "node",
+  "id": 4339162051,
+  "lat": 48.6914826,
+  "lon": 9.1685713
+},
+{
+  "type": "node",
+  "id": 4339162052,
+  "lat": 48.6914843,
+  "lon": 9.1685273
+},
+{
+  "type": "node",
+  "id": 4339162057,
+  "lat": 48.6917505,
+  "lon": 9.1685968
+},
+{
+  "type": "node",
+  "id": 4339162058,
+  "lat": 48.6917523,
+  "lon": 9.1685523
+},
+{
+  "type": "node",
+  "id": 4339162059,
+  "lat": 48.6918126,
+  "lon": 9.1686026
+},
+{
+  "type": "node",
+  "id": 4339162060,
+  "lat": 48.6918145,
+  "lon": 9.1685578
+},
+{
+  "type": "node",
+  "id": 1233662355,
+  "lat": 48.7697625,
+  "lon": 9.1761040
+},
+{
+  "type": "node",
+  "id": 1233662404,
+  "lat": 48.7697018,
+  "lon": 9.1759539
+},
+{
+  "type": "node",
+  "id": 2886794378,
+  "lat": 48.7696422,
+  "lon": 9.1760169
+},
+{
+  "type": "node",
+  "id": 2886794379,
+  "lat": 48.7697157,
+  "lon": 9.1761731
+},
+{
+  "type": "node",
+  "id": 3324958194,
+  "lat": 48.7696569,
+  "lon": 9.1760013
+},
+{
+  "type": "node",
+  "id": 607459161,
+  "lat": 48.8105315,
+  "lon": 9.1658049
+},
+{
+  "type": "node",
+  "id": 607459163,
+  "lat": 48.8103776,
+  "lon": 9.1659054
+},
+{
+  "type": "node",
+  "id": 607459196,
+  "lat": 48.8104391,
+  "lon": 9.1661228
+},
+{
+  "type": "node",
+  "id": 607459200,
+  "lat": 48.8105930,
+  "lon": 9.1660224
+},
+{
+  "type": "node",
+  "id": 319314604,
+  "lat": 48.6299172,
+  "lon": 9.3337640
+},
+{
+  "type": "node",
+  "id": 319314605,
+  "lat": 48.6299484,
+  "lon": 9.3336397
+},
+{
+  "type": "node",
+  "id": 319314606,
+  "lat": 48.6295519,
+  "lon": 9.3341402
+},
+{
+  "type": "node",
+  "id": 319314608,
+  "lat": 48.6294821,
+  "lon": 9.3339935
+},
+{
+  "type": "node",
+  "id": 319314609,
+  "lat": 48.6297990,
+  "lon": 9.3336717
+},
+{
+  "type": "node",
+  "id": 3544356741,
+  "lat": 48.6295264,
+  "lon": 9.3338843
+},
+{
+  "type": "node",
+  "id": 3544356742,
+  "lat": 48.6295407,
+  "lon": 9.3339342
+},
+{
+  "type": "node",
+  "id": 3544356755,
+  "lat": 48.6297130,
+  "lon": 9.3336894
+},
+{
+  "type": "node",
+  "id": 3544356756,
+  "lat": 48.6297311,
+  "lon": 9.3337421
+},
+{
+  "type": "node",
+  "id": 3544356757,
+  "lat": 48.6298231,
+  "lon": 9.3337186
+},
+{
+  "type": "node",
+  "id": 3544356762,
+  "lat": 48.6299071,
+  "lon": 9.3336310
+},
+{
+  "type": "node",
+  "id": 1289367630,
+  "lat": 48.6490451,
+  "lon": 9.4522250
+},
+{
+  "type": "node",
+  "id": 2457277113,
+  "lat": 48.6488596,
+  "lon": 9.4523024
+},
+{
+  "type": "node",
+  "id": 2457277115,
+  "lat": 48.6488786,
+  "lon": 9.4521702
+},
+{
+  "type": "node",
+  "id": 2457277129,
+  "lat": 48.6490261,
+  "lon": 9.4523572
+},
+{
+  "type": "node",
+  "id": 2649933955,
+  "lat": 48.7647519,
+  "lon": 9.2894698
+},
+{
+  "type": "node",
+  "id": 2649933959,
+  "lat": 48.7647189,
+  "lon": 9.2895068
+},
+{
+  "type": "node",
+  "id": 2649933962,
+  "lat": 48.7647559,
+  "lon": 9.2895830
+},
+{
+  "type": "node",
+  "id": 2649933965,
+  "lat": 48.7647890,
+  "lon": 9.2895461
+},
+{
+  "type": "node",
+  "id": 360639028,
+  "lat": 48.7079112,
+  "lon": 9.5758156
+},
+{
+  "type": "node",
+  "id": 360639030,
+  "lat": 48.7077583,
+  "lon": 9.5762018
+},
+{
+  "type": "node",
+  "id": 360639031,
+  "lat": 48.7076450,
+  "lon": 9.5760988
+},
+{
+  "type": "node",
+  "id": 360639032,
+  "lat": 48.7077979,
+  "lon": 9.5757126
+},
+{
+  "type": "node",
+  "id": 1806888127,
+  "lat": 48.9270788,
+  "lon": 9.4794116
+},
+{
+  "type": "node",
+  "id": 1806888139,
+  "lat": 48.9271103,
+  "lon": 9.4794948
+},
+{
+  "type": "node",
+  "id": 2829364929,
+  "lat": 48.9268190,
+  "lon": 9.4795984
+},
+{
+  "type": "node",
+  "id": 4358608316,
+  "lat": 48.9268620,
+  "lon": 9.4797122
+},
+{
+  "type": "node",
+  "id": 4358608317,
+  "lat": 48.9268879,
+  "lon": 9.4795381
+},
+{
+  "type": "node",
+  "id": 4358608318,
+  "lat": 48.9270392,
+  "lon": 9.4794463
+},
+{
+  "type": "node",
+  "id": 4572840468,
+  "lat": 48.9268779,
+  "lon": 9.4795116
+},
+{
+  "type": "node",
+  "id": 4572840469,
+  "lat": 48.9270176,
+  "lon": 9.4793892
+}
+
+  ]
+}

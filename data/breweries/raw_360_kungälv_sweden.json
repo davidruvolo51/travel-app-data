@@ -1,0 +1,130 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T13:18:03Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 4729470209,
+  "lat": 57.7351716,
+  "lon": 11.6787752,
+  "tags": {
+    "contact:email": "info@barlindbeer.se",
+    "contact:phone": "+46 701-73 08 71",
+    "contact:website": "http://www.barlindbeer.se/",
+    "craft": "brewery",
+    "name": "BarlindBeer",
+    "operator": "BarlindBeer AB",
+    "shop": "craft"
+  }
+},
+{
+  "type": "node",
+  "id": 6544450198,
+  "lat": 57.8876417,
+  "lon": 11.5942769,
+  "tags": {
+    "addr:city": "Marstrand",
+    "addr:country": "SE",
+    "addr:housenumber": "15",
+    "addr:street": "Södra Strandgatan",
+    "contact:website": "https://www.inlandsbryggeri.se/",
+    "craft": "brewery",
+    "name": "Inlands Bryggeri",
+    "operator": "Inlands Bryggeri AB"
+  }
+},
+{
+  "type": "node",
+  "id": 6795189914,
+  "lat": 57.7078258,
+  "lon": 11.6655707,
+  "tags": {
+    "contact:phone": "+46 707-289802",
+    "contact:website": "http://www.honobryggeriet.se",
+    "craft": "brewery",
+    "name": "Hönöbryggeriet",
+    "official_name": "Hönöbryggeriet AB"
+  }
+},
+{
+  "type": "way",
+  "id": 222675231,
+  "nodes": [
+    2316151680,
+    2316151654,
+    2316151675,
+    1017682127,
+    1017682434,
+    1017682359,
+    6280920564,
+    1017682425,
+    2316151679,
+    2316151680
+  ],
+  "tags": {
+    "building": "brewery",
+    "building:levels": "2"
+  }
+},
+{
+  "type": "node",
+  "id": 2316151654,
+  "lat": 57.6878000,
+  "lon": 11.9996165
+},
+{
+  "type": "node",
+  "id": 1017682359,
+  "lat": 57.6876779,
+  "lon": 12.0002985
+},
+{
+  "type": "node",
+  "id": 1017682425,
+  "lat": 57.6876089,
+  "lon": 11.9997757
+},
+{
+  "type": "node",
+  "id": 2316151679,
+  "lat": 57.6877089,
+  "lon": 11.9997295
+},
+{
+  "type": "node",
+  "id": 2316151680,
+  "lat": 57.6878090,
+  "lon": 11.9996832
+},
+{
+  "type": "node",
+  "id": 6280920564,
+  "lat": 57.6876229,
+  "lon": 11.9998813
+},
+{
+  "type": "node",
+  "id": 1017682127,
+  "lat": 57.6883776,
+  "lon": 11.9993487
+},
+{
+  "type": "node",
+  "id": 2316151675,
+  "lat": 57.6881937,
+  "lon": 11.9994342
+},
+{
+  "type": "node",
+  "id": 1017682434,
+  "lat": 57.6884550,
+  "lon": 11.9999393
+}
+
+  ]
+}

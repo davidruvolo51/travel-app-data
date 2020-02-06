@@ -1,0 +1,338 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-05T23:51:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2464677439,
+  "lat": 49.7380562,
+  "lon": 13.5851399,
+  "tags": {
+    "addr:city": "Rokycany",
+    "addr:conscriptionnumber": "282",
+    "addr:country": "CZ",
+    "addr:housenumber": "282",
+    "addr:place": "Plzeňské Předměstí",
+    "addr:postcode": "33701",
+    "addr:street": "Sokolská",
+    "amenity": "restaurant",
+    "email": "pivo@ustocesu.cz",
+    "facebook": "https://www.facebook.com/ustocesu/",
+    "microbrewery": "yes",
+    "name": "Minipivovar a pivnice U Stočesů",
+    "opening_hours": "Mo-Th 14:00-24:00; Sa 12:00-01:00; Su 12:00-23:00; Fr 14:00-01:00",
+    "outdoor_seating": "yes",
+    "phone": "+420 722 099 077",
+    "ref:ruian:addr": "20763794",
+    "source:addr": "cuzk:ruian",
+    "source:loc": "survey",
+    "website": "http://www.ustocesu.cz/",
+    "wikidata": "Q22332885",
+    "wikipedia": "cs:Minipivovar a pivnice U Stočesů"
+  }
+},
+{
+  "type": "node",
+  "id": 3743985339,
+  "lat": 49.9713063,
+  "lon": 13.6482117,
+  "tags": {
+    "amenity": "pub",
+    "microbrewery": "yes",
+    "name": "Pivovar Chříč",
+    "opening_hours": "Mo-Su 10:00-18:00; Fr 10:00-20:00; Sa 10-22",
+    "operator": "pCh!"
+  }
+},
+{
+  "type": "node",
+  "id": 4011963598,
+  "lat": 49.4672717,
+  "lon": 13.1736962,
+  "tags": {
+    "craft": "brewery",
+    "microbrewery": "yes",
+    "name": "minipivovar Stará škola",
+    "since": "2012",
+    "website": "http://www.restauracestaraskola.cz"
+  }
+},
+{
+  "type": "node",
+  "id": 4162054192,
+  "lat": 49.9349612,
+  "lon": 13.3890156,
+  "tags": {
+    "amenity": "pub",
+    "email": "pivovarplasy@centrum.cz",
+    "internet_access": "yes",
+    "internet_access:fee": "no",
+    "microbrewery": "yes",
+    "name": "Knížecí pivovar Plasy",
+    "opening_hours": "Mo-Th 12:00-22:00; Fr 12:00-23:00; Sa 11:00-23:00; Su 11:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+420 727 875 115",
+    "smoking": "no",
+    "website": "http://www.pivovarplasy.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 4556098018,
+  "lat": 49.7488842,
+  "lon": 13.3773287,
+  "tags": {
+    "addr:housenumber": "8",
+    "addr:postcode": "301 00",
+    "addr:street": "Dominikánská",
+    "amenity": "pub",
+    "contact:phone": "+420 379 422 526",
+    "contact:website": "http://beerfactoryplzen.cz/",
+    "internet_access": "wlan",
+    "microbrewery": "yes",
+    "name": "Beer Factory",
+    "name:ru": "Пивной Завод",
+    "opening_hours": "Mo-Su 11:00-23:00; Fr,Sa 11:00-24:00",
+    "opening_hours:kitchen": "Mo-Su 11:00-22:00; Fr,Sa 11:00-22:00",
+    "outdoor_seating": "yes",
+    "smoking": "no",
+    "takeaway": "no",
+    "wikidata": "Q27918397"
+  }
+},
+{
+  "type": "node",
+  "id": 4556098019,
+  "lat": 49.7425997,
+  "lon": 13.3722469,
+  "tags": {
+    "amenity": "pub",
+    "microbrewery": "yes",
+    "name": "Modrá hvězda",
+    "outdoor_seating": "no",
+    "takeaway": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4952702434,
+  "lat": 49.7483079,
+  "lon": 13.3789723,
+  "tags": {
+    "amenity": "pub",
+    "delivery": "no",
+    "level": "0;1",
+    "microbrewery": "yes",
+    "name": "Pivotečka",
+    "opening_hours": "Mo-Sa 12:00-23:00",
+    "outdoor_seating": "no",
+    "source": "local knowledge;survey",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5038517320,
+  "lat": 49.6596647,
+  "lon": 13.5261521,
+  "tags": {
+    "addr:city": "Šťáhlavy",
+    "addr:conscriptionnumber": "150",
+    "addr:country": "CZ",
+    "addr:housenumber": "150",
+    "addr:place": "Šťáhlavice",
+    "addr:postcode": "33204",
+    "craft": "brewery",
+    "facebook": "https://www.facebook.com/pivovarusenkyru/",
+    "name": "Šťáhlavický Pivovar U Šenkýřů",
+    "phone": "+420 774 375 060",
+    "ref:ruian:addr": "967696",
+    "source:addr": "cuzk:ruian",
+    "website": "http://www.pivovarstahlavice.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 5043628024,
+  "lat": 49.6756178,
+  "lon": 13.5035726,
+  "tags": {
+    "addr:city": "Šťáhlavy",
+    "addr:country": "CZ",
+    "addr:place": "Šťáhlavy",
+    "addr:postcode": "33203",
+    "addr:street": "Náves republiky",
+    "amenity": "pub",
+    "facebook": "https://www.facebook.com/PivovarRadous/",
+    "microbrewery": "yes",
+    "name": "Mini pivovar Radouš",
+    "outdoor_seating": "yes",
+    "phone": "+420 776 570 736;+420 608 247 964",
+    "website": "http://pivovar.stahlavy.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 5098042723,
+  "lat": 49.5728311,
+  "lon": 13.3305947,
+  "tags": {
+    "addr:housenumber": "311",
+    "addr:postcode": "33401",
+    "addr:street": "Masarykovo nám.",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "level": "0",
+    "microbrewery": "yes",
+    "name": "U Přeška",
+    "outdoor_seating": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 51166489,
+  "nodes": [
+    652749495,
+    652749517,
+    652749513,
+    652749515,
+    652749509,
+    652749511,
+    3239593034,
+    652749600,
+    652749501,
+    652749499,
+    652749344,
+    652749346,
+    652749495
+  ],
+  "tags": {
+    "building": "brewery",
+    "name": "Pilsner Urquell",
+    "source": "cuzk:km",
+    "wikidata": "Q948831",
+    "wikipedia": "en:Pilsner Urquell Brewery"
+  }
+},
+{
+  "type": "way",
+  "id": 449711662,
+  "nodes": [
+    4466466118,
+    4466466116,
+    4466466115,
+    4466466117,
+    4466466118
+  ],
+  "tags": {
+    "building": "yes",
+    "building:ruian:type": "19",
+    "craft": "brewery",
+    "ref:ruian:building": "82359776",
+    "source": "cuzk:ruian"
+  }
+},
+{
+  "type": "node",
+  "id": 652749344,
+  "lat": 49.7473800,
+  "lon": 13.3874010
+},
+{
+  "type": "node",
+  "id": 652749346,
+  "lat": 49.7474570,
+  "lon": 13.3871160
+},
+{
+  "type": "node",
+  "id": 652749495,
+  "lat": 49.7478350,
+  "lon": 13.3873140
+},
+{
+  "type": "node",
+  "id": 652749499,
+  "lat": 49.7475950,
+  "lon": 13.3875400
+},
+{
+  "type": "node",
+  "id": 652749501,
+  "lat": 49.7475360,
+  "lon": 13.3877420
+},
+{
+  "type": "node",
+  "id": 652749509,
+  "lat": 49.7486170,
+  "lon": 13.3878560
+},
+{
+  "type": "node",
+  "id": 652749511,
+  "lat": 49.7486040,
+  "lon": 13.3878380
+},
+{
+  "type": "node",
+  "id": 652749513,
+  "lat": 49.7484120,
+  "lon": 13.3874760
+},
+{
+  "type": "node",
+  "id": 652749515,
+  "lat": 49.7486910,
+  "lon": 13.3876480
+},
+{
+  "type": "node",
+  "id": 652749517,
+  "lat": 49.7482580,
+  "lon": 13.3874335
+},
+{
+  "type": "node",
+  "id": 652749600,
+  "lat": 49.7484040,
+  "lon": 13.3884020
+},
+{
+  "type": "node",
+  "id": 3239593034,
+  "lat": 49.7484828,
+  "lon": 13.3881799
+},
+{
+  "type": "node",
+  "id": 4466466115,
+  "lat": 49.9711573,
+  "lon": 13.6484261
+},
+{
+  "type": "node",
+  "id": 4466466116,
+  "lat": 49.9712430,
+  "lon": 13.6485483
+},
+{
+  "type": "node",
+  "id": 4466466117,
+  "lat": 49.9713344,
+  "lon": 13.6481226
+},
+{
+  "type": "node",
+  "id": 4466466118,
+  "lat": 49.9714209,
+  "lon": 13.6482514
+}
+
+  ]
+}

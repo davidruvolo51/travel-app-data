@@ -1,0 +1,91 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-05T20:34:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 3229673307,
+  "lat": 56.3390405,
+  "lon": -2.7991472,
+  "tags": {
+    "amenity": "pub",
+    "craft": "brewery",
+    "microbrewery": "yes",
+    "name": "St Andrews Brewing Company"
+  }
+},
+{
+  "type": "node",
+  "id": 3329829525,
+  "lat": 56.3631657,
+  "lon": -2.8916862,
+  "tags": {
+    "craft": "brewery",
+    "name": "Eden Brewery"
+  }
+},
+{
+  "type": "node",
+  "id": 6918730688,
+  "lat": 56.0444564,
+  "lon": -2.8023130,
+  "tags": {
+    "craft": "brewery",
+    "name": "Archerfield Fine Ales",
+    "survey:date": "2019-10-26"
+  }
+},
+{
+  "type": "way",
+  "id": 683342240,
+  "nodes": [
+    6400478789,
+    6400478790,
+    6400478791,
+    6400478792,
+    6400478789
+  ],
+  "tags": {
+    "addr:city": "Perth",
+    "addr:district": "Abernyte",
+    "addr:housename": "South Latch Farm",
+    "addr:postcode": "PH14 9SU",
+    "building": "yes",
+    "craft": "brewery",
+    "fhrs:id": "941550",
+    "name": "Abernyte Brewery",
+    "source:addr": "FHRS Open Data"
+  }
+},
+{
+  "type": "node",
+  "id": 6400478789,
+  "lat": 56.4788603,
+  "lon": -3.2087026
+},
+{
+  "type": "node",
+  "id": 6400478790,
+  "lat": 56.4788914,
+  "lon": -3.2085497
+},
+{
+  "type": "node",
+  "id": 6400478791,
+  "lat": 56.4787447,
+  "lon": -3.2083942
+},
+{
+  "type": "node",
+  "id": 6400478792,
+  "lat": 56.4787003,
+  "lon": -3.2085229
+}
+
+  ]
+}

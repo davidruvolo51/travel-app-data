@@ -1,0 +1,1146 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-05T23:18:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 97779569,
+  "lat": 51.4998425,
+  "lon": 7.2320703,
+  "tags": {
+    "addr:city": "Bochum",
+    "addr:country": "DE",
+    "addr:housenumber": "65",
+    "addr:postcode": "44807",
+    "addr:street": "Josephinenstraße",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "gasthaus.goeke@t-online.de",
+    "microbrewery": "yes",
+    "name": "Gasthaus Goeke im Grumbecktal",
+    "opening_hours": "Tu-Su 17:00+",
+    "operator": "Christian Goeke",
+    "phone": "+49 234 591501",
+    "smoking": "separated",
+    "website": "http://www.gasthausgoeke.de/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 296937808,
+  "lat": 51.6694771,
+  "lon": 7.9030624,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "info@brauhof-wilshaus.de",
+    "microbrewery": "yes",
+    "name": "Brauhof Wilshaus",
+    "opening_hours": "We-Fr 16:00+; Sa 14:00+; Su,PH 10:00+",
+    "phone": "+49 2385 8855",
+    "website": "http://www.brauhof-wilshaus.de"
+  }
+},
+{
+  "type": "node",
+  "id": 970714866,
+  "lat": 51.4373477,
+  "lon": 7.3334382,
+  "tags": {
+    "addr:city": "Witten",
+    "addr:country": "DE",
+    "addr:housenumber": "4",
+    "addr:postcode": "58452",
+    "addr:street": "Hammerstraße",
+    "addr:suburb": "Mitte",
+    "alt_name": "Bennos Brauhaus",
+    "amenity": "pub",
+    "contact:email": "bennosbrauhaus@web.de",
+    "contact:facebook": "https://www.facebook.com/bennosbrauhaus/",
+    "contact:foursquare": "573f5118498ee00a30c3b876",
+    "contact:mobile": "+49 1520 1464411",
+    "contact:tripadvisor": "12236332",
+    "contact:yelp": "bennos-brauhaus-witten",
+    "craft": "brewery",
+    "currency:EUR": "yes",
+    "currency:others": "no",
+    "delivery": "no",
+    "dog": "yes",
+    "drink:beer": "served;draught;retail;bottled",
+    "drink:now": "served;bottled",
+    "drink:wine": "served",
+    "image": "File:Witten Bennos Brauhaus.jpg",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "internet_access:operator": "Freifunk",
+    "internet_access:operator:wikidata": "Q2363543",
+    "level": "0",
+    "microbrewery": "yes",
+    "name": "Benno’s Brauhaus",
+    "name:etymology:wikidata": "Q13392591",
+    "opening_hours": "Th 18:00-22:00; Fr 18:00-24:00; Sa 17:00-24:00; PH off",
+    "operator": "Benno Bracht",
+    "operator:type": "private",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:others": "no",
+    "ref:vatin": "DE815614934",
+    "smoking": "no",
+    "start_date": "2016-04-01",
+    "toilets": "yes",
+    "toilets:wheelchair": "no",
+    "wheelchair": "limited",
+    "wheelchair:description:de": "Toiletten nicht rollstuhlgerecht und im Keller"
+  }
+},
+{
+  "type": "node",
+  "id": 1737635374,
+  "lat": 51.2149716,
+  "lon": 7.6310934,
+  "tags": {
+    "addr:city": "Lüdenscheid",
+    "addr:country": "DE",
+    "addr:housename": "Brauhaus Schillerbad GmbH & Co. KG - Hotel",
+    "addr:housenumber": "3",
+    "addr:postcode": "58511",
+    "addr:street": "Jockuschstraße",
+    "amenity": "restaurant",
+    "cuisine": "german",
+    "microbrewery": "yes",
+    "name": "Brauhaus Schillerbad",
+    "opening_hours": "Mo-Th 12:00-23:00, Fr 12:00-01:00, Sa 11:00-01:00, Su 12:00-22:00",
+    "source": "http://www.come-on.de/lokales/luedenscheid/brauhaus-schillerbad-ohne-kessel-4606817.html",
+    "source2": "http://www.come-on.de/lokales/luedenscheid/suche-nach-passendem-konzept-4610439.html",
+    "website": "https://www.brauhaus-schillerbad.de/",
+    "website2": "https://www.facebook.com/brauhaushotelschillerbad",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1931921327,
+  "lat": 51.5049785,
+  "lon": 7.4680824,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "greek",
+    "microbrewery": "yes",
+    "name": "Artemis",
+    "wheelchair": "limited",
+    "wheelchair:description": "Restaurant Barrierefrei, Keine erreichbaren Toiletten vorhanden"
+  }
+},
+{
+  "type": "node",
+  "id": 2324019296,
+  "lat": 51.5741735,
+  "lon": 6.9896432,
+  "tags": {
+    "addr:city": "Gladbeck",
+    "addr:housenumber": "2",
+    "addr:postcode": "45964",
+    "addr:street": "Humboldtstraße",
+    "amenity": "restaurant",
+    "check_date": "2017-05-12",
+    "contact:website": "http://www.hotel-gasthaus-altepost.de/",
+    "cuisine": "regional",
+    "currency:EUR": "yes",
+    "currency:others": "no",
+    "diet:gluten_free": "no",
+    "diet:vegan": "no",
+    "diet:vegetarian": "yes",
+    "fair_trade": "no",
+    "microbrewery": "yes",
+    "name": "Alte Post",
+    "opening_hours": "Mo-Su,PH 06:00-23:00",
+    "organic": "no",
+    "payment:cash": "yes",
+    "payment:contactless": "no",
+    "payment:girocard": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3473273670,
+  "lat": 51.4255601,
+  "lon": 7.2917652,
+  "tags": {
+    "craft": "brewery",
+    "microbrewery": "yes",
+    "name": "Brennerei Sonnenschein",
+    "wikidata": "Q2111058",
+    "wikimedia_commons": "Category:Privatbrennerei Sonnenschein",
+    "wikipedia": "de:Privatbrennerei Sonnenschein"
+  }
+},
+{
+  "type": "node",
+  "id": 4704976263,
+  "lat": 51.6248915,
+  "lon": 7.5252955,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "german",
+    "microbrewery": "yes",
+    "name": "Alte Kaffeerösterei",
+    "phone": "+49 2306 9597865",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 5081032221,
+  "lat": 51.4897193,
+  "lon": 7.5036876,
+  "tags": {
+    "addr:city": "Dortmund",
+    "addr:housenumber": "1",
+    "addr:postcode": "44263",
+    "addr:street": "Faßstraße",
+    "craft": "brewery",
+    "description": "Dortmunder Stifts-Brauerei (1987 Übernahme durch Kronen Brauerei) heute eine Marke der DAB (Dortmunder Actien-Brauerei)",
+    "historic": "yes",
+    "name": "ehem. Stifts-Brauerei",
+    "operator": "(Carl Funke AG)"
+  }
+},
+{
+  "type": "node",
+  "id": 5081065911,
+  "lat": 51.5123635,
+  "lon": 7.4589345,
+  "tags": {
+    "addr:city": "Dortmund",
+    "addr:postcode": "44137",
+    "addr:street": "Hoher Wall",
+    "craft": "brewery",
+    "historic": "yes",
+    "name": "ehem. Thier-Brauerei",
+    "website": "https://de.wikipedia.org/wiki/Brauerei_Thier"
+  }
+},
+{
+  "type": "node",
+  "id": 5081088206,
+  "lat": 51.5296863,
+  "lon": 7.4677911,
+  "tags": {
+    "craft": "brewery",
+    "description": "Dortmunder Hansa Brauerei 1971 von Dortmunder Actien-Brauerei übernommen (vormals Dortmunder Borussia-Brauerei) ",
+    "historic": "yes",
+    "name": "ehem. Hansa-Brauerei",
+    "website": "https://de.wikipedia.org/wiki/Dortmunder_Hansa"
+  }
+},
+{
+  "type": "node",
+  "id": 5081120896,
+  "lat": 51.5243495,
+  "lon": 7.3878444,
+  "tags": {
+    "addr:city": "Dortmund",
+    "addr:postcode": "44369",
+    "addr:street": "Rahmer Straße",
+    "craft": "brewery",
+    "description": "(ursprüngliche) Dortmunder Bergmann Brauerei (Marken-name wurde 2005 von der Dortmunder Bergmann Bier wiederbelebt)",
+    "historic": "yes",
+    "name": "ehem. Bergmann-Brauerei",
+    "website": "https://de.wikipedia.org/wiki/Dortmunder_Bergmann_Brauerei"
+  }
+},
+{
+  "type": "node",
+  "id": 5081183271,
+  "lat": 51.5035430,
+  "lon": 7.4773709,
+  "tags": {
+    "addr:city": "Dortmund",
+    "addr:housenumber": "79",
+    "addr:postcode": "44141",
+    "addr:street": "Märkische Straße",
+    "craft": "brewery",
+    "historic": "yes",
+    "name": "ehem. Kronen-Brauerei",
+    "website": "https://de.wikipedia.org/wiki/Kronen_Privatbrauerei_Dortmund"
+  }
+},
+{
+  "type": "node",
+  "id": 5188799506,
+  "lat": 51.7661008,
+  "lon": 7.4277367,
+  "tags": {
+    "brand": "Spökenkieker",
+    "craft": "brewery",
+    "name": "Lüdinghauser Brauwerkstatt",
+    "operator": "Norman Tenberge"
+  }
+},
+{
+  "type": "node",
+  "id": 5250235350,
+  "lat": 51.2723889,
+  "lon": 7.2007412,
+  "tags": {
+    "amenity": "pub",
+    "contact:fax": "+49 202 2550525",
+    "contact:phone": "+49 202 255050",
+    "contact:website": "http://www.wuppertalerbrauhaus.de/",
+    "entrance": "main",
+    "image": "File:Barmen-brewery 13.jpg",
+    "microbrewery": "yes",
+    "name": "Wuppertaler Brauhaus",
+    "phone": "+49 202 255050",
+    "smoking": "isolated",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "yes",
+    "wheelchair:description": "Barrierefreier Zugang (Lastenaufzug in den 1. Stock), barrierefreie Toilette vorhanden"
+  }
+},
+{
+  "type": "way",
+  "id": 164049082,
+  "nodes": [
+    1757096421,
+    1757096419,
+    1757096410,
+    1757096412,
+    1757096406,
+    1757096407,
+    1757096413,
+    1757096414,
+    1757096421
+  ],
+  "tags": {
+    "addr:city": "Hagen",
+    "addr:country": "DE",
+    "addr:housenumber": "61",
+    "addr:postcode": "58091",
+    "addr:street": "Dahler Straße",
+    "addr:suburb": "Dahl",
+    "amenity": "restaurant",
+    "building": "yes",
+    "contact:phone": "+49 2337 482655",
+    "contact:website": "http://www.brauerei-ausschank.de/",
+    "diet:vegetarian": "yes",
+    "microbrewery": "yes",
+    "name": "Zum Brauereiausschank Vormann",
+    "opening_hours": "Mo-Fr 17:00-24:00; Tu off; Sa-Su,PH 11:30-24:00",
+    "operator": "Familie Livancic",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 282902716,
+  "nodes": [
+    2868455880,
+    2868455951,
+    2868455942,
+    2868455891,
+    2868455871,
+    2868455849,
+    2868455848,
+    2868455829,
+    2868455853,
+    2868455831,
+    2868455842,
+    2868455846,
+    2868455881,
+    2868455926,
+    2868455924,
+    2868455915,
+    2868455916,
+    2868455905,
+    2868455904,
+    2868455880
+  ],
+  "tags": {
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Vormann Brauerei"
+  }
+},
+{
+  "type": "way",
+  "id": 406959934,
+  "nodes": [
+    4089965446,
+    4089965453,
+    4089965465,
+    4089965468,
+    4089965454,
+    4089965461,
+    4089965467,
+    4089965471,
+    4089965449,
+    4089965459,
+    4089965402,
+    4089965396,
+    4089965403,
+    4089965395,
+    4089965405,
+    4089965400,
+    4089965422,
+    4089965417,
+    4089965410,
+    4089965409,
+    4089965379,
+    4089965380,
+    4089965362,
+    4089965368,
+    4089965328,
+    4089965331,
+    4089965295,
+    4089965294,
+    4089965305,
+    4089965298,
+    4089965312,
+    4089965308,
+    4089965346,
+    4089965342,
+    4089965367,
+    4089965369,
+    4089965377,
+    4089965374,
+    4089965446
+  ],
+  "tags": {
+    "building": "manufacture",
+    "contact:website": "http://www.iserlohner.de",
+    "craft": "brewery",
+    "name": "Iserlohner Brauerei",
+    "wikidata": "Q1694518"
+  }
+},
+{
+  "type": "way",
+  "id": 527604472,
+  "nodes": [
+    5128993133,
+    5128993139,
+    5128993134,
+    5128993135,
+    5128993136,
+    5128993133
+  ],
+  "tags": {
+    "addr:city": "Dortmund",
+    "addr:housenumber": "2",
+    "addr:postcode": "44263",
+    "addr:street": "Elias-Bahn-Weg",
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Bergmann Brauerei GmbH"
+  }
+},
+{
+  "type": "way",
+  "id": 732347626,
+  "nodes": [
+    1037137229,
+    1037137314,
+    1037137303,
+    1037137268,
+    1037137252,
+    1037137220,
+    1037137212,
+    1037137236,
+    1037137265,
+    1037137283,
+    6857750739,
+    1037137294,
+    1037137226,
+    1037137232,
+    1037137274,
+    6857750740,
+    6857750736,
+    1037137235,
+    1037137275,
+    1037137285,
+    1037137320,
+    1528816958,
+    1037137277,
+    1037137304,
+    1037137262,
+    1037137245,
+    1037137227,
+    1037137263,
+    1037137278,
+    1037137306,
+    1528816956,
+    1528816960,
+    1528816961,
+    1528816955,
+    1037137323,
+    1037137297,
+    1037137318,
+    1037137229
+  ],
+  "tags": {
+    "addr:city": "Bochum",
+    "addr:country": "DE",
+    "addr:housenumber": "1",
+    "addr:postcode": "44787",
+    "addr:street": "Moritz-Fiege-Straße",
+    "building": "brewery",
+    "name": "Privatbrauerei Moritz Fiege",
+    "roof:shape": "hipped"
+  }
+},
+{
+  "type": "node",
+  "id": 1757096406,
+  "lat": 51.3039680,
+  "lon": 7.5306997
+},
+{
+  "type": "node",
+  "id": 1757096407,
+  "lat": 51.3039750,
+  "lon": 7.5306345
+},
+{
+  "type": "node",
+  "id": 1757096410,
+  "lat": 51.3039831,
+  "lon": 7.5307919
+},
+{
+  "type": "node",
+  "id": 1757096412,
+  "lat": 51.3039922,
+  "lon": 7.5307063
+},
+{
+  "type": "node",
+  "id": 1757096413,
+  "lat": 51.3039992,
+  "lon": 7.5306411
+},
+{
+  "type": "node",
+  "id": 1757096414,
+  "lat": 51.3040092,
+  "lon": 7.5305467
+},
+{
+  "type": "node",
+  "id": 1757096419,
+  "lat": 51.3041039,
+  "lon": 7.5308249
+},
+{
+  "type": "node",
+  "id": 1757096421,
+  "lat": 51.3041301,
+  "lon": 7.5305797
+},
+{
+  "type": "node",
+  "id": 2868455829,
+  "lat": 51.3034559,
+  "lon": 7.5305928
+},
+{
+  "type": "node",
+  "id": 2868455831,
+  "lat": 51.3034689,
+  "lon": 7.5308430
+},
+{
+  "type": "node",
+  "id": 2868455842,
+  "lat": 51.3035021,
+  "lon": 7.5309786
+},
+{
+  "type": "node",
+  "id": 2868455846,
+  "lat": 51.3035138,
+  "lon": 7.5309712
+},
+{
+  "type": "node",
+  "id": 2868455848,
+  "lat": 51.3035181,
+  "lon": 7.5305392
+},
+{
+  "type": "node",
+  "id": 2868455849,
+  "lat": 51.3035186,
+  "lon": 7.5305400
+},
+{
+  "type": "node",
+  "id": 2868455853,
+  "lat": 51.3035281,
+  "lon": 7.5308060
+},
+{
+  "type": "node",
+  "id": 2868455871,
+  "lat": 51.3035651,
+  "lon": 7.5306780
+},
+{
+  "type": "node",
+  "id": 2868455880,
+  "lat": 51.3036004,
+  "lon": 7.5307901
+},
+{
+  "type": "node",
+  "id": 2868455881,
+  "lat": 51.3036055,
+  "lon": 7.5313461
+},
+{
+  "type": "node",
+  "id": 2868455891,
+  "lat": 51.3036241,
+  "lon": 7.5306482
+},
+{
+  "type": "node",
+  "id": 2868455904,
+  "lat": 51.3036621,
+  "lon": 7.5310390
+},
+{
+  "type": "node",
+  "id": 2868455905,
+  "lat": 51.3036635,
+  "lon": 7.5310380
+},
+{
+  "type": "node",
+  "id": 2868455915,
+  "lat": 51.3036859,
+  "lon": 7.5311346
+},
+{
+  "type": "node",
+  "id": 2868455916,
+  "lat": 51.3036875,
+  "lon": 7.5311336
+},
+{
+  "type": "node",
+  "id": 2868455924,
+  "lat": 51.3037074,
+  "lon": 7.5312215
+},
+{
+  "type": "node",
+  "id": 2868455926,
+  "lat": 51.3037095,
+  "lon": 7.5312835
+},
+{
+  "type": "node",
+  "id": 2868455942,
+  "lat": 51.3037480,
+  "lon": 7.5305878
+},
+{
+  "type": "node",
+  "id": 2868455951,
+  "lat": 51.3037683,
+  "lon": 7.5306877
+},
+{
+  "type": "node",
+  "id": 1037137212,
+  "lat": 51.4811635,
+  "lon": 7.2282319
+},
+{
+  "type": "node",
+  "id": 1037137220,
+  "lat": 51.4810858,
+  "lon": 7.2282931
+},
+{
+  "type": "node",
+  "id": 1037137229,
+  "lat": 51.4809730,
+  "lon": 7.2278019
+},
+{
+  "type": "node",
+  "id": 1037137236,
+  "lat": 51.4811685,
+  "lon": 7.2282275
+},
+{
+  "type": "node",
+  "id": 1037137252,
+  "lat": 51.4810438,
+  "lon": 7.2281555
+},
+{
+  "type": "node",
+  "id": 1037137265,
+  "lat": 51.4812215,
+  "lon": 7.2283941
+},
+{
+  "type": "node",
+  "id": 1037137268,
+  "lat": 51.4811194,
+  "lon": 7.2280959
+},
+{
+  "type": "node",
+  "id": 1037137283,
+  "lat": 51.4812051,
+  "lon": 7.2284101
+},
+{
+  "type": "node",
+  "id": 1037137297,
+  "lat": 51.4812156,
+  "lon": 7.2281127
+},
+{
+  "type": "node",
+  "id": 1037137303,
+  "lat": 51.4810631,
+  "lon": 7.2279113
+},
+{
+  "type": "node",
+  "id": 1037137314,
+  "lat": 51.4810174,
+  "lon": 7.2279473
+},
+{
+  "type": "node",
+  "id": 1037137318,
+  "lat": 51.4810920,
+  "lon": 7.2277082
+},
+{
+  "type": "node",
+  "id": 1037137323,
+  "lat": 51.4812360,
+  "lon": 7.2281742
+},
+{
+  "type": "node",
+  "id": 1528816955,
+  "lat": 51.4813505,
+  "lon": 7.2285380
+},
+{
+  "type": "node",
+  "id": 1037137226,
+  "lat": 51.4811490,
+  "lon": 7.2289475
+},
+{
+  "type": "node",
+  "id": 1037137232,
+  "lat": 51.4812852,
+  "lon": 7.2295823
+},
+{
+  "type": "node",
+  "id": 1037137235,
+  "lat": 51.4813947,
+  "lon": 7.2290013
+},
+{
+  "type": "node",
+  "id": 1037137245,
+  "lat": 51.4817654,
+  "lon": 7.2302494
+},
+{
+  "type": "node",
+  "id": 1037137262,
+  "lat": 51.4815756,
+  "lon": 7.2302028
+},
+{
+  "type": "node",
+  "id": 1037137263,
+  "lat": 51.4816623,
+  "lon": 7.2294925
+},
+{
+  "type": "node",
+  "id": 1037137274,
+  "lat": 51.4814259,
+  "lon": 7.2294855
+},
+{
+  "type": "node",
+  "id": 1037137275,
+  "lat": 51.4813542,
+  "lon": 7.2290303
+},
+{
+  "type": "node",
+  "id": 1037137277,
+  "lat": 51.4814066,
+  "lon": 7.2303894
+},
+{
+  "type": "node",
+  "id": 1037137278,
+  "lat": 51.4816709,
+  "lon": 7.2293834
+},
+{
+  "type": "node",
+  "id": 1037137285,
+  "lat": 51.4814555,
+  "lon": 7.2294271
+},
+{
+  "type": "node",
+  "id": 1037137294,
+  "lat": 51.4812807,
+  "lon": 7.2288830
+},
+{
+  "type": "node",
+  "id": 1037137304,
+  "lat": 51.4815644,
+  "lon": 7.2303319
+},
+{
+  "type": "node",
+  "id": 1037137306,
+  "lat": 51.4816113,
+  "lon": 7.2293707
+},
+{
+  "type": "node",
+  "id": 1037137320,
+  "lat": 51.4815040,
+  "lon": 7.2294056
+},
+{
+  "type": "node",
+  "id": 1528816956,
+  "lat": 51.4814035,
+  "lon": 7.2287158
+},
+{
+  "type": "node",
+  "id": 1528816958,
+  "lat": 51.4815140,
+  "lon": 7.2294440
+},
+{
+  "type": "node",
+  "id": 1528816960,
+  "lat": 51.4816241,
+  "lon": 7.2287896
+},
+{
+  "type": "node",
+  "id": 1528816961,
+  "lat": 51.4816421,
+  "lon": 7.2286505
+},
+{
+  "type": "node",
+  "id": 6857750736,
+  "lat": 51.4813628,
+  "lon": 7.2289019
+},
+{
+  "type": "node",
+  "id": 6857750739,
+  "lat": 51.4813459,
+  "lon": 7.2288490
+},
+{
+  "type": "node",
+  "id": 6857750740,
+  "lat": 51.4812932,
+  "lon": 7.2289349
+},
+{
+  "type": "node",
+  "id": 1037137227,
+  "lat": 51.4818414,
+  "lon": 7.2295429
+},
+{
+  "type": "node",
+  "id": 5128993133,
+  "lat": 51.4891891,
+  "lon": 7.4878312
+},
+{
+  "type": "node",
+  "id": 5128993134,
+  "lat": 51.4890325,
+  "lon": 7.4878961
+},
+{
+  "type": "node",
+  "id": 5128993135,
+  "lat": 51.4890863,
+  "lon": 7.4882310
+},
+{
+  "type": "node",
+  "id": 5128993136,
+  "lat": 51.4892429,
+  "lon": 7.4881661
+},
+{
+  "type": "node",
+  "id": 5128993139,
+  "lat": 51.4891385,
+  "lon": 7.4878522
+},
+{
+  "type": "node",
+  "id": 4089965298,
+  "lat": 51.3624139,
+  "lon": 7.6741199
+},
+{
+  "type": "node",
+  "id": 4089965308,
+  "lat": 51.3625323,
+  "lon": 7.6740313
+},
+{
+  "type": "node",
+  "id": 4089965312,
+  "lat": 51.3625378,
+  "lon": 7.6740561
+},
+{
+  "type": "node",
+  "id": 4089965342,
+  "lat": 51.3627978,
+  "lon": 7.6738496
+},
+{
+  "type": "node",
+  "id": 4089965346,
+  "lat": 51.3628083,
+  "lon": 7.6738966
+},
+{
+  "type": "node",
+  "id": 4089965367,
+  "lat": 51.3629929,
+  "lon": 7.6737517
+},
+{
+  "type": "node",
+  "id": 4089965369,
+  "lat": 51.3630009,
+  "lon": 7.6737866
+},
+{
+  "type": "node",
+  "id": 4089965374,
+  "lat": 51.3630653,
+  "lon": 7.6735760
+},
+{
+  "type": "node",
+  "id": 4089965377,
+  "lat": 51.3630976,
+  "lon": 7.6737370
+},
+{
+  "type": "node",
+  "id": 4089965409,
+  "lat": 51.3633433,
+  "lon": 7.6741681
+},
+{
+  "type": "node",
+  "id": 4089965410,
+  "lat": 51.3633488,
+  "lon": 7.6742043
+},
+{
+  "type": "node",
+  "id": 4089965417,
+  "lat": 51.3633831,
+  "lon": 7.6741876
+},
+{
+  "type": "node",
+  "id": 4089965446,
+  "lat": 51.3636274,
+  "lon": 7.6732877
+},
+{
+  "type": "node",
+  "id": 4089965453,
+  "lat": 51.3636994,
+  "lon": 7.6736297
+},
+{
+  "type": "node",
+  "id": 4089965454,
+  "lat": 51.3637153,
+  "lon": 7.6737209
+},
+{
+  "type": "node",
+  "id": 4089965461,
+  "lat": 51.3637605,
+  "lon": 7.6739489
+},
+{
+  "type": "node",
+  "id": 4089965465,
+  "lat": 51.3638016,
+  "lon": 7.6735961
+},
+{
+  "type": "node",
+  "id": 4089965467,
+  "lat": 51.3638133,
+  "lon": 7.6739247
+},
+{
+  "type": "node",
+  "id": 4089965468,
+  "lat": 51.3638166,
+  "lon": 7.6736753
+},
+{
+  "type": "node",
+  "id": 4089965294,
+  "lat": 51.3622991,
+  "lon": 7.6747441
+},
+{
+  "type": "node",
+  "id": 4089965295,
+  "lat": 51.3623644,
+  "lon": 7.6750875
+},
+{
+  "type": "node",
+  "id": 4089965305,
+  "lat": 51.3625110,
+  "lon": 7.6746348
+},
+{
+  "type": "node",
+  "id": 4089965328,
+  "lat": 51.3626998,
+  "lon": 7.6748816
+},
+{
+  "type": "node",
+  "id": 4089965331,
+  "lat": 51.3627065,
+  "lon": 7.6749198
+},
+{
+  "type": "node",
+  "id": 4089965362,
+  "lat": 51.3629401,
+  "lon": 7.6744370
+},
+{
+  "type": "node",
+  "id": 4089965368,
+  "lat": 51.3629975,
+  "lon": 7.6747401
+},
+{
+  "type": "node",
+  "id": 4089965379,
+  "lat": 51.3631172,
+  "lon": 7.6742808
+},
+{
+  "type": "node",
+  "id": 4089965380,
+  "lat": 51.3631277,
+  "lon": 7.6743338
+},
+{
+  "type": "node",
+  "id": 4089965395,
+  "lat": 51.3632516,
+  "lon": 7.6745235
+},
+{
+  "type": "node",
+  "id": 4089965396,
+  "lat": 51.3632516,
+  "lon": 7.6746831
+},
+{
+  "type": "node",
+  "id": 4089965400,
+  "lat": 51.3632701,
+  "lon": 7.6744364
+},
+{
+  "type": "node",
+  "id": 4089965402,
+  "lat": 51.3632722,
+  "lon": 7.6747797
+},
+{
+  "type": "node",
+  "id": 4089965403,
+  "lat": 51.3632780,
+  "lon": 7.6746664
+},
+{
+  "type": "node",
+  "id": 4089965405,
+  "lat": 51.3632860,
+  "lon": 7.6745088
+},
+{
+  "type": "node",
+  "id": 4089965422,
+  "lat": 51.3634166,
+  "lon": 7.6743659
+},
+{
+  "type": "node",
+  "id": 4089965449,
+  "lat": 51.3636726,
+  "lon": 7.6742667
+},
+{
+  "type": "node",
+  "id": 4089965459,
+  "lat": 51.3637287,
+  "lon": 7.6745470
+},
+{
+  "type": "node",
+  "id": 4089965471,
+  "lat": 51.3638619,
+  "lon": 7.6741715
+}
+
+  ]
+}

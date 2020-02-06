@@ -1,0 +1,462 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T09:33:03Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 828919025,
+  "lat": 51.9088466,
+  "lon": 4.4488911,
+  "tags": {
+    "amenity": "pub",
+    "microbrewery": "yes",
+    "name": "De Pelgrim",
+    "website": "https://www.pelgrimbier.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 842269356,
+  "lat": 52.0856730,
+  "lon": 4.7421435,
+  "tags": {
+    "addr:city": "Bodegraven",
+    "addr:housenumber": "43",
+    "addr:postcode": "2411BT",
+    "addr:street": "Overtocht",
+    "amenity": "restaurant",
+    "microbrewery": "yes",
+    "name": "Brouwcafé de Molen",
+    "opening_hours": "We-Su 12:00-24:00",
+    "outdoor_seating": "yes",
+    "source": "BAG",
+    "source:date": "2014-03-24",
+    "website": "https://www.brouwerijdemolen.nl/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2599512339,
+  "lat": 52.0123485,
+  "lon": 4.3567164,
+  "tags": {
+    "addr:city": "Delft",
+    "addr:housenumber": "43",
+    "addr:postcode": "2611HM",
+    "addr:street": "Hippolytusbuurt",
+    "amenity": "pub",
+    "microbrewery": "yes",
+    "name": "Delfts Brouwhuis",
+    "source": "BAG",
+    "source:date": "2013-11-26",
+    "website": "http://delftsbrouwhuis.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 2599512448,
+  "lat": 52.0112683,
+  "lon": 4.3616959,
+  "tags": {
+    "addr:city": "Delft",
+    "addr:housenumber": "45",
+    "addr:postcode": "2611GG",
+    "addr:street": "Burgwal",
+    "amenity": "restaurant",
+    "cuisine": "chicken",
+    "microbrewery": "yes",
+    "name": "De Bierfabriek",
+    "opening_hours": "Mo-Th 16:00-00:00; Fr 16:00-01:00; Sa 13:00-01:00; Su 14:00-23:00",
+    "source": "BAG;survey",
+    "source:date": "2013-11-26",
+    "website": "https://www.bierfabriek.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 2714667403,
+  "lat": 52.0670443,
+  "lon": 4.3462831,
+  "tags": {
+    "addr:city": "'s-Gravenhage",
+    "addr:housenumber": "55",
+    "addr:postcode": "2516AE",
+    "addr:street": "Saturnusstraat",
+    "amenity": "pub",
+    "microbrewery": "yes",
+    "name": "Kompaan Beer Bar",
+    "source": "BAG",
+    "source:date": "2017-11-08",
+    "website": "http://kompaanbier.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 2718100856,
+  "lat": 52.0791327,
+  "lon": 4.3177339,
+  "tags": {
+    "addr:city": "'s-Gravenhage",
+    "addr:housenumber": "5",
+    "addr:postcode": "2511CE",
+    "addr:street": "Korte Koediefstraat",
+    "craft": "brewery",
+    "name": "Alien Brewing Company",
+    "source": "BAG",
+    "source:date": "2014-02-11"
+  }
+},
+{
+  "type": "node",
+  "id": 2909545777,
+  "lat": 52.1636736,
+  "lon": 4.4947427,
+  "tags": {
+    "addr:city": "Leiden",
+    "addr:housenumber": "70D",
+    "addr:postcode": "2312NV",
+    "addr:street": "Langegracht",
+    "craft": "brewery",
+    "name": "Pronck",
+    "source": "BAG",
+    "source:date": "2014-06-10",
+    "url": "https://brouwerijpronck.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 3214833256,
+  "lat": 51.9949489,
+  "lon": 4.3674282,
+  "tags": {
+    "addr:city": "Delft",
+    "addr:housenumber": "15M",
+    "addr:postcode": "2627AN",
+    "addr:street": "Schieweg",
+    "craft": "brewery",
+    "microbrewery": "yes",
+    "name": "Delftse Stadsbrouwerij De Koperen Kat",
+    "opening_hours": "Th 21:00-02:00; Fr 16:00-21:00; Sa-Su 14:00-20:00",
+    "phone": "+31642123398",
+    "source": "survey",
+    "website": "https://www.koperenkat.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 4767498756,
+  "lat": 51.9089036,
+  "lon": 4.4489134,
+  "tags": {
+    "craft": "brewery",
+    "name": "De Pelgrim"
+  }
+},
+{
+  "type": "node",
+  "id": 4829046021,
+  "lat": 51.9020302,
+  "lon": 4.4849706,
+  "tags": {
+    "addr:housenumber": "19-D",
+    "addr:street": "Veerlaan",
+    "amenity": "pub",
+    "craft": "brewery",
+    "microbrewery": "yes",
+    "name": "Kaapse Brouwers",
+    "name:en": "Kaapse Brouwers",
+    "opening_hours": "Tu-Su 12:00-23:00",
+    "website": "https://www.kaapsebrouwers.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 4993088361,
+  "lat": 51.9241817,
+  "lon": 4.4894468,
+  "tags": {
+    "addr:city": "Rotterdam",
+    "addr:housenumber": "284",
+    "addr:postcode": "3011KH",
+    "addr:street": "Goudsesingel",
+    "amenity": "restaurant",
+    "email": "info@degelekanarie.com",
+    "microbrewery": "yes",
+    "name": "De Gele Kanarie",
+    "operator": "Ron de Jong en Dave Heijnen",
+    "outdoor_seating": "yes",
+    "phone": "+31 10 333 5444",
+    "source": "BAG",
+    "source:date": "2017-07-08",
+    "website": "http://degelekanarie.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 5609696422,
+  "lat": 52.0752697,
+  "lon": 4.2925363,
+  "tags": {
+    "craft": "brewery",
+    "name": "De Prael"
+  }
+},
+{
+  "type": "node",
+  "id": 5614167246,
+  "lat": 51.9332247,
+  "lon": 4.4865837,
+  "tags": {
+    "craft": "brewery",
+    "name": "Brouwerij Noordt",
+    "opening_hours": "We-Fr 15:00-19:00; Sa-Su 14:00-19:00",
+    "website": "http://www.brouwerijnoordt.nl"
+  }
+},
+{
+  "type": "node",
+  "id": 6266055820,
+  "lat": 52.0759101,
+  "lon": 4.3099350,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "microbrewery": "yes",
+    "name": "Rootz",
+    "phone": "+31 70 3639988",
+    "website": "http://rootz.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 6616366397,
+  "lat": 52.0795191,
+  "lon": 4.3069525,
+  "tags": {
+    "addr:city": "'s-Gravenhage",
+    "addr:housenumber": "35",
+    "addr:postcode": "2513BA",
+    "addr:street": "Oude Molstraat",
+    "craft": "brewery",
+    "name": "Kloosterbrouwerij Haagsche Broeder",
+    "operator": "Broeders van Sint Jan"
+  }
+},
+{
+  "type": "relation",
+  "id": 3650833,
+  "members": [
+    {
+      "type": "way",
+      "ref": 274119704,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 274119710,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "building": "yes",
+    "contact:website": "http://www.heinekenhoreca.nl",
+    "craft": "brewery",
+    "name": "Heineken Groothandel",
+    "ref:bag": "599100000684694",
+    "source": "BAG",
+    "source:date": "2014-02-11",
+    "start_date": "1998",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "node",
+  "id": 2788927790,
+  "lat": 51.9426596,
+  "lon": 4.3990283
+},
+{
+  "type": "node",
+  "id": 2788927888,
+  "lat": 51.9427827,
+  "lon": 4.3996131
+},
+{
+  "type": "node",
+  "id": 2788927912,
+  "lat": 51.9428081,
+  "lon": 4.3995991
+},
+{
+  "type": "node",
+  "id": 2788927939,
+  "lat": 51.9428446,
+  "lon": 4.3988385
+},
+{
+  "type": "node",
+  "id": 2788927948,
+  "lat": 51.9428613,
+  "lon": 4.3989170
+},
+{
+  "type": "node",
+  "id": 2788927965,
+  "lat": 51.9429030,
+  "lon": 4.4001845
+},
+{
+  "type": "node",
+  "id": 2788927973,
+  "lat": 51.9429137,
+  "lon": 4.3990034
+},
+{
+  "type": "node",
+  "id": 2788927989,
+  "lat": 51.9429285,
+  "lon": 4.4001706
+},
+{
+  "type": "node",
+  "id": 2788927997,
+  "lat": 51.9429455,
+  "lon": 4.3991495
+},
+{
+  "type": "node",
+  "id": 2788928014,
+  "lat": 51.9429563,
+  "lon": 4.4004383
+},
+{
+  "type": "node",
+  "id": 2788928066,
+  "lat": 51.9430329,
+  "lon": 4.3987348
+},
+{
+  "type": "node",
+  "id": 2788928074,
+  "lat": 51.9430487,
+  "lon": 4.3988093
+},
+{
+  "type": "node",
+  "id": 2788928094,
+  "lat": 51.9430804,
+  "lon": 4.3989085
+},
+{
+  "type": "node",
+  "id": 2788928097,
+  "lat": 51.9430980,
+  "lon": 4.3990562
+},
+{
+  "type": "node",
+  "id": 2788928098,
+  "lat": 51.9430993,
+  "lon": 4.3990619
+},
+{
+  "type": "node",
+  "id": 2788928102,
+  "lat": 51.9431101,
+  "lon": 4.3990491
+},
+{
+  "type": "node",
+  "id": 2788928223,
+  "lat": 51.9432775,
+  "lon": 4.3986831
+},
+{
+  "type": "node",
+  "id": 2788928234,
+  "lat": 51.9433037,
+  "lon": 4.3992288
+},
+{
+  "type": "node",
+  "id": 2788928258,
+  "lat": 51.9433344,
+  "lon": 4.3989921
+},
+{
+  "type": "node",
+  "id": 2788928266,
+  "lat": 51.9433416,
+  "lon": 4.3989880
+},
+{
+  "type": "node",
+  "id": 2788928268,
+  "lat": 51.9433429,
+  "lon": 4.3990329
+},
+{
+  "type": "node",
+  "id": 2788928285,
+  "lat": 51.9433807,
+  "lon": 4.3990119
+},
+{
+  "type": "node",
+  "id": 2788928297,
+  "lat": 51.9434137,
+  "lon": 4.3991680
+},
+{
+  "type": "node",
+  "id": 2788928354,
+  "lat": 51.9434958,
+  "lon": 4.4001411
+},
+{
+  "type": "way",
+  "id": 274119704,
+  "nodes": [
+    2788928354,
+    2788928014,
+    2788927965,
+    2788927989,
+    2788927912,
+    2788927888,
+    2788927790,
+    2788927948,
+    2788927939,
+    2788928066,
+    2788928074,
+    2788928223,
+    2788928266,
+    2788928258,
+    2788928268,
+    2788928285,
+    2788928297,
+    2788928234,
+    2788928354
+  ]
+},
+{
+  "type": "way",
+  "id": 274119710,
+  "nodes": [
+    2788927997,
+    2788928098,
+    2788928097,
+    2788928102,
+    2788928094,
+    2788927973,
+    2788927997
+  ]
+}
+
+  ]
+}

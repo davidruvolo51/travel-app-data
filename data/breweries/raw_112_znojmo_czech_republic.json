@@ -1,0 +1,303 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T00:18:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1280378203,
+  "lat": 49.1308588,
+  "lon": 16.0800350,
+  "tags": {
+    "amenity": "restaurant",
+    "email": "recepce@pivovar-dalesice.cz",
+    "microbrewery": "yes",
+    "name": "Dalešický pivovar",
+    "opening_hours": "Mo-Sa 10:30-23:00; Su 10:30-21:00",
+    "phone": "+420 568 860 942",
+    "source": "uhul:ortofoto;cuzk:km",
+    "website": "www.pivovar-dalesice.cz"
+  }
+},
+{
+  "type": "node",
+  "id": 6618980845,
+  "lat": 48.9375927,
+  "lon": 15.7297627,
+  "tags": {
+    "craft": "brewery",
+    "name": "Hasičský pivovar",
+    "start_date": "2015-12-01",
+    "website": "http://www.pivovarbitov.cz/"
+  }
+},
+{
+  "type": "way",
+  "id": 71804456,
+  "nodes": [
+    4893354683,
+    853354601,
+    853352141,
+    853354105,
+    853353468,
+    853352388,
+    853353794,
+    853353281,
+    853352530,
+    4893354683
+  ],
+  "tags": {
+    "building": "brewery",
+    "building:levels": "1",
+    "building:ruian:type": "1",
+    "craft": "brewery",
+    "email": "info@pivovarznojmo.cz",
+    "name": "Znojemský městský pivovar a.s.",
+    "phone": "+420515220200",
+    "ref:ruian:building": "10919236",
+    "source": "cuzk:ruian",
+    "website": "https://www.pivovarznojmo.cz/"
+  }
+},
+{
+  "type": "way",
+  "id": 610634794,
+  "nodes": [
+    2137692379,
+    2807905051,
+    2807905046,
+    2807905023,
+    2807905028,
+    2807905013,
+    2807905015,
+    2807905048,
+    2807905040,
+    2807905044,
+    2807905050,
+    2807905064,
+    2807905119,
+    2807905208,
+    2807905244,
+    2807905243,
+    2807905242,
+    2807905232,
+    2807905205,
+    2137692381,
+    964979689,
+    964980702,
+    2807905077,
+    2137692379
+  ],
+  "tags": {
+    "addr:city": "Laa an der Thaya",
+    "addr:housenumber": "1",
+    "addr:postcode": "2136",
+    "addr:street": "Hubertusgasse",
+    "craft": "brewery",
+    "landuse": "industrial",
+    "name": "Hubertus Bräu",
+    "product": "beer",
+    "website": "http://www.hubertus.at/",
+    "wikidata": "Q1382723",
+    "wikipedia": "de:Hubertus Bräu"
+  }
+},
+{
+  "type": "node",
+  "id": 853352141,
+  "lat": 48.8561829,
+  "lon": 16.0448677
+},
+{
+  "type": "node",
+  "id": 853352388,
+  "lat": 48.8563338,
+  "lon": 16.0451036
+},
+{
+  "type": "node",
+  "id": 853352530,
+  "lat": 48.8559700,
+  "lon": 16.0448562
+},
+{
+  "type": "node",
+  "id": 853353281,
+  "lat": 48.8563164,
+  "lon": 16.0453962
+},
+{
+  "type": "node",
+  "id": 853353468,
+  "lat": 48.8562662,
+  "lon": 16.0449979
+},
+{
+  "type": "node",
+  "id": 853353794,
+  "lat": 48.8564189,
+  "lon": 16.0452364
+},
+{
+  "type": "node",
+  "id": 853354105,
+  "lat": 48.8562450,
+  "lon": 16.0449647
+},
+{
+  "type": "node",
+  "id": 853354601,
+  "lat": 48.8560771,
+  "lon": 16.0447020
+},
+{
+  "type": "node",
+  "id": 4893354683,
+  "lat": 48.8559723,
+  "lon": 16.0448489
+},
+{
+  "type": "node",
+  "id": 964979689,
+  "lat": 48.7196239,
+  "lon": 16.3891532
+},
+{
+  "type": "node",
+  "id": 964980702,
+  "lat": 48.7194409,
+  "lon": 16.3892715
+},
+{
+  "type": "node",
+  "id": 2137692379,
+  "lat": 48.7193425,
+  "lon": 16.3889771
+},
+{
+  "type": "node",
+  "id": 2137692381,
+  "lat": 48.7198224,
+  "lon": 16.3897037
+},
+{
+  "type": "node",
+  "id": 2807905013,
+  "lat": 48.7189360,
+  "lon": 16.3894039
+},
+{
+  "type": "node",
+  "id": 2807905015,
+  "lat": 48.7189478,
+  "lon": 16.3896150
+},
+{
+  "type": "node",
+  "id": 2807905023,
+  "lat": 48.7189792,
+  "lon": 16.3893204
+},
+{
+  "type": "node",
+  "id": 2807905028,
+  "lat": 48.7189910,
+  "lon": 16.3893586
+},
+{
+  "type": "node",
+  "id": 2807905040,
+  "lat": 48.7190577,
+  "lon": 16.3902421
+},
+{
+  "type": "node",
+  "id": 2807905044,
+  "lat": 48.7190940,
+  "lon": 16.3903869
+},
+{
+  "type": "node",
+  "id": 2807905046,
+  "lat": 48.7191090,
+  "lon": 16.3892227
+},
+{
+  "type": "node",
+  "id": 2807905048,
+  "lat": 48.7191316,
+  "lon": 16.3901944
+},
+{
+  "type": "node",
+  "id": 2807905051,
+  "lat": 48.7191653,
+  "lon": 16.3890946
+},
+{
+  "type": "node",
+  "id": 2807905077,
+  "lat": 48.7193752,
+  "lon": 16.3890803
+},
+{
+  "type": "node",
+  "id": 2807905205,
+  "lat": 48.7199038,
+  "lon": 16.3898762
+},
+{
+  "type": "node",
+  "id": 2807905232,
+  "lat": 48.7200880,
+  "lon": 16.3902597
+},
+{
+  "type": "node",
+  "id": 2807905050,
+  "lat": 48.7191515,
+  "lon": 16.3906350
+},
+{
+  "type": "node",
+  "id": 2807905064,
+  "lat": 48.7192560,
+  "lon": 16.3910606
+},
+{
+  "type": "node",
+  "id": 2807905119,
+  "lat": 48.7195174,
+  "lon": 16.3910257
+},
+{
+  "type": "node",
+  "id": 2807905208,
+  "lat": 48.7199099,
+  "lon": 16.3909718
+},
+{
+  "type": "node",
+  "id": 2807905242,
+  "lat": 48.7202626,
+  "lon": 16.3906673
+},
+{
+  "type": "node",
+  "id": 2807905243,
+  "lat": 48.7202891,
+  "lon": 16.3908504
+},
+{
+  "type": "node",
+  "id": 2807905244,
+  "lat": 48.7202924,
+  "lon": 16.3909229
+}
+
+  ]
+}

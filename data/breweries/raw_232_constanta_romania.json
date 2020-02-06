@@ -1,0 +1,78 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T10:05:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 6550885787,
+  "lat": 44.1791522,
+  "lon": 28.6505884,
+  "tags": {
+    "amenity": "pub",
+    "microbrewery": "yes",
+    "name": "Bier Haus"
+  }
+},
+{
+  "type": "node",
+  "id": 6661466369,
+  "lat": 44.1593399,
+  "lon": 28.5936167,
+  "tags": {
+    "addr:housenumber": "1",
+    "addr:street": "Șoseaua Industrială",
+    "craft": "brewery",
+    "industrial": "brewery",
+    "name": "Heineken",
+    "product": "beer",
+    "website": "http://www.heinekenromania.ro"
+  }
+},
+{
+  "type": "way",
+  "id": 135868770,
+  "nodes": [
+    1491329683,
+    1491329782,
+    1491329648,
+    1491329789,
+    1491329683
+  ],
+  "tags": {
+    "addr:housenumber": "1",
+    "addr:street": "Șoseaua Industrială",
+    "building": "brewery"
+  }
+},
+{
+  "type": "node",
+  "id": 1491329648,
+  "lat": 44.1591125,
+  "lon": 28.5948939
+},
+{
+  "type": "node",
+  "id": 1491329683,
+  "lat": 44.1592828,
+  "lon": 28.5938069
+},
+{
+  "type": "node",
+  "id": 1491329782,
+  "lat": 44.1593867,
+  "lon": 28.5948403
+},
+{
+  "type": "node",
+  "id": 1491329789,
+  "lat": 44.1590085,
+  "lon": 28.5938605
+}
+
+  ]
+}

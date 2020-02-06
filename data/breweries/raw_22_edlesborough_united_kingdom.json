@@ -1,0 +1,404 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-05T20:59:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 79696026,
+  "lat": 51.8334389,
+  "lon": -1.0483487,
+  "tags": {
+    "craft": "brewery",
+    "name": "Vale Brewery",
+    "website": "http://www.valebrewery.co.uk/"
+  }
+},
+{
+  "type": "node",
+  "id": 412256248,
+  "lat": 51.7528606,
+  "lon": -0.3442546,
+  "tags": {
+    "alt_name": "Foragers@Verulam",
+    "amenity": "pub",
+    "disused": "yes",
+    "disused:amenity": "pub",
+    "food": "yes",
+    "microbrewery": "yes",
+    "name": "Verulam Arms",
+    "note": "This went out of business recently.",
+    "real_ale": "3 beers (too dark to see pump clips, probably their own)",
+    "real_cider": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1513982732,
+  "lat": 52.0370047,
+  "lon": -0.3348693,
+  "tags": {
+    "craft": "brewery",
+    "name": "B&T Brewery"
+  }
+},
+{
+  "type": "node",
+  "id": 2702504623,
+  "lat": 51.5863551,
+  "lon": -0.7681224,
+  "tags": {
+    "addr:city": "Marlow",
+    "addr:housename": "Bencombe Farm, Marlow Bottom, Bucks, SL7 3LT",
+    "addr:postcode": "SL7 3LT",
+    "addr:street": "Marlow Bottom",
+    "craft": "brewery",
+    "name": "Rebellion Beer Co. Ltd",
+    "phone": "+44 1628 476594",
+    "website": "https://www.rebellionbeer.co.uk/"
+  }
+},
+{
+  "type": "node",
+  "id": 5303661723,
+  "lat": 51.6344293,
+  "lon": -0.7554669,
+  "tags": {
+    "addr:city": "High Wycombe",
+    "addr:street": "Bellfield Road",
+    "addr:unit": "8",
+    "craft": "brewery",
+    "name": "Fisher's Brewing Company",
+    "produce": "beer"
+  }
+},
+{
+  "type": "node",
+  "id": 5412146317,
+  "lat": 51.5915391,
+  "lon": -0.3817009,
+  "tags": {
+    "addr:city": "Pinner",
+    "addr:postcode": "HA5 5PB",
+    "addr:street": "Marsh Road",
+    "craft": "brewery",
+    "description": "Formed in January 2016, Pinnora Brewery is a nano craft brewery of epic proportions. Nestled in the leafy suburb of Pinner, Middlesex, Pinnora's hometown was originally a hamlet, first recorded in 1231 as Pinnora.",
+    "email": "brewery@pinnora.uk",
+    "name": "Pinnora Brewery",
+    "opening_hours": "Mo-Su 09:00-21:00",
+    "phone": "0845 744 BEER (2337)",
+    "product": "beer;craft_beer;ale;stout;lager;craft_lager",
+    "website": "https://pinnora.uk/"
+  }
+},
+{
+  "type": "node",
+  "id": 5767635119,
+  "lat": 51.7679079,
+  "lon": -0.5070287,
+  "tags": {
+    "craft": "brewery",
+    "name": "Mad Squirrel Brewery",
+    "operator": "Mad Squirrel"
+  }
+},
+{
+  "type": "node",
+  "id": 6154258636,
+  "lat": 52.0499470,
+  "lon": -0.8034825,
+  "tags": {
+    "addr:city": "Milton Keynes",
+    "addr:country": "GB",
+    "addr:housenumber": "3",
+    "addr:postcode": "MK12 6HP",
+    "addr:street": "Heathfield",
+    "addr:suburb": "Stacey Bushes",
+    "craft": "brewery",
+    "fhrs:authority": "Milton Keynes",
+    "fhrs:id": "1002449",
+    "fhrs:local_authority_id": "88444",
+    "name": "Blackened Sun Brewing Company Ltd"
+  }
+},
+{
+  "type": "node",
+  "id": 6254634852,
+  "lat": 51.7680026,
+  "lon": -0.5070341,
+  "tags": {
+    "addr:city": "Hemel Hempstead",
+    "addr:housenumber": "Unit 18 Boxted Farm",
+    "addr:postcode": "HP1 2SG",
+    "addr:street": "Berkhamsted Road",
+    "amenity": "pub",
+    "fhrs:id": "986651",
+    "microbrewery": "yes",
+    "name": "Mad Squirrel Tap and Bottle Shop",
+    "outdoor_seating": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 138402280,
+  "nodes": [
+    1517584498,
+    1517584496,
+    1517584497,
+    1517584499,
+    1517584498
+  ],
+  "tags": {
+    "addr:postcode": "HP17 0TQ",
+    "addr:street": "Nash Lee Road",
+    "building": "barn",
+    "craft": "brewery",
+    "name": "The Chiltern Brewery",
+    "opening_hours": "Mo-Th,Sa 09:00-17:00; Fr 09:00-19:00",
+    "shop": "alcohol",
+    "source": "website",
+    "source:geometry": "Bing",
+    "website": "https://www.chilternbrewery.co.uk/"
+  }
+},
+{
+  "type": "way",
+  "id": 166964358,
+  "nodes": [
+    1783543910,
+    1783543912,
+    1783543930,
+    1783543911,
+    1783543910
+  ],
+  "tags": {
+    "addr:place": "Dunsley Farm",
+    "addr:postcode": "HP23 6HA",
+    "addr:street": "London Road",
+    "building": "brewery",
+    "contact:facebook": "https://www.facebook.com/TringBrewery/",
+    "contact:phone": "+441442890721",
+    "contact:twitter": "@TringBrewery",
+    "contact:website": "http://www.tringbrewery.co.uk/",
+    "fhrs:id": "761538",
+    "name": "Tring Brewery Co.",
+    "opening_hours": "Mo-Tu 11:00-17:00; We-Th 09:00-18:00; Fr 09:00-19:30; Sa 09:00-17:00",
+    "shop": "alcohol"
+  }
+},
+{
+  "type": "way",
+  "id": 365213509,
+  "nodes": [
+    3692613110,
+    2648638304,
+    2648638325,
+    3692613111,
+    3692613112,
+    3692613113,
+    3692613114,
+    3692613115,
+    3692613116,
+    3692613110
+  ],
+  "tags": {
+    "addr:city": "Berkhamsted",
+    "addr:housenumber": "Unit 2 River Park Industrial Estate",
+    "addr:postcode": "HP4 1HL",
+    "addr:street": "Billet Lane",
+    "building": "yes",
+    "craft": "brewery",
+    "fhrs:id": "730581",
+    "name": "Haresfoot Brewery"
+  }
+},
+{
+  "type": "way",
+  "id": 691264193,
+  "nodes": [
+    6486291454,
+    6486291455,
+    6486291456,
+    6486291457,
+    6486291458,
+    6486291459,
+    6486291460,
+    6486291461,
+    6486291462,
+    6486291463,
+    6486291454
+  ],
+  "tags": {
+    "craft": "brewery",
+    "proposed:building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1517584496,
+  "lat": 51.7673078,
+  "lon": -0.7802097
+},
+{
+  "type": "node",
+  "id": 1517584497,
+  "lat": 51.7673341,
+  "lon": -0.7801347
+},
+{
+  "type": "node",
+  "id": 1517584498,
+  "lat": 51.7676375,
+  "lon": -0.7805124
+},
+{
+  "type": "node",
+  "id": 1517584499,
+  "lat": 51.7676639,
+  "lon": -0.7804373
+},
+{
+  "type": "node",
+  "id": 1783543910,
+  "lat": 51.7937269,
+  "lon": -0.6518223
+},
+{
+  "type": "node",
+  "id": 1783543911,
+  "lat": 51.7938088,
+  "lon": -0.6514419
+},
+{
+  "type": "node",
+  "id": 1783543912,
+  "lat": 51.7935520,
+  "lon": -0.6517238
+},
+{
+  "type": "node",
+  "id": 1783543930,
+  "lat": 51.7936340,
+  "lon": -0.6513434
+},
+{
+  "type": "node",
+  "id": 2648638304,
+  "lat": 51.7663663,
+  "lon": -0.5756329
+},
+{
+  "type": "node",
+  "id": 2648638325,
+  "lat": 51.7662413,
+  "lon": -0.5757423
+},
+{
+  "type": "node",
+  "id": 3692613110,
+  "lat": 51.7664825,
+  "lon": -0.5759575
+},
+{
+  "type": "node",
+  "id": 3692613111,
+  "lat": 51.7661571,
+  "lon": -0.5758127
+},
+{
+  "type": "node",
+  "id": 3692613112,
+  "lat": 51.7662086,
+  "lon": -0.5759521
+},
+{
+  "type": "node",
+  "id": 3692613113,
+  "lat": 51.7661970,
+  "lon": -0.5759655
+},
+{
+  "type": "node",
+  "id": 3692613114,
+  "lat": 51.7662484,
+  "lon": -0.5760916
+},
+{
+  "type": "node",
+  "id": 3692613115,
+  "lat": 51.7663082,
+  "lon": -0.5760326
+},
+{
+  "type": "node",
+  "id": 3692613116,
+  "lat": 51.7663331,
+  "lon": -0.5760970
+},
+{
+  "type": "node",
+  "id": 6486291454,
+  "lat": 52.1471620,
+  "lon": -0.4887246
+},
+{
+  "type": "node",
+  "id": 6486291455,
+  "lat": 52.1472885,
+  "lon": -0.4873650
+},
+{
+  "type": "node",
+  "id": 6486291456,
+  "lat": 52.1471585,
+  "lon": -0.4873328
+},
+{
+  "type": "node",
+  "id": 6486291457,
+  "lat": 52.1471489,
+  "lon": -0.4874356
+},
+{
+  "type": "node",
+  "id": 6486291458,
+  "lat": 52.1470639,
+  "lon": -0.4874147
+},
+{
+  "type": "node",
+  "id": 6486291459,
+  "lat": 52.1470535,
+  "lon": -0.4875268
+},
+{
+  "type": "node",
+  "id": 6486291460,
+  "lat": 52.1469542,
+  "lon": -0.4875022
+},
+{
+  "type": "node",
+  "id": 6486291461,
+  "lat": 52.1469228,
+  "lon": -0.4878394
+},
+{
+  "type": "node",
+  "id": 6486291462,
+  "lat": 52.1470240,
+  "lon": -0.4878644
+},
+{
+  "type": "node",
+  "id": 6486291463,
+  "lat": 52.1469489,
+  "lon": -0.4886719
+}
+
+  ]
+}

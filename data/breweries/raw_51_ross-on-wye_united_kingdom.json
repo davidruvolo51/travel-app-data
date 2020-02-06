@@ -1,0 +1,417 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-05T22:02:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2012971501,
+  "lat": 51.8978757,
+  "lon": -2.3309821,
+  "tags": {
+    "addr:place": "Rudford",
+    "addr:postcode": "GL2 8DX",
+    "amenity": "restaurant",
+    "cuisine": "gastropub",
+    "fhrs:id": "10591",
+    "microbrewery": "yes",
+    "name": "The Dark Barn",
+    "stars": "4",
+    "website": "www.barbersbridge.co.uk"
+  }
+},
+{
+  "type": "node",
+  "id": 3852259998,
+  "lat": 51.8982377,
+  "lon": -2.0710801,
+  "tags": {
+    "craft": "brewery",
+    "entrance": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4424102015,
+  "lat": 51.9219042,
+  "lon": -2.6273877,
+  "tags": {
+    "craft": "brewery",
+    "name": "Ross Cider"
+  }
+},
+{
+  "type": "node",
+  "id": 4876146036,
+  "lat": 51.7244215,
+  "lon": -2.1995438,
+  "tags": {
+    "craft": "brewery"
+  }
+},
+{
+  "type": "node",
+  "id": 5005137123,
+  "lat": 52.0545010,
+  "lon": -2.4899495,
+  "tags": {
+    "addr:city": "Ledbury",
+    "addr:housename": "Gazerdine House",
+    "addr:postcode": "HR8 2PZ",
+    "addr:street": "Hereford Road",
+    "craft": "brewery",
+    "internet": "http://www.ledburyrealales.co.uk/",
+    "name": "Ledbury Real Ales",
+    "phone": "+44 1531 671 184",
+    "product": "beer"
+  }
+},
+{
+  "type": "node",
+  "id": 5891213610,
+  "lat": 51.8995938,
+  "lon": -2.1002779,
+  "tags": {
+    "craft": "brewery",
+    "name": "DEYA Brewing Company",
+    "website": "https://deyabrewing.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 136989093,
+  "nodes": [
+    1502785538,
+    1502785544,
+    1502785542,
+    1502785543,
+    1502785540,
+    1502785534,
+    1502785532,
+    1502785530,
+    1502785526,
+    1502785528,
+    1502785536,
+    1502785538
+  ],
+  "tags": {
+    "craft": "brewery",
+    "landuse": "industrial",
+    "name": "Wye Valley Brewery",
+    "source": "bing"
+  }
+},
+{
+  "type": "way",
+  "id": 166106669,
+  "nodes": [
+    1775897915,
+    1775898092,
+    1815411710,
+    1775897740,
+    1775897852,
+    1775897828,
+    3852259998,
+    1775897915
+  ],
+  "tags": {
+    "addr:housenumber": "10",
+    "addr:postcode": "GL52 2SG",
+    "addr:street": "Grosvenor Street",
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Pops Home Brew",
+    "opening_hours": "Mo-We,Fr,Sa 09:30-17:00; Th,Su,PH off",
+    "phone": "+441242 232426"
+  }
+},
+{
+  "type": "way",
+  "id": 229708523,
+  "nodes": [
+    2382686512,
+    2382686504,
+    2382686516,
+    2382686526,
+    2382686512
+  ],
+  "tags": {
+    "building": "brewery",
+    "man_made": "works",
+    "name": "Teme Valley Brewery"
+  }
+},
+{
+  "type": "way",
+  "id": 229708524,
+  "nodes": [
+    2382686511,
+    2382686516,
+    2382686523,
+    2382686518,
+    2382686506,
+    2382686511
+  ],
+  "tags": {
+    "building": "brewery",
+    "man_made": "works",
+    "name": "Teme Valley Brewery"
+  }
+},
+{
+  "type": "way",
+  "id": 258166007,
+  "nodes": [
+    2635666046,
+    2635666048,
+    2635666045,
+    2635666042,
+    2635666043,
+    2635666044,
+    2635666046
+  ],
+  "tags": {
+    "building": "industrial",
+    "craft": "brewery",
+    "name": "Battledown Brewery"
+  }
+},
+{
+  "type": "way",
+  "id": 596642540,
+  "nodes": [
+    5683120837,
+    5683120838,
+    5683120839,
+    5683120840,
+    5683120837
+  ],
+  "tags": {
+    "building": "brewery",
+    "name": "The Hop Shed",
+    "source": "Bing+survey"
+  }
+},
+{
+  "type": "node",
+  "id": 1502785526,
+  "lat": 52.1487090,
+  "lon": -2.5517403
+},
+{
+  "type": "node",
+  "id": 1502785528,
+  "lat": 52.1491210,
+  "lon": -2.5522537
+},
+{
+  "type": "node",
+  "id": 1502785530,
+  "lat": 52.1491717,
+  "lon": -2.5512987
+},
+{
+  "type": "node",
+  "id": 1502785532,
+  "lat": 52.1494672,
+  "lon": -2.5515797
+},
+{
+  "type": "node",
+  "id": 1502785534,
+  "lat": 52.1495527,
+  "lon": -2.5514064
+},
+{
+  "type": "node",
+  "id": 1502785536,
+  "lat": 52.1495616,
+  "lon": -2.5529107
+},
+{
+  "type": "node",
+  "id": 1502785538,
+  "lat": 52.1497334,
+  "lon": -2.5529323
+},
+{
+  "type": "node",
+  "id": 1502785540,
+  "lat": 52.1497796,
+  "lon": -2.5513885
+},
+{
+  "type": "node",
+  "id": 1502785542,
+  "lat": 52.1499405,
+  "lon": -2.5517511
+},
+{
+  "type": "node",
+  "id": 1502785543,
+  "lat": 52.1499581,
+  "lon": -2.5516901
+},
+{
+  "type": "node",
+  "id": 1502785544,
+  "lat": 52.1501277,
+  "lon": -2.5519773
+},
+{
+  "type": "node",
+  "id": 1775897740,
+  "lat": 51.8982763,
+  "lon": -2.0711321
+},
+{
+  "type": "node",
+  "id": 1775897828,
+  "lat": 51.8982192,
+  "lon": -2.0711053
+},
+{
+  "type": "node",
+  "id": 1775897852,
+  "lat": 51.8982520,
+  "lon": -2.0711641
+},
+{
+  "type": "node",
+  "id": 1775897915,
+  "lat": 51.8982562,
+  "lon": -2.0710549
+},
+{
+  "type": "node",
+  "id": 1775898092,
+  "lat": 51.8982819,
+  "lon": -2.0711016
+},
+{
+  "type": "node",
+  "id": 1815411710,
+  "lat": 51.8982705,
+  "lon": -2.0711176
+},
+{
+  "type": "node",
+  "id": 3852259998,
+  "lat": 51.8982377,
+  "lon": -2.0710801
+},
+{
+  "type": "node",
+  "id": 2635666042,
+  "lat": 51.8952112,
+  "lon": -2.0634033
+},
+{
+  "type": "node",
+  "id": 2635666043,
+  "lat": 51.8952404,
+  "lon": -2.0634783
+},
+{
+  "type": "node",
+  "id": 2635666044,
+  "lat": 51.8953003,
+  "lon": -2.0634292
+},
+{
+  "type": "node",
+  "id": 2635666045,
+  "lat": 51.8953166,
+  "lon": -2.0633101
+},
+{
+  "type": "node",
+  "id": 2635666046,
+  "lat": 51.8954024,
+  "lon": -2.0636083
+},
+{
+  "type": "node",
+  "id": 2635666048,
+  "lat": 51.8954490,
+  "lon": -2.0635411
+},
+{
+  "type": "node",
+  "id": 5683120837,
+  "lat": 52.1507948,
+  "lon": -2.4067768
+},
+{
+  "type": "node",
+  "id": 5683120838,
+  "lat": 52.1508075,
+  "lon": -2.4064188
+},
+{
+  "type": "node",
+  "id": 5683120839,
+  "lat": 52.1503682,
+  "lon": -2.4063637
+},
+{
+  "type": "node",
+  "id": 5683120840,
+  "lat": 52.1503555,
+  "lon": -2.4067424
+},
+{
+  "type": "node",
+  "id": 2382686506,
+  "lat": 52.2021737,
+  "lon": -2.3922804
+},
+{
+  "type": "node",
+  "id": 2382686511,
+  "lat": 52.2022128,
+  "lon": -2.3920712
+},
+{
+  "type": "node",
+  "id": 2382686516,
+  "lat": 52.2022745,
+  "lon": -2.3921019
+},
+{
+  "type": "node",
+  "id": 2382686518,
+  "lat": 52.2022912,
+  "lon": -2.3923387
+},
+{
+  "type": "node",
+  "id": 2382686523,
+  "lat": 52.2023302,
+  "lon": -2.3921296
+},
+{
+  "type": "node",
+  "id": 2382686504,
+  "lat": 52.2021693,
+  "lon": -2.3919748
+},
+{
+  "type": "node",
+  "id": 2382686512,
+  "lat": 52.2022350,
+  "lon": -2.3918303
+},
+{
+  "type": "node",
+  "id": 2382686526,
+  "lat": 52.2023401,
+  "lon": -2.3919576
+}
+
+  ]
+}

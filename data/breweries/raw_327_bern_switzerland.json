@@ -1,0 +1,687 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T12:24:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 253201072,
+  "lat": 46.9475089,
+  "lon": 7.4596534,
+  "tags": {
+    "addr:city": "Bern",
+    "addr:country": "CH",
+    "addr:housenumber": "6",
+    "addr:postcode": "3006",
+    "addr:street": "Grosser Muristalden",
+    "alt_name": "Tramdepot",
+    "amenity": "restaurant",
+    "contact:addr": "Grosser Muristalden 6, 3006 Bern",
+    "contact:email": "info@altestramdepot.ch",
+    "contact:facebook": "https://www.facebook.com/altestramdepot.ch",
+    "contact:fax": "+41 31 3681416",
+    "contact:phone": "+41 31 3681415",
+    "contact:website": "https://www.altestramdepot.ch",
+    "cuisine": "international",
+    "internet_access": "wlan",
+    "microbrewery": "yes",
+    "name": "Altes Tramdepot",
+    "opening_hours": "Mar-Oct Mo-Su 10:00-00:30; Nov-Feb Mo-Su11:00-00:30",
+    "opening_hours:cuisine": "Mo-Su 11:00-23:30",
+    "operator": "Altes Tramdepot Brauerei Restaurant AG",
+    "outdoor_seating": "yes",
+    "source": "survey and website",
+    "website": "https://www.altestramdepot.ch",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 687752418,
+  "lat": 46.9296373,
+  "lon": 7.5655159,
+  "tags": {
+    "craft": "brewery",
+    "name": "Bierbrauerei Egger Worb",
+    "website": "https://www.eggerbier.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 1193317071,
+  "lat": 46.9582677,
+  "lon": 7.0161168,
+  "tags": {
+    "amenity": "restaurant",
+    "capacity": "50",
+    "microbrewery": "yes",
+    "name": "Société Nautique de Cudrefin",
+    "smoking": "outside",
+    "takeaway": "no",
+    "website": "http://snc-cudrefin.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 2705367348,
+  "lat": 46.9587229,
+  "lon": 7.4542216,
+  "tags": {
+    "amenity": "pub",
+    "brewery": "various",
+    "contact:addr": "Breitenrainplatz 40, 3014 Bern",
+    "contact:email": "info@b40-ag.ch",
+    "contact:facebook": "https://www.facebook.com/barbiereb40",
+    "contact:phone": "+41 31 5367077",
+    "contact:twitter": "https://twitter.com/barbiere_b40",
+    "microbrewery": "yes",
+    "name": "Barbière",
+    "opening_hours": "Mo-Fr 07:00-00:30; Sa 09:00-00:30; Su off",
+    "operator": "B40 AG",
+    "smoking": "outside",
+    "source": "website and survey",
+    "toilets:wheelchair": "no",
+    "website": "https://www.barbiere-bern.ch",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3181735845,
+  "lat": 46.8107270,
+  "lon": 7.1488504,
+  "tags": {
+    "addr:city": "Fribourg",
+    "addr:housenumber": "1",
+    "addr:postcode": "1700",
+    "addr:street": "Chemin des Roches",
+    "craft": "brewery",
+    "name": "La Brasserie du Chauve Sàrl",
+    "opening_hours": "Tu-Fr 16:00-19:00",
+    "phone": "+41 26 552 00 10",
+    "website": "https://labrasserieduchauve.ch/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4351682198,
+  "lat": 47.1291038,
+  "lon": 7.2378303,
+  "tags": {
+    "addr:city": "Nidau",
+    "addr:country": "CH",
+    "addr:housenumber": "5",
+    "addr:postcode": "2560",
+    "addr:street": "Uferweg",
+    "amenity": "restaurant",
+    "beds": "88",
+    "changing_table": "yes",
+    "changing_table:location": "wheelchair_toilet",
+    "contact:email": "sleep@lagolodge.ch",
+    "contact:phone": "+41 32 331 37 32",
+    "contact:website": "http://www.lagolodge.ch",
+    "craft": "brewery",
+    "diet:vegetarian": "yes",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "microbrewery": "yes",
+    "name": "Lago Lodge",
+    "opening_hours": "Su-Th 07:00-23:30; Fr-Sa 07:00-00:30",
+    "outdoor_seating": "yes",
+    "rooms": "20",
+    "smoking": "outside",
+    "toilets:wheelchair": "yes",
+    "tourism": "hostel",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4914933757,
+  "lat": 47.0725523,
+  "lon": 7.3055457,
+  "tags": {
+    "addr:city": "Lyss",
+    "addr:country": "CH",
+    "addr:postcode": "3250",
+    "addr:street": "Schulgasse",
+    "craft": "brewery",
+    "housenumber": "1",
+    "microbrewery": "yes",
+    "name": "dear.beer",
+    "opening_hours": "Fr 16:30-19:00",
+    "phone": "+41 78 768 12 50"
+  }
+},
+{
+  "type": "node",
+  "id": 5685412777,
+  "lat": 46.9487286,
+  "lon": 7.4018930,
+  "tags": {
+    "addr:housenumber": "9a",
+    "addr:postcode": "3027",
+    "addr:street": "Ziegelackerstrasse",
+    "craft": "brewery",
+    "name": "BrauKunst Bern",
+    "phone": "+41793129458",
+    "website": "www.braukunstbern.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 5685412778,
+  "lat": 46.9473352,
+  "lon": 7.4021896,
+  "tags": {
+    "addr:housenumber": "50c",
+    "addr:postcode": "3027",
+    "addr:street": "Stöckackerstrasse",
+    "craft": "brewery",
+    "name": "Brauerei Schuum",
+    "opening_hours": "Fr 16:00-19:00",
+    "website": "www.schuum.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 5809802877,
+  "lat": 47.2306370,
+  "lon": 7.4722226,
+  "tags": {
+    "addr:housenumber": "13",
+    "addr:street": "Allmendstrasse",
+    "craft": "brewery",
+    "name": "Brunos Brauerei",
+    "shop": "beer",
+    "website": "https://www.brunobier.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 5814330705,
+  "lat": 47.0583822,
+  "lon": 7.6265638,
+  "tags": {
+    "addr:city": "Burgdorf",
+    "addr:housenumber": "16",
+    "addr:postcode": "3400",
+    "addr:street": "Kornhausgasse",
+    "craft": "brewery",
+    "name": "Burgdorfer Gasthausbrauerei AG",
+    "opening_hours": "Fr 14:00-16:00",
+    "phone": "+41 34 423 13 64",
+    "product": "beer",
+    "website": "http://burgdorferbier.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 6569408053,
+  "lat": 47.0732692,
+  "lon": 7.3066981,
+  "tags": {
+    "addr:city": "Lyss",
+    "addr:housenumber": "12",
+    "addr:postcode": "3250",
+    "addr:street": "Hauptstrasse",
+    "craft": "brewery",
+    "name": "Fleur de Lyss",
+    "opening_hours": "Fr 16:00-19:00",
+    "operator": "David Bürgi, Lukas Schenkel",
+    "product": "beer",
+    "source": "local knowledge",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6783670430,
+  "lat": 47.1435175,
+  "lon": 7.2464023,
+  "tags": {
+    "addr:city": "Biel/Bienne",
+    "addr:housenumber": "13",
+    "addr:postcode": "2502",
+    "addr:street": "Schützengasse",
+    "alt_name": "Mon oeil bräu",
+    "contact:email": "info@mon-oeil-bräu.ch",
+    "contact:website": "http://www.mon-oeil-bräu.ch",
+    "craft": "brewery",
+    "name": "Mon œil bräu",
+    "operator": "Nico und Dänu",
+    "product": "beer"
+  }
+},
+{
+  "type": "node",
+  "id": 6872790875,
+  "lat": 47.1414391,
+  "lon": 7.2462947,
+  "tags": {
+    "craft": "brewery",
+    "description": "Sells coffee, dried nuts and beer.",
+    "name": "Café Choucas",
+    "old_name": "Pferdemetzgerei H.Rutz",
+    "opening_hours": "Th 10:00-13:00,16:00-18:00; Fr 10:00-13:00,16:00-20:00; Sa 10:00-13:00",
+    "shop": "coffee",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7056633715,
+  "lat": 47.1395021,
+  "lon": 7.2405326,
+  "tags": {
+    "addr:city": "Biel/Bienne",
+    "addr:country": "CH",
+    "addr:housenumber": "79",
+    "addr:street": "Seevorstadt",
+    "addr:street:fr": "Faubourg du Lac",
+    "contact:email": "brasserie-la-marmotte@bluewin.ch",
+    "contact:fax": "+41 27 481 51 80",
+    "contact:phone": "+41 27 481 34 14",
+    "contact:website": "http://brasserie-la-marmotte-bienne.ch/",
+    "craft": "brewery",
+    "name": "Brasserie la Marmotte",
+    "product": "beer"
+  }
+},
+{
+  "type": "way",
+  "id": 52056053,
+  "nodes": [
+    663537941,
+    663537942,
+    663537944,
+    663537939,
+    663537940,
+    663537927,
+    663537936,
+    663537937,
+    2024983865,
+    663537941
+  ],
+  "tags": {
+    "addr:city": "Rüttenen",
+    "addr:housenumber": "1b",
+    "addr:postcode": "4522",
+    "addr:street": "Einsiedelei",
+    "amenity": "restaurant",
+    "building": "yes",
+    "craft": "brewery",
+    "microbrewery": "yes",
+    "name": "Restaurant Einsiedelei",
+    "opening_hours": "May-Aug: We-Su 11:00+; Mo-Tu off; Sep-Oct,Apr:We-Sa 14:00+; Su 11:00-22:00; Mo-Tu off; Nov-Mar: We-Sa 15:00+; Su 11:00-22:00; Mo-Tu off",
+    "source": "orthofoto WMS Solothurn",
+    "website": "https://www.restaurant-einsiedelei.ch/"
+  }
+},
+{
+  "type": "way",
+  "id": 299981410,
+  "nodes": [
+    884234051,
+    2358194089,
+    884233197,
+    884232995,
+    884234019,
+    884233809,
+    884233595,
+    884233368,
+    884233176,
+    884232970,
+    884234149,
+    884233913,
+    884233714,
+    884233496,
+    884233269,
+    884233214,
+    884233027,
+    884232951,
+    884234127,
+    884233901,
+    884233698,
+    884233484,
+    884234237,
+    884233068,
+    884233256,
+    884233475,
+    884233695,
+    884233895,
+    884234121,
+    884232948,
+    884233742,
+    884234016,
+    884233188,
+    884232984,
+    884234155,
+    892564181,
+    884233926,
+    884233727,
+    884233499,
+    884233277,
+    884233084,
+    884234260,
+    884234051
+  ],
+  "tags": {
+    "building": "brewery",
+    "source": "Orthofoto Bern"
+  }
+},
+{
+  "type": "node",
+  "id": 884232948,
+  "lat": 46.9726604,
+  "lon": 7.4400428
+},
+{
+  "type": "node",
+  "id": 884232951,
+  "lat": 46.9726490,
+  "lon": 7.4405308
+},
+{
+  "type": "node",
+  "id": 884232984,
+  "lat": 46.9726035,
+  "lon": 7.4402909
+},
+{
+  "type": "node",
+  "id": 884232995,
+  "lat": 46.9721901,
+  "lon": 7.4406296
+},
+{
+  "type": "node",
+  "id": 884233027,
+  "lat": 46.9727171,
+  "lon": 7.4405380
+},
+{
+  "type": "node",
+  "id": 884233068,
+  "lat": 46.9727418,
+  "lon": 7.4404321
+},
+{
+  "type": "node",
+  "id": 884233084,
+  "lat": 46.9724345,
+  "lon": 7.4403158
+},
+{
+  "type": "node",
+  "id": 884233176,
+  "lat": 46.9728525,
+  "lon": 7.4407159
+},
+{
+  "type": "node",
+  "id": 884233188,
+  "lat": 46.9726215,
+  "lon": 7.4402929
+},
+{
+  "type": "node",
+  "id": 884233197,
+  "lat": 46.9721988,
+  "lon": 7.4404523
+},
+{
+  "type": "node",
+  "id": 884233214,
+  "lat": 46.9727164,
+  "lon": 7.4405533
+},
+{
+  "type": "node",
+  "id": 884233256,
+  "lat": 46.9727600,
+  "lon": 7.4401221
+},
+{
+  "type": "node",
+  "id": 884233269,
+  "lat": 46.9727706,
+  "lon": 7.4405590
+},
+{
+  "type": "node",
+  "id": 884233277,
+  "lat": 46.9724556,
+  "lon": 7.4403180
+},
+{
+  "type": "node",
+  "id": 884233368,
+  "lat": 46.9726324,
+  "lon": 7.4406926
+},
+{
+  "type": "node",
+  "id": 884233475,
+  "lat": 46.9727738,
+  "lon": 7.4401238
+},
+{
+  "type": "node",
+  "id": 884233484,
+  "lat": 46.9726165,
+  "lon": 7.4403766
+},
+{
+  "type": "node",
+  "id": 884233496,
+  "lat": 46.9727718,
+  "lon": 7.4405347
+},
+{
+  "type": "node",
+  "id": 884233499,
+  "lat": 46.9724608,
+  "lon": 7.4402115
+},
+{
+  "type": "node",
+  "id": 884233595,
+  "lat": 46.9726338,
+  "lon": 7.4406624
+},
+{
+  "type": "node",
+  "id": 884233695,
+  "lat": 46.9727786,
+  "lon": 7.4400420
+},
+{
+  "type": "node",
+  "id": 884233698,
+  "lat": 46.9726006,
+  "lon": 7.4403749
+},
+{
+  "type": "node",
+  "id": 884233714,
+  "lat": 46.9729007,
+  "lon": 7.4405483
+},
+{
+  "type": "node",
+  "id": 884233727,
+  "lat": 46.9725153,
+  "lon": 7.4402172
+},
+{
+  "type": "node",
+  "id": 884233742,
+  "lat": 46.9726551,
+  "lon": 7.4401335
+},
+{
+  "type": "node",
+  "id": 884233809,
+  "lat": 46.9725889,
+  "lon": 7.4406577
+},
+{
+  "type": "node",
+  "id": 884233895,
+  "lat": 46.9727191,
+  "lon": 7.4400345
+},
+{
+  "type": "node",
+  "id": 884233901,
+  "lat": 46.9725964,
+  "lon": 7.4404617
+},
+{
+  "type": "node",
+  "id": 884233913,
+  "lat": 46.9729032,
+  "lon": 7.4404981
+},
+{
+  "type": "node",
+  "id": 884233926,
+  "lat": 46.9725186,
+  "lon": 7.4401503
+},
+{
+  "type": "node",
+  "id": 884234016,
+  "lat": 46.9726309,
+  "lon": 7.4401305
+},
+{
+  "type": "node",
+  "id": 884234019,
+  "lat": 46.9725882,
+  "lon": 7.4406716
+},
+{
+  "type": "node",
+  "id": 884234051,
+  "lat": 46.9722738,
+  "lon": 7.4403089
+},
+{
+  "type": "node",
+  "id": 884234121,
+  "lat": 46.9727182,
+  "lon": 7.4400501
+},
+{
+  "type": "node",
+  "id": 884234127,
+  "lat": 46.9726521,
+  "lon": 7.4404676
+},
+{
+  "type": "node",
+  "id": 884234155,
+  "lat": 46.9726099,
+  "lon": 7.4401599
+},
+{
+  "type": "node",
+  "id": 884234237,
+  "lat": 46.9726141,
+  "lon": 7.4404160
+},
+{
+  "type": "node",
+  "id": 884234260,
+  "lat": 46.9724340,
+  "lon": 7.4403258
+},
+{
+  "type": "node",
+  "id": 892564181,
+  "lat": 46.9725624,
+  "lon": 7.4401550
+},
+{
+  "type": "node",
+  "id": 2358194089,
+  "lat": 46.9722665,
+  "lon": 7.4404595
+},
+{
+  "type": "node",
+  "id": 884232970,
+  "lat": 46.9729517,
+  "lon": 7.4407263
+},
+{
+  "type": "node",
+  "id": 884234149,
+  "lat": 46.9729626,
+  "lon": 7.4405043
+},
+{
+  "type": "node",
+  "id": 663537927,
+  "lat": 47.2249885,
+  "lon": 7.5331403
+},
+{
+  "type": "node",
+  "id": 663537936,
+  "lat": 47.2249530,
+  "lon": 7.5331962
+},
+{
+  "type": "node",
+  "id": 663537937,
+  "lat": 47.2249601,
+  "lon": 7.5332059
+},
+{
+  "type": "node",
+  "id": 663537939,
+  "lat": 47.2250483,
+  "lon": 7.5331983
+},
+{
+  "type": "node",
+  "id": 663537940,
+  "lat": 47.2250400,
+  "lon": 7.5332113
+},
+{
+  "type": "node",
+  "id": 663537941,
+  "lat": 47.2249422,
+  "lon": 7.5334003
+},
+{
+  "type": "node",
+  "id": 663537942,
+  "lat": 47.2250163,
+  "lon": 7.5335026
+},
+{
+  "type": "node",
+  "id": 663537944,
+  "lat": 47.2251344,
+  "lon": 7.5333169
+},
+{
+  "type": "node",
+  "id": 2024983865,
+  "lat": 47.2248862,
+  "lon": 7.5333221
+}
+
+  ]
+}

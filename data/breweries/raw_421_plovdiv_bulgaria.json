@@ -1,0 +1,121 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T14:46:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 5694530814,
+  "lat": 42.0662775,
+  "lon": 24.5461551,
+  "tags": {
+    "craft": "brewery",
+    "name": "Пивоварна Хилс",
+    "name:en": "Hills Brewery",
+    "product": "beer"
+  }
+},
+{
+  "type": "node",
+  "id": 6594378685,
+  "lat": 42.1437081,
+  "lon": 24.7627194,
+  "tags": {
+    "addr:housenumber": "69",
+    "addr:postcode": "4000",
+    "addr:street": "бул. Източен",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "brewery": "yes",
+    "cuisine": "international",
+    "email": "pivovarnitzakamenitza@gmail.com",
+    "internet_access": "wlan",
+    "microbrewery": "yes",
+    "name": "Пивоварница Каменица",
+    "name:en": "Kamenitza Brewery",
+    "opening_hours": "Mo-Su 11:00-00:00",
+    "operator": "Kamenitza",
+    "phone": "+359899191881",
+    "smoking": "outside",
+    "website": "http://pivovarnitzakamenitza.bg/"
+  }
+},
+{
+  "type": "way",
+  "id": 304384582,
+  "nodes": [
+    3089130922,
+    3089130923,
+    3089130924,
+    3454773326,
+    3454773325,
+    3089130925,
+    3089130922
+  ],
+  "tags": {
+    "addr:housenumber": "4",
+    "addr:postcode": "4023",
+    "addr:street": "Съединение",
+    "air_conditioning": "yes",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "brewery": "yes",
+    "building": "yes",
+    "building:levels": "3",
+    "cuisine": "german;bavarian",
+    "email": "office@jagerhof.bg",
+    "internet_access": "wlan",
+    "microbrewery": "yes",
+    "name": "Бирария Jägerhof",
+    "name:bg": "Бирария Йегерхоф",
+    "name:en": "Jagerhof Alehouse",
+    "opening_hours": "Mo-Su 10:00-01:00",
+    "outdoor_seating": "yes",
+    "phone": "+359885206666",
+    "smoking": "outside",
+    "website": "http://www.jagerhof.bg/"
+  }
+},
+{
+  "type": "node",
+  "id": 3089130922,
+  "lat": 42.1417707,
+  "lon": 24.7893209
+},
+{
+  "type": "node",
+  "id": 3089130923,
+  "lat": 42.1415128,
+  "lon": 24.7897286
+},
+{
+  "type": "node",
+  "id": 3089130924,
+  "lat": 42.1416395,
+  "lon": 24.7898743
+},
+{
+  "type": "node",
+  "id": 3089130925,
+  "lat": 42.1418741,
+  "lon": 24.7894398
+},
+{
+  "type": "node",
+  "id": 3454773325,
+  "lat": 42.1417052,
+  "lon": 24.7897068
+},
+{
+  "type": "node",
+  "id": 3454773326,
+  "lat": 42.1417285,
+  "lon": 24.7897336
+}
+
+  ]
+}

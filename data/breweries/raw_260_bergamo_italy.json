@@ -1,0 +1,286 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T10:49:03Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 795326058,
+  "lat": 45.7027353,
+  "lon": 9.6784182,
+  "tags": {
+    "IT:iva": "03789590167",
+    "addr:city": "Bergamo",
+    "addr:housenumber": "6",
+    "addr:postcode": "24124",
+    "addr:street": "Via Pitentino",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "email": "alpitentino@hotmail.it",
+    "microbrewery": "yes",
+    "name": "al Pitentino",
+    "opening_hours": "Mo 12:00-14:30; Tu-Sa 12:00-14:30,19:30-22:30; Su closed",
+    "phone": "+39 035 237750"
+  }
+},
+{
+  "type": "node",
+  "id": 1604543954,
+  "lat": 45.7395472,
+  "lon": 9.7206849,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "microbrewery": "yes",
+    "name": "Al Vecchio Tagliere"
+  }
+},
+{
+  "type": "node",
+  "id": 3203276286,
+  "lat": 45.6159486,
+  "lon": 9.6586284,
+  "tags": {
+    "addr:city": "Comun Nuovo",
+    "addr:housenumber": "268",
+    "addr:postcode": "24040",
+    "addr:street": "Via Autieri d'Italia",
+    "craft": "brewery",
+    "name": "Birrificio Elav",
+    "phone": "+39 035 334206",
+    "website": "https://www.elavbrewery.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 3251684947,
+  "lat": 45.8397755,
+  "lon": 9.6648248,
+  "tags": {
+    "addr:city": "San Pellegrino Terme",
+    "addr:housenumber": "5",
+    "addr:postcode": "24016",
+    "addr:street": "Via Giacomo Matteotti",
+    "craft": "brewery",
+    "name": "Birrificio Via Priula"
+  }
+},
+{
+  "type": "node",
+  "id": 4403687192,
+  "lat": 45.8000538,
+  "lon": 9.2385187,
+  "tags": {
+    "addr:city": "Erba",
+    "addr:housenumber": "9",
+    "addr:postcode": "22036",
+    "addr:street": "Via Milano",
+    "amenity": "restaurant",
+    "contact:phone": "+39 031 3334187",
+    "contact:website": "http://www.doppiomalto.it",
+    "cuisine": "italian",
+    "email": "erba@doppiomalto.com",
+    "microbrewery": "yes",
+    "name": "Doppio Malto",
+    "name:it": "Doppio Malto",
+    "opening_hours": "Mo-Su 12:00-14:30,18:00-01:00",
+    "operator": "Doppio Malto Brew Restaurant Srl",
+    "ref:vatin": "IT09265890963"
+  }
+},
+{
+  "type": "node",
+  "id": 4745270039,
+  "lat": 45.7052277,
+  "lon": 9.6600237,
+  "tags": {
+    "addr:city": "Bergamo",
+    "addr:country": "IT",
+    "addr:housenumber": "1/C",
+    "addr:postcode": "24129",
+    "addr:street": "Piazza Lorenzo Mascheroni",
+    "amenity": "restaurant",
+    "biergarten": "yes",
+    "level": "0",
+    "loc_ref": "43304",
+    "microbrewery": "yes",
+    "name": "Osteria della Birra",
+    "opening_hours": "Mo-Su 12:00-02:00",
+    "source": "survey",
+    "website": "http://www.osteriadellabirra.it"
+  }
+},
+{
+  "type": "node",
+  "id": 4954475790,
+  "lat": 45.6945238,
+  "lon": 9.6748186,
+  "tags": {
+    "amenity": "pub",
+    "microbrewery": "yes",
+    "name": "Befed Brew Pub",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5024791510,
+  "lat": 45.5540076,
+  "lon": 9.4170289,
+  "tags": {
+    "addr:city": "Gessate",
+    "addr:housenumber": "107/32",
+    "addr:postcode": "20060",
+    "addr:street": "Via Monza",
+    "craft": "brewery",
+    "name": "Birrificio Arigianale Licor Dei",
+    "product": "beer"
+  }
+},
+{
+  "type": "node",
+  "id": 5311190445,
+  "lat": 45.5956006,
+  "lon": 9.2946119,
+  "tags": {
+    "addr:housenumber": "168/A",
+    "addr:street": "Via Lecco",
+    "craft": "brewery",
+    "name": "Alma Birrificio Monzese",
+    "website": "http://www.almabirrificio.it/"
+  }
+},
+{
+  "type": "node",
+  "id": 5691292153,
+  "lat": 45.5030088,
+  "lon": 9.3222836,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "pizza;italian",
+    "microbrewery": "yes",
+    "name": "Dadaumpa",
+    "takeaway": "no",
+    "toilets": "yes",
+    "wheelchair": "designated"
+  }
+},
+{
+  "type": "node",
+  "id": 5878825426,
+  "lat": 45.4919899,
+  "lon": 9.5537459,
+  "tags": {
+    "addr:city": "Casirate d'Adda",
+    "addr:postcode": "24040",
+    "addr:street": "Via dell'Industria",
+    "craft": "brewery",
+    "name": "Gerundium Fest",
+    "opening_hours": "Aug 09-Sep 09 19:00-01:00",
+    "website": "https://www.gerundiumfest.it"
+  }
+},
+{
+  "type": "node",
+  "id": 5933585756,
+  "lat": 45.6138739,
+  "lon": 9.5488695,
+  "tags": {
+    "addr:city": "Brembate",
+    "addr:housenumber": "11",
+    "addr:postcode": "24041",
+    "addr:street": "Via Veneto",
+    "craft": "brewery",
+    "name": "Birrificio Adda",
+    "product": "beer",
+    "website": "https://www.birrificioadda.it"
+  }
+},
+{
+  "type": "way",
+  "id": 271600436,
+  "nodes": [
+    2765526750,
+    2765526743,
+    2765526532,
+    2765526549,
+    2765526750
+  ],
+  "tags": {
+    "amenity": "pub",
+    "microbrewery": "yes",
+    "name": "Gallo Grill"
+  }
+},
+{
+  "type": "way",
+  "id": 542244941,
+  "nodes": [
+    5242573139,
+    5242573138,
+    5242573137,
+    5242573136,
+    5242573139
+  ],
+  "tags": {
+    "building": "barn",
+    "craft": "brewery",
+    "name": "Birrificio WAR",
+    "website": "http://birrificiowar.it/"
+  }
+},
+{
+  "type": "node",
+  "id": 5242573136,
+  "lat": 45.5109230,
+  "lon": 9.4008330
+},
+{
+  "type": "node",
+  "id": 5242573137,
+  "lat": 45.5109821,
+  "lon": 9.4010536
+},
+{
+  "type": "node",
+  "id": 5242573138,
+  "lat": 45.5111357,
+  "lon": 9.4009698
+},
+{
+  "type": "node",
+  "id": 5242573139,
+  "lat": 45.5110766,
+  "lon": 9.4007492
+},
+{
+  "type": "node",
+  "id": 2765526532,
+  "lat": 45.7762163,
+  "lon": 9.8172278
+},
+{
+  "type": "node",
+  "id": 2765526549,
+  "lat": 45.7763341,
+  "lon": 9.8168391
+},
+{
+  "type": "node",
+  "id": 2765526743,
+  "lat": 45.7772486,
+  "lon": 9.8179022
+},
+{
+  "type": "node",
+  "id": 2765526750,
+  "lat": 45.7773047,
+  "lon": 9.8177089
+}
+
+  ]
+}

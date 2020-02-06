@@ -1,0 +1,139 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T11:39:03Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 291203598,
+  "lat": 49.3701567,
+  "lon": 18.3573885,
+  "tags": {
+    "amenity": "restaurant",
+    "brewery": "Karlovský minipivovar Pod Pralesem",
+    "contact:email": "recepce@podpralesem.cz",
+    "contact:facebook": "https://www.facebook.com/Penzion-Pod-Pralesem-114508615411415",
+    "contact:phone": "+420 571 444 747",
+    "contact:website": "http://podpralesem.cz",
+    "cuisine": "regional",
+    "microbrewery": "yes",
+    "name": "Penzion Pod Pralesem",
+    "outdoor_seating": "yes",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 3221933589,
+  "lat": 49.2191348,
+  "lon": 18.7402685,
+  "tags": {
+    "amenity": "pub",
+    "microbrewery": "yes",
+    "name": "Na 7. schode - pivotéka",
+    "opening_hours": "Mo-Th 14:00-24:00;Fr 14:00-01:00;Sa 16:00-24:00",
+    "outdoor_seating": "yes",
+    "website": "http://www.nasiedmomschode.sk",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 3566893885,
+  "lat": 49.0811112,
+  "lon": 18.9012997,
+  "tags": {
+    "craft": "brewery",
+    "fixme": "set better place",
+    "microbrewery": "yes",
+    "name": "Turčiansky pivovarnícky dom",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 3781825413,
+  "lat": 49.2545509,
+  "lon": 19.0420630,
+  "tags": {
+    "craft": "brewery",
+    "microbrewery": "yes",
+    "name": "Vŕšky",
+    "source": "survey",
+    "website": "www.pivovarvrsky.sk"
+  }
+},
+{
+  "type": "node",
+  "id": 5120558285,
+  "lat": 49.2233655,
+  "lon": 18.7414335,
+  "tags": {
+    "amenity": "pub",
+    "microbrewery": "yes",
+    "name": "Na 7. schode - ochutnávková pivnica",
+    "opening_hours": "Mo-Th 14:00-24:00;Fr 14:00-01:00;Sa 16:00-24:00",
+    "outdoor_seating": "yes",
+    "website": "https://www.facebook.com/ochutnavkovapivnica/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "way",
+  "id": 658220703,
+  "nodes": [
+    6164077329,
+    1933834322,
+    6164077330,
+    6164077331,
+    6164077332,
+    6164077329
+  ],
+  "tags": {
+    "addr:city": "Čadca",
+    "addr:conscriptionnumber": "1553",
+    "addr:housenumber": "1553/4",
+    "addr:postcode": "022 01",
+    "addr:street": "Športovcov",
+    "addr:streetnumber": "4",
+    "building": "yes",
+    "craft": "brewery"
+  }
+},
+{
+  "type": "node",
+  "id": 1933834322,
+  "lat": 49.4394162,
+  "lon": 18.7776034
+},
+{
+  "type": "node",
+  "id": 6164077329,
+  "lat": 49.4393948,
+  "lon": 18.7778539
+},
+{
+  "type": "node",
+  "id": 6164077330,
+  "lat": 49.4394206,
+  "lon": 18.7775510
+},
+{
+  "type": "node",
+  "id": 6164077331,
+  "lat": 49.4395464,
+  "lon": 18.7775763
+},
+{
+  "type": "node",
+  "id": 6164077332,
+  "lat": 49.4395206,
+  "lon": 18.7778793
+}
+
+  ]
+}

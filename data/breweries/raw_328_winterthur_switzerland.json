@@ -1,0 +1,973 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T12:26:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 451727066,
+  "lat": 47.3884825,
+  "lon": 8.5211173,
+  "tags": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "257",
+    "addr:postcode": "8005",
+    "addr:street": "Heinrichstrasse",
+    "amenity": "restaurant",
+    "capacity": "335",
+    "cuisine": "regional",
+    "microbrewery": "yes",
+    "name": "Steinfels",
+    "opening_hours": "Mo-Th 11:00-24:00; Fr 11:00-01:00, Sa 13:00-01:00, Su 13:00-23:00",
+    "operator": "Kramer Gastronomie",
+    "outdoor_seating": "yes",
+    "takeaway": "beer",
+    "website": "https://steinfels-zuerich.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 564888514,
+  "lat": 47.4986288,
+  "lon": 8.7261468,
+  "tags": {
+    "addr:city": "Winterthur",
+    "addr:country": "CH",
+    "addr:housenumber": "7",
+    "addr:postcode": "8400",
+    "addr:street": "Neumarkt",
+    "amenity": "restaurant",
+    "level": "0",
+    "microbrewery": "yes",
+    "name": "Brauhaus",
+    "opening_hours": "Mo-Sa 11:00-23:30; Su 10:00-22:00",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "website": "http://www.brauhaus.ch/gastro-winterthur",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 567443026,
+  "lat": 47.5584600,
+  "lon": 8.9006739,
+  "tags": {
+    "addr:city": "Frauenfeld",
+    "addr:housenumber": "2",
+    "addr:postcode": "8500",
+    "addr:street": "Hohenzornstrasse",
+    "amenity": "restaurant",
+    "microbrewery": "yes",
+    "name": "Brauhaus",
+    "opening_hours": "Mo-Th 08:00-23:30; Fr 08:00-24:00; Sa 11:00-24:00; Su 10:00-22:00",
+    "operator": "Brauhaus Sternen AG",
+    "outdoor_seating": "yes",
+    "website": "http://www.brauhaus.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 570622891,
+  "lat": 47.7108640,
+  "lon": 8.6448942,
+  "tags": {
+    "amenity": "brewery",
+    "craft": "brewery",
+    "name": "Brauerei Falken"
+  }
+},
+{
+  "type": "node",
+  "id": 1525041813,
+  "lat": 47.3707258,
+  "lon": 8.7707540,
+  "tags": {
+    "craft": "brewery",
+    "name": "Brauerei Sudwerk AG",
+    "website": "https://sudwerk.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 1864187711,
+  "lat": 47.4106547,
+  "lon": 8.5463538,
+  "tags": {
+    "amenity": "pub",
+    "brewery": "Green King IPA;Guinness;Heineken;Brooklyn IPA;Super Bock;Hoegarden;Blue Moon;Kilkenny",
+    "microbrewery": "yes",
+    "name": "Cooper's Pub",
+    "opening_hours": "Mo-Th 11:00-23:59; Fr 11:00-02:00; Sa 14:00-02:00"
+  }
+},
+{
+  "type": "node",
+  "id": 2365495806,
+  "lat": 47.5823107,
+  "lon": 8.9745961,
+  "tags": {
+    "craft": "brewery",
+    "email": "info@schlossbier.ch",
+    "name": "Schlossbier",
+    "website": "https://www.schlossbier.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 2457539648,
+  "lat": 47.4866133,
+  "lon": 8.7594559,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "microbrewery": "yes",
+    "name": "Restaurant Burehus"
+  }
+},
+{
+  "type": "node",
+  "id": 2904967414,
+  "lat": 47.3836636,
+  "lon": 8.5326533,
+  "tags": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "109",
+    "addr:postcode": "8005",
+    "addr:street": "Limmatstrasse",
+    "amenity": "bar",
+    "description": "Craft Beer Bar",
+    "microbrewery": "yes",
+    "name": "Eldorado",
+    "outdoor_seating": "yes",
+    "phone": "+41 43 540 90 31",
+    "smoking": "outside",
+    "website": "http://www.eldorado-zh.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 3913401400,
+  "lat": 47.4971903,
+  "lon": 8.7598926,
+  "tags": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "40",
+    "addr:postcode": "8404",
+    "addr:street": "Industriestrasse",
+    "craft": "brewery",
+    "name": "Doppelleu Brauwerkstatt",
+    "website": "https://www.doppelleu.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 4080669599,
+  "lat": 47.4114406,
+  "lon": 8.9673379,
+  "tags": {
+    "craft": "brewery",
+    "name": "Pilgrim"
+  }
+},
+{
+  "type": "node",
+  "id": 4165779821,
+  "lat": 47.3272199,
+  "lon": 8.8017373,
+  "tags": {
+    "addr:city": "Wetzikon",
+    "addr:housenumber": "196",
+    "addr:postcode": "8620",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "pub",
+    "internet_access": "wlan",
+    "microbrewery": "yes",
+    "name": "Molly Malone",
+    "opening_hours": "16:00-00:30; Fr,Sa 16:00-02:30",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "website": "http://www.mollymalone.ch",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4219654432,
+  "lat": 47.4040258,
+  "lon": 8.6051046,
+  "tags": {
+    "addr:city": "Wallisellen",
+    "addr:housenumber": "3",
+    "addr:postcode": "8304",
+    "addr:street": "Am Wasser",
+    "craft": "brewery",
+    "level": "0",
+    "name": "Monsterbräu",
+    "website": "http://monsterbraeu.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 4861893201,
+  "lat": 47.2246415,
+  "lon": 8.8333453,
+  "tags": {
+    "craft": "brewery",
+    "name": "Bier Factory",
+    "website": "https://craftbier.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 5315437605,
+  "lat": 47.6804118,
+  "lon": 8.6181555,
+  "tags": {
+    "craft": "brewery",
+    "name": "CM Brauhaus",
+    "website": "http://chuebelimoser.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 5501800589,
+  "lat": 47.3546578,
+  "lon": 8.9318740,
+  "tags": {
+    "addr:city": "Steg im Tösstal",
+    "addr:housenumber": "5",
+    "addr:postcode": "8496",
+    "addr:street": "Bahnhofstrasse",
+    "craft": "brewery",
+    "description": "Hörnlibräu",
+    "name": "Brauverein Fischenthal",
+    "website": "http://www.brauverein-fischenthal.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 5502246126,
+  "lat": 47.7071370,
+  "lon": 8.8227476,
+  "tags": {
+    "craft": "brewery",
+    "name": "Gässli Bräu"
+  }
+},
+{
+  "type": "node",
+  "id": 5722355121,
+  "lat": 47.4000753,
+  "lon": 8.5321851,
+  "tags": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "10",
+    "addr:postcode": "8057",
+    "addr:street": "Käferholzstrasse",
+    "craft": "brewery",
+    "email": "info@hirnibrau.ch",
+    "man_made": "works",
+    "name": "Hirnibräu",
+    "opening_hours": "Fr 17:00-20:00",
+    "start_date": "2011",
+    "website": "https://www.hirnibraeu.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 5735130799,
+  "lat": 47.3842657,
+  "lon": 8.4965142,
+  "tags": {
+    "craft": "brewery",
+    "name": "Turbinenbräu",
+    "phone": "+41 44 440 54 14",
+    "website": "http://www.turbinenbraeu.ch/",
+    "wikipedia": "de:TurbinenBräu"
+  }
+},
+{
+  "type": "node",
+  "id": 5939887781,
+  "lat": 47.2484707,
+  "lon": 8.7804060,
+  "tags": {
+    "craft": "brewery",
+    "name": "Brauerei Seebueb",
+    "website": "https://www.seebueb-bier.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 5981467631,
+  "lat": 47.4116057,
+  "lon": 8.4022383,
+  "tags": {
+    "addr:city": "Dietikon",
+    "addr:housenumber": "21",
+    "addr:postcode": "8953",
+    "addr:street": "Grünaustrasse",
+    "craft": "brewery",
+    "name": "Brausyndikat GmbH",
+    "opening_hours": "Tu 16:00-19:00",
+    "product": "beer",
+    "website": "https://www.brausyndikat.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 6876013421,
+  "lat": 47.2725987,
+  "lon": 8.7205310,
+  "tags": {
+    "addr:city": "Oetwil am See",
+    "addr:housenumber": "13",
+    "addr:postcode": "8618",
+    "addr:street": "Zelglistrasse",
+    "craft": "brewery",
+    "name": "Octopus-Bräu",
+    "opening_hours": "Tu 18:30-21:30; Fr[2] 18:30-21:30",
+    "website": "https://octopus-braeu.ch/"
+  }
+},
+{
+  "type": "way",
+  "id": 33117844,
+  "nodes": [
+    373855088,
+    2305220768,
+    2305220767,
+    2305220762,
+    2305220761,
+    373855090,
+    2305220753,
+    2305220756,
+    373855092,
+    2305220763,
+    2305220764,
+    373855094,
+    2305220769,
+    2305220766,
+    373855088
+  ],
+  "tags": {
+    "addr:city": "Oberuzwil",
+    "addr:housenumber": "17",
+    "addr:postcode": "9242",
+    "addr:street": "Stutzenbühlstrasse",
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "swiss",
+    "microbrewery": "yes",
+    "name": "Restaurant Freudenberg",
+    "outdoor_seating": "yes",
+    "source": "bing",
+    "toilets:wheelchair": "no",
+    "website": "https://www.restaurant-freudenberg.ch/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "way",
+  "id": 46152205,
+  "nodes": [
+    588419614,
+    588419613,
+    588419615,
+    588419612,
+    588419614
+  ],
+  "tags": {
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Schlachthuus Braumanufaktur",
+    "source": "Yahoo aerial images",
+    "website": "https://www.schlachthuus.ch/"
+  }
+},
+{
+  "type": "way",
+  "id": 96808744,
+  "nodes": [
+    1121632510,
+    1121632426,
+    1121632610,
+    1121632328,
+    1121632510
+  ],
+  "tags": {
+    "addr:housenumber": "41",
+    "addr:street": "Steinackerstrasse",
+    "amenity": "restaurant",
+    "building": "yes",
+    "microbrewery": "yes",
+    "name": "Snus Bar",
+    "opening_hours": "Mo 17:00-21:00; Tu-Th 17:00-24:00; Fr 00:00-01:00,17:00-24:00; Sa 00:00-02:00,18:00-24:00; Su 00:00-02:00",
+    "operator": "Snus Bar AG",
+    "source": "Bing"
+  }
+},
+{
+  "type": "way",
+  "id": 97234512,
+  "nodes": [
+    1126332235,
+    3223688211,
+    1126332360,
+    3223688216,
+    1126332259,
+    1126332398,
+    3223688210,
+    1126332277,
+    1126332219,
+    1126332367,
+    1126332235
+  ],
+  "tags": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "91",
+    "addr:postcode": "8006",
+    "addr:street": "Universitätstrasse",
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "swiss",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "microbrewery": "yes",
+    "name": "Linde Oberstrass",
+    "opening_hours": "Mo-Fr 08:00-24:00, Sa 09:00-24:00, Su 10:00-23:00",
+    "reservation": "yes",
+    "source": "Stadt Zürich Open Government Data;Geomatik + Vermessung;Tiefbau- und Entsorgungsdepartement",
+    "website": "http://linde-oberstrass.ch",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 114501729,
+  "nodes": [
+    1296940229,
+    1296940160,
+    1296940297,
+    1568873320,
+    1296940189,
+    1296940324,
+    1296940229
+  ],
+  "tags": {
+    "addr:city": "Wettingen",
+    "addr:country": "CH",
+    "addr:housenumber": "61",
+    "addr:postcode": "5430",
+    "addr:street": "Schartenstrasse",
+    "amenity": "restaurant",
+    "building": "yes",
+    "craft": "brewery",
+    "cuisine": "italian",
+    "microbrewery": "yes",
+    "name": "Da Luigi",
+    "opening_hours": "Tu-Fr 11:00-14:00,17:30-24:00; Sa,Su 17:30-24:00",
+    "phone": "+41 56 4271939",
+    "website": "http://www.daluigi.ch/"
+  }
+},
+{
+  "type": "way",
+  "id": 120173392,
+  "nodes": [
+    1348043423,
+    1348034554,
+    1348037728,
+    1348049315,
+    1348044596,
+    1348039268,
+    1348043423
+  ],
+  "tags": {
+    "addr:city": "Reichenau",
+    "addr:country": "DE",
+    "addr:housenumber": "7",
+    "addr:postcode": "78479",
+    "addr:street": "Am Vögelisberg",
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Reichenauer Inselbier",
+    "opening_hours": "Tu, Fr 16:00-18:30; Sa 11:00-13:00"
+  }
+},
+{
+  "type": "way",
+  "id": 154706531,
+  "nodes": [
+    1672005271,
+    1672005345,
+    1672005415,
+    1672005272,
+    1672005271
+  ],
+  "tags": {
+    "addr:city": "Wallisellen",
+    "addr:postcode": "8304",
+    "addr:street": "Neugut",
+    "building": "yes",
+    "building:levels": "2",
+    "building:roof:shape": "flat",
+    "craft": "brewery",
+    "email": "info@brauerei-hardwald.ch",
+    "name": "Brauerei Hardwald AG",
+    "opening_hours": "Sa 09:30-12:30",
+    "source": "bing",
+    "website": "http://www.brauerei-hardwald.ch"
+  }
+},
+{
+  "type": "way",
+  "id": 178231835,
+  "nodes": [
+    1885990274,
+    1885990271,
+    1885990263,
+    1885990283,
+    1885990211,
+    1885990202,
+    1885990185,
+    1885990174,
+    1885990274
+  ],
+  "tags": {
+    "addr:housename": "Brauerei Uster",
+    "addr:housenumber": "16",
+    "addr:postcode": "8610",
+    "addr:street": "Brauereistrasse",
+    "building": "brewery",
+    "craft": "brewery",
+    "name": "Brauerei Uster",
+    "source": "http://www.braukultur.ch/"
+  }
+},
+{
+  "type": "way",
+  "id": 383748492,
+  "nodes": [
+    3870639907,
+    3870639908,
+    3870639909,
+    3870639910,
+    3870639911,
+    3870639912,
+    3870643418,
+    3870639913,
+    3870639914,
+    3870639907
+  ],
+  "tags": {
+    "addr:city": "Lichtensteig",
+    "addr:housenumber": "23",
+    "addr:postcode": "9620",
+    "addr:street": "Loretostrasse",
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Burth 23"
+  }
+},
+{
+  "type": "node",
+  "id": 1296940160,
+  "lat": 47.4716758,
+  "lon": 8.3190602
+},
+{
+  "type": "node",
+  "id": 1296940189,
+  "lat": 47.4717447,
+  "lon": 8.3188428
+},
+{
+  "type": "node",
+  "id": 1296940229,
+  "lat": 47.4715714,
+  "lon": 8.3189616
+},
+{
+  "type": "node",
+  "id": 1296940297,
+  "lat": 47.4717127,
+  "lon": 8.3189747
+},
+{
+  "type": "node",
+  "id": 1296940324,
+  "lat": 47.4716581,
+  "lon": 8.3187610
+},
+{
+  "type": "node",
+  "id": 1568873320,
+  "lat": 47.4716950,
+  "lon": 8.3189579
+},
+{
+  "type": "node",
+  "id": 1126332219,
+  "lat": 47.3833524,
+  "lon": 8.5480603
+},
+{
+  "type": "node",
+  "id": 1126332235,
+  "lat": 47.3833903,
+  "lon": 8.5480795
+},
+{
+  "type": "node",
+  "id": 1126332259,
+  "lat": 47.3835473,
+  "lon": 8.5478461
+},
+{
+  "type": "node",
+  "id": 1126332277,
+  "lat": 47.3833567,
+  "lon": 8.5477981
+},
+{
+  "type": "node",
+  "id": 1126332360,
+  "lat": 47.3835051,
+  "lon": 8.5481080
+},
+{
+  "type": "node",
+  "id": 1126332367,
+  "lat": 47.3833946,
+  "lon": 8.5480603
+},
+{
+  "type": "node",
+  "id": 1126332398,
+  "lat": 47.3833882,
+  "lon": 8.5477920
+},
+{
+  "type": "node",
+  "id": 3223688210,
+  "lat": 47.3833888,
+  "lon": 8.5478076
+},
+{
+  "type": "node",
+  "id": 3223688211,
+  "lat": 47.3834528,
+  "lon": 8.5481077
+},
+{
+  "type": "node",
+  "id": 3223688216,
+  "lat": 47.3835304,
+  "lon": 8.5479511
+},
+{
+  "type": "node",
+  "id": 1672005271,
+  "lat": 47.4035416,
+  "lon": 8.6026770
+},
+{
+  "type": "node",
+  "id": 1672005272,
+  "lat": 47.4036239,
+  "lon": 8.6027932
+},
+{
+  "type": "node",
+  "id": 1672005345,
+  "lat": 47.4036285,
+  "lon": 8.6025426
+},
+{
+  "type": "node",
+  "id": 1672005415,
+  "lat": 47.4037108,
+  "lon": 8.6026587
+},
+{
+  "type": "node",
+  "id": 1885990174,
+  "lat": 47.3451806,
+  "lon": 8.7207916
+},
+{
+  "type": "node",
+  "id": 1885990185,
+  "lat": 47.3452095,
+  "lon": 8.7208126
+},
+{
+  "type": "node",
+  "id": 1885990202,
+  "lat": 47.3451169,
+  "lon": 8.7210890
+},
+{
+  "type": "node",
+  "id": 1885990211,
+  "lat": 47.3449794,
+  "lon": 8.7209887
+},
+{
+  "type": "node",
+  "id": 1885990263,
+  "lat": 47.3450911,
+  "lon": 8.7207494
+},
+{
+  "type": "node",
+  "id": 1885990271,
+  "lat": 47.3451326,
+  "lon": 8.7206253
+},
+{
+  "type": "node",
+  "id": 1885990274,
+  "lat": 47.3452160,
+  "lon": 8.7206861
+},
+{
+  "type": "node",
+  "id": 1885990283,
+  "lat": 47.3450658,
+  "lon": 8.7207309
+},
+{
+  "type": "node",
+  "id": 3870639907,
+  "lat": 47.3264415,
+  "lon": 9.0849210
+},
+{
+  "type": "node",
+  "id": 3870639908,
+  "lat": 47.3263229,
+  "lon": 9.0849703
+},
+{
+  "type": "node",
+  "id": 3870639909,
+  "lat": 47.3263348,
+  "lon": 9.0850325
+},
+{
+  "type": "node",
+  "id": 3870639910,
+  "lat": 47.3263093,
+  "lon": 9.0850431
+},
+{
+  "type": "node",
+  "id": 3870639911,
+  "lat": 47.3262949,
+  "lon": 9.0849677
+},
+{
+  "type": "node",
+  "id": 3870639912,
+  "lat": 47.3262520,
+  "lon": 9.0849855
+},
+{
+  "type": "node",
+  "id": 3870639913,
+  "lat": 47.3263032,
+  "lon": 9.0852534
+},
+{
+  "type": "node",
+  "id": 3870639914,
+  "lat": 47.3264902,
+  "lon": 9.0851757
+},
+{
+  "type": "node",
+  "id": 3870643418,
+  "lat": 47.3262978,
+  "lon": 9.0852249
+},
+{
+  "type": "node",
+  "id": 588419612,
+  "lat": 47.4892131,
+  "lon": 8.5942354
+},
+{
+  "type": "node",
+  "id": 588419613,
+  "lat": 47.4892913,
+  "lon": 8.5943540
+},
+{
+  "type": "node",
+  "id": 588419614,
+  "lat": 47.4892773,
+  "lon": 8.5942206
+},
+{
+  "type": "node",
+  "id": 588419615,
+  "lat": 47.4892271,
+  "lon": 8.5943688
+},
+{
+  "type": "node",
+  "id": 1121632328,
+  "lat": 47.4488174,
+  "lon": 8.6016174
+},
+{
+  "type": "node",
+  "id": 1121632426,
+  "lat": 47.4485348,
+  "lon": 8.6009585
+},
+{
+  "type": "node",
+  "id": 1121632510,
+  "lat": 47.4484308,
+  "lon": 8.6014316
+},
+{
+  "type": "node",
+  "id": 1121632610,
+  "lat": 47.4489214,
+  "lon": 8.6011443
+},
+{
+  "type": "node",
+  "id": 373855088,
+  "lat": 47.4359583,
+  "lon": 9.1277383
+},
+{
+  "type": "node",
+  "id": 373855090,
+  "lat": 47.4358031,
+  "lon": 9.1276706
+},
+{
+  "type": "node",
+  "id": 373855092,
+  "lat": 47.4358390,
+  "lon": 9.1279420
+},
+{
+  "type": "node",
+  "id": 373855094,
+  "lat": 47.4359949,
+  "lon": 9.1279618
+},
+{
+  "type": "node",
+  "id": 2305220753,
+  "lat": 47.4358104,
+  "lon": 9.1277677
+},
+{
+  "type": "node",
+  "id": 2305220756,
+  "lat": 47.4358257,
+  "lon": 9.1277652
+},
+{
+  "type": "node",
+  "id": 2305220761,
+  "lat": 47.4358719,
+  "lon": 9.1276593
+},
+{
+  "type": "node",
+  "id": 2305220762,
+  "lat": 47.4358747,
+  "lon": 9.1276956
+},
+{
+  "type": "node",
+  "id": 2305220763,
+  "lat": 47.4358947,
+  "lon": 9.1279329
+},
+{
+  "type": "node",
+  "id": 2305220764,
+  "lat": 47.4358980,
+  "lon": 9.1279777
+},
+{
+  "type": "node",
+  "id": 2305220766,
+  "lat": 47.4359657,
+  "lon": 9.1278368
+},
+{
+  "type": "node",
+  "id": 2305220767,
+  "lat": 47.4359686,
+  "lon": 9.1276802
+},
+{
+  "type": "node",
+  "id": 2305220768,
+  "lat": 47.4359728,
+  "lon": 9.1277359
+},
+{
+  "type": "node",
+  "id": 2305220769,
+  "lat": 47.4359853,
+  "lon": 9.1278336
+},
+{
+  "type": "node",
+  "id": 1348034554,
+  "lat": 47.6937904,
+  "lon": 9.0690420
+},
+{
+  "type": "node",
+  "id": 1348049315,
+  "lat": 47.6938214,
+  "lon": 9.0687769
+},
+{
+  "type": "node",
+  "id": 1348037728,
+  "lat": 47.6938886,
+  "lon": 9.0688546
+},
+{
+  "type": "node",
+  "id": 1348039268,
+  "lat": 47.6940871,
+  "lon": 9.0689522
+},
+{
+  "type": "node",
+  "id": 1348043423,
+  "lat": 47.6939458,
+  "lon": 9.0692218
+},
+{
+  "type": "node",
+  "id": 1348044596,
+  "lat": 47.6938644,
+  "lon": 9.0686947
+}
+
+  ]
+}

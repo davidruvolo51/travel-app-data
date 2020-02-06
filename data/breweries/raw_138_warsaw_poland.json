@@ -1,0 +1,131 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T01:16:03Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 457296879,
+  "lat": 52.2559493,
+  "lon": 20.9844788,
+  "tags": {
+    "amenity": "restaurant",
+    "microbrewery": "yes",
+    "name": "Bierhalle",
+    "operator": "Bierhalle",
+    "website": "http://www.arkadia.com.pl//W/do/centre/fiche-boutique-bierhalle",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 460072827,
+  "lat": 52.2405483,
+  "lon": 21.0161220,
+  "tags": {
+    "addr:city": "Warszawa",
+    "addr:housenumber": "1",
+    "addr:street": "Królewska",
+    "amenity": "restaurant",
+    "brewery": "Browarmia Królewska",
+    "microbrewery": "yes",
+    "name": "Browarmia Królewska",
+    "opening_hours": "Mo 13:00-22:00; Tu-Th 13:00-23:00; Fr-Sa 13:00-00:00; Su 13:00-21:00",
+    "phone": "+48 22 826 54 55",
+    "website": "http://www.browarmia.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 5104705222,
+  "lat": 52.3163560,
+  "lon": 20.9671739,
+  "tags": {
+    "amenity": "restaurant",
+    "level": "0",
+    "microbrewery": "yes",
+    "name": "Bierhalle"
+  }
+},
+{
+  "type": "way",
+  "id": 208722937,
+  "nodes": [
+    2189900943,
+    2189900946,
+    2189900874,
+    2189900906,
+    2189900899,
+    2189900957,
+    2189900986,
+    2189900977,
+    2189900943
+  ],
+  "tags": {
+    "building": "industrial",
+    "building:levels": "1",
+    "craft": "brewery",
+    "email": "biuro@artezan.pl",
+    "man_made": "works",
+    "name": "Browar Artezan",
+    "opening_hours": "Mo-Fr 09:00-17:00",
+    "operator": "Browar Artezan sp. z o.o.",
+    "phone": "+48 535 514 142",
+    "website": "http://artezan.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 2189900874,
+  "lat": 52.1851913,
+  "lon": 20.6146296
+},
+{
+  "type": "node",
+  "id": 2189900899,
+  "lat": 52.1852525,
+  "lon": 20.6146566
+},
+{
+  "type": "node",
+  "id": 2189900906,
+  "lat": 52.1852519,
+  "lon": 20.6146273
+},
+{
+  "type": "node",
+  "id": 2189900943,
+  "lat": 52.1852552,
+  "lon": 20.6148703
+},
+{
+  "type": "node",
+  "id": 2189900946,
+  "lat": 52.1851945,
+  "lon": 20.6148722
+},
+{
+  "type": "node",
+  "id": 2189900957,
+  "lat": 52.1854180,
+  "lon": 20.6146503
+},
+{
+  "type": "node",
+  "id": 2189900977,
+  "lat": 52.1852549,
+  "lon": 20.6148412
+},
+{
+  "type": "node",
+  "id": 2189900986,
+  "lat": 52.1854199,
+  "lon": 20.6148351
+}
+
+  ]
+}

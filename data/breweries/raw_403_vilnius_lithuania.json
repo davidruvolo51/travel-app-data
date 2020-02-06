@@ -1,0 +1,62 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T14:19:01Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 828564091,
+  "lat": 54.6845878,
+  "lon": 25.2823850,
+  "tags": {
+    "addr:city": "Vilnius",
+    "addr:contact": "yes",
+    "addr:housenumber": "18",
+    "addr:street": "Totorių g.",
+    "amenity": "pub",
+    "description": "ipa ir ale tik buteliuose",
+    "email": "info@busitrecias.lt",
+    "microbrewery": "yes",
+    "name": "Būsi trečias",
+    "opening_hours": "Mo-Su 11:00-23:00; Th 11:00-24:00; Fr,Sa 11:00-02:00",
+    "phone": "+370 5 231 2698",
+    "real_ale": "lager;stout;porter;ale;ipa",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1401565280,
+  "lat": 54.6748279,
+  "lon": 25.2822984,
+  "tags": {
+    "addr:city": "Vilnius",
+    "addr:contact": "yes",
+    "addr:housenumber": "8",
+    "addr:street": "Šv. Stepono g.",
+    "amenity": "pub",
+    "microbrewery": "yes",
+    "name": "Šnekutis",
+    "opening_hours": "Mo-Su 11:00-23:00",
+    "real_ale": "ale;ipa;stout"
+  }
+},
+{
+  "type": "node",
+  "id": 2280600042,
+  "lat": 54.6420439,
+  "lon": 25.2783373,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "microbrewery": "yes",
+    "name": "Air Inn Vilnius restoranas"
+  }
+}
+
+  ]
+}

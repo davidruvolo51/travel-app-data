@@ -127,10 +127,19 @@ city_info$lng <- as.numeric(city_info$lng)
 #' queries using the city data and return json file with all breweries in
 #' a city. Run loop to fetch data from overpass API
 
+
+# For failed items, run the following lines. Adjust `d` and reps accordingly
+# with row name
+# failures <- failed
+# failed_cities <- sapply(seq_len(length(failures)), function(x){
+#    failed[[x]][["city"]]
+# })
+# city_info[city_info$city %in% failed_cities,] %>% rownames()
+
 # init loop vars
-d <- 161
+d <- 431
 fails <- 0
-reps <- NROW(city_info)
+reps <- 431 #NROW(city_info)
 failed <- list()
 
 # run
@@ -196,7 +205,7 @@ while (d <= reps) {
     d <- d + 1
 
     # met een kleine pauze
-    time <- round(runif(1, 60, 150),0)
+    time <- round(runif(1, 45, 120),0)
     msg <- paste0("\tPausing for '", time, "' seconds at '", as.character(Sys.time()), "'\n")
     cat(msg)
     Sys.sleep(time)

@@ -1,0 +1,74 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T08:55:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2437408334,
+  "lat": 44.7414448,
+  "lon": -1.0980642,
+  "tags": {
+    "amenity": "bar",
+    "craft": "brewery",
+    "name": "Le Florentin",
+    "shop": "tea"
+  }
+},
+{
+  "type": "node",
+  "id": 3648652057,
+  "lat": 44.7410762,
+  "lon": -1.0969816,
+  "tags": {
+    "craft": "brewery",
+    "name": "L'Arche de Noé"
+  }
+},
+{
+  "type": "way",
+  "id": 69187683,
+  "nodes": [
+    829274224,
+    829278712,
+    829285731,
+    829397236,
+    829274224
+  ],
+  "tags": {
+    "building": "yes",
+    "craft": "brewery",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+  }
+},
+{
+  "type": "node",
+  "id": 829274224,
+  "lat": 44.7648960,
+  "lon": -1.1411779
+},
+{
+  "type": "node",
+  "id": 829278712,
+  "lat": 44.7648642,
+  "lon": -1.1409770
+},
+{
+  "type": "node",
+  "id": 829285731,
+  "lat": 44.7649529,
+  "lon": -1.1409470
+},
+{
+  "type": "node",
+  "id": 829397236,
+  "lat": 44.7649877,
+  "lon": -1.1411513
+}
+
+  ]
+}

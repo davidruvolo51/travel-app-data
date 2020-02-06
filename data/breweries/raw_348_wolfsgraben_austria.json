@@ -1,0 +1,496 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T12:58:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 119371746,
+  "lat": 48.1965909,
+  "lon": 16.3809023,
+  "tags": {
+    "addr:city": "Wien",
+    "addr:country": "AT",
+    "addr:housenumber": "8",
+    "addr:postcode": "1030",
+    "addr:street": "Rennweg",
+    "alt_name": "Salmbräu",
+    "amenity": "restaurant",
+    "cuisine": "regional;austrian;local",
+    "email": "office@salmbraeu.com",
+    "fax": "+43 1 799599216",
+    "internet_access": "wlan",
+    "microbrewery": "yes",
+    "name": "Salm Bräu",
+    "name:ru": "Пивоварня Salm Bräu",
+    "name:zh": "Salm Bräu豬肋排",
+    "opening_hours": "Mo-Su 11:00-00:00",
+    "phone": "+43 1 7995992",
+    "smoking": "separated",
+    "website": "https://www.salmbraeu.com/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 146340019,
+  "lat": 48.2269661,
+  "lon": 16.3534573,
+  "tags": {
+    "addr:city": "Wien",
+    "addr:country": "AT",
+    "addr:housenumber": "4",
+    "addr:postcode": "1090",
+    "addr:street": "Sobieskiplatz",
+    "amenity": "restaurant",
+    "beer_garden": "yes",
+    "microbrewery": "yes",
+    "name": "The Highlander",
+    "opening_hours": "Su-Th 11:00-24:00, Fr-Sa 11:00-1:00",
+    "phone": "+43 (1) 3152794",
+    "website": "http://www.the-highlander.at/"
+  }
+},
+{
+  "type": "node",
+  "id": 281295823,
+  "lat": 48.2347063,
+  "lon": 16.3507037,
+  "tags": {
+    "addr:city": "Wien",
+    "addr:country": "AT",
+    "addr:housenumber": "17",
+    "addr:postcode": "1190",
+    "addr:street": "Billrothstraße",
+    "alt_name": "Fischer Bräu",
+    "amenity": "restaurant",
+    "cuisine": "beer",
+    "microbrewery": "yes",
+    "name": "Fischerbräu",
+    "phone": "+43 (1) 3695949",
+    "website": "http://www.fischerbraeu.at/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 309293363,
+  "lat": 48.2135521,
+  "lon": 16.3138793,
+  "tags": {
+    "addr:city": "Wien",
+    "addr:country": "AT",
+    "addr:housenumber": "180",
+    "addr:postcode": "1160",
+    "addr:street": "Ottakringer Straße",
+    "amenity": "pub",
+    "microbrewery": "yes",
+    "name": "Schwarzer Rabe",
+    "opening_hours": "Mo-Su 16:00-01:00; PH 16:00-01:00",
+    "phone": "+43 1 4861177",
+    "source": "foot survey",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 324188355,
+  "lat": 48.2245756,
+  "lon": 16.3569822,
+  "tags": {
+    "addr:city": "Wien",
+    "addr:country": "AT",
+    "addr:housenumber": "69",
+    "addr:postcode": "1090",
+    "addr:street": "Liechtensteinstraße",
+    "amenity": "restaurant",
+    "cuisine": "burger",
+    "microbrewery": "yes",
+    "name": "Beaver Brewing Company",
+    "opening_hours": "Su-Th 11:30-24:00; Fr-Sa 11:30-01:00",
+    "phone": "+43-677-61012253",
+    "smoking": "no",
+    "website": "https://www.beaverbrewing.at/"
+  }
+},
+{
+  "type": "node",
+  "id": 366224622,
+  "lat": 48.1948153,
+  "lon": 16.3663673,
+  "tags": {
+    "addr:city": "Wien",
+    "addr:country": "AT",
+    "addr:housenumber": "5",
+    "addr:postcode": "1040",
+    "addr:street": "Waaggasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "fax": "+43 (1) 586 03 00 11",
+    "microbrewery": "yes",
+    "name": "Wieden Bräu",
+    "opening_hours": "Mo-Su,PH 11:30-24:00; Jul,Aug Sa,Su,PH 16:00-24:00",
+    "phone": "+4315860300",
+    "smoking": "no",
+    "smoking:outside": "yes",
+    "website": "http://wieden-braeu.at/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 442585871,
+  "lat": 48.2021962,
+  "lon": 16.3535215,
+  "tags": {
+    "addr:city": "Wien",
+    "addr:country": "AT",
+    "addr:housenumber": "19",
+    "addr:postcode": "1070",
+    "addr:street": "Siebensterngasse",
+    "alt_name": "Siebensternbräu",
+    "amenity": "restaurant",
+    "microbrewery": "yes",
+    "name": "7 Sternbräu",
+    "opening_hours": "10:00-24:00",
+    "phone": "+43 1 5238697",
+    "website": "http://www.7stern.at/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 526684628,
+  "lat": 48.2033846,
+  "lon": 16.3730578,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "international;austrian",
+    "microbrewery": "yes",
+    "name": "1516 Brewing Company",
+    "opening_hours": "Mo-Th 10:00-02:00; Fr 10:00-03:00; Sa 11:00-03:00; Su 11:00-02:00",
+    "phone": "+43-1-9611516",
+    "smoking": "separated",
+    "website": "https://www.1516brewingcompany.com/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 894087103,
+  "lat": 48.2035212,
+  "lon": 16.3740816,
+  "tags": {
+    "addr:city": "Wien",
+    "addr:country": "AT",
+    "addr:housenumber": "14",
+    "addr:postcode": "1010",
+    "addr:street": "Schellinggasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "microbrewery": "yes",
+    "name": "Stadtbrauerei Schwarzenberg",
+    "website": "http://www.stadtbrauerei.at/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2747964835,
+  "lat": 48.1847450,
+  "lon": 16.3622871,
+  "tags": {
+    "addr:city": "Wien",
+    "addr:country": "AT",
+    "addr:housenumber": "111",
+    "addr:postcode": "1050",
+    "addr:street": "Wiedner Hauptstraße",
+    "amenity": "restaurant",
+    "cuisine": "burger",
+    "microbrewery": "yes",
+    "name": "Laurenz4",
+    "opening_hours": "Mo-Sa 17:00-00:00",
+    "phone": "+43-1-890 5917",
+    "smoking": "no",
+    "website": "https://laurenz4.at/restaurant",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3594576398,
+  "lat": 47.9276730,
+  "lon": 16.2164271,
+  "tags": {
+    "addr:city": "Leobersdorf",
+    "addr:country": "AT",
+    "addr:housenumber": "29",
+    "addr:postcode": "2544",
+    "addr:street": "Hauptstraße",
+    "amenity": "restaurant",
+    "contact:website": "http://www.antoniusbraeu.at",
+    "microbrewery": "yes",
+    "name": "Antonius Bräu",
+    "opening_hours": "We-Fr 15:00-23:00; Sa 11:00-24:00; Su 11:00-21:00"
+  }
+},
+{
+  "type": "node",
+  "id": 4192055172,
+  "lat": 48.1940402,
+  "lon": 16.3435219,
+  "tags": {
+    "addr:city": "Wien",
+    "addr:country": "AT",
+    "addr:housenumber": "4",
+    "addr:postcode": "1060",
+    "addr:street": "Mittelgasse",
+    "craft": "brewery",
+    "name": "BrewAge",
+    "opening_hours": "Tu-Th 14:00-19:00; Fr 12:00-17:00",
+    "operator": "BrewAge GmbH",
+    "shop": "beverages",
+    "website": "https://brewage.at/"
+  }
+},
+{
+  "type": "node",
+  "id": 6010358793,
+  "lat": 48.1489761,
+  "lon": 16.2910619,
+  "tags": {
+    "addr:city": "Wien",
+    "addr:country": "AT",
+    "addr:housenumber": "18",
+    "addr:postcode": "1230",
+    "addr:street": "Endresstraße",
+    "craft": "brewery",
+    "microbrewery": "yes",
+    "name": "100 Blumen Brauerei",
+    "opening_hours": "Fr-Sat 16:00-22:00",
+    "phone": "+43 677 61945188",
+    "product": "beer",
+    "website": "https://www.100blumen.at/"
+  }
+},
+{
+  "type": "way",
+  "id": 32315676,
+  "nodes": [
+    363770753,
+    363770786,
+    363770802,
+    363770798,
+    3531222170,
+    363770782,
+    3531222167,
+    6052606862,
+    6052606868,
+    6052606869,
+    6052606870,
+    6052606863,
+    363770773,
+    3269630874,
+    363770768,
+    3269630752,
+    3269630751,
+    3269630749,
+    3269630748,
+    3269630710,
+    3269630709,
+    6052606871,
+    363770764,
+    363770758,
+    3269630707,
+    363770747,
+    363770744,
+    363770753
+  ],
+  "tags": {
+    "addr:city": "Wien",
+    "addr:country": "AT",
+    "addr:housenumber": "275",
+    "addr:postcode": "1140",
+    "addr:street": "Linzer Straße",
+    "alt_name": "Medlbräu",
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "regional;international",
+    "microbrewery": "yes",
+    "name": "Medl Bräu",
+    "opening_hours": "Tu-Sa 10:00-24:00, Su-Mo closed",
+    "smoking": "isolated",
+    "takeaway": "yes",
+    "website": "http://www.medl-braeu.at/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 363770744,
+  "lat": 48.1955514,
+  "lon": 16.2801541
+},
+{
+  "type": "node",
+  "id": 363770747,
+  "lat": 48.1954050,
+  "lon": 16.2801520
+},
+{
+  "type": "node",
+  "id": 363770753,
+  "lat": 48.1955989,
+  "lon": 16.2801556
+},
+{
+  "type": "node",
+  "id": 363770758,
+  "lat": 48.1950693,
+  "lon": 16.2801036
+},
+{
+  "type": "node",
+  "id": 363770764,
+  "lat": 48.1950670,
+  "lon": 16.2802099
+},
+{
+  "type": "node",
+  "id": 363770768,
+  "lat": 48.1954936,
+  "lon": 16.2802272
+},
+{
+  "type": "node",
+  "id": 363770773,
+  "lat": 48.1954847,
+  "lon": 16.2803434
+},
+{
+  "type": "node",
+  "id": 363770782,
+  "lat": 48.1952063,
+  "lon": 16.2804174
+},
+{
+  "type": "node",
+  "id": 363770786,
+  "lat": 48.1955573,
+  "lon": 16.2804531
+},
+{
+  "type": "node",
+  "id": 363770798,
+  "lat": 48.1953714,
+  "lon": 16.2804377
+},
+{
+  "type": "node",
+  "id": 363770802,
+  "lat": 48.1955082,
+  "lon": 16.2804506
+},
+{
+  "type": "node",
+  "id": 3269630707,
+  "lat": 48.1952153,
+  "lon": 16.2801168
+},
+{
+  "type": "node",
+  "id": 3269630709,
+  "lat": 48.1952215,
+  "lon": 16.2802267
+},
+{
+  "type": "node",
+  "id": 3269630710,
+  "lat": 48.1952217,
+  "lon": 16.2802146
+},
+{
+  "type": "node",
+  "id": 3269630748,
+  "lat": 48.1953411,
+  "lon": 16.2802239
+},
+{
+  "type": "node",
+  "id": 3269630749,
+  "lat": 48.1953412,
+  "lon": 16.2802385
+},
+{
+  "type": "node",
+  "id": 3269630751,
+  "lat": 48.1953574,
+  "lon": 16.2802393
+},
+{
+  "type": "node",
+  "id": 3269630752,
+  "lat": 48.1953577,
+  "lon": 16.2802241
+},
+{
+  "type": "node",
+  "id": 3269630874,
+  "lat": 48.1954860,
+  "lon": 16.2802863
+},
+{
+  "type": "node",
+  "id": 3531222167,
+  "lat": 48.1952125,
+  "lon": 16.2803444
+},
+{
+  "type": "node",
+  "id": 3531222170,
+  "lat": 48.1952682,
+  "lon": 16.2804250
+},
+{
+  "type": "node",
+  "id": 6052606862,
+  "lat": 48.1952127,
+  "lon": 16.2803417
+},
+{
+  "type": "node",
+  "id": 6052606863,
+  "lat": 48.1952821,
+  "lon": 16.2803213
+},
+{
+  "type": "node",
+  "id": 6052606868,
+  "lat": 48.1950930,
+  "lon": 16.2803324
+},
+{
+  "type": "node",
+  "id": 6052606869,
+  "lat": 48.1950963,
+  "lon": 16.2802375
+},
+{
+  "type": "node",
+  "id": 6052606870,
+  "lat": 48.1952844,
+  "lon": 16.2802521
+},
+{
+  "type": "node",
+  "id": 6052606871,
+  "lat": 48.1950693,
+  "lon": 16.2802100
+}
+
+  ]
+}

@@ -1,0 +1,262 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-05T20:29:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 262797752,
+  "lat": 52.2074325,
+  "lon": 0.1221961,
+  "tags": {
+    "addr:city": "Cambridge",
+    "addr:country": "GB",
+    "addr:housenumber": "1",
+    "addr:postcode": "CB1 1LH",
+    "addr:street": "King Street",
+    "amenity": "pub",
+    "fhrs:id": "551684",
+    "food": "yes",
+    "microbrewery": "yes",
+    "name": "The Cambridge Brew House",
+    "note:real_ale": "6 is approx num pumps",
+    "opening_hours": "Mo-Th 11:00-23:30; Fr, Sa 11:00-00:00; Su 11:00-22:30",
+    "real_ale": "6",
+    "website": "https://www.thecambridgebrewhouse.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 1502786193,
+  "lat": 51.9336357,
+  "lon": 0.2450673,
+  "tags": {
+    "craft": "brewery",
+    "name": "Saffron Brewery",
+    "url": "http://www.saffronbrewery.co.uk/index.html"
+  }
+},
+{
+  "type": "node",
+  "id": 1512585679,
+  "lat": 52.2308106,
+  "lon": 0.5728840,
+  "tags": {
+    "addr:city": "Bury St Edmunds",
+    "addr:locality": "Denham Estate",
+    "addr:postcode": "IP29 5EQ",
+    "addr:street": "Barrow Road",
+    "addr:village": "Denham",
+    "craft": "brewery",
+    "name": "Red Rat Craft Brewery"
+  }
+},
+{
+  "type": "node",
+  "id": 1513986539,
+  "lat": 52.1696026,
+  "lon": 0.1918203,
+  "tags": {
+    "addr:housename": "Hill Farm",
+    "addr:postcode": "CB21 5EQ",
+    "addr:street": "Shelford Road",
+    "craft": "brewery",
+    "name": "Cambridge Moonshine"
+  }
+},
+{
+  "type": "node",
+  "id": 1513998375,
+  "lat": 52.4040783,
+  "lon": 0.2628184,
+  "tags": {
+    "addr:housenumber": "50",
+    "craft": "brewery",
+    "name": "Hereward Brewery",
+    "note": "location approximate. Home based brewery"
+  }
+},
+{
+  "type": "node",
+  "id": 1514004899,
+  "lat": 52.2379801,
+  "lon": 0.1583403,
+  "tags": {
+    "addr:housename": "Unit 111",
+    "addr:postcode": "CB24 6AT",
+    "addr:street": "Norman Industrial Estate",
+    "craft": "brewery",
+    "name": "Milton Brewery",
+    "note": "location approx"
+  }
+},
+{
+  "type": "node",
+  "id": 1514009855,
+  "lat": 52.1282539,
+  "lon": -0.2196422,
+  "tags": {
+    "addr:housenumber": "10",
+    "addr:postcode": "SG19 2SP",
+    "addr:street": "Shannon Place",
+    "craft": "brewery",
+    "name": "Potton Brewery"
+  }
+},
+{
+  "type": "node",
+  "id": 3676981225,
+  "lat": 52.2012601,
+  "lon": 0.1425637,
+  "tags": {
+    "addr:city": "Cambridge",
+    "addr:housenumber": "23a",
+    "addr:postcode": "CB1 2NZ",
+    "addr:street": "Hooper Street",
+    "amenity": "pub",
+    "craft": "brewery",
+    "floor:material": "lino",
+    "microbrewery": "yes",
+    "name": "Calverley's Brewery",
+    "note": "The \"pub\" and \"shop\" are literally within the brewery, though their opening hours may differ",
+    "opening_hours": "Fr; Sa",
+    "outdoor_seating": "yes",
+    "real_ale": "2 or 3 of their own, on gravity",
+    "shop": "brewery",
+    "website": "https://www.calverleys.com/",
+    "wheelchair": "limited",
+    "wheelchair:description": "Bar has a step, outbuilding with seats is step free. Can order without getting in to the building with steps."
+  }
+},
+{
+  "type": "way",
+  "id": 136531307,
+  "nodes": [
+    1497657990,
+    1497657758,
+    1497658232,
+    1497657649,
+    1497657635,
+    1497658217,
+    1497657973,
+    1497657805,
+    1497657642,
+    1497658167,
+    1497657990
+  ],
+  "tags": {
+    "building": "brewery",
+    "craft": "brewery",
+    "name": "Cambridge Brewery",
+    "source": "bing"
+  }
+},
+{
+  "type": "way",
+  "id": 240447154,
+  "nodes": [
+    2481827934,
+    2481827932,
+    765938432,
+    2481827933,
+    2481827934
+  ],
+  "tags": {
+    "amenity": "pub",
+    "building": "yes",
+    "microbrewery": "yes",
+    "microbrewery:name": "Son of Sid",
+    "name": "The Chequers"
+  }
+},
+{
+  "type": "node",
+  "id": 765938432,
+  "lat": 52.1806374,
+  "lon": -0.1401670
+},
+{
+  "type": "node",
+  "id": 2481827932,
+  "lat": 52.1805008,
+  "lon": -0.1400809
+},
+{
+  "type": "node",
+  "id": 2481827933,
+  "lat": 52.1806072,
+  "lon": -0.1402947
+},
+{
+  "type": "node",
+  "id": 2481827934,
+  "lat": 52.1804705,
+  "lon": -0.1402087
+},
+{
+  "type": "node",
+  "id": 1497657635,
+  "lat": 52.3108336,
+  "lon": 0.1962051
+},
+{
+  "type": "node",
+  "id": 1497657642,
+  "lat": 52.3108657,
+  "lon": 0.1958894
+},
+{
+  "type": "node",
+  "id": 1497657649,
+  "lat": 52.3108975,
+  "lon": 0.1962467
+},
+{
+  "type": "node",
+  "id": 1497657758,
+  "lat": 52.3108984,
+  "lon": 0.1961545
+},
+{
+  "type": "node",
+  "id": 1497657805,
+  "lat": 52.3108040,
+  "lon": 0.1958492
+},
+{
+  "type": "node",
+  "id": 1497657973,
+  "lat": 52.3107531,
+  "lon": 0.1960582
+},
+{
+  "type": "node",
+  "id": 1497657990,
+  "lat": 52.3109302,
+  "lon": 0.1960240
+},
+{
+  "type": "node",
+  "id": 1497658167,
+  "lat": 52.3108462,
+  "lon": 0.1959693
+},
+{
+  "type": "node",
+  "id": 1497658217,
+  "lat": 52.3108535,
+  "lon": 0.1961236
+},
+{
+  "type": "node",
+  "id": 1497658232,
+  "lat": 52.3109171,
+  "lon": 0.1961667
+}
+
+  ]
+}

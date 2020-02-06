@@ -1,0 +1,91 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T08:31:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1620687695,
+  "lat": 48.5662496,
+  "lon": -3.3385963,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "french",
+    "microbrewery": "yes",
+    "name": "Le relais du menhir"
+  }
+},
+{
+  "type": "node",
+  "id": 6503738019,
+  "lat": 48.7817038,
+  "lon": -3.2227741,
+  "tags": {
+    "addr:city": "Tréguier",
+    "addr:postcode": "22220",
+    "addr:street": "Parc Sainte Catherine",
+    "craft": "brewery",
+    "email": "info@philomenn.com",
+    "name": "Philomenn - Brasserie Artisanale Touken",
+    "opening_hours": "Tu-Sa 10:30-12:30,14:00-17:30",
+    "operator": "Bertrand Salomon",
+    "phone": "+33 2 96 92 24 52",
+    "product": "beer",
+    "start_date": "2007-05",
+    "website": "http://www.philomenn.com"
+  }
+},
+{
+  "type": "way",
+  "id": 318556892,
+  "nodes": [
+    3249567877,
+    3249567867,
+    3249567820,
+    3249567868,
+    3249567876,
+    3249567877
+  ],
+  "tags": {
+    "building": "yes",
+    "craft": "brewery",
+    "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2014"
+  }
+},
+{
+  "type": "node",
+  "id": 3249567820,
+  "lat": 48.3694060,
+  "lon": -3.4987560
+},
+{
+  "type": "node",
+  "id": 3249567867,
+  "lat": 48.3694580,
+  "lon": -3.4989830
+},
+{
+  "type": "node",
+  "id": 3249567868,
+  "lat": 48.3694610,
+  "lon": -3.4987280
+},
+{
+  "type": "node",
+  "id": 3249567876,
+  "lat": 48.3695110,
+  "lon": -3.4989490
+},
+{
+  "type": "node",
+  "id": 3249567877,
+  "lat": 48.3695120,
+  "lon": -3.4989540
+}
+
+  ]
+}

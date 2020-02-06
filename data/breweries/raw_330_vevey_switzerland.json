@@ -1,0 +1,346 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T12:29:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 809009387,
+  "lat": 46.4016238,
+  "lon": 6.5889919,
+  "tags": {
+    "addr:street": "Quai Baron de Blonay",
+    "amenity": "pub",
+    "contact:phone": "+33 4 50 26 87 77",
+    "contact:website": "https://www.aubureau.fr/resto/au-bureau-evian/",
+    "microbrewery": "yes",
+    "name": "Le Bureau",
+    "opening_hours": "Su-Th 11:30-23:30; Fr-Sa 11:30-01:00"
+  }
+},
+{
+  "type": "node",
+  "id": 2967542686,
+  "lat": 46.5195172,
+  "lon": 6.6382225,
+  "tags": {
+    "addr:housenumber": "2",
+    "addr:street": "Avenue du Tribunal-Fédéral",
+    "amenity": "bar",
+    "craft": "brewery",
+    "name": "Les Boucaniers",
+    "opening_hours": "Mo 08:30-20:00;Tu-We 08:30-00:00;Th08:30-01:00;Fr 08:30-02:00;Sa 11:00-02:00",
+    "phone": "+41 (0) 21 320 02 02",
+    "website": "http://www.lesboucaniers.ch",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 3063652312,
+  "lat": 46.5202516,
+  "lon": 6.6249812,
+  "tags": {
+    "amenity": "restaurant",
+    "craft": "brewery",
+    "name": "Brasserie de Montbenon",
+    "operator": "Soulfood SA",
+    "phone": "+41 21 320 40 30",
+    "website": "https://www.brasseriedemontbenon.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 3724767031,
+  "lat": 46.4588555,
+  "lon": 6.8433585,
+  "tags": {
+    "amenity": "restaurant",
+    "craft": "brewery",
+    "name": "Charly's",
+    "opening_hours": "07:00-19:00",
+    "phone": "+41 (0) 21 921 50 06",
+    "website": "http://www.lecharlys.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 4619045494,
+  "lat": 46.6427683,
+  "lon": 6.6234573,
+  "tags": {
+    "craft": "brewery",
+    "name": "La Challensoise",
+    "website": "https://www.lachallensoise.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 5330152113,
+  "lat": 46.2268278,
+  "lon": 6.6411668,
+  "tags": {
+    "addr:housenumber": "2893",
+    "addr:street": "Route de la Moussière d'en Haut",
+    "amenity": "restaurant",
+    "contact:phone": "+33 4 50 49 12 84",
+    "cuisine": "french",
+    "microbrewery": "yes",
+    "name": "L'Avalanche",
+    "outdoor_seating": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5381028917,
+  "lat": 46.6427524,
+  "lon": 6.6234814,
+  "tags": {
+    "craft": "brewery",
+    "name": "Brasserie de la Challensoise"
+  }
+},
+{
+  "type": "node",
+  "id": 5541273384,
+  "lat": 46.6540394,
+  "lon": 6.5041309,
+  "tags": {
+    "craft": "brewery",
+    "name": "Brasserie des Condémines"
+  }
+},
+{
+  "type": "node",
+  "id": 5684151091,
+  "lat": 46.4659114,
+  "lon": 6.8412165,
+  "tags": {
+    "addr:city": "Vevey",
+    "addr:housenumber": "6",
+    "addr:postcode": "1800",
+    "addr:street": "Avenue Reller",
+    "contact:facebook": "http://facebook.com/brasserieduhautlac",
+    "contact:instagram": "http://instagram.com/BrasserieDuHautLac/",
+    "craft": "brewery",
+    "name": "Brasserie du Haut-Lac",
+    "phone": "+41 78 677 96 01",
+    "phone_1": "+41 78 897 66 33",
+    "product": "beer",
+    "website": "https://www.brasserieduhautlac.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 66975401,
+  "nodes": [
+    809012859,
+    809021575,
+    809006992,
+    809052554,
+    809051989,
+    809014328,
+    809012859
+  ],
+  "tags": {
+    "amenity": "pub",
+    "building": "yes",
+    "craft": "brewery",
+    "microbrewery": "yes",
+    "name": "L'hexagone",
+    "source": "extraction vectorielle v1 cadastre-dgi-fr source : Direction Générale des Impôts - Cadas. Mise à jour : 2010"
+  }
+},
+{
+  "type": "way",
+  "id": 107059432,
+  "nodes": [
+    566368614,
+    566368615,
+    566368613,
+    2321906951,
+    566368614
+  ],
+  "tags": {
+    "addr:city": "Lausanne",
+    "addr:housenumber": "1",
+    "addr:street": "Place du Tunnel",
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Brasserie du Château",
+    "opening_hours": "Mo-Th 11:00-01:00; Fr-Sa 11:00-02:00; Su 16:00-00:00",
+    "phone": "+41 21 312 60 11",
+    "smoking": "outside",
+    "source": "Orthophoto Ville de Lausanne 2008",
+    "website": "http://www.biereduchateau.ch"
+  }
+},
+{
+  "type": "way",
+  "id": 548829035,
+  "nodes": [
+    5301860407,
+    5301860402,
+    5301860403,
+    5301860409,
+    5301860408,
+    5301860407
+  ],
+  "tags": {
+    "addr:housenumber": "670",
+    "addr:street": "Route des Blaves",
+    "building": "brewery",
+    "contact:phone": "+33 4 50 37 45 83",
+    "craft": "brewery",
+    "name": "Brasserie artisanale du Léman",
+    "opening_hours": "Mo-Su off; Tu-Fr 09:00-18:00; Sa 14:00-18:00",
+    "start_date": "2007",
+    "website": "https://www.biere-leman.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 622681805,
+  "nodes": [
+    3120488081,
+    5881232180,
+    5881232181,
+    5881232182,
+    3120488087,
+    3120488081
+  ],
+  "tags": {
+    "building": "yes",
+    "craft": "brewery",
+    "name": "O'Bled",
+    "operator": "O'Bled",
+    "product": "beer"
+  }
+},
+{
+  "type": "node",
+  "id": 5301860402,
+  "lat": 46.3346116,
+  "lon": 6.4883702
+},
+{
+  "type": "node",
+  "id": 5301860403,
+  "lat": 46.3346172,
+  "lon": 6.4885277
+},
+{
+  "type": "node",
+  "id": 5301860407,
+  "lat": 46.3348348,
+  "lon": 6.4883535
+},
+{
+  "type": "node",
+  "id": 5301860408,
+  "lat": 46.3348383,
+  "lon": 6.4884569
+},
+{
+  "type": "node",
+  "id": 5301860409,
+  "lat": 46.3348404,
+  "lon": 6.4885110
+},
+{
+  "type": "node",
+  "id": 809006992,
+  "lat": 46.4002555,
+  "lon": 6.5866564
+},
+{
+  "type": "node",
+  "id": 809012859,
+  "lat": 46.4002746,
+  "lon": 6.5865779
+},
+{
+  "type": "node",
+  "id": 809014328,
+  "lat": 46.4003276,
+  "lon": 6.5866308
+},
+{
+  "type": "node",
+  "id": 809021575,
+  "lat": 46.4002524,
+  "lon": 6.5866240
+},
+{
+  "type": "node",
+  "id": 809051989,
+  "lat": 46.4003074,
+  "lon": 6.5866730
+},
+{
+  "type": "node",
+  "id": 809052554,
+  "lat": 46.4002817,
+  "lon": 6.5866818
+},
+{
+  "type": "node",
+  "id": 566368613,
+  "lat": 46.5246614,
+  "lon": 6.6345435
+},
+{
+  "type": "node",
+  "id": 566368614,
+  "lat": 46.5247975,
+  "lon": 6.6345942
+},
+{
+  "type": "node",
+  "id": 566368615,
+  "lat": 46.5246947,
+  "lon": 6.6344953
+},
+{
+  "type": "node",
+  "id": 2321906951,
+  "lat": 46.5247488,
+  "lon": 6.6347037
+},
+{
+  "type": "node",
+  "id": 3120488081,
+  "lat": 46.6779707,
+  "lon": 6.5618614
+},
+{
+  "type": "node",
+  "id": 3120488087,
+  "lat": 46.6780280,
+  "lon": 6.5618807
+},
+{
+  "type": "node",
+  "id": 5881232180,
+  "lat": 46.6779856,
+  "lon": 6.5617672
+},
+{
+  "type": "node",
+  "id": 5881232181,
+  "lat": 46.6781842,
+  "lon": 6.5618342
+},
+{
+  "type": "node",
+  "id": 5881232182,
+  "lat": 46.6781693,
+  "lon": 6.5619284
+}
+
+  ]
+}

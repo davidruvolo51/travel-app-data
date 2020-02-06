@@ -1,0 +1,121 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T08:49:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1785423618,
+  "lat": 44.9108066,
+  "lon": 5.1922491,
+  "tags": {
+    "amenity": "restaurant",
+    "microbrewery": "yes",
+    "name": "Auberge du bon air"
+  }
+},
+{
+  "type": "node",
+  "id": 2425350352,
+  "lat": 44.6452200,
+  "lon": 5.0615196,
+  "tags": {
+    "amenity": "pub",
+    "microbrewery": "yes",
+    "name": "Markusbiere"
+  }
+},
+{
+  "type": "node",
+  "id": 4140663453,
+  "lat": 44.9008115,
+  "lon": 5.0076144,
+  "tags": {
+    "alcohol": "beer",
+    "craft": "brewery",
+    "name": "Brasserie de la Pleine Lune",
+    "shop": "alcohol"
+  }
+},
+{
+  "type": "node",
+  "id": 6868204364,
+  "lat": 45.0156672,
+  "lon": 4.8693112,
+  "tags": {
+    "addr:city": "Pont de l'Isère",
+    "addr:housenumber": "730",
+    "addr:postcode": "26600",
+    "addr:street": "Route de Lyon",
+    "craft": "brewery",
+    "name": "Brasserie Hildegarde",
+    "product": "beer"
+  }
+},
+{
+  "type": "way",
+  "id": 116843033,
+  "nodes": [
+    4802101408,
+    4802101407,
+    4802101406,
+    4802101405,
+    4802101404,
+    1316263894,
+    4802101408
+  ],
+  "tags": {
+    "addr:city": "Le Poët-Laval",
+    "addr:postcode": "26160",
+    "addr:street": "Quartier Labry",
+    "building": "yes",
+    "craft": "brewery",
+    "name": "La vieille mule",
+    "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2017",
+    "wall": "no",
+    "website": "https://www.lavieillemule.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 1316263894,
+  "lat": 44.5268436,
+  "lon": 4.9864633
+},
+{
+  "type": "node",
+  "id": 4802101404,
+  "lat": 44.5268931,
+  "lon": 4.9864098
+},
+{
+  "type": "node",
+  "id": 4802101405,
+  "lat": 44.5269217,
+  "lon": 4.9864632
+},
+{
+  "type": "node",
+  "id": 4802101406,
+  "lat": 44.5269159,
+  "lon": 4.9864708
+},
+{
+  "type": "node",
+  "id": 4802101407,
+  "lat": 44.5269398,
+  "lon": 4.9865174
+},
+{
+  "type": "node",
+  "id": 4802101408,
+  "lat": 44.5268994,
+  "lon": 4.9865663
+}
+
+  ]
+}

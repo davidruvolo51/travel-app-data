@@ -1,0 +1,88 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T11:54:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 4080202728,
+  "lat": 41.4425658,
+  "lon": -8.2915100,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "sandwich",
+    "internet_access": "wlan",
+    "microbrewery": "yes",
+    "name": "Celeste",
+    "operator": "Celeste",
+    "smoking": "no",
+    "takeaway": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4080202729,
+  "lat": 41.4437489,
+  "lon": -8.2966646,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "internet_access": "wlan",
+    "microbrewery": "yes",
+    "name": "Celeste",
+    "operator": "Celeste",
+    "smoking": "no",
+    "takeaway": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 109107411,
+  "nodes": [
+    1250119325,
+    1250119360,
+    1250119301,
+    1250119270,
+    1250119325
+  ],
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "microbrewery": "yes",
+    "name": "Churasqueira 7 Fontes",
+    "smoking": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1250119270,
+  "lat": 41.5732780,
+  "lon": -8.4013497
+},
+{
+  "type": "node",
+  "id": 1250119301,
+  "lat": 41.5733296,
+  "lon": -8.4011199
+},
+{
+  "type": "node",
+  "id": 1250119325,
+  "lat": 41.5735602,
+  "lon": -8.4014665
+},
+{
+  "type": "node",
+  "id": 1250119360,
+  "lat": 41.5736089,
+  "lon": -8.4012348
+}
+
+  ]
+}

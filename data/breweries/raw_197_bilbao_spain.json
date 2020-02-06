@@ -1,0 +1,143 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T09:09:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2640909190,
+  "lat": 43.3017247,
+  "lon": -3.0301885,
+  "tags": {
+    "craft": "brewery",
+    "name": "Cervecería Kantauri"
+  }
+},
+{
+  "type": "node",
+  "id": 3973567164,
+  "lat": 43.2974046,
+  "lon": -2.9925841,
+  "tags": {
+    "craft": "brewery",
+    "name": "Gambrinus"
+  }
+},
+{
+  "type": "node",
+  "id": 4398546988,
+  "lat": 43.3187299,
+  "lon": -3.0279644,
+  "tags": {
+    "craft": "brewery",
+    "entrance": "yes",
+    "name": "La Cabaña",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5635144660,
+  "lat": 43.1838033,
+  "lon": -3.0616095,
+  "tags": {
+    "craft": "brewery",
+    "name": "Lau Gar"
+  }
+},
+{
+  "type": "way",
+  "id": 509256312,
+  "nodes": [
+    4985093689,
+    4985093692,
+    4985093693,
+    4985093690,
+    4985093691,
+    4985093700,
+    4985093695,
+    5523456936,
+    4985093697,
+    4985093703,
+    4985093689
+  ],
+  "tags": {
+    "addr:city": "Oiardo",
+    "addr:country": "ES",
+    "addr:housenumber": "6",
+    "addr:postcode": "01449",
+    "addr:province": "Araba/Álava",
+    "addr:street": "Eskola kalea/Calle la Escuela",
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Cervezas Baias",
+    "source": "Eusko Jaurlaritza-Gobierno Vasco"
+  }
+},
+{
+  "type": "node",
+  "id": 4985093689,
+  "lat": 42.9899358,
+  "lon": -2.9281244
+},
+{
+  "type": "node",
+  "id": 4985093690,
+  "lat": 42.9897353,
+  "lon": -2.9283442
+},
+{
+  "type": "node",
+  "id": 4985093691,
+  "lat": 42.9898240,
+  "lon": -2.9285151
+},
+{
+  "type": "node",
+  "id": 4985093692,
+  "lat": 42.9899178,
+  "lon": -2.9280990
+},
+{
+  "type": "node",
+  "id": 4985093693,
+  "lat": 42.9898497,
+  "lon": -2.9282461
+},
+{
+  "type": "node",
+  "id": 4985093695,
+  "lat": 42.9899366,
+  "lon": -2.9283332
+},
+{
+  "type": "node",
+  "id": 4985093697,
+  "lat": 42.9899358,
+  "lon": -2.9282700
+},
+{
+  "type": "node",
+  "id": 4985093700,
+  "lat": 42.9899564,
+  "lon": -2.9283893
+},
+{
+  "type": "node",
+  "id": 4985093703,
+  "lat": 42.9899782,
+  "lon": -2.9281829
+},
+{
+  "type": "node",
+  "id": 5523456936,
+  "lat": 42.9899552,
+  "lon": -2.9282970
+}
+
+  ]
+}

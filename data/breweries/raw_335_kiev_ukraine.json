@@ -1,0 +1,308 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T12:37:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2620108560,
+  "lat": 50.4483530,
+  "lon": 30.5219558,
+  "tags": {
+    "amenity": "restaurant",
+    "microbrewery": "yes",
+    "name": "Шато",
+    "name:en": "Shato",
+    "opening_hours": "24/7",
+    "phone": "+380442793704",
+    "website": "http://kiev.shato.com.ua",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3832126157,
+  "lat": 50.4520848,
+  "lon": 30.5264215,
+  "tags": {
+    "addr:housenumber": "8",
+    "addr:street": "Хрещатик вулиця",
+    "amenity": "restaurant",
+    "cuisine": "italian;asian;coffee_shop;chicken;seafood;pizza;fish;steak_house;sushi;pasta;diner;tea",
+    "internet_access": "wlan",
+    "microbrewery": "yes",
+    "name": "Mafia",
+    "name:cs": "Mafia",
+    "name:en": "Mafia",
+    "opening_hours": "24/7",
+    "website": "https://mafia.ua/kiev"
+  }
+},
+{
+  "type": "node",
+  "id": 4087617422,
+  "lat": 50.3625196,
+  "lon": 30.9373357,
+  "tags": {
+    "craft": "brewery"
+  }
+},
+{
+  "type": "node",
+  "id": 4202101145,
+  "lat": 50.4356908,
+  "lon": 30.4898416,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "international",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "microbrewery": "yes",
+    "name": "Frau Rosa",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "payment:visa_debit": "no",
+    "smoking": "outside",
+    "website": "http://fraurosa.com.ua/"
+  }
+},
+{
+  "type": "node",
+  "id": 4395795191,
+  "lat": 50.5951398,
+  "lon": 30.5666322,
+  "tags": {
+    "addr:housenumber": "47а",
+    "addr:street": "В.Непопа",
+    "craft": "brewery",
+    "name": "Hott's, Хотяніська броварня",
+    "website": "https://www.pivo.kiev.ua/"
+  }
+},
+{
+  "type": "node",
+  "id": 4867706148,
+  "lat": 50.4442400,
+  "lon": 30.4968262,
+  "tags": {
+    "amenity": "pub",
+    "brewery": "varvar_brew",
+    "microbrewery": "yes",
+    "name": "Varvar bar",
+    "name:en": "Varvar",
+    "name:uk": "Varvar",
+    "opening_hours": "Mo-Th 13:00-00:00; Fr 12:00-01:00; Sa 14:00-01:00; Su 14:00-00:00",
+    "payment:cash": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "payment:visa_debit": "yes",
+    "payment:visa_electron": "yes",
+    "phone": "+380676215511",
+    "website": "https://varvarbrew.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4902209803,
+  "lat": 50.4518205,
+  "lon": 30.5260519,
+  "tags": {
+    "addr:housenumber": "10",
+    "addr:street": "Крещатик",
+    "amenity": "restaurant",
+    "internet_access": "yes",
+    "internet_access:fee": "no",
+    "microbrewery": "yes",
+    "name": "Пивна Дума",
+    "name:en": "Pivnaya Duma",
+    "name:ru": "Пивная Дума",
+    "opening_hours": "Mo-Fr 09:00-00:00; Sa, Su 12:00-00:00",
+    "phone": "+380989797878",
+    "smoking": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6914092961,
+  "lat": 50.4857370,
+  "lon": 30.6327128,
+  "tags": {
+    "craft": "brewery",
+    "name": "Beer Market",
+    "opening_hours": "Mo-Su 10:00-23:00"
+  }
+},
+{
+  "type": "way",
+  "id": 100739021,
+  "nodes": [
+    1164492661,
+    4202113989,
+    1164494834,
+    1164494735,
+    1164493051,
+    1164492661
+  ],
+  "tags": {
+    "addr:housenumber": "2б",
+    "addr:street": "Солом’янська площа",
+    "amenity": "restaurant",
+    "building": "yes",
+    "building:levels": "2",
+    "cuisine": "international",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "microbrewery": "yes",
+    "name": "Солом'янська броварня",
+    "name:ru": "Соломенская пивоварня",
+    "opening_hours": "Su-Th 12:00-00:00; Fr-Sa 12:00-02:00",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "payment:visa_electron": "yes",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "website": "http://solobeer.kiev.ua/"
+  }
+},
+{
+  "type": "way",
+  "id": 180628610,
+  "nodes": [
+    1910671467,
+    1910671465,
+    1910671466,
+    1910671468,
+    1910671467
+  ],
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "kebab",
+    "microbrewery": "yes",
+    "name": "Мустанг"
+  }
+},
+{
+  "type": "way",
+  "id": 273228639,
+  "nodes": [
+    2781051546,
+    2781051541,
+    6840914410,
+    2781051535,
+    2781051538,
+    6840914418,
+    2781051546
+  ],
+  "tags": {
+    "amenity": "pub",
+    "building": "commercial",
+    "building:levels": "1",
+    "microbrewery": "yes",
+    "name": "To Dublin",
+    "opening_hours": "Mo-Th 10:00-22:00;Frb10:00-23:00;Sa 11:00-23:00;Su 11:00-22:00",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1164492661,
+  "lat": 50.4309571,
+  "lon": 30.4703262
+},
+{
+  "type": "node",
+  "id": 1164493051,
+  "lat": 50.4308090,
+  "lon": 30.4701593
+},
+{
+  "type": "node",
+  "id": 1164494735,
+  "lat": 50.4306853,
+  "lon": 30.4704297
+},
+{
+  "type": "node",
+  "id": 1164494834,
+  "lat": 50.4308334,
+  "lon": 30.4705967
+},
+{
+  "type": "node",
+  "id": 4202113989,
+  "lat": 50.4309092,
+  "lon": 30.4704310
+},
+{
+  "type": "node",
+  "id": 2781051535,
+  "lat": 50.4497659,
+  "lon": 30.5956241
+},
+{
+  "type": "node",
+  "id": 2781051538,
+  "lat": 50.4498429,
+  "lon": 30.5955693
+},
+{
+  "type": "node",
+  "id": 2781051541,
+  "lat": 50.4498691,
+  "lon": 30.5959823
+},
+{
+  "type": "node",
+  "id": 2781051546,
+  "lat": 50.4499462,
+  "lon": 30.5959275
+},
+{
+  "type": "node",
+  "id": 6840914410,
+  "lat": 50.4498175,
+  "lon": 30.5958032
+},
+{
+  "type": "node",
+  "id": 6840914418,
+  "lat": 50.4498893,
+  "lon": 30.5957301
+},
+{
+  "type": "node",
+  "id": 1910671465,
+  "lat": 50.6105838,
+  "lon": 30.4520238
+},
+{
+  "type": "node",
+  "id": 1910671466,
+  "lat": 50.6107675,
+  "lon": 30.4521325
+},
+{
+  "type": "node",
+  "id": 1910671467,
+  "lat": 50.6106236,
+  "lon": 30.4518189
+},
+{
+  "type": "node",
+  "id": 1910671468,
+  "lat": 50.6108173,
+  "lon": 30.4519045
+}
+
+  ]
+}

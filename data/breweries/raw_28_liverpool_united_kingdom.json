@@ -1,0 +1,190 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-05T21:12:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1673573526,
+  "lat": 53.3255220,
+  "lon": -3.0929330,
+  "tags": {
+    "amenity": "pub",
+    "microbrewery": "yes",
+    "name": "The Beer Lab"
+  }
+},
+{
+  "type": "node",
+  "id": 2146827442,
+  "lat": 53.1938669,
+  "lon": -2.7209384,
+  "tags": {
+    "building": "brewery",
+    "craft": "brewery",
+    "name": "Weetwood Brewery"
+  }
+},
+{
+  "type": "way",
+  "id": 244449045,
+  "nodes": [
+    105746431,
+    2517642911,
+    2517642913,
+    2517642912,
+    2517642907,
+    2517642894,
+    2517642901,
+    105746431
+  ],
+  "tags": {
+    "addr:street": "Wapping",
+    "amenity": "pub",
+    "building": "yes",
+    "building:levels": "3",
+    "food": "yes",
+    "heritage": "2",
+    "heritage:operator": "Historic England",
+    "listed_status": "Grade II",
+    "microbrewery": "yes",
+    "name": "Baltic Fleet",
+    "real_ale": "yes",
+    "smoking": "outside",
+    "website": "http://www.wappingbeers.co.uk/"
+  }
+},
+{
+  "type": "way",
+  "id": 460378256,
+  "nodes": [
+    4560482426,
+    4560482427,
+    4560482428,
+    4560482429,
+    4560482426
+  ],
+  "tags": {
+    "addr:city": "Formby",
+    "addr:postcode": "L37 8EG",
+    "addr:street": "Stephenson Way",
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Red Star Brewary"
+  }
+},
+{
+  "type": "way",
+  "id": 562008835,
+  "nodes": [
+    5418400143,
+    5418400144,
+    5418400145,
+    5418400146,
+    5418400143
+  ],
+  "tags": {
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Dunham Massey Brewery",
+    "shop": "alcohol",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 105746431,
+  "lat": 53.3985948,
+  "lon": -2.9866360
+},
+{
+  "type": "node",
+  "id": 2517642894,
+  "lat": 53.3985064,
+  "lon": -2.9867391
+},
+{
+  "type": "node",
+  "id": 2517642901,
+  "lat": 53.3985697,
+  "lon": -2.9866309
+},
+{
+  "type": "node",
+  "id": 2517642907,
+  "lat": 53.3986427,
+  "lon": -2.9868391
+},
+{
+  "type": "node",
+  "id": 2517642911,
+  "lat": 53.3986658,
+  "lon": -2.9867779
+},
+{
+  "type": "node",
+  "id": 2517642912,
+  "lat": 53.3986658,
+  "lon": -2.9868453
+},
+{
+  "type": "node",
+  "id": 2517642913,
+  "lat": 53.3986719,
+  "lon": -2.9868208
+},
+{
+  "type": "node",
+  "id": 4560482426,
+  "lat": 53.5562112,
+  "lon": -3.0411589
+},
+{
+  "type": "node",
+  "id": 4560482429,
+  "lat": 53.5560591,
+  "lon": -3.0412117
+},
+{
+  "type": "node",
+  "id": 4560482427,
+  "lat": 53.5561364,
+  "lon": -3.0405206
+},
+{
+  "type": "node",
+  "id": 4560482428,
+  "lat": 53.5559794,
+  "lon": -3.0404596
+},
+{
+  "type": "node",
+  "id": 5418400143,
+  "lat": 53.3847946,
+  "lon": -2.3909506
+},
+{
+  "type": "node",
+  "id": 5418400144,
+  "lat": 53.3848387,
+  "lon": -2.3910292
+},
+{
+  "type": "node",
+  "id": 5418400145,
+  "lat": 53.3849155,
+  "lon": -2.3909108
+},
+{
+  "type": "node",
+  "id": 5418400146,
+  "lat": 53.3848700,
+  "lon": -2.3908254
+}
+
+  ]
+}

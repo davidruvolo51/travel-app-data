@@ -1,0 +1,147 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T08:46:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 4064063938,
+  "lat": 47.8510882,
+  "lon": 3.9758434,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "french",
+    "microbrewery": "yes",
+    "name": "L'Abbaye",
+    "outdoor_seating": "yes",
+    "phone": "+33 3 86 54 87 16",
+    "tourism": "guest_house",
+    "website": "https://www.l-abbaye.fr/"
+  }
+},
+{
+  "type": "node",
+  "id": 4186127920,
+  "lat": 47.7981218,
+  "lon": 3.5843415,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "french",
+    "microbrewery": "yes",
+    "name": "Hôtel des Deux Gares",
+    "outdoor_seating": "yes",
+    "phone": "+33 386469006",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4187412014,
+  "lat": 47.7951970,
+  "lon": 3.5690034,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "coffee_shop;french",
+    "microbrewery": "yes",
+    "name": "Le Schaeffer"
+  }
+},
+{
+  "type": "node",
+  "id": 4744062603,
+  "lat": 47.6191821,
+  "lon": 4.3360370,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "french",
+    "microbrewery": "yes",
+    "name": "Le Saint-Louis",
+    "outdoor_seating": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6356267098,
+  "lat": 47.6640235,
+  "lon": 3.7335508,
+  "tags": {
+    "amenity": "bar",
+    "craft": "brewery",
+    "name": "Le Meridien",
+    "outdoor_seating": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 624237301,
+  "nodes": [
+    5894676834,
+    5894676833,
+    5894676832,
+    5894676831,
+    5894676830,
+    5894676829,
+    5894676828,
+    5894676827,
+    5894676834
+  ],
+  "tags": {
+    "building": "brewery",
+    "source": "survey; IGN Ortho"
+  }
+},
+{
+  "type": "node",
+  "id": 5894676827,
+  "lat": 47.4606889,
+  "lon": 3.7695416
+},
+{
+  "type": "node",
+  "id": 5894676828,
+  "lat": 47.4606523,
+  "lon": 3.7696174
+},
+{
+  "type": "node",
+  "id": 5894676829,
+  "lat": 47.4606161,
+  "lon": 3.7695793
+},
+{
+  "type": "node",
+  "id": 5894676830,
+  "lat": 47.4604927,
+  "lon": 3.7698356
+},
+{
+  "type": "node",
+  "id": 5894676831,
+  "lat": 47.4603994,
+  "lon": 3.7697374
+},
+{
+  "type": "node",
+  "id": 5894676832,
+  "lat": 47.4603239,
+  "lon": 3.7698942
+},
+{
+  "type": "node",
+  "id": 5894676833,
+  "lat": 47.4605267,
+  "lon": 3.7701078
+},
+{
+  "type": "node",
+  "id": 5894676834,
+  "lat": 47.4607622,
+  "lon": 3.7696188
+}
+
+  ]
+}

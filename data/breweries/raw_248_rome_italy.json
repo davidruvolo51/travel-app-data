@@ -1,0 +1,326 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T10:29:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2135162065,
+  "lat": 41.8917313,
+  "lon": 12.4689102,
+  "tags": {
+    "addr:city": "Roma",
+    "addr:country": "IT",
+    "addr:housenumber": "23",
+    "addr:postcode": "00153",
+    "addr:street": "Via Benedetta",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "microbrewery": "yes",
+    "name": "Bir & Fud",
+    "phone": "+39 06 5894016",
+    "smoking": "no",
+    "source": "First hand",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2135162066,
+  "lat": 41.8916907,
+  "lon": 12.4689935,
+  "tags": {
+    "addr:city": "Roma",
+    "addr:country": "IT",
+    "addr:housenumber": "19",
+    "addr:postcode": "00153",
+    "addr:street": "Via Benedetta",
+    "amenity": "pub",
+    "microbrewery": "yes",
+    "name": "Birreria Trilussa",
+    "phone": "+39 06 5819067",
+    "smoking": "no",
+    "source": "First hand",
+    "website": "www.birreriatrilussa.it",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2652502914,
+  "lat": 41.8099129,
+  "lon": 12.6820123,
+  "tags": {
+    "amenity": "pub",
+    "microbrewery": "yes",
+    "name": "Far Out"
+  }
+},
+{
+  "type": "node",
+  "id": 2773407185,
+  "lat": 41.9000609,
+  "lon": 12.4710792,
+  "tags": {
+    "addr:housenumber": "16",
+    "addr:street": "Piazza di Montevecchio",
+    "amenity": "bar",
+    "cuisine": "pizza",
+    "email": "noauroma@gmail.com",
+    "microbrewery": "yes",
+    "name": "No.Au",
+    "phone": "+39 06 4565 2770",
+    "smoking": "no",
+    "source": "Bing, Local knowledge",
+    "website": "https://noauroma.wordpress.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4407069593,
+  "lat": 41.8101247,
+  "lon": 12.6791315,
+  "tags": {
+    "amenity": "restaurant",
+    "microbrewery": "yes",
+    "name": "Cento Gocce",
+    "operator": "Emmanuele Ragno",
+    "outdoor_seating": "yes",
+    "phone": "+39 06 94018072"
+  }
+},
+{
+  "type": "node",
+  "id": 5597406207,
+  "lat": 41.8510760,
+  "lon": 12.4021464,
+  "tags": {
+    "amenity": "pub",
+    "cuisine": "american",
+    "microbrewery": "yes",
+    "name": "Eternal City Brewing",
+    "website": "https://www.eternalcitybrewing.it/"
+  }
+},
+{
+  "type": "way",
+  "id": 557214070,
+  "nodes": [
+    5374252356,
+    5374252357,
+    5374252358,
+    5374252359,
+    5374252360,
+    5374252361,
+    5374252362,
+    5374252363,
+    5374252356
+  ],
+  "tags": {
+    "addr:city": "Roma",
+    "addr:postcode": "00155",
+    "addr:street": "Via Melibeo",
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Doc Roma",
+    "phone": "+39 06 22799763"
+  }
+},
+{
+  "type": "relation",
+  "id": 3304088,
+  "members": [
+    {
+      "type": "way",
+      "ref": 24178414,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "addr:city": "Roma",
+    "addr:country": "IT",
+    "addr:housename": "Ex Air Terminal",
+    "addr:postcode": "00100",
+    "addr:street": "Piazzale XII Ottobre 1492",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "email": "eatalyroma@eataly.it",
+    "levels": "4",
+    "microbrewery": "yes",
+    "name": "Eataly Roma",
+    "opening_hours": "Mo-Su 09:00-00:00",
+    "operator": "Eataly Distribuzione S.u.r.l.",
+    "phone": "+39 06 90279201",
+    "ref:vatin": "IT09450580015",
+    "shop": "deli",
+    "type": "multipolygon",
+    "website": "http://www.roma.eataly.it/"
+  }
+},
+{
+  "type": "node",
+  "id": 261836550,
+  "lat": 41.8715348,
+  "lon": 12.4857043
+},
+{
+  "type": "node",
+  "id": 261836552,
+  "lat": 41.8712504,
+  "lon": 12.4876459
+},
+{
+  "type": "node",
+  "id": 261836556,
+  "lat": 41.8712151,
+  "lon": 12.4856256
+},
+{
+  "type": "node",
+  "id": 261836559,
+  "lat": 41.8709315,
+  "lon": 12.4875619
+},
+{
+  "type": "node",
+  "id": 261836561,
+  "lat": 41.8714959,
+  "lon": 12.4856940
+},
+{
+  "type": "node",
+  "id": 261836564,
+  "lat": 41.8712523,
+  "lon": 12.4856354
+},
+{
+  "type": "node",
+  "id": 261836566,
+  "lat": 41.8712137,
+  "lon": 12.4876362
+},
+{
+  "type": "node",
+  "id": 261836568,
+  "lat": 41.8709629,
+  "lon": 12.4875702
+},
+{
+  "type": "node",
+  "id": 261836570,
+  "lat": 41.8715030,
+  "lon": 12.4856453
+},
+{
+  "type": "node",
+  "id": 261836573,
+  "lat": 41.8712602,
+  "lon": 12.4855811
+},
+{
+  "type": "node",
+  "id": 261836576,
+  "lat": 41.8709561,
+  "lon": 12.4876161
+},
+{
+  "type": "node",
+  "id": 261836580,
+  "lat": 41.8712070,
+  "lon": 12.4876824
+},
+{
+  "type": "node",
+  "id": 261836587,
+  "lat": 41.8713332,
+  "lon": 12.4856004
+},
+{
+  "type": "node",
+  "id": 2130437674,
+  "lat": 41.8710744,
+  "lon": 12.4865863
+},
+{
+  "type": "node",
+  "id": 2130437675,
+  "lat": 41.8710840,
+  "lon": 12.4865197
+},
+{
+  "type": "node",
+  "id": 5374252356,
+  "lat": 41.9225089,
+  "lon": 12.5971643
+},
+{
+  "type": "node",
+  "id": 5374252357,
+  "lat": 41.9223807,
+  "lon": 12.5975015
+},
+{
+  "type": "node",
+  "id": 5374252358,
+  "lat": 41.9219703,
+  "lon": 12.5972196
+},
+{
+  "type": "node",
+  "id": 5374252359,
+  "lat": 41.9220113,
+  "lon": 12.5971118
+},
+{
+  "type": "node",
+  "id": 5374252360,
+  "lat": 41.9218224,
+  "lon": 12.5969820
+},
+{
+  "type": "node",
+  "id": 5374252361,
+  "lat": 41.9218380,
+  "lon": 12.5969408
+},
+{
+  "type": "node",
+  "id": 5374252362,
+  "lat": 41.9217859,
+  "lon": 12.5969050
+},
+{
+  "type": "node",
+  "id": 5374252363,
+  "lat": 41.9218575,
+  "lon": 12.5967168
+},
+{
+  "type": "way",
+  "id": 24178414,
+  "nodes": [
+    261836550,
+    261836561,
+    261836570,
+    261836587,
+    261836573,
+    261836564,
+    261836556,
+    2130437675,
+    2130437674,
+    261836559,
+    261836568,
+    261836576,
+    261836580,
+    261836566,
+    261836552,
+    261836550
+  ]
+}
+
+  ]
+}

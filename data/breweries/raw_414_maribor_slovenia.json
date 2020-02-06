@@ -1,0 +1,379 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T14:35:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2537141677,
+  "lat": 46.6860126,
+  "lon": 16.0112425,
+  "tags": {
+    "addr:city": "Bad Radkersburg",
+    "addr:housenumber": "9",
+    "addr:postcode": "8490",
+    "addr:street": "Gewerbepark B",
+    "amenity": "biergarten",
+    "contact:email": "office@bevog.at",
+    "contact:phone": "+43347641543",
+    "craft": "brewery",
+    "microbrewery": "yes",
+    "name": "BEVOG Brauhaus",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 10:00-18:00",
+    "operator": "Brauhaus Bevog GmbH",
+    "website": "https://bevog.at/"
+  }
+},
+{
+  "type": "way",
+  "id": 167309542,
+  "nodes": [
+    2210334338,
+    1787162320,
+    1787162273,
+    1787162210,
+    1787162312,
+    2210334316,
+    2210334321,
+    2210334323,
+    2210334325,
+    2210334327,
+    2210334330,
+    2210334334,
+    2210334332,
+    2210334329,
+    2210334336,
+    2210334345,
+    2210334351,
+    2210334355,
+    2210334357,
+    2210334359,
+    2210334358,
+    2210334356,
+    2210334353,
+    2210334349,
+    2210334347,
+    2210334342,
+    2210334340,
+    2210334338
+  ],
+  "tags": {
+    "addr:city": "Leutschach",
+    "addr:country": "AT",
+    "addr:housenumber": "3",
+    "addr:postcode": "8463",
+    "addr:street": "Schillerplatz",
+    "amenity": "biergarten",
+    "building": "yes",
+    "contact:email": "wolf@diebrauerei.com",
+    "contact:mobile": "+43 699 10438749",
+    "craft": "brewery",
+    "microbrewery": "yes",
+    "name": "Brauerei Leutschach",
+    "operator": "Wolfgang Dietrich",
+    "source": "TVB Südsteiermark",
+    "website": "http://www.diebrauerei.at",
+    "weinmobil:note": "Bitte weinmobil:ref nicht entfernen, dient zum automatischen Update.",
+    "weinmobil:ref": "207"
+  }
+},
+{
+  "type": "way",
+  "id": 326065447,
+  "nodes": [
+    3326847351,
+    3326847352,
+    3326847353,
+    3326847354,
+    3326847355,
+    3326847356,
+    3326847351
+  ],
+  "tags": {
+    "addr:city": "Sankt Nikolai im Sausal",
+    "addr:country": "AT",
+    "addr:housenumber": "101",
+    "addr:place": "Flamberg",
+    "addr:postcode": "8505",
+    "amenity": "biergarten",
+    "building": "brewery",
+    "contact:email": "flamberger@utanet.at",
+    "contact:phone": "+43 3185 32 66",
+    "microbrewery": "yes",
+    "name": "Flamberg Bier",
+    "opening_hours": "Mo-Fr 08:00-12:00, 14:00-18:00; Sa 09:00-16:00; Su,Ph off",
+    "operator": "Dipl. Ing. Dr. Löscher Michael",
+    "website": "http://www.flamberger.at",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 482290239,
+  "nodes": [
+    4751340469,
+    4751340470,
+    4751340471,
+    4751340472,
+    4751340473,
+    4751340474,
+    4751340469
+  ],
+  "tags": {
+    "addr:city": "Groß Sankt Florian",
+    "addr:country": "AT",
+    "addr:housenumber": "48",
+    "addr:place": "Nassau",
+    "addr:postcode": "8522",
+    "at_bev:addr_date": "2017-10-01",
+    "building": "yes",
+    "contact:phone": "+43 664 597 20 32",
+    "craft": "brewery",
+    "microbrewery": "yes",
+    "name": "Brauerei  Nassauer City Bier",
+    "operator": "Richard Achleitner",
+    "source": "geoimage.at",
+    "website": "https://www.nassauercitybier.at/kontakt/"
+  }
+},
+{
+  "type": "node",
+  "id": 1787162210,
+  "lat": 46.6639833,
+  "lon": 15.4712524
+},
+{
+  "type": "node",
+  "id": 1787162273,
+  "lat": 46.6641167,
+  "lon": 15.4706390
+},
+{
+  "type": "node",
+  "id": 1787162312,
+  "lat": 46.6641367,
+  "lon": 15.4712987
+},
+{
+  "type": "node",
+  "id": 1787162320,
+  "lat": 46.6642833,
+  "lon": 15.4707072
+},
+{
+  "type": "node",
+  "id": 2210334316,
+  "lat": 46.6641761,
+  "lon": 15.4710784
+},
+{
+  "type": "node",
+  "id": 2210334321,
+  "lat": 46.6641948,
+  "lon": 15.4710816
+},
+{
+  "type": "node",
+  "id": 2210334323,
+  "lat": 46.6642084,
+  "lon": 15.4710805
+},
+{
+  "type": "node",
+  "id": 2210334325,
+  "lat": 46.6642212,
+  "lon": 15.4710731
+},
+{
+  "type": "node",
+  "id": 2210334327,
+  "lat": 46.6642316,
+  "lon": 15.4710602
+},
+{
+  "type": "node",
+  "id": 2210334329,
+  "lat": 46.6642342,
+  "lon": 15.4709858
+},
+{
+  "type": "node",
+  "id": 2210334330,
+  "lat": 46.6642386,
+  "lon": 15.4710431
+},
+{
+  "type": "node",
+  "id": 2210334332,
+  "lat": 46.6642400,
+  "lon": 15.4710038
+},
+{
+  "type": "node",
+  "id": 2210334334,
+  "lat": 46.6642415,
+  "lon": 15.4710236
+},
+{
+  "type": "node",
+  "id": 2210334336,
+  "lat": 46.6642507,
+  "lon": 15.4708740
+},
+{
+  "type": "node",
+  "id": 2210334338,
+  "lat": 46.6642835,
+  "lon": 15.4707319
+},
+{
+  "type": "node",
+  "id": 2210334340,
+  "lat": 46.6642912,
+  "lon": 15.4707223
+},
+{
+  "type": "node",
+  "id": 2210334342,
+  "lat": 46.6643005,
+  "lon": 15.4707167
+},
+{
+  "type": "node",
+  "id": 2210334345,
+  "lat": 46.6643054,
+  "lon": 15.4708932
+},
+{
+  "type": "node",
+  "id": 2210334347,
+  "lat": 46.6643106,
+  "lon": 15.4707157
+},
+{
+  "type": "node",
+  "id": 2210334349,
+  "lat": 46.6643203,
+  "lon": 15.4707194
+},
+{
+  "type": "node",
+  "id": 2210334351,
+  "lat": 46.6643219,
+  "lon": 15.4708022
+},
+{
+  "type": "node",
+  "id": 2210334353,
+  "lat": 46.6643288,
+  "lon": 15.4707274
+},
+{
+  "type": "node",
+  "id": 2210334355,
+  "lat": 46.6643300,
+  "lon": 15.4707935
+},
+{
+  "type": "node",
+  "id": 2210334356,
+  "lat": 46.6643351,
+  "lon": 15.4707389
+},
+{
+  "type": "node",
+  "id": 2210334357,
+  "lat": 46.6643359,
+  "lon": 15.4707815
+},
+{
+  "type": "node",
+  "id": 2210334358,
+  "lat": 46.6643385,
+  "lon": 15.4707527
+},
+{
+  "type": "node",
+  "id": 2210334359,
+  "lat": 46.6643388,
+  "lon": 15.4707674
+},
+{
+  "type": "node",
+  "id": 4751340469,
+  "lat": 46.8035926,
+  "lon": 15.3446867
+},
+{
+  "type": "node",
+  "id": 4751340470,
+  "lat": 46.8035392,
+  "lon": 15.3448424
+},
+{
+  "type": "node",
+  "id": 4751340471,
+  "lat": 46.8034740,
+  "lon": 15.3447946
+},
+{
+  "type": "node",
+  "id": 4751340472,
+  "lat": 46.8035162,
+  "lon": 15.3446716
+},
+{
+  "type": "node",
+  "id": 4751340473,
+  "lat": 46.8035349,
+  "lon": 15.3446853
+},
+{
+  "type": "node",
+  "id": 4751340474,
+  "lat": 46.8035461,
+  "lon": 15.3446527
+},
+{
+  "type": "node",
+  "id": 3326847351,
+  "lat": 46.8305792,
+  "lon": 15.4716712
+},
+{
+  "type": "node",
+  "id": 3326847352,
+  "lat": 46.8307725,
+  "lon": 15.4716136
+},
+{
+  "type": "node",
+  "id": 3326847353,
+  "lat": 46.8307479,
+  "lon": 15.4714376
+},
+{
+  "type": "node",
+  "id": 3326847354,
+  "lat": 46.8306704,
+  "lon": 15.4714608
+},
+{
+  "type": "node",
+  "id": 3326847355,
+  "lat": 46.8306789,
+  "lon": 15.4715216
+},
+{
+  "type": "node",
+  "id": 3326847356,
+  "lat": 46.8305631,
+  "lon": 15.4715561
+}
+
+  ]
+}

@@ -1,0 +1,968 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-05T22:26:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 82448160,
+  "lat": 47.6715415,
+  "lon": 9.5888869,
+  "tags": {
+    "addr:city": "Tettnang",
+    "addr:housenumber": "7",
+    "addr:postcode": "88069",
+    "addr:street": "Bärenplatz",
+    "amenity": "restaurant",
+    "contact:email": "info@krone-tettnang.de",
+    "contact:phone": "+49 7542 7452",
+    "contact:website": "http://www.krone-tettnang.de/",
+    "microbrewery": "yes",
+    "name": "Brauerei Gasthof Krone",
+    "opening_hours": "Tu-Su 10:00-14:00,17:00-24:00; Mo off",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 357214856,
+  "lat": 47.5972998,
+  "lon": 10.1277068,
+  "tags": {
+    "addr:city": "Missen-Wilhams",
+    "addr:housenumber": "15",
+    "addr:postcode": "87547",
+    "addr:street": "Hauptstraße",
+    "addr:suburb": "Missen",
+    "amenity": "restaurant",
+    "contact:phone": "+49 8320 92 00",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "microbrewery": "yes",
+    "name": "Brauereigasthof Schäffler",
+    "website": "http://www.schaeffler-braeu.de/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1313260924,
+  "lat": 47.6965943,
+  "lon": 10.0431207,
+  "tags": {
+    "addr:city": "Isny im Allgäu",
+    "addr:housenumber": "36",
+    "addr:postcode": "88316",
+    "addr:street": "Bahnhofstraße",
+    "amenity": "restaurant",
+    "microbrewery": "yes",
+    "name": "Brauereigasthof Engel",
+    "tourism": "hotel",
+    "website": "http://www.engel-isny.de/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2355421358,
+  "lat": 47.5005029,
+  "lon": 9.3954834,
+  "tags": {
+    "addr:city": "Roggwil TG",
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:postcode": "9325",
+    "addr:street": "Schlossgässli",
+    "brewery": "huus braui",
+    "craft": "brewery",
+    "name": "Huus-Braui",
+    "phone": "+41 71 450 06 36",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.huus-braui.ch/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4792183182,
+  "lat": 47.6874201,
+  "lon": 9.8359005,
+  "tags": {
+    "addr:city": "Wangen im Allgäu",
+    "addr:country": "DE",
+    "addr:housenumber": "4",
+    "addr:postcode": "88239",
+    "addr:street": "Eselberg",
+    "amenity": "restaurant",
+    "contact:email": "info@stadbräu-rimmele.de",
+    "contact:phone": "+49 7522 707484",
+    "contact:website": "http://stadtbräu-rimmele.de/",
+    "cuisine": "german",
+    "delivery": "no",
+    "microbrewery": "yes",
+    "name": "Stadtbräu Rimmele",
+    "opening_hours": "Mo,Th,Fr 10:30+; We 09:00+; Sa-Su 10:00+; Tu,PH off",
+    "operator": "Gerhard Rimmele",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "takeaway": "no",
+    "toilets:wheelchair": "no",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 6284572156,
+  "lat": 47.5067863,
+  "lon": 9.4106728,
+  "tags": {
+    "addr:city": "Arbon",
+    "addr:housenumber": "213",
+    "addr:postcode": "9320",
+    "addr:street": "St. Gallerstrasse",
+    "craft": "brewery",
+    "name": "Mosterei Möhl AG",
+    "product": "cider;juice",
+    "website": "https://www.moehl.ch"
+  }
+},
+{
+  "type": "way",
+  "id": 78255519,
+  "nodes": [
+    3698320478,
+    919008742,
+    919006904,
+    1366437231,
+    919008465,
+    3698320477,
+    3698320478
+  ],
+  "tags": {
+    "addr:city": "Rankweil",
+    "addr:country": "AT",
+    "addr:housenumber": "10",
+    "addr:postcode": "6830",
+    "addr:street": "Walgaustraße",
+    "amenity": "restaurant",
+    "building": "yes",
+    "microbrewery": "yes",
+    "name": "Gasthaus Sternen",
+    "toilets:wheelchair": "no",
+    "website": "http://www.sternbrauerei.com/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "way",
+  "id": 87635294,
+  "nodes": [
+    1019285702,
+    1019285904,
+    2869087572,
+    2869087571,
+    1019285491,
+    1019285201,
+    1019285702
+  ],
+  "tags": {
+    "addr:city": "Weiler-Simmerberg",
+    "addr:country": "DE",
+    "addr:housenumber": "2",
+    "addr:postcode": "88171",
+    "addr:street": "Ellhofer Straße",
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "regional",
+    "diet:vegan": "no",
+    "diet:vegetarian": "yes",
+    "man_made": "works",
+    "microbrewery": "yes",
+    "name": "Braustatt Simmerberg",
+    "source": "Bing"
+  }
+},
+{
+  "type": "way",
+  "id": 110289512,
+  "nodes": [
+    1259913751,
+    3489259764,
+    3489259762,
+    1259913682,
+    1259913365,
+    4959814236,
+    4959814235,
+    1259913275,
+    3736889128,
+    3736889129,
+    1259913751
+  ],
+  "tags": {
+    "addr:city": "Kressbronn am Bodensee",
+    "addr:country": "DE",
+    "addr:housenumber": "6",
+    "addr:postcode": "88079",
+    "addr:street": "Weinbichl",
+    "addr:suburb": "Berg",
+    "amenity": "restaurant",
+    "building": "yes",
+    "contact:email": "info@maxmoritz-bier.de",
+    "contact:fax": "+49 7543 5742",
+    "contact:phone": "+49 7543 6508",
+    "contact:website": "http://www.maxmoritz-bier.de/",
+    "cuisine": "regional",
+    "microbrewery": "yes",
+    "name": "Gasthaus-Brauerei Max & Moritz",
+    "opening_hours": "Mo-Su,PH 11:00+",
+    "operator": "Gasthaus-Brauerei Max&Moritz GmbH",
+    "outdoor_seating": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 126332234,
+  "nodes": [
+    1400716568,
+    1400716555,
+    1400716503,
+    1400716505,
+    1400716568
+  ],
+  "tags": {
+    "addr:housenumber": "2",
+    "addr:street": "Dietmannsweiler",
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "german",
+    "microbrewery": "yes",
+    "name": "Schöre",
+    "opening_hours": "Tu-Fr 16:00-22:00;Sa-Su 11:00-23:00",
+    "operator": "Georg Bentele",
+    "website": "http://www.hopfen-bentele.de/"
+  }
+},
+{
+  "type": "way",
+  "id": 135633779,
+  "nodes": [
+    4209124219,
+    1489384155,
+    1489384162,
+    4385800150,
+    1489384154,
+    1489384151,
+    4209124216,
+    4209124215,
+    4209124217,
+    4209124219
+  ],
+  "tags": {
+    "addr:city": "Dornbirn",
+    "addr:country": "AT",
+    "addr:housenumber": "2",
+    "addr:postcode": "6850",
+    "addr:street": "Dr. Waibel Straße",
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Mohrenbrauerei"
+  }
+},
+{
+  "type": "way",
+  "id": 193876842,
+  "nodes": [
+    2043830505,
+    2043830500,
+    2043830531,
+    2043830533,
+    2043830529,
+    2043830524,
+    2043830505
+  ],
+  "tags": {
+    "addr:city": "Ravensburg",
+    "addr:housenumber": "24",
+    "addr:street": "Friedhofstraße",
+    "building": "industrial",
+    "craft": "brewery",
+    "email": "info@leibinger.de",
+    "fax": "+49 751 3699-90",
+    "man_made": "works",
+    "name": "Brauerei Leibinger",
+    "phone": "+49 751 3699-0",
+    "website": "https://www.leibinger.de",
+    "wikidata": "Q900320",
+    "wikipedia": "de:Brauerei Max Leibinger"
+  }
+},
+{
+  "type": "way",
+  "id": 230469428,
+  "nodes": [
+    2389652014,
+    2389652015,
+    2389652016,
+    2389652017,
+    2389652018,
+    2389652019,
+    2389652020,
+    2389652021,
+    2389652024,
+    2389652026,
+    4209124204,
+    2389652027,
+    2389652028,
+    2389652029,
+    2389652030,
+    2389652031,
+    4209124218,
+    4209124220,
+    2398376157,
+    2389652032,
+    2389652033,
+    2389652034,
+    2389652035,
+    4209124198,
+    2389652036,
+    2389652037,
+    2389652038,
+    4209124189,
+    2389652039,
+    2389652040,
+    2389652014
+  ],
+  "tags": {
+    "addr:city": "Dornbirn",
+    "addr:country": "AT",
+    "addr:housenumber": "2",
+    "addr:postcode": "6850",
+    "addr:street": "Dr. Waibel Straße",
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Mohrenbrauerei"
+  }
+},
+{
+  "type": "way",
+  "id": 237812573,
+  "nodes": [
+    2456795546,
+    6173519224,
+    2456795547,
+    6173519232,
+    278200668,
+    2456795521,
+    2456795522,
+    2456795523,
+    2456795548,
+    2456795546
+  ],
+  "tags": {
+    "craft": "brewery",
+    "landuse": "industrial",
+    "name": "Edelweissbrauerei Farny",
+    "website": "https://www.farny.de/",
+    "wikidata": "Q1283441"
+  }
+},
+{
+  "type": "way",
+  "id": 242983248,
+  "nodes": [
+    2504203357,
+    2504203342,
+    2504203330,
+    2504203335,
+    2504203357
+  ],
+  "tags": {
+    "addr:city": "Roggwil",
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:postcode": "9325",
+    "addr:street": "Schlossgässli",
+    "building": "yes",
+    "craft": "brewery",
+    "source": "Bing"
+  }
+},
+{
+  "type": "way",
+  "id": 485114486,
+  "nodes": [
+    4778836487,
+    4778836519,
+    4778818804,
+    4778836478,
+    4778836424,
+    4778836522,
+    4778836603,
+    4778836487
+  ],
+  "tags": {
+    "addr:city": "Egg",
+    "addr:country": "AT",
+    "addr:housenumber": "500",
+    "addr:postcode": "6863",
+    "addr:street": "Gerbe",
+    "at_bev:addr_date": "2017-10-01",
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Egger Bier",
+    "source": "geoimage.at"
+  }
+},
+{
+  "type": "node",
+  "id": 919006904,
+  "lat": 47.2678067,
+  "lon": 9.6435934
+},
+{
+  "type": "node",
+  "id": 919008465,
+  "lat": 47.2677119,
+  "lon": 9.6433805
+},
+{
+  "type": "node",
+  "id": 919008742,
+  "lat": 47.2678215,
+  "lon": 9.6432490
+},
+{
+  "type": "node",
+  "id": 1366437231,
+  "lat": 47.2677031,
+  "lon": 9.6435837
+},
+{
+  "type": "node",
+  "id": 3698320477,
+  "lat": 47.2676460,
+  "lon": 9.6433743
+},
+{
+  "type": "node",
+  "id": 3698320478,
+  "lat": 47.2676480,
+  "lon": 9.6432328
+},
+{
+  "type": "node",
+  "id": 2389652014,
+  "lat": 47.4114359,
+  "lon": 9.7439808
+},
+{
+  "type": "node",
+  "id": 2389652015,
+  "lat": 47.4114256,
+  "lon": 9.7450619
+},
+{
+  "type": "node",
+  "id": 2389652016,
+  "lat": 47.4117926,
+  "lon": 9.7450683
+},
+{
+  "type": "node",
+  "id": 2389652020,
+  "lat": 47.4119642,
+  "lon": 9.7452011
+},
+{
+  "type": "node",
+  "id": 2389652038,
+  "lat": 47.4117899,
+  "lon": 9.7437098
+},
+{
+  "type": "node",
+  "id": 2389652039,
+  "lat": 47.4116728,
+  "lon": 9.7437433
+},
+{
+  "type": "node",
+  "id": 2389652040,
+  "lat": 47.4116710,
+  "lon": 9.7439861
+},
+{
+  "type": "node",
+  "id": 4209124189,
+  "lat": 47.4117882,
+  "lon": 9.7437505
+},
+{
+  "type": "node",
+  "id": 2389652017,
+  "lat": 47.4117817,
+  "lon": 9.7452106
+},
+{
+  "type": "node",
+  "id": 2389652018,
+  "lat": 47.4117663,
+  "lon": 9.7454398
+},
+{
+  "type": "node",
+  "id": 2389652019,
+  "lat": 47.4119360,
+  "lon": 9.7454734
+},
+{
+  "type": "node",
+  "id": 2504203330,
+  "lat": 47.5004014,
+  "lon": 9.3954731
+},
+{
+  "type": "node",
+  "id": 2504203335,
+  "lat": 47.5004798,
+  "lon": 9.3953622
+},
+{
+  "type": "node",
+  "id": 2504203342,
+  "lat": 47.5005377,
+  "lon": 9.3956843
+},
+{
+  "type": "node",
+  "id": 2504203357,
+  "lat": 47.5006161,
+  "lon": 9.3955734
+},
+{
+  "type": "node",
+  "id": 1259913275,
+  "lat": 47.6061025,
+  "lon": 9.6059375
+},
+{
+  "type": "node",
+  "id": 1259913365,
+  "lat": 47.6062399,
+  "lon": 9.6062227
+},
+{
+  "type": "node",
+  "id": 1259913682,
+  "lat": 47.6064049,
+  "lon": 9.6060744
+},
+{
+  "type": "node",
+  "id": 1259913751,
+  "lat": 47.6063580,
+  "lon": 9.6057930
+},
+{
+  "type": "node",
+  "id": 3489259762,
+  "lat": 47.6063547,
+  "lon": 9.6059516
+},
+{
+  "type": "node",
+  "id": 3489259764,
+  "lat": 47.6064045,
+  "lon": 9.6059069
+},
+{
+  "type": "node",
+  "id": 3736889128,
+  "lat": 47.6062014,
+  "lon": 9.6058486
+},
+{
+  "type": "node",
+  "id": 3736889129,
+  "lat": 47.6062268,
+  "lon": 9.6059109
+},
+{
+  "type": "node",
+  "id": 4959814235,
+  "lat": 47.6061536,
+  "lon": 9.6060627
+},
+{
+  "type": "node",
+  "id": 4959814236,
+  "lat": 47.6061689,
+  "lon": 9.6060490
+},
+{
+  "type": "node",
+  "id": 2043830500,
+  "lat": 47.7813058,
+  "lon": 9.6216278
+},
+{
+  "type": "node",
+  "id": 2043830505,
+  "lat": 47.7813772,
+  "lon": 9.6222437
+},
+{
+  "type": "node",
+  "id": 2043830524,
+  "lat": 47.7816267,
+  "lon": 9.6221768
+},
+{
+  "type": "node",
+  "id": 2043830529,
+  "lat": 47.7816422,
+  "lon": 9.6220176
+},
+{
+  "type": "node",
+  "id": 2043830531,
+  "lat": 47.7816500,
+  "lon": 9.6215493
+},
+{
+  "type": "node",
+  "id": 2043830533,
+  "lat": 47.7816888,
+  "lon": 9.6220084
+},
+{
+  "type": "node",
+  "id": 1489384151,
+  "lat": 47.4124302,
+  "lon": 9.7446233
+},
+{
+  "type": "node",
+  "id": 1489384154,
+  "lat": 47.4125100,
+  "lon": 9.7447329
+},
+{
+  "type": "node",
+  "id": 1489384155,
+  "lat": 47.4125118,
+  "lon": 9.7444933
+},
+{
+  "type": "node",
+  "id": 1489384162,
+  "lat": 47.4125918,
+  "lon": 9.7446030
+},
+{
+  "type": "node",
+  "id": 2389652021,
+  "lat": 47.4120669,
+  "lon": 9.7446840
+},
+{
+  "type": "node",
+  "id": 2389652024,
+  "lat": 47.4120712,
+  "lon": 9.7438975
+},
+{
+  "type": "node",
+  "id": 2389652026,
+  "lat": 47.4121908,
+  "lon": 9.7439001
+},
+{
+  "type": "node",
+  "id": 2389652027,
+  "lat": 47.4122487,
+  "lon": 9.7440229
+},
+{
+  "type": "node",
+  "id": 2389652028,
+  "lat": 47.4122194,
+  "lon": 9.7442210
+},
+{
+  "type": "node",
+  "id": 2389652029,
+  "lat": 47.4121747,
+  "lon": 9.7442062
+},
+{
+  "type": "node",
+  "id": 2389652030,
+  "lat": 47.4121495,
+  "lon": 9.7443730
+},
+{
+  "type": "node",
+  "id": 2389652031,
+  "lat": 47.4124437,
+  "lon": 9.7444739
+},
+{
+  "type": "node",
+  "id": 2389652032,
+  "lat": 47.4123744,
+  "lon": 9.7437863
+},
+{
+  "type": "node",
+  "id": 2389652033,
+  "lat": 47.4123634,
+  "lon": 9.7438681
+},
+{
+  "type": "node",
+  "id": 2389652034,
+  "lat": 47.4122890,
+  "lon": 9.7438185
+},
+{
+  "type": "node",
+  "id": 2389652035,
+  "lat": 47.4122065,
+  "lon": 9.7437916
+},
+{
+  "type": "node",
+  "id": 2389652036,
+  "lat": 47.4120717,
+  "lon": 9.7437983
+},
+{
+  "type": "node",
+  "id": 2389652037,
+  "lat": 47.4120721,
+  "lon": 9.7437192
+},
+{
+  "type": "node",
+  "id": 2398376157,
+  "lat": 47.4125650,
+  "lon": 9.7438480
+},
+{
+  "type": "node",
+  "id": 4209124198,
+  "lat": 47.4121431,
+  "lon": 9.7437867
+},
+{
+  "type": "node",
+  "id": 4209124204,
+  "lat": 47.4122093,
+  "lon": 9.7440080
+},
+{
+  "type": "node",
+  "id": 4209124215,
+  "lat": 47.4124418,
+  "lon": 9.7445747
+},
+{
+  "type": "node",
+  "id": 4209124216,
+  "lat": 47.4124520,
+  "lon": 9.7445886
+},
+{
+  "type": "node",
+  "id": 4209124217,
+  "lat": 47.4124861,
+  "lon": 9.7445042
+},
+{
+  "type": "node",
+  "id": 4209124218,
+  "lat": 47.4124880,
+  "lon": 9.7443218
+},
+{
+  "type": "node",
+  "id": 4209124219,
+  "lat": 47.4124963,
+  "lon": 9.7445181
+},
+{
+  "type": "node",
+  "id": 4209124220,
+  "lat": 47.4125284,
+  "lon": 9.7440714
+},
+{
+  "type": "node",
+  "id": 4385800150,
+  "lat": 47.4125795,
+  "lon": 9.7446225
+},
+{
+  "type": "node",
+  "id": 4778818804,
+  "lat": 47.4313360,
+  "lon": 9.9006605
+},
+{
+  "type": "node",
+  "id": 4778836424,
+  "lat": 47.4311992,
+  "lon": 9.9005025
+},
+{
+  "type": "node",
+  "id": 4778836478,
+  "lat": 47.4313193,
+  "lon": 9.9004904
+},
+{
+  "type": "node",
+  "id": 4778836487,
+  "lat": 47.4315246,
+  "lon": 9.9000186
+},
+{
+  "type": "node",
+  "id": 4778836519,
+  "lat": 47.4315824,
+  "lon": 9.9006077
+},
+{
+  "type": "node",
+  "id": 4778836522,
+  "lat": 47.4311238,
+  "lon": 9.9001799
+},
+{
+  "type": "node",
+  "id": 4778836603,
+  "lat": 47.4312782,
+  "lon": 9.9000713
+},
+{
+  "type": "node",
+  "id": 1019285201,
+  "lat": 47.5866487,
+  "lon": 9.9446546
+},
+{
+  "type": "node",
+  "id": 1019285491,
+  "lat": 47.5865305,
+  "lon": 9.9448482
+},
+{
+  "type": "node",
+  "id": 1019285702,
+  "lat": 47.5868134,
+  "lon": 9.9448757
+},
+{
+  "type": "node",
+  "id": 1019285904,
+  "lat": 47.5867376,
+  "lon": 9.9449997
+},
+{
+  "type": "node",
+  "id": 2869087571,
+  "lat": 47.5866154,
+  "lon": 9.9449623
+},
+{
+  "type": "node",
+  "id": 2869087572,
+  "lat": 47.5866579,
+  "lon": 9.9448927
+},
+{
+  "type": "node",
+  "id": 1400716503,
+  "lat": 47.6561689,
+  "lon": 9.6587792
+},
+{
+  "type": "node",
+  "id": 1400716505,
+  "lat": 47.6562001,
+  "lon": 9.6585624
+},
+{
+  "type": "node",
+  "id": 1400716555,
+  "lat": 47.6565347,
+  "lon": 9.6588953
+},
+{
+  "type": "node",
+  "id": 1400716568,
+  "lat": 47.6565659,
+  "lon": 9.6586784
+},
+{
+  "type": "node",
+  "id": 278200668,
+  "lat": 47.7298131,
+  "lon": 9.8719388
+},
+{
+  "type": "node",
+  "id": 2456795521,
+  "lat": 47.7293814,
+  "lon": 9.8707267
+},
+{
+  "type": "node",
+  "id": 2456795522,
+  "lat": 47.7287801,
+  "lon": 9.8708967
+},
+{
+  "type": "node",
+  "id": 2456795523,
+  "lat": 47.7285403,
+  "lon": 9.8706115
+},
+{
+  "type": "node",
+  "id": 2456795546,
+  "lat": 47.7288066,
+  "lon": 9.8735575
+},
+{
+  "type": "node",
+  "id": 2456795547,
+  "lat": 47.7294427,
+  "lon": 9.8744067
+},
+{
+  "type": "node",
+  "id": 2456795548,
+  "lat": 47.7277552,
+  "lon": 9.8717583
+},
+{
+  "type": "node",
+  "id": 6173519224,
+  "lat": 47.7289443,
+  "lon": 9.8737413
+},
+{
+  "type": "node",
+  "id": 6173519232,
+  "lat": 47.7294905,
+  "lon": 9.8740883
+}
+
+  ]
+}

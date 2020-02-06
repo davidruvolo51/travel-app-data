@@ -1,0 +1,188 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T00:46:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1827982268,
+  "lat": 49.9491822,
+  "lon": 16.1523763,
+  "tags": {
+    "addr:conscriptionnumber": "801",
+    "addr:country": "CZ",
+    "addr:housenumber": "801",
+    "addr:place": "Litomyšlské Předměstí",
+    "addr:postcode": "56601",
+    "addr:street": "Žižkova",
+    "craft": "brewery",
+    "name": "Pivovar Kujeba",
+    "ref:ruian:addr": "26646633"
+  }
+},
+{
+  "type": "node",
+  "id": 3394665293,
+  "lat": 50.0354690,
+  "lon": 15.7621320,
+  "tags": {
+    "addr:city": "Pardubice",
+    "addr:housenumber": "250",
+    "addr:postcode": "53002",
+    "addr:street": "Palackého třída",
+    "craft": "brewery",
+    "name": "Pivovar Pernštejn",
+    "website": "http://www.pernstejn.cz",
+    "wikidata": "Q12045420"
+  }
+},
+{
+  "type": "node",
+  "id": 3394666893,
+  "lat": 49.9775140,
+  "lon": 15.7702590,
+  "tags": {
+    "craft": "brewery",
+    "name": "Pivovar Medlešice"
+  }
+},
+{
+  "type": "node",
+  "id": 4171831959,
+  "lat": 49.9775683,
+  "lon": 15.7698029,
+  "tags": {
+    "amenity": "pub",
+    "microbrewery": "yes",
+    "name": "Pivovarská hospoda Medlešice",
+    "operator": "Pivovar Medlešice",
+    "outdoor_seating": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4575991940,
+  "lat": 50.0325081,
+  "lon": 15.7555869,
+  "tags": {
+    "alt_name": "Malý pivovar Pardubice",
+    "amenity": "pub",
+    "craft": "brewery",
+    "microbrewery": "yes",
+    "name": "Pivovar Bahno",
+    "website": "http://pivovar-bahno.cz/"
+  }
+},
+{
+  "type": "way",
+  "id": 83837583,
+  "nodes": [
+    976002694,
+    975983653,
+    975971998,
+    975990449,
+    975976577,
+    975998643,
+    975979573,
+    975968234,
+    975984779,
+    975973048,
+    975991810,
+    975977775,
+    976002694
+  ],
+  "tags": {
+    "addr:city": "Třemošnice",
+    "addr:conscriptionnumber": "88",
+    "addr:country": "CZ",
+    "addr:housenumber": "88",
+    "addr:place": "Žlebské Chvalovice",
+    "addr:postcode": "53843",
+    "building": "yes",
+    "craft": "brewery",
+    "email": "info@kutilkovapalirna.cz",
+    "name": "Kutílkova palírna a pivovar;pivovar Žlebské Chvalovice",
+    "ref:ruian:addr": "5420571",
+    "source": "cuzk:km",
+    "website": "http://kutilkovapalirna.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 975968234,
+  "lat": 49.8935600,
+  "lon": 15.5660630
+},
+{
+  "type": "node",
+  "id": 975971998,
+  "lat": 49.8936090,
+  "lon": 15.5659650
+},
+{
+  "type": "node",
+  "id": 975973048,
+  "lat": 49.8934960,
+  "lon": 15.5661930
+},
+{
+  "type": "node",
+  "id": 975976577,
+  "lat": 49.8935190,
+  "lon": 15.5660030
+},
+{
+  "type": "node",
+  "id": 975977775,
+  "lat": 49.8936150,
+  "lon": 15.5658860
+},
+{
+  "type": "node",
+  "id": 975979573,
+  "lat": 49.8935250,
+  "lon": 15.5660910
+},
+{
+  "type": "node",
+  "id": 975983653,
+  "lat": 49.8936200,
+  "lon": 15.5660040
+},
+{
+  "type": "node",
+  "id": 975984779,
+  "lat": 49.8935830,
+  "lon": 15.5661280
+},
+{
+  "type": "node",
+  "id": 975990449,
+  "lat": 49.8935260,
+  "lon": 15.5660290
+},
+{
+  "type": "node",
+  "id": 975991810,
+  "lat": 49.8934410,
+  "lon": 15.5660230
+},
+{
+  "type": "node",
+  "id": 975998643,
+  "lat": 49.8935030,
+  "lon": 15.5660150
+},
+{
+  "type": "node",
+  "id": 976002694,
+  "lat": 49.8936450,
+  "lon": 15.5659840
+}
+
+  ]
+}

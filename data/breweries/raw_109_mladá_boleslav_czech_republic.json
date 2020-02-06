@@ -1,0 +1,261 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T00:11:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 3841852393,
+  "lat": 50.6408062,
+  "lon": 15.1918304,
+  "tags": {
+    "amenity": "restaurant",
+    "microbrewery": "yes",
+    "name": "Restaurace Pod Pantheonem a Maloskalský Minipivovar"
+  }
+},
+{
+  "type": "node",
+  "id": 6273669266,
+  "lat": 50.3761473,
+  "lon": 15.2204377,
+  "tags": {
+    "craft": "brewery",
+    "microbrewery": "yes",
+    "name": "Čtyři lípy",
+    "opening_hours": "We-Th 11:00-17:00, Fr 11:00-18:00, Sa 09:00-12:00"
+  }
+},
+{
+  "type": "way",
+  "id": 85740068,
+  "nodes": [
+    995301820,
+    995294601,
+    995296962,
+    995298893,
+    995301820
+  ],
+  "tags": {
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Kaberna",
+    "source": "cuzk:km"
+  }
+},
+{
+  "type": "way",
+  "id": 274631107,
+  "nodes": [
+    2793166138,
+    2793166113,
+    2793166133,
+    2793166095,
+    2793166082,
+    2793166079,
+    2793166063,
+    2793166045,
+    2793166061,
+    2793166029,
+    2793166021,
+    2793165942,
+    2793166014,
+    2793166024,
+    2793166138
+  ],
+  "tags": {
+    "building": "industrial",
+    "craft": "brewery",
+    "name": "Zámecký pivovar Dětenice",
+    "source": "cuzk:km"
+  }
+},
+{
+  "type": "way",
+  "id": 438270274,
+  "nodes": [
+    4360038859,
+    4360038973,
+    7160409725,
+    7160409718,
+    7160409717,
+    7160409716,
+    7160409715,
+    7160409724,
+    4360038859
+  ],
+  "tags": {
+    "building": "house",
+    "building:flats": "1",
+    "building:levels": "2",
+    "building:ruian:type": "7",
+    "craft": "brewery",
+    "name": "Neumann",
+    "ref:ruian:building": "2069083",
+    "source": "cuzk:ruian",
+    "website": "http://www.pivovar-neumann.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 995294601,
+  "lat": 50.2620417,
+  "lon": 14.5349640
+},
+{
+  "type": "node",
+  "id": 995296962,
+  "lat": 50.2620273,
+  "lon": 14.5348393
+},
+{
+  "type": "node",
+  "id": 995298893,
+  "lat": 50.2620921,
+  "lon": 14.5348210
+},
+{
+  "type": "node",
+  "id": 995301820,
+  "lat": 50.2621065,
+  "lon": 14.5349456
+},
+{
+  "type": "node",
+  "id": 4360038859,
+  "lat": 50.3530511,
+  "lon": 14.6934249
+},
+{
+  "type": "node",
+  "id": 4360038973,
+  "lat": 50.3530098,
+  "lon": 14.6936293
+},
+{
+  "type": "node",
+  "id": 7160409715,
+  "lat": 50.3528378,
+  "lon": 14.6934121
+},
+{
+  "type": "node",
+  "id": 7160409716,
+  "lat": 50.3528687,
+  "lon": 14.6934274
+},
+{
+  "type": "node",
+  "id": 7160409717,
+  "lat": 50.3528547,
+  "lon": 14.6934968
+},
+{
+  "type": "node",
+  "id": 7160409718,
+  "lat": 50.3529140,
+  "lon": 14.6935262
+},
+{
+  "type": "node",
+  "id": 7160409724,
+  "lat": 50.3528548,
+  "lon": 14.6933276
+},
+{
+  "type": "node",
+  "id": 7160409725,
+  "lat": 50.3529038,
+  "lon": 14.6935768
+},
+{
+  "type": "node",
+  "id": 2793166014,
+  "lat": 50.3690102,
+  "lon": 15.1715182
+},
+{
+  "type": "node",
+  "id": 2793166024,
+  "lat": 50.3690472,
+  "lon": 15.1713707
+},
+{
+  "type": "node",
+  "id": 2793165942,
+  "lat": 50.3689190,
+  "lon": 15.1716930
+},
+{
+  "type": "node",
+  "id": 2793166021,
+  "lat": 50.3690260,
+  "lon": 15.1718290
+},
+{
+  "type": "node",
+  "id": 2793166029,
+  "lat": 50.3690640,
+  "lon": 15.1717580
+},
+{
+  "type": "node",
+  "id": 2793166045,
+  "lat": 50.3691240,
+  "lon": 15.1718790
+},
+{
+  "type": "node",
+  "id": 2793166061,
+  "lat": 50.3691390,
+  "lon": 15.1718450
+},
+{
+  "type": "node",
+  "id": 2793166063,
+  "lat": 50.3691480,
+  "lon": 15.1719060
+},
+{
+  "type": "node",
+  "id": 2793166079,
+  "lat": 50.3691640,
+  "lon": 15.1718730
+},
+{
+  "type": "node",
+  "id": 2793166082,
+  "lat": 50.3691680,
+  "lon": 15.1718700
+},
+{
+  "type": "node",
+  "id": 2793166095,
+  "lat": 50.3691930,
+  "lon": 15.1719000
+},
+{
+  "type": "node",
+  "id": 2793166113,
+  "lat": 50.3692460,
+  "lon": 15.1717130
+},
+{
+  "type": "node",
+  "id": 2793166133,
+  "lat": 50.3692690,
+  "lon": 15.1717400
+},
+{
+  "type": "node",
+  "id": 2793166138,
+  "lat": 50.3692760,
+  "lon": 15.1716440
+}
+
+  ]
+}

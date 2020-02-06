@@ -1,0 +1,207 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-05T21:51:03Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 401671459,
+  "lat": 50.8745117,
+  "lon": 0.0164813,
+  "tags": {
+    "addr:postcode": "BN7 2AH",
+    "brand": "Harvey's",
+    "craft": "brewery",
+    "name": "The Bridge Wharf Brewery",
+    "opening_hours": "Mo-Th 18:30-20:45; PH off; Aug off; Dec-May off",
+    "operator": "Harvey & Son",
+    "real_ale": "yes",
+    "website": "https://www.harveys.org.uk/"
+  }
+},
+{
+  "type": "node",
+  "id": 3992358755,
+  "lat": 50.9947501,
+  "lon": -0.6797006,
+  "tags": {
+    "addr:city": "Lodsworth",
+    "addr:housename": "The Granary",
+    "addr:postcode": "GU28 9BU",
+    "addr:street": "Langham Lane",
+    "craft": "brewery",
+    "fhrs:id": "942938",
+    "name": "Langham Brewery",
+    "opening_hours": "Mo-Fr 09:00-17:00, Sa 10:00-16:00",
+    "phone": "+44 1798 860861",
+    "website": "https://www.langhambrewery.co.uk/"
+  }
+},
+{
+  "type": "node",
+  "id": 5787674557,
+  "lat": 51.1289234,
+  "lon": -0.5439596,
+  "tags": {
+    "addr:housename": "Thatched House Farm",
+    "addr:postcode": "GU8 4BW",
+    "addr:street": "Dunsfold Road, Loxhill",
+    "craft": "brewery",
+    "email": "hello@craftybrewing.co.uk",
+    "name": "The Crafty Brewing Company",
+    "phone": "+44 1483 276 300"
+  }
+},
+{
+  "type": "way",
+  "id": 59276157,
+  "nodes": [
+    734999822,
+    734999824,
+    734999827,
+    734999828,
+    734999829,
+    734999830,
+    734999822
+  ],
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "microbrewery": "yes",
+    "name": "The Old School House",
+    "source": "surrey air survey"
+  }
+},
+{
+  "type": "way",
+  "id": 137012895,
+  "nodes": [
+    1503077812,
+    1503077816,
+    1503077819,
+    1503077818,
+    1503077812
+  ],
+  "tags": {
+    "addr:housenumber": "22",
+    "addr:postcode": "RH13 8RA",
+    "addr:street": "Star Road",
+    "building": "industrial",
+    "contact:email": "info@darkstarbrewing.co.uk",
+    "contact:phone": "+441403713085",
+    "craft": "brewery",
+    "fhrs:id": "438526",
+    "name": "Dark Star Brewery",
+    "operator": "The Dark Star Brewing Co. Ltd",
+    "source:geometry": "Bing",
+    "website": "https://www.darkstarbrewing.co.uk/"
+  }
+},
+{
+  "type": "way",
+  "id": 739914592,
+  "nodes": [
+    6928108471,
+    3923925997,
+    3923925998,
+    6928108472,
+    6928108471
+  ],
+  "tags": {
+    "building": "industrial",
+    "craft": "brewery",
+    "name": "Firebird Brewery",
+    "opening_hours": "Monday to Thursday: 8am – 5pm, Friday: 8am – 7pm, Saturday: 10am - 3pm"
+  }
+},
+{
+  "type": "node",
+  "id": 3923925997,
+  "lat": 51.0962365,
+  "lon": -0.4539596
+},
+{
+  "type": "node",
+  "id": 3923925998,
+  "lat": 51.0964774,
+  "lon": -0.4534387
+},
+{
+  "type": "node",
+  "id": 6928108471,
+  "lat": 51.0963789,
+  "lon": -0.4541266
+},
+{
+  "type": "node",
+  "id": 6928108472,
+  "lat": 51.0966198,
+  "lon": -0.4536057
+},
+{
+  "type": "node",
+  "id": 1503077812,
+  "lat": 50.9580093,
+  "lon": -0.3043459
+},
+{
+  "type": "node",
+  "id": 1503077816,
+  "lat": 50.9580641,
+  "lon": -0.3037207
+},
+{
+  "type": "node",
+  "id": 1503077818,
+  "lat": 50.9583021,
+  "lon": -0.3044106
+},
+{
+  "type": "node",
+  "id": 1503077819,
+  "lat": 50.9583570,
+  "lon": -0.3037855
+},
+{
+  "type": "node",
+  "id": 734999822,
+  "lat": 51.1430855,
+  "lon": -0.3656688
+},
+{
+  "type": "node",
+  "id": 734999824,
+  "lat": 51.1430031,
+  "lon": -0.3654784
+},
+{
+  "type": "node",
+  "id": 734999827,
+  "lat": 51.1431730,
+  "lon": -0.3653389
+},
+{
+  "type": "node",
+  "id": 734999828,
+  "lat": 51.1432185,
+  "lon": -0.3654676
+},
+{
+  "type": "node",
+  "id": 734999829,
+  "lat": 51.1431882,
+  "lon": -0.3654891
+},
+{
+  "type": "node",
+  "id": 734999830,
+  "lat": 51.1432168,
+  "lon": -0.3655562
+}
+
+  ]
+}

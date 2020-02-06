@@ -1,0 +1,704 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T00:05:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 296706844,
+  "lat": 48.9768671,
+  "lon": 14.4736420,
+  "tags": {
+    "addr:city": "České Budějovice",
+    "addr:conscriptionnumber": "235",
+    "addr:country": "CZ",
+    "addr:housenumber": "235/27",
+    "addr:postcode": "37001",
+    "addr:street": "Krajinská",
+    "addr:streetnumber": "27",
+    "amenity": "restaurant",
+    "is_in": "České Budějovice 1, České Budějovice, Jihočeský kraj, CZ",
+    "microbrewery": "yes",
+    "name": "Minipivovar Krajinská 27",
+    "ref:ruian": "23342234",
+    "source:addr": "ruian"
+  }
+},
+{
+  "type": "node",
+  "id": 942823973,
+  "lat": 49.0152300,
+  "lon": 14.6114892,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "microbrewery": "yes",
+    "name": "Restaurace Na obci",
+    "opening_hours": "Su-th 09:00-22:00,Fr-Sa 09:00-24:00",
+    "outdoor_seating": "yes",
+    "smoking": "separated",
+    "takeaway": "yes",
+    "website": "http://restaurace-obec.cz/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2693852746,
+  "lat": 49.0024275,
+  "lon": 14.7722331,
+  "tags": {
+    "addr:city": "Třeboň",
+    "addr:housenumber": "124",
+    "addr:postcode": "37901",
+    "addr:street": "Trocnovské nám.",
+    "craft": "brewery",
+    "name": "Pivovar Regent",
+    "operator": "Bohemia Regent, a.s.",
+    "website": "http://www.pivovar-regent.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 2693861233,
+  "lat": 48.8269712,
+  "lon": 14.3631826,
+  "tags": {
+    "addr:city": "Mirkovice",
+    "addr:housenumber": "1",
+    "addr:postcode": "38232",
+    "addr:street": "Svachova lhotka",
+    "craft": "brewery",
+    "microbrewery": "yes",
+    "name": "Glokner Hostinský pivovar",
+    "product": "beer",
+    "website": "http://www.villagegolfhotel.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 2694581227,
+  "lat": 48.9749659,
+  "lon": 14.4725161,
+  "tags": {
+    "addr:city": "České Budějovice",
+    "addr:housenumber": "7/55",
+    "addr:postcode": "37001",
+    "addr:street": "Česká",
+    "craft": "brewery",
+    "name": "Beeránek",
+    "website": "http://beeranek.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 2737126880,
+  "lat": 48.8126420,
+  "lon": 14.3200577,
+  "tags": {
+    "craft": "brewery",
+    "man_made": "works",
+    "name": "Pivovar Eggenberg",
+    "name:de": "Brauerei Eggenberg",
+    "name:en": "Brewery Eggenberg",
+    "name:ru": "Пивоваренный завод Эггенберг",
+    "phone": "+420 380 711 426",
+    "website": "http://www.eggenberg.cz/",
+    "wikidata": "Q1297476",
+    "wikipedia": "cs:Pivovar Eggenberg"
+  }
+},
+{
+  "type": "node",
+  "id": 3398164166,
+  "lat": 49.0483081,
+  "lon": 14.6717622,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "microbrewery": "yes",
+    "name": "Hospůdka Na Kopečku"
+  }
+},
+{
+  "type": "node",
+  "id": 4783981279,
+  "lat": 48.9766288,
+  "lon": 14.4754558,
+  "tags": {
+    "addr:city": "České Budějovice",
+    "addr:country": "CZ",
+    "addr:housenumber": "15",
+    "addr:postcode": "37001",
+    "addr:street": "U Černé věže",
+    "amenity": "restaurant",
+    "cuisine": "steak_house",
+    "email": "rezervace@nasefarma.cz",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "microbrewery": "yes",
+    "name": "Naše farma",
+    "operator": "ATS Invest s.r.o.",
+    "phone": "+420 605 228 803",
+    "smoking": "no",
+    "website": "http://www.nasefarma.cz/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 60574704,
+  "nodes": [
+    756825940,
+    7005172537,
+    7005172536,
+    756825601,
+    756825847,
+    756825878,
+    7061684587,
+    756825726,
+    3257330048,
+    756825570,
+    7061684586,
+    756826217,
+    756826249,
+    756825692,
+    7005172540,
+    756825713,
+    756825562,
+    756826245,
+    756826134,
+    756826132,
+    756826240,
+    756825940
+  ],
+  "tags": {
+    "addr:city": "Český Krumlov",
+    "addr:postcode": "381 01",
+    "addr:street": "Pivovarská",
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Pivovar Eggenberg",
+    "operator": "Pivovar Eggenberg",
+    "product": "beer",
+    "source": "cuzk:km",
+    "website": "http://www.eggenberg.cz/",
+    "wikidata": "Q1297476",
+    "wikipedia": "cs:Pivovar Eggenberg"
+  }
+},
+{
+  "type": "way",
+  "id": 70855243,
+  "nodes": [
+    844787237,
+    844791544,
+    844792768,
+    844794633,
+    844793414,
+    844788616,
+    844787346,
+    5133422437,
+    5133422436,
+    844792118,
+    844790767,
+    844794487,
+    844793269,
+    844795110,
+    844793842,
+    844789105,
+    844787774,
+    844789873,
+    844788535,
+    844792724,
+    844791606,
+    844793332,
+    844792183,
+    844787289,
+    844794556,
+    844787152,
+    844794384,
+    844789729,
+    844788379,
+    844790635,
+    844789005,
+    844793194,
+    844792036,
+    844793808,
+    5133422435,
+    5133422434,
+    844792691,
+    5133422433,
+    5133422432,
+    844787718,
+    844795042,
+    844788461,
+    844787237
+  ],
+  "tags": {
+    "addr:city": "České Budějovice",
+    "addr:housenumber": "51",
+    "addr:postcode": "37001",
+    "addr:street": "Lidická tř.",
+    "building": "industrial",
+    "building:flats": "2",
+    "building:ruian:type": "3",
+    "craft": "brewery",
+    "man_made": "works",
+    "name": "Pivovar Samson",
+    "ref:ruian:building": "23048131",
+    "source": "cuzk:ruian",
+    "website": "https://www.samson.cz/cs-CZ/samson.html"
+  }
+},
+{
+  "type": "way",
+  "id": 292617786,
+  "nodes": [
+    2961536304,
+    2961536314,
+    2961536305,
+    2961536306,
+    2961536320,
+    2961536312,
+    2961536310,
+    2961536304
+  ],
+  "tags": {
+    "building": "yes",
+    "craft": "brewery",
+    "microbrewery": "yes",
+    "name": "Minipivovar Žumberk",
+    "phone": "+420 774 232 886",
+    "website": "http://pivozumberk.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 756825601,
+  "lat": 48.8134199,
+  "lon": 14.3195015
+},
+{
+  "type": "node",
+  "id": 756825726,
+  "lat": 48.8134346,
+  "lon": 14.3195698
+},
+{
+  "type": "node",
+  "id": 756825847,
+  "lat": 48.8134047,
+  "lon": 14.3195228
+},
+{
+  "type": "node",
+  "id": 756825878,
+  "lat": 48.8134176,
+  "lon": 14.3195424
+},
+{
+  "type": "node",
+  "id": 756825940,
+  "lat": 48.8135078,
+  "lon": 14.3193654
+},
+{
+  "type": "node",
+  "id": 756826132,
+  "lat": 48.8133546,
+  "lon": 14.3191257
+},
+{
+  "type": "node",
+  "id": 756826217,
+  "lat": 48.8133656,
+  "lon": 14.3196141
+},
+{
+  "type": "node",
+  "id": 756826240,
+  "lat": 48.8134791,
+  "lon": 14.3193204
+},
+{
+  "type": "node",
+  "id": 756826249,
+  "lat": 48.8133485,
+  "lon": 14.3195896
+},
+{
+  "type": "node",
+  "id": 3257330048,
+  "lat": 48.8134098,
+  "lon": 14.3196124
+},
+{
+  "type": "node",
+  "id": 7005172536,
+  "lat": 48.8134447,
+  "lon": 14.3194639
+},
+{
+  "type": "node",
+  "id": 7005172537,
+  "lat": 48.8134631,
+  "lon": 14.3194336
+},
+{
+  "type": "node",
+  "id": 7061684587,
+  "lat": 48.8134268,
+  "lon": 14.3195572
+},
+{
+  "type": "node",
+  "id": 756825562,
+  "lat": 48.8132222,
+  "lon": 14.3196905
+},
+{
+  "type": "node",
+  "id": 756825570,
+  "lat": 48.8133876,
+  "lon": 14.3196479
+},
+{
+  "type": "node",
+  "id": 756825692,
+  "lat": 48.8133283,
+  "lon": 14.3196193
+},
+{
+  "type": "node",
+  "id": 756825713,
+  "lat": 48.8132494,
+  "lon": 14.3197331
+},
+{
+  "type": "node",
+  "id": 756826134,
+  "lat": 48.8129696,
+  "lon": 14.3196934
+},
+{
+  "type": "node",
+  "id": 756826245,
+  "lat": 48.8130912,
+  "lon": 14.3198836
+},
+{
+  "type": "node",
+  "id": 7005172540,
+  "lat": 48.8132845,
+  "lon": 14.3196849
+},
+{
+  "type": "node",
+  "id": 7061684586,
+  "lat": 48.8133774,
+  "lon": 14.3196323
+},
+{
+  "type": "node",
+  "id": 844787152,
+  "lat": 48.9630375,
+  "lon": 14.4743225
+},
+{
+  "type": "node",
+  "id": 844787237,
+  "lat": 48.9633804,
+  "lon": 14.4740669
+},
+{
+  "type": "node",
+  "id": 844787289,
+  "lat": 48.9630061,
+  "lon": 14.4744977
+},
+{
+  "type": "node",
+  "id": 844787346,
+  "lat": 48.9638165,
+  "lon": 14.4748366
+},
+{
+  "type": "node",
+  "id": 844787718,
+  "lat": 48.9624976,
+  "lon": 14.4743794
+},
+{
+  "type": "node",
+  "id": 844787774,
+  "lat": 48.9633208,
+  "lon": 14.4744971
+},
+{
+  "type": "node",
+  "id": 844788379,
+  "lat": 48.9629551,
+  "lon": 14.4741987
+},
+{
+  "type": "node",
+  "id": 844788461,
+  "lat": 48.9633677,
+  "lon": 14.4741102
+},
+{
+  "type": "node",
+  "id": 844788535,
+  "lat": 48.9632649,
+  "lon": 14.4744022
+},
+{
+  "type": "node",
+  "id": 844788616,
+  "lat": 48.9638443,
+  "lon": 14.4747377
+},
+{
+  "type": "node",
+  "id": 844789005,
+  "lat": 48.9628927,
+  "lon": 14.4743322
+},
+{
+  "type": "node",
+  "id": 844789105,
+  "lat": 48.9633261,
+  "lon": 14.4745157
+},
+{
+  "type": "node",
+  "id": 844789729,
+  "lat": 48.9630725,
+  "lon": 14.4742688
+},
+{
+  "type": "node",
+  "id": 844789873,
+  "lat": 48.9633348,
+  "lon": 14.4744477
+},
+{
+  "type": "node",
+  "id": 844790635,
+  "lat": 48.9629131,
+  "lon": 14.4743456
+},
+{
+  "type": "node",
+  "id": 844790767,
+  "lat": 48.9634891,
+  "lon": 14.4746085
+},
+{
+  "type": "node",
+  "id": 844791544,
+  "lat": 48.9641070,
+  "lon": 14.4745383
+},
+{
+  "type": "node",
+  "id": 844791606,
+  "lat": 48.9632779,
+  "lon": 14.4744958
+},
+{
+  "type": "node",
+  "id": 844792036,
+  "lat": 48.9628085,
+  "lon": 14.4745724
+},
+{
+  "type": "node",
+  "id": 844792118,
+  "lat": 48.9634875,
+  "lon": 14.4746145
+},
+{
+  "type": "node",
+  "id": 844792183,
+  "lat": 48.9629875,
+  "lon": 14.4745614
+},
+{
+  "type": "node",
+  "id": 844792691,
+  "lat": 48.9627985,
+  "lon": 14.4745743
+},
+{
+  "type": "node",
+  "id": 844792724,
+  "lat": 48.9632466,
+  "lon": 14.4744713
+},
+{
+  "type": "node",
+  "id": 844792768,
+  "lat": 48.9639894,
+  "lon": 14.4749507
+},
+{
+  "type": "node",
+  "id": 844793194,
+  "lat": 48.9628263,
+  "lon": 14.4745650
+},
+{
+  "type": "node",
+  "id": 844793269,
+  "lat": 48.9634477,
+  "lon": 14.4744740
+},
+{
+  "type": "node",
+  "id": 844793332,
+  "lat": 48.9632169,
+  "lon": 14.4747107
+},
+{
+  "type": "node",
+  "id": 844793414,
+  "lat": 48.9639612,
+  "lon": 14.4748081
+},
+{
+  "type": "node",
+  "id": 844793808,
+  "lat": 48.9628017,
+  "lon": 14.4745685
+},
+{
+  "type": "node",
+  "id": 844793842,
+  "lat": 48.9633915,
+  "lon": 14.4745566
+},
+{
+  "type": "node",
+  "id": 844794384,
+  "lat": 48.9630525,
+  "lon": 14.4743322
+},
+{
+  "type": "node",
+  "id": 844794487,
+  "lat": 48.9634224,
+  "lon": 14.4745632
+},
+{
+  "type": "node",
+  "id": 844794556,
+  "lat": 48.9629913,
+  "lon": 14.4744871
+},
+{
+  "type": "node",
+  "id": 844794633,
+  "lat": 48.9639317,
+  "lon": 14.4749134
+},
+{
+  "type": "node",
+  "id": 844795042,
+  "lat": 48.9626939,
+  "lon": 14.4736709
+},
+{
+  "type": "node",
+  "id": 844795110,
+  "lat": 48.9634204,
+  "lon": 14.4744564
+},
+{
+  "type": "node",
+  "id": 5133422432,
+  "lat": 48.9627950,
+  "lon": 14.4745744
+},
+{
+  "type": "node",
+  "id": 5133422433,
+  "lat": 48.9627968,
+  "lon": 14.4745748
+},
+{
+  "type": "node",
+  "id": 5133422434,
+  "lat": 48.9628000,
+  "lon": 14.4745730
+},
+{
+  "type": "node",
+  "id": 5133422435,
+  "lat": 48.9628011,
+  "lon": 14.4745710
+},
+{
+  "type": "node",
+  "id": 5133422436,
+  "lat": 48.9637403,
+  "lon": 14.4747800
+},
+{
+  "type": "node",
+  "id": 5133422437,
+  "lat": 48.9637387,
+  "lon": 14.4747856
+},
+{
+  "type": "node",
+  "id": 2961536304,
+  "lat": 48.7963623,
+  "lon": 14.6821020
+},
+{
+  "type": "node",
+  "id": 2961536305,
+  "lat": 48.7963406,
+  "lon": 14.6817503
+},
+{
+  "type": "node",
+  "id": 2961536306,
+  "lat": 48.7963609,
+  "lon": 14.6816557
+},
+{
+  "type": "node",
+  "id": 2961536310,
+  "lat": 48.7964086,
+  "lon": 14.6821532
+},
+{
+  "type": "node",
+  "id": 2961536312,
+  "lat": 48.7964504,
+  "lon": 14.6820681
+},
+{
+  "type": "node",
+  "id": 2961536314,
+  "lat": 48.7964839,
+  "lon": 14.6818467
+},
+{
+  "type": "node",
+  "id": 2961536320,
+  "lat": 48.7965777,
+  "lon": 14.6818033
+}
+
+  ]
+}

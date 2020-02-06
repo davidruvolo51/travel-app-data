@@ -1,0 +1,1515 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-05T21:34:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 543314084,
+  "lat": 51.6480870,
+  "lon": 0.6031380,
+  "tags": {
+    "craft": "brewery",
+    "name": "Crouch Vale Brewery"
+  }
+},
+{
+  "type": "node",
+  "id": 1444909729,
+  "lat": 51.5440844,
+  "lon": -0.0088906,
+  "tags": {
+    "addr:city": "London",
+    "addr:housenumber": "7",
+    "addr:postcode": "E20 1EE",
+    "addr:street": "International Square",
+    "amenity": "pub",
+    "contact:email": "info@tapeast.co.uk",
+    "contact:facebook": "https://www.facebook.com/tapeast/",
+    "contact:phone": "+44 20 8555 4467",
+    "contact:website": "http://www.tapeast.co.uk/",
+    "cuisine": "burger",
+    "email": "info@tapeast.co.uk",
+    "fhrs:id": "640516",
+    "fhrs:local_authority_id": "11/00600/FOOD",
+    "level": "-1",
+    "microbrewery": "yes",
+    "name": "Tap East",
+    "opening_hours": "Mo-Sa 11:00-23:00; Su 12:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+44 20 85554467",
+    "real_ale": "yes",
+    "source:addr": "FHRS Open Data",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1502896182,
+  "lat": 51.7249120,
+  "lon": 0.1873732,
+  "tags": {
+    "craft": "brewery",
+    "name": "Pitfield Brewery"
+  }
+},
+{
+  "type": "node",
+  "id": 1502898997,
+  "lat": 51.6278785,
+  "lon": 0.2852294,
+  "tags": {
+    "addr:city": "Pilgrims Hatch",
+    "addr:housename": "Calcott Hall Farm",
+    "addr:postcode": "CM15 9HS",
+    "addr:street": "Ongar Road",
+    "craft": "brewery",
+    "name": "Brentwood Brewing Company",
+    "website": "https://www.brentwoodbrewing.co.uk/"
+  }
+},
+{
+  "type": "node",
+  "id": 1509609059,
+  "lat": 51.4894429,
+  "lon": 0.0082852,
+  "tags": {
+    "addr:housenumber": "Units 4-5, Lawrence Trading Estate",
+    "addr:postcode": "SE10 0AR",
+    "addr:street": "Blackwall Lane",
+    "craft": "brewery",
+    "name": "Meantime Brewery Company",
+    "note": "Approximate location!",
+    "operator": "Meantime Brewery Company Ltd.",
+    "real_ale": "yes",
+    "website": "https://www.meantimebrewing.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 1575979914,
+  "lat": 51.5749340,
+  "lon": -0.0111301,
+  "tags": {
+    "addr:housename": "816A",
+    "addr:postcode": "E10 6AE",
+    "addr:street": "High Road Leyton",
+    "brand": "Brodie's Beers",
+    "craft": "brewery",
+    "name": "Brodie's Brewery",
+    "note": "Location confirmed by structure but no visible signage",
+    "real_ale": "yes",
+    "website": "http://brodiesbeers.co.uk/"
+  }
+},
+{
+  "type": "node",
+  "id": 2058478123,
+  "lat": 51.4957165,
+  "lon": -0.0685372,
+  "tags": {
+    "addr:housenumber": "Arch 11",
+    "addr:postcode": "SE16 3SF",
+    "addr:street": "Dockley Road Industrial Estate",
+    "craft": "brewery",
+    "name": "The Kernel Brewery",
+    "opening_hours": "Sa 09:00-14:00",
+    "website": "http://www.thekernelbrewery.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 2296112253,
+  "lat": 51.5430003,
+  "lon": -0.0220480,
+  "tags": {
+    "addr:city": "London",
+    "addr:housename": "Queens Yard",
+    "addr:housenumber": "43",
+    "addr:postcode": "E9 5EN",
+    "addr:street": "White Post Lane",
+    "addr:unit": "Unit 7",
+    "amenity": "pub",
+    "contact:website": "http://cratebrewery.com",
+    "craft": "brewery",
+    "cuisine": "pizza",
+    "email": "bar@cratebrewery.com",
+    "fhrs:id": "1059364",
+    "food": "yes",
+    "name": "Crate Brewery & Pizza",
+    "opening_hours": "Mo-Th, Su 12:00-23:00; Fr, Sa 12:00-00:00",
+    "phone": "+44 7834 275687",
+    "real_ale": "6",
+    "website": "https://cratebrewery.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 2615134883,
+  "lat": 51.5387144,
+  "lon": -0.0580483,
+  "tags": {
+    "addr:housenumber": "365-366",
+    "addr:postcode": "E8 3RR",
+    "addr:street": "Warburton Street",
+    "alt_name": "London Fields Brewery Tap Room",
+    "amenity": "pub",
+    "microbrewery": "yes",
+    "name": "Tap Room",
+    "note": "pub cafe brewery according to board outside",
+    "operator": "London Fields Brewery",
+    "website": "http://londonfieldsbrewery.co.uk/tap-room/"
+  }
+},
+{
+  "type": "node",
+  "id": 2801520394,
+  "lat": 51.4986198,
+  "lon": -0.0734285,
+  "tags": {
+    "addr:city": "London",
+    "addr:housenumber": "118",
+    "addr:postcode": "SE1 2HH",
+    "addr:street": "Druid Street",
+    "alt_name": "Anspach and Hobday",
+    "craft": "brewery",
+    "name": "Anspach & Hobday",
+    "opening_hours": "Fr 17:00-21:30; Sa 10:30-17:30; Su 12:30-17:00",
+    "phone": "+44 208 617 9510",
+    "website": "https://www.anspachandhobday.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 2801522777,
+  "lat": 51.4973294,
+  "lon": -0.0718949,
+  "tags": {
+    "addr:city": "London",
+    "addr:housenumber": "79",
+    "addr:postcode": "SE16 3RA",
+    "addr:street": "Enid Street",
+    "alt_name": "BBNo",
+    "craft": "brewery",
+    "name": "Brew By Numbers",
+    "opening_hours": "Fr 18:00-22:00; Sa 11:00-20:00",
+    "phone": "+44 20 7237 9794",
+    "website": "http://www.brewbynumbers.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 2968644658,
+  "lat": 51.5386947,
+  "lon": -0.0583506,
+  "tags": {
+    "addr:housenumber": "365-366",
+    "addr:postcode": "E8 3RR",
+    "addr:street": "Warburton Street",
+    "craft": "brewery",
+    "website": "http://londonfieldsbrewery.co.uk"
+  }
+},
+{
+  "type": "node",
+  "id": 2968644663,
+  "lat": 51.5391568,
+  "lon": -0.0583131,
+  "tags": {
+    "addr:housenumber": "369-370",
+    "addr:postcode": "E8 3SB",
+    "addr:street": "Railway Arches",
+    "alt_name": "The Brewhouse at London Fields Brewery",
+    "brewery": "yes",
+    "craft": "brewery",
+    "name": "London Fields Brewhouse",
+    "website": "londonfieldsbrewery.co.uk"
+  }
+},
+{
+  "type": "node",
+  "id": 3042136718,
+  "lat": 51.4283925,
+  "lon": -0.0895164,
+  "tags": {
+    "addr:city": "London Borough of Lambeth",
+    "addr:housenumber": "Unit 11",
+    "addr:postcode": "SE27 9SF",
+    "addr:street": "Hamilton Road Industrial Estate",
+    "craft": "brewery",
+    "name": "Gipsy Hill Brewing Company",
+    "phone": "+44 20 8761 9061",
+    "website": "http://www.gipsyhillbrewing.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 3042136897,
+  "lat": 51.4283222,
+  "lon": -0.0887278,
+  "tags": {
+    "addr:city": "London Borough of Lambeth",
+    "addr:housenumber": "Unit 4",
+    "addr:postcode": "SE27 9SF",
+    "addr:street": "Hamilton Road Industrial Estate",
+    "craft": "brewery",
+    "name": "The London Beer Factory Ltd.",
+    "phone": "+44 208 670 7054",
+    "website": "http://www.thelondonbeerfactory.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 3493582134,
+  "lat": 51.4851591,
+  "lon": -0.0959280,
+  "tags": {
+    "amenity": "pub",
+    "microbrewery": "yes",
+    "name": "Orbit Beers Brewery Tap Room",
+    "outdoor_seating": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3597248004,
+  "lat": 51.4520534,
+  "lon": -0.1010370,
+  "tags": {
+    "addr:city": "Herne Hill",
+    "addr:housename": "Arch 1127, Bath Factory Estate",
+    "addr:housenumber": "41",
+    "addr:postcode": "SE24 9AJ",
+    "addr:street": "Norwood Road",
+    "craft": "brewery",
+    "name": "Canopy Beer Co"
+  }
+},
+{
+  "type": "node",
+  "id": 3760634259,
+  "lat": 51.3458544,
+  "lon": 0.7306863,
+  "tags": {
+    "addr:city": "Sittingbourne",
+    "addr:housenumber": "2",
+    "addr:postcode": "ME10 2JN",
+    "addr:street": "Charlotte Street",
+    "amenity": "pub",
+    "fhrs:authority": "Swale",
+    "fhrs:id": "713710",
+    "fhrs:inspectiondate": "2013-10-22",
+    "fhrs:rating": "5",
+    "microbrewery": "yes",
+    "name": "The Paper Mill"
+  }
+},
+{
+  "type": "node",
+  "id": 4253153751,
+  "lat": 51.4890938,
+  "lon": -0.0538140,
+  "tags": {
+    "craft": "brewery",
+    "name": "Fourpure Brewing Co.",
+    "website": "https://www.fourpure.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4470034364,
+  "lat": 51.5005941,
+  "lon": -0.0771444,
+  "tags": {
+    "addr:city": "London",
+    "addr:housenumber": "46",
+    "addr:postcode": "SE1 2EZ",
+    "addr:street": "Druid Street",
+    "amenity": "pub",
+    "craft": "brewery",
+    "craft_beer": "yes",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Southwark Brewing",
+    "opening_hours": "Tu 19:00-22:00; Th 19:00-22:00; Fr 17:00-22:00; Sa 11:00-18:00; Su 11:00-16:00",
+    "website": "http://southwarkbrewing.co.uk/"
+  }
+},
+{
+  "type": "node",
+  "id": 4813283891,
+  "lat": 51.4987870,
+  "lon": -0.0745798,
+  "tags": {
+    "addr:city": "London",
+    "addr:housenumber": "55",
+    "addr:postcode": "SE1 3NY",
+    "addr:street": "Stanworth Street",
+    "craft": "brewery",
+    "email": "info@hiverbeers.com",
+    "name": "Hiver Beers",
+    "phone": "+44 7740251649",
+    "website": "http://www.hiverbeers.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4825619927,
+  "lat": 51.3628401,
+  "lon": 0.6109456,
+  "tags": {
+    "addr:city": "Rainham",
+    "addr:country": "GB",
+    "addr:housenumber": "121",
+    "addr:postcode": "ME8 8AN",
+    "addr:state": "Kent",
+    "addr:street": "High Street",
+    "amenity": "pub",
+    "email": "info@princeofales.co.uk",
+    "fhrs:authority": "Medway",
+    "fhrs:id": "955231",
+    "fhrs:inspectiondate": "2016-03-16",
+    "fhrs:rating": "5",
+    "level": "0",
+    "microbrewery": "yes",
+    "name": "The Prince of Ales",
+    "opening_hours": "Tu-Th 17:30-21:30; Fr,Sa 12:00-22:00; Su 12:00-15:00",
+    "phone": "+44 7982 756412",
+    "website": "www.princeofales.co.uk"
+  }
+},
+{
+  "type": "node",
+  "id": 4922741804,
+  "lat": 51.4636941,
+  "lon": -0.1096460,
+  "tags": {
+    "craft": "brewery",
+    "currency:XLT": "BXTP",
+    "name": "Brixton Brewery",
+    "payment:cash:XLT-BXTP": "yes",
+    "payment:text:XLT-BXTP": "yes",
+    "website": "https://www.brixtonbrewery.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 5018609833,
+  "lat": 51.4656402,
+  "lon": -0.1035610,
+  "tags": {
+    "addr:city": "London",
+    "addr:housename": "Arch",
+    "addr:housenumber": "497",
+    "addr:postcode": "SW9 7EX",
+    "addr:street": "Ridgway Road",
+    "craft": "brewery",
+    "description": "As a small independent microbrewery.",
+    "email": "clark@clarkshaws.co.uk",
+    "name": "Clarkshaws Brewery",
+    "opening_hours": "Th-Su 12:00-20:00",
+    "operator": "Ian Clark",
+    "phone": "+44 7989402687",
+    "website": "https://www.clarkshaws.co.uk/"
+  }
+},
+{
+  "type": "node",
+  "id": 5151649761,
+  "lat": 51.4912565,
+  "lon": -0.0574717,
+  "tags": {
+    "addr:city": "London",
+    "addr:housenumber": "34",
+    "addr:street": "Raymouth Road",
+    "craft": "brewery",
+    "name": "Partizan Brewery",
+    "opening_hours": "Sa 11:00-17:00",
+    "website": "http://www.partizanbrewing.co.uk/"
+  }
+},
+{
+  "type": "node",
+  "id": 5450639528,
+  "lat": 51.5378175,
+  "lon": -0.1445227,
+  "tags": {
+    "craft": "brewery",
+    "name": "Earl of Camden",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5750354883,
+  "lat": 51.5473742,
+  "lon": -0.0519069,
+  "tags": {
+    "addr:housenumber": "Arch 185",
+    "addr:street": "Bohemia Place",
+    "amenity": "bar",
+    "craft": "brewery",
+    "name": "Deviant & Dandy Brewery",
+    "note": "Limited opening hours as a bar, during weekend only"
+  }
+},
+{
+  "type": "node",
+  "id": 6426201568,
+  "lat": 51.4493603,
+  "lon": 0.2930299,
+  "tags": {
+    "addr:city": "Greenhithe",
+    "addr:housenumber": "50",
+    "addr:postcode": "DA9 9JE",
+    "addr:street": "Wakefield Road",
+    "craft": "brewery",
+    "name": "No Frills Joe",
+    "website": "http://nofrillsjoe.co.uk/"
+  }
+},
+{
+  "type": "node",
+  "id": 6849378456,
+  "lat": 51.5258707,
+  "lon": -0.0561700,
+  "tags": {
+    "addr:city": "London",
+    "addr:housenumber": "Unit 1",
+    "addr:postcode": "E2 6JY",
+    "addr:street": "Birkbeck Street",
+    "craft": "brewery",
+    "name": "Boxcar Taproom & Brewery",
+    "opening_hours": "Th, Fr 17:00-23:30; Sa 12:00-23:30",
+    "website": "https://www.boxcarbrewery.co.uk/"
+  }
+},
+{
+  "type": "node",
+  "id": 7040675187,
+  "lat": 51.5693089,
+  "lon": -0.0379212,
+  "tags": {
+    "addr:postcode": "E10 7QZ",
+    "addr:street": "Staffa Road",
+    "addr:unit": "3",
+    "amenity": "bar",
+    "craft": "brewery",
+    "name": "Neckstamper Tap Room",
+    "phone": "+4402070181760",
+    "website": "http://www.neckstamper.com"
+  }
+},
+{
+  "type": "node",
+  "id": 7057846976,
+  "lat": 51.5933550,
+  "lon": -0.0414885,
+  "tags": {
+    "craft": "brewery",
+    "name": "Exhale Brewing"
+  }
+},
+{
+  "type": "node",
+  "id": 7125946898,
+  "lat": 51.5269805,
+  "lon": -0.0563595,
+  "tags": {
+    "addr:city": "London",
+    "addr:housenumber": "Arch 11",
+    "addr:postcode": "E2 0EJ",
+    "addr:street": "Gales Garden Mews",
+    "amenity": "bar",
+    "craft": "brewery",
+    "fhrs:id": "1037487",
+    "name": "Old Street Brewery  & Taproom",
+    "opening_hours": "Tu-Th 16:00-23:00; Fr 16:00-23:30; Sa 12:00-23:30; Su 14:00-23:00"
+  }
+},
+{
+  "type": "node",
+  "id": 7160385193,
+  "lat": 51.3295390,
+  "lon": 0.4043859,
+  "tags": {
+    "craft": "brewery",
+    "email": "info@kentbrewery.com",
+    "name": "Kent Brewey",
+    "phone": "+44 1634 780037",
+    "website": "http://www.kentbrewery.com"
+  }
+},
+{
+  "type": "node",
+  "id": 7160459567,
+  "lat": 51.2087560,
+  "lon": 0.3949681,
+  "tags": {
+    "addr:city": "East Peckham",
+    "addr:country": "GB",
+    "addr:place": "Banbridges Industial Estate",
+    "addr:postcode": "TN12 5HF",
+    "addr:state": "Kent",
+    "addr:unit": "19",
+    "craft": "brewery",
+    "email": "mail@tonbridgebrewery.co.uk",
+    "name": "Tonbridge Brewery",
+    "phone": "+44 1622 871239",
+    "website": "http://www.tonbridgebrewery.co.uk/"
+  }
+},
+{
+  "type": "way",
+  "id": 27892971,
+  "nodes": [
+    5335432504,
+    306250582,
+    306250583,
+    5335432505,
+    5335432504
+  ],
+  "tags": {
+    "addr:city": "Gravesend",
+    "addr:country": "GB",
+    "addr:housename": "May Avenue Industrial Estate",
+    "addr:postcode": "DA11 8RU",
+    "addr:state": "Kent",
+    "addr:street": "May Avenue",
+    "addr:subdistrict": "Northfleet",
+    "addr:unit": "Units 6 & 7",
+    "building": "industrial",
+    "craft": "brewery",
+    "name": "Iron Pier Brewery",
+    "phone": "+44 1474 569460",
+    "website": "https://www.ironpier.beer"
+  }
+},
+{
+  "type": "way",
+  "id": 141054472,
+  "nodes": [
+    1544075712,
+    1544075714,
+    1544075686,
+    1544075682,
+    1544075712
+  ],
+  "tags": {
+    "addr:city": "Crockham Hill, Edenbridge",
+    "addr:postcode": "TN8 6SA",
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Westerham Brewery, Grange Farm",
+    "phone": "+44 1732864427",
+    "real_ale": "yes",
+    "source": "survey;Bing",
+    "website": "https://www.westerhambrewery.co.uk/"
+  }
+},
+{
+  "type": "way",
+  "id": 142390004,
+  "nodes": [
+    28792603,
+    1558278283,
+    1558278286,
+    1558278290,
+    1558278288,
+    3965949079,
+    1558278296,
+    28792603
+  ],
+  "tags": {
+    "addr:city": "London",
+    "addr:housename": "White Hart Public House",
+    "addr:housenumber": "1",
+    "addr:postcode": "E1 4TP",
+    "addr:street": "Mile End Road",
+    "amenity": "pub",
+    "building": "yes",
+    "fhrs:id": "150231",
+    "food": "yes",
+    "microbrewery": "yes",
+    "name": "The White Hart",
+    "real_ale": "yes",
+    "source": "Bing;survey",
+    "source:addr": "FHRS Open Data",
+    "toilets": "yes",
+    "toilets:access": "customers",
+    "website": "https://www.the-white-hart.co.uk/"
+  }
+},
+{
+  "type": "way",
+  "id": 175072406,
+  "nodes": [
+    1857173664,
+    1857173663,
+    1857176810,
+    1857172551,
+    1857173664
+  ],
+  "tags": {
+    "addr:city": "Chatham",
+    "addr:country": "GB",
+    "addr:housename": "Building 64",
+    "addr:place": "The Historic Dockyard",
+    "addr:postcode": "ME4 4TE",
+    "addr:state": "Kent",
+    "addr:unit": "2",
+    "building": "yes",
+    "craft": "brewery",
+    "email": "sales@nelsonbrewery.co.uk",
+    "name": "Nelson Brewery",
+    "phone": "+44 1634 832828",
+    "website": "http://www.nelsonbrewery.co.uk/"
+  }
+},
+{
+  "type": "way",
+  "id": 205600627,
+  "nodes": [
+    2155738693,
+    2155738691,
+    2155738671,
+    2155738674,
+    2155738693
+  ],
+  "tags": {
+    "addr:housenumber": "31",
+    "building": "brewery",
+    "craft": "brewery",
+    "name": "Brockley Brewing Company Ltd"
+  }
+},
+{
+  "type": "way",
+  "id": 258702212,
+  "nodes": [
+    2640272492,
+    2640272506,
+    2640272507,
+    2640272522,
+    2640272523,
+    88827850,
+    2640272492
+  ],
+  "tags": {
+    "addr:city": "London",
+    "addr:housename": "Lawrence Trading Estate",
+    "addr:postcode": "SE10 0AR",
+    "addr:street": "Blackwall Lane",
+    "building": "warehouse",
+    "craft": "brewery",
+    "name": "Meantime Brewery and Visitor Centre",
+    "opening_hours": "Mo-We 12:00-22:30; Th-Fr 12:00-23:00; Sa 11:00-23:00; Su 12:00-18:00",
+    "operator": "Meantime Brewing Company",
+    "phone": "+44 20 8293 1111",
+    "source": "https://www.meantimebrewing.com/contact/",
+    "tourism": "attraction",
+    "website": "https://www.meantimebrewing.com/contact/"
+  }
+},
+{
+  "type": "way",
+  "id": 275292695,
+  "nodes": [
+    2799310954,
+    2799310959,
+    2799310960,
+    2799310961,
+    2799310956,
+    2799310955,
+    2799310954
+  ],
+  "tags": {
+    "addr:city": "London",
+    "addr:housenumber": "28",
+    "addr:postcode": "WC1H 8JF",
+    "addr:street": "Harrison Street",
+    "amenity": "pub",
+    "building": "yes",
+    "cuisine": "gastropub",
+    "food": "yes",
+    "microbrewery": "yes",
+    "name": "The Harrison",
+    "outdoor_seating": "yes",
+    "website": "http://harrisonbar.co.uk/"
+  }
+},
+{
+  "type": "way",
+  "id": 288810940,
+  "nodes": [
+    2923651893,
+    2923651892,
+    2923651894,
+    1661023121,
+    1661023107,
+    2923651893
+  ],
+  "tags": {
+    "addr:housenumber": "17-18",
+    "amenity": "pub",
+    "brewery": "Beavertown",
+    "building": "yes",
+    "craft": "brewery",
+    "man_made": "works",
+    "name": "Beavertown Brewery Tap Room",
+    "opening_hours": "Sa 14:00-20:00",
+    "operator": "Beavertown",
+    "website": "https://www.beavertownbrewery.co.uk/"
+  }
+},
+{
+  "type": "way",
+  "id": 315311235,
+  "nodes": [
+    3214217095,
+    3214217094,
+    3214217097,
+    3214217098,
+    3214217095
+  ],
+  "tags": {
+    "addr:housenumber": "2-3",
+    "addr:postcode": "E3 2NT",
+    "addr:street": "Stour Road",
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Truman's Brewery"
+  }
+},
+{
+  "type": "way",
+  "id": 342351899,
+  "nodes": [
+    3493582137,
+    3493582138,
+    3493582136,
+    3493582135,
+    3493582137
+  ],
+  "tags": {
+    "craft": "brewery",
+    "name": "Orbit Beers Brewery"
+  }
+},
+{
+  "type": "way",
+  "id": 379995333,
+  "nodes": [
+    3833442423,
+    3833442427,
+    3833442426,
+    3833442428,
+    3833442429,
+    3833442425,
+    3833442423
+  ],
+  "tags": {
+    "addr:country": "GB",
+    "addr:housenumber": "Unit 15",
+    "addr:street": "Blackhorse Lane",
+    "addr:suburb": "Walthamstow",
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Signature Brew",
+    "website": "https://www.signaturebrew.co.uk/"
+  }
+},
+{
+  "type": "way",
+  "id": 429848449,
+  "nodes": [
+    1759519685,
+    2894915819,
+    4290475110,
+    4290475111,
+    4290475112,
+    5261807144,
+    2894915827,
+    1759519680,
+    4290475152,
+    4290475151,
+    5261807147,
+    4290475121,
+    5261807146,
+    1759519683,
+    1759519685
+  ],
+  "tags": {
+    "addr:city": "Kentish Town London",
+    "addr:housenumber": "55-58",
+    "addr:postcode": "NW5 3NN",
+    "addr:street": "Wilkin Street Mews",
+    "building": "yes",
+    "building:levels": "1",
+    "craft": "brewery",
+    "name": "Camden Town Brewery",
+    "real_ale": "yes",
+    "source": "website",
+    "website": "http://www.camdentownbrewery.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 478028238,
+  "nodes": [
+    4712947334,
+    4712947335,
+    4712947336,
+    4712947337,
+    4712947334
+  ],
+  "tags": {
+    "addr:city": "London",
+    "addr:housenumber": "86",
+    "addr:postcode": "SW8 4UG",
+    "addr:street": "Stewarts Road",
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Mondo Brewing Company",
+    "phone": "+44 20 7720 0782",
+    "website": "http://www.mondobrewingcompany.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 558371976,
+  "nodes": [
+    5384536622,
+    5384536623,
+    345769766,
+    345769758,
+    5384536622
+  ],
+  "tags": {
+    "addr:street": "Roman Way Industrial Estate, Roman Way",
+    "addr:unit": "8-9",
+    "amenity": "bar",
+    "craft": "brewery",
+    "name": "Hammerton Brewery"
+  }
+},
+{
+  "type": "way",
+  "id": 669394507,
+  "nodes": [
+    6268423454,
+    6268423458,
+    6268423455,
+    6268423456,
+    6268423457,
+    6268423454
+  ],
+  "tags": {
+    "addr:city": "London",
+    "addr:housename": "Railway Arch",
+    "addr:housenumber": "276",
+    "addr:postcode": "E2 9RF",
+    "addr:street": "Poyser Street",
+    "amenity": "bar",
+    "bar": "beer",
+    "craft": "brewery",
+    "fhrs:id": "624929",
+    "fhrs:local_authority_id": "15080",
+    "name": "Redchurch Brewery",
+    "operator": "The Redchurch Brewery Limited",
+    "product": "beer"
+  }
+},
+{
+  "type": "way",
+  "id": 703184325,
+  "nodes": [
+    6603589160,
+    6603589158,
+    6603589157,
+    6603589159,
+    6603589160
+  ],
+  "tags": {
+    "addr:city": "Maidstone",
+    "addr:country": "GB",
+    "addr:housename": "Tovil Green Business Park",
+    "addr:postcode": "ME15 6TA",
+    "addr:state": "Kent",
+    "addr:unit": "8",
+    "building": "commercial",
+    "craft": "brewery",
+    "email": "info@goachers.com",
+    "name": "Goachers Brewery",
+    "operator": "P & DJ Goacher",
+    "phone": "+44 1622 682112",
+    "website": "http://www.goachers.com/",
+    "wikipedia": "en:Goachers Brewery"
+  }
+},
+{
+  "type": "way",
+  "id": 713791884,
+  "nodes": [
+    6710955162,
+    6710955159,
+    6710955160,
+    6710955161,
+    6710955162
+  ],
+  "tags": {
+    "addr:city": "Swanley Village",
+    "addr:country": "GB",
+    "addr:place": "Highlands Farm Business Park",
+    "addr:postcode": "BR8 7NA",
+    "addr:state": "Kent",
+    "addr:street": "Highlands Hill",
+    "addr:unit": "Unit 14",
+    "building": "yes",
+    "craft": "brewery",
+    "email": "hello@brew-buddies.co.uk",
+    "name": "Brew Buddies Brewery",
+    "website": "http://brew-buddies.co.uk"
+  }
+},
+{
+  "type": "node",
+  "id": 4712947334,
+  "lat": 51.4747303,
+  "lon": -0.1402997
+},
+{
+  "type": "node",
+  "id": 4712947335,
+  "lat": 51.4745933,
+  "lon": -0.1401469
+},
+{
+  "type": "node",
+  "id": 4712947336,
+  "lat": 51.4745132,
+  "lon": -0.1403292
+},
+{
+  "type": "node",
+  "id": 4712947337,
+  "lat": 51.4746552,
+  "lon": -0.1404875
+},
+{
+  "type": "node",
+  "id": 3493582135,
+  "lat": 51.4851269,
+  "lon": -0.0959829
+},
+{
+  "type": "node",
+  "id": 3493582136,
+  "lat": 51.4851645,
+  "lon": -0.0957224
+},
+{
+  "type": "node",
+  "id": 3493582137,
+  "lat": 51.4852181,
+  "lon": -0.0960012
+},
+{
+  "type": "node",
+  "id": 3493582138,
+  "lat": 51.4852556,
+  "lon": -0.0957429
+},
+{
+  "type": "node",
+  "id": 2155738671,
+  "lat": 51.4621541,
+  "lon": -0.0361170
+},
+{
+  "type": "node",
+  "id": 2155738674,
+  "lat": 51.4621696,
+  "lon": -0.0362584
+},
+{
+  "type": "node",
+  "id": 2155738691,
+  "lat": 51.4623078,
+  "lon": -0.0361697
+},
+{
+  "type": "node",
+  "id": 2155738693,
+  "lat": 51.4623113,
+  "lon": -0.0362071
+},
+{
+  "type": "node",
+  "id": 2799310954,
+  "lat": 51.5275540,
+  "lon": -0.1205612
+},
+{
+  "type": "node",
+  "id": 2799310955,
+  "lat": 51.5274843,
+  "lon": -0.1205300
+},
+{
+  "type": "node",
+  "id": 2799310956,
+  "lat": 51.5274920,
+  "lon": -0.1204857
+},
+{
+  "type": "node",
+  "id": 2799310959,
+  "lat": 51.5275915,
+  "lon": -0.1205778
+},
+{
+  "type": "node",
+  "id": 2799310960,
+  "lat": 51.5276105,
+  "lon": -0.1204663
+},
+{
+  "type": "node",
+  "id": 2799310961,
+  "lat": 51.5275033,
+  "lon": -0.1204191
+},
+{
+  "type": "node",
+  "id": 1759519683,
+  "lat": 51.5468816,
+  "lon": -0.1468758
+},
+{
+  "type": "node",
+  "id": 1759519685,
+  "lat": 51.5467394,
+  "lon": -0.1468513
+},
+{
+  "type": "node",
+  "id": 2894915819,
+  "lat": 51.5467416,
+  "lon": -0.1468043
+},
+{
+  "type": "node",
+  "id": 2894915827,
+  "lat": 51.5470646,
+  "lon": -0.1466813
+},
+{
+  "type": "node",
+  "id": 4290475110,
+  "lat": 51.5467459,
+  "lon": -0.1467598
+},
+{
+  "type": "node",
+  "id": 4290475111,
+  "lat": 51.5467509,
+  "lon": -0.1466688
+},
+{
+  "type": "node",
+  "id": 4290475112,
+  "lat": 51.5467551,
+  "lon": -0.1466292
+},
+{
+  "type": "node",
+  "id": 4290475121,
+  "lat": 51.5468865,
+  "lon": -0.1468037
+},
+{
+  "type": "node",
+  "id": 5261807144,
+  "lat": 51.5468966,
+  "lon": -0.1466530
+},
+{
+  "type": "node",
+  "id": 5261807146,
+  "lat": 51.5468847,
+  "lon": -0.1468299
+},
+{
+  "type": "node",
+  "id": 1759519680,
+  "lat": 51.5474671,
+  "lon": -0.1467628
+},
+{
+  "type": "node",
+  "id": 4290475151,
+  "lat": 51.5476656,
+  "lon": -0.1469597
+},
+{
+  "type": "node",
+  "id": 4290475152,
+  "lat": 51.5476806,
+  "lon": -0.1468175
+},
+{
+  "type": "node",
+  "id": 5261807147,
+  "lat": 51.5474651,
+  "lon": -0.1469196
+},
+{
+  "type": "node",
+  "id": 345769758,
+  "lat": 51.5429958,
+  "lon": -0.1154888
+},
+{
+  "type": "node",
+  "id": 345769766,
+  "lat": 51.5429163,
+  "lon": -0.1154350
+},
+{
+  "type": "node",
+  "id": 5384536622,
+  "lat": 51.5431072,
+  "lon": -0.1150679
+},
+{
+  "type": "node",
+  "id": 5384536623,
+  "lat": 51.5430279,
+  "lon": -0.1150138
+},
+{
+  "type": "node",
+  "id": 28792603,
+  "lat": 51.5201593,
+  "lon": -0.0562885
+},
+{
+  "type": "node",
+  "id": 1558278283,
+  "lat": 51.5201350,
+  "lon": -0.0562494
+},
+{
+  "type": "node",
+  "id": 1558278286,
+  "lat": 51.5201916,
+  "lon": -0.0560085
+},
+{
+  "type": "node",
+  "id": 1558278288,
+  "lat": 51.5202559,
+  "lon": -0.0561292
+},
+{
+  "type": "node",
+  "id": 1558278290,
+  "lat": 51.5202742,
+  "lon": -0.0560484
+},
+{
+  "type": "node",
+  "id": 1558278296,
+  "lat": 51.5202920,
+  "lon": -0.0562774
+},
+{
+  "type": "node",
+  "id": 3965949079,
+  "lat": 51.5203037,
+  "lon": -0.0561498
+},
+{
+  "type": "node",
+  "id": 6268423454,
+  "lat": 51.5304552,
+  "lon": -0.0569284
+},
+{
+  "type": "node",
+  "id": 6268423455,
+  "lat": 51.5303717,
+  "lon": -0.0569042
+},
+{
+  "type": "node",
+  "id": 6268423456,
+  "lat": 51.5303965,
+  "lon": -0.0566739
+},
+{
+  "type": "node",
+  "id": 6268423457,
+  "lat": 51.5304796,
+  "lon": -0.0566968
+},
+{
+  "type": "node",
+  "id": 6268423458,
+  "lat": 51.5304121,
+  "lon": -0.0569159
+},
+{
+  "type": "node",
+  "id": 3214217094,
+  "lat": 51.5386906,
+  "lon": -0.0234288
+},
+{
+  "type": "node",
+  "id": 3214217095,
+  "lat": 51.5388121,
+  "lon": -0.0235748
+},
+{
+  "type": "node",
+  "id": 3214217097,
+  "lat": 51.5388447,
+  "lon": -0.0230896
+},
+{
+  "type": "node",
+  "id": 3214217098,
+  "lat": 51.5389705,
+  "lon": -0.0232403
+},
+{
+  "type": "node",
+  "id": 1661023107,
+  "lat": 51.5914092,
+  "lon": -0.0569284
+},
+{
+  "type": "node",
+  "id": 1661023121,
+  "lat": 51.5913752,
+  "lon": -0.0569375
+},
+{
+  "type": "node",
+  "id": 2923651892,
+  "lat": 51.5910695,
+  "lon": -0.0565716
+},
+{
+  "type": "node",
+  "id": 2923651893,
+  "lat": 51.5913634,
+  "lon": -0.0564869
+},
+{
+  "type": "node",
+  "id": 2923651894,
+  "lat": 51.5911171,
+  "lon": -0.0570023
+},
+{
+  "type": "node",
+  "id": 3833442423,
+  "lat": 51.5914293,
+  "lon": -0.0432660
+},
+{
+  "type": "node",
+  "id": 3833442425,
+  "lat": 51.5915181,
+  "lon": -0.0428254
+},
+{
+  "type": "node",
+  "id": 3833442426,
+  "lat": 51.5915371,
+  "lon": -0.0432859
+},
+{
+  "type": "node",
+  "id": 3833442427,
+  "lat": 51.5915304,
+  "lon": -0.0433188
+},
+{
+  "type": "node",
+  "id": 3833442428,
+  "lat": 51.5916544,
+  "lon": -0.0433471
+},
+{
+  "type": "node",
+  "id": 3833442429,
+  "lat": 51.5917365,
+  "lon": -0.0429394
+},
+{
+  "type": "node",
+  "id": 1544075682,
+  "lat": 51.2308206,
+  "lon": 0.0754443
+},
+{
+  "type": "node",
+  "id": 1544075686,
+  "lat": 51.2308359,
+  "lon": 0.0755928
+},
+{
+  "type": "node",
+  "id": 1544075712,
+  "lat": 51.2309767,
+  "lon": 0.0754033
+},
+{
+  "type": "node",
+  "id": 1544075714,
+  "lat": 51.2309920,
+  "lon": 0.0755518
+},
+{
+  "type": "node",
+  "id": 88827850,
+  "lat": 51.4892554,
+  "lon": 0.0085069
+},
+{
+  "type": "node",
+  "id": 2640272492,
+  "lat": 51.4892365,
+  "lon": 0.0069763
+},
+{
+  "type": "node",
+  "id": 2640272506,
+  "lat": 51.4894707,
+  "lon": 0.0069773
+},
+{
+  "type": "node",
+  "id": 2640272507,
+  "lat": 51.4894720,
+  "lon": 0.0071588
+},
+{
+  "type": "node",
+  "id": 2640272522,
+  "lat": 51.4895844,
+  "lon": 0.0071588
+},
+{
+  "type": "node",
+  "id": 2640272523,
+  "lat": 51.4895968,
+  "lon": 0.0085119
+},
+{
+  "type": "node",
+  "id": 6710955159,
+  "lat": 51.4056085,
+  "lon": 0.1895170
+},
+{
+  "type": "node",
+  "id": 6710955160,
+  "lat": 51.4053358,
+  "lon": 0.1895009
+},
+{
+  "type": "node",
+  "id": 6710955161,
+  "lat": 51.4053383,
+  "lon": 0.1893935
+},
+{
+  "type": "node",
+  "id": 6710955162,
+  "lat": 51.4056110,
+  "lon": 0.1894096
+},
+{
+  "type": "node",
+  "id": 306250582,
+  "lat": 51.4349530,
+  "lon": 0.3520967
+},
+{
+  "type": "node",
+  "id": 306250583,
+  "lat": 51.4348328,
+  "lon": 0.3520940
+},
+{
+  "type": "node",
+  "id": 5335432504,
+  "lat": 51.4349495,
+  "lon": 0.3524370
+},
+{
+  "type": "node",
+  "id": 5335432505,
+  "lat": 51.4348292,
+  "lon": 0.3524322
+},
+{
+  "type": "node",
+  "id": 6603589157,
+  "lat": 51.2613252,
+  "lon": 0.5091609
+},
+{
+  "type": "node",
+  "id": 6603589158,
+  "lat": 51.2614331,
+  "lon": 0.5091879
+},
+{
+  "type": "node",
+  "id": 6603589159,
+  "lat": 51.2613336,
+  "lon": 0.5090751
+},
+{
+  "type": "node",
+  "id": 6603589160,
+  "lat": 51.2614415,
+  "lon": 0.5091020
+},
+{
+  "type": "node",
+  "id": 1857172551,
+  "lat": 51.3943618,
+  "lon": 0.5262655
+},
+{
+  "type": "node",
+  "id": 1857173663,
+  "lat": 51.3944860,
+  "lon": 0.5261458
+},
+{
+  "type": "node",
+  "id": 1857173664,
+  "lat": 51.3944514,
+  "lon": 0.5263131
+},
+{
+  "type": "node",
+  "id": 1857176810,
+  "lat": 51.3943964,
+  "lon": 0.5260982
+}
+
+  ]
+}

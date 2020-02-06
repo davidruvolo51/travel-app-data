@@ -1,0 +1,537 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T08:06:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1250274846,
+  "lat": 48.5826016,
+  "lon": 7.7555370,
+  "tags": {
+    "amenity": "restaurant",
+    "bar": "yes",
+    "contact:city": "Strasbourg",
+    "contact:housenumber": "22",
+    "contact:phone": "+33 3 88 36 12 13",
+    "contact:postcode": "67000",
+    "contact:street": "Rue des Veaux",
+    "contact:website": "http://www.aubrasseur.fr/",
+    "cuisine": "regional",
+    "microbrewery": "yes",
+    "name": "Au Brasseur",
+    "opening_hours": "Mo 11:00-24:00; Tu-Su 00:00-01:00,11:00-24:00",
+    "outdoor_seating": "yes",
+    "source": "http://www.aubrasseur.fr",
+    "start_date": "1746"
+  }
+},
+{
+  "type": "node",
+  "id": 1558489120,
+  "lat": 48.5815473,
+  "lon": 7.7472325,
+  "tags": {
+    "amenity": "bar",
+    "microbrewery": "yes",
+    "name": "La Lanterne",
+    "ref:FR:SIRET": "48799609200010",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 2570243608,
+  "lat": 48.5927009,
+  "lon": 7.4970255,
+  "tags": {
+    "addr:housenumber": "88",
+    "craft": "brewery",
+    "name": "Brasserie la Narcose",
+    "ref:FR:SIRET": "81313755100012",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2013"
+  }
+},
+{
+  "type": "node",
+  "id": 3195474124,
+  "lat": 48.3848882,
+  "lon": 7.6278105,
+  "tags": {
+    "contact:email": "jac@matten.fr",
+    "contact:website": "http://www.matten.fr",
+    "craft": "brewery",
+    "description": "Brasserie artisanle de Matzenheim",
+    "name": "Matten",
+    "source": "knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 3419542697,
+  "lat": 48.7569516,
+  "lon": 7.5677502,
+  "tags": {
+    "craft": "brewery",
+    "name": "Météor"
+  }
+},
+{
+  "type": "node",
+  "id": 3791427176,
+  "lat": 48.5820597,
+  "lon": 7.7492115,
+  "tags": {
+    "craft": "brewery",
+    "name": "L'Italia"
+  }
+},
+{
+  "type": "node",
+  "id": 4321909016,
+  "lat": 48.6236460,
+  "lon": 7.7005818,
+  "tags": {
+    "craft": "brewery",
+    "name": "La Mercière",
+    "opening_hours": "Lundi au Mercredi : 9h00-12h00 14h00-19h30 / Jeudi : 14h00-19h30 / Vendredi : 9h00-12h00 14h00-19h30 / Samedi : 09h00-12h00",
+    "operator": "Franck Julich",
+    "website": "http://www.la-merciere.fr/fr/"
+  }
+},
+{
+  "type": "node",
+  "id": 4382759721,
+  "lat": 48.5664662,
+  "lon": 7.7754906,
+  "tags": {
+    "addr:city": "Strasbourg",
+    "addr:housenumber": "114",
+    "addr:postcode": "67100",
+    "addr:street": "Rue Jean Jaurès",
+    "contact:city": "Strasbourg",
+    "contact:email": "brasserie.bendorf@gmail.com",
+    "contact:housenumber": "114",
+    "contact:phone": "+33 6 70 55 72 08",
+    "contact:postcode": "67100",
+    "contact:street": "Rue Jean Jaurès",
+    "contact:website": "brasserie-bendorf.fr",
+    "craft": "brewery",
+    "description": "Une microbrasserie strasbourgeoise. Vente directe le samedi. Location de tireuse et vente de fûts aux professionnels, associations et particuliers.",
+    "email": "brasserie.bendorf@gmail.com",
+    "name": "Brasserie Bendorf",
+    "opening_hours": "Fr 14:00-19:00; Sa 10:00-12:00, 14:00-18:00",
+    "phone": "+33 6 70 55 72 08",
+    "product": "beer",
+    "website": "http://www.brasserie-bendorf.fr/"
+  }
+},
+{
+  "type": "node",
+  "id": 4546174323,
+  "lat": 48.5517243,
+  "lon": 7.7365032,
+  "tags": {
+    "contact:website": "www.biereperle.com",
+    "craft": "brewery",
+    "name": "Bières artisanales Artzner"
+  }
+},
+{
+  "type": "node",
+  "id": 4554006952,
+  "lat": 48.5932543,
+  "lon": 7.4943484,
+  "tags": {
+    "amenity": "restaurant",
+    "contact:website": "http://www.brasserie-restaurant-lauth.com",
+    "cuisine": "regional",
+    "microbrewery": "yes",
+    "name": "Brasserie Restaurant Lauth",
+    "source": "knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 4555877707,
+  "lat": 48.2791950,
+  "lon": 7.8552905,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "german",
+    "microbrewery": "yes",
+    "name": "Hieronymus Brauereiausschank"
+  }
+},
+{
+  "type": "node",
+  "id": 4922191440,
+  "lat": 48.7566550,
+  "lon": 7.5667268,
+  "tags": {
+    "craft": "brewery",
+    "name": "Meteor"
+  }
+},
+{
+  "type": "node",
+  "id": 5075908013,
+  "lat": 48.6114063,
+  "lon": 7.7471249,
+  "tags": {
+    "amenity": "restaurant",
+    "email": "contact@lafabrique-restaurant.com",
+    "microbrewery": "yes",
+    "name": "La Fabrique",
+    "opening_hours": "Tu-Sa 12:00-13:30,19:00-21:30",
+    "phone": "+33 3 88 83 93 83",
+    "website": "https://www.lafabrique-restaurant.com/fr/"
+  }
+},
+{
+  "type": "way",
+  "id": 90569662,
+  "nodes": [
+    1051042019,
+    1051041550,
+    1051042236,
+    1051031777,
+    1051029521,
+    1051042781,
+    1051039865,
+    1051036969,
+    1051031863,
+    1051040411,
+    1051039015,
+    3623339155,
+    1051034087,
+    1051031666,
+    1051038534,
+    1051031812,
+    1051041680,
+    1051042019
+  ],
+  "tags": {
+    "building": "brewery",
+    "contact:email": "info@lasaintpierre.com",
+    "contact:fax": "+33 3 88 08 94 84",
+    "contact:phone": "+33 3 88 08 82 95",
+    "craft": "brewery",
+    "name": "Brasserie La Saint-Pierre",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+    "website": "https://www.lasaintpierre.com/",
+    "wikidata": "Q20475999"
+  }
+},
+{
+  "type": "way",
+  "id": 93664099,
+  "nodes": [
+    1086962711,
+    2553948538,
+    2553948537,
+    1086962591,
+    1086962738,
+    1086962635,
+    2553948534,
+    6282824767,
+    1086962627,
+    1086962595,
+    1086962711
+  ],
+  "tags": {
+    "amenity": "pub",
+    "building": "yes",
+    "craft": "brewery",
+    "cuisine": "regional",
+    "microbrewery": "yes",
+    "name": "Dammenmühle-Brauhaus"
+  }
+},
+{
+  "type": "way",
+  "id": 160678378,
+  "nodes": [
+    1727135550,
+    1727135532,
+    1727135545,
+    1727135539,
+    1727135555,
+    1727135535,
+    1727135559,
+    1727135563,
+    1727135550
+  ],
+  "tags": {
+    "building": "yes",
+    "craft": "brewery",
+    "microbrewery": "yes",
+    "name": "Brauerei Ulmer Bier",
+    "operator": "Familienbrauerei Bauhöfer GmbH & Co. KG",
+    "website": "https://www.ulmer-bier.de/",
+    "wikidata": "Q17400190",
+    "wikipedia": "en:Familienbrauerei Bauhöfer"
+  }
+},
+{
+  "type": "way",
+  "id": 357249544,
+  "nodes": [
+    3625709570,
+    3625709569,
+    3625709565,
+    3625709566,
+    3625709570
+  ],
+  "tags": {
+    "addr:city": "Offenburg",
+    "addr:housenumber": "2",
+    "addr:postcode": "77654",
+    "addr:street": "Gutenbergstraße",
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Brauwerk Baden",
+    "website": "http://www.kronen-brauhaus.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 1051029521,
+  "lat": 48.3842030,
+  "lon": 7.4722760
+},
+{
+  "type": "node",
+  "id": 1051031666,
+  "lat": 48.3841760,
+  "lon": 7.4719550
+},
+{
+  "type": "node",
+  "id": 1051031777,
+  "lat": 48.3842190,
+  "lon": 7.4722210
+},
+{
+  "type": "node",
+  "id": 1051031812,
+  "lat": 48.3840890,
+  "lon": 7.4720430
+},
+{
+  "type": "node",
+  "id": 1051031863,
+  "lat": 48.3843010,
+  "lon": 7.4719420
+},
+{
+  "type": "node",
+  "id": 1051034087,
+  "lat": 48.3841960,
+  "lon": 7.4718880
+},
+{
+  "type": "node",
+  "id": 1051036969,
+  "lat": 48.3842980,
+  "lon": 7.4719530
+},
+{
+  "type": "node",
+  "id": 1051038534,
+  "lat": 48.3841240,
+  "lon": 7.4719220
+},
+{
+  "type": "node",
+  "id": 1051039015,
+  "lat": 48.3842580,
+  "lon": 7.4719270
+},
+{
+  "type": "node",
+  "id": 1051039865,
+  "lat": 48.3843610,
+  "lon": 7.4719950
+},
+{
+  "type": "node",
+  "id": 1051040411,
+  "lat": 48.3842610,
+  "lon": 7.4719160
+},
+{
+  "type": "node",
+  "id": 1051041550,
+  "lat": 48.3841830,
+  "lon": 7.4721840
+},
+{
+  "type": "node",
+  "id": 1051041680,
+  "lat": 48.3841410,
+  "lon": 7.4720770
+},
+{
+  "type": "node",
+  "id": 1051042019,
+  "lat": 48.3841220,
+  "lon": 7.4721450
+},
+{
+  "type": "node",
+  "id": 1051042236,
+  "lat": 48.3841800,
+  "lon": 7.4721960
+},
+{
+  "type": "node",
+  "id": 1051042781,
+  "lat": 48.3842690,
+  "lon": 7.4723150
+},
+{
+  "type": "node",
+  "id": 3623339155,
+  "lat": 48.3842465,
+  "lon": 7.4719197
+},
+{
+  "type": "node",
+  "id": 1086962591,
+  "lat": 48.3252051,
+  "lon": 7.8603671
+},
+{
+  "type": "node",
+  "id": 1086962595,
+  "lat": 48.3251319,
+  "lon": 7.8601191
+},
+{
+  "type": "node",
+  "id": 1086962627,
+  "lat": 48.3251079,
+  "lon": 7.8601184
+},
+{
+  "type": "node",
+  "id": 1086962635,
+  "lat": 48.3251203,
+  "lon": 7.8602224
+},
+{
+  "type": "node",
+  "id": 1086962711,
+  "lat": 48.3252251,
+  "lon": 7.8601218
+},
+{
+  "type": "node",
+  "id": 1086962738,
+  "lat": 48.3251185,
+  "lon": 7.8603646
+},
+{
+  "type": "node",
+  "id": 2553948534,
+  "lat": 48.3251066,
+  "lon": 7.8602220
+},
+{
+  "type": "node",
+  "id": 2553948537,
+  "lat": 48.3252068,
+  "lon": 7.8602297
+},
+{
+  "type": "node",
+  "id": 2553948538,
+  "lat": 48.3252237,
+  "lon": 7.8602302
+},
+{
+  "type": "node",
+  "id": 6282824767,
+  "lat": 48.3251069,
+  "lon": 7.8602001
+},
+{
+  "type": "node",
+  "id": 3625709565,
+  "lat": 48.4884466,
+  "lon": 7.9565754
+},
+{
+  "type": "node",
+  "id": 3625709566,
+  "lat": 48.4885358,
+  "lon": 7.9561820
+},
+{
+  "type": "node",
+  "id": 3625709569,
+  "lat": 48.4886225,
+  "lon": 7.9566663
+},
+{
+  "type": "node",
+  "id": 3625709570,
+  "lat": 48.4887118,
+  "lon": 7.9562730
+},
+{
+  "type": "node",
+  "id": 1727135532,
+  "lat": 48.5804606,
+  "lon": 8.0484155
+},
+{
+  "type": "node",
+  "id": 1727135535,
+  "lat": 48.5802761,
+  "lon": 8.0480615
+},
+{
+  "type": "node",
+  "id": 1727135539,
+  "lat": 48.5802708,
+  "lon": 8.0484089
+},
+{
+  "type": "node",
+  "id": 1727135545,
+  "lat": 48.5803470,
+  "lon": 8.0483190
+},
+{
+  "type": "node",
+  "id": 1727135550,
+  "lat": 48.5805997,
+  "lon": 8.0482251
+},
+{
+  "type": "node",
+  "id": 1727135555,
+  "lat": 48.5801279,
+  "lon": 8.0483734
+},
+{
+  "type": "node",
+  "id": 1727135559,
+  "lat": 48.5803400,
+  "lon": 8.0480937
+},
+{
+  "type": "node",
+  "id": 1727135563,
+  "lat": 48.5803485,
+  "lon": 8.0480781
+}
+
+  ]
+}

@@ -1,0 +1,280 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T09:37:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 584148618,
+  "lat": 51.8487679,
+  "lon": 5.8643174,
+  "tags": {
+    "addr:city": "Nijmegen",
+    "addr:housenumber": "1",
+    "addr:postcode": "6511 VS",
+    "addr:street": "Franseplaats",
+    "amenity": "restaurant",
+    "microbrewery": "yes",
+    "name": "Commanderie van Sint Jan",
+    "website": "http://www.commanderie-nijmegen.nl"
+  }
+},
+{
+  "type": "node",
+  "id": 2604502057,
+  "lat": 51.8487198,
+  "lon": 5.8642112,
+  "tags": {
+    "amenity": "pub",
+    "craft": "brewery",
+    "name": "De Hemel"
+  }
+},
+{
+  "type": "node",
+  "id": 2655952483,
+  "lat": 52.1411698,
+  "lon": 6.1959101,
+  "tags": {
+    "addr:city": "Zutphen",
+    "addr:housenumber": "56b",
+    "addr:postcode": "7201KM",
+    "addr:street": "Houtmarkt",
+    "amenity": "pub",
+    "craft": "brewery",
+    "name": "Stadsbrouwerij Cambrinus",
+    "phone": "+31 575 546688",
+    "source": "BAG",
+    "source:date": "2014-01-22",
+    "website": "http://www.hanze-stadsbrouwerij.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 2675052129,
+  "lat": 52.2498464,
+  "lon": 6.1614975,
+  "tags": {
+    "addr:city": "Deventer",
+    "addr:housenumber": "6",
+    "addr:postcode": "7411EG",
+    "addr:street": "Sluisstraat",
+    "amenity": "bar",
+    "craft": "brewery",
+    "name": "DAVO Stadsbrouwerij & Proeflokaal",
+    "smoking": "outside",
+    "source": "BAG",
+    "source:date": "2014-02-11",
+    "website": "https://www.davobieren.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 2806306410,
+  "lat": 51.7367498,
+  "lon": 5.9196134,
+  "tags": {
+    "addr:city": "Plasmolen",
+    "addr:country": "NL",
+    "addr:housenumber": "5",
+    "addr:postcode": "6586AG",
+    "addr:street": "Muldershofweg",
+    "amenity": "restaurant",
+    "cuisine": "french",
+    "microbrewery": "yes",
+    "name": "De Kombuis",
+    "opening_hours": "Mar-Sep 12:00-21:00; Oct-Feb 16:00-21:00; Tu off",
+    "outdoor_seating": "yes",
+    "source": "BAG",
+    "source:date": "2014-03-24",
+    "website": "http://dekombuisplasmolen.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 3013390973,
+  "lat": 51.9659918,
+  "lon": 5.6641847,
+  "tags": {
+    "addr:city": "Wageningen",
+    "addr:housenumber": "5",
+    "addr:postcode": "6701DL",
+    "addr:street": "1e Kloostersteeg",
+    "craft": "brewery",
+    "name": "Stadsbrouwerij Wageningen",
+    "source": "BAG",
+    "source:date": "2014-08-12"
+  }
+},
+{
+  "type": "node",
+  "id": 4598469108,
+  "lat": 52.1292397,
+  "lon": 5.4817680,
+  "tags": {
+    "addr:city": "Leusden",
+    "addr:housenumber": "233",
+    "addr:postcode": "3831JP",
+    "addr:street": "Asschatterweg",
+    "craft": "brewery",
+    "name": "Brouwerij De Volle Maat."
+  }
+},
+{
+  "type": "node",
+  "id": 5630026576,
+  "lat": 51.9267145,
+  "lon": 6.0762694,
+  "tags": {
+    "amenity": "pub",
+    "microbrewery": "yes",
+    "name": "Stadsbrouwerij Wittenburg",
+    "website": "http://stadsbrouwerijwittenburg.nl"
+  }
+},
+{
+  "type": "way",
+  "id": 89428379,
+  "nodes": [
+    1037224291,
+    1037224221,
+    1037224066,
+    1037224405,
+    1037224291
+  ],
+  "tags": {
+    "addr:city": "Kleve",
+    "addr:country": "DE",
+    "addr:housenumber": "5",
+    "addr:postcode": "47533",
+    "addr:street": "Gasthausstraße",
+    "amenity": "pub",
+    "brewery": "Früh",
+    "building": "yes",
+    "internet_access": "no",
+    "microbrewery": "yes",
+    "name": "Gasthaus Früh",
+    "operator": "Cölner Hofbäu Früh",
+    "phone": "+49 2821 22920",
+    "real_ale": "Früh Kölsch",
+    "smoking": "separated",
+    "website": "https://www.frueh.de/"
+  }
+},
+{
+  "type": "way",
+  "id": 268729104,
+  "nodes": [
+    2740554529,
+    2740554524,
+    2740554592,
+    2740554616,
+    2740554529
+  ],
+  "tags": {
+    "building": "brewery",
+    "ref:bag": "1876100000011958",
+    "source": "BAG",
+    "source:date": "2014-03-24",
+    "start_date": "1990"
+  }
+},
+{
+  "type": "way",
+  "id": 462945278,
+  "nodes": [
+    736652912,
+    736635776,
+    736642060,
+    736640108,
+    736652912
+  ],
+  "tags": {
+    "contact:website": "http://site.bronckhorster.beer/contact/",
+    "craft": "brewery",
+    "industrial": "brewery",
+    "landuse": "industrial",
+    "man_made": "works",
+    "name": "Bronckhorster Brewing Company",
+    "website": "http://site.bronckhorster.beer/"
+  }
+},
+{
+  "type": "node",
+  "id": 1037224066,
+  "lat": 51.7884414,
+  "lon": 6.1406845
+},
+{
+  "type": "node",
+  "id": 1037224221,
+  "lat": 51.7884319,
+  "lon": 6.1405921
+},
+{
+  "type": "node",
+  "id": 1037224291,
+  "lat": 51.7883296,
+  "lon": 6.1406196
+},
+{
+  "type": "node",
+  "id": 1037224405,
+  "lat": 51.7883402,
+  "lon": 6.1407095
+},
+{
+  "type": "node",
+  "id": 736635776,
+  "lat": 52.0534517,
+  "lon": 6.1488201
+},
+{
+  "type": "node",
+  "id": 736640108,
+  "lat": 52.0540241,
+  "lon": 6.1491254
+},
+{
+  "type": "node",
+  "id": 736642060,
+  "lat": 52.0535614,
+  "lon": 6.1493316
+},
+{
+  "type": "node",
+  "id": 736652912,
+  "lat": 52.0539723,
+  "lon": 6.1485878
+},
+{
+  "type": "node",
+  "id": 2740554524,
+  "lat": 52.0535591,
+  "lon": 6.1489927
+},
+{
+  "type": "node",
+  "id": 2740554529,
+  "lat": 52.0536100,
+  "lon": 6.1492774
+},
+{
+  "type": "node",
+  "id": 2740554592,
+  "lat": 52.0537505,
+  "lon": 6.1489047
+},
+{
+  "type": "node",
+  "id": 2740554616,
+  "lat": 52.0538002,
+  "lon": 6.1491893
+}
+
+  ]
+}

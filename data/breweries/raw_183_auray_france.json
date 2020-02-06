@@ -1,0 +1,141 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T08:42:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 3296396202,
+  "lat": 47.6588518,
+  "lon": -2.7480177,
+  "tags": {
+    "addr:city": "Vannes",
+    "addr:housenumber": "5",
+    "addr:postcode": "56000",
+    "addr:street": "Place Stalingrad",
+    "craft": "brewery",
+    "cuisine": "french;regional",
+    "level": "0",
+    "name": "Le Ziggy",
+    "phone": "+33 2 97 61 95 36",
+    "website": "http://www.brasserie-le-ziggy.com",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 6813343497,
+  "lat": 47.6942538,
+  "lon": -2.6368057,
+  "tags": {
+    "addr:city": "Saint-Nolff",
+    "addr:housenumber": "9",
+    "addr:postcode": "56250",
+    "addr:street": "Rue Gutenberg",
+    "craft": "brewery",
+    "email": "info@brasserieladilettante.com",
+    "name": "Brasserie la Dilettante",
+    "opening_hours": "Mo-We 10:00-18:00; Th-Fr 10:00-20:00; Sa 10:00-18:00",
+    "phone": "+33 2 52 32 14 10",
+    "product": "beer",
+    "start_date": "2015-06",
+    "website": "https://www.brasserieladilettante.com"
+  }
+},
+{
+  "type": "node",
+  "id": 6813343498,
+  "lat": 47.6942050,
+  "lon": -2.6370042,
+  "tags": {
+    "addr:city": "Saint-Nolff",
+    "addr:housenumber": "9",
+    "addr:postcode": "56250",
+    "addr:street": "Rue Gutenberg",
+    "amenity": "bar",
+    "brewery": "various",
+    "email": "laflemmebar@gmail.com",
+    "microbrewery": "yes",
+    "name": "La Flemme Cave & Bar",
+    "opening_hours": "Mo-We 10:00-18:00; Th-Fr 10:00-21:00; Sa 13:00-20:00",
+    "outdoor_seating": "yes",
+    "payment:cards": "yes",
+    "payment:cash": "yes",
+    "phone": "+33 2 52 32 14 11",
+    "start_date": "2019-02-08"
+  }
+},
+{
+  "type": "way",
+  "id": 611889838,
+  "nodes": [
+    5792900048,
+    5792900049,
+    5792900050,
+    5792900051,
+    5792900052,
+    5792901353,
+    5792900048
+  ],
+  "tags": {
+    "addr:city": "Vannes",
+    "addr:housenumber": "1",
+    "addr:postcode": "56000",
+    "addr:street": "Rue Gilles Gahinet",
+    "air_conditioning": "yes",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "brewery": "yes;various",
+    "building": "terrace",
+    "cuisine": "coffee_shop;burger;fish_and_chips;regional;steak_house",
+    "internet_access": "yes",
+    "microbrewery": "yes",
+    "name": "Awen BrewPub",
+    "opening_hours": "24/7",
+    "phone": "0297476022",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5792900048,
+  "lat": 47.6376124,
+  "lon": -2.7632390
+},
+{
+  "type": "node",
+  "id": 5792900049,
+  "lat": 47.6375975,
+  "lon": -2.7629089
+},
+{
+  "type": "node",
+  "id": 5792900050,
+  "lat": 47.6375755,
+  "lon": -2.7629111
+},
+{
+  "type": "node",
+  "id": 5792900051,
+  "lat": 47.6375702,
+  "lon": -2.7627948
+},
+{
+  "type": "node",
+  "id": 5792900052,
+  "lat": 47.6373849,
+  "lon": -2.7628133
+},
+{
+  "type": "node",
+  "id": 5792901353,
+  "lat": 47.6374051,
+  "lon": -2.7632596
+}
+
+  ]
+}

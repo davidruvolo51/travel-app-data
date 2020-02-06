@@ -1,0 +1,287 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T08:16:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 6328825664,
+  "lat": 45.9362774,
+  "lon": 6.6290247,
+  "tags": {
+    "craft": "brewery",
+    "name": "L'espace"
+  }
+},
+{
+  "type": "node",
+  "id": 6810084619,
+  "lat": 46.1009005,
+  "lon": 7.0848513,
+  "tags": {
+    "addr:city": "Martigny",
+    "addr:housenumber": "99",
+    "addr:postcode": "1920",
+    "addr:street": "Route du Levant",
+    "amenity": "pub",
+    "brewery": "yes",
+    "industrial": "brewery",
+    "microbrewery": "yes",
+    "name": "White Frontier",
+    "opening_hours": "Tu-We 16:00-22:00, Th 11:30-23:00, Fr-Sa 11:30-00:00",
+    "operator": "White Frontier",
+    "smoking": "outside",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 157667497,
+  "nodes": [
+    1699291818,
+    1699291904,
+    1699291930,
+    1699291848,
+    1699291818
+  ],
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "craft": "brewery",
+    "microbrewery": "yes",
+    "name": "La p'tite ravine",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012"
+  }
+},
+{
+  "type": "way",
+  "id": 246557753,
+  "nodes": [
+    2535862605,
+    2535862644,
+    2535862678,
+    2535862567,
+    2535862537,
+    2535862552,
+    2535862554,
+    2535862582,
+    2535862578,
+    2535862584,
+    2535862598,
+    2535862605
+  ],
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "craft": "brewery",
+    "microbrewery": "yes",
+    "name": "Châlet d'Emilie",
+    "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2013"
+  }
+},
+{
+  "type": "way",
+  "id": 246557762,
+  "nodes": [
+    2535871344,
+    2535871273,
+    2535871103,
+    2535871092,
+    2535871049,
+    2535871084,
+    2535871052,
+    2535871082,
+    2535871036,
+    2535871110,
+    2535871286,
+    2535871230,
+    2535871406,
+    2535871344
+  ],
+  "tags": {
+    "addr:city": "Combloux",
+    "amenity": "restaurant",
+    "building": "yes",
+    "craft": "brewery",
+    "internet_access": "wlan",
+    "microbrewery": "yes",
+    "name": "Le Postillon",
+    "outdoor_seating": "yes",
+    "phone": "+33 4 50 58 61 29"
+  }
+},
+{
+  "type": "node",
+  "id": 1699291818,
+  "lat": 45.8755881,
+  "lon": 6.6023826
+},
+{
+  "type": "node",
+  "id": 1699291848,
+  "lat": 45.8756202,
+  "lon": 6.6022799
+},
+{
+  "type": "node",
+  "id": 1699291904,
+  "lat": 45.8756855,
+  "lon": 6.6024454
+},
+{
+  "type": "node",
+  "id": 1699291930,
+  "lat": 45.8757176,
+  "lon": 6.6023426
+},
+{
+  "type": "node",
+  "id": 2535862537,
+  "lat": 45.8887450,
+  "lon": 6.6219610
+},
+{
+  "type": "node",
+  "id": 2535862552,
+  "lat": 45.8887750,
+  "lon": 6.6219890
+},
+{
+  "type": "node",
+  "id": 2535862554,
+  "lat": 45.8887810,
+  "lon": 6.6219770
+},
+{
+  "type": "node",
+  "id": 2535862567,
+  "lat": 45.8888090,
+  "lon": 6.6218240
+},
+{
+  "type": "node",
+  "id": 2535862578,
+  "lat": 45.8888240,
+  "lon": 6.6220280
+},
+{
+  "type": "node",
+  "id": 2535862582,
+  "lat": 45.8888280,
+  "lon": 6.6220210
+},
+{
+  "type": "node",
+  "id": 2535862584,
+  "lat": 45.8888310,
+  "lon": 6.6220350
+},
+{
+  "type": "node",
+  "id": 2535862598,
+  "lat": 45.8888420,
+  "lon": 6.6220100
+},
+{
+  "type": "node",
+  "id": 2535862605,
+  "lat": 45.8888500,
+  "lon": 6.6219930
+},
+{
+  "type": "node",
+  "id": 2535862644,
+  "lat": 45.8888870,
+  "lon": 6.6220280
+},
+{
+  "type": "node",
+  "id": 2535862678,
+  "lat": 45.8889290,
+  "lon": 6.6219380
+},
+{
+  "type": "node",
+  "id": 2535871036,
+  "lat": 45.8952470,
+  "lon": 6.6445500
+},
+{
+  "type": "node",
+  "id": 2535871049,
+  "lat": 45.8952550,
+  "lon": 6.6443850
+},
+{
+  "type": "node",
+  "id": 2535871052,
+  "lat": 45.8952560,
+  "lon": 6.6444620
+},
+{
+  "type": "node",
+  "id": 2535871082,
+  "lat": 45.8952820,
+  "lon": 6.6445000
+},
+{
+  "type": "node",
+  "id": 2535871084,
+  "lat": 45.8952830,
+  "lon": 6.6444240
+},
+{
+  "type": "node",
+  "id": 2535871092,
+  "lat": 45.8952910,
+  "lon": 6.6443350
+},
+{
+  "type": "node",
+  "id": 2535871103,
+  "lat": 45.8953020,
+  "lon": 6.6443510
+},
+{
+  "type": "node",
+  "id": 2535871110,
+  "lat": 45.8953080,
+  "lon": 6.6446390
+},
+{
+  "type": "node",
+  "id": 2535871230,
+  "lat": 45.8953840,
+  "lon": 6.6444380
+},
+{
+  "type": "node",
+  "id": 2535871273,
+  "lat": 45.8954120,
+  "lon": 6.6441940
+},
+{
+  "type": "node",
+  "id": 2535871286,
+  "lat": 45.8954170,
+  "lon": 6.6444840
+},
+{
+  "type": "node",
+  "id": 2535871344,
+  "lat": 45.8954560,
+  "lon": 6.6442530
+},
+{
+  "type": "node",
+  "id": 2535871406,
+  "lat": 45.8954850,
+  "lon": 6.6442970
+}
+
+  ]
+}

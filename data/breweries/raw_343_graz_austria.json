@@ -1,0 +1,651 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T12:50:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 269957911,
+  "lat": 47.0712636,
+  "lon": 15.4412307,
+  "tags": {
+    "addr:city": "Graz",
+    "addr:country": "AT",
+    "addr:housenumber": "2-3",
+    "addr:postcode": "8010",
+    "addr:street": "Glockenspielplatz",
+    "amenity": "restaurant",
+    "brewery": "various",
+    "contact:phone": "+43 316 47 81",
+    "contact:website": "http://www.gloecklbraeu.at",
+    "craft": "brewery",
+    "cuisine": "austrian, regional",
+    "microbrewery": "yes",
+    "name": "Glöcklbräu",
+    "outdoor_seating": "yes",
+    "toilets:wheelchair": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5272302346,
+  "lat": 47.1053649,
+  "lon": 15.8713442,
+  "tags": {
+    "addr:city": "Ilz",
+    "addr:country": "AT",
+    "addr:housenumber": "10",
+    "addr:place": "Nestelberg",
+    "addr:postcode": "8262",
+    "amenity": "pub",
+    "at_bev:addr_date": "2017-10-01",
+    "craft": "brewery",
+    "name": "Grafenbier",
+    "opening_hours": "Th-Su 16:00-22:00",
+    "website": "http://www.grafenbier.at"
+  }
+},
+{
+  "type": "way",
+  "id": 89087127,
+  "nodes": [
+    1033625333,
+    1033625332,
+    1033625330,
+    1033625320,
+    1033625333
+  ],
+  "tags": {
+    "addr:city": "Graz",
+    "addr:country": "AT",
+    "addr:housenumber": "91",
+    "addr:postcode": "8020",
+    "addr:street": "Eggenberger Allee",
+    "alt_name": "Erlebnisbrauerei Rudolf",
+    "amenity": "restaurant",
+    "building": "yes",
+    "contact:email": "info@rudolf-brau.com",
+    "contact:fax": "+43 316 58 14 77-19",
+    "contact:phone": "+43 316 58 13 34",
+    "cuisine": "regional",
+    "microbrewery": "yes",
+    "name": "Rudolf",
+    "opening_hours": "08:00+",
+    "source": "survey",
+    "website": "http://www.rudolf-brau.com",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 130667386,
+  "nodes": [
+    2849211546,
+    1554794467,
+    1554794450,
+    1438451449,
+    1554794449,
+    1554794435,
+    1438451447,
+    1438451446,
+    2849211546
+  ],
+  "tags": {
+    "addr:city": "Graz",
+    "addr:country": "AT",
+    "addr:housenumber": "6",
+    "addr:postcode": "8051",
+    "addr:street": "Augasse",
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "regional",
+    "microbrewery": "yes",
+    "name": "Grazerwirt",
+    "opening_hours": "Mo,Tu,Fr,Sa 11:00-20:00; Su,PH 11:00-16:00",
+    "outdoor_seating": "backyard",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 305372391,
+  "nodes": [
+    3099942820,
+    3099942821,
+    3099942822,
+    3099942823,
+    3099942824,
+    3099942825,
+    3099942820
+  ],
+  "tags": {
+    "addr:city": "Frohnleiten",
+    "addr:housenumber": "200a",
+    "addr:postcode": "8130",
+    "addr:street": "Laufnitzdorf",
+    "building": "yes",
+    "contact:facebook": "https://de-de.facebook.com/flecks.steirerbier",
+    "contact:phone": "+43 3126 20611",
+    "contact:website": "http://www.brauhaus-austria.com/de.html",
+    "craft": "brewery",
+    "name": "BrauSchauerei",
+    "operator": "FLECKS Brauhaus Technik GmbH",
+    "website": "https://www.flecksbier.at/"
+  }
+},
+{
+  "type": "way",
+  "id": 326065447,
+  "nodes": [
+    3326847351,
+    3326847352,
+    3326847353,
+    3326847354,
+    3326847355,
+    3326847356,
+    3326847351
+  ],
+  "tags": {
+    "addr:city": "Sankt Nikolai im Sausal",
+    "addr:country": "AT",
+    "addr:housenumber": "101",
+    "addr:place": "Flamberg",
+    "addr:postcode": "8505",
+    "amenity": "biergarten",
+    "building": "brewery",
+    "contact:email": "flamberger@utanet.at",
+    "contact:phone": "+43 3185 32 66",
+    "microbrewery": "yes",
+    "name": "Flamberg Bier",
+    "opening_hours": "Mo-Fr 08:00-12:00, 14:00-18:00; Sa 09:00-16:00; Su,Ph off",
+    "operator": "Dipl. Ing. Dr. Löscher Michael",
+    "website": "http://www.flamberger.at",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 482290239,
+  "nodes": [
+    4751340469,
+    4751340470,
+    4751340471,
+    4751340472,
+    4751340473,
+    4751340474,
+    4751340469
+  ],
+  "tags": {
+    "addr:city": "Groß Sankt Florian",
+    "addr:country": "AT",
+    "addr:housenumber": "48",
+    "addr:place": "Nassau",
+    "addr:postcode": "8522",
+    "at_bev:addr_date": "2017-10-01",
+    "building": "yes",
+    "contact:phone": "+43 664 597 20 32",
+    "craft": "brewery",
+    "microbrewery": "yes",
+    "name": "Brauerei  Nassauer City Bier",
+    "operator": "Richard Achleitner",
+    "source": "geoimage.at",
+    "website": "https://www.nassauercitybier.at/kontakt/"
+  }
+},
+{
+  "type": "way",
+  "id": 542457594,
+  "nodes": [
+    5244545824,
+    5341086780,
+    6083498223,
+    6083498222,
+    6083498219,
+    5341086774,
+    5244545822,
+    5244545823,
+    5341086758,
+    5341086759,
+    5341086761,
+    5341086762,
+    5341086763,
+    5341086764,
+    5341086766,
+    5341086765,
+    5245619804,
+    5341086767,
+    5341086768,
+    5341086769,
+    5341086770,
+    5341086771,
+    5341086772,
+    5341086773,
+    5341086775,
+    6083498217,
+    5969619251,
+    5969590395,
+    5969619253,
+    5969619252,
+    5245619813,
+    5244545825,
+    5341086782,
+    5341086781,
+    5244545824
+  ],
+  "tags": {
+    "addr:city": "Graz",
+    "addr:country": "AT",
+    "addr:housename": "Sudhaus",
+    "addr:housenumber": "10",
+    "addr:postcode": "8054",
+    "addr:street": "Weblinger Straße",
+    "amenity": "restaurant",
+    "brewery": "Sudhaus",
+    "building:levels": "1",
+    "building:part": "yes",
+    "contact:email": "info@sudhaus.at",
+    "contact:phone": "+43 316 2695700",
+    "contact:website": "https://www.sudhaus.at/",
+    "cuisine": "regional",
+    "microbrewery": "yes",
+    "name": "Sudhaus",
+    "opening_hours": "Mo-Th 16:00-22:00; Fr 12:00-22:00; Su 9:00-16:00; Sa,Ph off; Aug 6-Aug 20 off",
+    "opening_hours:breakfast": "Su 09:30-11:30",
+    "operator": "Sudhaus GmbH",
+    "roof:levels": "1",
+    "roof:shape": "flat",
+    "start_date": "2018-03-03"
+  }
+},
+{
+  "type": "node",
+  "id": 4751340469,
+  "lat": 46.8035926,
+  "lon": 15.3446867
+},
+{
+  "type": "node",
+  "id": 4751340470,
+  "lat": 46.8035392,
+  "lon": 15.3448424
+},
+{
+  "type": "node",
+  "id": 4751340471,
+  "lat": 46.8034740,
+  "lon": 15.3447946
+},
+{
+  "type": "node",
+  "id": 4751340472,
+  "lat": 46.8035162,
+  "lon": 15.3446716
+},
+{
+  "type": "node",
+  "id": 4751340473,
+  "lat": 46.8035349,
+  "lon": 15.3446853
+},
+{
+  "type": "node",
+  "id": 4751340474,
+  "lat": 46.8035461,
+  "lon": 15.3446527
+},
+{
+  "type": "node",
+  "id": 3326847351,
+  "lat": 46.8305792,
+  "lon": 15.4716712
+},
+{
+  "type": "node",
+  "id": 3326847352,
+  "lat": 46.8307725,
+  "lon": 15.4716136
+},
+{
+  "type": "node",
+  "id": 3326847353,
+  "lat": 46.8307479,
+  "lon": 15.4714376
+},
+{
+  "type": "node",
+  "id": 3326847354,
+  "lat": 46.8306704,
+  "lon": 15.4714608
+},
+{
+  "type": "node",
+  "id": 3326847355,
+  "lat": 46.8306789,
+  "lon": 15.4715216
+},
+{
+  "type": "node",
+  "id": 3326847356,
+  "lat": 46.8305631,
+  "lon": 15.4715561
+},
+{
+  "type": "node",
+  "id": 5244545822,
+  "lat": 47.0310945,
+  "lon": 15.4028221
+},
+{
+  "type": "node",
+  "id": 5244545823,
+  "lat": 47.0310994,
+  "lon": 15.4031324
+},
+{
+  "type": "node",
+  "id": 5244545824,
+  "lat": 47.0315191,
+  "lon": 15.4029050
+},
+{
+  "type": "node",
+  "id": 5244545825,
+  "lat": 47.0315820,
+  "lon": 15.4031192
+},
+{
+  "type": "node",
+  "id": 5245619804,
+  "lat": 47.0311979,
+  "lon": 15.4030962
+},
+{
+  "type": "node",
+  "id": 5245619813,
+  "lat": 47.0315301,
+  "lon": 15.4031210
+},
+{
+  "type": "node",
+  "id": 5341086758,
+  "lat": 47.0311627,
+  "lon": 15.4031310
+},
+{
+  "type": "node",
+  "id": 5341086759,
+  "lat": 47.0311709,
+  "lon": 15.4031269
+},
+{
+  "type": "node",
+  "id": 5341086761,
+  "lat": 47.0311767,
+  "lon": 15.4031229
+},
+{
+  "type": "node",
+  "id": 5341086762,
+  "lat": 47.0311801,
+  "lon": 15.4031173
+},
+{
+  "type": "node",
+  "id": 5341086763,
+  "lat": 47.0311830,
+  "lon": 15.4031110
+},
+{
+  "type": "node",
+  "id": 5341086764,
+  "lat": 47.0311856,
+  "lon": 15.4031046
+},
+{
+  "type": "node",
+  "id": 5341086765,
+  "lat": 47.0311876,
+  "lon": 15.4030962
+},
+{
+  "type": "node",
+  "id": 5341086766,
+  "lat": 47.0311868,
+  "lon": 15.4030979
+},
+{
+  "type": "node",
+  "id": 5341086767,
+  "lat": 47.0312099,
+  "lon": 15.4030964
+},
+{
+  "type": "node",
+  "id": 5341086768,
+  "lat": 47.0312098,
+  "lon": 15.4030996
+},
+{
+  "type": "node",
+  "id": 5341086769,
+  "lat": 47.0312109,
+  "lon": 15.4031044
+},
+{
+  "type": "node",
+  "id": 5341086770,
+  "lat": 47.0312131,
+  "lon": 15.4031110
+},
+{
+  "type": "node",
+  "id": 5341086771,
+  "lat": 47.0312174,
+  "lon": 15.4031171
+},
+{
+  "type": "node",
+  "id": 5341086772,
+  "lat": 47.0312224,
+  "lon": 15.4031229
+},
+{
+  "type": "node",
+  "id": 5341086773,
+  "lat": 47.0312276,
+  "lon": 15.4031254
+},
+{
+  "type": "node",
+  "id": 5341086774,
+  "lat": 47.0312324,
+  "lon": 15.4028168
+},
+{
+  "type": "node",
+  "id": 5341086775,
+  "lat": 47.0312390,
+  "lon": 15.4031268
+},
+{
+  "type": "node",
+  "id": 5341086780,
+  "lat": 47.0315184,
+  "lon": 15.4028100
+},
+{
+  "type": "node",
+  "id": 5341086781,
+  "lat": 47.0315516,
+  "lon": 15.4029037
+},
+{
+  "type": "node",
+  "id": 5341086782,
+  "lat": 47.0315810,
+  "lon": 15.4029024
+},
+{
+  "type": "node",
+  "id": 5969590395,
+  "lat": 47.0314127,
+  "lon": 15.4031240
+},
+{
+  "type": "node",
+  "id": 5969619251,
+  "lat": 47.0313693,
+  "lon": 15.4031241
+},
+{
+  "type": "node",
+  "id": 5969619252,
+  "lat": 47.0314694,
+  "lon": 15.4031221
+},
+{
+  "type": "node",
+  "id": 5969619253,
+  "lat": 47.0314509,
+  "lon": 15.4031222
+},
+{
+  "type": "node",
+  "id": 6083498217,
+  "lat": 47.0313144,
+  "lon": 15.4031252
+},
+{
+  "type": "node",
+  "id": 6083498219,
+  "lat": 47.0313643,
+  "lon": 15.4028133
+},
+{
+  "type": "node",
+  "id": 6083498222,
+  "lat": 47.0314286,
+  "lon": 15.4028121
+},
+{
+  "type": "node",
+  "id": 6083498223,
+  "lat": 47.0314601,
+  "lon": 15.4028113
+},
+{
+  "type": "node",
+  "id": 1033625320,
+  "lat": 47.0721278,
+  "lon": 15.3946959
+},
+{
+  "type": "node",
+  "id": 1033625330,
+  "lat": 47.0719462,
+  "lon": 15.3951940
+},
+{
+  "type": "node",
+  "id": 1033625332,
+  "lat": 47.0721213,
+  "lon": 15.3953316
+},
+{
+  "type": "node",
+  "id": 1033625333,
+  "lat": 47.0723029,
+  "lon": 15.3948336
+},
+{
+  "type": "node",
+  "id": 1438451446,
+  "lat": 47.0884733,
+  "lon": 15.4177556
+},
+{
+  "type": "node",
+  "id": 1438451447,
+  "lat": 47.0885346,
+  "lon": 15.4178578
+},
+{
+  "type": "node",
+  "id": 1438451449,
+  "lat": 47.0886377,
+  "lon": 15.4177337
+},
+{
+  "type": "node",
+  "id": 1554794435,
+  "lat": 47.0885655,
+  "lon": 15.4178205
+},
+{
+  "type": "node",
+  "id": 1554794449,
+  "lat": 47.0886151,
+  "lon": 15.4177609
+},
+{
+  "type": "node",
+  "id": 1554794450,
+  "lat": 47.0886197,
+  "lon": 15.4177013
+},
+{
+  "type": "node",
+  "id": 1554794467,
+  "lat": 47.0886455,
+  "lon": 15.4176703
+},
+{
+  "type": "node",
+  "id": 2849211546,
+  "lat": 47.0885812,
+  "lon": 15.4176150
+},
+{
+  "type": "node",
+  "id": 3099942820,
+  "lat": 47.2967597,
+  "lon": 15.3426403
+},
+{
+  "type": "node",
+  "id": 3099942821,
+  "lat": 47.2970312,
+  "lon": 15.3433987
+},
+{
+  "type": "node",
+  "id": 3099942822,
+  "lat": 47.2969425,
+  "lon": 15.3434677
+},
+{
+  "type": "node",
+  "id": 3099942823,
+  "lat": 47.2967209,
+  "lon": 15.3428485
+},
+{
+  "type": "node",
+  "id": 3099942824,
+  "lat": 47.2966384,
+  "lon": 15.3429127
+},
+{
+  "type": "node",
+  "id": 3099942825,
+  "lat": 47.2965886,
+  "lon": 15.3427735
+}
+
+  ]
+}

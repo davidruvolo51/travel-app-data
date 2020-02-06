@@ -1,0 +1,468 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T08:43:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1327584227,
+  "lat": 47.3021173,
+  "lon": 0.7942937,
+  "tags": {
+    "amenity": "restaurant",
+    "microbrewery": "yes",
+    "name": "Le Saint-Malo"
+  }
+},
+{
+  "type": "node",
+  "id": 1839317990,
+  "lat": 47.6038748,
+  "lon": 0.5944406,
+  "tags": {
+    "amenity": "restaurant",
+    "internet_access": "no",
+    "internet_access:fee": "no",
+    "microbrewery": "yes",
+    "name": "Auberge du bon accueil",
+    "smoking": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3450962911,
+  "lat": 47.3940256,
+  "lon": 0.6786612,
+  "tags": {
+    "amenity": "cafe",
+    "craft": "brewery",
+    "name": "Brasserie La Victoire"
+  }
+},
+{
+  "type": "node",
+  "id": 4174452214,
+  "lat": 47.3280849,
+  "lon": 0.9913453,
+  "tags": {
+    "craft": "brewery",
+    "name": "Le Chalet"
+  }
+},
+{
+  "type": "node",
+  "id": 5430821636,
+  "lat": 47.3895549,
+  "lon": 0.6886435,
+  "tags": {
+    "craft": "brewery",
+    "name": "L'Annexe",
+    "product": "beer;food"
+  }
+},
+{
+  "type": "node",
+  "id": 5823841563,
+  "lat": 47.3942282,
+  "lon": 0.6864197,
+  "tags": {
+    "addr:city": "Tours",
+    "addr:housenumber": "18",
+    "addr:postcode": "37000",
+    "addr:street": "Place de la Résistance",
+    "amenity": "pub",
+    "brewery": "yes",
+    "contact:facebook": "https://www.facebook.com/craftybrewpub/",
+    "mapillary": "hwFRcjX-NmMoKDKalGpqig",
+    "microbrewery": "yes",
+    "name": "Crafty Brewpub",
+    "opening_hours": "Tu,We 12:00-00:00; Th-Sa 12:00-01:00; Su 12:00-24:00",
+    "phone": "+33 2 47 20 82 91"
+  }
+},
+{
+  "type": "way",
+  "id": 63809771,
+  "nodes": [
+    788477781,
+    2674425566,
+    2674425570,
+    788487839,
+    788477781
+  ],
+  "tags": {
+    "building": "brewery",
+    "craft": "brewery",
+    "name": "Brasserie de l'Aurore",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+  }
+},
+{
+  "type": "way",
+  "id": 69792802,
+  "nodes": [
+    834499301,
+    834478471,
+    834464131,
+    834513409,
+    834474692,
+    834488295,
+    834445509,
+    834575547,
+    834633662,
+    834493180,
+    834565042,
+    834508215,
+    834479029,
+    834498689,
+    834478893,
+    834468725,
+    834556055,
+    834450112,
+    834489808,
+    834509395,
+    834499301
+  ],
+  "tags": {
+    "addr:housenumber": "8",
+    "amenity": "restaurant",
+    "building": "yes",
+    "contact:phone": "+33 2 47 05 50 92",
+    "contact:website": "http://www.univers-restaurant.fr",
+    "craft": "brewery",
+    "description": "Maison fondée en 1896",
+    "microbrewery": "yes",
+    "name": "Brasserie L'Univers",
+    "opening_hours": "Mo 07:00-24:00; Tu-Sa 00:00-01:00,07:00-24:00; Su 00:00-01:00,10:00-24:00",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "way",
+  "id": 71097981,
+  "nodes": [
+    846723039,
+    846721359,
+    846745871,
+    846680688,
+    846717581,
+    846776592,
+    846736102,
+    846694681,
+    846689734,
+    846714293,
+    846766433,
+    846673898,
+    846705711,
+    846690393,
+    846642379,
+    846700976,
+    846673016,
+    846723039
+  ],
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Le P'tit Cher",
+    "outdoor_seating": "yes",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+  }
+},
+{
+  "type": "way",
+  "id": 72053416,
+  "nodes": [
+    856581581,
+    856573400,
+    856599812,
+    856599221,
+    856581581
+  ],
+  "tags": {
+    "building": "yes",
+    "craft": "brewery",
+    "name": "La P'tite Maiz'",
+    "phone": "+33609425596",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+    "website": "https://www.laptitemaiz.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 788477781,
+  "lat": 47.2625408,
+  "lon": 0.8338820
+},
+{
+  "type": "node",
+  "id": 788487839,
+  "lat": 47.2625403,
+  "lon": 0.8340358
+},
+{
+  "type": "node",
+  "id": 2674425566,
+  "lat": 47.2624767,
+  "lon": 0.8338812
+},
+{
+  "type": "node",
+  "id": 2674425570,
+  "lat": 47.2624774,
+  "lon": 0.8340353
+},
+{
+  "type": "node",
+  "id": 846642379,
+  "lat": 47.3623513,
+  "lon": 0.6733543
+},
+{
+  "type": "node",
+  "id": 846673016,
+  "lat": 47.3623322,
+  "lon": 0.6735350
+},
+{
+  "type": "node",
+  "id": 846673898,
+  "lat": 47.3624365,
+  "lon": 0.6730625
+},
+{
+  "type": "node",
+  "id": 846680688,
+  "lat": 47.3624542,
+  "lon": 0.6734863
+},
+{
+  "type": "node",
+  "id": 846689734,
+  "lat": 47.3624531,
+  "lon": 0.6733835
+},
+{
+  "type": "node",
+  "id": 846690393,
+  "lat": 47.3623654,
+  "lon": 0.6731989
+},
+{
+  "type": "node",
+  "id": 846694681,
+  "lat": 47.3624369,
+  "lon": 0.6733818
+},
+{
+  "type": "node",
+  "id": 846700976,
+  "lat": 47.3623381,
+  "lon": 0.6734754
+},
+{
+  "type": "node",
+  "id": 846705711,
+  "lat": 47.3624218,
+  "lon": 0.6732118
+},
+{
+  "type": "node",
+  "id": 846714293,
+  "lat": 47.3624574,
+  "lon": 0.6733228
+},
+{
+  "type": "node",
+  "id": 846717581,
+  "lat": 47.3624180,
+  "lon": 0.6734762
+},
+{
+  "type": "node",
+  "id": 846721359,
+  "lat": 47.3624262,
+  "lon": 0.6735817
+},
+{
+  "type": "node",
+  "id": 846723039,
+  "lat": 47.3623301,
+  "lon": 0.6735565
+},
+{
+  "type": "node",
+  "id": 846736102,
+  "lat": 47.3624373,
+  "lon": 0.6733757
+},
+{
+  "type": "node",
+  "id": 846745871,
+  "lat": 47.3624557,
+  "lon": 0.6735859
+},
+{
+  "type": "node",
+  "id": 846766433,
+  "lat": 47.3624730,
+  "lon": 0.6730676
+},
+{
+  "type": "node",
+  "id": 846776592,
+  "lat": 47.3624246,
+  "lon": 0.6733731
+},
+{
+  "type": "node",
+  "id": 834445509,
+  "lat": 47.3896292,
+  "lon": 0.6898299
+},
+{
+  "type": "node",
+  "id": 834450112,
+  "lat": 47.3898288,
+  "lon": 0.6895763
+},
+{
+  "type": "node",
+  "id": 834464131,
+  "lat": 47.3896467,
+  "lon": 0.6896702
+},
+{
+  "type": "node",
+  "id": 834468725,
+  "lat": 47.3898056,
+  "lon": 0.6899065
+},
+{
+  "type": "node",
+  "id": 834474692,
+  "lat": 47.3896451,
+  "lon": 0.6897144
+},
+{
+  "type": "node",
+  "id": 834478471,
+  "lat": 47.3896283,
+  "lon": 0.6895420
+},
+{
+  "type": "node",
+  "id": 834478893,
+  "lat": 47.3898285,
+  "lon": 0.6900159
+},
+{
+  "type": "node",
+  "id": 834479029,
+  "lat": 47.3897102,
+  "lon": 0.6899904
+},
+{
+  "type": "node",
+  "id": 834488295,
+  "lat": 47.3896096,
+  "lon": 0.6897295
+},
+{
+  "type": "node",
+  "id": 834489808,
+  "lat": 47.3898205,
+  "lon": 0.6895597
+},
+{
+  "type": "node",
+  "id": 834493180,
+  "lat": 47.3894290,
+  "lon": 0.6900196
+},
+{
+  "type": "node",
+  "id": 834498689,
+  "lat": 47.3897372,
+  "lon": 0.6900673
+},
+{
+  "type": "node",
+  "id": 834499301,
+  "lat": 47.3897861,
+  "lon": 0.6894769
+},
+{
+  "type": "node",
+  "id": 834508215,
+  "lat": 47.3896904,
+  "lon": 0.6900054
+},
+{
+  "type": "node",
+  "id": 834509395,
+  "lat": 47.3898009,
+  "lon": 0.6895175
+},
+{
+  "type": "node",
+  "id": 834513409,
+  "lat": 47.3896376,
+  "lon": 0.6896734
+},
+{
+  "type": "node",
+  "id": 834556055,
+  "lat": 47.3897450,
+  "lon": 0.6896976
+},
+{
+  "type": "node",
+  "id": 834565042,
+  "lat": 47.3896527,
+  "lon": 0.6899115
+},
+{
+  "type": "node",
+  "id": 834575547,
+  "lat": 47.3896421,
+  "lon": 0.6898989
+},
+{
+  "type": "node",
+  "id": 834633662,
+  "lat": 47.3894232,
+  "lon": 0.6900046
+},
+{
+  "type": "node",
+  "id": 856573400,
+  "lat": 47.4386259,
+  "lon": 0.6929643
+},
+{
+  "type": "node",
+  "id": 856581581,
+  "lat": 47.4384924,
+  "lon": 0.6929468
+},
+{
+  "type": "node",
+  "id": 856599221,
+  "lat": 47.4385170,
+  "lon": 0.6925393
+},
+{
+  "type": "node",
+  "id": 856599812,
+  "lat": 47.4386506,
+  "lon": 0.6925570
+}
+
+  ]
+}

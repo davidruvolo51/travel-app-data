@@ -1,0 +1,488 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-05T23:22:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 264843304,
+  "lat": 53.4765164,
+  "lon": 9.7003099,
+  "tags": {
+    "amenity": "restaurant",
+    "contact:website": "http://www.ratskeller-buxtehude.de/kontakt/",
+    "craft": "brewery",
+    "cuisine": "german",
+    "microbrewery": "yes",
+    "name": "Ratskeller",
+    "opening_hours": "Mo-Su 11:30-23:00",
+    "opening_hours:lastcheck": "2019-09-02",
+    "operator": "Ratskeller Buxtehude Betreiber Gesellschaft mbH",
+    "outdoor_seating": "yes",
+    "toilets:wheelchair": "yes",
+    "website": "http://www.ratskeller-buxtehude.de/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 540290067,
+  "lat": 53.6140169,
+  "lon": 10.1358190,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "greek",
+    "microbrewery": "yes",
+    "name": "Taverna Bei Anna",
+    "opening_hours": "Mo-Sa 17:00-22:45; Su 12:00-22:45",
+    "phone": "+49-40-6471357",
+    "website": "https://www.tavernabeianna.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 764873231,
+  "lat": 53.5504231,
+  "lon": 9.9897465,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "bavarian;german",
+    "delivery": "no",
+    "email": "hamburg@brauhaus-joh-albrecht.de",
+    "microbrewery": "yes",
+    "name": "Brauhaus Joh. Albrecht",
+    "opening_hours": "11:00-24:00",
+    "operator": "Joh.Albrecht Brauerei\nBeratung- und Beteiligung GmbH",
+    "phone": "+49 40 367740",
+    "takeaway": "no",
+    "website": "http://hamburg.brauhaus-joh-albrecht.de/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1700738403,
+  "lat": 53.5456447,
+  "lon": 9.9699067,
+  "tags": {
+    "addr:city": "Hamburg",
+    "addr:country": "DE",
+    "addr:housenumber": "3",
+    "addr:postcode": "20359",
+    "addr:street": "Bei den St. Pauli-Landungsbrücken",
+    "amenity": "restaurant",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "microbrewery": "yes",
+    "name": "Blockbräu",
+    "opening_hours": "Mo-Su 11:00-24:00",
+    "operator": "Block Bräu GmbH",
+    "outdoor_seating": "terrace",
+    "phone": "+49 40 44405000",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.block-braeu.de/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2428798480,
+  "lat": 53.5631776,
+  "lon": 9.9680609,
+  "tags": {
+    "addr:city": "Hamburg",
+    "addr:country": "DE",
+    "addr:housenumber": "28 B",
+    "addr:postcode": "20357",
+    "addr:street": "Lagerstraße",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "microbrewery": "yes",
+    "name": "Altes Mädchen",
+    "opening_hours": "Mo-Th 12:00-01:00, Fr-Sa 12:00-02:00, Su 10:00-01:00",
+    "phone": "+49 40 800077750",
+    "source": "https://de-de.facebook.com/Altes.Maedchen.Hamburg/info",
+    "toilets:wheelchair": "yes",
+    "website": "http://altes-maedchen.de",
+    "wheelchair": "yes",
+    "wheelchair:description": "Rückseite: Parkplatz sehr unebenes Kopfsteinpflaster, direkter Eingang zum Lokal, 4 cm Kante in der Tür / Vorderseite: Parkplatz mit Kopfsteinpflaster aber recht eben, ca. 7 cm Kante am Bordstein, dafür keine Kante im Eingang"
+  }
+},
+{
+  "type": "node",
+  "id": 2467287891,
+  "lat": 53.5631871,
+  "lon": 9.9684257,
+  "tags": {
+    "addr:city": "Hamburg",
+    "addr:housenumber": "28 B",
+    "addr:postcode": "20357",
+    "addr:street": "Lagerstraße",
+    "craft": "brewery",
+    "name": "Ratsherrn Brauerei",
+    "website": "https://www.ratsherrn.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 3265265487,
+  "lat": 53.7074917,
+  "lon": 9.9935586,
+  "tags": {
+    "addr:city": "Norderstedt",
+    "addr:housenumber": "60",
+    "addr:postcode": "22846",
+    "addr:street": "Rathausallee",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "microbrewery": "yes",
+    "name": "Hopfenliebe Brauhaus",
+    "opening_hours": "Mo,Su off, Tu-Th 16:00-24:00, Fr,Sa 16:00-01:00",
+    "toilets:wheelchair": "no",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 3882437438,
+  "lat": 53.5543686,
+  "lon": 9.9645036,
+  "tags": {
+    "addr:city": "Hamburg",
+    "addr:housenumber": "37",
+    "addr:postcode": "20359",
+    "addr:street": "Budapester Straße",
+    "amenity": "restaurant",
+    "description": "Getränkehersteller; Absinthe, Historische Biere",
+    "microbrewery": "yes",
+    "name": "Zaubertrank",
+    "shop": "alcohol",
+    "website": "http://www.zaubertrank-hamburg.de",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5541071460,
+  "lat": 53.5462465,
+  "lon": 9.9585052,
+  "tags": {
+    "addr:city": "Hamburg",
+    "addr:housenumber": "28-32",
+    "addr:postcode": "20359",
+    "addr:street": "St. Pauli Fischmarkt",
+    "amenity": "restaurant",
+    "contact:instagram": "https://www.instagram.com/ueberquell/",
+    "craft": "brewery",
+    "email": "hello@ueberquell.com",
+    "microbrewery": "yes",
+    "name": "ÜberQuell Brauwerkstätten",
+    "opening_hours": "Mo-Th 17:00+; Fr,Sa 12:00+",
+    "phone": "+49 40 334421260",
+    "website": "http://ueberquell.com"
+  }
+},
+{
+  "type": "node",
+  "id": 5868883885,
+  "lat": 53.4604358,
+  "lon": 10.0638790,
+  "tags": {
+    "addr:housenumber": "33",
+    "addr:postcode": "21109",
+    "addr:street": "Moorwerder Hauptdeich",
+    "amenity": "restaurant",
+    "microbrewery": "yes",
+    "name": "Bunthaus Gaststätte",
+    "opening_hours": "Mo-Fr 17:00-22:00;Sa 12:00-22:00;Su 11:00-22:00"
+  }
+},
+{
+  "type": "node",
+  "id": 6814546024,
+  "lat": 53.5074666,
+  "lon": 10.0007776,
+  "tags": {
+    "craft": "brewery",
+    "name": "Wildwuchs Brauerei"
+  }
+},
+{
+  "type": "way",
+  "id": 58502860,
+  "nodes": [
+    725127987,
+    725128033,
+    725127992,
+    725127974,
+    725128053,
+    725127987
+  ],
+  "tags": {
+    "addr:city": "Hamburg",
+    "addr:housenumber": "47",
+    "addr:postcode": "20457",
+    "addr:street": "Willy-Brandt-Straße",
+    "amenity": "restaurant",
+    "building": "yes",
+    "microbrewery": "yes",
+    "name": "Gröninger Braukeller",
+    "opening_hours": "Mo-Fr 11:00+; Sa 17:00+; Su 15:00-22:00",
+    "phone": "+49 40 570105100",
+    "website": "https://www.groeninger-hamburg.de/",
+    "wheelchair": "no",
+    "wikidata": "Q1551656",
+    "wikipedia": "de:Gröningers Braukeller"
+  }
+},
+{
+  "type": "way",
+  "id": 162077022,
+  "nodes": [
+    1740212736,
+    1740212737,
+    1740212738,
+    4727565874,
+    1740212744,
+    6641719821,
+    1740212736
+  ],
+  "tags": {
+    "addr:city": "Hamburg",
+    "addr:housenumber": "12",
+    "addr:postcode": "22761",
+    "addr:street": "Beerenweg",
+    "building": "commercial",
+    "craft": "brewery",
+    "microbrewery": "yes",
+    "name": "Landgang Brauerei",
+    "name:de": "Landgang Brauerei",
+    "name:en": "Landgang Brauerei",
+    "old_name": "Hopperbräu",
+    "opening_hours": "Th-Fr 17:00-00:00; Sa 12:00-24:00",
+    "source": "bing",
+    "website": "http://Www.landgang-brauerei.de"
+  }
+},
+{
+  "type": "way",
+  "id": 176236185,
+  "nodes": [
+    1867805547,
+    1867805555,
+    1867805553,
+    1867805550,
+    1867805547
+  ],
+  "tags": {
+    "addr:city": "Grönwohld",
+    "addr:housenumber": "21c",
+    "addr:postcode": "22956",
+    "addr:street": "Poststraße",
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Grönwohlder Hausbrauerei",
+    "website": "https://www.groenwohlder.de/index_.php"
+  }
+},
+{
+  "type": "way",
+  "id": 304346561,
+  "nodes": [
+    3088729230,
+    3088729226,
+    3088729231,
+    3088729234,
+    3088729236,
+    3088729230
+  ],
+  "tags": {
+    "addr:city": "Elmshorn",
+    "addr:country": "DE",
+    "addr:housenumber": "65a",
+    "addr:postcode": "25337",
+    "addr:street": "Langelohe",
+    "amenity": "pub",
+    "building": "yes",
+    "craft": "brewery",
+    "email": "info@simian-ales.com",
+    "microbrewery": "yes",
+    "name": "Simian Ales",
+    "website": "http://simian-ales.com"
+  }
+},
+{
+  "type": "way",
+  "id": 394217083,
+  "nodes": [
+    3972291204,
+    3972291205,
+    3972291203,
+    3972291200,
+    3972291199,
+    3972291204
+  ],
+  "tags": {
+    "craft": "brewery",
+    "landuse": "commercial",
+    "microbrewery": "yes",
+    "name": "Kehrwieder Kreativbrauerei"
+  }
+},
+{
+  "type": "node",
+  "id": 3972291199,
+  "lat": 53.4266118,
+  "lon": 9.9603978
+},
+{
+  "type": "node",
+  "id": 3972291200,
+  "lat": 53.4269232,
+  "lon": 9.9589474
+},
+{
+  "type": "node",
+  "id": 3972291203,
+  "lat": 53.4275677,
+  "lon": 9.9591193
+},
+{
+  "type": "node",
+  "id": 3972291204,
+  "lat": 53.4285590,
+  "lon": 9.9608694
+},
+{
+  "type": "node",
+  "id": 3972291205,
+  "lat": 53.4286792,
+  "lon": 9.9594147
+},
+{
+  "type": "node",
+  "id": 1740212738,
+  "lat": 53.5655216,
+  "lon": 9.9233609
+},
+{
+  "type": "node",
+  "id": 1740212744,
+  "lat": 53.5655218,
+  "lon": 9.9230565
+},
+{
+  "type": "node",
+  "id": 4727565874,
+  "lat": 53.5655218,
+  "lon": 9.9231369
+},
+{
+  "type": "node",
+  "id": 6641719821,
+  "lat": 53.5658439,
+  "lon": 9.9230573
+},
+{
+  "type": "node",
+  "id": 1740212736,
+  "lat": 53.5658812,
+  "lon": 9.9230574
+},
+{
+  "type": "node",
+  "id": 1740212737,
+  "lat": 53.5658809,
+  "lon": 9.9233618
+},
+{
+  "type": "node",
+  "id": 725127974,
+  "lat": 53.5470724,
+  "lon": 9.9963111
+},
+{
+  "type": "node",
+  "id": 725127987,
+  "lat": 53.5472224,
+  "lon": 9.9961418
+},
+{
+  "type": "node",
+  "id": 725127992,
+  "lat": 53.5472267,
+  "lon": 9.9963210
+},
+{
+  "type": "node",
+  "id": 725128033,
+  "lat": 53.5472374,
+  "lon": 9.9961435
+},
+{
+  "type": "node",
+  "id": 725128053,
+  "lat": 53.5470813,
+  "lon": 9.9961343
+},
+{
+  "type": "node",
+  "id": 3088729226,
+  "lat": 53.7519844,
+  "lon": 9.6728903
+},
+{
+  "type": "node",
+  "id": 3088729230,
+  "lat": 53.7520608,
+  "lon": 9.6730914
+},
+{
+  "type": "node",
+  "id": 3088729231,
+  "lat": 53.7520694,
+  "lon": 9.6727979
+},
+{
+  "type": "node",
+  "id": 3088729234,
+  "lat": 53.7521611,
+  "lon": 9.6726982
+},
+{
+  "type": "node",
+  "id": 3088729236,
+  "lat": 53.7522375,
+  "lon": 9.6728993
+},
+{
+  "type": "node",
+  "id": 1867805547,
+  "lat": 53.6394443,
+  "lon": 10.4086419
+},
+{
+  "type": "node",
+  "id": 1867805550,
+  "lat": 53.6394218,
+  "lon": 10.4088038
+},
+{
+  "type": "node",
+  "id": 1867805553,
+  "lat": 53.6395975,
+  "lon": 10.4088733
+},
+{
+  "type": "node",
+  "id": 1867805555,
+  "lat": 53.6396200,
+  "lon": 10.4087114
+}
+
+  ]
+}

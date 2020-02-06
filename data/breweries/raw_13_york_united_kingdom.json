@@ -1,0 +1,415 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-05T20:36:03Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 670308954,
+  "lat": 53.7873696,
+  "lon": -1.0611298,
+  "tags": {
+    "addr:city": "Selby",
+    "addr:housenumber": "77",
+    "addr:postcode": "YO8 5AB",
+    "addr:street": "Barlby Road",
+    "amenity": "pub",
+    "floor:material": "carpet",
+    "microbrewery": "yes",
+    "name": "The Olympia",
+    "operator": "Jolly Sailor Brewery",
+    "real_ale": "6 from Jolly Sailor"
+  }
+},
+{
+  "type": "node",
+  "id": 3218554783,
+  "lat": 53.8120701,
+  "lon": -1.5422960,
+  "tags": {
+    "craft": "brewery",
+    "name": "Ridgeside Brewery"
+  }
+},
+{
+  "type": "node",
+  "id": 4324214422,
+  "lat": 54.2449356,
+  "lon": -1.0601921,
+  "tags": {
+    "craft": "brewery",
+    "name": "Helmsley Brewing Company"
+  }
+},
+{
+  "type": "node",
+  "id": 4540113086,
+  "lat": 54.1347844,
+  "lon": -0.7971571,
+  "tags": {
+    "addr:city": "Malton",
+    "addr:housenumber": "10A",
+    "addr:postcode": "YO17 7AB",
+    "addr:street": "Yorkersgate",
+    "craft": "brewery",
+    "name": "Brass Castle Brewery",
+    "website": "https://brasscastle.co.uk/"
+  }
+},
+{
+  "type": "node",
+  "id": 4540113192,
+  "lat": 54.1346819,
+  "lon": -0.7970612,
+  "tags": {
+    "addr:city": "Malton",
+    "addr:housenumber": "10",
+    "addr:postcode": "YO17 7AB",
+    "addr:street": "Yorkersgate",
+    "amenity": "pub",
+    "description:floor": "Rough wood",
+    "microbrewery": "yes",
+    "name": "Brass Castle Brewery Taphouse",
+    "note": "Cake and crisps, so not really \"food\". Also being vegan would limit what they could offer.",
+    "opening_hours": "Open until 9 on Sunday.",
+    "real_ale": "A couple of theirs, at least.",
+    "vegan": "yes",
+    "vegetarian": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4783434035,
+  "lat": 54.0201593,
+  "lon": -1.1565682,
+  "tags": {
+    "craft": "brewery",
+    "name": "Treboom Brewery",
+    "source": "Sign on entrance to industrial estate"
+  }
+},
+{
+  "type": "node",
+  "id": 6180806128,
+  "lat": 53.8948940,
+  "lon": -1.1066498,
+  "tags": {
+    "addr:city": "Acaster Malbis",
+    "addr:housename": "Manor Farm Buildings",
+    "addr:postcode": "YO23 2UJ",
+    "craft": "brewery",
+    "name": "Ainsty Ales"
+  }
+},
+{
+  "type": "node",
+  "id": 6498872574,
+  "lat": 53.8831651,
+  "lon": -1.2630253,
+  "tags": {
+    "addr:city": "Tadcaster",
+    "addr:postcode": "LS24 9SB",
+    "addr:street": "High Street",
+    "craft": "brewery",
+    "name": "Samuel Smith's Brewery",
+    "product": "beer",
+    "website": "https://www.samuelsmithsbrewery.co.uk"
+  }
+},
+{
+  "type": "node",
+  "id": 6606842441,
+  "lat": 53.6914942,
+  "lon": -1.3129708,
+  "tags": {
+    "addr:housenumber": "25",
+    "addr:postcode": "WF8 1AL",
+    "addr:street": "Beastfair",
+    "addr:town": "Pontefract",
+    "amenity": "pub",
+    "fhrs:id": "1138731",
+    "microbrewery": "yes",
+    "name": "The Old Grocer"
+  }
+},
+{
+  "type": "way",
+  "id": 200503629,
+  "nodes": [
+    2104803244,
+    2104803243,
+    2104803238,
+    2104803239,
+    2104803240,
+    2104803234,
+    2104803235,
+    2104803244
+  ],
+  "tags": {
+    "addr:city": "Leeds",
+    "addr:housenumber": "12",
+    "addr:postcode": "LS26 9JE",
+    "addr:street": "Main Street",
+    "amenity": "pub",
+    "building": "yes",
+    "fhrs:id": "918646",
+    "internet_access": "no",
+    "internet_access:fee": "no",
+    "microbrewery": "yes",
+    "name": "The Commercial",
+    "operator": "Youngs",
+    "phone": "+44 1977 554588",
+    "smoking": "isolated",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 221456768,
+  "nodes": [
+    5655664316,
+    732725574,
+    5655664315,
+    732725585,
+    5655664317,
+    732725586,
+    5655664316
+  ],
+  "tags": {
+    "addr:city": "York",
+    "addr:housename": "Unit 6 Enterprise Complex",
+    "addr:postcode": "YO1 9TT",
+    "addr:street": "Walmgate",
+    "building": "yes",
+    "craft": "brewery",
+    "fhrs:id": "905307",
+    "name": "Brew York",
+    "source": "OS StreetView",
+    "source:addr": "FHRS Open Data",
+    "wheelchair": "no",
+    "wheelchair:description": "Step at entrance"
+  }
+},
+{
+  "type": "way",
+  "id": 394866044,
+  "nodes": [
+    3977689869,
+    3977689870,
+    3977689871,
+    3977689872,
+    3977689869
+  ],
+  "tags": {
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Roosters"
+  }
+},
+{
+  "type": "way",
+  "id": 427635112,
+  "nodes": [
+    4268386690,
+    4268386694,
+    4090196695,
+    4254326841,
+    4254326837,
+    4268386690
+  ],
+  "tags": {
+    "addr:city": "Leeds",
+    "addr:housename": "Sheepscar House",
+    "addr:housenumber": "15",
+    "addr:postcode": "LS7 1AD",
+    "addr:street": "Sheepscar Street South",
+    "addr:unit": "11",
+    "building": "industrial",
+    "craft": "brewery",
+    "name": "Nomadic Beers"
+  }
+},
+{
+  "type": "way",
+  "id": 443374799,
+  "nodes": [
+    4409599081,
+    4409599082,
+    4409599083,
+    4409599084,
+    4409599081
+  ],
+  "tags": {
+    "addr:city": "Leeds",
+    "addr:housename": "Unit 24, Penraevon Industrial Estate",
+    "addr:postcode": "LS7 2AP",
+    "addr:street": "Jackson Road",
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Ridgeside Brewery",
+    "website": "https://ridgesidebrewery.co.uk/"
+  }
+},
+{
+  "type": "node",
+  "id": 4090196695,
+  "lat": 53.8064927,
+  "lon": -1.5328994
+},
+{
+  "type": "node",
+  "id": 4254326837,
+  "lat": 53.8062496,
+  "lon": -1.5328972
+},
+{
+  "type": "node",
+  "id": 4254326841,
+  "lat": 53.8063722,
+  "lon": -1.5328983
+},
+{
+  "type": "node",
+  "id": 4268386690,
+  "lat": 53.8062490,
+  "lon": -1.5330897
+},
+{
+  "type": "node",
+  "id": 4268386694,
+  "lat": 53.8064922,
+  "lon": -1.5330919
+},
+{
+  "type": "node",
+  "id": 4409599081,
+  "lat": 53.8120494,
+  "lon": -1.5425722
+},
+{
+  "type": "node",
+  "id": 4409599082,
+  "lat": 53.8121159,
+  "lon": -1.5423187
+},
+{
+  "type": "node",
+  "id": 4409599083,
+  "lat": 53.8120340,
+  "lon": -1.5422556
+},
+{
+  "type": "node",
+  "id": 4409599084,
+  "lat": 53.8119674,
+  "lon": -1.5425091
+},
+{
+  "type": "node",
+  "id": 2104803234,
+  "lat": 53.7405906,
+  "lon": -1.3963427
+},
+{
+  "type": "node",
+  "id": 2104803235,
+  "lat": 53.7406047,
+  "lon": -1.3961896
+},
+{
+  "type": "node",
+  "id": 2104803238,
+  "lat": 53.7406153,
+  "lon": -1.3964801
+},
+{
+  "type": "node",
+  "id": 2104803239,
+  "lat": 53.7406248,
+  "lon": -1.3963759
+},
+{
+  "type": "node",
+  "id": 2104803240,
+  "lat": 53.7405885,
+  "lon": -1.3963664
+},
+{
+  "type": "node",
+  "id": 2104803243,
+  "lat": 53.7406843,
+  "lon": -1.3964981
+},
+{
+  "type": "node",
+  "id": 2104803244,
+  "lat": 53.7407100,
+  "lon": -1.3962172
+},
+{
+  "type": "node",
+  "id": 3977689869,
+  "lat": 54.0017328,
+  "lon": -1.4462737
+},
+{
+  "type": "node",
+  "id": 3977689870,
+  "lat": 54.0016333,
+  "lon": -1.4460832
+},
+{
+  "type": "node",
+  "id": 3977689871,
+  "lat": 54.0019469,
+  "lon": -1.4456089
+},
+{
+  "type": "node",
+  "id": 3977689872,
+  "lat": 54.0020465,
+  "lon": -1.4457994
+},
+{
+  "type": "node",
+  "id": 732725574,
+  "lat": 53.9578434,
+  "lon": -1.0764374
+},
+{
+  "type": "node",
+  "id": 732725585,
+  "lat": 53.9575700,
+  "lon": -1.0763958
+},
+{
+  "type": "node",
+  "id": 732725586,
+  "lat": 53.9575942,
+  "lon": -1.0764923
+},
+{
+  "type": "node",
+  "id": 5655664315,
+  "lat": 53.9577880,
+  "lon": -1.0762288
+},
+{
+  "type": "node",
+  "id": 5655664316,
+  "lat": 53.9576212,
+  "lon": -1.0765997
+},
+{
+  "type": "node",
+  "id": 5655664317,
+  "lat": 53.9575812,
+  "lon": -1.0764380
+}
+
+  ]
+}

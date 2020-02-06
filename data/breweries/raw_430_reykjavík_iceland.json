@@ -1,0 +1,133 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T15:01:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 448541793,
+  "lat": 64.1457425,
+  "lon": -21.9307468,
+  "tags": {
+    "addr:city": "Reykjavík",
+    "addr:postcode": "101",
+    "addr:street": "Vegamótastígur",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "microbrewery": "yes",
+    "name": "Bastard",
+    "smoking": "isolated",
+    "website": "https://bastard.is/"
+  }
+},
+{
+  "type": "node",
+  "id": 3741559486,
+  "lat": 64.1455376,
+  "lon": -21.9294829,
+  "tags": {
+    "addr:city": "Reykjavík",
+    "addr:housenumber": "40",
+    "addr:postcode": "101",
+    "addr:street": "Klapparstígur",
+    "amenity": "pub",
+    "entrance": "yes",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "microbrewery": "yes",
+    "name": "Kaldi Bar",
+    "opening_hours": "Mo-Th,Su 12:00-01:00; Fr-Sa 12:00-03:00",
+    "outdoor_seating": "yes",
+    "phone": "+354 581 2200",
+    "smoking": "separated",
+    "website": "http://www.kaldibar.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 106469350,
+  "nodes": [
+    1224799959,
+    1224799929,
+    1224799977,
+    1224799923,
+    1224799976,
+    1224799926,
+    1224799990,
+    1224799953,
+    1224799933,
+    1224799959
+  ],
+  "tags": {
+    "addr:city": "Reykjavík",
+    "addr:housenumber": "5",
+    "addr:postcode": "101",
+    "addr:street": "Eyjarslóð",
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Ægisgarður",
+    "phone": "+354 552 7872",
+    "website": "http://www.aegisgardur.is/"
+  }
+},
+{
+  "type": "node",
+  "id": 1224799923,
+  "lat": 64.1581919,
+  "lon": -21.9398584
+},
+{
+  "type": "node",
+  "id": 1224799926,
+  "lat": 64.1582502,
+  "lon": -21.9401836
+},
+{
+  "type": "node",
+  "id": 1224799929,
+  "lat": 64.1580759,
+  "lon": -21.9394834
+},
+{
+  "type": "node",
+  "id": 1224799933,
+  "lat": 64.1580812,
+  "lon": -21.9402256
+},
+{
+  "type": "node",
+  "id": 1224799953,
+  "lat": 64.1581152,
+  "lon": -21.9401129
+},
+{
+  "type": "node",
+  "id": 1224799959,
+  "lat": 64.1579266,
+  "lon": -21.9399782
+},
+{
+  "type": "node",
+  "id": 1224799976,
+  "lat": 64.1582975,
+  "lon": -21.9400227
+},
+{
+  "type": "node",
+  "id": 1224799977,
+  "lat": 64.1582308,
+  "lon": -21.9397294
+},
+{
+  "type": "node",
+  "id": 1224799990,
+  "lat": 64.1582204,
+  "lon": -21.9402847
+}
+
+  ]
+}

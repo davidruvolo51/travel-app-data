@@ -1,0 +1,959 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T08:11:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1345786323,
+  "lat": 43.4793693,
+  "lon": 5.3972283,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "microbrewery": "yes",
+    "name": "Z5",
+    "opening_hours": "Mo-Su 09:00-23:00"
+  }
+},
+{
+  "type": "node",
+  "id": 2308816406,
+  "lat": 43.2935627,
+  "lon": 5.3877794,
+  "tags": {
+    "addr:city": "Marseille",
+    "addr:housenumber": "16",
+    "addr:postcode": "13006",
+    "addr:street": "Rue Saint-Pierre",
+    "amenity": "pub",
+    "contact:email": "bieredelaplaine@gmail.com",
+    "microbrewery": "yes",
+    "name": "La Bière de la Plaine"
+  }
+},
+{
+  "type": "node",
+  "id": 3535313744,
+  "lat": 43.3038744,
+  "lon": 5.3929789,
+  "tags": {
+    "addr:city": "Marseille",
+    "addr:postcode": "13001",
+    "addr:street": "Rue Espérandieu",
+    "craft": "brewery",
+    "name": "Comptoir Longchamp"
+  }
+},
+{
+  "type": "node",
+  "id": 3963879163,
+  "lat": 43.3121362,
+  "lon": 5.3796348,
+  "tags": {
+    "addr:city": "Marseille",
+    "addr:housenumber": "36",
+    "addr:postcode": "13003",
+    "addr:street": "Rue Loubon",
+    "craft": "brewery",
+    "microbrewery": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4401243512,
+  "lat": 43.3061005,
+  "lon": 5.3931477,
+  "tags": {
+    "amenity": "restaurant",
+    "craft": "brewery",
+    "name": "L'Actuel"
+  }
+},
+{
+  "type": "node",
+  "id": 4405959280,
+  "lat": 43.2992062,
+  "lon": 5.3846602,
+  "tags": {
+    "amenity": "bar",
+    "craft": "brewery",
+    "name": "Le Gambetta"
+  }
+},
+{
+  "type": "node",
+  "id": 4547008420,
+  "lat": 43.3625510,
+  "lon": 5.3206538,
+  "tags": {
+    "craft": "brewery"
+  }
+},
+{
+  "type": "node",
+  "id": 4591323692,
+  "lat": 43.3608886,
+  "lon": 5.3133032,
+  "tags": {
+    "craft": "brewery",
+    "name": "Le Français"
+  }
+},
+{
+  "type": "node",
+  "id": 4591854684,
+  "lat": 43.3610364,
+  "lon": 5.3105652,
+  "tags": {
+    "craft": "brewery",
+    "name": "Au Bord de l'Eau",
+    "outdoor_seating": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4604999332,
+  "lat": 43.4157543,
+  "lon": 5.2145169,
+  "tags": {
+    "addr:city": "Marignane",
+    "addr:postcode": "13700",
+    "addr:street": "Avenue Jean Jaurès",
+    "craft": "brewery",
+    "name": "Au petit Bonheur",
+    "source": "survey 11/01/2017"
+  }
+},
+{
+  "type": "node",
+  "id": 5810436822,
+  "lat": 43.3029801,
+  "lon": 5.3952812,
+  "tags": {
+    "addr:city": "Marseille",
+    "addr:housenumber": "32",
+    "addr:postcode": "13004",
+    "addr:street": "Boulevard Philippon",
+    "amenity": "pub",
+    "brewery": "yes",
+    "drink:beer": "yes",
+    "email": "contact@la-cane-biere.fr",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "microbrewery": "yes",
+    "name": "La Cane Bière",
+    "opening_hours": "Mo-Sa 09:00-22:00",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:coins": "yes",
+    "payment:credit_cards": "yes",
+    "smoking": "outside",
+    "website": "http://la-cane-biere.fr/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6343044522,
+  "lat": 43.4305486,
+  "lon": 5.0490793,
+  "tags": {
+    "addr:city": "Martigues",
+    "addr:postcode": "13500",
+    "addr:street": "Zac des Plaines de Figuerolles",
+    "craft": "brewery",
+    "name": "Au Bureau",
+    "opening_hours": "Mo-Su 11:00-00:30",
+    "phone": "+33 4 42 42 00 58"
+  }
+},
+{
+  "type": "node",
+  "id": 6501882468,
+  "lat": 43.5285025,
+  "lon": 5.4513084,
+  "tags": {
+    "craft": "brewery",
+    "name": "La Mado"
+  }
+},
+{
+  "type": "node",
+  "id": 6904731677,
+  "lat": 43.5295124,
+  "lon": 5.4443250,
+  "tags": {
+    "craft": "brewery",
+    "name": "Brasserie Le Thermal"
+  }
+},
+{
+  "type": "node",
+  "id": 7160896686,
+  "lat": 43.2869034,
+  "lon": 5.5934383,
+  "tags": {
+    "addr:city": "Aubagne",
+    "addr:housenumber": "6",
+    "addr:postcode": "13400",
+    "addr:street": "Avenue des Caniers",
+    "craft": "brewery",
+    "description": "Brasserie Artisanale - Fabrication de bières - Vente sur place - Bar - Visites.",
+    "email": "contact@lesdeuxfontlabiere.fr",
+    "facebook": "https://www.facebook.com/lesdeuxfontlabiere",
+    "name": "Les deux font la bière",
+    "opening_hours": "We-Sa 10:00-20:00",
+    "phone": "+33 4 13 12 49 43",
+    "product": "beer",
+    "website": "https://lesdeuxfontlabiere.fr/"
+  }
+},
+{
+  "type": "way",
+  "id": 92755903,
+  "nodes": [
+    1075616919,
+    1075657959,
+    1075677366,
+    1075623747,
+    1075589249,
+    1075656165,
+    1075616208,
+    1075626159,
+    1075639992,
+    1075633048,
+    1075616919
+  ],
+  "tags": {
+    "building": "yes",
+    "craft": "brewery",
+    "name": "La Route des Bières",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+  }
+},
+{
+  "type": "way",
+  "id": 101244201,
+  "nodes": [
+    1168381267,
+    1168454878,
+    1168211451,
+    1168527382,
+    1168264511,
+    1168181741,
+    1168525120,
+    1168513257,
+    1168431141,
+    1168492291,
+    1168611904,
+    1168426760,
+    1168225736,
+    1168503144,
+    1168381267
+  ],
+  "tags": {
+    "amenity": "restaurant",
+    "brand": "Courtepaille",
+    "brand:website": "http://www.courtepaille.com",
+    "brand:wikidata": "Q3116688",
+    "brand:wikipedia": "fr:Grill Courtepaille",
+    "building": "office",
+    "craft": "brewery",
+    "cuisine": "french",
+    "microbrewery": "yes",
+    "name": "Courtepaille",
+    "opening_hours": "11:00-23:00",
+    "smoking": "no",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 136064473,
+  "nodes": [
+    1493150091,
+    1493150082,
+    1166783330,
+    1166538516,
+    1166699372,
+    1166760777,
+    1166482101,
+    1166579145,
+    1166746648,
+    1166862849,
+    1166850898,
+    1166473924,
+    1166536603,
+    1166470380,
+    1493150092,
+    1493150094,
+    1493150091
+  ],
+  "tags": {
+    "amenity": "restaurant",
+    "craft": "brewery",
+    "cuisine": "french",
+    "indoor": "yes",
+    "microbrewery": "yes",
+    "name": "Bistrot Romain",
+    "opening_hours": "Mo-Su 11:00-23:00",
+    "room": "restaurant"
+  }
+},
+{
+  "type": "way",
+  "id": 136064475,
+  "nodes": [
+    1493149886,
+    1493149893,
+    1493149892,
+    1493149889,
+    1493149895,
+    1493149896,
+    1493149887,
+    1493149885,
+    1493149881,
+    1493149882,
+    1166558825,
+    1166694757,
+    1166463755,
+    1166736145,
+    1166839461,
+    1166666041,
+    1166524819,
+    1166676010,
+    1166485952,
+    1166825505,
+    1166782591,
+    1166703233,
+    1166660672,
+    1166710839,
+    1493149886
+  ],
+  "tags": {
+    "amenity": "restaurant",
+    "craft": "brewery",
+    "cuisine": "french",
+    "indoor": "yes",
+    "microbrewery": "yes",
+    "name": "Cafétéria Casino",
+    "opening_hours": "Mo-Su 11:00-23:00",
+    "operator": "Groupe Casino",
+    "room": "restaurant"
+  }
+},
+{
+  "type": "way",
+  "id": 136064476,
+  "nodes": [
+    1493150125,
+    1493150116,
+    1493150119,
+    1493150127,
+    1493150125
+  ],
+  "tags": {
+    "amenity": "pub",
+    "craft": "brewery",
+    "indoor": "yes",
+    "microbrewery": "yes",
+    "name": "Mezzo Mezzo",
+    "opening_hours": "Tu-Sa 09:30-20:00, Su 10:00-20:00",
+    "room": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 154604606,
+  "nodes": [
+    1670905548,
+    1670905228,
+    1670904772,
+    1670902593,
+    1670902262,
+    1670902886,
+    1670905262,
+    1670905384,
+    1670905548
+  ],
+  "tags": {
+    "amenity": "pub",
+    "building": "yes",
+    "craft": "brewery",
+    "microbrewery": "yes",
+    "name": "Le Crillon",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012"
+  }
+},
+{
+  "type": "way",
+  "id": 157698269,
+  "nodes": [
+    1699532565,
+    1699532376,
+    1699532296,
+    1699532581,
+    1699532876,
+    1699532542,
+    1699532565
+  ],
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "contact:housenumber": "2",
+    "contact:street": "Montée du Commandant de Robien",
+    "microbrewery": "yes",
+    "name": "Les 3 Brasseurs",
+    "phone": "+33 4 491310479",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+    "website": "http://www.les3brasseurs.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 221537284,
+  "nodes": [
+    2305662384,
+    1020632053,
+    2305662383,
+    2305662385,
+    2305662384
+  ],
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "craft": "brewery",
+    "cuisine": "pizza;lasagna",
+    "microbrewery": "yes",
+    "name": "Parma Pizza",
+    "opening_hours": "Mo-Sa 11:00-14:00,18:00-22:30; Su 18:00-22:30",
+    "outdoor_seating": "yes",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1670902262,
+  "lat": 43.2798240,
+  "lon": 5.4182120
+},
+{
+  "type": "node",
+  "id": 1670902593,
+  "lat": 43.2798340,
+  "lon": 5.4182070
+},
+{
+  "type": "node",
+  "id": 1670902886,
+  "lat": 43.2798650,
+  "lon": 5.4183440
+},
+{
+  "type": "node",
+  "id": 1670904772,
+  "lat": 43.2799390,
+  "lon": 5.4181450
+},
+{
+  "type": "node",
+  "id": 1670905228,
+  "lat": 43.2799710,
+  "lon": 5.4181260
+},
+{
+  "type": "node",
+  "id": 1670905262,
+  "lat": 43.2799760,
+  "lon": 5.4182800
+},
+{
+  "type": "node",
+  "id": 1670905384,
+  "lat": 43.2799990,
+  "lon": 5.4182680
+},
+{
+  "type": "node",
+  "id": 1670905548,
+  "lat": 43.2800130,
+  "lon": 5.4182590
+},
+{
+  "type": "node",
+  "id": 1166463755,
+  "lat": 43.4139802,
+  "lon": 5.3624444
+},
+{
+  "type": "node",
+  "id": 1166485952,
+  "lat": 43.4139143,
+  "lon": 5.3619234
+},
+{
+  "type": "node",
+  "id": 1166524819,
+  "lat": 43.4138884,
+  "lon": 5.3620153
+},
+{
+  "type": "node",
+  "id": 1166558825,
+  "lat": 43.4140437,
+  "lon": 5.3624120
+},
+{
+  "type": "node",
+  "id": 1166660672,
+  "lat": 43.4141278,
+  "lon": 5.3617703
+},
+{
+  "type": "node",
+  "id": 1166666041,
+  "lat": 43.4138884,
+  "lon": 5.3620631
+},
+{
+  "type": "node",
+  "id": 1166676010,
+  "lat": 43.4138993,
+  "lon": 5.3619623
+},
+{
+  "type": "node",
+  "id": 1166694757,
+  "lat": 43.4140167,
+  "lon": 5.3624277
+},
+{
+  "type": "node",
+  "id": 1166703233,
+  "lat": 43.4139562,
+  "lon": 5.3618663
+},
+{
+  "type": "node",
+  "id": 1166710839,
+  "lat": 43.4141206,
+  "lon": 5.3617307
+},
+{
+  "type": "node",
+  "id": 1166736145,
+  "lat": 43.4138849,
+  "lon": 5.3621105
+},
+{
+  "type": "node",
+  "id": 1166782591,
+  "lat": 43.4139597,
+  "lon": 5.3618818
+},
+{
+  "type": "node",
+  "id": 1166825505,
+  "lat": 43.4139405,
+  "lon": 5.3618950
+},
+{
+  "type": "node",
+  "id": 1166839461,
+  "lat": 43.4138955,
+  "lon": 5.3621008
+},
+{
+  "type": "node",
+  "id": 1493149881,
+  "lat": 43.4141225,
+  "lon": 5.3623345
+},
+{
+  "type": "node",
+  "id": 1493149882,
+  "lat": 43.4141347,
+  "lon": 5.3623651
+},
+{
+  "type": "node",
+  "id": 1493149885,
+  "lat": 43.4141803,
+  "lon": 5.3622978
+},
+{
+  "type": "node",
+  "id": 1493149886,
+  "lat": 43.4142049,
+  "lon": 5.3616875
+},
+{
+  "type": "node",
+  "id": 1493149887,
+  "lat": 43.4141903,
+  "lon": 5.3623268
+},
+{
+  "type": "node",
+  "id": 1493149889,
+  "lat": 43.4142114,
+  "lon": 5.3620027
+},
+{
+  "type": "node",
+  "id": 1493149892,
+  "lat": 43.4142402,
+  "lon": 5.3619125
+},
+{
+  "type": "node",
+  "id": 1493149893,
+  "lat": 43.4142669,
+  "lon": 5.3618987
+},
+{
+  "type": "node",
+  "id": 1493149895,
+  "lat": 43.4142780,
+  "lon": 5.3622427
+},
+{
+  "type": "node",
+  "id": 1493149896,
+  "lat": 43.4142680,
+  "lon": 5.3622840
+},
+{
+  "type": "node",
+  "id": 1166470380,
+  "lat": 43.4159119,
+  "lon": 5.3611851
+},
+{
+  "type": "node",
+  "id": 1166473924,
+  "lat": 43.4158672,
+  "lon": 5.3610440
+},
+{
+  "type": "node",
+  "id": 1166482101,
+  "lat": 43.4157483,
+  "lon": 5.3609882
+},
+{
+  "type": "node",
+  "id": 1166536603,
+  "lat": 43.4158715,
+  "lon": 5.3610475
+},
+{
+  "type": "node",
+  "id": 1166538516,
+  "lat": 43.4156702,
+  "lon": 5.3609880
+},
+{
+  "type": "node",
+  "id": 1166579145,
+  "lat": 43.4157733,
+  "lon": 5.3609940
+},
+{
+  "type": "node",
+  "id": 1166699372,
+  "lat": 43.4156928,
+  "lon": 5.3609853
+},
+{
+  "type": "node",
+  "id": 1166746648,
+  "lat": 43.4157953,
+  "lon": 5.3610015
+},
+{
+  "type": "node",
+  "id": 1166760777,
+  "lat": 43.4157181,
+  "lon": 5.3609849
+},
+{
+  "type": "node",
+  "id": 1166783330,
+  "lat": 43.4156569,
+  "lon": 5.3609889
+},
+{
+  "type": "node",
+  "id": 1166850898,
+  "lat": 43.4158472,
+  "lon": 5.3610291
+},
+{
+  "type": "node",
+  "id": 1166862849,
+  "lat": 43.4158217,
+  "lon": 5.3610138
+},
+{
+  "type": "node",
+  "id": 1493150082,
+  "lat": 43.4157565,
+  "lon": 5.3613172
+},
+{
+  "type": "node",
+  "id": 1493150091,
+  "lat": 43.4158245,
+  "lon": 5.3612847
+},
+{
+  "type": "node",
+  "id": 1493150092,
+  "lat": 43.4158744,
+  "lon": 5.3612065
+},
+{
+  "type": "node",
+  "id": 1493150094,
+  "lat": 43.4158872,
+  "lon": 5.3612490
+},
+{
+  "type": "node",
+  "id": 1493150116,
+  "lat": 43.4161732,
+  "lon": 5.3611934
+},
+{
+  "type": "node",
+  "id": 1493150119,
+  "lat": 43.4162009,
+  "lon": 5.3612908
+},
+{
+  "type": "node",
+  "id": 1493150125,
+  "lat": 43.4162509,
+  "lon": 5.3611517
+},
+{
+  "type": "node",
+  "id": 1493150127,
+  "lat": 43.4162785,
+  "lon": 5.3612490
+},
+{
+  "type": "node",
+  "id": 1168181741,
+  "lat": 43.4308266,
+  "lon": 5.2654987
+},
+{
+  "type": "node",
+  "id": 1168211451,
+  "lat": 43.4308602,
+  "lon": 5.2654297
+},
+{
+  "type": "node",
+  "id": 1168225736,
+  "lat": 43.4309377,
+  "lon": 5.2654920
+},
+{
+  "type": "node",
+  "id": 1168264511,
+  "lat": 43.4308318,
+  "lon": 5.2654666
+},
+{
+  "type": "node",
+  "id": 1168381267,
+  "lat": 43.4309065,
+  "lon": 5.2654308
+},
+{
+  "type": "node",
+  "id": 1168426760,
+  "lat": 43.4309322,
+  "lon": 5.2655343
+},
+{
+  "type": "node",
+  "id": 1168431141,
+  "lat": 43.4308646,
+  "lon": 5.2655737
+},
+{
+  "type": "node",
+  "id": 1168454878,
+  "lat": 43.4308792,
+  "lon": 5.2654231
+},
+{
+  "type": "node",
+  "id": 1168492291,
+  "lat": 43.4308895,
+  "lon": 5.2655772
+},
+{
+  "type": "node",
+  "id": 1168503144,
+  "lat": 43.4309259,
+  "lon": 5.2654532
+},
+{
+  "type": "node",
+  "id": 1168513257,
+  "lat": 43.4308408,
+  "lon": 5.2655505
+},
+{
+  "type": "node",
+  "id": 1168525120,
+  "lat": 43.4308308,
+  "lon": 5.2655295
+},
+{
+  "type": "node",
+  "id": 1168527382,
+  "lat": 43.4308435,
+  "lon": 5.2654434
+},
+{
+  "type": "node",
+  "id": 1168611904,
+  "lat": 43.4309142,
+  "lon": 5.2655644
+},
+{
+  "type": "node",
+  "id": 1075589249,
+  "lat": 43.4276760,
+  "lon": 5.3887990
+},
+{
+  "type": "node",
+  "id": 1075616208,
+  "lat": 43.4277810,
+  "lon": 5.3888380
+},
+{
+  "type": "node",
+  "id": 1075616919,
+  "lat": 43.4281230,
+  "lon": 5.3884490
+},
+{
+  "type": "node",
+  "id": 1075623747,
+  "lat": 43.4276990,
+  "lon": 5.3886870
+},
+{
+  "type": "node",
+  "id": 1075626159,
+  "lat": 43.4278560,
+  "lon": 5.3888660
+},
+{
+  "type": "node",
+  "id": 1075633048,
+  "lat": 43.4280260,
+  "lon": 5.3889300
+},
+{
+  "type": "node",
+  "id": 1075639992,
+  "lat": 43.4278960,
+  "lon": 5.3888810
+},
+{
+  "type": "node",
+  "id": 1075656165,
+  "lat": 43.4277540,
+  "lon": 5.3888280
+},
+{
+  "type": "node",
+  "id": 1075657959,
+  "lat": 43.4277750,
+  "lon": 5.3883170
+},
+{
+  "type": "node",
+  "id": 1075677366,
+  "lat": 43.4277360,
+  "lon": 5.3885080
+},
+{
+  "type": "node",
+  "id": 1020632053,
+  "lat": 43.5226342,
+  "lon": 5.4508232
+},
+{
+  "type": "node",
+  "id": 2305662383,
+  "lat": 43.5226545,
+  "lon": 5.4508452
+},
+{
+  "type": "node",
+  "id": 2305662384,
+  "lat": 43.5226614,
+  "lon": 5.4507724
+},
+{
+  "type": "node",
+  "id": 2305662385,
+  "lat": 43.5226827,
+  "lon": 5.4507956
+},
+{
+  "type": "node",
+  "id": 1699532296,
+  "lat": 43.2893746,
+  "lon": 5.4819557
+},
+{
+  "type": "node",
+  "id": 1699532376,
+  "lat": 43.2894113,
+  "lon": 5.4817827
+},
+{
+  "type": "node",
+  "id": 1699532542,
+  "lat": 43.2895536,
+  "lon": 5.4818539
+},
+{
+  "type": "node",
+  "id": 1699532565,
+  "lat": 43.2895542,
+  "lon": 5.4818409
+},
+{
+  "type": "node",
+  "id": 1699532581,
+  "lat": 43.2895865,
+  "lon": 5.4820412
+},
+{
+  "type": "node",
+  "id": 1699532876,
+  "lat": 43.2896208,
+  "lon": 5.4818806
+}
+
+  ]
+}

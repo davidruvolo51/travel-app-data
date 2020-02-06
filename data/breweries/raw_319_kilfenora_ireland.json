@@ -1,0 +1,83 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T12:12:03Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 631547323,
+  "lat": 53.2598389,
+  "lon": -9.0763449,
+  "tags": {
+    "addr:street": "Upper Salthill Road",
+    "amenity": "pub",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "microbrewery": "yes",
+    "name": "Oslo",
+    "real_ale": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 284620823,
+  "nodes": [
+    2883431195,
+    2883431196,
+    2883431197,
+    2883431198,
+    2883431194,
+    2883431193,
+    2883431195
+  ],
+  "tags": {
+    "amenity": "pub",
+    "building": "yes",
+    "microbrewery": "yes",
+    "name": "Roadside Tavern",
+    "website": "http://www.roadsidetavern.ie/"
+  }
+},
+{
+  "type": "node",
+  "id": 2883431193,
+  "lat": 53.0283944,
+  "lon": -9.2907093
+},
+{
+  "type": "node",
+  "id": 2883431194,
+  "lat": 53.0284545,
+  "lon": -9.2904028
+},
+{
+  "type": "node",
+  "id": 2883431195,
+  "lat": 53.0284827,
+  "lon": -9.2907572
+},
+{
+  "type": "node",
+  "id": 2883431196,
+  "lat": 53.0285313,
+  "lon": -9.2905099
+},
+{
+  "type": "node",
+  "id": 2883431197,
+  "lat": 53.0285530,
+  "lon": -9.2905217
+},
+{
+  "type": "node",
+  "id": 2883431198,
+  "lat": 53.0285646,
+  "lon": -9.2904626
+}
+
+  ]
+}

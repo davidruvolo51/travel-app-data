@@ -1,0 +1,136 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T12:45:03Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 6147370912,
+  "lat": 46.4820064,
+  "lon": 30.7284272,
+  "tags": {
+    "amenity": "pub",
+    "craft": "brewery",
+    "name": "Beer club"
+  }
+},
+{
+  "type": "node",
+  "id": 6600848409,
+  "lat": 46.5674938,
+  "lon": 30.7766709,
+  "tags": {
+    "addr:housenumber": "39а",
+    "addr:street": "Добровольського проспект",
+    "craft": "brewery",
+    "name": "Одеська приватна пивоварня",
+    "name:ru": "Одесская частная пивоварня",
+    "phone": "+380487196768",
+    "website": "http://pivoodessa.od.ua/"
+  }
+},
+{
+  "type": "way",
+  "id": 762426668,
+  "nodes": [
+    5696679571,
+    5696679875,
+    5696679876,
+    7123975623,
+    5696679879,
+    5696679880,
+    5696679578,
+    6160010225,
+    5696679577,
+    5696679576,
+    7123975622,
+    5696679575,
+    5696679571
+  ],
+  "tags": {
+    "amenity": "restaurant",
+    "microbrewery": "yes",
+    "name": "Bohemian",
+    "name:en": "Bohemian",
+    "outdoor_seating": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5696679571,
+  "lat": 46.3633928,
+  "lon": 30.6964211
+},
+{
+  "type": "node",
+  "id": 5696679578,
+  "lat": 46.3627927,
+  "lon": 30.6965330
+},
+{
+  "type": "node",
+  "id": 5696679875,
+  "lat": 46.3632785,
+  "lon": 30.6964656
+},
+{
+  "type": "node",
+  "id": 5696679876,
+  "lat": 46.3632028,
+  "lon": 30.6965006
+},
+{
+  "type": "node",
+  "id": 5696679879,
+  "lat": 46.3630975,
+  "lon": 30.6965177
+},
+{
+  "type": "node",
+  "id": 5696679880,
+  "lat": 46.3629874,
+  "lon": 30.6965244
+},
+{
+  "type": "node",
+  "id": 6160010225,
+  "lat": 46.3628423,
+  "lon": 30.6969264
+},
+{
+  "type": "node",
+  "id": 7123975623,
+  "lat": 46.3631591,
+  "lon": 30.6965197
+},
+{
+  "type": "node",
+  "id": 5696679577,
+  "lat": 46.3629075,
+  "lon": 30.6973458
+},
+{
+  "type": "node",
+  "id": 5696679575,
+  "lat": 46.3637615,
+  "lon": 30.6973729
+},
+{
+  "type": "node",
+  "id": 5696679576,
+  "lat": 46.3635650,
+  "lon": 30.6974297
+},
+{
+  "type": "node",
+  "id": 7123975622,
+  "lat": 46.3637370,
+  "lon": 30.6974177
+}
+
+  ]
+}

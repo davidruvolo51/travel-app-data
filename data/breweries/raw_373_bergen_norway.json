@@ -1,0 +1,110 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T13:36:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1847131761,
+  "lat": 60.3866158,
+  "lon": 5.3486138,
+  "tags": {
+    "addr:city": "Bergen",
+    "addr:housenumber": "76",
+    "addr:postcode": "5022",
+    "addr:street": "Kalfarveien",
+    "alt_name": "Waldemars Mikrobryggeri",
+    "amenity": "restaurant",
+    "brewery": "Hansa",
+    "email": "post@kalfaretbrygghus.no",
+    "microbrewery": "yes",
+    "name": "Kalfaret Brygghus",
+    "opening_hours": "Th 16:00-24:00",
+    "operator": "Waldemars Mikrobryggeri",
+    "phone": "+47 55 31 19 50",
+    "source": "Survey",
+    "website": "https://www.kalfaretbrygghus.no/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3954624193,
+  "lat": 60.3326292,
+  "lon": 5.2970705,
+  "tags": {
+    "craft": "brewery",
+    "name": "7 Fjell Bryggeri",
+    "website": "https://www.7fjellbryggeri.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 3962005375,
+  "lat": 60.3948076,
+  "lon": 5.3151817,
+  "tags": {
+    "addr:city": "Bergen",
+    "addr:housenumber": "8",
+    "addr:postcode": "5005",
+    "addr:street": "Klosteret",
+    "alt_name": "Spisekroken",
+    "amenity": "restaurant",
+    "brewery": "Spisekroken",
+    "email": "post@spisekroken.no",
+    "microbrewery": "yes",
+    "name": "Klosteret Mat & Vinhus",
+    "opening_hours": "Mo-Sa 16:00-23:00; Su 15:00-22:00",
+    "phone": "+47 55230115",
+    "website": "http://www.spisekroken.no/"
+  }
+},
+{
+  "type": "node",
+  "id": 3986515883,
+  "lat": 60.4605143,
+  "lon": 5.4338961,
+  "tags": {
+    "craft": "brewery",
+    "name": "Lysefjorden Mikrobryggeri",
+    "website": "http://www.lysefjordenmikrobryggeri.no/"
+  }
+},
+{
+  "type": "node",
+  "id": 3992184069,
+  "lat": 60.2937087,
+  "lon": 5.3355884,
+  "tags": {
+    "craft": "brewery",
+    "name": "Baran Bryggeri",
+    "website": "http://baranbryggeri.no/"
+  }
+},
+{
+  "type": "node",
+  "id": 4020210424,
+  "lat": 60.3952866,
+  "lon": 5.3251873,
+  "tags": {
+    "addr:city": "Bergen",
+    "addr:floor": "3",
+    "addr:housenumber": "2",
+    "addr:postcode": "5014",
+    "addr:street": "Torget",
+    "amenity": "pub",
+    "email": "christine@ricks.no",
+    "microbrewery": "yes",
+    "name": "Bryggeriet bar",
+    "opening_hours": "Tu-Sa 15:00-01:30",
+    "phone": "+47 55 553155",
+    "website": "http://www.zabr.no/restauranter/bryggeriet/"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T11:17:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2238614055,
+  "lat": 54.5357544,
+  "lon": 36.3061744,
+  "tags": {
+    "amenity": "restaurant",
+    "email": "restoran-shar@mail.ru",
+    "fax": "+7 (4842) 227-858",
+    "microbrewery": "yes",
+    "name": "ShaR",
+    "opening_hours": "Mo-Th,Su 11:00-23:00; Fr 11:00-01:00; Sa 13:00-01:00",
+    "phone": "+7 (4842) 228-000",
+    "website": "http://restoran-shar.ru/"
+  }
+},
+{
+  "type": "node",
+  "id": 3199757955,
+  "lat": 54.4895349,
+  "lon": 36.2150856,
+  "tags": {
+    "amenity": "restaurant",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "microbrewery": "yes",
+    "name": "Кафе-бар «Цезарь»",
+    "opening_hours": "Th 12:00-00:00; Fr 12:00-00:00; Sa 00:00-02:00,12:00-00:00; Su 00:00-02:00,12:00-00:00; Mo 00:00-02:00",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "payment:visa_debit": "yes",
+    "phone": "+7 962 178 66 66",
+    "website": "http://caesar-kaluga.ru/"
+  }
+},
+{
+  "type": "way",
+  "id": 112940648,
+  "nodes": [
+    1282483539,
+    1282483812,
+    1316139335,
+    1316139333,
+    1282483491,
+    1282483805,
+    1282483788,
+    1282483575,
+    1282483395,
+    1282483770,
+    1282483734,
+    1282483539
+  ],
+  "tags": {
+    "addr:housenumber": "102",
+    "addr:street": "улица Суворова",
+    "amenity": "pub",
+    "building": "yes",
+    "building:levels": "1",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "internet_access:operator": "Макснет",
+    "microbrewery": "yes",
+    "name": "Паб 102"
+  }
+},
+{
+  "type": "way",
+  "id": 129407790,
+  "nodes": [
+    1427846893,
+    1427846891,
+    1342041126,
+    1342041173,
+    1427846893
+  ],
+  "tags": {
+    "addr:city": "Калуга",
+    "addr:country": "RU",
+    "addr:housenumber": "20",
+    "addr:street": "Театральная улица",
+    "amenity": "restaurant",
+    "building": "yes",
+    "building:levels": "2",
+    "microbrewery": "yes",
+    "name": "Хмельной Король",
+    "opening_hours": "Mo-Su 12:00-24:00; Fr,Sa 00:00-01:00,12:00-24:00",
+    "source:addr": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 1342041126,
+  "lat": 54.5116035,
+  "lon": 36.2566391
+},
+{
+  "type": "node",
+  "id": 1342041173,
+  "lat": 54.5116404,
+  "lon": 36.2564239
+},
+{
+  "type": "node",
+  "id": 1427846891,
+  "lat": 54.5117150,
+  "lon": 36.2566958
+},
+{
+  "type": "node",
+  "id": 1427846893,
+  "lat": 54.5117519,
+  "lon": 36.2564806
+},
+{
+  "type": "node",
+  "id": 1282483395,
+  "lat": 54.5165284,
+  "lon": 36.2548827
+},
+{
+  "type": "node",
+  "id": 1282483491,
+  "lat": 54.5164397,
+  "lon": 36.2550690
+},
+{
+  "type": "node",
+  "id": 1282483539,
+  "lat": 54.5167071,
+  "lon": 36.2553030
+},
+{
+  "type": "node",
+  "id": 1282483575,
+  "lat": 54.5164909,
+  "lon": 36.2548689
+},
+{
+  "type": "node",
+  "id": 1282483734,
+  "lat": 54.5167431,
+  "lon": 36.2550144
+},
+{
+  "type": "node",
+  "id": 1282483770,
+  "lat": 54.5165222,
+  "lon": 36.2549327
+},
+{
+  "type": "node",
+  "id": 1282483788,
+  "lat": 54.5164847,
+  "lon": 36.2549188
+},
+{
+  "type": "node",
+  "id": 1282483805,
+  "lat": 54.5164596,
+  "lon": 36.2549095
+},
+{
+  "type": "node",
+  "id": 1282483812,
+  "lat": 54.5165628,
+  "lon": 36.2552496
+},
+{
+  "type": "node",
+  "id": 1316139333,
+  "lat": 54.5165060,
+  "lon": 36.2550935
+},
+{
+  "type": "node",
+  "id": 1316139335,
+  "lat": 54.5164899,
+  "lon": 36.2552226
+}
+
+  ]
+}

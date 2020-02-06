@@ -1,0 +1,204 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-05T23:28:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 247775385,
+  "lat": 52.1359797,
+  "lon": 8.6583466,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "info@herforder-wirtschaft.de",
+    "microbrewery": "yes",
+    "name": "Herforder Wirtschaft",
+    "opening_hours": "17:30+, Su-Fr 11:30-14:00",
+    "phone": "+49 5221 62224",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 268500313,
+  "lat": 52.2094595,
+  "lon": 9.0824709,
+  "tags": {
+    "addr:city": "Rinteln",
+    "addr:country": "DE",
+    "addr:housenumber": "27",
+    "addr:postcode": "31737",
+    "addr:street": "Waldkaterallee",
+    "amenity": "restaurant",
+    "contact:website": "http://www.waldkater.com",
+    "microbrewery": "yes",
+    "name": "Waldkater",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 337368327,
+  "lat": 51.9411461,
+  "lon": 9.0916857,
+  "tags": {
+    "addr:city": "Blomberg",
+    "addr:country": "DE",
+    "addr:housenumber": "33",
+    "addr:postcode": "32825",
+    "addr:street": "Langer Steinweg",
+    "amenity": "restaurant",
+    "brewery": "Warsteiner",
+    "contact:phone": "+49 5235 96000",
+    "craft": "brewery",
+    "name": "Am Niederntor",
+    "toilets:wheelchair": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 451893384,
+  "lat": 52.1205999,
+  "lon": 9.0026938,
+  "tags": {
+    "amenity": "restaurant",
+    "contact:email": "info@schlosskrug-heidelbeck.de",
+    "contact:fax": "+49 5264 1588",
+    "contact:phone": "+49 5264 9163",
+    "contact:website": "http://schlosskrug-heidelbeck.de/",
+    "delivery": "yes",
+    "entrance": "yes",
+    "microbrewery": "yes",
+    "name": "Schlosskrug Heidelbeck",
+    "opening_hours": "We-Su 11:30+",
+    "operator": "Wolfgang Korf",
+    "outdoor_seating": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 854549573,
+  "lat": 52.0036553,
+  "lon": 9.1739131,
+  "tags": {
+    "addr:city": "Barntrup",
+    "addr:country": "DE",
+    "addr:housenumber": "2a",
+    "addr:postcode": "32683",
+    "addr:street": "Grießemer Straße",
+    "amenity": "restaurant",
+    "microbrewery": "yes",
+    "name": "Röhr Bräu",
+    "opening_hours": "Tu-Th 17:00-23:00, Fr-Sa 17:00-01:00, Su 11:30-20:00",
+    "operator": "Brauerei Röhr Bräu",
+    "website": "http://www.roehrbraeu.de/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 3600689123,
+  "lat": 51.9022681,
+  "lon": 8.3753530,
+  "tags": {
+    "addr:city": "Gütersloh",
+    "addr:country": "DE",
+    "addr:housenumber": "9",
+    "addr:postcode": "33330",
+    "addr:street": "Unter den Ulmen",
+    "amenity": "restaurant",
+    "cuisine": "german",
+    "microbrewery": "yes",
+    "name": "Gütersloher Brauhaus",
+    "opening_hours": "Mo-Sa 17:00-24:00; Su 11:30-14:30,17:00-24:00",
+    "toilets:wheelchair": "no",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "way",
+  "id": 113665151,
+  "nodes": [
+    1288685894,
+    1288685398,
+    1288686180,
+    1288685684,
+    1288686464,
+    1288685974,
+    1288685476,
+    1288686259,
+    1288685894
+  ],
+  "tags": {
+    "addr:city": "Detmold",
+    "addr:housename": "Sudhaus – Hausbrauerei, Café, Restaurant",
+    "addr:housenumber": "15a",
+    "addr:postcode": "32758",
+    "addr:street": "Am Gelskamp",
+    "amenity": "pub",
+    "building": "yes",
+    "microbrewery": "yes",
+    "name": "Sudhaus",
+    "opening_hours": "Tu-Sa 17:00+; Su 10:00+",
+    "phone": "+49 5231 306630",
+    "website": "http://sudhaus-detmold.com",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1288685398,
+  "lat": 51.9496104,
+  "lon": 8.8597641
+},
+{
+  "type": "node",
+  "id": 1288685476,
+  "lat": 51.9495472,
+  "lon": 8.8599709
+},
+{
+  "type": "node",
+  "id": 1288685684,
+  "lat": 51.9496344,
+  "lon": 8.8597948
+},
+{
+  "type": "node",
+  "id": 1288685894,
+  "lat": 51.9494550,
+  "lon": 8.8597392
+},
+{
+  "type": "node",
+  "id": 1288685974,
+  "lat": 51.9495450,
+  "lon": 8.8600059
+},
+{
+  "type": "node",
+  "id": 1288686180,
+  "lat": 51.9496088,
+  "lon": 8.8597907
+},
+{
+  "type": "node",
+  "id": 1288686259,
+  "lat": 51.9494420,
+  "lon": 8.8599541
+},
+{
+  "type": "node",
+  "id": 1288686464,
+  "lat": 51.9496209,
+  "lon": 8.8600180
+}
+
+  ]
+}

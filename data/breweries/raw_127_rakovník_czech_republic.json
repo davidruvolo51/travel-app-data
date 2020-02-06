@@ -1,0 +1,352 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T00:51:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1494138208,
+  "lat": 49.9567509,
+  "lon": 14.0720826,
+  "tags": {
+    "addr:city": "Beroun",
+    "addr:conscriptionnumber": "135",
+    "addr:country": "CZ",
+    "addr:housenumber": "135",
+    "addr:place": "Beroun-Město",
+    "addr:postcode": "26601",
+    "addr:street": "Tyršova",
+    "amenity": "restaurant",
+    "beer": "local",
+    "cuisine": "regional",
+    "facebook": "https://www.facebook.com/Rodinný-pivovar-Berounský-medvěd-1548273045399539/",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "microbrewery": "yes",
+    "name": "Berounský medvěd",
+    "opening_hours": "Mo-Su 10:00-22:00; Fr,Sa 10:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+420 728 325 809",
+    "ref:ruian:addr": "5928516",
+    "source:addr": "cuzk:ruian",
+    "website": "http://www.berounskymedved.com/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2322843619,
+  "lat": 50.1935769,
+  "lon": 13.7077227,
+  "tags": {
+    "addr:city": "Mutějovice",
+    "addr:conscriptionnumber": "2",
+    "addr:country": "CZ",
+    "addr:housenumber": "2",
+    "addr:postcode": "27007",
+    "addr:street": "Velká Strana",
+    "amenity": "restaurant",
+    "craft": "brewery",
+    "cuisine": "regional",
+    "name": "Poddžbánský pivovar",
+    "ref:ruian": "8579865",
+    "source": "www.lunchtime.cz",
+    "source:addr": "ruian",
+    "website": "https://www.poddzbanskypivovar.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 3674962109,
+  "lat": 50.2725000,
+  "lon": 13.9257512,
+  "tags": {
+    "amenity": "restaurant",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "microbrewery": "yes",
+    "name": "Pivovar Zichovec",
+    "outdoor_seating": "yes",
+    "reservation": "recommended",
+    "website": "https://www.pivovarzichovec.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 3674962110,
+  "lat": 50.2725468,
+  "lon": 13.9258372,
+  "tags": {
+    "craft": "brewery"
+  }
+},
+{
+  "type": "node",
+  "id": 3743985339,
+  "lat": 49.9713063,
+  "lon": 13.6482117,
+  "tags": {
+    "amenity": "pub",
+    "microbrewery": "yes",
+    "name": "Pivovar Chříč",
+    "opening_hours": "Mo-Su 10:00-18:00; Fr 10:00-20:00; Sa 10-22",
+    "operator": "pCh!"
+  }
+},
+{
+  "type": "node",
+  "id": 4162054192,
+  "lat": 49.9349612,
+  "lon": 13.3890156,
+  "tags": {
+    "amenity": "pub",
+    "email": "pivovarplasy@centrum.cz",
+    "internet_access": "yes",
+    "internet_access:fee": "no",
+    "microbrewery": "yes",
+    "name": "Knížecí pivovar Plasy",
+    "opening_hours": "Mo-Th 12:00-22:00; Fr 12:00-23:00; Sa 11:00-23:00; Su 11:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+420 727 875 115",
+    "smoking": "no",
+    "website": "http://www.pivovarplasy.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 6485121700,
+  "lat": 50.3529042,
+  "lon": 13.8068018,
+  "tags": {
+    "amenity": "restaurant",
+    "microbrewery": "yes",
+    "name": "Pivovarská restaurace Na Letňáku",
+    "opening_hours": "Mo-Th 16:00-02:00, Fr-Sa 16:00-04:00, Su 16:00-24:00",
+    "operator": "Pivo ZLoun s.r.o.",
+    "outdoor_seating": "yes",
+    "phone": "+420736400655",
+    "website": "http://www.pivozloun.cz/"
+  }
+},
+{
+  "type": "way",
+  "id": 83840739,
+  "nodes": [
+    976035637,
+    976032716,
+    976033820,
+    976037362,
+    976036482,
+    976035637
+  ],
+  "tags": {
+    "addr:city": "Žatec",
+    "addr:conscriptionnumber": "81",
+    "addr:country": "CZ",
+    "addr:housenumber": "81",
+    "addr:postcode": "43801",
+    "addr:street": "Žižkovo náměstí",
+    "building": "civic",
+    "building:flats": "8",
+    "building:ruian:type": "5",
+    "craft": "brewery",
+    "is_in": "Žatec, Ústecký kraj, CZ",
+    "name": "Žatecký pivovar",
+    "ref:ruian": "9258787",
+    "ref:ruian:building": "9207341",
+    "source": "cuzk:ruian",
+    "source:addr": "ruian"
+  }
+},
+{
+  "type": "way",
+  "id": 160538594,
+  "nodes": [
+    1725908916,
+    1725908904,
+    1725908890,
+    1725908899,
+    1725908869,
+    1725908874,
+    1725908916
+  ],
+  "tags": {
+    "brewery": "yes",
+    "building": "residential",
+    "building:flats": "1",
+    "building:levels": "1",
+    "building:ruian:type": "3",
+    "craft": "brewery",
+    "microbrewery": "yes",
+    "name": "Pivovar Matuška",
+    "ref:ruian:building": "1606093",
+    "source": "cuzk:ruian",
+    "website": "http://www.pivovarmatuska.cz/"
+  }
+},
+{
+  "type": "way",
+  "id": 347099040,
+  "nodes": [
+    3535164048,
+    3535164045,
+    3535164059,
+    3535164067,
+    3535164056,
+    3535164048
+  ],
+  "tags": {
+    "building": "yes",
+    "building:ruian:type": "19",
+    "craft": "brewery",
+    "name": "Dědkův mlýn",
+    "ref:ruian:building": "26705494",
+    "source": "cuzk:ruian",
+    "start_date": "2006-08-09"
+  }
+},
+{
+  "type": "way",
+  "id": 449711662,
+  "nodes": [
+    4466466118,
+    4466466116,
+    4466466115,
+    4466466117,
+    4466466118
+  ],
+  "tags": {
+    "building": "yes",
+    "building:ruian:type": "19",
+    "craft": "brewery",
+    "ref:ruian:building": "82359776",
+    "source": "cuzk:ruian"
+  }
+},
+{
+  "type": "node",
+  "id": 4466466115,
+  "lat": 49.9711573,
+  "lon": 13.6484261
+},
+{
+  "type": "node",
+  "id": 4466466116,
+  "lat": 49.9712430,
+  "lon": 13.6485483
+},
+{
+  "type": "node",
+  "id": 4466466117,
+  "lat": 49.9713344,
+  "lon": 13.6481226
+},
+{
+  "type": "node",
+  "id": 4466466118,
+  "lat": 49.9714209,
+  "lon": 13.6482514
+},
+{
+  "type": "node",
+  "id": 976032716,
+  "lat": 50.3322337,
+  "lon": 13.5421229
+},
+{
+  "type": "node",
+  "id": 976033820,
+  "lat": 50.3320552,
+  "lon": 13.5417560
+},
+{
+  "type": "node",
+  "id": 976035637,
+  "lat": 50.3323784,
+  "lon": 13.5419513
+},
+{
+  "type": "node",
+  "id": 976036482,
+  "lat": 50.3322531,
+  "lon": 13.5416952
+},
+{
+  "type": "node",
+  "id": 976037362,
+  "lat": 50.3321983,
+  "lon": 13.5415832
+},
+{
+  "type": "node",
+  "id": 1725908869,
+  "lat": 49.9549626,
+  "lon": 13.8515999
+},
+{
+  "type": "node",
+  "id": 1725908874,
+  "lat": 49.9549802,
+  "lon": 13.8515048
+},
+{
+  "type": "node",
+  "id": 1725908890,
+  "lat": 49.9550524,
+  "lon": 13.8518042
+},
+{
+  "type": "node",
+  "id": 1725908899,
+  "lat": 49.9550762,
+  "lon": 13.8516438
+},
+{
+  "type": "node",
+  "id": 1725908904,
+  "lat": 49.9550956,
+  "lon": 13.8518255
+},
+{
+  "type": "node",
+  "id": 1725908916,
+  "lat": 49.9551451,
+  "lon": 13.8515752
+},
+{
+  "type": "node",
+  "id": 3535164045,
+  "lat": 50.0518111,
+  "lon": 14.0992778
+},
+{
+  "type": "node",
+  "id": 3535164048,
+  "lat": 50.0518204,
+  "lon": 14.0992976
+},
+{
+  "type": "node",
+  "id": 3535164056,
+  "lat": 50.0519173,
+  "lon": 14.0993909
+},
+{
+  "type": "node",
+  "id": 3535164059,
+  "lat": 50.0519375,
+  "lon": 14.0989655
+},
+{
+  "type": "node",
+  "id": 3535164067,
+  "lat": 50.0520473,
+  "lon": 14.0990794
+}
+
+  ]
+}

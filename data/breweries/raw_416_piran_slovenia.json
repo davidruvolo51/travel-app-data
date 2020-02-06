@@ -1,0 +1,478 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T14:38:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 131863369,
+  "lat": 45.6045954,
+  "lon": 13.9338954,
+  "tags": {
+    "addr:city": "Kozina",
+    "addr:housenumber": "4",
+    "addr:postcode": "6240",
+    "addr:street": "Kolodvorska ulica",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "pivovarna.mahnic@siol.net",
+    "facebook": "https://www.facebook.com/pivovarnagostilna.mahnic/",
+    "microbrewery": "yes",
+    "name": "Pivovarna gostilna Mahnič",
+    "opening_hours": "Mo-Su 11:00-23:00; Dec 25,31: 11:00-17:00",
+    "operator": "Pivovarna gostilna Mahnič d.o.o.",
+    "phone": "+386 5 6800 100",
+    "website": "http://www.mahnic.si/pivovarna-gostilna-kozina"
+  }
+},
+{
+  "type": "node",
+  "id": 601458047,
+  "lat": 45.7077071,
+  "lon": 13.7470000,
+  "tags": {
+    "craft": "brewery",
+    "email": "info@cittavecchia.com",
+    "name": "Birrificio Cittavecchia",
+    "official_name": "Birrificio Cittavecchia S.n.c. di Michele Barro",
+    "opening_hours": "Mo-Fr 09:00-13:00,14:00-17:30; PH off",
+    "phone": "+39 040 251060",
+    "ref:vatin": "IT00950710327",
+    "shop": "yes",
+    "website": "https://www.cittavecchia.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 2283128050,
+  "lat": 45.6529405,
+  "lon": 13.7834611,
+  "tags": {
+    "addr:city": "Trieste",
+    "addr:housenumber": "5/A",
+    "addr:postcode": "34126",
+    "addr:street": "Via Enea Silvio Piccolomini",
+    "amenity": "restaurant",
+    "cuisine": "fish",
+    "microbrewery": "yes",
+    "name": "Trattoria Delizia",
+    "opening_hours": "Tu-Sa 13:00-02:00",
+    "operator": "Franco Sporco",
+    "phone": "+39 347 1390898"
+  }
+},
+{
+  "type": "node",
+  "id": 6208728562,
+  "lat": 45.6486423,
+  "lon": 13.7664795,
+  "tags": {
+    "addr:city": "Trieste",
+    "addr:housenumber": "18",
+    "addr:postcode": "34121",
+    "addr:street": "Via della Pescheria",
+    "craft": "brewery",
+    "name": "Cavana",
+    "phone": "+39 339 309 8309",
+    "product": "beer"
+  }
+},
+{
+  "type": "way",
+  "id": 148811423,
+  "nodes": [
+    1618827204,
+    1618827163,
+    1618827165,
+    1618827149,
+    1618827162,
+    1618827161,
+    1618827228,
+    1618827234,
+    1618827283,
+    1618827282,
+    1618827271,
+    1618827286,
+    1618827314,
+    1618827350,
+    1618827289,
+    1618827297,
+    1618827204
+  ],
+  "tags": {
+    "addr:city": "Koper",
+    "addr:country": "SI",
+    "addr:housenumber": "20",
+    "addr:postcode": "6000",
+    "addr:street": "Vanganelska cesta",
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "pizza;regional",
+    "email": "pivnica.emonec@baril.si",
+    "microbrewery": "yes",
+    "name": "Pivovarna restavracija Emonec",
+    "opening_hours": "Tu-Fr 11:30-23:00; Sa,Su 12:00-23:00",
+    "operator": "Baril d.o.o.",
+    "phone": "+386 41 326642",
+    "ref:vatin": "SI60822546",
+    "website": "http://www.emonec.eu/"
+  }
+},
+{
+  "type": "way",
+  "id": 153782070,
+  "nodes": [
+    1664220866,
+    1664220728,
+    1664220764,
+    1664220646,
+    1664220678,
+    1664220933,
+    1664220909,
+    1664220877,
+    1664220866
+  ],
+  "tags": {
+    "addr:city": "Sežana",
+    "addr:country": "SI",
+    "addr:housenumber": "117",
+    "addr:postcode": "6210",
+    "addr:street": "Partizanska cesta",
+    "amenity": "restaurant",
+    "beds": "78",
+    "building": "hotel",
+    "building:levels": "2",
+    "cuisine": "pizza;regional",
+    "diet:vegetarian": "no",
+    "email": "info@hotel-prunk.si",
+    "facebook": "https://www.facebook.com/HotelPrunk/",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "microbrewery": "yes",
+    "name": "Hotel Prunk",
+    "opening_hours": "Mo-Fr 08:00-23:00, Sa-Su 10:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+386 (0)5 7380600;+386 (0)5 7380609",
+    "phone:mobile": "+386 (0)31 356623",
+    "roof:levels": "0",
+    "rooms": "37",
+    "stars": "3",
+    "tourism": "hotel",
+    "website": "http://hotel-prunk.si/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 205988497,
+  "nodes": [
+    2159890390,
+    2159890387,
+    2159890389,
+    2159890384,
+    5964490542,
+    2159890336,
+    2159890350,
+    2159890334,
+    2159890335,
+    2159890362,
+    2159890383,
+    2159890390
+  ],
+  "tags": {
+    "addr:city": "Kozina",
+    "addr:housenumber": "19",
+    "addr:place": "Krvavi Potok",
+    "addr:postcode": "6240",
+    "amenity": "restaurant",
+    "building": "yes",
+    "contact:email": "info@pivnica-flora.si",
+    "contact:fax": "+386 5 6801304",
+    "contact:phone": "+386 5 6802009",
+    "contact:website": "http://www.pivnica-flora.si/",
+    "cuisine": "regional",
+    "microbrewery": "yes",
+    "name": "Pivovarna in pivnica Flora",
+    "opening_hours": "Mo-Th 11:00-23:00; Fr-Su 11:00-24:00",
+    "operator": "Batič d.o.o.",
+    "ref:vatin": "SI13275429"
+  }
+},
+{
+  "type": "way",
+  "id": 391338207,
+  "nodes": [
+    3945427180,
+    3945427181,
+    5940902867,
+    5940902868,
+    3945427182,
+    3945427183,
+    3945427180
+  ],
+  "tags": {
+    "addr:city": "Kozina",
+    "addr:housenumber": "20",
+    "addr:street": "Bazoviška cesta",
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "regional",
+    "microbrewery": "yes",
+    "name": "Picerija in oštarija Tonca",
+    "name:it": "Pizzeria e osteria Tonca",
+    "operator": "Mojca Ceglar"
+  }
+},
+{
+  "type": "node",
+  "id": 1618827149,
+  "lat": 45.5276145,
+  "lon": 13.7389052
+},
+{
+  "type": "node",
+  "id": 1618827161,
+  "lat": 45.5276347,
+  "lon": 13.7388300
+},
+{
+  "type": "node",
+  "id": 1618827162,
+  "lat": 45.5276517,
+  "lon": 13.7388831
+},
+{
+  "type": "node",
+  "id": 1618827163,
+  "lat": 45.5276796,
+  "lon": 13.7391506
+},
+{
+  "type": "node",
+  "id": 1618827165,
+  "lat": 45.5276951,
+  "lon": 13.7391374
+},
+{
+  "type": "node",
+  "id": 1618827204,
+  "lat": 45.5277973,
+  "lon": 13.7395000
+},
+{
+  "type": "node",
+  "id": 1618827228,
+  "lat": 45.5278051,
+  "lon": 13.7387283
+},
+{
+  "type": "node",
+  "id": 1618827234,
+  "lat": 45.5278407,
+  "lon": 13.7388411
+},
+{
+  "type": "node",
+  "id": 1618827271,
+  "lat": 45.5279042,
+  "lon": 13.7390157
+},
+{
+  "type": "node",
+  "id": 1618827282,
+  "lat": 45.5279204,
+  "lon": 13.7389776
+},
+{
+  "type": "node",
+  "id": 1618827283,
+  "lat": 45.5279398,
+  "lon": 13.7389339
+},
+{
+  "type": "node",
+  "id": 1618827286,
+  "lat": 45.5279538,
+  "lon": 13.7391705
+},
+{
+  "type": "node",
+  "id": 1618827289,
+  "lat": 45.5279878,
+  "lon": 13.7392678
+},
+{
+  "type": "node",
+  "id": 1618827297,
+  "lat": 45.5280157,
+  "lon": 13.7393541
+},
+{
+  "type": "node",
+  "id": 1618827314,
+  "lat": 45.5280235,
+  "lon": 13.7391263
+},
+{
+  "type": "node",
+  "id": 1618827350,
+  "lat": 45.5280529,
+  "lon": 13.7392280
+},
+{
+  "type": "node",
+  "id": 2159890334,
+  "lat": 45.6193943,
+  "lon": 13.9090856
+},
+{
+  "type": "node",
+  "id": 2159890335,
+  "lat": 45.6194841,
+  "lon": 13.9091922
+},
+{
+  "type": "node",
+  "id": 2159890336,
+  "lat": 45.6195221,
+  "lon": 13.9088656
+},
+{
+  "type": "node",
+  "id": 2159890350,
+  "lat": 45.6195140,
+  "lon": 13.9088796
+},
+{
+  "type": "node",
+  "id": 2159890362,
+  "lat": 45.6195637,
+  "lon": 13.9090553
+},
+{
+  "type": "node",
+  "id": 2159890383,
+  "lat": 45.6195753,
+  "lon": 13.9090691
+},
+{
+  "type": "node",
+  "id": 2159890384,
+  "lat": 45.6196050,
+  "lon": 13.9087757
+},
+{
+  "type": "node",
+  "id": 2159890387,
+  "lat": 45.6196519,
+  "lon": 13.9088313
+},
+{
+  "type": "node",
+  "id": 2159890389,
+  "lat": 45.6196372,
+  "lon": 13.9088138
+},
+{
+  "type": "node",
+  "id": 2159890390,
+  "lat": 45.6196883,
+  "lon": 13.9088745
+},
+{
+  "type": "node",
+  "id": 5964490542,
+  "lat": 45.6195403,
+  "lon": 13.9088871
+},
+{
+  "type": "node",
+  "id": 3945427180,
+  "lat": 45.6088539,
+  "lon": 13.9328269
+},
+{
+  "type": "node",
+  "id": 3945427181,
+  "lat": 45.6087432,
+  "lon": 13.9328377
+},
+{
+  "type": "node",
+  "id": 3945427182,
+  "lat": 45.6087778,
+  "lon": 13.9325882
+},
+{
+  "type": "node",
+  "id": 3945427183,
+  "lat": 45.6088421,
+  "lon": 13.9325819
+},
+{
+  "type": "node",
+  "id": 5940902867,
+  "lat": 45.6087344,
+  "lon": 13.9326544
+},
+{
+  "type": "node",
+  "id": 5940902868,
+  "lat": 45.6087807,
+  "lon": 13.9326499
+},
+{
+  "type": "node",
+  "id": 1664220646,
+  "lat": 45.7018025,
+  "lon": 13.8467768
+},
+{
+  "type": "node",
+  "id": 1664220678,
+  "lat": 45.7018328,
+  "lon": 13.8469485
+},
+{
+  "type": "node",
+  "id": 1664220728,
+  "lat": 45.7019036,
+  "lon": 13.8466341
+},
+{
+  "type": "node",
+  "id": 1664220764,
+  "lat": 45.7019209,
+  "lon": 13.8467396
+},
+{
+  "type": "node",
+  "id": 1664220866,
+  "lat": 45.7021246,
+  "lon": 13.8465555
+},
+{
+  "type": "node",
+  "id": 1664220877,
+  "lat": 45.7021419,
+  "lon": 13.8466631
+},
+{
+  "type": "node",
+  "id": 1664220909,
+  "lat": 45.7022156,
+  "lon": 13.8466403
+},
+{
+  "type": "node",
+  "id": 1664220933,
+  "lat": 45.7022431,
+  "lon": 13.8468079
+}
+
+  ]
+}

@@ -1,0 +1,721 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T11:44:03Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 827314790,
+  "lat": 48.1469927,
+  "lon": 17.1080646,
+  "tags": {
+    "addr:city": "Bratislava - Staré Mesto",
+    "addr:housenumber": "8",
+    "addr:postcode": "811 06",
+    "addr:street": "Drevená",
+    "addr:streetnumber": "8",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "microbrewery": "yes",
+    "name": "Bratislavský meštiansky pivovar",
+    "opening_hours": "Mo-Fr 11:00-24:00; Sa 00:00-01:00,11:00-24:00; Su 11:00-23:00",
+    "opening_hours:kitchen": "Mo-We 11:00-22:00; Th-Fr 11:00-23:00; Sa 11:00-22:00; Su 11:00-21:00",
+    "smoking": "no",
+    "website": "http://www.mestianskypivovar.sk/"
+  }
+},
+{
+  "type": "node",
+  "id": 1572086713,
+  "lat": 48.1494583,
+  "lon": 17.1140819,
+  "tags": {
+    "amenity": "pub",
+    "microbrewery": "yes",
+    "name": "Alžbetka"
+  }
+},
+{
+  "type": "node",
+  "id": 1783975918,
+  "lat": 48.1500829,
+  "lon": 17.1227114,
+  "tags": {
+    "addr:conscriptionnumber": "2652",
+    "addr:housenumber": "2652/16",
+    "addr:street": "Moskovská",
+    "addr:streetnumber": "16",
+    "amenity": "pub",
+    "brewery": "Jakub",
+    "microbrewery": "yes",
+    "name": "Hostinec Richtár Jakub",
+    "opening_hours": "Mo-Sa 16:00-22:00",
+    "smoking": "isolated",
+    "website": "http://www.richtarjakub.sk/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2486186662,
+  "lat": 48.1489620,
+  "lon": 17.1105782,
+  "tags": {
+    "amenity": "pub",
+    "microbrewery": "yes",
+    "name": "Starosloviensky pivovar",
+    "opening_hours": "Mo-Th 14:00-23:30; Fr 15:00-24:00; Sa 00:00-02:00,14:00-24:00; Su 00:00-02:00,14:00-22:00",
+    "website": "http://www.staroslovienskypivovar.sk/"
+  }
+},
+{
+  "type": "node",
+  "id": 2574903216,
+  "lat": 48.2551441,
+  "lon": 16.7391670,
+  "tags": {
+    "addr:city": "Untersiebenbrunn",
+    "addr:country": "AT",
+    "addr:housenumber": "5",
+    "addr:postcode": "2284",
+    "addr:street": "Brückengasse",
+    "craft": "brewery",
+    "email": "office@storchenbraeu.at",
+    "fax": "+43 2286 237022",
+    "name": "Marchfelder Storchenbräu Vertriebs GmbH",
+    "opening_hours": "Tu,Fr 13:00-19:00; Sa 09:00-14:00",
+    "phone": "+43 2286 237020",
+    "website": "http://www.storchenbraeu.at/"
+  }
+},
+{
+  "type": "node",
+  "id": 2773011995,
+  "lat": 48.2749673,
+  "lon": 17.0215824,
+  "tags": {
+    "craft": "brewery",
+    "name": "Stupavar"
+  }
+},
+{
+  "type": "node",
+  "id": 3618392216,
+  "lat": 48.1240403,
+  "lon": 17.0969447,
+  "tags": {
+    "amenity": "pub",
+    "microbrewery": "yes",
+    "name": "Pivovar HOPS",
+    "old_name": "U našich",
+    "opening_hours": "Mo-Su 15:00-23:00; Fr,Sa 15:00-24:00",
+    "source": "survey",
+    "website": "http://pivovarhops.sk/"
+  }
+},
+{
+  "type": "node",
+  "id": 3758792396,
+  "lat": 48.2604518,
+  "lon": 17.2678966,
+  "tags": {
+    "craft": "brewery",
+    "fixme": "set better place",
+    "microbrewery": "yes",
+    "name": "Jama Craft Brewery",
+    "name:en": "Jama Craft Brewery Office",
+    "name:sk": "Jama Craft Brewery Office",
+    "website": "www.pivojama.eu"
+  }
+},
+{
+  "type": "node",
+  "id": 4001487337,
+  "lat": 48.1371859,
+  "lon": 17.1125089,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "microbrewery": "yes",
+    "name": "Reštaurácia Dunajský pivovar",
+    "opening_hours": "Mo-Th 11:00-23:00; Fr 11:00-24:00; Sa 00:00-01:00,11:00-24:00; Su 00:00-01:00,11:00-23:00",
+    "operator": "Dunajský pivovar",
+    "outdoor_seating": "yes",
+    "website": "http://www.dunajskypivovar.sk/restauracia-dunajsky-pivovar"
+  }
+},
+{
+  "type": "way",
+  "id": 58376725,
+  "nodes": [
+    723903447,
+    723925226,
+    723898729,
+    723941303,
+    723903447
+  ],
+  "tags": {
+    "addr:city": "Bratislava",
+    "addr:country": "SK",
+    "addr:housenumber": "57",
+    "addr:street": "Brnianska",
+    "addr:streetnumber": "57",
+    "amenity": "pub",
+    "building": "yes",
+    "import": "budovy201004",
+    "microbrewery": "yes",
+    "name": "Patrónsky pivovar",
+    "opening_hours": "Mo-Th 11:00-23:00; Fr 11:00-24:00; Sa 00:00-01:00,11:00-24:00; Su 00:00-01:00,11:00-22:00",
+    "phone": "02/54 41 02 30",
+    "source": "kapor2",
+    "toilets:wheelchair": "yes",
+    "website": "http://www.patronskypivovar.sk/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 61397837,
+  "nodes": [
+    766616844,
+    766626696,
+    766612423,
+    766622758,
+    766632268,
+    766619877,
+    766629869,
+    766615366,
+    766625110,
+    766611883,
+    766622166,
+    766611881,
+    766632138,
+    766619743,
+    766616844
+  ],
+  "tags": {
+    "addr:housenumber": "17/A",
+    "addr:street": "Miletičova",
+    "amenity": "pub",
+    "building": "yes",
+    "building:levels": "2",
+    "cuisine": "regional",
+    "import": "budovy201004",
+    "microbrewery": "yes",
+    "name": "Ružinovský pivovar Komín",
+    "opening_hours": "Mo 10:00-24:00; Tu,We 10:00-25:00; Th,Fr,Sa 10:00-25:00; Su 11:00-24:00",
+    "outdoor_seating": "yes",
+    "source": "kapor2",
+    "website": "http://www.pivovarkomin.sk/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 74739797,
+  "nodes": [
+    882824608,
+    882816036,
+    882827274,
+    882818058,
+    882837976,
+    882820978,
+    882812506,
+    882833455,
+    882824769,
+    882816193,
+    882827507,
+    882818269,
+    882838178,
+    2869340749,
+    882821208,
+    882812759,
+    882831856,
+    882824608
+  ],
+  "tags": {
+    "addr:city": "Bratislava",
+    "addr:country": "SK",
+    "addr:housenumber": "21",
+    "addr:postcode": "811 06",
+    "addr:street": "Dunajská",
+    "addr:streetnumber": "21",
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "regional",
+    "microbrewery": "yes",
+    "name": "Meštiansky pivovar - Pivovarská reštaurácia",
+    "opening_hours": "Mo-Sa 11:00-23:00; Th,Fr 11:00-24:00; Su 11:00-22:00",
+    "operator": "Bratislavský Meštiansky Pivovar",
+    "source": "kapor2",
+    "website": "http://dunajska.mestianskypivovar.sk/pivovar-dunajska-kontakt-mestiansky-pivovar-bratislava"
+  }
+},
+{
+  "type": "way",
+  "id": 126233290,
+  "nodes": [
+    1399937961,
+    1399938127,
+    1399938137,
+    1399938017,
+    1399937961
+  ],
+  "tags": {
+    "addr:city": "Bratislava",
+    "addr:housenumber": "31",
+    "addr:postcode": "831 06",
+    "addr:street": "Pri vinohradoch",
+    "amenity": "pub",
+    "brewery": "various",
+    "building": "yes",
+    "contact:facebook": "https://www.facebook.com/pivovaruabela/",
+    "contact:instagram": "https://www.instagram.com/pivovaruabela/",
+    "description": "V pivárni je nabíjací bod ebajkconnect pre ebajky",
+    "email": "pivecko@uabela.sk",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "microbrewery": "yes",
+    "name": "Pivovar U Ábela",
+    "name:en": "Pivovar U Abela",
+    "name:sk": "Pivovar U Ábela",
+    "opening_hours": "Mo-Th 16:00-22:00; Fr 16:00-24:00; Sa 13:00-24:00; Su 13:00-24:00",
+    "outdoor_seating": "yes",
+    "phone": "+421 907 276 183",
+    "website": "http://www.uabela.sk/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 425394217,
+  "nodes": [
+    4247268328,
+    4247268329,
+    4247268330,
+    4247268332,
+    4247268328
+  ],
+  "tags": {
+    "building": "brewery",
+    "craft": "brewery"
+  }
+},
+{
+  "type": "way",
+  "id": 427670958,
+  "nodes": [
+    4268636018,
+    4268636019,
+    4268636020,
+    4268636021,
+    4268636022,
+    4268636023,
+    4268636024,
+    4268636025,
+    4268636026,
+    4268636027,
+    4268636044,
+    4268636028,
+    4268636029,
+    4268636043,
+    4268636030,
+    4268636042,
+    4268636031,
+    4268636016,
+    4268636018
+  ],
+  "tags": {
+    "addr:city": "Gols",
+    "addr:country": "AT",
+    "addr:district": "Neusiedl am See",
+    "addr:housenumber": "1",
+    "addr:postcode": "7122",
+    "addr:street": "Brauhausplatz",
+    "building": "brewery",
+    "contact:email": "office@golserbier.at",
+    "craft": "brewery",
+    "microbrewery": "yes",
+    "name": "Privatbrauerei Gols GmbH",
+    "operator": "Fam. Sautner",
+    "phone": "+43 2173 2719",
+    "website": "https://www.golserbier.at/"
+  }
+},
+{
+  "type": "node",
+  "id": 4247268328,
+  "lat": 47.9066632,
+  "lon": 16.9194277
+},
+{
+  "type": "node",
+  "id": 4247268329,
+  "lat": 47.9066391,
+  "lon": 16.9196583
+},
+{
+  "type": "node",
+  "id": 4247268330,
+  "lat": 47.9063513,
+  "lon": 16.9195807
+},
+{
+  "type": "node",
+  "id": 4247268332,
+  "lat": 47.9063768,
+  "lon": 16.9193551
+},
+{
+  "type": "node",
+  "id": 4268636016,
+  "lat": 47.9058819,
+  "lon": 16.9191280
+},
+{
+  "type": "node",
+  "id": 4268636018,
+  "lat": 47.9060853,
+  "lon": 16.9187940
+},
+{
+  "type": "node",
+  "id": 4268636019,
+  "lat": 47.9061581,
+  "lon": 16.9189078
+},
+{
+  "type": "node",
+  "id": 4268636020,
+  "lat": 47.9061769,
+  "lon": 16.9189265
+},
+{
+  "type": "node",
+  "id": 4268636021,
+  "lat": 47.9061867,
+  "lon": 16.9189452
+},
+{
+  "type": "node",
+  "id": 4268636022,
+  "lat": 47.9061930,
+  "lon": 16.9189573
+},
+{
+  "type": "node",
+  "id": 4268636023,
+  "lat": 47.9061966,
+  "lon": 16.9189733
+},
+{
+  "type": "node",
+  "id": 4268636024,
+  "lat": 47.9062011,
+  "lon": 16.9189960
+},
+{
+  "type": "node",
+  "id": 4268636025,
+  "lat": 47.9061984,
+  "lon": 16.9190227
+},
+{
+  "type": "node",
+  "id": 4268636026,
+  "lat": 47.9061948,
+  "lon": 16.9190348
+},
+{
+  "type": "node",
+  "id": 4268636027,
+  "lat": 47.9061873,
+  "lon": 16.9190517
+},
+{
+  "type": "node",
+  "id": 4268636028,
+  "lat": 47.9061790,
+  "lon": 16.9190646
+},
+{
+  "type": "node",
+  "id": 4268636029,
+  "lat": 47.9061694,
+  "lon": 16.9190709
+},
+{
+  "type": "node",
+  "id": 4268636030,
+  "lat": 47.9061539,
+  "lon": 16.9190780
+},
+{
+  "type": "node",
+  "id": 4268636031,
+  "lat": 47.9060046,
+  "lon": 16.9192954
+},
+{
+  "type": "node",
+  "id": 4268636042,
+  "lat": 47.9061431,
+  "lon": 16.9190762
+},
+{
+  "type": "node",
+  "id": 4268636043,
+  "lat": 47.9061640,
+  "lon": 16.9190733
+},
+{
+  "type": "node",
+  "id": 4268636044,
+  "lat": 47.9061824,
+  "lon": 16.9190593
+},
+{
+  "type": "node",
+  "id": 882812506,
+  "lat": 48.1460117,
+  "lon": 17.1174782
+},
+{
+  "type": "node",
+  "id": 882812759,
+  "lat": 48.1459498,
+  "lon": 17.1177011
+},
+{
+  "type": "node",
+  "id": 882816036,
+  "lat": 48.1458324,
+  "lon": 17.1174673
+},
+{
+  "type": "node",
+  "id": 882818058,
+  "lat": 48.1459663,
+  "lon": 17.1174267
+},
+{
+  "type": "node",
+  "id": 882820978,
+  "lat": 48.1460159,
+  "lon": 17.1174740
+},
+{
+  "type": "node",
+  "id": 882821208,
+  "lat": 48.1458007,
+  "lon": 17.1178004
+},
+{
+  "type": "node",
+  "id": 882824608,
+  "lat": 48.1458642,
+  "lon": 17.1175697
+},
+{
+  "type": "node",
+  "id": 882827274,
+  "lat": 48.1459521,
+  "lon": 17.1173841
+},
+{
+  "type": "node",
+  "id": 882831856,
+  "lat": 48.1458965,
+  "lon": 17.1175462
+},
+{
+  "type": "node",
+  "id": 882837976,
+  "lat": 48.1459921,
+  "lon": 17.1174069
+},
+{
+  "type": "node",
+  "id": 2869340749,
+  "lat": 48.1458298,
+  "lon": 17.1178958
+},
+{
+  "type": "node",
+  "id": 882838178,
+  "lat": 48.1458689,
+  "lon": 17.1180231
+},
+{
+  "type": "node",
+  "id": 723898729,
+  "lat": 48.1659787,
+  "lon": 17.0806794
+},
+{
+  "type": "node",
+  "id": 723903447,
+  "lat": 48.1659909,
+  "lon": 17.0802944
+},
+{
+  "type": "node",
+  "id": 723925226,
+  "lat": 48.1661012,
+  "lon": 17.0804050
+},
+{
+  "type": "node",
+  "id": 723941303,
+  "lat": 48.1658685,
+  "lon": 17.0805689
+},
+{
+  "type": "node",
+  "id": 882816193,
+  "lat": 48.1461252,
+  "lon": 17.1178206
+},
+{
+  "type": "node",
+  "id": 882818269,
+  "lat": 48.1460470,
+  "lon": 17.1179025
+},
+{
+  "type": "node",
+  "id": 882824769,
+  "lat": 48.1461097,
+  "lon": 17.1177747
+},
+{
+  "type": "node",
+  "id": 882827507,
+  "lat": 48.1460411,
+  "lon": 17.1178815
+},
+{
+  "type": "node",
+  "id": 882833455,
+  "lat": 48.1461139,
+  "lon": 17.1177707
+},
+{
+  "type": "node",
+  "id": 766611881,
+  "lat": 48.1538384,
+  "lon": 17.1366622
+},
+{
+  "type": "node",
+  "id": 766611883,
+  "lat": 48.1537465,
+  "lon": 17.1365214
+},
+{
+  "type": "node",
+  "id": 766612423,
+  "lat": 48.1537481,
+  "lon": 17.1367306
+},
+{
+  "type": "node",
+  "id": 766615366,
+  "lat": 48.1536608,
+  "lon": 17.1366256
+},
+{
+  "type": "node",
+  "id": 766616844,
+  "lat": 48.1538169,
+  "lon": 17.1367279
+},
+{
+  "type": "node",
+  "id": 766619743,
+  "lat": 48.1538428,
+  "lon": 17.1366926
+},
+{
+  "type": "node",
+  "id": 766619877,
+  "lat": 48.1536494,
+  "lon": 17.1366399
+},
+{
+  "type": "node",
+  "id": 766622166,
+  "lat": 48.1537537,
+  "lon": 17.1365127
+},
+{
+  "type": "node",
+  "id": 766622758,
+  "lat": 48.1537086,
+  "lon": 17.1367805
+},
+{
+  "type": "node",
+  "id": 766625110,
+  "lat": 48.1537439,
+  "lon": 17.1365184
+},
+{
+  "type": "node",
+  "id": 766626696,
+  "lat": 48.1537762,
+  "lon": 17.1367788
+},
+{
+  "type": "node",
+  "id": 766629869,
+  "lat": 48.1536624,
+  "lon": 17.1366337
+},
+{
+  "type": "node",
+  "id": 766632138,
+  "lat": 48.1538312,
+  "lon": 17.1366709
+},
+{
+  "type": "node",
+  "id": 766632268,
+  "lat": 48.1536458,
+  "lon": 17.1366709
+},
+{
+  "type": "node",
+  "id": 1399937961,
+  "lat": 48.2148720,
+  "lon": 17.1536497
+},
+{
+  "type": "node",
+  "id": 1399938017,
+  "lat": 48.2149609,
+  "lon": 17.1538622
+},
+{
+  "type": "node",
+  "id": 1399938127,
+  "lat": 48.2151704,
+  "lon": 17.1533685
+},
+{
+  "type": "node",
+  "id": 1399938137,
+  "lat": 48.2152593,
+  "lon": 17.1535811
+}
+
+  ]
+}

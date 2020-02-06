@@ -1,0 +1,181 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T01:18:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1580071736,
+  "lat": 50.0634529,
+  "lon": 19.9325243,
+  "tags": {
+    "addr:city": "Kraków",
+    "addr:country": "PL",
+    "addr:housenumber": "6/7",
+    "addr:postcode": "31-118",
+    "addr:street": "Podwale",
+    "amenity": "pub",
+    "contact:website": "http://www.ckbrowar.krakow.pl/",
+    "internet_access": "wlan",
+    "microbrewery": "yes",
+    "name": "CK Browar",
+    "opening_hours": "Mo-Su 09:00+",
+    "phone": "+48 12 429 25 05",
+    "website": "http://www.ckbrowar.krakow.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 2125015539,
+  "lat": 50.1125615,
+  "lon": 19.7234094,
+  "tags": {
+    "addr:city": "Rudawa",
+    "addr:housenumber": "84",
+    "addr:postcode": "32-064",
+    "addr:street": "Krakowska",
+    "amenity": "restaurant",
+    "email": "boscorestauracja@gmail.com",
+    "microbrewery": "yes",
+    "name": "Graność",
+    "opening_hours": "Mo-Fr 10:00-22:00; Sa,Su 11:00-21:00",
+    "phone": "+48 12 378 40 88"
+  }
+},
+{
+  "type": "node",
+  "id": 2144930405,
+  "lat": 50.0503939,
+  "lon": 19.9468393,
+  "tags": {
+    "addr:city": "Kraków",
+    "addr:housenumber": "12",
+    "addr:postcode": "31-060",
+    "addr:street": "Świętego Wawrzyńca",
+    "amenity": "restaurant",
+    "contact:phone": "+48 664 323 988",
+    "email": "zajezdnia@desilva.pl",
+    "microbrewery": "yes",
+    "name": "Stara Zajezdnia",
+    "opening_hours": "Mo-Th 12:00-24:00; Fr 12:00-24:00; Sa 00:00-01:00,12:00-24:00; Su 00:00-01:00,12:00-24:00",
+    "operator": "DeSilva",
+    "website": "http://starazajezdniakrakow.pl"
+  }
+},
+{
+  "type": "node",
+  "id": 3283882813,
+  "lat": 50.0614875,
+  "lon": 19.9363275,
+  "tags": {
+    "amenity": "restaurant",
+    "level": "-1",
+    "microbrewery": "yes",
+    "name": "Ratuszowa",
+    "official_name": "Ratuszowa Resto-Bar",
+    "opening_hours": "Mo-Su 09:00-23:00",
+    "smoking": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3775841586,
+  "lat": 50.0646800,
+  "lon": 19.9498566,
+  "tags": {
+    "addr:city": "Kraków",
+    "addr:housenumber": "17j",
+    "addr:postcode": "31-503",
+    "addr:street": "Lubicz",
+    "amenity": "restaurant",
+    "craft": "brewery",
+    "cuisine": "polish",
+    "email": "info@browar-lubicz.com.pl",
+    "internet_access": "wlan",
+    "microbrewery": "yes",
+    "name": "Restauracja Browar Lubicz",
+    "name:pl": "Browar Lubicz",
+    "opening_hours": "Mo-Fr 12:00-24:00; Sa 00:00-01:00,13:00-24:00; Su 00:00-01:00,13:00-23:00",
+    "operator": "Browar Lubicz",
+    "phone": "+4812 3539944",
+    "website": "http://www.browar-lubicz.com.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 5267685309,
+  "lat": 50.1090023,
+  "lon": 19.8383707,
+  "tags": {
+    "addr:housenumber": "31",
+    "addr:street": "Kasztanowa",
+    "craft": "brewery",
+    "email": "zamowienia@pracowniapiwa.pl",
+    "name": "Pracownia Piwa",
+    "phone": "+48 884885855",
+    "website": "http://www.pracowniapiwa.pl"
+  }
+},
+{
+  "type": "node",
+  "id": 5729798322,
+  "lat": 49.7834774,
+  "lon": 20.1885299,
+  "tags": {
+    "addr:place": "Szczyrzyc",
+    "addr:postcode": "34-623",
+    "amenity": "restaurant",
+    "craft": "brewery",
+    "name": "Restauracja regionalna Marysia",
+    "opening_hours": "Mo-Fr 09:00-21:00; Sa 09:00-22:00; Su 10:00-22:00",
+    "phone": "+48183320600"
+  }
+},
+{
+  "type": "way",
+  "id": 764664876,
+  "nodes": [
+    7143597748,
+    7143597749,
+    7143597750,
+    7143597751,
+    7143597748
+  ],
+  "tags": {
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Browar Kazimierz"
+  }
+},
+{
+  "type": "node",
+  "id": 7143597748,
+  "lat": 50.0155019,
+  "lon": 20.1498335
+},
+{
+  "type": "node",
+  "id": 7143597749,
+  "lat": 50.0152861,
+  "lon": 20.1496487
+},
+{
+  "type": "node",
+  "id": 7143597750,
+  "lat": 50.0150703,
+  "lon": 20.1504497
+},
+{
+  "type": "node",
+  "id": 7143597751,
+  "lat": 50.0152960,
+  "lon": 20.1505884
+}
+
+  ]
+}

@@ -1,0 +1,394 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-05T22:52:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 360868713,
+  "lat": 49.6374560,
+  "lon": 10.1206072,
+  "tags": {
+    "amenity": "restaurant",
+    "microbrewery": "yes",
+    "name": "Brauerei Düll",
+    "website": "https://www.duell-gnodstadt.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 370956765,
+  "lat": 49.8854612,
+  "lon": 10.2885165,
+  "tags": {
+    "craft": "brewery",
+    "name": "Brauerei Düll"
+  }
+},
+{
+  "type": "node",
+  "id": 437407353,
+  "lat": 49.7941274,
+  "lon": 9.7296573,
+  "tags": {
+    "addr:city": "Uettingen",
+    "addr:housenumber": "2",
+    "addr:postcode": "97292",
+    "addr:street": "Am Kirchplatz",
+    "amenity": "restaurant",
+    "cuisine": "regional;german",
+    "description": "Lassen Sie sich von uns mit regionalen Spezialitäten verwöhnen: von Klassikern wie Schäufele, Sauerbraten und Kotelett über vegetarische Gerichte und Burger bis zur kalten Brotzeit bereiten wir alles zu, was die fränkisch/bayerische Küche zu bieten hat.",
+    "microbrewery": "yes",
+    "name": "Gasthaus Zur alten Brauerei \"Zapf\"",
+    "opening_hours": "Mo+Di: Geschlossen; Mi: 17:00-20:30; Do:11:30-14:00, 15:00-20:30; Fr+Sa: 17:00-20:30; So: 11:30-14:00, 15:00-20:00",
+    "outdoor_seating": "yes",
+    "phone": "+49 9369 8221",
+    "reservation": "recommended",
+    "smoking": "outside",
+    "start_date": "Seit 1883 in Familienbesitz",
+    "takeaway": "yes",
+    "website": "https://www.alte-brauerei.de/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3030575397,
+  "lat": 49.9825159,
+  "lon": 10.0999343,
+  "tags": {
+    "addr:city": "Werneck",
+    "addr:housenumber": "2",
+    "addr:postcode": "97440",
+    "addr:street": "Schönbornstraße",
+    "craft": "brewery",
+    "name": "Wernecker Bierbrauerei",
+    "operator": "Hans Jörg Lang e. K."
+  }
+},
+{
+  "type": "node",
+  "id": 4284199875,
+  "lat": 49.7928087,
+  "lon": 9.6230069,
+  "tags": {
+    "addr:city": "Triefenstein",
+    "addr:country": "DE",
+    "addr:housenumber": "6",
+    "addr:postcode": "97855",
+    "addr:street": "Zeller Tor",
+    "addr:suburb": "Homburg",
+    "amenity": "restaurant",
+    "brewery": "Homburger Braeuscheuere",
+    "contact:email": "info@braeuscheuere.de",
+    "contact:fax": "+49 9395 876883",
+    "contact:phone": "+49 9395 876882",
+    "contact:website": "http://www.braeuscheuere.de",
+    "cuisine": "regional",
+    "microbrewery": "yes",
+    "name": "Homburger Bräuscheuere",
+    "opening_hours": "Mo-Tu off; We-Sa 17:30-24:00; Su,PH 11:30-14:00,16:30-23:00",
+    "operator": "Boris Dürr",
+    "tourism": "guest_house"
+  }
+},
+{
+  "type": "node",
+  "id": 5152385081,
+  "lat": 50.0122440,
+  "lon": 9.6562193,
+  "tags": {
+    "contact:website": "http://www.goikelbraeu.de/",
+    "craft": "brewery",
+    "name": "Goikelbräu"
+  }
+},
+{
+  "type": "way",
+  "id": 32076146,
+  "nodes": [
+    360066477,
+    4786306211,
+    4786306212,
+    360066489,
+    4786306213,
+    360066501,
+    4786306209,
+    4786306210,
+    360066504,
+    360066477
+  ],
+  "tags": {
+    "addr:city": "Tauberbischofsheim",
+    "addr:postcode": "97941",
+    "addr:suburb": "Distelhausen",
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Distelhäuser Brauerei",
+    "wikidata": "Q1229442"
+  }
+},
+{
+  "type": "way",
+  "id": 87307367,
+  "nodes": [
+    1015089321,
+    1015089277,
+    1015089294,
+    1015089243,
+    1015089330,
+    1015089260,
+    1015089299,
+    1015089318,
+    1015089262,
+    1015089271,
+    1015089293,
+    1015089321
+  ],
+  "tags": {
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Würzburger Hofbräu",
+    "source": "Bing",
+    "wikidata": "Q870325"
+  }
+},
+{
+  "type": "way",
+  "id": 254379691,
+  "nodes": [
+    2601770321,
+    2601770333,
+    2601770316,
+    6210585544,
+    2601770305,
+    2601770321
+  ],
+  "tags": {
+    "addr:city": "Marktheidenfeld",
+    "addr:country": "DE",
+    "addr:housenumber": "33",
+    "addr:street": "Lengfurter Straße",
+    "amenity": "pub",
+    "building": "yes",
+    "craft": "brewery",
+    "description": "Vier Hausgebraute Biere vom Faß und Eis- und Felsenkellerführungen.",
+    "email": "maexundtanja@t-online.de",
+    "microbrewery": "yes",
+    "name": "Zum Neuen Brauhaus 1816",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 269279552,
+  "nodes": [
+    2745329518,
+    2745329520,
+    2745329525,
+    2745329522,
+    2745329523,
+    2745329518
+  ],
+  "tags": {
+    "addr:city": "Gerolzhofen",
+    "addr:country": "DE",
+    "addr:housenumber": "5",
+    "addr:postcode": "97447",
+    "addr:street": "Rügshöfer Straße",
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "regional",
+    "microbrewery": "yes",
+    "name": "Weinig",
+    "operator": "Paul M. Wehner e.K.",
+    "phone": "+49-9382-1024"
+  }
+},
+{
+  "type": "node",
+  "id": 2601770305,
+  "lat": 49.8378940,
+  "lon": 9.5948790
+},
+{
+  "type": "node",
+  "id": 2601770316,
+  "lat": 49.8379655,
+  "lon": 9.5951120
+},
+{
+  "type": "node",
+  "id": 2601770321,
+  "lat": 49.8379787,
+  "lon": 9.5948166
+},
+{
+  "type": "node",
+  "id": 2601770333,
+  "lat": 49.8380489,
+  "lon": 9.5950467
+},
+{
+  "type": "node",
+  "id": 6210585544,
+  "lat": 49.8379102,
+  "lon": 9.5949319
+},
+{
+  "type": "node",
+  "id": 360066477,
+  "lat": 49.5995225,
+  "lon": 9.6929231
+},
+{
+  "type": "node",
+  "id": 360066489,
+  "lat": 49.6002108,
+  "lon": 9.6931855
+},
+{
+  "type": "node",
+  "id": 360066501,
+  "lat": 49.5994355,
+  "lon": 9.6934391
+},
+{
+  "type": "node",
+  "id": 360066504,
+  "lat": 49.5992881,
+  "lon": 9.6931598
+},
+{
+  "type": "node",
+  "id": 4786306209,
+  "lat": 49.5993664,
+  "lon": 9.6932763
+},
+{
+  "type": "node",
+  "id": 4786306210,
+  "lat": 49.5993462,
+  "lon": 9.6932968
+},
+{
+  "type": "node",
+  "id": 4786306211,
+  "lat": 49.5996577,
+  "lon": 9.6932420
+},
+{
+  "type": "node",
+  "id": 4786306212,
+  "lat": 49.6000618,
+  "lon": 9.6928341
+},
+{
+  "type": "node",
+  "id": 4786306213,
+  "lat": 49.5995926,
+  "lon": 9.6938096
+},
+{
+  "type": "node",
+  "id": 1015089243,
+  "lat": 49.7913199,
+  "lon": 9.9120742
+},
+{
+  "type": "node",
+  "id": 1015089260,
+  "lat": 49.7921217,
+  "lon": 9.9142632
+},
+{
+  "type": "node",
+  "id": 1015089262,
+  "lat": 49.7917841,
+  "lon": 9.9123640
+},
+{
+  "type": "node",
+  "id": 1015089271,
+  "lat": 49.7917201,
+  "lon": 9.9123869
+},
+{
+  "type": "node",
+  "id": 1015089277,
+  "lat": 49.7913442,
+  "lon": 9.9114330
+},
+{
+  "type": "node",
+  "id": 1015089293,
+  "lat": 49.7916855,
+  "lon": 9.9121550
+},
+{
+  "type": "node",
+  "id": 1015089294,
+  "lat": 49.7914338,
+  "lon": 9.9120334
+},
+{
+  "type": "node",
+  "id": 1015089299,
+  "lat": 49.7919086,
+  "lon": 9.9128348
+},
+{
+  "type": "node",
+  "id": 1015089318,
+  "lat": 49.7918571,
+  "lon": 9.9128532
+},
+{
+  "type": "node",
+  "id": 1015089321,
+  "lat": 49.7915659,
+  "lon": 9.9113536
+},
+{
+  "type": "node",
+  "id": 1015089330,
+  "lat": 49.7916707,
+  "lon": 9.9144247
+},
+{
+  "type": "node",
+  "id": 2745329523,
+  "lat": 49.9023965,
+  "lon": 10.3472144
+},
+{
+  "type": "node",
+  "id": 2745329518,
+  "lat": 49.9025476,
+  "lon": 10.3471192
+},
+{
+  "type": "node",
+  "id": 2745329520,
+  "lat": 49.9025900,
+  "lon": 10.3472816
+},
+{
+  "type": "node",
+  "id": 2745329522,
+  "lat": 49.9024389,
+  "lon": 10.3473767
+},
+{
+  "type": "node",
+  "id": 2745329525,
+  "lat": 49.9025708,
+  "lon": 10.3472936
+}
+
+  ]
+}

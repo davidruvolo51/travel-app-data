@@ -1,0 +1,94 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T10:58:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 4339918041,
+  "lat": 45.6680281,
+  "lon": 12.1894142,
+  "tags": {
+    "addr:street": "Via Postumia",
+    "craft": "brewery",
+    "name": "Duca di Baviera",
+    "operator": "Laboratorio Artigianale"
+  }
+},
+{
+  "type": "node",
+  "id": 6425292345,
+  "lat": 45.6943360,
+  "lon": 11.8400366,
+  "tags": {
+    "craft": "brewery",
+    "name": "Birrificio Diciassette"
+  }
+},
+{
+  "type": "way",
+  "id": 146241964,
+  "nodes": [
+    1595172063,
+    1595171873,
+    1595171871,
+    1595172126,
+    1595172140,
+    1595172033,
+    1595172063
+  ],
+  "tags": {
+    "addr:city": "Montebelluna",
+    "addr:housename": "Agribirrificio",
+    "addr:housenumber": "46",
+    "addr:postcode": "31044",
+    "addr:street": "Via Sant'Andrea",
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Agribirrificio Napinta",
+    "website": "http://www.napinta.it/"
+  }
+},
+{
+  "type": "node",
+  "id": 1595171871,
+  "lat": 45.7647611,
+  "lon": 12.0342359
+},
+{
+  "type": "node",
+  "id": 1595171873,
+  "lat": 45.7647636,
+  "lon": 12.0343828
+},
+{
+  "type": "node",
+  "id": 1595172033,
+  "lat": 45.7648204,
+  "lon": 12.0343495
+},
+{
+  "type": "node",
+  "id": 1595172063,
+  "lat": 45.7648209,
+  "lon": 12.0343808
+},
+{
+  "type": "node",
+  "id": 1595172126,
+  "lat": 45.7648330,
+  "lon": 12.0342333
+},
+{
+  "type": "node",
+  "id": 1595172140,
+  "lat": 45.7648351,
+  "lon": 12.0343490
+}
+
+  ]
+}

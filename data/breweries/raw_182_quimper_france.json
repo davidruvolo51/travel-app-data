@@ -1,0 +1,185 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T08:40:03Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 330344433,
+  "lat": 47.9956602,
+  "lon": -4.1049125,
+  "tags": {
+    "amenity": "pub",
+    "food": "yes",
+    "microbrewery": "yes",
+    "name": "Le Commerce",
+    "outdoor_seating": "yes",
+    "smoking": "outside"
+  }
+},
+{
+  "type": "node",
+  "id": 343261687,
+  "lat": 47.9962670,
+  "lon": -4.1027670,
+  "tags": {
+    "addr:city": "Quimper",
+    "addr:country": "FR",
+    "addr:housenumber": "34",
+    "addr:postcode": "29000",
+    "addr:street": "Place Saint-Corentin",
+    "amenity": "pub",
+    "brewery": "1664;Grimbergen;Grimbergen_blanche;Grimbergen_fruits_rouges;Elephant;Lancelot;Leffe",
+    "cuisine": "french",
+    "internet_access": "yes",
+    "microbrewery": "yes",
+    "name": "Café Le Finistère",
+    "opening_hours": "10:00-00:00",
+    "outdoor_seating": "yes",
+    "phone": "+33298950148",
+    "smoking": "outside"
+  }
+},
+{
+  "type": "node",
+  "id": 459279612,
+  "lat": 47.9962557,
+  "lon": -4.1026163,
+  "tags": {
+    "addr:city": "Quimper",
+    "addr:country": "FR",
+    "addr:postcode": "29000",
+    "addr:street": "Place Saint-Corentin",
+    "amenity": "pub",
+    "brewery": "Grimbergen;Grimbergen_blanche;Grimbergen_fruits_rouges;Hoegaarden;Stella Artois",
+    "cuisine": "french",
+    "food": "yes",
+    "microbrewery": "yes",
+    "name": "Le Vingt-et-unième",
+    "opening_hours": "Mo-Sa 8:00-22:00",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2009"
+  }
+},
+{
+  "type": "node",
+  "id": 872593106,
+  "lat": 47.9458052,
+  "lon": -4.3692868,
+  "tags": {
+    "craft": "brewery",
+    "microbrewery": "yes",
+    "name": "Brasserie Artisanale de Pouldreuzic",
+    "opening_hours": "Mo-Fr 16:00-18:00",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2010"
+  }
+},
+{
+  "type": "node",
+  "id": 2103419955,
+  "lat": 47.8416679,
+  "lon": -4.2836504,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "microbrewery": "yes",
+    "name": "La Tulipe"
+  }
+},
+{
+  "type": "node",
+  "id": 3609884693,
+  "lat": 47.9955434,
+  "lon": -4.1074326,
+  "tags": {
+    "addr:city": "Quimper",
+    "addr:housenumber": "18",
+    "addr:postcode": "29000",
+    "addr:street": "Rue Saint-Mathieu",
+    "amenity": "pub",
+    "food": "yes",
+    "microbrewery": "yes",
+    "name": "Le Bistrot Saint-Mathieu",
+    "opening_hours": "Mo-Sa 9:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+33 298 558585",
+    "smoking": "outside"
+  }
+},
+{
+  "type": "node",
+  "id": 6495414313,
+  "lat": 47.8873191,
+  "lon": -3.9282086,
+  "tags": {
+    "addr:city": "Concarneau",
+    "addr:housenumber": "27",
+    "addr:postcode": "29900",
+    "addr:street": "Chemin de Kerléan",
+    "craft": "brewery",
+    "email": "erwancadic27@gmail.com",
+    "name": "Brasserie de Cornouaille",
+    "opening_hours": "Fr 16:00-19:00",
+    "operator": "Erwan Cadic",
+    "phone": "+33 6 88 18 86 99",
+    "product": "beer",
+    "start_date": "2017"
+  }
+},
+{
+  "type": "node",
+  "id": 6548247859,
+  "lat": 47.9951368,
+  "lon": -4.1096164,
+  "tags": {
+    "amenity": "pub",
+    "microbrewery": "yes",
+    "name": "La Tour d'Auvergne"
+  }
+},
+{
+  "type": "node",
+  "id": 6548518317,
+  "lat": 47.9962803,
+  "lon": -4.1033283,
+  "tags": {
+    "addr:city": "Quimper",
+    "addr:housenumber": "4",
+    "addr:postcode": "29000",
+    "addr:street": "Rue du Guéodet",
+    "amenity": "pub",
+    "microbrewery": "yes",
+    "name": "Les Cariatides"
+  }
+},
+{
+  "type": "node",
+  "id": 6813781760,
+  "lat": 47.9009733,
+  "lon": -3.9057776,
+  "tags": {
+    "addr:city": "Concarneau",
+    "addr:postcode": "29900",
+    "addr:street": "Rue Aimé Césaire",
+    "craft": "brewery",
+    "email": "contact@trimartolod.fr",
+    "fax": "+33 2 98 57 04 06",
+    "name": "Brasserie Tri Martolod",
+    "opening_hours": "Mo-Sa 09:30-12:30, 14:00-19:30",
+    "operator": "Goulven Le Bouedec;Raphaël Lachaise",
+    "phone": "+33 2 98 66 20 22",
+    "product": "beer",
+    "start_date": "1999-12-05",
+    "website": "https://www.trimartolod.fr",
+    "wikidata": "Q2924032",
+    "wikipedia": "fr:Brasserie Tri Martolod"
+  }
+}
+
+  ]
+}

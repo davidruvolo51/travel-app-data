@@ -1,0 +1,1016 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-05T23:33:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 420511325,
+  "lat": 52.5199967,
+  "lon": 13.2998164,
+  "tags": {
+    "addr:city": "Berlin",
+    "addr:country": "DE",
+    "addr:housenumber": "1",
+    "addr:postcode": "10585",
+    "addr:street": "Luisenplatz",
+    "addr:suburb": "Charlottenburg",
+    "amenity": "restaurant",
+    "contact:email": "schloss@brauhaus-lemke.de",
+    "contact:facebook": "https://www.facebook.com/pages/Brauerei-Lemke/1416127565284312?fref=nf",
+    "contact:fax": "+49 30 30878978",
+    "contact:phone": "+49 30 30878979",
+    "contact:website": "http://www.brauhaus-lemke.com/",
+    "cuisine": "german",
+    "drive_in": "no",
+    "microbrewery": "yes",
+    "name": "Brauhaus Lemke am Schloss",
+    "note": "Geprüft am 27. Dez 2015",
+    "opening_hours": "12:00-24:00",
+    "operator": "Brauhaus am Schloss GmbH",
+    "outdoor_seating": "yes",
+    "smoking": "no",
+    "takeaway": "no",
+    "toilets:wheelchair": "no",
+    "website": "https://www.lemke.berlin/schloss_charlottenburg/device.desktop/lang.en/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 595644017,
+  "lat": 52.5165146,
+  "lon": 13.4053974,
+  "tags": {
+    "addr:city": "Berlin",
+    "addr:country": "DE",
+    "addr:housenumber": "4",
+    "addr:postcode": "10178",
+    "addr:street": "Spreeufer",
+    "addr:suburb": "Mitte",
+    "amenity": "restaurant",
+    "contact:phone": "+49302425870",
+    "contact:website": "http://www.georgbraeu.de",
+    "cuisine": "regional",
+    "microbrewery": "yes",
+    "name": "Brauhaus Georgbräu",
+    "start_date": "1992",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 595682004,
+  "lat": 52.5232658,
+  "lon": 13.4045873,
+  "tags": {
+    "addr:city": "Berlin",
+    "addr:country": "DE",
+    "addr:housenumber": "143",
+    "addr:postcode": "10178",
+    "addr:street": "Dircksenstraße",
+    "addr:suburb": "Mitte",
+    "amenity": "restaurant",
+    "contact:phone": "+49 (0) 30 247 287 27",
+    "contact:website": "http://www.lemke.berlin",
+    "cuisine": "german;burger",
+    "email": "hackeschermarkt@lemke.berlin",
+    "microbrewery": "yes",
+    "name": "Brauhaus Lemke",
+    "opening_hours": "Mo-Su 12:00-00:00",
+    "toilets:wheelchair": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 775332629,
+  "lat": 52.4884165,
+  "lon": 13.4104709,
+  "tags": {
+    "addr:city": "Berlin",
+    "addr:country": "DE",
+    "addr:housenumber": "69",
+    "addr:postcode": "10967",
+    "addr:street": "Hasenheide",
+    "addr:suburb": "Neukölln",
+    "amenity": "restaurant",
+    "contact:phone": "+49 30 69001624",
+    "contact:website": "http://www.brauhaus-suedstern.de",
+    "cuisine": "german",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "microbrewery": "yes",
+    "name": "Brauhaus Südstern",
+    "opening_hours": "Mo-Fr 17:00+; Sa 14:00+; Su 12:00+",
+    "operator": "Brauhaus Südstern KG",
+    "outdoor_seating": "yes",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1111632075,
+  "lat": 52.4793560,
+  "lon": 13.4313110,
+  "tags": {
+    "addr:city": "Berlin",
+    "addr:country": "DE",
+    "addr:housenumber": "3",
+    "addr:postcode": "12053",
+    "addr:street": "Am Sudhaus",
+    "addr:suburb": "Neukölln",
+    "amenity": "pub",
+    "check_date:opening_hours": "2019-07-07",
+    "contact:email": "durst@rollberger.de",
+    "contact:website": "https://www.rollberger.de/kontakt/",
+    "level": "0",
+    "microbrewery": "yes",
+    "name": "Privatbrauerei am Rollberg",
+    "opening_hours": "Fr 17:00-23:30; Sa 17:00-23:30",
+    "operator": "Privatbrauerei Am Rollberg GmbH",
+    "outdoor_seating": "yes",
+    "smoking": "yes",
+    "website": "https://www.rollberger.de/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1243413781,
+  "lat": 52.5434524,
+  "lon": 13.3597107,
+  "tags": {
+    "addr:city": "Berlin",
+    "addr:country": "DE",
+    "addr:housenumber": "67",
+    "addr:postcode": "13353",
+    "addr:street": "Triftstraße",
+    "addr:suburb": "Wedding",
+    "amenity": "pub",
+    "contact:phone": "+49 162 4931915",
+    "craft": "distillery",
+    "description": "Der Zeitraum mit verlängerten Öffnungszeiten können etwas von den angegeben abweichen. Das wechselt von Jahr zu Jahr um ein paar Tage.",
+    "distillery": "whisky",
+    "internet_access": "no",
+    "level": "-1",
+    "microbrewery": "yes",
+    "name": "Eschenbräu",
+    "opening_hours": "Mo-Su 17:00+; Apr-Sep Mo-Su 15:00+",
+    "opening_hours:url": "http://www.eschenbraeu.de/de/kontakt.shtml",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "toilets:wheelchair": "no",
+    "website": "http://www.eschenbraeu.de/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1394776930,
+  "lat": 52.5089471,
+  "lon": 13.4606232,
+  "tags": {
+    "addr:city": "Berlin",
+    "addr:country": "DE",
+    "addr:housenumber": "22/23",
+    "addr:postcode": "10245",
+    "addr:street": "Wühlischstraße",
+    "addr:suburb": "Friedrichshain",
+    "amenity": "pub",
+    "contact:phone": "+493029367534",
+    "contact:website": "http://hopsandbarley-berlin.de/",
+    "craft": "brewery",
+    "internet_access": "wlan",
+    "microbrewery": "yes",
+    "name": "Hops & Barley",
+    "opening_hours": "Mo-Fr 17:00+; Sa-Su 15:00+",
+    "smoking": "separated",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "no",
+    "wifi": "free"
+  }
+},
+{
+  "type": "node",
+  "id": 1650663073,
+  "lat": 52.4784374,
+  "lon": 13.4198980,
+  "tags": {
+    "addr:city": "Berlin",
+    "addr:country": "DE",
+    "addr:housenumber": "20",
+    "addr:postcode": "12049",
+    "addr:street": "Selchower Straße",
+    "addr:suburb": "Neukölln",
+    "amenity": "pub",
+    "contact:email": "info@brauhaus-neulich.de",
+    "contact:phone": "+49 30 47057790",
+    "contact:website": "https://www.brauhaus-neulich.de",
+    "microbrewery": "yes",
+    "name": "Brauhaus neulich",
+    "opening_hours": "Tu-Sa 18:00+",
+    "outdoor_seating": "yes;sidewalk"
+  }
+},
+{
+  "type": "node",
+  "id": 1744051719,
+  "lat": 52.5076840,
+  "lon": 13.3185313,
+  "tags": {
+    "addr:city": "Berlin",
+    "addr:country": "DE",
+    "addr:housenumber": "8",
+    "addr:postcode": "10625",
+    "addr:street": "Pestalozzistraße",
+    "addr:suburb": "Charlottenburg",
+    "amenity": "restaurant",
+    "contact:website": "http://www.vaust-berlin.de",
+    "cuisine": "international",
+    "diet:vegan": "only",
+    "email": "reservierung@vaust-berlin.de",
+    "microbrewery": "yes",
+    "name": "Vaust",
+    "opening_hours": "Mo-Sa 17:00-23:00",
+    "phone": "+493054599160",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2529284228,
+  "lat": 52.5478615,
+  "lon": 13.3493543,
+  "tags": {
+    "addr:city": "Berlin",
+    "addr:country": "DE",
+    "addr:housenumber": "3",
+    "addr:postcode": "13353",
+    "addr:street": "Antwerpener Straße",
+    "addr:suburb": "Wedding",
+    "amenity": "pub",
+    "microbrewery": "yes",
+    "name": "Vagabund Brauerei",
+    "opening_hours": "Mo-Fr 17:00+; Sa,Su 13:00+",
+    "payment:bitcoin": "yes",
+    "smoking": "no",
+    "toilets:wheelchair": "no",
+    "website": "https://www.vagabundbrauerei.com/",
+    "wheelchair": "limited",
+    "wheelchair:description": "Ask for entrance ramp, if needed. Toilet entrance is very narrow."
+  }
+},
+{
+  "type": "node",
+  "id": 3281651374,
+  "lat": 52.5020488,
+  "lon": 13.4313726,
+  "tags": {
+    "addr:city": "Berlin",
+    "addr:country": "DE",
+    "addr:housenumber": "42-43",
+    "addr:postcode": "10997",
+    "addr:street": "Eisenbahnstraße",
+    "addr:suburb": "Kreuzberg",
+    "contact:phone": "+49 176 22291688",
+    "contact:website": "http://www.heidenpeters.de/",
+    "craft": "brewery",
+    "name": "Heidenpeters",
+    "opening_hours": "Tu-We, Fr 14:00-20:00; Th 17:00-22:00; Sa 12:00-20:00",
+    "operator": "Johannes Heidenpeter",
+    "product": "beer",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3980732007,
+  "lat": 52.5055343,
+  "lon": 13.4694509,
+  "tags": {
+    "addr:city": "Berlin",
+    "addr:country": "DE",
+    "addr:housenumber": "30",
+    "addr:postcode": "10245",
+    "addr:street": "Neue Bahnhofstraße",
+    "addr:suburb": "Friedrichshain",
+    "amenity": "pub",
+    "brewery": "yes",
+    "contact:email": "bier@strassenbraeu.de",
+    "contact:facebook": "strassenbraeu",
+    "contact:instagram": "https://www.instagram.com/explore/locations/1021069396/",
+    "contact:mobile": "+49176 84833309",
+    "contact:phone": "+49 30 55527550",
+    "contact:website": "http://strassenbraeu.de",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "microbrewery": "yes",
+    "name": "Straßenbräu",
+    "opening_hours": "Mo-Su 17:00-02:00, Fr,Sa 17:00+",
+    "outdoor_seating": "sidewalk",
+    "smoking": "outside",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4208666192,
+  "lat": 52.4380374,
+  "lon": 13.3680030,
+  "tags": {
+    "addr:city": "Berlin",
+    "addr:country": "DE",
+    "addr:housenumber": "23",
+    "addr:postcode": "12107",
+    "addr:street": "Im Marienpark",
+    "addr:suburb": "Mariendorf",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "brewery": "various",
+    "cuisine": "american;craft_beer",
+    "dog": "yes",
+    "microbrewery": "yes",
+    "name": "Brewdog DogTap Berlin",
+    "opening_hours": "Mo-Th 10:00-21:00; Fr 10:00-24:00; Sa 09:00-24:00; Su 09:00-22:00",
+    "outdoor_seating": "yes",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.brewdog.com/bars/global/dogtap-berlin/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4367758889,
+  "lat": 52.5000198,
+  "lon": 13.3736145,
+  "tags": {
+    "addr:city": "Berlin",
+    "addr:country": "DE",
+    "addr:housenumber": "16",
+    "addr:postcode": "10963",
+    "addr:street": "Schöneberger Straße",
+    "addr:suburb": "Kreuzberg",
+    "amenity": "restaurant",
+    "contact:email": "brwhouse@brlo.de",
+    "contact:mobile": "+49 15174374235",
+    "contact:website": "https://brlo-brwhouse.de/",
+    "cuisine": "barbecue;burger;diner;fine_dining;sandwich",
+    "internet_access": "wlan",
+    "microbrewery": "yes",
+    "name": "Brło Brwhouse",
+    "opening_hours": "Tu-Fr 17:00-23:55; Sa-Su 12:00-23:55",
+    "operator": "Braukunst Berlin Gastro GmbH",
+    "outdoor_seating": "yes",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 4934051293,
+  "lat": 52.5229371,
+  "lon": 13.4509552,
+  "tags": {
+    "addr:housenumber": "39",
+    "addr:street": "Petersburger Straße",
+    "craft": "brewery",
+    "name": "Flessa",
+    "phone": "+49-30-23470831",
+    "website": "https://www.brauerei-flessa.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 5403962644,
+  "lat": 52.5538015,
+  "lon": 13.4078377,
+  "tags": {
+    "craft": "brewery",
+    "description": "Familien Brauhaus",
+    "name": "Leikheim"
+  }
+},
+{
+  "type": "node",
+  "id": 5462386937,
+  "lat": 52.5407571,
+  "lon": 13.2066332,
+  "tags": {
+    "addr:city": "Berlin",
+    "addr:country": "DE",
+    "addr:housenumber": "1",
+    "addr:postcode": "13585",
+    "addr:street": "Neuendorfer Straße",
+    "addr:suburb": "Spandau",
+    "amenity": "restaurant",
+    "microbrewery": "yes",
+    "name": "Brauhaus Spandau",
+    "phone": "+49 30 3539070",
+    "toilets:wheelchair": "no",
+    "website": "https://www.brauhaus-spandau.de/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 5628799537,
+  "lat": 52.5229367,
+  "lon": 13.4508965,
+  "tags": {
+    "addr:housenumber": "39",
+    "addr:street": "Petersburger Straße",
+    "craft": "brewery",
+    "name": "Flessa",
+    "opening_hours": "Mo-Fr 09:00-16:00",
+    "phone": "+493023470831",
+    "website": "https://www.brauerei-flessa.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 6005026587,
+  "lat": 52.5114487,
+  "lon": 13.4268977,
+  "tags": {
+    "addr:city": "Berlin",
+    "addr:country": "DE",
+    "addr:housenumber": "25",
+    "addr:postcode": "10243",
+    "addr:street": "Holzmarktstraße",
+    "addr:suburb": "Friedrichshain",
+    "contact:website": "https://brauerei.holzmarkt.com/",
+    "craft": "brewery",
+    "fixme": "location not clear",
+    "name": "Holzmarkt Brauerei"
+  }
+},
+{
+  "type": "node",
+  "id": 6007397495,
+  "lat": 52.5243914,
+  "lon": 13.3352105,
+  "tags": {
+    "addr:city": "Berlin",
+    "addr:country": "DE",
+    "addr:housenumber": "80",
+    "addr:postcode": "10555",
+    "addr:street": "Alt-Moabit",
+    "addr:suburb": "Moabit",
+    "contact:website": "https://einbarbrauerei.com/",
+    "craft": "brewery",
+    "name": "Einbar Brauerei"
+  }
+},
+{
+  "type": "node",
+  "id": 6009683985,
+  "lat": 52.5423538,
+  "lon": 13.2225634,
+  "tags": {
+    "addr:city": "Berlin",
+    "addr:country": "DE",
+    "addr:housenumber": "21",
+    "addr:postcode": "13599",
+    "addr:street": "Telegrafenweg",
+    "addr:suburb": "Haselhorst",
+    "contact:facebook": "https://www.facebook.com/craftzentrum.berlin",
+    "contact:website": "http://craftzentrum.berlin/",
+    "craft": "brewery",
+    "name": "Craftzentrum Berlin",
+    "opening_hours": "Mo-Th 08:00-13:00",
+    "operator": "BRLO",
+    "product": "beer"
+  }
+},
+{
+  "type": "node",
+  "id": 6545113859,
+  "lat": 52.5233952,
+  "lon": 13.4487495,
+  "tags": {
+    "addr:city": "Berlin",
+    "addr:housenumber": "30",
+    "addr:postcode": "10249",
+    "addr:street": "Petersburger Straße",
+    "craft": "brewery",
+    "name": "BFBeV - Braufreunde Berlin e.V. - Hauptquartier"
+  }
+},
+{
+  "type": "way",
+  "id": 23019606,
+  "nodes": [
+    248191749,
+    5319146618,
+    248191750,
+    248191751,
+    248191752,
+    5006804151,
+    5006804152,
+    248191749
+  ],
+  "tags": {
+    "addr:city": "Potsdam",
+    "addr:housenumber": "10",
+    "addr:postcode": "14469",
+    "addr:street": "Im Neuen Garten",
+    "alt_name": "Gasthausbrauerei Meierei im Neuen Garten",
+    "amenity": "pub",
+    "brewery": "various",
+    "building": "house",
+    "building:levels": "2",
+    "building:part": "yes",
+    "cuisine": "german",
+    "email": "info@meierei-potsdam.de",
+    "fax": "+49 331 7043213",
+    "food": "yes",
+    "internet_access": "no",
+    "microbrewery": "yes",
+    "name": "Meierei - Brauerei Potsdam",
+    "opening_hours": "Apr 01-Oct 31: Tu-Fr,Ph 12:00-22:00; Sa,Su,Ph 11:00-22:00; Nov 01-Mar 31 Tu-Sa 12:00-22:00; Su 12:00-20:00; Dec 24 Off; Dec 25,26,31 12:00-17:00; Jan 01: 12:00-17:00; Jan 02-25 Off",
+    "operator": "Gasthausbrauerei Meierei im Neuen Garten GmbH",
+    "outdoor_seating": "yes",
+    "phone": "+49 331 7043211",
+    "takeaway": "no",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.meierei-potsdam.de/",
+    "wheelchair": "yes",
+    "wikipedia": "DE:Meierei_im_Neuen_Garten"
+  }
+},
+{
+  "type": "way",
+  "id": 27625025,
+  "nodes": [
+    303373659,
+    303373660,
+    303373688,
+    303373686,
+    303373684,
+    303373675,
+    303373681,
+    303373679,
+    303373677,
+    303373661,
+    303373659
+  ],
+  "tags": {
+    "addr:city": "Potsdam",
+    "addr:country": "DE",
+    "addr:housenumber": "102",
+    "addr:postcode": "14473",
+    "addr:street": "Templiner Straße",
+    "addr:suburb": "Templiner Vorstadt",
+    "amenity": "restaurant",
+    "bldam:criteria": "Baudenkmal",
+    "brewery": "Braumanufaktur Potsdam",
+    "building": "commercial",
+    "contact:email": "thomas@braumanufaktur.de",
+    "contact:fax": "+49 33209 217980",
+    "contact:phone": "+49 33209 217979",
+    "contact:website": "http://www.braumanufaktur.de/gastronomie-forsthaus-templin",
+    "cuisine": "german;regional",
+    "description": "Gasthaus \"Forsthaus Templin\"",
+    "heritage": "4",
+    "heritage:operator": "bldam",
+    "heritage:website": "https://ns.gis-bldam-brandenburg.de/hida4web/view?docId=obj09155832.xml",
+    "historic": "building",
+    "microbrewery": "yes",
+    "name": "Braumanufaktur Forsthaus Templin",
+    "opening_hours": "We-Su 11:00-22:00; Mo,Tu off",
+    "operator": "Jörg Kirchhoff",
+    "outdoor_seating": "yes",
+    "ref:bldam": "09155832",
+    "roof:colour": "red",
+    "roof:levels": "1",
+    "roof:material": "roof_tiles",
+    "roof:shape": "hipped",
+    "smoking": "outside",
+    "start_date": "1846",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 49707009,
+  "nodes": [
+    631772088,
+    4924203338,
+    2516856043,
+    2516856044,
+    2516856040,
+    2516856039,
+    6595152160,
+    4924203354,
+    4924203353,
+    2516856038,
+    6595152162,
+    4924203346,
+    631772090,
+    2820325678,
+    2516856066,
+    631772091,
+    6813710184,
+    6813733885,
+    4924203343,
+    6813733948,
+    6813733949,
+    631772095,
+    6813734097,
+    4924203348,
+    4924203347,
+    2516856041,
+    2516856042,
+    4924203349,
+    4924203350,
+    6813734095,
+    4924203352,
+    4924203351,
+    631772088
+  ],
+  "tags": {
+    "building": "yes",
+    "building:colour": "#B97F6C",
+    "building:levels": "5",
+    "building:material": "brick",
+    "craft": "brewery",
+    "old_name": "Sudhaus der Berliner Kindl-Brauerei",
+    "roof:colour": "#878F78",
+    "roof:shape": "flat",
+    "wikidata": "Q2363268",
+    "wikipedia": "de:Sudhaus der Berliner Kindl-Brauerei"
+  }
+},
+{
+  "type": "way",
+  "id": 127199634,
+  "nodes": [
+    3927771497,
+    3927804276,
+    3927753536,
+    3927771495,
+    3927812558,
+    3927771496,
+    3927771497
+  ],
+  "tags": {
+    "addr:city": "Berlin",
+    "addr:country": "DE",
+    "addr:housenumber": "99",
+    "addr:postcode": "10245",
+    "addr:street": "Revaler Straße",
+    "addr:suburb": "Friedrichshain",
+    "amenity": "restaurant",
+    "building": "commercial",
+    "building:levels": "2",
+    "contact:email": "info@schalander-berlin.de",
+    "contact:website": "http://www.schalander-berlin.de/",
+    "cuisine": "german",
+    "diet:vegetarian": "yes",
+    "microbrewery": "yes",
+    "name": "Privatbrauerei Schalander",
+    "opening_hours": "Mo-Th 16:00+, Fr-Sa 15:00+, Su 12:00+",
+    "outdoor_seating": "yes",
+    "roof:levels": "0",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 303373659,
+  "lat": 52.3593368,
+  "lon": 13.0233038
+},
+{
+  "type": "node",
+  "id": 303373660,
+  "lat": 52.3594452,
+  "lon": 13.0236587
+},
+{
+  "type": "node",
+  "id": 303373661,
+  "lat": 52.3592445,
+  "lon": 13.0233793
+},
+{
+  "type": "node",
+  "id": 303373675,
+  "lat": 52.3593124,
+  "lon": 13.0236070
+},
+{
+  "type": "node",
+  "id": 303373677,
+  "lat": 52.3592870,
+  "lon": 13.0235185
+},
+{
+  "type": "node",
+  "id": 303373679,
+  "lat": 52.3593045,
+  "lon": 13.0235042
+},
+{
+  "type": "node",
+  "id": 303373681,
+  "lat": 52.3593312,
+  "lon": 13.0235916
+},
+{
+  "type": "node",
+  "id": 303373684,
+  "lat": 52.3593063,
+  "lon": 13.0235871
+},
+{
+  "type": "node",
+  "id": 303373686,
+  "lat": 52.3592260,
+  "lon": 13.0236528
+},
+{
+  "type": "node",
+  "id": 303373688,
+  "lat": 52.3592713,
+  "lon": 13.0238010
+},
+{
+  "type": "node",
+  "id": 248191749,
+  "lat": 52.4220882,
+  "lon": 13.0694745
+},
+{
+  "type": "node",
+  "id": 248191750,
+  "lat": 52.4221855,
+  "lon": 13.0696389
+},
+{
+  "type": "node",
+  "id": 248191751,
+  "lat": 52.4220602,
+  "lon": 13.0698385
+},
+{
+  "type": "node",
+  "id": 248191752,
+  "lat": 52.4219717,
+  "lon": 13.0696890
+},
+{
+  "type": "node",
+  "id": 5006804151,
+  "lat": 52.4220254,
+  "lon": 13.0696035
+},
+{
+  "type": "node",
+  "id": 5006804152,
+  "lat": 52.4220165,
+  "lon": 13.0695885
+},
+{
+  "type": "node",
+  "id": 5319146618,
+  "lat": 52.4221341,
+  "lon": 13.0695536
+},
+{
+  "type": "node",
+  "id": 631772088,
+  "lat": 52.4796202,
+  "lon": 13.4304175
+},
+{
+  "type": "node",
+  "id": 631772090,
+  "lat": 52.4792536,
+  "lon": 13.4308215
+},
+{
+  "type": "node",
+  "id": 631772091,
+  "lat": 52.4793245,
+  "lon": 13.4313893
+},
+{
+  "type": "node",
+  "id": 631772095,
+  "lat": 52.4796772,
+  "lon": 13.4312713
+},
+{
+  "type": "node",
+  "id": 2516856038,
+  "lat": 52.4792887,
+  "lon": 13.4305702
+},
+{
+  "type": "node",
+  "id": 2516856039,
+  "lat": 52.4793989,
+  "lon": 13.4305121
+},
+{
+  "type": "node",
+  "id": 2516856040,
+  "lat": 52.4793960,
+  "lon": 13.4304894
+},
+{
+  "type": "node",
+  "id": 2516856041,
+  "lat": 52.4795740,
+  "lon": 13.4308245
+},
+{
+  "type": "node",
+  "id": 2516856042,
+  "lat": 52.4796758,
+  "lon": 13.4307904
+},
+{
+  "type": "node",
+  "id": 2516856043,
+  "lat": 52.4794980,
+  "lon": 13.4304584
+},
+{
+  "type": "node",
+  "id": 2516856044,
+  "lat": 52.4794976,
+  "lon": 13.4304554
+},
+{
+  "type": "node",
+  "id": 2516856066,
+  "lat": 52.4792705,
+  "lon": 13.4309572
+},
+{
+  "type": "node",
+  "id": 2820325678,
+  "lat": 52.4792596,
+  "lon": 13.4308700
+},
+{
+  "type": "node",
+  "id": 4924203338,
+  "lat": 52.4795672,
+  "lon": 13.4304352
+},
+{
+  "type": "node",
+  "id": 4924203343,
+  "lat": 52.4794975,
+  "lon": 13.4313314
+},
+{
+  "type": "node",
+  "id": 4924203346,
+  "lat": 52.4793174,
+  "lon": 13.4308001
+},
+{
+  "type": "node",
+  "id": 4924203347,
+  "lat": 52.4795858,
+  "lon": 13.4309192
+},
+{
+  "type": "node",
+  "id": 4924203348,
+  "lat": 52.4796313,
+  "lon": 13.4309040
+},
+{
+  "type": "node",
+  "id": 4924203349,
+  "lat": 52.4796523,
+  "lon": 13.4306023
+},
+{
+  "type": "node",
+  "id": 4924203350,
+  "lat": 52.4796510,
+  "lon": 13.4306027
+},
+{
+  "type": "node",
+  "id": 4924203351,
+  "lat": 52.4796223,
+  "lon": 13.4304339
+},
+{
+  "type": "node",
+  "id": 4924203352,
+  "lat": 52.4796296,
+  "lon": 13.4304315
+},
+{
+  "type": "node",
+  "id": 4924203353,
+  "lat": 52.4792818,
+  "lon": 13.4305725
+},
+{
+  "type": "node",
+  "id": 4924203354,
+  "lat": 52.4792793,
+  "lon": 13.4305522
+},
+{
+  "type": "node",
+  "id": 6595152160,
+  "lat": 52.4792913,
+  "lon": 13.4305482
+},
+{
+  "type": "node",
+  "id": 6595152162,
+  "lat": 52.4793136,
+  "lon": 13.4307699
+},
+{
+  "type": "node",
+  "id": 6813710184,
+  "lat": 52.4793971,
+  "lon": 13.4313650
+},
+{
+  "type": "node",
+  "id": 6813733885,
+  "lat": 52.4794696,
+  "lon": 13.4313407
+},
+{
+  "type": "node",
+  "id": 6813733948,
+  "lat": 52.4795300,
+  "lon": 13.4313205
+},
+{
+  "type": "node",
+  "id": 6813733949,
+  "lat": 52.4795923,
+  "lon": 13.4312997
+},
+{
+  "type": "node",
+  "id": 6813734095,
+  "lat": 52.4796320,
+  "lon": 13.4304509
+},
+{
+  "type": "node",
+  "id": 6813734097,
+  "lat": 52.4796726,
+  "lon": 13.4312343
+},
+{
+  "type": "node",
+  "id": 3927753536,
+  "lat": 52.5071047,
+  "lon": 13.4567578
+},
+{
+  "type": "node",
+  "id": 3927771495,
+  "lat": 52.5070319,
+  "lon": 13.4567231
+},
+{
+  "type": "node",
+  "id": 3927771496,
+  "lat": 52.5070387,
+  "lon": 13.4571554
+},
+{
+  "type": "node",
+  "id": 3927771497,
+  "lat": 52.5070717,
+  "lon": 13.4569691
+},
+{
+  "type": "node",
+  "id": 3927804276,
+  "lat": 52.5070676,
+  "lon": 13.4569670
+},
+{
+  "type": "node",
+  "id": 3927812558,
+  "lat": 52.5069625,
+  "lon": 13.4571145
+}
+
+  ]
+}

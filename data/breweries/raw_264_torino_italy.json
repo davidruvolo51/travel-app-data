@@ -1,0 +1,475 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T10:53:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1234453071,
+  "lat": 45.0781245,
+  "lon": 7.6931751,
+  "tags": {
+    "addr:city": "Torino",
+    "addr:country": "IT",
+    "addr:housenumber": "30",
+    "addr:postcode": "10152",
+    "addr:street": "Via Parma",
+    "amenity": "pub",
+    "brewery": "yes",
+    "email": "info@birrificiotorino.com",
+    "fax": "+39 011 2876562",
+    "microbrewery": "yes",
+    "name": "Birrificio Torino",
+    "opening_hours": "Mo-Su 00:00-02:00, 20:00-24:00; Fr, Sa 00:00-03:00, 20:00-24:00",
+    "phone": "+39 011 2876562",
+    "ref:vatin": "IT08046530013",
+    "smoking": "isolated",
+    "website": "http://www.birrificiotorino.com"
+  }
+},
+{
+  "type": "node",
+  "id": 2214951950,
+  "lat": 44.9765874,
+  "lon": 7.7074804,
+  "tags": {
+    "addr:city": "Moncalieri",
+    "addr:housename": "45°NORD",
+    "addr:housenumber": "1",
+    "addr:postcode": "10024",
+    "addr:street": "Via Fortunato Postiglione",
+    "amenity": "pub",
+    "cuisine": "chicken",
+    "description": "Brew Pub ristorante, propone Birre artigianali auto prodotte e galletto cotto alla brace ",
+    "microbrewery": "yes",
+    "name": "DynaMeet",
+    "smoking": "outside"
+  }
+},
+{
+  "type": "node",
+  "id": 4095656880,
+  "lat": 45.0543797,
+  "lon": 7.6741664,
+  "tags": {
+    "addr:city": "Torino",
+    "addr:housenumber": "12",
+    "addr:postcode": "10125",
+    "addr:street": "Corso Germano Sommeiller",
+    "amenity": "pub",
+    "brewery": "yes",
+    "microbrewery": "yes",
+    "name": "Birrificio delle Officine Ferroviarie"
+  }
+},
+{
+  "type": "node",
+  "id": 4206858443,
+  "lat": 45.0111751,
+  "lon": 7.8155999,
+  "tags": {
+    "addr:city": "Chieri",
+    "addr:housenumber": "36 bis",
+    "addr:postcode": "10023",
+    "addr:street": "Viale Francesco Fasano",
+    "amenity": "pub",
+    "contact:website": "http://www.gradoplato.it",
+    "microbrewery": "yes",
+    "name": "Birrificio Grado Plato"
+  }
+},
+{
+  "type": "node",
+  "id": 4356137641,
+  "lat": 45.0790762,
+  "lon": 7.4007653,
+  "tags": {
+    "addr:city": "Avigliana",
+    "addr:housenumber": "2",
+    "addr:postcode": "10051",
+    "addr:street": "Piazza del Popolo",
+    "amenity": "pub",
+    "brewery": "yes",
+    "contact:facebook": "https://www.facebook.com/ilbirrificioavigliana/",
+    "contact:website": "https://www.birralaval.it/brew-pub-il-birrificio/",
+    "microbrewery": "yes",
+    "name": "Il Birrificio - Birra Laval",
+    "opening_hours": "19:00-02:00; Fr,Sa 19:00-03:00"
+  }
+},
+{
+  "type": "node",
+  "id": 4791453739,
+  "lat": 45.0831059,
+  "lon": 7.4742339,
+  "tags": {
+    "addr:city": "Rosta",
+    "addr:housenumber": "26",
+    "addr:postcode": "10090",
+    "addr:street": "Strada Antica di Alpignano",
+    "contact:email": "info@birrificiocastagnero.it",
+    "contact:website": "http://www.birrificiocastagnero.com",
+    "craft": "brewery",
+    "name": "Birrificio Castagnero",
+    "product": "beer"
+  }
+},
+{
+  "type": "node",
+  "id": 5150764501,
+  "lat": 45.1585648,
+  "lon": 7.8524001,
+  "tags": {
+    "amenity": "pub",
+    "internet_access": "wlan",
+    "microbrewery": "yes",
+    "name": "Brewpub Birrificio Parsifal",
+    "opening_hours": "Mo-We 08:30-12:30,14:30-19:00; Sa 08:30-12:30",
+    "outdoor_seating": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5257878293,
+  "lat": 45.0818652,
+  "lon": 7.6597410,
+  "tags": {
+    "addr:city": "Torino",
+    "addr:country": "IT",
+    "addr:housenumber": "13",
+    "addr:postcode": "10144",
+    "addr:street": "Via Jacopo Durandi",
+    "amenity": "pub",
+    "email": "brewpub@piazzadeimestieri.it",
+    "microbrewery": "yes",
+    "name": "Birrificio La Piazza",
+    "phone": "+39 011 19709642",
+    "source": "survey",
+    "website": "http://www.birrificiolapiazza.com/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5577851806,
+  "lat": 45.2554117,
+  "lon": 7.5461739,
+  "tags": {
+    "craft": "brewery",
+    "name": "Lungosorso",
+    "opening_hours": "We-Su 16:00-20:30; Sa 09:00-12:30,16:00-20:30",
+    "phone": "+39 011 922 1809",
+    "product": "beer",
+    "website": "https://www.lungosorso.it/"
+  }
+},
+{
+  "type": "node",
+  "id": 6187425279,
+  "lat": 45.0825899,
+  "lon": 7.3738776,
+  "tags": {
+    "addr:city": "Avigliana",
+    "addr:housenumber": "18",
+    "addr:postcode": "10051",
+    "addr:street": "Via Albert Einstein",
+    "contact:email": "info@birralaval.it",
+    "contact:website": "https://www.birralaval.it",
+    "craft": "brewery",
+    "name": "Birrificio Valsusa",
+    "opening_hours": "Mo-Fr 08:30-12:30,14:30-18:30",
+    "product": "beer"
+  }
+},
+{
+  "type": "node",
+  "id": 6187661712,
+  "lat": 45.0425140,
+  "lon": 7.3515017,
+  "tags": {
+    "addr:city": "Giaveno",
+    "addr:housenumber": "13",
+    "addr:postcode": "10094",
+    "addr:street": "Via Umberto I",
+    "amenity": "pub",
+    "brewery": "yes",
+    "contact:email": "birra.aleghe@gmail.com",
+    "contact:facebook": "https://www.facebook.com/ALCANTUNDALEGHE/",
+    "contact:website": "http://www.aleghebirra.com",
+    "microbrewery": "yes",
+    "name": "Cantun d'Aleghe",
+    "opening_hours": "Tu-Su 18:00-02:00"
+  }
+},
+{
+  "type": "node",
+  "id": 6308195967,
+  "lat": 45.0755693,
+  "lon": 7.6755210,
+  "tags": {
+    "addr:city": "Torino",
+    "addr:housenumber": "5/M",
+    "addr:postcode": "10122",
+    "addr:street": "Via Piave",
+    "craft": "brewery",
+    "name": "Birrificio San Michele",
+    "product": "beer;food"
+  }
+},
+{
+  "type": "way",
+  "id": 281251031,
+  "nodes": [
+    2852277656,
+    2852299157,
+    2852277657,
+    2852277658,
+    2852277659,
+    2852277656
+  ],
+  "tags": {
+    "addr:city": "Vaie",
+    "addr:housenumber": "14",
+    "addr:postcode": "10050",
+    "addr:street": "Via Nazionale",
+    "amenity": "restaurant",
+    "building": "yes",
+    "building:levels": "2",
+    "building:material": "brick",
+    "cuisine": "italian",
+    "microbrewery": "yes",
+    "name": "Soralamà",
+    "phone": "+39 011 9631977",
+    "roof:shape": "gabled",
+    "website": "https://www.soralama.it/"
+  }
+},
+{
+  "type": "way",
+  "id": 288915537,
+  "nodes": [
+    2924695217,
+    2924695218,
+    4791453739,
+    2924695219,
+    2924695220,
+    2924695217
+  ],
+  "tags": {
+    "building": "brewery"
+  }
+},
+{
+  "type": "way",
+  "id": 530400179,
+  "nodes": [
+    5150542654,
+    5150542648,
+    5150542651,
+    5150542652,
+    5150542657,
+    5150542656,
+    5150542660,
+    5150542653,
+    5150542663,
+    5150542655,
+    5150542646,
+    5150542661,
+    5150542658,
+    5150542662,
+    5150542650,
+    5150542649,
+    5150542659,
+    5150542647,
+    5150542654
+  ],
+  "tags": {
+    "addr:city": "San Raffaele Cimena",
+    "addr:housenumber": "43",
+    "addr:postcode": "10090",
+    "addr:street": "Via Chivasso",
+    "building": "yes",
+    "craft": "brewery",
+    "email": "info@birrificioparsifal.it",
+    "name": "Birrificio Artigianale Parsifal",
+    "operator": "Birrificio Parsifal s.a.s.",
+    "phone": "+39 011 9601814",
+    "website": "http://www.birrificioparsifal.it"
+  }
+},
+{
+  "type": "node",
+  "id": 2924695217,
+  "lat": 45.0833946,
+  "lon": 7.4739811
+},
+{
+  "type": "node",
+  "id": 2924695218,
+  "lat": 45.0830808,
+  "lon": 7.4741217
+},
+{
+  "type": "node",
+  "id": 2924695219,
+  "lat": 45.0831293,
+  "lon": 7.4743385
+},
+{
+  "type": "node",
+  "id": 2924695220,
+  "lat": 45.0834430,
+  "lon": 7.4741979
+},
+{
+  "type": "node",
+  "id": 4791453739,
+  "lat": 45.0831059,
+  "lon": 7.4742339
+},
+{
+  "type": "node",
+  "id": 2852277656,
+  "lat": 45.1071563,
+  "lon": 7.2921314
+},
+{
+  "type": "node",
+  "id": 2852277657,
+  "lat": 45.1071440,
+  "lon": 7.2924488
+},
+{
+  "type": "node",
+  "id": 2852277658,
+  "lat": 45.1069940,
+  "lon": 7.2924371
+},
+{
+  "type": "node",
+  "id": 2852277659,
+  "lat": 45.1070063,
+  "lon": 7.2921197
+},
+{
+  "type": "node",
+  "id": 2852299157,
+  "lat": 45.1071537,
+  "lon": 7.2921996
+},
+{
+  "type": "node",
+  "id": 5150542646,
+  "lat": 45.1585577,
+  "lon": 7.8515915
+},
+{
+  "type": "node",
+  "id": 5150542647,
+  "lat": 45.1586073,
+  "lon": 7.8524001
+},
+{
+  "type": "node",
+  "id": 5150542648,
+  "lat": 45.1581236,
+  "lon": 7.8523834
+},
+{
+  "type": "node",
+  "id": 5150542649,
+  "lat": 45.1586448,
+  "lon": 7.8522294
+},
+{
+  "type": "node",
+  "id": 5150542650,
+  "lat": 45.1586754,
+  "lon": 7.8522355
+},
+{
+  "type": "node",
+  "id": 5150542651,
+  "lat": 45.1581446,
+  "lon": 7.8521744
+},
+{
+  "type": "node",
+  "id": 5150542652,
+  "lat": 45.1580902,
+  "lon": 7.8521634
+},
+{
+  "type": "node",
+  "id": 5150542653,
+  "lat": 45.1585410,
+  "lon": 7.8515849
+},
+{
+  "type": "node",
+  "id": 5150542654,
+  "lat": 45.1585993,
+  "lon": 7.8524797
+},
+{
+  "type": "node",
+  "id": 5150542655,
+  "lat": 45.1585534,
+  "lon": 7.8516334
+},
+{
+  "type": "node",
+  "id": 5150542656,
+  "lat": 45.1582013,
+  "lon": 7.8516286
+},
+{
+  "type": "node",
+  "id": 5150542657,
+  "lat": 45.1581452,
+  "lon": 7.8516172
+},
+{
+  "type": "node",
+  "id": 5150542658,
+  "lat": 45.1586766,
+  "lon": 7.8517271
+},
+{
+  "type": "node",
+  "id": 5150542659,
+  "lat": 45.1586272,
+  "lon": 7.8524041
+},
+{
+  "type": "node",
+  "id": 5150542660,
+  "lat": 45.1582124,
+  "lon": 7.8515184
+},
+{
+  "type": "node",
+  "id": 5150542661,
+  "lat": 45.1586876,
+  "lon": 7.8516178
+},
+{
+  "type": "node",
+  "id": 5150542662,
+  "lat": 45.1587256,
+  "lon": 7.8517370
+},
+{
+  "type": "node",
+  "id": 5150542663,
+  "lat": 45.1585365,
+  "lon": 7.8516300
+}
+
+  ]
+}

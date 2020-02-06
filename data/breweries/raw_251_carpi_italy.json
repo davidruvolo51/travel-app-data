@@ -1,0 +1,137 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T10:35:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2682235034,
+  "lat": 44.6329898,
+  "lon": 10.7372817,
+  "tags": {
+    "addr:city": "Bagno",
+    "addr:housenumber": "26",
+    "addr:postcode": "42122",
+    "addr:street": "Via Enzo Bagnoli",
+    "craft": "brewery",
+    "name": "Birrificio Zimella",
+    "opening_hours": "Tu-Sa 16:30-19:30",
+    "phone": "+39 0522 342099",
+    "website": "http://www.birrazimella.com",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4223690321,
+  "lat": 44.6520359,
+  "lon": 10.7734308,
+  "tags": {
+    "addr:city": "Rubiera",
+    "addr:housenumber": "9/5",
+    "addr:postcode": "42048",
+    "addr:street": "Via Palmiro Togliatti",
+    "amenity": "pub",
+    "craft": "brewery",
+    "name": "Giusto Spirito",
+    "opening_hours": "Mo-Th 12:00-15:00,19:00-01:00; Fr,Sa 12:00-15:00,19:00-02:00; Su 19:00-01:00",
+    "phone": "+39 0522 629564",
+    "smoking": "outside",
+    "website": "https://www.giustospirito.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4510776183,
+  "lat": 44.6430758,
+  "lon": 10.9337792,
+  "tags": {
+    "addr:city": "Modena",
+    "addr:country": "IT",
+    "addr:housenumber": "2",
+    "addr:postcode": "41124",
+    "addr:street": "Via Emilia Est",
+    "addr:suburb": "Buon Pastore - Sant’Agnese - San Damaso",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "internet_access": "no",
+    "internet_access:fee": "no",
+    "microbrewery": "yes",
+    "name": "365 Forno Caffe' Market",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4892372744,
+  "lat": 44.6585325,
+  "lon": 10.9201151,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "burger;italian;pizza",
+    "microbrewery": "yes",
+    "name": "Giustospirito",
+    "opening_hours": "Mo-Fr 00:00-00:30,12:00-14:30,19:00-24:00; Sa-Su 00:00-01:30,19:00-24:00; PH off",
+    "phone": "+39 059 312228",
+    "website": "https://www.giustospirito.com/ristoranti/giustospirito-modena.html"
+  }
+},
+{
+  "type": "way",
+  "id": 168124078,
+  "nodes": [
+    1794307127,
+    1794307516,
+    1794307484,
+    1794307104,
+    1794307127
+  ],
+  "tags": {
+    "addr:city": "Cadelbosco Sopra",
+    "addr:housenumber": "3",
+    "addr:postcode": "42023",
+    "addr:street": "Via dell'Oldo",
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Oldo",
+    "opening_hours": "Sa 10:00-19:00",
+    "operator": "Oldo Soc. Agr. a r.l.",
+    "phone": "+39 320 9031187",
+    "roof:shape": "gabled",
+    "source": "Regione Emilia Romagna",
+    "website": "http://www.oldo.it/"
+  }
+},
+{
+  "type": "node",
+  "id": 1794307104,
+  "lat": 44.7660404,
+  "lon": 10.5752329
+},
+{
+  "type": "node",
+  "id": 1794307127,
+  "lat": 44.7660698,
+  "lon": 10.5751119
+},
+{
+  "type": "node",
+  "id": 1794307484,
+  "lat": 44.7663285,
+  "lon": 10.5753708
+},
+{
+  "type": "node",
+  "id": 1794307516,
+  "lat": 44.7663579,
+  "lon": 10.5752498
+}
+
+  ]
+}

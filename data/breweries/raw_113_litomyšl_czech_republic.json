@@ -1,0 +1,460 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T00:19:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1813203401,
+  "lat": 50.1711694,
+  "lon": 16.2785710,
+  "tags": {
+    "amenity": "pub",
+    "microbrewery": "yes",
+    "name": "Pivovar"
+  }
+},
+{
+  "type": "node",
+  "id": 1827982268,
+  "lat": 49.9491822,
+  "lon": 16.1523763,
+  "tags": {
+    "addr:conscriptionnumber": "801",
+    "addr:country": "CZ",
+    "addr:housenumber": "801",
+    "addr:place": "Litomyšlské Předměstí",
+    "addr:postcode": "56601",
+    "addr:street": "Žižkova",
+    "craft": "brewery",
+    "name": "Pivovar Kujeba",
+    "ref:ruian:addr": "26646633"
+  }
+},
+{
+  "type": "node",
+  "id": 3715945214,
+  "lat": 50.0822722,
+  "lon": 16.3075945,
+  "tags": {
+    "addr:country": "CZ",
+    "addr:place": "Potštejn",
+    "addr:postcode": "51743",
+    "craft": "brewery",
+    "name": "Pivovar Clock",
+    "product": "beer",
+    "website": "https://www.pivovarclock.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 4014269093,
+  "lat": 49.7106276,
+  "lon": 16.2600858,
+  "tags": {
+    "craft": "brewery",
+    "name": "Měšťanský pivovar",
+    "source": "survey",
+    "website": "http://www.pivovar-policka.cz"
+  }
+},
+{
+  "type": "node",
+  "id": 4217986656,
+  "lat": 50.0870964,
+  "lon": 16.4607423,
+  "tags": {
+    "amenity": "pub",
+    "microbrewery": "yes",
+    "name": "Pivovar Žamberk",
+    "opening_hours": "Tu,We 11:00-22:00; Th-Sa 11:00-23:00; Su,PH 11:00-22:00",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 5178207115,
+  "lat": 50.0301095,
+  "lon": 16.6000230,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "czech",
+    "microbrewery": "yes",
+    "name": "Hotel U Černého medvěda",
+    "website": "http://www.cernymedved.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 6939992174,
+  "lat": 50.0824380,
+  "lon": 16.3074847,
+  "tags": {
+    "addr:city": "Potštejn",
+    "addr:country": "CZ",
+    "addr:housenumber": "2",
+    "addr:postcode": "51743",
+    "addr:street": "Školní",
+    "amenity": "pub",
+    "brewery": "Clock",
+    "microbrewery": "yes",
+    "name": "Pivnice CLOCK",
+    "opening_hours": "Tu-Th 15:00-22:00; Fr 15:00-24:00; Sa 13:00-00:00; Su 13:00-22:00",
+    "outdoor_seating": "yes",
+    "website": "https://www.pivovarclock.cz/pivnice"
+  }
+},
+{
+  "type": "way",
+  "id": 66757291,
+  "nodes": [
+    807085476,
+    5606372973,
+    807088615,
+    807084419,
+    807090213,
+    807091537,
+    807085476
+  ],
+  "tags": {
+    "building": "brewery",
+    "source": "cuzk:km"
+  }
+},
+{
+  "type": "way",
+  "id": 66757498,
+  "nodes": [
+    807086202,
+    807088399,
+    807088980,
+    4703099569,
+    4703099568,
+    807091342,
+    807087617,
+    807089914,
+    807090431,
+    807084766,
+    807085476,
+    5606372973,
+    807088615,
+    807088118,
+    807089248,
+    807087078,
+    807086449,
+    4703099567,
+    807088232,
+    4703099566,
+    4703099565,
+    4703099564,
+    4703099563,
+    807091064,
+    807090509,
+    807089789,
+    807084065,
+    807084558,
+    807087481,
+    807087914,
+    4703099562,
+    807090308,
+    807090731,
+    807085211,
+    807086202
+  ],
+  "tags": {
+    "building": "brewery",
+    "building:ruian:type": "12",
+    "ref:ruian:building": "15819477",
+    "source": "cuzk:ruian"
+  }
+},
+{
+  "type": "way",
+  "id": 90035896,
+  "nodes": [
+    2907616439,
+    4863265055,
+    4863265054,
+    2907616477,
+    2907616161,
+    2907616154,
+    2907616439
+  ],
+  "tags": {
+    "amenity": "restaurant",
+    "building": "civic",
+    "building:levels": "1",
+    "building:ruian:type": "5",
+    "microbrewery": "yes",
+    "name": "Pivovárek na Kopečku",
+    "phone": "+420724691987",
+    "ref:ruian:building": "18791301",
+    "source": "cuzk:ruian",
+    "website": "https://pivovareknakopecku.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 807084065,
+  "lat": 49.7109969,
+  "lon": 16.2602023
+},
+{
+  "type": "node",
+  "id": 807084419,
+  "lat": 49.7104060,
+  "lon": 16.2597210
+},
+{
+  "type": "node",
+  "id": 807084558,
+  "lat": 49.7109935,
+  "lon": 16.2601492
+},
+{
+  "type": "node",
+  "id": 807084766,
+  "lat": 49.7103812,
+  "lon": 16.2602523
+},
+{
+  "type": "node",
+  "id": 807085211,
+  "lat": 49.7107260,
+  "lon": 16.2603058
+},
+{
+  "type": "node",
+  "id": 807085476,
+  "lat": 49.7103422,
+  "lon": 16.2600375
+},
+{
+  "type": "node",
+  "id": 807086202,
+  "lat": 49.7107030,
+  "lon": 16.2601799
+},
+{
+  "type": "node",
+  "id": 807086449,
+  "lat": 49.7106297,
+  "lon": 16.2598555
+},
+{
+  "type": "node",
+  "id": 807087078,
+  "lat": 49.7105997,
+  "lon": 16.2598674
+},
+{
+  "type": "node",
+  "id": 807087481,
+  "lat": 49.7109352,
+  "lon": 16.2601745
+},
+{
+  "type": "node",
+  "id": 807087617,
+  "lat": 49.7103922,
+  "lon": 16.2603206
+},
+{
+  "type": "node",
+  "id": 807087914,
+  "lat": 49.7109323,
+  "lon": 16.2601546
+},
+{
+  "type": "node",
+  "id": 807088118,
+  "lat": 49.7105219,
+  "lon": 16.2599553
+},
+{
+  "type": "node",
+  "id": 807088232,
+  "lat": 49.7109467,
+  "lon": 16.2596605
+},
+{
+  "type": "node",
+  "id": 807088399,
+  "lat": 49.7105363,
+  "lon": 16.2602545
+},
+{
+  "type": "node",
+  "id": 807088615,
+  "lat": 49.7104530,
+  "lon": 16.2599880
+},
+{
+  "type": "node",
+  "id": 807088980,
+  "lat": 49.7105511,
+  "lon": 16.2603462
+},
+{
+  "type": "node",
+  "id": 807089248,
+  "lat": 49.7106089,
+  "lon": 16.2599208
+},
+{
+  "type": "node",
+  "id": 807089789,
+  "lat": 49.7110325,
+  "lon": 16.2602410
+},
+{
+  "type": "node",
+  "id": 807089914,
+  "lat": 49.7104242,
+  "lon": 16.2603066
+},
+{
+  "type": "node",
+  "id": 807090213,
+  "lat": 49.7103480,
+  "lon": 16.2597490
+},
+{
+  "type": "node",
+  "id": 807090308,
+  "lat": 49.7107811,
+  "lon": 16.2602112
+},
+{
+  "type": "node",
+  "id": 807090431,
+  "lat": 49.7104128,
+  "lon": 16.2602376
+},
+{
+  "type": "node",
+  "id": 807090509,
+  "lat": 49.7110192,
+  "lon": 16.2600703
+},
+{
+  "type": "node",
+  "id": 807090731,
+  "lat": 49.7107930,
+  "lon": 16.2602774
+},
+{
+  "type": "node",
+  "id": 807091064,
+  "lat": 49.7110105,
+  "lon": 16.2600231
+},
+{
+  "type": "node",
+  "id": 807091342,
+  "lat": 49.7104095,
+  "lon": 16.2604148
+},
+{
+  "type": "node",
+  "id": 807091537,
+  "lat": 49.7102880,
+  "lon": 16.2597850
+},
+{
+  "type": "node",
+  "id": 4703099562,
+  "lat": 49.7108651,
+  "lon": 16.2601757
+},
+{
+  "type": "node",
+  "id": 4703099563,
+  "lat": 49.7110127,
+  "lon": 16.2600222
+},
+{
+  "type": "node",
+  "id": 4703099564,
+  "lat": 49.7110068,
+  "lon": 16.2599816
+},
+{
+  "type": "node",
+  "id": 4703099565,
+  "lat": 49.7110035,
+  "lon": 16.2599832
+},
+{
+  "type": "node",
+  "id": 4703099566,
+  "lat": 49.7109798,
+  "lon": 16.2598379
+},
+{
+  "type": "node",
+  "id": 4703099567,
+  "lat": 49.7106204,
+  "lon": 16.2598025
+},
+{
+  "type": "node",
+  "id": 4703099568,
+  "lat": 49.7105116,
+  "lon": 16.2603704
+},
+{
+  "type": "node",
+  "id": 4703099569,
+  "lat": 49.7105106,
+  "lon": 16.2603646
+},
+{
+  "type": "node",
+  "id": 5606372973,
+  "lat": 49.7103419,
+  "lon": 16.2600352
+},
+{
+  "type": "node",
+  "id": 2907616154,
+  "lat": 49.7520260,
+  "lon": 16.4607560
+},
+{
+  "type": "node",
+  "id": 2907616161,
+  "lat": 49.7520397,
+  "lon": 16.4609315
+},
+{
+  "type": "node",
+  "id": 2907616439,
+  "lat": 49.7522859,
+  "lon": 16.4607092
+},
+{
+  "type": "node",
+  "id": 2907616477,
+  "lat": 49.7523387,
+  "lon": 16.4608754
+},
+{
+  "type": "node",
+  "id": 4863265054,
+  "lat": 49.7523322,
+  "lon": 16.4607933
+},
+{
+  "type": "node",
+  "id": 4863265055,
+  "lat": 49.7522928,
+  "lon": 16.4608008
+}
+
+  ]
+}

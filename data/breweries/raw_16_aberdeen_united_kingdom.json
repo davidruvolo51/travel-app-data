@@ -1,0 +1,100 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-05T20:44:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 3184996364,
+  "lat": 57.3711352,
+  "lon": -2.0539139,
+  "tags": {
+    "addr:city": "Ellon",
+    "addr:housename": "Balmacassie Industrial Estate",
+    "addr:postcode": "AB41 8BX",
+    "craft": "brewery",
+    "name": "BrewDog",
+    "operator": "BrewDog PLC",
+    "website": "https://www.brewdog.com"
+  }
+},
+{
+  "type": "way",
+  "id": 245980538,
+  "nodes": [
+    2530756236,
+    2530756227,
+    2530756228,
+    2530756229,
+    2530756230,
+    2530756231,
+    2530756232,
+    2530756233,
+    2530756236
+  ],
+  "tags": {
+    "addr:city": "Ellon",
+    "addr:housename": "Balmacassie Industrial Estate",
+    "addr:postcode": "AB41 8BX",
+    "building": "yes",
+    "craft": "brewery",
+    "name": "BrewDog PLC",
+    "operator": "BrewDog",
+    "website": "https://www.brewdog.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 2530756227,
+  "lat": 57.3710465,
+  "lon": -2.0545761
+},
+{
+  "type": "node",
+  "id": 2530756228,
+  "lat": 57.3714032,
+  "lon": -2.0540831
+},
+{
+  "type": "node",
+  "id": 2530756229,
+  "lat": 57.3713593,
+  "lon": -2.0539737
+},
+{
+  "type": "node",
+  "id": 2530756230,
+  "lat": 57.3714882,
+  "lon": -2.0537956
+},
+{
+  "type": "node",
+  "id": 2530756231,
+  "lat": 57.3712846,
+  "lon": -2.0532890
+},
+{
+  "type": "node",
+  "id": 2530756232,
+  "lat": 57.3708031,
+  "lon": -2.0539546
+},
+{
+  "type": "node",
+  "id": 2530756233,
+  "lat": 57.3708334,
+  "lon": -2.0540302
+},
+{
+  "type": "node",
+  "id": 2530756236,
+  "lat": 57.3709670,
+  "lon": -2.0543782
+}
+
+  ]
+}

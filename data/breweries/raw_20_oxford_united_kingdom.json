@@ -1,0 +1,181 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-05T20:54:03Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 79696026,
+  "lat": 51.8334389,
+  "lon": -1.0483487,
+  "tags": {
+    "craft": "brewery",
+    "name": "Vale Brewery",
+    "website": "http://www.valebrewery.co.uk/"
+  }
+},
+{
+  "type": "node",
+  "id": 752063401,
+  "lat": 51.9968959,
+  "lon": -1.4942152,
+  "tags": {
+    "building": "brewery",
+    "craft": "brewery",
+    "landuse": "industrial",
+    "name": "Hook Norton Brewery",
+    "source": "survey",
+    "tourism": "attraction",
+    "website": "http://www.hooknortonbrewery.co.uk",
+    "wikidata": "Q26298422"
+  }
+},
+{
+  "type": "node",
+  "id": 1400101523,
+  "lat": 51.5367008,
+  "lon": -0.9053072,
+  "tags": {
+    "addr:city": "Henley-on-Thames",
+    "addr:postcode": "RG9 2AA",
+    "addr:street": "Rear of 19-21 Market Place",
+    "amenity": "pub",
+    "microbrewery": "yes",
+    "name": "Lovibonds' Brewery Shop and Tasting Room",
+    "opening_hours": "Fr 16:00-21:00; Sa 11:00-19:00; Su 12:00-17:00",
+    "operator": "Lovibonds"
+  }
+},
+{
+  "type": "node",
+  "id": 5843915377,
+  "lat": 51.7513623,
+  "lon": -1.2952132,
+  "tags": {
+    "amenity": "pub",
+    "microbrewery": "yes",
+    "name": "The Social Tab",
+    "outdoor_seating": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5921050385,
+  "lat": 51.7512935,
+  "lon": -1.2952170,
+  "tags": {
+    "addr:city": "Oxford",
+    "addr:housenumber": "27",
+    "addr:postcode": "OX2 0LX",
+    "addr:street": "Curtis Industrial Estate",
+    "amenity": "pub",
+    "brewery": "various",
+    "cuisine": "international",
+    "email": "info@tapsocialmovement.com",
+    "microbrewery": "yes",
+    "name": "Tap Social Movement",
+    "outdoor_seating": "yes",
+    "phone": "+44 1865 236330",
+    "smoking": "outside",
+    "website": "http://www.tapsocialmovement.com",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 137681068,
+  "nodes": [
+    1509891111,
+    1509891095,
+    1509891129,
+    1509891149,
+    1509891111
+  ],
+  "tags": {
+    "addr:housenumber": "2",
+    "addr:postcode": "OX3 8LH",
+    "addr:street": "Quarry School Place",
+    "building": "yes",
+    "craft": "brewery",
+    "name": "The Old Bog Brewery",
+    "source:geometry": "Bing"
+  }
+},
+{
+  "type": "way",
+  "id": 138402280,
+  "nodes": [
+    1517584498,
+    1517584496,
+    1517584497,
+    1517584499,
+    1517584498
+  ],
+  "tags": {
+    "addr:postcode": "HP17 0TQ",
+    "addr:street": "Nash Lee Road",
+    "building": "barn",
+    "craft": "brewery",
+    "name": "The Chiltern Brewery",
+    "opening_hours": "Mo-Th,Sa 09:00-17:00; Fr 09:00-19:00",
+    "shop": "alcohol",
+    "source": "website",
+    "source:geometry": "Bing",
+    "website": "https://www.chilternbrewery.co.uk/"
+  }
+},
+{
+  "type": "node",
+  "id": 1509891095,
+  "lat": 51.7584666,
+  "lon": -1.1968719
+},
+{
+  "type": "node",
+  "id": 1509891111,
+  "lat": 51.7585250,
+  "lon": -1.1969938
+},
+{
+  "type": "node",
+  "id": 1509891129,
+  "lat": 51.7585803,
+  "lon": -1.1967296
+},
+{
+  "type": "node",
+  "id": 1509891149,
+  "lat": 51.7586388,
+  "lon": -1.1968515
+},
+{
+  "type": "node",
+  "id": 1517584496,
+  "lat": 51.7673078,
+  "lon": -0.7802097
+},
+{
+  "type": "node",
+  "id": 1517584497,
+  "lat": 51.7673341,
+  "lon": -0.7801347
+},
+{
+  "type": "node",
+  "id": 1517584498,
+  "lat": 51.7676375,
+  "lon": -0.7805124
+},
+{
+  "type": "node",
+  "id": 1517584499,
+  "lat": 51.7676639,
+  "lon": -0.7804373
+}
+
+  ]
+}

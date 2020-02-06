@@ -1,0 +1,450 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T09:32:03Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 251168507,
+  "lat": 52.3720321,
+  "lon": 4.8992627,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "6-8",
+    "addr:postcode": "1012 CT",
+    "addr:street": "Kloveniersburgwal",
+    "amenity": "pub",
+    "microbrewery": "yes",
+    "name": "De Bekeerde Suster",
+    "outside_seating": "streetside",
+    "phone": "020 423 0112",
+    "website": "https://debekeerdesuster.nl/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 332059860,
+  "lat": 52.3666601,
+  "lon": 4.9263454,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:country": "NL",
+    "addr:housenumber": "7",
+    "addr:postcode": "1018 AL",
+    "addr:street": "Funenkade",
+    "amenity": "pub",
+    "craft": "brewery",
+    "description": "brouwerij met proeflokaal",
+    "microbrewery": "yes",
+    "name": "Brouwerij 't IJ",
+    "opening_hours": "Mo-Su 15:00-20:00",
+    "outside_seating": "yes",
+    "toilets:wheelchair": "no",
+    "website": "http://www.brouwerijhetij.nl",
+    "wheelchair": "limited",
+    "wikidata": "Q3496897",
+    "wikipedia": "nl:Brouwerij 't IJ"
+  }
+},
+{
+  "type": "node",
+  "id": 842269356,
+  "lat": 52.0856730,
+  "lon": 4.7421435,
+  "tags": {
+    "addr:city": "Bodegraven",
+    "addr:housenumber": "43",
+    "addr:postcode": "2411BT",
+    "addr:street": "Overtocht",
+    "amenity": "restaurant",
+    "microbrewery": "yes",
+    "name": "Brouwcafé de Molen",
+    "opening_hours": "We-Su 12:00-24:00",
+    "outdoor_seating": "yes",
+    "source": "BAG",
+    "source:date": "2014-03-24",
+    "website": "https://www.brouwerijdemolen.nl/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2412984313,
+  "lat": 52.3473367,
+  "lon": 4.8538391,
+  "tags": {
+    "amenity": "pub",
+    "craft": "brewery",
+    "description": "brouwerij met proeflokaal",
+    "name": "Butchers Tears",
+    "opening_hours": "We-Su 16:00-21:00",
+    "website": "https://butchers-tears.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 2600497384,
+  "lat": 52.0884620,
+  "lon": 5.0459008,
+  "tags": {
+    "addr:city": "De Meern",
+    "addr:housenumber": "2A",
+    "addr:street": "Pratumplaats",
+    "amenity": "bar",
+    "craft": "brewery",
+    "name": "Brouwerij Maximus B.V.",
+    "phone": "+31 6-83450013",
+    "website": "http://www.brouwerijmaximus.nl",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2717417239,
+  "lat": 52.1022080,
+  "lon": 5.0890211,
+  "tags": {
+    "addr:city": "Utrecht",
+    "addr:housenumber": "90A",
+    "addr:postcode": "3534BE",
+    "addr:street": "CAB-rondom",
+    "amenity": "restaurant",
+    "craft": "brewery",
+    "diet:vegan": "only",
+    "diet:vegetarian": "only",
+    "happycow:id": "68417",
+    "indoor_seating": "yes",
+    "name": "Oproer",
+    "outdoor_seating": "no",
+    "source": "BAG",
+    "source:date": "2014-02-11",
+    "website": "http://www.oproerbrouwerij.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 2848746067,
+  "lat": 52.3837859,
+  "lon": 4.9210589,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "85",
+    "addr:postcode": "1021KP",
+    "addr:street": "Gedempt Hamerkanaal",
+    "amenity": "pub",
+    "craft": "brewery",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Oedipus Brewing",
+    "name:en": "Oedipus Brewing",
+    "name:nl": "Oedipus Brewing",
+    "opening_hours": "Th 17:00-22:00; Fr-Sa 14:00-23:00; Su 14:00-22:00",
+    "source": "BAG",
+    "source:date": "2014-05-07",
+    "website": "http://oedipus.com",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2860108030,
+  "lat": 52.3091114,
+  "lon": 5.0411140,
+  "tags": {
+    "addr:city": "Weesp",
+    "addr:housenumber": "16",
+    "addr:postcode": "1382AE",
+    "addr:street": "Herengracht",
+    "amenity": "pub",
+    "brewery": "wispe",
+    "cuisine": "burger;american",
+    "microbrewery": "yes",
+    "name": "Wispe Proeflokaal",
+    "name:en": "Wispe Taproom",
+    "opening_hours": "Mo-Su 11:00-23:00",
+    "source": "BAG",
+    "source:date": "2014-05-07"
+  }
+},
+{
+  "type": "node",
+  "id": 2909545777,
+  "lat": 52.1636736,
+  "lon": 4.4947427,
+  "tags": {
+    "addr:city": "Leiden",
+    "addr:housenumber": "70D",
+    "addr:postcode": "2312NV",
+    "addr:street": "Langegracht",
+    "craft": "brewery",
+    "name": "Pronck",
+    "source": "BAG",
+    "source:date": "2014-06-10",
+    "url": "https://brouwerijpronck.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 2909579630,
+  "lat": 52.4837457,
+  "lon": 4.6619176,
+  "tags": {
+    "addr:city": "Beverwijk",
+    "addr:housenumber": "10",
+    "addr:postcode": "1947JR",
+    "addr:street": "Schans",
+    "craft": "brewery",
+    "name": "Stadsbrouwhuis Broer & Zus",
+    "source": "BAG",
+    "source:date": "2014-06-10",
+    "website": "http://cafebroerenzus.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 3041159629,
+  "lat": 52.1274745,
+  "lon": 5.0869524,
+  "tags": {
+    "addr:city": "Utrecht",
+    "addr:housenumber": "43",
+    "addr:postcode": "3565BC",
+    "addr:street": "Ontariodreef",
+    "craft": "brewery",
+    "name": "vandeStreek bier",
+    "source": "BAG",
+    "source:date": "2014-08-25"
+  }
+},
+{
+  "type": "node",
+  "id": 3855416069,
+  "lat": 52.3505111,
+  "lon": 4.8911488,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "21",
+    "addr:postcode": "1072 JJ",
+    "addr:street": "Cornelis Troostplein",
+    "alt_name": "Brouwerij Troost De Pijp",
+    "amenity": "pub",
+    "craft": "brewery",
+    "name": "Troost",
+    "name:nl": "Troost",
+    "website": "https://brouwerijtroost.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 4453282047,
+  "lat": 52.3700660,
+  "lon": 4.8937601,
+  "tags": {
+    "craft": "brewery",
+    "name": "Bierfabriek Amsterdam",
+    "website": "https://www.bierfabriek.com/amsterdam/brouwerij"
+  }
+},
+{
+  "type": "node",
+  "id": 4743459489,
+  "lat": 52.3936649,
+  "lon": 4.8673227,
+  "tags": {
+    "craft": "brewery",
+    "email": "reserveerhouthavens@deprael.nl",
+    "name": "De Prael",
+    "phone": "+31 20 408 4470",
+    "website": "https://www.deprael.nl/",
+    "wikidata": "Q5900483",
+    "wikipedia": "nl:Brouwerij De Prael"
+  }
+},
+{
+  "type": "node",
+  "id": 4815845616,
+  "lat": 52.3577131,
+  "lon": 4.9356476,
+  "tags": {
+    "craft": "brewery",
+    "name": "Poesiat & Kater"
+  }
+},
+{
+  "type": "node",
+  "id": 4825270506,
+  "lat": 52.5951433,
+  "lon": 4.7103575,
+  "tags": {
+    "addr:city": "Heiloo",
+    "addr:housenumber": "3",
+    "addr:postcode": "1851VG",
+    "addr:street": "De Overtoom",
+    "craft": "brewery",
+    "name": "Brouwerij Vriendenbier",
+    "website": "http://www.vriendenbier.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 5495777380,
+  "lat": 52.1057656,
+  "lon": 5.0791319,
+  "tags": {
+    "addr:housenumber": "43",
+    "addr:street": "Tractieweg",
+    "amenity": "pub",
+    "craft": "brewery",
+    "name": "De Leckere",
+    "website": "http://www.deleckere.nl/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 5652500887,
+  "lat": 52.6102410,
+  "lon": 4.7560780,
+  "tags": {
+    "addr:city": "Alkmaar",
+    "addr:housenumber": "9",
+    "addr:postcode": "1812RC",
+    "addr:street": "Diamantweg",
+    "craft": "brewery",
+    "name": "Brouwerij De Moersleutel",
+    "website": "http://brouwerijdemoersleutel.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 5654459199,
+  "lat": 52.3091457,
+  "lon": 5.0411037,
+  "tags": {
+    "addr:city": "Weesp",
+    "addr:housenumber": "16a",
+    "addr:postcode": "1382AE",
+    "addr:street": "Herengracht",
+    "craft": "brewery",
+    "name": "Wispe Brouwerij",
+    "name:en": "Wispe Brewery",
+    "product": "beer",
+    "source": "BAG",
+    "source:date": "2018-05-08"
+  }
+},
+{
+  "type": "node",
+  "id": 5968489719,
+  "lat": 52.3852001,
+  "lon": 4.9205106,
+  "tags": {
+    "amenity": "pub",
+    "craft": "brewery",
+    "name": "Walhalla",
+    "website": "http://www.walhallacraftbeer.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 6344601404,
+  "lat": 52.4760947,
+  "lon": 4.8111585,
+  "tags": {
+    "amenity": "pub",
+    "craft": "brewery",
+    "name": "Brouwerij Hoop",
+    "website": "https://www.brouwerijhoop.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 6758834307,
+  "lat": 52.3419243,
+  "lon": 4.7925858,
+  "tags": {
+    "amenity": "pub",
+    "craft": "brewery",
+    "description": "brouwerij met proeflokaal",
+    "name": "Brouwerij De 7 Deugden",
+    "website": "https://de7deugden.nl/"
+  }
+},
+{
+  "type": "way",
+  "id": 274981313,
+  "nodes": [
+    2796442843,
+    2796443525,
+    2796442895,
+    2796442909,
+    2796442866,
+    2796442848,
+    2796442495,
+    2796442843
+  ],
+  "tags": {
+    "addr:city": "Egmond aan den Hoef",
+    "addr:housenumber": "1C",
+    "addr:postcode": "1934CS",
+    "addr:street": "Weg over de Bisschop",
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Brouwerij Egmond",
+    "ref:bag": "373100000026029",
+    "source": "BAG",
+    "source:date": "2014-03-24",
+    "start_date": "2013",
+    "website": "http://www.sanctiadalberti.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 2796442495,
+  "lat": 52.6195160,
+  "lon": 4.6559440
+},
+{
+  "type": "node",
+  "id": 2796442843,
+  "lat": 52.6196129,
+  "lon": 4.6558681
+},
+{
+  "type": "node",
+  "id": 2796442848,
+  "lat": 52.6196149,
+  "lon": 4.6562784
+},
+{
+  "type": "node",
+  "id": 2796442866,
+  "lat": 52.6196196,
+  "lon": 4.6562944
+},
+{
+  "type": "node",
+  "id": 2796442895,
+  "lat": 52.6196306,
+  "lon": 4.6562636
+},
+{
+  "type": "node",
+  "id": 2796442909,
+  "lat": 52.6196358,
+  "lon": 4.6562815
+},
+{
+  "type": "node",
+  "id": 2796443525,
+  "lat": 52.6197112,
+  "lon": 4.6562001
+}
+
+  ]
+}

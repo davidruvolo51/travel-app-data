@@ -1,0 +1,74 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T10:10:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 5522647672,
+  "lat": 45.7552366,
+  "lon": 21.2074609,
+  "tags": {
+    "addr:city": "Timișoara",
+    "addr:housenumber": "21",
+    "addr:street": "Strada Ghioceilor",
+    "craft": "brewery",
+    "name": "Clinica de Bere",
+    "operator": "SC Berarium SRL",
+    "website": "http://www.clinicadebere.ro/"
+  }
+},
+{
+  "type": "way",
+  "id": 744287132,
+  "nodes": [
+    6965988952,
+    6965988953,
+    6965988954,
+    6965988955,
+    6965988952
+  ],
+  "tags": {
+    "addr:city": "Giarmata",
+    "addr:housenumber": "42A",
+    "addr:postcode": "307210",
+    "addr:street": "Calea Timișoarei",
+    "building": "yes",
+    "building:levels": "2",
+    "craft": "brewery",
+    "name": "Bereta Brewing Co.",
+    "roof:colour": "grey",
+    "roof:shape": "gabled"
+  }
+},
+{
+  "type": "node",
+  "id": 6965988952,
+  "lat": 45.8324708,
+  "lon": 21.2827810
+},
+{
+  "type": "node",
+  "id": 6965988953,
+  "lat": 45.8320816,
+  "lon": 21.2823073
+},
+{
+  "type": "node",
+  "id": 6965988954,
+  "lat": 45.8322104,
+  "lon": 21.2820893
+},
+{
+  "type": "node",
+  "id": 6965988955,
+  "lat": 45.8325996,
+  "lon": 21.2825631
+}
+
+  ]
+}

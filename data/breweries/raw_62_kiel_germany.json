@@ -1,0 +1,127 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-05T22:29:03Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 309209722,
+  "lat": 54.0131897,
+  "lon": 10.1671580,
+  "tags": {
+    "addr:housenumber": "1",
+    "addr:postcode": "24635",
+    "addr:street": "Grüner Weg",
+    "amenity": "pub",
+    "microbrewery": "yes",
+    "name": "Ricklinger Landbrauerei \"Zur Alten Försterei\"",
+    "website": "https://www.ricklinger-landbrauerei.de/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 5771189149,
+  "lat": 54.3235317,
+  "lon": 10.1391501,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "german",
+    "level": "0",
+    "microbrewery": "yes",
+    "name": "Kieler Brauerei",
+    "opening_hours": "Mo-Su 10:00-18:00+",
+    "toilets": "yes",
+    "toilets:access": "public",
+    "toilets:wheelchair": "no",
+    "website": "https://www.kieler-brauerei.de/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6316708114,
+  "lat": 54.3324578,
+  "lon": 10.1112243,
+  "tags": {
+    "addr:city": "Kiel",
+    "addr:housenumber": "9c",
+    "addr:postcode": "24116",
+    "addr:street": "Eichkamp",
+    "craft": "brewery",
+    "email": "ahoi@lillebraeu.de",
+    "name": "Lillebräu",
+    "opening_hours": "Do-Sa 17:00+",
+    "phone": "+49 431 90 88 97 84",
+    "website": "https://lillebraeu.de/"
+  }
+},
+{
+  "type": "way",
+  "id": 381191178,
+  "nodes": [
+    3844315495,
+    3844315496,
+    3844315497,
+    3844315498,
+    3844315499,
+    3844315500,
+    3844315495
+  ],
+  "tags": {
+    "addr:city": "Schillsdorf",
+    "addr:housenumber": "4",
+    "addr:postcode": "24637",
+    "addr:street": "Hauptstraße",
+    "amenity": "restaurant",
+    "building": "yes",
+    "capacity": "30-120",
+    "cuisine": "regional",
+    "delivery": "no",
+    "microbrewery": "yes",
+    "name": "Kirschenholz"
+  }
+},
+{
+  "type": "node",
+  "id": 3844315495,
+  "lat": 54.1136740,
+  "lon": 10.1260913
+},
+{
+  "type": "node",
+  "id": 3844315496,
+  "lat": 54.1138088,
+  "lon": 10.1263322
+},
+{
+  "type": "node",
+  "id": 3844315497,
+  "lat": 54.1137527,
+  "lon": 10.1264226
+},
+{
+  "type": "node",
+  "id": 3844315498,
+  "lat": 54.1136997,
+  "lon": 10.1263377
+},
+{
+  "type": "node",
+  "id": 3844315499,
+  "lat": 54.1135777,
+  "lon": 10.1265321
+},
+{
+  "type": "node",
+  "id": 3844315500,
+  "lat": 54.1134975,
+  "lon": 10.1263815
+}
+
+  ]
+}

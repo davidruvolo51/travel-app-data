@@ -1,0 +1,173 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T13:00:03Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 475072962,
+  "lat": 59.3198089,
+  "lon": 18.0688539,
+  "tags": {
+    "amenity": "pub",
+    "email": "restaurang@akkurat.se",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "microbrewery": "yes",
+    "name": "Akkurat",
+    "opening_hours": "Su-Tu 15:00-24:00; We-Sa 15:00-01:00",
+    "outdoor_seating": "yes",
+    "phone": "+46-8-6440015",
+    "smoking": "outside",
+    "url": "http://akkurat.se/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2640132706,
+  "lat": 59.2546199,
+  "lon": 18.0740666,
+  "tags": {
+    "craft": "brewery",
+    "name": "Pang pang bryggeri",
+    "start_date": "2011",
+    "start_date:note": "start of brewery, I believe this was the first place",
+    "website": "https://www.pangpangbrewery.se/"
+  }
+},
+{
+  "type": "node",
+  "id": 3850050646,
+  "lat": 59.3092689,
+  "lon": 18.0831198,
+  "tags": {
+    "amenity": "pub",
+    "craft": "brewery",
+    "description": "Outdoor drinking, dog friendly and located directly above Sthlm Brewing, BrewDog Södermalm could well be the most relaxed BrewDog bar in existence, and as such is a perfect metaphor for the laid-back vibe of the district of Sthlm in which it is located.",
+    "name": "Brewdog Södermalm",
+    "opening_hours": "Mo-Su 14:00-01:00",
+    "website": "https://www.brewdog.com/bars/worldwide/sodermalm"
+  }
+},
+{
+  "type": "node",
+  "id": 4232261702,
+  "lat": 59.3154403,
+  "lon": 18.0890610,
+  "tags": {
+    "craft": "brewery",
+    "from": "2016-09-15",
+    "microbrewery": "yes",
+    "name": "Modernist Brewery"
+  }
+},
+{
+  "type": "node",
+  "id": 5113580969,
+  "lat": 59.2646277,
+  "lon": 18.5032430,
+  "tags": {
+    "addr:city": "Ingarö",
+    "addr:country": "SE",
+    "addr:housenumber": "25",
+    "addr:postcode": "134 65",
+    "addr:street": "Eknäsvägen",
+    "craft": "brewery",
+    "name": "Värmdö Bryggeri AB",
+    "website": "https://www.varmdobryggeri.se/"
+  }
+},
+{
+  "type": "node",
+  "id": 5121491856,
+  "lat": 59.2645968,
+  "lon": 18.5031987,
+  "tags": {
+    "craft": "brewery",
+    "name": "Värmdö Bryggeri"
+  }
+},
+{
+  "type": "node",
+  "id": 5943864532,
+  "lat": 59.3503869,
+  "lon": 18.1927948,
+  "tags": {
+    "amenity": "cafe",
+    "craft": "brewery"
+  }
+},
+{
+  "type": "way",
+  "id": 525680946,
+  "nodes": [
+    4283680423,
+    4283680427,
+    4283680420,
+    4283680424,
+    4283680431,
+    4283680425,
+    5113495349,
+    5113495350,
+    4283680423
+  ],
+  "tags": {
+    "building": "brewery"
+  }
+},
+{
+  "type": "node",
+  "id": 4283680420,
+  "lat": 59.2645567,
+  "lon": 18.5032764
+},
+{
+  "type": "node",
+  "id": 4283680423,
+  "lat": 59.2645865,
+  "lon": 18.5035660
+},
+{
+  "type": "node",
+  "id": 4283680424,
+  "lat": 59.2646076,
+  "lon": 18.5031100
+},
+{
+  "type": "node",
+  "id": 4283680425,
+  "lat": 59.2646169,
+  "lon": 18.5038607
+},
+{
+  "type": "node",
+  "id": 4283680427,
+  "lat": 59.2646439,
+  "lon": 18.5033786
+},
+{
+  "type": "node",
+  "id": 4283680431,
+  "lat": 59.2647835,
+  "lon": 18.5033162
+},
+{
+  "type": "node",
+  "id": 5113495349,
+  "lat": 59.2645551,
+  "lon": 18.5038537
+},
+{
+  "type": "node",
+  "id": 5113495350,
+  "lat": 59.2645626,
+  "lon": 18.5036534
+}
+
+  ]
+}

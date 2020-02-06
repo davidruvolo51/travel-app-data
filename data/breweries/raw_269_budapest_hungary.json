@@ -1,0 +1,194 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T11:01:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2415642469,
+  "lat": 47.6114555,
+  "lon": 19.1957606,
+  "tags": {
+    "amenity": "pub",
+    "microbrewery": "yes",
+    "name": "Sörapu kocsmája"
+  }
+},
+{
+  "type": "node",
+  "id": 3527742048,
+  "lat": 47.6205745,
+  "lon": 19.2104986,
+  "tags": {
+    "addr:city": "Fót",
+    "addr:housenumber": "34",
+    "addr:postcode": "2151",
+    "addr:street": "Fáy András sétány",
+    "craft": "brewery",
+    "mapillary": "VEs9914UheTFerFeeF3YOA",
+    "name": "Fóti Kézműves Sörfőzde",
+    "website": "http://www.fotisorfozde.hu/"
+  }
+},
+{
+  "type": "node",
+  "id": 3546523526,
+  "lat": 47.5323631,
+  "lon": 19.1880081,
+  "tags": {
+    "addr:city": "Budapest",
+    "addr:housenumber": "116",
+    "addr:postcode": "1162",
+    "addr:street": "Szlovák út",
+    "craft": "brewery",
+    "name": "Legenda Sörfőzde",
+    "website": "http://www.legendasorfozde.hu/"
+  }
+},
+{
+  "type": "node",
+  "id": 3578271011,
+  "lat": 47.4843099,
+  "lon": 19.1561680,
+  "tags": {
+    "addr:city": "Budapest",
+    "addr:housenumber": "47",
+    "addr:postcode": "1106",
+    "addr:street": "Maglódi út",
+    "craft": "brewery",
+    "name": "MONYO Brewing Co.",
+    "website": "http://monyobrewing.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 3578297789,
+  "lat": 47.4202427,
+  "lon": 19.0755438,
+  "tags": {
+    "addr:city": "Budapest",
+    "addr:housenumber": "16",
+    "addr:postcode": "1212",
+    "addr:street": "Szebeni utca",
+    "craft": "brewery",
+    "name": "Rizmajer Sörfőzde",
+    "website": "http://www.rizmajersor.hu/"
+  }
+},
+{
+  "type": "node",
+  "id": 3704893325,
+  "lat": 47.5006468,
+  "lon": 19.0369749,
+  "tags": {
+    "addr:city": "Budapest",
+    "addr:housenumber": "15",
+    "addr:postcode": "1011",
+    "addr:street": "Hunyadi János út",
+    "amenity": "pub",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "microbrewery": "yes",
+    "name": "Hunyadi Lakásbisztró",
+    "opening_hours": "Mo-Fr 16:00-24:00; Sa-Su 12:00-24:00",
+    "outdoor_seating": "yes",
+    "payment:coins": "yes",
+    "payment:credit_cards": "no",
+    "payment:debit_cards": "no",
+    "payment:notes": "yes",
+    "smoking": "isolated"
+  }
+},
+{
+  "type": "node",
+  "id": 4880886365,
+  "lat": 47.4948316,
+  "lon": 19.0718644,
+  "tags": {
+    "amenity": "pub",
+    "contact:email": "hintalo@hintaloiszoda.hu",
+    "contact:phone": "+36 1 210 22 96",
+    "contact:website": "http://hintaloiszoda.hu/",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "level": "0",
+    "microbrewery": "yes",
+    "name": "Hintaló",
+    "opening_hours": "Su-We 16:30-01:00; Th 16:30-01:30; Fr 16:30-02:00; Sa 17:30-02:00",
+    "smoking": "no",
+    "takeaway": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5174863024,
+  "lat": 47.4998875,
+  "lon": 19.0576782,
+  "tags": {
+    "addr:city": "Budapest",
+    "addr:housenumber": "5",
+    "addr:postcode": "1061",
+    "addr:street": "Káldy Gyula utca",
+    "amenity": "restaurant",
+    "cuisine": "hungarian",
+    "microbrewery": "yes",
+    "name": "Pécsi Sör Beer & Traditional Food"
+  }
+},
+{
+  "type": "way",
+  "id": 686343423,
+  "nodes": [
+    6433108112,
+    6433108113,
+    6433108118,
+    6433108119,
+    6433108120,
+    6433108112
+  ],
+  "tags": {
+    "building": "yes",
+    "contact:website": "http://servar.hu",
+    "craft": "brewery",
+    "name": "Pilis ser vár kézműves sörök",
+    "opening_hours": "Mo-Fr 12:00-20:00; Sa 09:00-20:00; Su 09:00-18:00"
+  }
+},
+{
+  "type": "node",
+  "id": 6433108112,
+  "lat": 47.6169230,
+  "lon": 18.9159468
+},
+{
+  "type": "node",
+  "id": 6433108113,
+  "lat": 47.6168074,
+  "lon": 18.9158876
+},
+{
+  "type": "node",
+  "id": 6433108118,
+  "lat": 47.6167669,
+  "lon": 18.9158661
+},
+{
+  "type": "node",
+  "id": 6433108119,
+  "lat": 47.6167815,
+  "lon": 18.9158036
+},
+{
+  "type": "node",
+  "id": 6433108120,
+  "lat": 47.6169379,
+  "lon": 18.9158841
+}
+
+  ]
+}

@@ -1,0 +1,454 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-05T20:42:03Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1512556874,
+  "lat": 52.3486714,
+  "lon": 1.5953840,
+  "tags": {
+    "addr:city": "Beccles",
+    "addr:housename": "The Office",
+    "addr:postcode": "NR34 8AN",
+    "addr:street": "Henham Park",
+    "craft": "brewery",
+    "name": "Hektor's Brewery"
+  }
+},
+{
+  "type": "node",
+  "id": 1512623104,
+  "lat": 52.4795228,
+  "lon": 1.7486658,
+  "tags": {
+    "addr:city": "Lowestoft",
+    "addr:housename": "Argyle Place",
+    "addr:postcode": "NR32 2NZ",
+    "addr:street": "Love Road",
+    "craft": "brewery",
+    "name": "Green Jack Brewery"
+  }
+},
+{
+  "type": "node",
+  "id": 1512625822,
+  "lat": 52.4379596,
+  "lon": 1.7001246,
+  "tags": {
+    "addr:city": "Gisleham",
+    "addr:housename": "Wild Hearts Cottage",
+    "addr:housenumber": "5",
+    "addr:postcode": "NR33 8DS",
+    "addr:street": "Church Road",
+    "craft": "brewery",
+    "name": "Trinity Ales Brewery"
+  }
+},
+{
+  "type": "node",
+  "id": 1512631426,
+  "lat": 52.4578330,
+  "lon": 1.4350186,
+  "tags": {
+    "addr:city": "Bungay",
+    "addr:housenumber": "29",
+    "addr:postcode": "NR35 1EF",
+    "addr:street": "Broad Street",
+    "amenity": "pub",
+    "fhrs:id": "1074352",
+    "microbrewery": "yes",
+    "name": "Green Dragon"
+  }
+},
+{
+  "type": "node",
+  "id": 4131511844,
+  "lat": 52.5331811,
+  "lon": 1.0496436,
+  "tags": {
+    "craft": "brewery",
+    "name": "Wolf Brewery"
+  }
+},
+{
+  "type": "way",
+  "id": 135187138,
+  "nodes": [
+    1484869558,
+    1484869574,
+    1484869641,
+    1484869643,
+    1484869645,
+    1484869649,
+    1484869624,
+    1484869618,
+    1484869562,
+    1484869556,
+    1484869546,
+    1484869539,
+    1484869536,
+    1484869531,
+    1484869558
+  ],
+  "tags": {
+    "addr:postcode": "NR13 6SW",
+    "addr:street": "Slad Lane",
+    "addr:village": "Woodbastwick",
+    "building": "yes",
+    "craft": "brewery",
+    "fhrs:id": "737524",
+    "name": "Woodfordes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "way",
+  "id": 137381657,
+  "nodes": [
+    1507178611,
+    1507178609,
+    1507178608,
+    1507178607,
+    1507178605,
+    1507178610,
+    1507178611
+  ],
+  "tags": {
+    "addr:city": "Norwich",
+    "addr:country": "GB",
+    "addr:housenumber": "98-100",
+    "addr:interpolation": "even",
+    "addr:postcode": "NR3 4LF",
+    "addr:street": "Lawson Road",
+    "amenity": "pub",
+    "brewery": "Fat Cat",
+    "building": "yes",
+    "craft": "brewery",
+    "dog": "yes",
+    "email": "info@fatcattap.co.uk",
+    "fhrs:id": "15817",
+    "internet_access": "wlan",
+    "microbrewery": "yes",
+    "name": "The Fat Cat Brewery Tap",
+    "off_licence": "yes",
+    "old_name": "Cider Shed;The Shed;Wherry",
+    "opening_hours": "Mo-Th 12:00-23:00; Fr 12:00-00:00; Sa 11:00-00:00; Su 11:00-22:30",
+    "outdoor_seating": "yes",
+    "phone": "+44 1603 413153",
+    "real_ale": "14",
+    "real_cider": "yes",
+    "source": "Bing",
+    "start_date": "2nd Feb 2011",
+    "website": "http://www.fatcattap.co.uk/"
+  }
+},
+{
+  "type": "way",
+  "id": 201846479,
+  "nodes": [
+    2118625586,
+    2118625532,
+    2118625512,
+    2118625483,
+    2118625519,
+    2118625586
+  ],
+  "tags": {
+    "building": "brewery",
+    "name": "Blackfriars Brewery",
+    "source": "bing"
+  }
+},
+{
+  "type": "way",
+  "id": 230831008,
+  "nodes": [
+    2392704564,
+    2392704571,
+    2392704565,
+    2392704560,
+    2392704564
+  ],
+  "tags": {
+    "addr:city": "Beccles",
+    "addr:housename": "The Office",
+    "addr:postcode": "NR34 8AN",
+    "addr:street": "Henham Park",
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Hektor's Brewery"
+  }
+},
+{
+  "type": "way",
+  "id": 347318277,
+  "nodes": [
+    3536558051,
+    3536558036,
+    3536558040,
+    3536558041,
+    3536558052,
+    3536558050,
+    3536558047,
+    3536558048,
+    3536558045,
+    3536558046,
+    3536558049,
+    3536558051
+  ],
+  "tags": {
+    "addr:postcode": "NR10 4SB",
+    "building": "yes",
+    "craft": "brewery",
+    "name": "All Day Brewing Co."
+  }
+},
+{
+  "type": "node",
+  "id": 2392704560,
+  "lat": 52.3484878,
+  "lon": 1.5950940
+},
+{
+  "type": "node",
+  "id": 2392704564,
+  "lat": 52.3485413,
+  "lon": 1.5950721
+},
+{
+  "type": "node",
+  "id": 2392704565,
+  "lat": 52.3485291,
+  "lon": 1.5953649
+},
+{
+  "type": "node",
+  "id": 2392704571,
+  "lat": 52.3485827,
+  "lon": 1.5953430
+},
+{
+  "type": "node",
+  "id": 3536558036,
+  "lat": 52.7773109,
+  "lon": 1.1110666
+},
+{
+  "type": "node",
+  "id": 3536558040,
+  "lat": 52.7773529,
+  "lon": 1.1109678
+},
+{
+  "type": "node",
+  "id": 3536558041,
+  "lat": 52.7773546,
+  "lon": 1.1109709
+},
+{
+  "type": "node",
+  "id": 3536558045,
+  "lat": 52.7775104,
+  "lon": 1.1115750
+},
+{
+  "type": "node",
+  "id": 3536558046,
+  "lat": 52.7775450,
+  "lon": 1.1114882
+},
+{
+  "type": "node",
+  "id": 3536558047,
+  "lat": 52.7775712,
+  "lon": 1.1118452
+},
+{
+  "type": "node",
+  "id": 3536558048,
+  "lat": 52.7776268,
+  "lon": 1.1117035
+},
+{
+  "type": "node",
+  "id": 3536558049,
+  "lat": 52.7776614,
+  "lon": 1.1116167
+},
+{
+  "type": "node",
+  "id": 3536558050,
+  "lat": 52.7776623,
+  "lon": 1.1119453
+},
+{
+  "type": "node",
+  "id": 3536558051,
+  "lat": 52.7777103,
+  "lon": 1.1115034
+},
+{
+  "type": "node",
+  "id": 3536558052,
+  "lat": 52.7778443,
+  "lon": 1.1115037
+},
+{
+  "type": "node",
+  "id": 1507178605,
+  "lat": 52.6433251,
+  "lon": 1.3002544
+},
+{
+  "type": "node",
+  "id": 1507178607,
+  "lat": 52.6433469,
+  "lon": 1.3004652
+},
+{
+  "type": "node",
+  "id": 1507178608,
+  "lat": 52.6434019,
+  "lon": 1.3004498
+},
+{
+  "type": "node",
+  "id": 1507178609,
+  "lat": 52.6434036,
+  "lon": 1.3004660
+},
+{
+  "type": "node",
+  "id": 1507178610,
+  "lat": 52.6434617,
+  "lon": 1.3002159
+},
+{
+  "type": "node",
+  "id": 1507178611,
+  "lat": 52.6434852,
+  "lon": 1.3004430
+},
+{
+  "type": "node",
+  "id": 1484869531,
+  "lat": 52.6829094,
+  "lon": 1.4429329
+},
+{
+  "type": "node",
+  "id": 1484869536,
+  "lat": 52.6829401,
+  "lon": 1.4431129
+},
+{
+  "type": "node",
+  "id": 1484869539,
+  "lat": 52.6829578,
+  "lon": 1.4431047
+},
+{
+  "type": "node",
+  "id": 1484869546,
+  "lat": 52.6829702,
+  "lon": 1.4431776
+},
+{
+  "type": "node",
+  "id": 1484869556,
+  "lat": 52.6829906,
+  "lon": 1.4431682
+},
+{
+  "type": "node",
+  "id": 1484869558,
+  "lat": 52.6830023,
+  "lon": 1.4428899
+},
+{
+  "type": "node",
+  "id": 1484869562,
+  "lat": 52.6830055,
+  "lon": 1.4432560
+},
+{
+  "type": "node",
+  "id": 1484869574,
+  "lat": 52.6830252,
+  "lon": 1.4430240
+},
+{
+  "type": "node",
+  "id": 1484869618,
+  "lat": 52.6832181,
+  "lon": 1.4431574
+},
+{
+  "type": "node",
+  "id": 1484869624,
+  "lat": 52.6832450,
+  "lon": 1.4433154
+},
+{
+  "type": "node",
+  "id": 1484869641,
+  "lat": 52.6832831,
+  "lon": 1.4429044
+},
+{
+  "type": "node",
+  "id": 1484869643,
+  "lat": 52.6832884,
+  "lon": 1.4429359
+},
+{
+  "type": "node",
+  "id": 1484869645,
+  "lat": 52.6833345,
+  "lon": 1.4429145
+},
+{
+  "type": "node",
+  "id": 1484869649,
+  "lat": 52.6833912,
+  "lon": 1.4432476
+},
+{
+  "type": "node",
+  "id": 2118625483,
+  "lat": 52.5909921,
+  "lon": 1.7342667
+},
+{
+  "type": "node",
+  "id": 2118625512,
+  "lat": 52.5910231,
+  "lon": 1.7342385
+},
+{
+  "type": "node",
+  "id": 2118625519,
+  "lat": 52.5908943,
+  "lon": 1.7336511
+},
+{
+  "type": "node",
+  "id": 2118625532,
+  "lat": 52.5910500,
+  "lon": 1.7341929
+},
+{
+  "type": "node",
+  "id": 2118625586,
+  "lat": 52.5909517,
+  "lon": 1.7336225
+}
+
+  ]
+}

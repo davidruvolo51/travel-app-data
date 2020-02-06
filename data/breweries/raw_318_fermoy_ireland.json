@@ -1,0 +1,152 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T12:11:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 528287891,
+  "lat": 51.9011371,
+  "lon": -8.4820234,
+  "tags": {
+    "amenity": "pub",
+    "brewery": "Rebel red",
+    "internet_access": "wlan",
+    "microbrewery": "yes",
+    "name": "Franciscan Well",
+    "note": "self brewen beer!",
+    "website": "http://www.franciscanwellbrewery.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 598688499,
+  "lat": 51.9134583,
+  "lon": -8.4331591,
+  "tags": {
+    "addr:street": "Old Youghal Road",
+    "amenity": "pub",
+    "microbrewery": "yes",
+    "name": "The Cotton Ball",
+    "phone": "+353 21 450 3096",
+    "website": "http://www.cottonball.ie"
+  }
+},
+{
+  "type": "node",
+  "id": 3687883511,
+  "lat": 51.8980821,
+  "lon": -8.4812941,
+  "tags": {
+    "addr:city": "Cork",
+    "addr:street": "Sheare Street",
+    "amenity": "pub",
+    "microbrewery": "yes",
+    "name": "Porterhouse",
+    "website": "http://www.porterhousebrewco.com/bars-cork-sheares.php"
+  }
+},
+{
+  "type": "node",
+  "id": 3688004906,
+  "lat": 51.8996697,
+  "lon": -8.4764751,
+  "tags": {
+    "addr:city": "Cork",
+    "addr:street": "Cornmarket Street",
+    "amenity": "pub",
+    "craft": "brewery",
+    "microbrewery": "yes",
+    "name": "Rising Sons Brewery",
+    "website": "https://www.risingsonsbrewery.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 3688038807,
+  "lat": 51.8984265,
+  "lon": -8.4680353,
+  "tags": {
+    "addr:city": "Cork",
+    "addr:street": "Oliver Plunkett Street",
+    "amenity": "pub",
+    "microbrewery": "yes",
+    "name": "Elbow Lane Brew and Smoke House",
+    "website": "https://www.elbowlane.ie/"
+  }
+},
+{
+  "type": "way",
+  "id": 763479701,
+  "nodes": [
+    7134274388,
+    348942938,
+    349167952,
+    1199510664,
+    348942939,
+    348942940,
+    1199510418,
+    1199510441,
+    7134274388
+  ],
+  "tags": {
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Heineken Brewerie"
+  }
+},
+{
+  "type": "node",
+  "id": 348942938,
+  "lat": 51.9027304,
+  "lon": -8.4730264
+},
+{
+  "type": "node",
+  "id": 348942939,
+  "lat": 51.9019969,
+  "lon": -8.4733363
+},
+{
+  "type": "node",
+  "id": 348942940,
+  "lat": 51.9020083,
+  "lon": -8.4733889
+},
+{
+  "type": "node",
+  "id": 349167952,
+  "lat": 51.9024065,
+  "lon": -8.4730783
+},
+{
+  "type": "node",
+  "id": 1199510418,
+  "lat": 51.9022705,
+  "lon": -8.4734373
+},
+{
+  "type": "node",
+  "id": 1199510441,
+  "lat": 51.9027387,
+  "lon": -8.4734402
+},
+{
+  "type": "node",
+  "id": 1199510664,
+  "lat": 51.9020352,
+  "lon": -8.4730816
+},
+{
+  "type": "node",
+  "id": 7134274388,
+  "lat": 51.9027458,
+  "lon": -8.4730270
+}
+
+  ]
+}

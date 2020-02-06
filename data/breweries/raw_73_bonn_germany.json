@@ -1,0 +1,1233 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-05T22:54:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 266344259,
+  "lat": 50.8627767,
+  "lon": 7.2140213,
+  "tags": {
+    "addr:city": "Lohmar",
+    "addr:country": "DE",
+    "addr:housenumber": "1",
+    "addr:postcode": "53797",
+    "addr:street": "Meigermühle",
+    "amenity": "restaurant",
+    "cuisine": "international",
+    "is_in": "Meigermühle,Lohmar,Rhein-Sieg-Kreis,Regierungsbezirk Köln,Nordrhein-Westfalen,Bundesrepublik Deutschland,Europe",
+    "microbrewery": "yes",
+    "motorcycle_friendly": "yes",
+    "name": "Meigermühle",
+    "opening_hours": "Tu-Su 11:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+49 2246 5000",
+    "website": "http://www.cafe-restaurant-meigermuehle.de/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 272775824,
+  "lat": 50.9538688,
+  "lon": 6.9107278,
+  "tags": {
+    "amenity": "pub",
+    "description": "Kölns kleinste Brauerei. Gute Küche, nettes Personal, Publikum ca. 30-40. Sehr leckeres selbstgebrautes: Kölsch (Helios), Alt, Weizen, wechselndes \"Spezial-Bier\".",
+    "email": "peter.esser@web.de",
+    "microbrewery": "yes",
+    "name": "Braustelle",
+    "operator": "Mo-Sa 18:00-01:00; Su off",
+    "phone": "+49 221 285 69 32",
+    "toilets:wheelchair": "no",
+    "website": "http://www.braustelle.com",
+    "wheelchair": "no",
+    "wheelchair:description": "Toiletten ebenerdig"
+  }
+},
+{
+  "type": "node",
+  "id": 409142384,
+  "lat": 50.7368112,
+  "lon": 7.0973544,
+  "tags": {
+    "addr:city": "Bonn",
+    "addr:country": "DE",
+    "addr:housenumber": "4",
+    "addr:postcode": "53111",
+    "addr:street": "Sterntorbrücke",
+    "amenity": "restaurant",
+    "email": "info@boennsch.de",
+    "fax": "+49228658964",
+    "microbrewery": "yes",
+    "name": "Brauhaus Bönnsch",
+    "opening_hours": "Mo-Th 00:00-01:00,11:00-24:00; Fr,Sa 00:00-03:00,11:00-24:00; Su 00:00-01:00,12:00-24:00",
+    "phone": "+49228650610",
+    "smoking": "no",
+    "website": "http://www.boennsch.de",
+    "wheelchair": "no",
+    "wheelchair:description": "Man kommt vorne bis zur Bar. Der Gastraum ist nur über 3 Stufen zu erreichen. Das macht das Essen für Rollstuhlfahrer in dem Restaurant nicht möglich."
+  }
+},
+{
+  "type": "node",
+  "id": 559892201,
+  "lat": 50.7981840,
+  "lon": 7.2106324,
+  "tags": {
+    "addr:city": "Siegburg",
+    "addr:housenumber": "37,39",
+    "addr:postcode": "53721",
+    "addr:street": "Holzgasse",
+    "alt_name": "Siegburger Abteibrauerei \"Zum Roten Löwen\"",
+    "amenity": "pub",
+    "email": "service@siegburger-brauhaus.de",
+    "fax": "+49-2241-55997",
+    "microbrewery": "yes",
+    "name": "Siegburger Brauhaus",
+    "opening_hours": "Su-Th 12:00-24:00, Fr 12:00-01:00, Sa 11:00-01:00",
+    "operator": "Edith Palmer",
+    "outdoor_seating": "yes",
+    "phone": "+49-2241-55999",
+    "source": "GPS",
+    "toilets:wheelchair": "no",
+    "website": "https://www.siegburger-brauhaus.de/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 570203749,
+  "lat": 50.9407362,
+  "lon": 6.9417890,
+  "tags": {
+    "amenity": "restaurant",
+    "microbrewery": "yes",
+    "name": "Brauerei Päffgen",
+    "phone": "+49 221 135461",
+    "toilets:wheelchair": "no",
+    "website": "http://www.paeffgen-koelsch.de/",
+    "wheelchair": "limited",
+    "wikidata": "Q152198",
+    "wikipedia": "de:Päffgen Kölsch"
+  }
+},
+{
+  "type": "node",
+  "id": 620827694,
+  "lat": 50.5538204,
+  "lon": 6.7634915,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "info@brauhaus-bam.de",
+    "microbrewery": "yes",
+    "name": "Brauhaus Bad Münstereifel",
+    "opening_hours": "Mo-Su 11:00-20:00",
+    "phone": "+49-2253-6203",
+    "website": "http://www.brauhaus-bam.de/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1741423139,
+  "lat": 50.9181538,
+  "lon": 6.9606497,
+  "tags": {
+    "addr:city": "Köln",
+    "addr:country": "DE",
+    "addr:housenumber": "43",
+    "addr:postcode": "50677",
+    "addr:street": "Bonner Straße",
+    "amenity": "restaurant",
+    "cuisine": "burger",
+    "microbrewery": "yes",
+    "name": "Die fette Kuh",
+    "note": "zu microbrewery: Das fette IPA. Es wird nicht dort gebraut aber exclusiv verkauft",
+    "opening_hours": "Mo-Su 12:00-23:00",
+    "opening_hours:check_date": "2019-01-15",
+    "phone": "+4922137627775",
+    "takeaway": "yes",
+    "toilets:wheelchair": "no",
+    "website": "http://www.diefettekuh.de/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1892799091,
+  "lat": 50.9278506,
+  "lon": 6.9455634,
+  "tags": {
+    "addr:housenumber": "24",
+    "addr:postcode": "50676",
+    "addr:street": "Am Weidenbach",
+    "alt_name": "Duexer Botschaft",
+    "amenity": "pub",
+    "cuisine": "pizza",
+    "microbrewery": "yes",
+    "name": "Birreria",
+    "source": "local knowledge",
+    "website": "https://birreria-koeln.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 3306127477,
+  "lat": 50.7699682,
+  "lon": 7.2020341,
+  "tags": {
+    "addr:city": "Sankt Augustin",
+    "addr:housenumber": "22",
+    "addr:postcode": "53757",
+    "addr:street": "Kamillenweg",
+    "amenity": "restaurant",
+    "cuisine": "steak_house",
+    "microbrewery": "yes",
+    "name": "El Posado",
+    "opening_hours": "Tu-Th 17:00-23:00, Fr-Sa 17:00-01:00, Su 17:00-15:00,17:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+49 2241 2018045"
+  }
+},
+{
+  "type": "node",
+  "id": 3595718812,
+  "lat": 50.6267593,
+  "lon": 6.9472291,
+  "tags": {
+    "addr:housenumber": "1",
+    "addr:street": "Wilhelmsplatz",
+    "amenity": "restaurant",
+    "fax": "+49 2226 913801",
+    "microbrewery": "yes",
+    "name": "Brauhaus Rheinbach",
+    "opening_hours": "11:00-01:00",
+    "outdoor_seating": "yes",
+    "phone": "+49 2226 913800",
+    "website": "www.brauhaus-rheinbach.de",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3605230634,
+  "lat": 50.5888968,
+  "lon": 6.8315042,
+  "tags": {
+    "craft": "brewery",
+    "microbrewery": "yes",
+    "name": "Hausbrauerei Steinbach"
+  }
+},
+{
+  "type": "node",
+  "id": 3686444141,
+  "lat": 50.8758735,
+  "lon": 6.9944835,
+  "tags": {
+    "craft": "brewery",
+    "name": "Reissdorf",
+    "operator": "PRIVAT-BRAUEREI HEINRICH REISSDORF GMBH & CO KG",
+    "wikidata": "Q151205"
+  }
+},
+{
+  "type": "node",
+  "id": 4504351903,
+  "lat": 50.8005802,
+  "lon": 6.7666455,
+  "tags": {
+    "addr:housenumber": "6-8",
+    "addr:street": "Schloßstraße",
+    "amenity": "pub",
+    "contact:facebook": "https://facebook.com/bluecat.restaurant/",
+    "description": "Eröffnung Februar 2017",
+    "email": "mail@bluecat-restaurant.de",
+    "microbrewery": "yes",
+    "name": "Brauhaus Blue Cat",
+    "opening_hours": "We-Sa 17:00-23:00; Su 17:00-22:00",
+    "opening_hours:url": "https://bluecat-restaurant.de/",
+    "operator": "Klaus Keller",
+    "outdoor_seating": "no",
+    "phone": "+49 2235 9944985",
+    "website": "https://bluecat-restaurant.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 4985107631,
+  "lat": 50.6129265,
+  "lon": 6.7924321,
+  "tags": {
+    "addr:city": "Euskirchen",
+    "addr:country": "DE",
+    "addr:housenumber": "4",
+    "addr:postcode": "53881",
+    "addr:street": "Weingartenstraße",
+    "addr:suburb": "Kreuzweingarten",
+    "alt_name": "ZAB Eventhof",
+    "contact:email": "nstock@zab-eventhof.de",
+    "contact:facebook": "https://www.facebook.com/zabeventhof",
+    "contact:fax": "+49 2251 7027599",
+    "contact:instagram": "https://www.instagram.com/zabeventhof/",
+    "contact:phone": "+49 2251 7027590",
+    "contact:pinterest": "https://www.pinterest.de/zabeventhof/",
+    "contact:website": "https://www.zab-eventhof.de/zabbier",
+    "craft": "brewery",
+    "microbrewery": "yes",
+    "name": "Zum alten Brauhaus – Der Eventhof"
+  }
+},
+{
+  "type": "node",
+  "id": 5226860891,
+  "lat": 50.7414306,
+  "lon": 7.1557548,
+  "tags": {
+    "addr:city": "Bonn",
+    "addr:country": "DE",
+    "addr:housenumber": "10",
+    "addr:postcode": "53229",
+    "addr:street": "Alaunbachweg",
+    "craft": "brewery",
+    "email": "fritz@ale-mania.de",
+    "name": "Ale-Mania",
+    "website": "https://fritz0830.wixsite.com/15168465"
+  }
+},
+{
+  "type": "node",
+  "id": 5571229648,
+  "lat": 50.6521800,
+  "lon": 6.7902140,
+  "tags": {
+    "addr:city": "Euskirchen",
+    "addr:country": "DE",
+    "addr:housenumber": "32",
+    "addr:postcode": "53879",
+    "addr:street": "Eifelring",
+    "contact:email": "info@biberbrauerei.de",
+    "contact:facebook": "https://www.facebook.com/biberbrauerei/",
+    "contact:phone": "+49 173 7493736",
+    "contact:website": "https://www.biberbrauerei.de/",
+    "craft": "brewery",
+    "name": "Biber Brauerei",
+    "opening_hours": "Fr 15:30-18:30, Sa 10:00-13:00",
+    "operator": "Thomas und Andreas Pohl",
+    "payment:cash": "yes",
+    "shop": "alcohol"
+  }
+},
+{
+  "type": "node",
+  "id": 5763425696,
+  "lat": 50.9199782,
+  "lon": 6.9592981,
+  "tags": {
+    "addr:postcode": "50677",
+    "amenity": "restaurant",
+    "contact:phone": "+49 221 16860975",
+    "contact:website": "https://www.johann-schaefer.de",
+    "cuisine": "german",
+    "microbrewery": "yes",
+    "name": "Brauhaus Johann Schäfer",
+    "opening_hours": "Mo-Fr 17:00-22:00; Sa-Su 13:00-22:00",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 62127699,
+  "nodes": [
+    775149598,
+    1922012642,
+    2127413319,
+    3747820953,
+    2127413320,
+    3747820955,
+    775149619,
+    791176069,
+    3747820949,
+    1684833947,
+    3747820946,
+    775149585,
+    2409541343,
+    2409541341,
+    775149598
+  ],
+  "tags": {
+    "addr:city": "Troisdorf",
+    "addr:country": "DE",
+    "addr:housenumber": "24",
+    "addr:postcode": "53840",
+    "addr:street": "Hippolytusstraße",
+    "addr:suburb": "Mitte",
+    "amenity": "restaurant",
+    "building": "retail",
+    "building:colour": "red",
+    "building:levels": "3",
+    "contact:email": "info@stadtbierhaus.de",
+    "contact:fax": "+49 2241 800 552",
+    "contact:phone": "+49 2241 800 555",
+    "contact:website": "http://stadtbierhaus.de/",
+    "cuisine": "german",
+    "height": "15.00",
+    "microbrewery": "yes",
+    "name": "StadtBierhaus Troisdorf",
+    "opening_hours": "Mo-Th 11:00-24:00, Fr-Sa 11:00-01:00, Su 11:00-24:00",
+    "roof:colour": "brown",
+    "roof:height": "6.00",
+    "roof:levels": "2",
+    "roof:material": "roof_tiles",
+    "source": "HiRes aerial imagery",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 143871042,
+  "nodes": [
+    1574363838,
+    1574363845,
+    1574363847,
+    1574363851,
+    1574363849,
+    1574363844,
+    1574363840,
+    1574363838
+  ],
+  "tags": {
+    "addr:city": "Frechen",
+    "addr:country": "DE",
+    "addr:housenumber": "39",
+    "addr:postcode": "50226",
+    "addr:street": "Kölner Straße",
+    "amenity": "restaurant",
+    "building": "residential",
+    "email": "info@gleisbrauer.de",
+    "microbrewery": "yes",
+    "name": "Alter Bahnhof Frechen",
+    "opening_hours": "Mo-Fr 17:00+; Sa,Su 12:30+",
+    "operator": "Ralph und Thomas Trunz",
+    "phone": "+49 2234 951718",
+    "website": "http://www.gleisbrauer.de/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 163383404,
+  "nodes": [
+    1750889989,
+    1750889991,
+    1750889992,
+    1750889995,
+    1750889996,
+    1750889997,
+    1750889998,
+    1750889999,
+    1750889989
+  ],
+  "tags": {
+    "addr:city": "Bonn",
+    "addr:country": "DE",
+    "addr:housenumber": "1",
+    "addr:postcode": "53229",
+    "addr:street": "An den Hecken",
+    "amenity": "restaurant",
+    "building": "yes",
+    "microbrewery": "yes",
+    "name": "Ennert Bräu",
+    "source": "Aerowest",
+    "toilets:wheelchair": "no",
+    "website": "https://www.wir-brauen-bier.de/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 282231258,
+  "nodes": [
+    2861759613,
+    2861754500,
+    2861759601,
+    2861759614,
+    2861759613
+  ],
+  "tags": {
+    "building": "brewery",
+    "building:levels": "2",
+    "roof:shape": "flat"
+  }
+},
+{
+  "type": "way",
+  "id": 282231262,
+  "nodes": [
+    2861759637,
+    2861759617,
+    2861759618,
+    2861759639,
+    2861759637
+  ],
+  "tags": {
+    "building": "brewery",
+    "building:levels": "1",
+    "roof:shape": "flat"
+  }
+},
+{
+  "type": "way",
+  "id": 282231288,
+  "nodes": [
+    2861759684,
+    2861759683,
+    2861759640,
+    2861759642,
+    2861759660,
+    2861759662,
+    2861759687,
+    2861759686,
+    2861759684
+  ],
+  "tags": {
+    "building": "brewery",
+    "building:levels": "2",
+    "roof:shape": "flat"
+  }
+},
+{
+  "type": "way",
+  "id": 330228145,
+  "nodes": [
+    3371808655,
+    3371808654,
+    3037222454,
+    3371808656,
+    3037222463,
+    3037222469,
+    3037222466,
+    3037222479,
+    3037222418,
+    3037222362,
+    3037207523,
+    771202606,
+    3017086124,
+    3017086125,
+    771202631,
+    2715391814,
+    771202623,
+    3037219206,
+    3037219224,
+    771202615,
+    771202628,
+    771202618,
+    2715391969,
+    2715391968,
+    2715391963,
+    2715391965,
+    3037219157,
+    2715391952,
+    2715391949,
+    2715391943,
+    2715391927,
+    2715391916,
+    2715391879,
+    3037222504,
+    2715391871,
+    2715391872,
+    2715391874,
+    2715391875,
+    3037222474,
+    3037222470,
+    3371808655
+  ],
+  "tags": {
+    "craft": "brewery",
+    "man_made": "works",
+    "name": "Brauerei Sünner",
+    "phone": "+49 221 987990",
+    "type": "multipolygon",
+    "website": "https://www.suenner-brauerei.de/",
+    "wikidata": "Q900091",
+    "wikipedia": "de:Brauerei & Brennerei Gebrüder Sünner"
+  }
+},
+{
+  "type": "way",
+  "id": 541161866,
+  "nodes": [
+    5233542222,
+    5233542221,
+    5233540320,
+    5233540319,
+    5233540318,
+    1306138266,
+    5233540317,
+    5233540316,
+    5233540315,
+    5233540314,
+    5233540313,
+    5233540312,
+    5233540311,
+    5233540310,
+    5233540309,
+    5233540308,
+    5233540307,
+    5233540306,
+    5233540305,
+    5233542222
+  ],
+  "tags": {
+    "addr:city": "Bad Neuenahr-Ahrweiler",
+    "addr:housenumber": "112",
+    "addr:postcode": "53474",
+    "addr:street": "Hauptstraße",
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "german",
+    "microbrewery": "yes",
+    "name": "Neuenahrer Brauhaus",
+    "phone": "+49 2641 950660",
+    "smoking": "no",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.neuenahrer-brauhaus.de/index.php",
+    "wheelchair": "yes",
+    "wheelchair:description": "Hat sogar eine Rollstuhltoilette"
+  }
+},
+{
+  "type": "node",
+  "id": 1306138266,
+  "lat": 50.5462073,
+  "lon": 7.1361702
+},
+{
+  "type": "node",
+  "id": 5233540305,
+  "lat": 50.5465979,
+  "lon": 7.1362952
+},
+{
+  "type": "node",
+  "id": 5233540306,
+  "lat": 50.5464891,
+  "lon": 7.1363185
+},
+{
+  "type": "node",
+  "id": 5233540307,
+  "lat": 50.5464913,
+  "lon": 7.1363448
+},
+{
+  "type": "node",
+  "id": 5233540308,
+  "lat": 50.5464179,
+  "lon": 7.1363605
+},
+{
+  "type": "node",
+  "id": 5233540309,
+  "lat": 50.5464146,
+  "lon": 7.1363227
+},
+{
+  "type": "node",
+  "id": 5233540310,
+  "lat": 50.5463647,
+  "lon": 7.1363334
+},
+{
+  "type": "node",
+  "id": 5233540311,
+  "lat": 50.5463834,
+  "lon": 7.1365496
+},
+{
+  "type": "node",
+  "id": 5233540312,
+  "lat": 50.5463003,
+  "lon": 7.1365674
+},
+{
+  "type": "node",
+  "id": 5233540313,
+  "lat": 50.5462935,
+  "lon": 7.1364886
+},
+{
+  "type": "node",
+  "id": 5233540314,
+  "lat": 50.5461723,
+  "lon": 7.1365145
+},
+{
+  "type": "node",
+  "id": 5233540315,
+  "lat": 50.5461703,
+  "lon": 7.1364914
+},
+{
+  "type": "node",
+  "id": 5233540316,
+  "lat": 50.5461134,
+  "lon": 7.1365036
+},
+{
+  "type": "node",
+  "id": 5233540317,
+  "lat": 50.5460867,
+  "lon": 7.1361961
+},
+{
+  "type": "node",
+  "id": 5233540318,
+  "lat": 50.5462124,
+  "lon": 7.1362283
+},
+{
+  "type": "node",
+  "id": 5233540319,
+  "lat": 50.5462942,
+  "lon": 7.1362107
+},
+{
+  "type": "node",
+  "id": 5233540320,
+  "lat": 50.5464832,
+  "lon": 7.1361702
+},
+{
+  "type": "node",
+  "id": 5233542221,
+  "lat": 50.5464862,
+  "lon": 7.1362052
+},
+{
+  "type": "node",
+  "id": 5233542222,
+  "lat": 50.5465882,
+  "lon": 7.1361833
+},
+{
+  "type": "node",
+  "id": 1750889989,
+  "lat": 50.7353048,
+  "lon": 7.1500901
+},
+{
+  "type": "node",
+  "id": 1750889991,
+  "lat": 50.7353683,
+  "lon": 7.1500333
+},
+{
+  "type": "node",
+  "id": 1750889992,
+  "lat": 50.7353935,
+  "lon": 7.1501037
+},
+{
+  "type": "node",
+  "id": 1750889995,
+  "lat": 50.7354020,
+  "lon": 7.1501274
+},
+{
+  "type": "node",
+  "id": 1750889996,
+  "lat": 50.7354118,
+  "lon": 7.1501187
+},
+{
+  "type": "node",
+  "id": 1750889997,
+  "lat": 50.7354298,
+  "lon": 7.1501690
+},
+{
+  "type": "node",
+  "id": 1750889998,
+  "lat": 50.7353453,
+  "lon": 7.1502445
+},
+{
+  "type": "node",
+  "id": 1750889999,
+  "lat": 50.7352936,
+  "lon": 7.1501001
+},
+{
+  "type": "node",
+  "id": 1574363838,
+  "lat": 50.9111653,
+  "lon": 6.8215039
+},
+{
+  "type": "node",
+  "id": 1574363840,
+  "lat": 50.9112376,
+  "lon": 6.8217629
+},
+{
+  "type": "node",
+  "id": 1574363844,
+  "lat": 50.9112482,
+  "lon": 6.8217555
+},
+{
+  "type": "node",
+  "id": 1574363845,
+  "lat": 50.9112441,
+  "lon": 6.8214486
+},
+{
+  "type": "node",
+  "id": 1574363847,
+  "lat": 50.9112680,
+  "lon": 6.8214319
+},
+{
+  "type": "node",
+  "id": 1574363849,
+  "lat": 50.9112928,
+  "lon": 6.8217242
+},
+{
+  "type": "node",
+  "id": 1574363851,
+  "lat": 50.9113402,
+  "lon": 6.8216910
+},
+{
+  "type": "node",
+  "id": 2861754500,
+  "lat": 50.9352586,
+  "lon": 6.9415458
+},
+{
+  "type": "node",
+  "id": 2861759601,
+  "lat": 50.9352656,
+  "lon": 6.9416919
+},
+{
+  "type": "node",
+  "id": 2861759613,
+  "lat": 50.9353460,
+  "lon": 6.9415353
+},
+{
+  "type": "node",
+  "id": 2861759614,
+  "lat": 50.9353511,
+  "lon": 6.9416813
+},
+{
+  "type": "node",
+  "id": 2861759617,
+  "lat": 50.9353686,
+  "lon": 6.9422521
+},
+{
+  "type": "node",
+  "id": 2861759618,
+  "lat": 50.9353765,
+  "lon": 6.9424206
+},
+{
+  "type": "node",
+  "id": 2861759637,
+  "lat": 50.9354370,
+  "lon": 6.9422411
+},
+{
+  "type": "node",
+  "id": 2861759639,
+  "lat": 50.9354455,
+  "lon": 6.9424124
+},
+{
+  "type": "node",
+  "id": 2861759640,
+  "lat": 50.9354643,
+  "lon": 6.9419074
+},
+{
+  "type": "node",
+  "id": 2861759642,
+  "lat": 50.9354728,
+  "lon": 6.9420842
+},
+{
+  "type": "node",
+  "id": 2861759660,
+  "lat": 50.9355707,
+  "lon": 6.9420694
+},
+{
+  "type": "node",
+  "id": 2861759662,
+  "lat": 50.9355719,
+  "lon": 6.9421227
+},
+{
+  "type": "node",
+  "id": 2861759683,
+  "lat": 50.9356376,
+  "lon": 6.9418862
+},
+{
+  "type": "node",
+  "id": 2861759684,
+  "lat": 50.9356505,
+  "lon": 6.9418848
+},
+{
+  "type": "node",
+  "id": 2861759686,
+  "lat": 50.9356512,
+  "lon": 6.9418965
+},
+{
+  "type": "node",
+  "id": 2861759687,
+  "lat": 50.9356625,
+  "lon": 6.9421108
+},
+{
+  "type": "node",
+  "id": 771202606,
+  "lat": 50.9377999,
+  "lon": 7.0113248
+},
+{
+  "type": "node",
+  "id": 3017086124,
+  "lat": 50.9378446,
+  "lon": 7.0116200
+},
+{
+  "type": "node",
+  "id": 771202615,
+  "lat": 50.9393452,
+  "lon": 7.0116861
+},
+{
+  "type": "node",
+  "id": 771202618,
+  "lat": 50.9391770,
+  "lon": 7.0105756
+},
+{
+  "type": "node",
+  "id": 771202623,
+  "lat": 50.9390674,
+  "lon": 7.0117920
+},
+{
+  "type": "node",
+  "id": 771202628,
+  "lat": 50.9392763,
+  "lon": 7.0112308
+},
+{
+  "type": "node",
+  "id": 771202631,
+  "lat": 50.9379448,
+  "lon": 7.0122971
+},
+{
+  "type": "node",
+  "id": 2715391814,
+  "lat": 50.9390787,
+  "lon": 7.0118663
+},
+{
+  "type": "node",
+  "id": 2715391871,
+  "lat": 50.9385365,
+  "lon": 7.0103943
+},
+{
+  "type": "node",
+  "id": 2715391872,
+  "lat": 50.9385610,
+  "lon": 7.0105495
+},
+{
+  "type": "node",
+  "id": 2715391874,
+  "lat": 50.9385841,
+  "lon": 7.0107153
+},
+{
+  "type": "node",
+  "id": 2715391875,
+  "lat": 50.9385874,
+  "lon": 7.0107260
+},
+{
+  "type": "node",
+  "id": 2715391879,
+  "lat": 50.9386318,
+  "lon": 7.0103562
+},
+{
+  "type": "node",
+  "id": 2715391916,
+  "lat": 50.9388615,
+  "lon": 7.0102722
+},
+{
+  "type": "node",
+  "id": 2715391927,
+  "lat": 50.9388851,
+  "lon": 7.0104346
+},
+{
+  "type": "node",
+  "id": 2715391943,
+  "lat": 50.9389288,
+  "lon": 7.0104191
+},
+{
+  "type": "node",
+  "id": 2715391949,
+  "lat": 50.9389523,
+  "lon": 7.0105864
+},
+{
+  "type": "node",
+  "id": 2715391952,
+  "lat": 50.9389591,
+  "lon": 7.0106254
+},
+{
+  "type": "node",
+  "id": 2715391963,
+  "lat": 50.9390054,
+  "lon": 7.0106066
+},
+{
+  "type": "node",
+  "id": 2715391965,
+  "lat": 50.9390110,
+  "lon": 7.0106439
+},
+{
+  "type": "node",
+  "id": 2715391968,
+  "lat": 50.9390428,
+  "lon": 7.0105923
+},
+{
+  "type": "node",
+  "id": 2715391969,
+  "lat": 50.9390478,
+  "lon": 7.0106249
+},
+{
+  "type": "node",
+  "id": 3017086125,
+  "lat": 50.9379308,
+  "lon": 7.0122093
+},
+{
+  "type": "node",
+  "id": 3037207523,
+  "lat": 50.9379519,
+  "lon": 7.0112668
+},
+{
+  "type": "node",
+  "id": 3037219157,
+  "lat": 50.9389646,
+  "lon": 7.0106617
+},
+{
+  "type": "node",
+  "id": 3037219206,
+  "lat": 50.9391142,
+  "lon": 7.0117742
+},
+{
+  "type": "node",
+  "id": 3037219224,
+  "lat": 50.9392301,
+  "lon": 7.0117300
+},
+{
+  "type": "node",
+  "id": 3037222362,
+  "lat": 50.9381815,
+  "lon": 7.0111793
+},
+{
+  "type": "node",
+  "id": 3037222418,
+  "lat": 50.9384015,
+  "lon": 7.0110954
+},
+{
+  "type": "node",
+  "id": 3037222454,
+  "lat": 50.9384700,
+  "lon": 7.0107965
+},
+{
+  "type": "node",
+  "id": 3037222463,
+  "lat": 50.9384841,
+  "lon": 7.0108670
+},
+{
+  "type": "node",
+  "id": 3037222466,
+  "lat": 50.9384912,
+  "lon": 7.0109232
+},
+{
+  "type": "node",
+  "id": 3037222469,
+  "lat": 50.9384926,
+  "lon": 7.0109227
+},
+{
+  "type": "node",
+  "id": 3037222470,
+  "lat": 50.9384936,
+  "lon": 7.0107310
+},
+{
+  "type": "node",
+  "id": 3037222474,
+  "lat": 50.9384980,
+  "lon": 7.0107602
+},
+{
+  "type": "node",
+  "id": 3037222479,
+  "lat": 50.9385111,
+  "lon": 7.0110541
+},
+{
+  "type": "node",
+  "id": 3037222504,
+  "lat": 50.9386109,
+  "lon": 7.0103659
+},
+{
+  "type": "node",
+  "id": 3371808654,
+  "lat": 50.9384619,
+  "lon": 7.0107431
+},
+{
+  "type": "node",
+  "id": 3371808655,
+  "lat": 50.9384741,
+  "lon": 7.0107384
+},
+{
+  "type": "node",
+  "id": 3371808656,
+  "lat": 50.9384809,
+  "lon": 7.0108682
+},
+{
+  "type": "node",
+  "id": 775149585,
+  "lat": 50.8137914,
+  "lon": 7.1578649
+},
+{
+  "type": "node",
+  "id": 775149598,
+  "lat": 50.8137536,
+  "lon": 7.1577297
+},
+{
+  "type": "node",
+  "id": 775149619,
+  "lat": 50.8139475,
+  "lon": 7.1579137
+},
+{
+  "type": "node",
+  "id": 791176069,
+  "lat": 50.8138672,
+  "lon": 7.1579552
+},
+{
+  "type": "node",
+  "id": 1684833947,
+  "lat": 50.8138113,
+  "lon": 7.1578661
+},
+{
+  "type": "node",
+  "id": 1922012642,
+  "lat": 50.8138300,
+  "lon": 7.1576810
+},
+{
+  "type": "node",
+  "id": 2127413319,
+  "lat": 50.8138782,
+  "lon": 7.1576592
+},
+{
+  "type": "node",
+  "id": 2127413320,
+  "lat": 50.8138994,
+  "lon": 7.1576773
+},
+{
+  "type": "node",
+  "id": 2409541341,
+  "lat": 50.8137700,
+  "lon": 7.1577826
+},
+{
+  "type": "node",
+  "id": 2409541343,
+  "lat": 50.8137792,
+  "lon": 7.1578170
+},
+{
+  "type": "node",
+  "id": 3747820946,
+  "lat": 50.8137940,
+  "lon": 7.1578744
+},
+{
+  "type": "node",
+  "id": 3747820949,
+  "lat": 50.8138302,
+  "lon": 7.1579691
+},
+{
+  "type": "node",
+  "id": 3747820953,
+  "lat": 50.8138895,
+  "lon": 7.1576689
+},
+{
+  "type": "node",
+  "id": 3747820955,
+  "lat": 50.8139259,
+  "lon": 7.1578054
+}
+
+  ]
+}

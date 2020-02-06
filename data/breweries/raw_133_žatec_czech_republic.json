@@ -1,0 +1,212 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T01:04:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2322843619,
+  "lat": 50.1935769,
+  "lon": 13.7077227,
+  "tags": {
+    "addr:city": "Mutějovice",
+    "addr:conscriptionnumber": "2",
+    "addr:country": "CZ",
+    "addr:housenumber": "2",
+    "addr:postcode": "27007",
+    "addr:street": "Velká Strana",
+    "amenity": "restaurant",
+    "craft": "brewery",
+    "cuisine": "regional",
+    "name": "Poddžbánský pivovar",
+    "ref:ruian": "8579865",
+    "source": "www.lunchtime.cz",
+    "source:addr": "ruian",
+    "website": "https://www.poddzbanskypivovar.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 3674962109,
+  "lat": 50.2725000,
+  "lon": 13.9257512,
+  "tags": {
+    "amenity": "restaurant",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "microbrewery": "yes",
+    "name": "Pivovar Zichovec",
+    "outdoor_seating": "yes",
+    "reservation": "recommended",
+    "website": "https://www.pivovarzichovec.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 3674962110,
+  "lat": 50.2725468,
+  "lon": 13.9258372,
+  "tags": {
+    "craft": "brewery"
+  }
+},
+{
+  "type": "node",
+  "id": 6485121700,
+  "lat": 50.3529042,
+  "lon": 13.8068018,
+  "tags": {
+    "amenity": "restaurant",
+    "microbrewery": "yes",
+    "name": "Pivovarská restaurace Na Letňáku",
+    "opening_hours": "Mo-Th 16:00-02:00, Fr-Sa 16:00-04:00, Su 16:00-24:00",
+    "operator": "Pivo ZLoun s.r.o.",
+    "outdoor_seating": "yes",
+    "phone": "+420736400655",
+    "website": "http://www.pivozloun.cz/"
+  }
+},
+{
+  "type": "way",
+  "id": 83840739,
+  "nodes": [
+    976035637,
+    976032716,
+    976033820,
+    976037362,
+    976036482,
+    976035637
+  ],
+  "tags": {
+    "addr:city": "Žatec",
+    "addr:conscriptionnumber": "81",
+    "addr:country": "CZ",
+    "addr:housenumber": "81",
+    "addr:postcode": "43801",
+    "addr:street": "Žižkovo náměstí",
+    "building": "civic",
+    "building:flats": "8",
+    "building:ruian:type": "5",
+    "craft": "brewery",
+    "is_in": "Žatec, Ústecký kraj, CZ",
+    "name": "Žatecký pivovar",
+    "ref:ruian": "9258787",
+    "ref:ruian:building": "9207341",
+    "source": "cuzk:ruian",
+    "source:addr": "ruian"
+  }
+},
+{
+  "type": "way",
+  "id": 499542768,
+  "nodes": [
+    4908091312,
+    990911743,
+    990910057,
+    990911191,
+    990907832,
+    3273868492,
+    990905679,
+    4908091312
+  ],
+  "tags": {
+    "addr:city": "Osek",
+    "addr:conscriptionnumber": "484",
+    "addr:country": "CZ",
+    "addr:housenumber": "1",
+    "addr:place": "Osek",
+    "addr:postcode": "41705",
+    "addr:street": "Rooseveltova",
+    "amenity": "restaurant",
+    "brewery": "Ossegg",
+    "building": "yes",
+    "building:flats": "1",
+    "building:levels": "1",
+    "building:ruian:type": "5",
+    "microbrewery": "yes",
+    "name": "Pivovar Ossegg",
+    "ref:ruian:addr": "15025870",
+    "ref:ruian:building": "14917696",
+    "source": "cuzk:ruian",
+    "website": "http://ossegg.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 976032716,
+  "lat": 50.3322337,
+  "lon": 13.5421229
+},
+{
+  "type": "node",
+  "id": 976033820,
+  "lat": 50.3320552,
+  "lon": 13.5417560
+},
+{
+  "type": "node",
+  "id": 976035637,
+  "lat": 50.3323784,
+  "lon": 13.5419513
+},
+{
+  "type": "node",
+  "id": 976036482,
+  "lat": 50.3322531,
+  "lon": 13.5416952
+},
+{
+  "type": "node",
+  "id": 976037362,
+  "lat": 50.3321983,
+  "lon": 13.5415832
+},
+{
+  "type": "node",
+  "id": 990905679,
+  "lat": 50.6217506,
+  "lon": 13.6958131
+},
+{
+  "type": "node",
+  "id": 990907832,
+  "lat": 50.6218303,
+  "lon": 13.6950162
+},
+{
+  "type": "node",
+  "id": 990910057,
+  "lat": 50.6216201,
+  "lon": 13.6957590
+},
+{
+  "type": "node",
+  "id": 990911191,
+  "lat": 50.6216982,
+  "lon": 13.6949867
+},
+{
+  "type": "node",
+  "id": 990911743,
+  "lat": 50.6214859,
+  "lon": 13.6960134
+},
+{
+  "type": "node",
+  "id": 3273868492,
+  "lat": 50.6218261,
+  "lon": 13.6950705
+},
+{
+  "type": "node",
+  "id": 4908091312,
+  "lat": 50.6215855,
+  "lon": 13.6961309
+}
+
+  ]
+}

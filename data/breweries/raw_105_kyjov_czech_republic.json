@@ -1,0 +1,303 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T00:02:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1348030649,
+  "lat": 49.1190497,
+  "lon": 16.7274486,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "info@pivovarsokolnice.cz",
+    "microbrewery": "yes",
+    "name": "Panský pivovar",
+    "outdoor_seating": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "payment:visa_debit": "yes",
+    "payment:visa_electron": "yes",
+    "phone": "+420 602 818 126",
+    "website": "pivovarsokolnice.cz/restaurace/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1695240478,
+  "lat": 48.8504063,
+  "lon": 17.1276600,
+  "tags": {
+    "addr:conscriptionnumber": "264",
+    "addr:country": "CZ",
+    "addr:housename": "Minipivovar Kunc Hodonín",
+    "addr:housenumber": "264/10",
+    "addr:postcode": "69501",
+    "addr:street": "Národní třída",
+    "addr:streetnumber": "10",
+    "amenity": "pub",
+    "is_in": "Hodonín, Jihomoravský kraj, CZ",
+    "microbrewery": "yes",
+    "name": "Minipivovar KUNC",
+    "source": "local knowledge",
+    "source:addr": "mvcr:adresa",
+    "source:loc": "cuzk:km",
+    "website": "http://www.minipivovarkunc.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 2812477065,
+  "lat": 49.2139818,
+  "lon": 16.8237850,
+  "tags": {
+    "addr:conscriptionnumber": "389",
+    "addr:housenumber": "389",
+    "addr:place": "Viničné Šumice",
+    "addr:postcode": "66406",
+    "amenity": "restaurant",
+    "cuisine": "czech",
+    "kids_area": "yes",
+    "microbrewery": "yes",
+    "name": "Restaurace Hradská",
+    "opening_hours": "16:00-22:00; Fr,Sa 16:00-23:00",
+    "phone": "+420603114193",
+    "ref:ruian:addr": "27754952",
+    "reservation": "yes",
+    "start_date": "2003-11-26",
+    "website": "http://www.vildenberg.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 2903191124,
+  "lat": 49.1496421,
+  "lon": 16.8886673,
+  "tags": {
+    "amenity": "restaurant",
+    "microbrewery": "yes",
+    "name": "Slavkovský pivovar",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2974615832,
+  "lat": 48.8524616,
+  "lon": 17.1249571,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "burger",
+    "microbrewery": "yes",
+    "name": "Burgr's Fresh Burger Bistro",
+    "name:cs": "Burgr's Fresh Burger Bistro",
+    "name:en": "Burgr's Fresh Burger Bistro",
+    "website": "http://burgrs.eu/"
+  }
+},
+{
+  "type": "node",
+  "id": 3979586736,
+  "lat": 48.9350966,
+  "lon": 16.7321449,
+  "tags": {
+    "craft": "brewery",
+    "name": "Hradní pivovar Hustopeče"
+  }
+},
+{
+  "type": "node",
+  "id": 4591233993,
+  "lat": 49.2831577,
+  "lon": 17.1714404,
+  "tags": {
+    "addr:housenumber": "57",
+    "addr:place": "Koválovice u Tištína",
+    "amenity": "restaurant",
+    "microbrewery": "yes",
+    "name": "Řemeslný pivovar Husar",
+    "name:cs": "Řemeslný pivovar Husar",
+    "website": "https://www.pivohusar.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 4591240594,
+  "lat": 49.2786883,
+  "lon": 17.0407385,
+  "tags": {
+    "addr:housenumber": "19",
+    "addr:street": "Topolany",
+    "amenity": "restaurant",
+    "microbrewery": "yes",
+    "name": "Minipivovar Lišák"
+  }
+},
+{
+  "type": "node",
+  "id": 4596332392,
+  "lat": 48.8356542,
+  "lon": 16.9326038,
+  "tags": {
+    "addr:housenumber": "485",
+    "addr:postcode": "69101",
+    "addr:street": "Chalúpky",
+    "amenity": "restaurant",
+    "email": "info@pivovar.in",
+    "internet_access": "wlan",
+    "microbrewery": "yes",
+    "name": "Pivovar Moravský Žižkov",
+    "phone": "+420607562306",
+    "website": "http://www.pivovar.in"
+  }
+},
+{
+  "type": "node",
+  "id": 4818360175,
+  "lat": 48.8566349,
+  "lon": 17.0348793,
+  "tags": {
+    "addr:city": "Dolní Bojanovice",
+    "addr:housenumber": "1110",
+    "addr:postcode": "69617",
+    "addr:street": "Hodonínská",
+    "craft": "brewery",
+    "email": "info@pivovarmazak.cz",
+    "name": "Pivovar Mazák",
+    "opening_hours": "Mo-Fr 08:00-16:30",
+    "phone": "+420 775 000 697",
+    "product": "beer",
+    "website": "https://www.pivovarmazak.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 6175152586,
+  "lat": 49.1230283,
+  "lon": 17.5398284,
+  "tags": {
+    "amenity": "restaurant",
+    "microbrewery": "yes",
+    "name": "Restaurace a penzion Topolská Hospoda",
+    "source": "survey",
+    "tourism": "guest_house"
+  }
+},
+{
+  "type": "node",
+  "id": 6427971444,
+  "lat": 48.9178213,
+  "lon": 17.1604775,
+  "tags": {
+    "craft": "brewery",
+    "name": "Pivovar Na mlýně",
+    "product": "beer"
+  }
+},
+{
+  "type": "node",
+  "id": 6443915049,
+  "lat": 49.1189702,
+  "lon": 16.7274072,
+  "tags": {
+    "craft": "brewery",
+    "email": "info@pivovarsokolnice.cz",
+    "name": "Panský pivovar Sokolnice",
+    "phone": "+420 602 818 126",
+    "website": "http://pivovarsokolnice.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 6616223181,
+  "lat": 48.7609031,
+  "lon": 16.8750418,
+  "tags": {
+    "craft": "brewery",
+    "man_made": "works",
+    "name": "Zámecký pivovar Břeclav",
+    "website": "https://pivovarbreclav.cz/"
+  }
+},
+{
+  "type": "way",
+  "id": 42688452,
+  "nodes": [
+    533864826,
+    533864832,
+    533864833,
+    533864834,
+    533864835,
+    533864836,
+    533864837,
+    533864838,
+    533864826
+  ],
+  "tags": {
+    "amenity": "restaurant",
+    "amenity_1": "bre",
+    "building": "yes",
+    "craft": "brewery",
+    "microbrewery": "yes",
+    "name": "Pivovar Chmelnice",
+    "website": "http://www.pivovarchmelnice.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 533864826,
+  "lat": 49.1769644,
+  "lon": 17.5170078
+},
+{
+  "type": "node",
+  "id": 533864832,
+  "lat": 49.1770454,
+  "lon": 17.5168349
+},
+{
+  "type": "node",
+  "id": 533864833,
+  "lat": 49.1770686,
+  "lon": 17.5168606
+},
+{
+  "type": "node",
+  "id": 533864834,
+  "lat": 49.1771127,
+  "lon": 17.5167686
+},
+{
+  "type": "node",
+  "id": 533864835,
+  "lat": 49.1771897,
+  "lon": 17.5168582
+},
+{
+  "type": "node",
+  "id": 533864836,
+  "lat": 49.1771512,
+  "lon": 17.5169489
+},
+{
+  "type": "node",
+  "id": 533864837,
+  "lat": 49.1771785,
+  "lon": 17.5169845
+},
+{
+  "type": "node",
+  "id": 533864838,
+  "lat": 49.1770919,
+  "lon": 17.5171648
+}
+
+  ]
+}

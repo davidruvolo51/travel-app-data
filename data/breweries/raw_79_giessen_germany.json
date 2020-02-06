@@ -1,0 +1,533 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-05T23:06:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 940023509,
+  "lat": 50.4131012,
+  "lon": 9.0086742,
+  "tags": {
+    "addr:city": "Nidda",
+    "addr:country": "DE",
+    "addr:housenumber": "21",
+    "addr:postcode": "63667",
+    "addr:street": "Markt",
+    "amenity": "restaurant",
+    "beds": "24",
+    "craft": "brewery",
+    "cuisine": "german",
+    "email": "info@hotel-zur-traube.de",
+    "fax": "+49 6043 404710",
+    "microbrewery": "yes",
+    "name": "Hotel zur Traube",
+    "opening_hours": "Mo-Sa 11:00-14:00,17:00-00:00, Su,PH 11:00-00:00",
+    "operator": "Niddaer Marktbräu GmbH",
+    "outdoor_seating": "yes",
+    "phone": "+49 6043 40470",
+    "rooms": "16",
+    "source": "http://www.hotel-zur-traube.de/",
+    "source:date": "2017-06-12",
+    "tourism": "hotel",
+    "website": "http://www.hotel-zur-traube.de/",
+    "wheelchair": "no",
+    "wheelchair:description": "Freisitz ebenerdig, Gastraum und Toiletten nur über Treppen"
+  }
+},
+{
+  "type": "node",
+  "id": 1923402919,
+  "lat": 50.4008729,
+  "lon": 8.8176572,
+  "tags": {
+    "addr:city": "Wölfersheim",
+    "addr:country": "DE",
+    "addr:housenumber": "32",
+    "addr:postcode": "61200",
+    "addr:street": "Seestraße",
+    "amenity": "restaurant",
+    "email": "bauernstubb@t-online.de",
+    "fax": "+49 6036 9836571",
+    "microbrewery": "yes",
+    "name": "Hausbrauerei Bauernstube",
+    "opening_hours": "17:00+; Sa off",
+    "operator": "Jürgen Kraft",
+    "phone": "+49 6036 5167",
+    "website": "https://www.bauernstube-online.de/"
+  }
+},
+{
+  "type": "way",
+  "id": 161485714,
+  "nodes": [
+    1734550843,
+    1734550847,
+    3047471972,
+    1734550836,
+    3047471963,
+    3047471961,
+    3047471965,
+    1734550828,
+    1734550843
+  ],
+  "tags": {
+    "addr:city": "Gladenbach",
+    "addr:housenumber": "10",
+    "addr:postcode": "35075",
+    "addr:street": "Blaumühlenweg",
+    "amenity": "restaurant",
+    "building": "yes",
+    "building:levels": "2",
+    "cuisine": "german",
+    "disused:amenity": "restaurant",
+    "internet_access": "no",
+    "microbrewery": "yes",
+    "name": "Künstlerhaus Lenz",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "toilets": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 168256175,
+  "nodes": [
+    1795484749,
+    1795484753,
+    1795484729,
+    1795484724,
+    1795484728,
+    1795484733,
+    1795484737,
+    1795484757,
+    1795484749
+  ],
+  "tags": {
+    "addr:city": "Herborn",
+    "addr:housenumber": "81a-b",
+    "addr:postcode": "35745",
+    "addr:street": "Austraße",
+    "amenity": "restaurant",
+    "building": "yes",
+    "contact:email": "info@gutshof-herborn.de",
+    "contact:fax": "+49 2772 575574-1",
+    "contact:phone": "+49 2772 575574-0",
+    "contact:website": "http://www.gutshof-herborn.de/",
+    "cuisine": "german",
+    "microbrewery": "yes",
+    "name": "Gasthaus Brauerei Gutshof",
+    "note": "biker welcome",
+    "phone": "+49 2772 575574-0",
+    "toilets:wheelchair": "yes",
+    "website": "http://www.gutshof-herborn.de/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 172435739,
+  "nodes": [
+    1833413503,
+    1833413495,
+    1833413487,
+    1833413498,
+    1833413497,
+    1833413499,
+    1833413503
+  ],
+  "tags": {
+    "addr:city": "Homberg (Ohm)",
+    "addr:housenumber": "1",
+    "addr:postcode": "35315",
+    "addr:street": "Mühltal",
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "regional",
+    "internet_access": "wlan",
+    "microbrewery": "yes",
+    "name": "Gasthof Hainmühle",
+    "operator": "Wilhelm Arnold",
+    "outdoor_seating": "yes",
+    "phone": "+49 6633 315",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "website": "http://www.Hainmuehle.de",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "way",
+  "id": 307858798,
+  "nodes": [
+    3130914077,
+    3130914078,
+    3130914079,
+    3130914080,
+    3130914081,
+    3130914082,
+    3130914083,
+    3130914084,
+    3130914085,
+    3130914086,
+    3130914087,
+    3130914088,
+    3130914089,
+    3130914090,
+    3130914077
+  ],
+  "tags": {
+    "addr:city": "Herborn",
+    "addr:country": "DE",
+    "addr:housenumber": "4",
+    "addr:postcode": "35745",
+    "addr:street": "Alte Marburger Straße",
+    "building": "industrial",
+    "craft": "brewery",
+    "name": "Privatbrauerei Bärenbräu"
+  }
+},
+{
+  "type": "way",
+  "id": 482041579,
+  "nodes": [
+    4749142349,
+    4749142348,
+    4749142347,
+    4749142346,
+    4749142345,
+    4749142344,
+    4749142343,
+    4749142342,
+    4749142341,
+    4749142340,
+    4749142339,
+    4749142338,
+    4749142337,
+    4749142336,
+    4749142335,
+    4749142349
+  ],
+  "tags": {
+    "amenity": "pub",
+    "building": "yes",
+    "delivery": "no",
+    "microbrewery": "yes",
+    "opening_hours": "Su 10:00+",
+    "takeaway": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4749142335,
+  "lat": 50.7663263,
+  "lon": 8.2663237
+},
+{
+  "type": "node",
+  "id": 4749142336,
+  "lat": 50.7663164,
+  "lon": 8.2663518
+},
+{
+  "type": "node",
+  "id": 4749142337,
+  "lat": 50.7663076,
+  "lon": 8.2663440
+},
+{
+  "type": "node",
+  "id": 4749142338,
+  "lat": 50.7662822,
+  "lon": 8.2664161
+},
+{
+  "type": "node",
+  "id": 4749142339,
+  "lat": 50.7663013,
+  "lon": 8.2664329
+},
+{
+  "type": "node",
+  "id": 4749142340,
+  "lat": 50.7662878,
+  "lon": 8.2664711
+},
+{
+  "type": "node",
+  "id": 4749142341,
+  "lat": 50.7663460,
+  "lon": 8.2665224
+},
+{
+  "type": "node",
+  "id": 4749142342,
+  "lat": 50.7663161,
+  "lon": 8.2666073
+},
+{
+  "type": "node",
+  "id": 4749142343,
+  "lat": 50.7663719,
+  "lon": 8.2666565
+},
+{
+  "type": "node",
+  "id": 4749142344,
+  "lat": 50.7664037,
+  "lon": 8.2665907
+},
+{
+  "type": "node",
+  "id": 4749142345,
+  "lat": 50.7664269,
+  "lon": 8.2665007
+},
+{
+  "type": "node",
+  "id": 4749142346,
+  "lat": 50.7664388,
+  "lon": 8.2665112
+},
+{
+  "type": "node",
+  "id": 4749142347,
+  "lat": 50.7664579,
+  "lon": 8.2664571
+},
+{
+  "type": "node",
+  "id": 4749142348,
+  "lat": 50.7664427,
+  "lon": 8.2664437
+},
+{
+  "type": "node",
+  "id": 4749142349,
+  "lat": 50.7664473,
+  "lon": 8.2664306
+},
+{
+  "type": "node",
+  "id": 1795484724,
+  "lat": 50.6688591,
+  "lon": 8.3058521
+},
+{
+  "type": "node",
+  "id": 1795484728,
+  "lat": 50.6689700,
+  "lon": 8.3058078
+},
+{
+  "type": "node",
+  "id": 1795484729,
+  "lat": 50.6689842,
+  "lon": 8.3066321
+},
+{
+  "type": "node",
+  "id": 1795484733,
+  "lat": 50.6690105,
+  "lon": 8.3060602
+},
+{
+  "type": "node",
+  "id": 1795484737,
+  "lat": 50.6690639,
+  "lon": 8.3060388
+},
+{
+  "type": "node",
+  "id": 1795484749,
+  "lat": 50.6690648,
+  "lon": 8.3063985
+},
+{
+  "type": "node",
+  "id": 1795484753,
+  "lat": 50.6690951,
+  "lon": 8.3065878
+},
+{
+  "type": "node",
+  "id": 1795484757,
+  "lat": 50.6691182,
+  "lon": 8.3063771
+},
+{
+  "type": "node",
+  "id": 3130914077,
+  "lat": 50.6887066,
+  "lon": 8.3088313
+},
+{
+  "type": "node",
+  "id": 3130914078,
+  "lat": 50.6886536,
+  "lon": 8.3085723
+},
+{
+  "type": "node",
+  "id": 3130914080,
+  "lat": 50.6887979,
+  "lon": 8.3080170
+},
+{
+  "type": "node",
+  "id": 3130914081,
+  "lat": 50.6882817,
+  "lon": 8.3082801
+},
+{
+  "type": "node",
+  "id": 3130914082,
+  "lat": 50.6883094,
+  "lon": 8.3084159
+},
+{
+  "type": "node",
+  "id": 3130914083,
+  "lat": 50.6881276,
+  "lon": 8.3085086
+},
+{
+  "type": "node",
+  "id": 3130914084,
+  "lat": 50.6882080,
+  "lon": 8.3089017
+},
+{
+  "type": "node",
+  "id": 3130914085,
+  "lat": 50.6881060,
+  "lon": 8.3089537
+},
+{
+  "type": "node",
+  "id": 3130914086,
+  "lat": 50.6881918,
+  "lon": 8.3093733
+},
+{
+  "type": "node",
+  "id": 3130914087,
+  "lat": 50.6883287,
+  "lon": 8.3093035
+},
+{
+  "type": "node",
+  "id": 3130914088,
+  "lat": 50.6882911,
+  "lon": 8.3091196
+},
+{
+  "type": "node",
+  "id": 3130914089,
+  "lat": 50.6884510,
+  "lon": 8.3090381
+},
+{
+  "type": "node",
+  "id": 3130914090,
+  "lat": 50.6884368,
+  "lon": 8.3089688
+},
+{
+  "type": "node",
+  "id": 3130914079,
+  "lat": 50.6888871,
+  "lon": 8.3084533
+},
+{
+  "type": "node",
+  "id": 1734550828,
+  "lat": 50.7529583,
+  "lon": 8.5636819
+},
+{
+  "type": "node",
+  "id": 1734550836,
+  "lat": 50.7530641,
+  "lon": 8.5639618
+},
+{
+  "type": "node",
+  "id": 1734550843,
+  "lat": 50.7530176,
+  "lon": 8.5636477
+},
+{
+  "type": "node",
+  "id": 1734550847,
+  "lat": 50.7530650,
+  "lon": 8.5638536
+},
+{
+  "type": "node",
+  "id": 3047471961,
+  "lat": 50.7528100,
+  "lon": 8.5636269
+},
+{
+  "type": "node",
+  "id": 3047471963,
+  "lat": 50.7529078,
+  "lon": 8.5640517
+},
+{
+  "type": "node",
+  "id": 3047471965,
+  "lat": 50.7529297,
+  "lon": 8.5635580
+},
+{
+  "type": "node",
+  "id": 3047471972,
+  "lat": 50.7530422,
+  "lon": 8.5638667
+},
+{
+  "type": "node",
+  "id": 1833413487,
+  "lat": 50.7277563,
+  "lon": 8.9932964
+},
+{
+  "type": "node",
+  "id": 1833413495,
+  "lat": 50.7277880,
+  "lon": 8.9934301
+},
+{
+  "type": "node",
+  "id": 1833413497,
+  "lat": 50.7278213,
+  "lon": 8.9931899
+},
+{
+  "type": "node",
+  "id": 1833413498,
+  "lat": 50.7278354,
+  "lon": 8.9932495
+},
+{
+  "type": "node",
+  "id": 1833413499,
+  "lat": 50.7279100,
+  "lon": 8.9931374
+},
+{
+  "type": "node",
+  "id": 1833413503,
+  "lat": 50.7279558,
+  "lon": 8.9933307
+}
+
+  ]
+}

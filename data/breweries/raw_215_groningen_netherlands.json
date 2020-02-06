@@ -1,0 +1,159 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T09:39:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2776003283,
+  "lat": 53.0333071,
+  "lon": 6.3875135,
+  "tags": {
+    "addr:city": "Veenhuizen",
+    "addr:housenumber": "140",
+    "addr:postcode": "9341BL",
+    "addr:street": "Hoofdweg",
+    "amenity": "pub",
+    "craft": "brewery",
+    "description": "brouwerij met proeflokaal",
+    "name": "Bierbrouwerij Maallust",
+    "outdoor_seating": "yes",
+    "product": "beer",
+    "source": "BAG",
+    "source:date": "2014-03-24",
+    "website": "https://www.maallust.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 5058237462,
+  "lat": 53.2265379,
+  "lon": 6.5348988,
+  "tags": {
+    "addr:city": "Groningen",
+    "addr:housenumber": "201-2a",
+    "addr:postcode": "9743AC",
+    "addr:street": "Friesestraatweg",
+    "craft": "brewery",
+    "description": "Baxbiers brouwerij en proeflokaal",
+    "email": "info@baxbier.com",
+    "name": "Baxbier Brouwerij",
+    "phone": "+31 50 211 20 40",
+    "product": "beer",
+    "source": "BAG",
+    "source:date": "2017-08-08",
+    "website": "https://baxbier.com"
+  }
+},
+{
+  "type": "node",
+  "id": 5878065911,
+  "lat": 53.1784697,
+  "lon": 6.6027853,
+  "tags": {
+    "craft": "brewery",
+    "name": "Pivo",
+    "product": "beer"
+  }
+},
+{
+  "type": "way",
+  "id": 270164141,
+  "nodes": [
+    2752243514,
+    2752243595,
+    2752243539,
+    2752243418,
+    2752243354,
+    2752243395,
+    2752243198,
+    2752242999,
+    2752243303,
+    2752243308,
+    2752243501,
+    2752243514
+  ],
+  "tags": {
+    "building": "yes",
+    "craft": "brewery",
+    "name": "Martinus",
+    "product": "beer",
+    "ref:bag": "14100010930321",
+    "source": "BAG",
+    "source:date": "2014-03-24",
+    "start_date": "1946"
+  }
+},
+{
+  "type": "node",
+  "id": 2752242999,
+  "lat": 53.2161355,
+  "lon": 6.5731796
+},
+{
+  "type": "node",
+  "id": 2752243303,
+  "lat": 53.2162318,
+  "lon": 6.5730920
+},
+{
+  "type": "node",
+  "id": 2752243308,
+  "lat": 53.2162360,
+  "lon": 6.5731054
+},
+{
+  "type": "node",
+  "id": 2752243354,
+  "lat": 53.2162529,
+  "lon": 6.5732396
+},
+{
+  "type": "node",
+  "id": 2752243418,
+  "lat": 53.2162728,
+  "lon": 6.5732213
+},
+{
+  "type": "node",
+  "id": 2752243501,
+  "lat": 53.2163017,
+  "lon": 6.5730475
+},
+{
+  "type": "node",
+  "id": 2752243514,
+  "lat": 53.2163059,
+  "lon": 6.5730596
+},
+{
+  "type": "node",
+  "id": 2752243539,
+  "lat": 53.2163197,
+  "lon": 6.5731791
+},
+{
+  "type": "node",
+  "id": 2752243595,
+  "lat": 53.2163365,
+  "lon": 6.5731630
+},
+{
+  "type": "node",
+  "id": 2752243198,
+  "lat": 53.2161930,
+  "lon": 6.5733383
+},
+{
+  "type": "node",
+  "id": 2752243395,
+  "lat": 53.2162656,
+  "lon": 6.5732741
+}
+
+  ]
+}

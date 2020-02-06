@@ -1,0 +1,447 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-05T21:21:03Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 705348826,
+  "lat": 51.1148321,
+  "lon": 0.9258353,
+  "tags": {
+    "addr:country": "GB",
+    "addr:postcode": "TN25 6NU",
+    "addr:state": "Kent",
+    "amenity": "pub",
+    "email": "info@thefarriersarms.com",
+    "microbrewery": "yes",
+    "name": "Farriers Arms",
+    "phone": "+44 1233 720444",
+    "website": "https://www.thefarriersarms.com",
+    "wikidata": "Q26526984"
+  }
+},
+{
+  "type": "node",
+  "id": 3760634259,
+  "lat": 51.3458544,
+  "lon": 0.7306863,
+  "tags": {
+    "addr:city": "Sittingbourne",
+    "addr:housenumber": "2",
+    "addr:postcode": "ME10 2JN",
+    "addr:street": "Charlotte Street",
+    "amenity": "pub",
+    "fhrs:authority": "Swale",
+    "fhrs:id": "713710",
+    "fhrs:inspectiondate": "2013-10-22",
+    "fhrs:rating": "5",
+    "microbrewery": "yes",
+    "name": "The Paper Mill"
+  }
+},
+{
+  "type": "node",
+  "id": 4825619927,
+  "lat": 51.3628401,
+  "lon": 0.6109456,
+  "tags": {
+    "addr:city": "Rainham",
+    "addr:country": "GB",
+    "addr:housenumber": "121",
+    "addr:postcode": "ME8 8AN",
+    "addr:state": "Kent",
+    "addr:street": "High Street",
+    "amenity": "pub",
+    "email": "info@princeofales.co.uk",
+    "fhrs:authority": "Medway",
+    "fhrs:id": "955231",
+    "fhrs:inspectiondate": "2016-03-16",
+    "fhrs:rating": "5",
+    "level": "0",
+    "microbrewery": "yes",
+    "name": "The Prince of Ales",
+    "opening_hours": "Tu-Th 17:30-21:30; Fr,Sa 12:00-22:00; Su 12:00-15:00",
+    "phone": "+44 7982 756412",
+    "website": "www.princeofales.co.uk"
+  }
+},
+{
+  "type": "way",
+  "id": 175072406,
+  "nodes": [
+    1857173664,
+    1857173663,
+    1857176810,
+    1857172551,
+    1857173664
+  ],
+  "tags": {
+    "addr:city": "Chatham",
+    "addr:country": "GB",
+    "addr:housename": "Building 64",
+    "addr:place": "The Historic Dockyard",
+    "addr:postcode": "ME4 4TE",
+    "addr:state": "Kent",
+    "addr:unit": "2",
+    "building": "yes",
+    "craft": "brewery",
+    "email": "sales@nelsonbrewery.co.uk",
+    "name": "Nelson Brewery",
+    "phone": "+44 1634 832828",
+    "website": "http://www.nelsonbrewery.co.uk/"
+  }
+},
+{
+  "type": "way",
+  "id": 247893666,
+  "nodes": [
+    2547487053,
+    2547487055,
+    2547487058,
+    2547487060,
+    2547487062,
+    2547487064,
+    2547487053
+  ],
+  "tags": {
+    "addr:city": "Faversham",
+    "addr:country": "GB",
+    "addr:place": "Brogdale Farm",
+    "addr:postcode": "ME13 8XU",
+    "addr:state": "Kent",
+    "addr:street": "Brogdale Road",
+    "building": "commercial",
+    "craft": "brewery",
+    "email": "info@madcatbrewery.co.uk",
+    "name": "Mad Cat Brewery",
+    "phone": "+44 1795 597743",
+    "website": "http://www.madcatbrewery.co.uk"
+  }
+},
+{
+  "type": "way",
+  "id": 409094364,
+  "nodes": [
+    2405562106,
+    1647910672,
+    5194290244,
+    5194290247,
+    5194290245,
+    5194290246,
+    1647910477,
+    1647910704,
+    2405562105,
+    2405562106
+  ],
+  "tags": {
+    "addr:city": "Canterbury",
+    "addr:country": "GB",
+    "addr:housenumber": "48",
+    "addr:postcode": "CT1 1BE",
+    "addr:street": "Northgate",
+    "amenity": "pub",
+    "brewery": "various",
+    "building": "retail",
+    "fhrs:id": "1103169",
+    "internet_access": "yes",
+    "microbrewery": "yes",
+    "name": "The Thomas Tallis Alehouse",
+    "opening_hours": "Mo 17:00-09:30, Tu-Th 14:00-23:00, Fr,Sa 12:00-23:00, Su 12:00-22:00",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "source": "Bing;photograph",
+    "source:addr:postcode": "FHRS Open Data",
+    "website": "http://www.thethomastallisalehouse.co.uk/"
+  }
+},
+{
+  "type": "way",
+  "id": 598587145,
+  "nodes": [
+    5696940432,
+    5696940431,
+    5696940430,
+    5696940429,
+    5696940432
+  ],
+  "tags": {
+    "addr:city": "Wye",
+    "addr:country": "GB",
+    "amenity": "pub",
+    "building": "yes",
+    "internet_access": "no",
+    "internet_access:fee": "no",
+    "microbrewery": "yes",
+    "name": "Sawyers",
+    "note": "Opened on 5 April 2019",
+    "opening_hours": "Tu-Th 18:00-23:00; Fr 17:00-23:00; Sa 12:00-23:00; Su 12:00-17:00",
+    "smoking": "no",
+    "source": "survey",
+    "survey:date": "2019-05-03"
+  }
+},
+{
+  "type": "way",
+  "id": 703815246,
+  "nodes": [
+    6609044695,
+    6609044696,
+    6609044697,
+    6609044698,
+    6609044699,
+    6609044700,
+    6609044701,
+    6609044702,
+    6609044695
+  ],
+  "tags": {
+    "addr:city": "Ashford",
+    "addr:country": "GB",
+    "addr:postcode": "TN23 7HQ",
+    "addr:state": "Kent",
+    "addr:street": "Victoria Road",
+    "addr:unit": "Unit 1",
+    "building": "commercial",
+    "craft": "brewery",
+    "email": "sales@curiousbrewing.com",
+    "name": "Curious Brewing",
+    "operator": "Curious Brewery Ltd",
+    "phone": "+44 1580 763033",
+    "website": "https://www.curiousbrewery.com",
+    "wikidata": "Q65118948",
+    "wikipedia": "en:Curious Brewing"
+  }
+},
+{
+  "type": "way",
+  "id": 710694146,
+  "nodes": [
+    6681670016,
+    6681670013,
+    6681670014,
+    6681670015,
+    6681670016
+  ],
+  "tags": {
+    "building": "brewery",
+    "name": "Goody Ales"
+  }
+},
+{
+  "type": "node",
+  "id": 1857172551,
+  "lat": 51.3943618,
+  "lon": 0.5262655
+},
+{
+  "type": "node",
+  "id": 1857173663,
+  "lat": 51.3944860,
+  "lon": 0.5261458
+},
+{
+  "type": "node",
+  "id": 1857173664,
+  "lat": 51.3944514,
+  "lon": 0.5263131
+},
+{
+  "type": "node",
+  "id": 1857176810,
+  "lat": 51.3943964,
+  "lon": 0.5260982
+},
+{
+  "type": "node",
+  "id": 6609044695,
+  "lat": 51.1442892,
+  "lon": 0.8721458
+},
+{
+  "type": "node",
+  "id": 6609044696,
+  "lat": 51.1441307,
+  "lon": 0.8719732
+},
+{
+  "type": "node",
+  "id": 6609044697,
+  "lat": 51.1439567,
+  "lon": 0.8723923
+},
+{
+  "type": "node",
+  "id": 6609044698,
+  "lat": 51.1438910,
+  "lon": 0.8724724
+},
+{
+  "type": "node",
+  "id": 6609044699,
+  "lat": 51.1438523,
+  "lon": 0.8727866
+},
+{
+  "type": "node",
+  "id": 6609044700,
+  "lat": 51.1441461,
+  "lon": 0.8728975
+},
+{
+  "type": "node",
+  "id": 6609044701,
+  "lat": 51.1441848,
+  "lon": 0.8726326
+},
+{
+  "type": "node",
+  "id": 6609044702,
+  "lat": 51.1441539,
+  "lon": 0.8725278
+},
+{
+  "type": "node",
+  "id": 5696940429,
+  "lat": 51.1827237,
+  "lon": 0.9366116
+},
+{
+  "type": "node",
+  "id": 5696940430,
+  "lat": 51.1827134,
+  "lon": 0.9366775
+},
+{
+  "type": "node",
+  "id": 5696940431,
+  "lat": 51.1826290,
+  "lon": 0.9366404
+},
+{
+  "type": "node",
+  "id": 5696940432,
+  "lat": 51.1826412,
+  "lon": 0.9365730
+},
+{
+  "type": "node",
+  "id": 2547487053,
+  "lat": 51.3000013,
+  "lon": 0.8777768
+},
+{
+  "type": "node",
+  "id": 2547487055,
+  "lat": 51.3002948,
+  "lon": 0.8777634
+},
+{
+  "type": "node",
+  "id": 2547487058,
+  "lat": 51.3002948,
+  "lon": 0.8779001
+},
+{
+  "type": "node",
+  "id": 2547487060,
+  "lat": 51.3002109,
+  "lon": 0.8779055
+},
+{
+  "type": "node",
+  "id": 2547487062,
+  "lat": 51.3002126,
+  "lon": 0.8781979
+},
+{
+  "type": "node",
+  "id": 2547487064,
+  "lat": 51.3000063,
+  "lon": 0.8782032
+},
+{
+  "type": "node",
+  "id": 1647910477,
+  "lat": 51.2832225,
+  "lon": 1.0845753
+},
+{
+  "type": "node",
+  "id": 1647910672,
+  "lat": 51.2832701,
+  "lon": 1.0848528
+},
+{
+  "type": "node",
+  "id": 1647910704,
+  "lat": 51.2831798,
+  "lon": 1.0846303
+},
+{
+  "type": "node",
+  "id": 2405562105,
+  "lat": 51.2831262,
+  "lon": 1.0846965
+},
+{
+  "type": "node",
+  "id": 2405562106,
+  "lat": 51.2832248,
+  "lon": 1.0849046
+},
+{
+  "type": "node",
+  "id": 5194290244,
+  "lat": 51.2832217,
+  "lon": 1.0847443
+},
+{
+  "type": "node",
+  "id": 5194290245,
+  "lat": 51.2832208,
+  "lon": 1.0846759
+},
+{
+  "type": "node",
+  "id": 5194290246,
+  "lat": 51.2832527,
+  "lon": 1.0846370
+},
+{
+  "type": "node",
+  "id": 5194290247,
+  "lat": 51.2832410,
+  "lon": 1.0847202
+},
+{
+  "type": "node",
+  "id": 6681670013,
+  "lat": 51.3398446,
+  "lon": 1.1161267
+},
+{
+  "type": "node",
+  "id": 6681670014,
+  "lat": 51.3399186,
+  "lon": 1.1164008
+},
+{
+  "type": "node",
+  "id": 6681670015,
+  "lat": 51.3398185,
+  "lon": 1.1164701
+},
+{
+  "type": "node",
+  "id": 6681670016,
+  "lat": 51.3397445,
+  "lon": 1.1161959
+}
+
+  ]
+}

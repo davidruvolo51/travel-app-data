@@ -1,0 +1,76 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-05T21:32:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 5747608028,
+  "lat": 57.2900228,
+  "lon": -6.1750855,
+  "tags": {
+    "craft": "brewery",
+    "name": "Cuillin Brewery"
+  }
+},
+{
+  "type": "way",
+  "id": 166572195,
+  "nodes": [
+    1780188356,
+    1780188352,
+    1780188343,
+    1780188348,
+    1780188358,
+    1780188356
+  ],
+  "tags": {
+    "building": "yes",
+    "craft": "brewery",
+    "facebook": "https://www.facebook.com/IsleofSkyeBrewing",
+    "name": "Isle of Skye Brewery",
+    "real_ale": "yes",
+    "roof:colour": "grey",
+    "roof:shape": "gabled",
+    "source": "visual survey;OS_OpenData_StreetView",
+    "twitter": "isleofskyebrew",
+    "website": "https://skyeale.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 1780188343,
+  "lat": 57.5866407,
+  "lon": -6.3778440
+},
+{
+  "type": "node",
+  "id": 1780188348,
+  "lat": 57.5866837,
+  "lon": -6.3775792
+},
+{
+  "type": "node",
+  "id": 1780188352,
+  "lat": 57.5867166,
+  "lon": -6.3778869
+},
+{
+  "type": "node",
+  "id": 1780188356,
+  "lat": 57.5867425,
+  "lon": -6.3777277
+},
+{
+  "type": "node",
+  "id": 1780188358,
+  "lat": 57.5867596,
+  "lon": -6.3776220
+}
+
+  ]
+}

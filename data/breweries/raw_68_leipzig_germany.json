@@ -1,0 +1,489 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-05T22:41:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1673864858,
+  "lat": 51.3392848,
+  "lon": 12.3735799,
+  "tags": {
+    "addr:city": "Leipzig",
+    "addr:country": "DE",
+    "addr:housenumber": "3-5",
+    "addr:postcode": "04109",
+    "addr:street": "Thomaskirchhof",
+    "amenity": "restaurant",
+    "craft": "brewery",
+    "cuisine": "italian;pizza;regional",
+    "email": "info@brauerei-thomaskirche.de",
+    "microbrewery": "yes",
+    "name": "Brauhaus an der Thomaskirche",
+    "opening_hours": "11:00-24:00",
+    "outdoor_seating": "yes",
+    "phone": "+49 341 2126110",
+    "toilets:wheelchair": "yes",
+    "website": "http://www.brauhaus-thomaskirche.de/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5594572396,
+  "lat": 51.3449313,
+  "lon": 12.3638476,
+  "tags": {
+    "addr:city": "Leipzig",
+    "addr:country": "DE",
+    "addr:housenumber": "17",
+    "addr:postcode": "04105",
+    "addr:street": "Leibnizstraße",
+    "amenity": "pub",
+    "microbrewery": "yes",
+    "name": "Cliff's Brauwerk",
+    "website": "https://www.cliffs-brauwerk-leipzig.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 5825120006,
+  "lat": 51.3289732,
+  "lon": 12.3784607,
+  "tags": {
+    "addr:city": "Leipzig",
+    "addr:country": "DE",
+    "addr:housenumber": "13",
+    "addr:postcode": "04107",
+    "addr:street": "Hohe Straße",
+    "craft": "brewery",
+    "name": "Synde Bräu",
+    "opening_hours": "Th 15:00-18:00; Fr 15:00-22:00"
+  }
+},
+{
+  "type": "node",
+  "id": 6436898709,
+  "lat": 51.1017771,
+  "lon": 12.6593900,
+  "tags": {
+    "addr:city": "Frohburg",
+    "addr:country": "DE",
+    "addr:housenumber": "16",
+    "addr:postcode": "04654",
+    "addr:street": "Schloßstraße",
+    "craft": "brewery",
+    "email": "info@kraeckerbier.de",
+    "name": "Kräcker-Bräu GbR",
+    "operator": "Gerd & Ramona Kräcker",
+    "phone": "+49 34345 522727",
+    "website": "https://www.kraeckerbier.de"
+  }
+},
+{
+  "type": "way",
+  "id": 41311573,
+  "nodes": [
+    505084403,
+    2702289241,
+    1601424898,
+    505084379,
+    505084397,
+    505084398,
+    505084396,
+    2702298128,
+    505084395,
+    505084380,
+    505084381,
+    505084382,
+    505084385,
+    2702289235,
+    505084387,
+    505084383,
+    505084384,
+    373155007,
+    2702289236,
+    373155008,
+    2589313621,
+    3775787229,
+    505084403
+  ],
+  "tags": {
+    "addr:city": "Leipzig",
+    "addr:country": "DE",
+    "addr:housenumber": "1",
+    "addr:postcode": "04103",
+    "addr:street": "Bayrischer Platz",
+    "amenity": "restaurant",
+    "building": "train_station",
+    "contact:email": "info@bayerischer-bahnhof.de",
+    "contact:phone": "+49 341 1245760",
+    "craft": "brewery",
+    "microbrewery": "yes",
+    "name": "Bayerischer Bahnhof",
+    "opening_hours": "11:00-24:00",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.bayerischer-bahnhof.de/",
+    "wheelchair": "yes",
+    "wikipedia": "de:Leipzig Bayerischer Bahnhof"
+  }
+},
+{
+  "type": "way",
+  "id": 122403169,
+  "nodes": [
+    1367936261,
+    313745025,
+    1367936258,
+    1367936262,
+    2587602765,
+    2587602768,
+    2587602769,
+    2587602766,
+    1367936263,
+    1783304264,
+    1367936260,
+    1367936261
+  ],
+  "tags": {
+    "addr:city": "Leipzig",
+    "addr:country": "DE",
+    "addr:housenumber": "233",
+    "addr:postcode": "04289",
+    "addr:street": "Prager Straße",
+    "amenity": "restaurant",
+    "building": "yes",
+    "contact:fax": "+493412467674",
+    "contact:phone": "+493412467676",
+    "craft": "brewery",
+    "cuisine": "regional",
+    "microbrewery": "yes",
+    "name": "Brauhaus Napoleon",
+    "opening_hours": "Mo-Su 11:00-24:00",
+    "toilets:wheelchair": "yes",
+    "website": "http://www.brauhaus-leipzig.com",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "way",
+  "id": 178744104,
+  "nodes": [
+    1891008546,
+    1891008545,
+    2787725888,
+    1891008539,
+    1891008531,
+    1891008532,
+    1891008546
+  ],
+  "tags": {
+    "addr:city": "Halle (Saale)",
+    "addr:country": "DE",
+    "addr:housenumber": "2",
+    "addr:postcode": "06108",
+    "addr:street": "Große Nikolaistraße",
+    "amenity": "restaurant",
+    "building": "yes",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "email": "info@halleschesbrauhaus.de",
+    "microbrewery": "yes",
+    "name": "Hallesches Brauhaus",
+    "opening_hours": "Mo-Fr 16:00-24:00; Sa 11:00-24:00; Su 11:00-21:00; PH 11:00-24:00",
+    "phone": "+49 345 212570",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.halleschesbrauhaus.de/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 181008066,
+  "nodes": [
+    1914488388,
+    1914488384,
+    1914488362,
+    1914488365,
+    1914488388
+  ],
+  "tags": {
+    "addr:city": "Halle (Saale)",
+    "addr:housenumber": "1",
+    "addr:postcode": "06108",
+    "addr:street": "An der Schwemme",
+    "building": "yes",
+    "contact:facebook": "https://www.facebook.com/schwemmehalle",
+    "contact:website": "https://schwemme.org/",
+    "craft": "brewery",
+    "description": "Bier,Kunst,Kultur,Musik",
+    "name": "Schwemme-Brauerei",
+    "operator": "Schwemme e.V.",
+    "product": "beer"
+  }
+},
+{
+  "type": "node",
+  "id": 1914488362,
+  "lat": 51.4805718,
+  "lon": 11.9626998
+},
+{
+  "type": "node",
+  "id": 1914488365,
+  "lat": 51.4805751,
+  "lon": 11.9625577
+},
+{
+  "type": "node",
+  "id": 1914488384,
+  "lat": 51.4809690,
+  "lon": 11.9627239
+},
+{
+  "type": "node",
+  "id": 1914488388,
+  "lat": 51.4809723,
+  "lon": 11.9625818
+},
+{
+  "type": "node",
+  "id": 1891008531,
+  "lat": 51.4837135,
+  "lon": 11.9686191
+},
+{
+  "type": "node",
+  "id": 1891008532,
+  "lat": 51.4837219,
+  "lon": 11.9684625
+},
+{
+  "type": "node",
+  "id": 1891008539,
+  "lat": 51.4838118,
+  "lon": 11.9686510
+},
+{
+  "type": "node",
+  "id": 1891008545,
+  "lat": 51.4838776,
+  "lon": 11.9687354
+},
+{
+  "type": "node",
+  "id": 1891008546,
+  "lat": 51.4839328,
+  "lon": 11.9685215
+},
+{
+  "type": "node",
+  "id": 2787725888,
+  "lat": 51.4838049,
+  "lon": 11.9686970
+},
+{
+  "type": "node",
+  "id": 313745025,
+  "lat": 51.3066707,
+  "lon": 12.4228982
+},
+{
+  "type": "node",
+  "id": 1367936258,
+  "lat": 51.3066688,
+  "lon": 12.4231944
+},
+{
+  "type": "node",
+  "id": 1367936260,
+  "lat": 51.3067635,
+  "lon": 12.4229879
+},
+{
+  "type": "node",
+  "id": 1367936261,
+  "lat": 51.3067647,
+  "lon": 12.4229003
+},
+{
+  "type": "node",
+  "id": 1367936262,
+  "lat": 51.3068775,
+  "lon": 12.4232945
+},
+{
+  "type": "node",
+  "id": 1367936263,
+  "lat": 51.3069082,
+  "lon": 12.4230596
+},
+{
+  "type": "node",
+  "id": 1783304264,
+  "lat": 51.3067883,
+  "lon": 12.4230005
+},
+{
+  "type": "node",
+  "id": 2587602765,
+  "lat": 51.3068611,
+  "lon": 12.4233789
+},
+{
+  "type": "node",
+  "id": 2587602766,
+  "lat": 51.3068941,
+  "lon": 12.4231347
+},
+{
+  "type": "node",
+  "id": 2587602768,
+  "lat": 51.3070397,
+  "lon": 12.4234670
+},
+{
+  "type": "node",
+  "id": 2587602769,
+  "lat": 51.3070834,
+  "lon": 12.4232285
+},
+{
+  "type": "node",
+  "id": 373155007,
+  "lat": 51.3285611,
+  "lon": 12.3817482
+},
+{
+  "type": "node",
+  "id": 373155008,
+  "lat": 51.3287383,
+  "lon": 12.3816576
+},
+{
+  "type": "node",
+  "id": 505084379,
+  "lat": 51.3295061,
+  "lon": 12.3811560
+},
+{
+  "type": "node",
+  "id": 505084380,
+  "lat": 51.3289621,
+  "lon": 12.3814260
+},
+{
+  "type": "node",
+  "id": 505084381,
+  "lat": 51.3289333,
+  "lon": 12.3812819
+},
+{
+  "type": "node",
+  "id": 505084382,
+  "lat": 51.3286889,
+  "lon": 12.3814069
+},
+{
+  "type": "node",
+  "id": 505084383,
+  "lat": 51.3285827,
+  "lon": 12.3815010
+},
+{
+  "type": "node",
+  "id": 505084384,
+  "lat": 51.3285183,
+  "lon": 12.3815340
+},
+{
+  "type": "node",
+  "id": 505084385,
+  "lat": 51.3287212,
+  "lon": 12.3815686
+},
+{
+  "type": "node",
+  "id": 505084387,
+  "lat": 51.3286078,
+  "lon": 12.3816266
+},
+{
+  "type": "node",
+  "id": 505084395,
+  "lat": 51.3293955,
+  "lon": 12.3812044
+},
+{
+  "type": "node",
+  "id": 505084396,
+  "lat": 51.3293421,
+  "lon": 12.3809371
+},
+{
+  "type": "node",
+  "id": 505084397,
+  "lat": 51.3296029,
+  "lon": 12.3811065
+},
+{
+  "type": "node",
+  "id": 505084398,
+  "lat": 51.3295481,
+  "lon": 12.3808317
+},
+{
+  "type": "node",
+  "id": 505084403,
+  "lat": 51.3295201,
+  "lon": 12.3812869
+},
+{
+  "type": "node",
+  "id": 1601424898,
+  "lat": 51.3295179,
+  "lon": 12.3812151
+},
+{
+  "type": "node",
+  "id": 2589313621,
+  "lat": 51.3287467,
+  "lon": 12.3817071
+},
+{
+  "type": "node",
+  "id": 2702289235,
+  "lat": 51.3286688,
+  "lon": 12.3815954
+},
+{
+  "type": "node",
+  "id": 2702289236,
+  "lat": 51.3286865,
+  "lon": 12.3816841
+},
+{
+  "type": "node",
+  "id": 2702289241,
+  "lat": 51.3295311,
+  "lon": 12.3812813
+},
+{
+  "type": "node",
+  "id": 2702298128,
+  "lat": 51.3293457,
+  "lon": 12.3809554
+},
+{
+  "type": "node",
+  "id": 3775787229,
+  "lat": 51.3295250,
+  "lon": 12.3813113
+}
+
+  ]
+}

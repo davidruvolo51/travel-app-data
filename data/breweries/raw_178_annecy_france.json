@@ -1,0 +1,256 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-06T08:33:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 3579013335,
+  "lat": 45.9041420,
+  "lon": 6.1599230,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "burger",
+    "microbrewery": "yes",
+    "name": "La Fringale",
+    "outdoor_seating": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3679357877,
+  "lat": 45.6557771,
+  "lon": 5.8592965,
+  "tags": {
+    "amenity": "restaurant",
+    "microbrewery": "yes",
+    "name": "Le Calypso",
+    "outdoor_seating": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4059877029,
+  "lat": 45.6438808,
+  "lon": 5.9827980,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "microbrewery": "yes",
+    "name": "Le Planté de Fourchette"
+  }
+},
+{
+  "type": "node",
+  "id": 5331212684,
+  "lat": 45.9051347,
+  "lon": 6.0925037,
+  "tags": {
+    "craft": "brewery",
+    "name": "Brasserie Pirate",
+    "opening_hours": "Tu-Th 16:30-22:00, Fr 16:30-01:00"
+  }
+},
+{
+  "type": "node",
+  "id": 6166335748,
+  "lat": 45.9196796,
+  "lon": 6.1240936,
+  "tags": {
+    "addr:city": "Annecy",
+    "addr:housenumber": "1",
+    "addr:postcode": "74000",
+    "addr:street": "Boulevard Bellevue",
+    "amenity": "pub",
+    "microbrewery": "yes",
+    "name": "Artmalté",
+    "website": "http://www.artmalte.com"
+  }
+},
+{
+  "type": "node",
+  "id": 6166335749,
+  "lat": 45.9196847,
+  "lon": 6.1246257,
+  "tags": {
+    "addr:city": "Annecy",
+    "addr:housenumber": "7",
+    "addr:postcode": "74000",
+    "addr:street": "Boulevard Bellevue",
+    "craft": "brewery",
+    "name": "La petite fabrique",
+    "operator": "Artmalté",
+    "product": "beer",
+    "website": "http://www.artmalte.com"
+  }
+},
+{
+  "type": "node",
+  "id": 6655491144,
+  "lat": 45.6578077,
+  "lon": 5.9119601,
+  "tags": {
+    "addr:city": "Drumettaz-Clarafond",
+    "addr:housenumber": "242",
+    "addr:postcode": "73420",
+    "addr:street": "Allée des Érables",
+    "craft": "brewery",
+    "name": "Brasserie Les Rois Malts",
+    "phone": "+33 4 79 35 62 55",
+    "shop": "alcohol",
+    "website": "https://www.lesroismalts.fr/"
+  }
+},
+{
+  "type": "way",
+  "id": 78492082,
+  "nodes": [
+    921151901,
+    921150272,
+    921151451,
+    921151817,
+    921151901
+  ],
+  "tags": {
+    "addr:housenumber": "151",
+    "addr:street": "Rue du Jura",
+    "building": "brewery",
+    "contact:email": "contact@labrasseriedumontsaleve.com",
+    "contact:phone": "+33 4 50 74 96 61",
+    "contact:website": "http://www.labrasseriedumontsaleve.com/",
+    "craft": "brewery",
+    "name": "Brasserie du Mont Salève",
+    "source": "extraction vectorielle v1 cadastre-dgi-fr source : Direction Générale des Impôts - Cadas. Mise à jour : 2010"
+  }
+},
+{
+  "type": "way",
+  "id": 233343250,
+  "nodes": [
+    2417401057,
+    2417401051,
+    2417401053,
+    2417401047,
+    2417401046,
+    2417401041,
+    2417401040,
+    2417401037,
+    2417401036,
+    2417401044,
+    2417401048,
+    2417401049,
+    2417401057
+  ],
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "craft": "brewery",
+    "microbrewery": "yes",
+    "name": "Les 4 sens",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2013"
+  }
+},
+{
+  "type": "node",
+  "id": 2417401036,
+  "lat": 45.6472248,
+  "lon": 5.8924541
+},
+{
+  "type": "node",
+  "id": 2417401037,
+  "lat": 45.6472438,
+  "lon": 5.8924015
+},
+{
+  "type": "node",
+  "id": 2417401040,
+  "lat": 45.6472810,
+  "lon": 5.8924009
+},
+{
+  "type": "node",
+  "id": 2417401041,
+  "lat": 45.6472826,
+  "lon": 5.8923720
+},
+{
+  "type": "node",
+  "id": 2417401044,
+  "lat": 45.6473033,
+  "lon": 5.8926400
+},
+{
+  "type": "node",
+  "id": 2417401046,
+  "lat": 45.6473293,
+  "lon": 5.8923719
+},
+{
+  "type": "node",
+  "id": 2417401047,
+  "lat": 45.6473293,
+  "lon": 5.8924064
+},
+{
+  "type": "node",
+  "id": 2417401048,
+  "lat": 45.6473398,
+  "lon": 5.8926091
+},
+{
+  "type": "node",
+  "id": 2417401049,
+  "lat": 45.6473639,
+  "lon": 5.8926122
+},
+{
+  "type": "node",
+  "id": 2417401051,
+  "lat": 45.6473947,
+  "lon": 5.8924695
+},
+{
+  "type": "node",
+  "id": 2417401053,
+  "lat": 45.6473958,
+  "lon": 5.8924074
+},
+{
+  "type": "node",
+  "id": 2417401057,
+  "lat": 45.6474133,
+  "lon": 5.8924853
+},
+{
+  "type": "node",
+  "id": 921150272,
+  "lat": 46.1218103,
+  "lon": 6.0927898
+},
+{
+  "type": "node",
+  "id": 921151451,
+  "lat": 46.1216273,
+  "lon": 6.0928918
+},
+{
+  "type": "node",
+  "id": 921151817,
+  "lat": 46.1216526,
+  "lon": 6.0929911
+},
+{
+  "type": "node",
+  "id": 921151901,
+  "lat": 46.1218372,
+  "lon": 6.0928931
+}
+
+  ]
+}
