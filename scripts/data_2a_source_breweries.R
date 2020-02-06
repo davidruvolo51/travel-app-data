@@ -128,7 +128,7 @@ city_info$lng <- as.numeric(city_info$lng)
 #' a city. Run loop to fetch data from overpass API
 
 # init loop vars
-d <- 1
+d <- 161
 fails <- 0
 reps <- NROW(city_info)
 failed <- list()
@@ -174,9 +174,9 @@ while (d <= reps) {
         )
         
         # write json to file
-        cat("\tSaving file...\n")
+        cat("\tSaving file...")
         readr::write_file(x = json, path = file)
-        cat("Success!")
+        cat("Success!\n")
         
     } else {
         
@@ -196,5 +196,8 @@ while (d <= reps) {
     d <- d + 1
 
     # met een kleine pauze
-    Sys.sleep(runif(1, 80, 180))
+    time <- round(runif(1, 60, 150),0)
+    msg <- paste0("\tPausing for '", time, "' seconds at '", as.character(Sys.time()), "'\n")
+    cat(msg)
+    Sys.sleep(time)
 }

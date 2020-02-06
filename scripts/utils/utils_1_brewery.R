@@ -1,8 +1,8 @@
 #'////////////////////////////////////////////////////////////////////////////
 #' FILE: utils_1_brewery.R
 #' AUTHOR: David Ruvolo
-#' CREATED: 2020-02-05
-#' MODIFIED: 2020-02-05
+#' CREATED: 2020-02-06
+#' MODIFIED: 2020-02-06
 #' PURPOSE: utils for wrangling brewery data
 #' STATUS: working
 #' PACKAGES: tidyverse; osmdata; 
