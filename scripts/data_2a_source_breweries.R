@@ -2,7 +2,7 @@
 #' FILE: data_2a_source_breweries.R
 #' AUTHOR: David Ruvolo
 #' CREATED: 2020-02-05
-#' MODIFIED: 2020-02-05
+#' MODIFIED: 2020-02-06
 #' PURPOSE: source brewery data for European Cities
 #' STATUS: in.progress
 #' PACKAGES: tidyverse; osmdata; 
@@ -18,33 +18,8 @@ options(stringsAsFactors = FALSE)
 # pkgs
 suppressPackageStartupMessages(library(tidyverse))
 
-#'////////////////////////////////////////
-
-#' ~ 99 ~
-#' FUNCTIONS
-#' define a set of functions to be used for sourcing brewery data
-brew <- list()
-
-#' json => data.frame
-brew$list_to_df <- function(x) {
-    x %>%
-        jsonlite::toJSON(.) %>%
-        jsonlite::fromJSON(.) %>%
-        sapply(., unlist) %>%
-        as.data.frame()
-}
-
-#' extract bounding box coordinates
-brew$bb_centroid <- function(x) {
-    d <- as.data.frame(x)
-    return(
-        data.frame(
-            lng = (d$min[1] + d$max[1]) / 2,
-            lat = (d$min[2] + d$max[2]) / 2,
-            stringsAsFactors = FALSE
-        )
-    )
-}
+# utils
+source("scripts/utils/utils_1_brewery.R")
 
 #'//////////////////////////////////////////////////////////////////////////////
 
@@ -82,8 +57,7 @@ cities <- cafes %>%
 #' cafes. This will give us a better search radius for running overpass API
 #' queries that is aligned with where the cafes are located.
 
-city_geo <- list()
-sapply(seq_len(NROW(cities)), function(index) {
+city_geo <- lapply(seq_len(NROW(cities)), function(index) {
 
     # filter master cafe list for current city and return vars of interest
     # leave entries with missing lat and lng as these cities will be geocoded
@@ -131,13 +105,18 @@ sapply(seq_len(NROW(cities)), function(index) {
 
     # out
     cat("Completed: ", index, "of", NROW(cities), "\n")
-    city_geo[[index]] <<- l
+    return(l)
 })
 
 #' convert city_geo to data.frame
 city_info <- brew$list_to_df(city_geo)
 city_info$lat <- as.numeric(city_info$lat)
 city_info$lng <- as.numeric(city_info$lng)
+
+#' save to tmp dir incase of restart. This would eliminate the need to rerun
+#' the previous code.
+# saveRDS(city_info, "tmp/cafe_cities_geocoded.RDS")
+# city_info <- readRDS("tmp/cafe_cities_geocoded.RDS")
 
 #'//////////////////////////////////////////////////////////////////////////////
 
@@ -146,52 +125,15 @@ city_info$lng <- as.numeric(city_info$lng)
 #' The rationale for geocoding cities is that we can now use accurate coords
 #' for querying overpass API with radius. This section will build and run
 #' queries using the city data and return json file with all breweries in
-#' a city
+#' a city. Run loop to fetch data from overpass API
 
-brew$overpass <- list()
-#' create a function that generates the overpass script. This function takes the
-#' following arguments
-#' radius: search around a given point (default 35km)
-#' lat: latitude (req)
-#' lng: longitude (req)
-brew$overpass$new_query <- function(radius = 35000, lat, lng, timeout = 750) {
-    paste0(
-        "[out:json][timeout:", timeout, "];",
-        "(",
-        "nwr",
-            "['craft'='brewery']",
-            "(around:", radius, ",", lat, ",", lng, ");",
-        "nwr",
-            "['amenity'='restaurant']",
-            "['microbrewery'='yes']",
-            "(around:", radius, ",", lat, ",", lng, ");",
-        "nwr",
-            "['amenity'='pub']",
-            "['microbrewery'='yes']",
-            "(around:", radius, ",", lat, ",", lng, ");",
-        "nwr",
-            "['amenity'='bar']",
-            "['microbrewery'='yes']",
-            "(around:", radius, ",", lat, ",", lng, ");",
-        "nwr",
-            "['building'='brewery']",
-            "(around:", radius, ",", lat, ",", lng, ");",
-        ");",
-        "out;",
-        ">;",
-        "out skel qt;",
-        sep = ""
-    )
-}
-
-
-
-#' ~ A ~
-#' Run loop to fetch data from overpass API
+# init loop vars
 d <- 1
 fails <- 0
 reps <- NROW(city_info)
 failed <- list()
+
+# run
 while (d <= reps) {
 
     cat("Starting new city (", d, "of", reps, ")\n")
