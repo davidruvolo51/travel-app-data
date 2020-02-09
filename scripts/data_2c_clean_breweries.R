@@ -25,30 +25,30 @@ tools <- list()
 
 #' define a function that evaluates the `website` and `website2` vars
 tools$evaluate_websites <- function(x, y) {
-
+    
     # if both are NA || only X is not NA || only Y is not NA
     if (is.na(x) & is.na(y)) return(NA)
     if (!is.na(x) & is.na(y)) return(x)
     if (is.na(x) & !is.na(y)) return(y)
-
+    
     # if both aren't NA
     if (!is.na(x) & !is.na(y)) {
-
+        
         # if both are identical return x
         if (x == y) return(x)
-
+        
         # if strings aren't identical
         if (x != y) {
-
+            
             # if https and http are removed, are they still the same?
             x2 <- gsub(pattern = "http://|https://|/", replacement = "", x = x)
             y2 <- gsub(pattern = "http://|https://|/", replacement = "", x = y)
-
+            
             # if they are the same
             if (x2 == y2) {
                 return(x)
             }
-
+            
             # if they aren't the same, return both
             if (x2 != y2) {
                 return(paste0(x, "; ", y))
@@ -170,6 +170,7 @@ breweries$addr_city <- NA
 breweries$addr_country <- NA
 breweries$addr_country_code <- NA
 breweries$addr_neighborhood <- NA
+breweries$status <- "success"
 
 
 # define a function that standarizes GET request
@@ -183,96 +184,110 @@ tools$new_request <- function(id, type = "N", format = "json") {
 index <- 1
 reps <- NROW(breweries)
 fails <- 0
-failed <- list()
+fail_seq <- c()
 while (index <= reps) {
-
+    
     # start
     cat("\nStarting entry", index, "of", reps)
-
+    
     # build new query and send query
     cat("\n\tSending request...")
     query <- tools$new_request(id = breweries$id[index])
     response <- httr::GET(query)
-
+    
     # process response
     if (response$status_code == 200) {
-
+        
         # update user
         cat("Sucess!")
         cat("\n\tPulling data...")
-
+        
         # pull data
-        result <- httr::content(response, "text", encoding = "utf-8") %>%
-            jsonlite::fromJSON(.) %>%
-            jsonlite::flatten(.)
-
-        # define variables to pull
-        cols <- c(
-            "osm_id", "lat", "lon",
-            "address.house_number", "address.road", "address.neighbourhood",
-            "address.city", "address.state", "address.postcode",
-            "address.country", "address.country_code"
-        )
-
-        # pull standard variables and fill in missing if applicable
-        extracted <- result %>% select_if(names(.) %in% cols)
-        missing <- cols[!cols %in% names(extracted)]
-        if (length(missing) > 0) {
-            cat("\n\t\tFixing missing colums...")
-            sapply(seq_len(length(missing)), function(d) {
-                extracted[[missing[d]]] <<- NA_character_
-            })
+        result <- httr::content(response, "text", encoding = "utf-8")
+        
+        # validating result
+        if(result != "[]") {
+            
+            # continue extracting result
+            result <- result %>% 
+                jsonlite::fromJSON(.) %>%
+                jsonlite::flatten(.)
+            
+            # define variables to pull
+            cols <- c(
+                "osm_id", "lat", "lon",
+                "address.house_number", "address.road", "address.neighbourhood",
+                "address.city", "address.state", "address.postcode",
+                "address.country", "address.country_code"
+            )
+            
+            # pull standard variables and fill in missing if applicable
+            extracted <- result %>% select_if(names(.) %in% cols)
+            missing <- cols[!cols %in% names(extracted)]
+            if (length(missing) > 0) {
+                cat("\n\t\tFixing missing colums...")
+                sapply(seq_len(length(missing)), function(d) {
+                    extracted[[missing[d]]] <<- NA_character_
+                })
+            }
+            
+            # append extracted to parent object
+            cat("\n\t\tAppending Data...")
+            breweries$addr_housenumber[index] <- extracted$address.house_number
+            breweries$addr_street[index] <- extracted$address.road
+            breweries$addr_postcode[index] <- extracted$address.postcode
+            breweries$addr_state[index] <- extracted$address.state
+            breweries$addr_city[index] <- extracted$address.city
+            breweries$addr_country[index] <- extracted$address.country
+            breweries$addr_country_code[index] <- extracted$address.country_code
+            breweries$addr_neighborhood[index] <- extracted$address.neighbourhood
+            
+            # append lat and lon if missing
+            if (is.na(breweries$lat[index]) & !is.na(extracted$lat)) {
+                cat("\n\t\tAdding missing latitude value...")
+                breweries$lat[index] <- extracted$lat
+            }
+            if (is.na(breweries$lon[index]) & !is.na(extracted$lon)) {
+                cat("\n\t\tAdding missing longitude value...")
+                breweries$lon[index] <- extracted$lon
+            }
+            
+            # DONE!
+            cat("\n\tDone!")
+        } else {
+            cat("\n\tResponse was empty... :-(")
         }
-
-        # append extracted to parent object
-        cat("\n\t\tAppending Data...")
-        breweries$addr_housenumber[index] <- extracted$address.house_number
-        breweries$addr_street[index] <- extracted$address.road
-        breweries$addr_postcode[index] <- extracted$address.postcode
-        breweries$addr_state[index] <- extracted$address.state
-        breweries$addr_city[index] <- extracted$address.city
-        breweries$addr_country[index] <- extracted$address.country
-        breweries$addr_country_code[index] <- extracted$address.country_code
-        breweries$addr_neighborhood[index] <- extracted$address.neighbourhood
-
-        # append lat and lon if missing
-        if (is.na(breweries$lat[index]) & !is.na(extracted$lat)) {
-            cat("\n\t\tAdding missing latitude value...")
-            breweries$lat[index] <- extracted$lat
-        }
-        if (is.na(breweries$lon[index]) & !is.na(extracted$lon)) {
-            cat("\n\t\tAdding missing longitude value...")
-            breweries$lon[index] <- extracted$lon
-        }
-
-        # DONE!
-        cat("\n\tDone!")
-
+        
     } else {
         # update user
         cat("Failed!")
-        cat("\nMoving to next item :-/")
+
+        # updated failed counters and array
+        fails <- fails + 1
+        array[fails] <- index
+        
+        # quit loop if fails reach threshold
+        threshold <- 10
+        threshold_counter <- 0
+        as.numeric(
+            sapply(
+                rev(seq_len(length(array))), function(d) {
+                    if((array[d] - array[d - 1]) == 1) {
+                        threshold_counter <<- threshold_counter + 1
+                    }
+                }
+            )
+        )
+        if (threshold_counter == threshold) {
+            stop("ERROR: Too many consecutive fails (n=", threshold, "). Aborting process on #", index, "@", Sys.time())
+        }
     }
-
-
+    
+    
     # update
     cat("\nComplete!")
     index <- index + 1
-
+    
     # add pause
-    Sys.sleep(runif(1, 2, 10))
+    Sys.sleep(runif(1, 1.5, 8))
 }
-
-
-
-
-
-
-
-
-breweries <- breweries %>% select(city, country, id, name, lat, lon)
-
-#' For missing geocoordinates, make sure these are retrieved from places API.
-#' I'm not removing this script or eliminating any of the above code, in case
-#' I want to add something in later.
-saveRDS(breweries, "data/breweries_2_reduced.RDS")
