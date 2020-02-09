@@ -220,7 +220,7 @@ while (index <= reps) {
         if (length(missing) > 0) {
             cat("\n\t\tFixing missing colums...")
             sapply(seq_len(length(missing)), function(d) {
-                extracted[[missing[d]]] <- NA_character_
+                extracted[[missing[d]]] <<- NA_character_
             })
         }
 
