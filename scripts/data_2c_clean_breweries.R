@@ -2,8 +2,8 @@
 #' FILE: data_2c_clean_breweries.R
 #' AUTHOR: David Ruvolo
 #' CREATED: 2020-02-09
-#' MODIFIED: 2020-02-09
-#' PURPOSE: reduce the raw breweries dataset
+#' MODIFIED: 2020-02-12
+#' PURPOSE: geocode breweries and prepare for viz
 #' STATUS: complete; working
 #' PACKAGES: tidyverse
 #' COMMENTS: NA
@@ -12,10 +12,10 @@ options(stringsAsFactors = FALSE)
 
 # pkgs
 suppressPackageStartupMessages(library(tidyverse))
+suppressPackageStartupMessages(library(httr))
 
 # data
 raw <- readRDS("data/breweries_1_merged_raw.RDS")
-
 
 #'//////////////////////////////////////
 
@@ -120,7 +120,11 @@ breweries <- breweries %>% filter(!is.na(name))
 sapply(seq_len(NCOL(breweries)), function(col) {
     list(
         name = names(breweries[col]),
-        missing = NROW(breweries[is.na(breweries[, col]) == TRUE, ])
+        missing = NROW(breweries[is.na(breweries[, col]) == TRUE, ]),
+        percent = round(
+            (NROW(breweries[is.na(breweries[, col]) == TRUE, ]) / NROW(breweries) * 100),
+            2
+        )
     )
 })
 
@@ -161,16 +165,16 @@ breweries$website2 <- NULL
 #' ~ b ~
 #' Reverse geocode data
 
-# init vars
-breweries$addr_housenumber <- NA
-breweries$addr_street <- NA
-breweries$addr_postcode <- NA
-breweries$addr_state <- NA
-breweries$addr_city <- NA
-breweries$addr_country <- NA
-breweries$addr_country_code <- NA
-breweries$addr_neighborhood <- NA
-breweries$status <- "success"
+# init vars - uncomment if running for the first time
+# breweries$addr_housenumber <- NA
+# breweries$addr_street <- NA
+# breweries$addr_postcode <- NA
+# breweries$addr_state <- NA
+# breweries$addr_city <- NA
+# breweries$addr_country <- NA
+# breweries$addr_country_code <- NA
+# breweries$addr_neighborhood <- NA
+# breweries$status <- NA
 
 
 # define a function that standarizes GET request
@@ -180,11 +184,13 @@ tools$new_request <- function(id, type = "N", format = "json") {
     return(paste0(prefix, "osm_ids=", type, id, output))
 }
 
+# load tmp object (if failed)
+breweries <- readRDS("tmp/breweries_first_900.RDS")
+
 # set loop props
-index <- 1
+index <- 901
 reps <- NROW(breweries)
-fails <- 0
-fail_seq <- c()
+save_array <- seq.int(from = 1000, to = reps, by = 200)
 while (index <= reps) {
     
     # start
@@ -193,7 +199,7 @@ while (index <= reps) {
     # build new query and send query
     cat("\n\tSending request...")
     query <- tools$new_request(id = breweries$id[index])
-    response <- httr::GET(query)
+    response <- httr::GET(query, httr::timeout(20))
     
     # process response
     if (response$status_code == 200) {
@@ -225,14 +231,14 @@ while (index <= reps) {
             extracted <- result %>% select_if(names(.) %in% cols)
             missing <- cols[!cols %in% names(extracted)]
             if (length(missing) > 0) {
-                cat("\n\t\tFixing missing colums...")
+                cat("\n\tFixing missing colums...")
                 sapply(seq_len(length(missing)), function(d) {
                     extracted[[missing[d]]] <<- NA_character_
                 })
             }
             
             # append extracted to parent object
-            cat("\n\t\tAppending Data...")
+            cat("\n\tAppending Data...")
             breweries$addr_housenumber[index] <- extracted$address.house_number
             breweries$addr_street[index] <- extracted$address.road
             breweries$addr_postcode[index] <- extracted$address.postcode
@@ -241,14 +247,15 @@ while (index <= reps) {
             breweries$addr_country[index] <- extracted$address.country
             breweries$addr_country_code[index] <- extracted$address.country_code
             breweries$addr_neighborhood[index] <- extracted$address.neighbourhood
+            breweries$status[index] <- "success"
             
             # append lat and lon if missing
             if (is.na(breweries$lat[index]) & !is.na(extracted$lat)) {
-                cat("\n\t\tAdding missing latitude value...")
+                cat("\n\tAdding missing latitude value...")
                 breweries$lat[index] <- extracted$lat
             }
             if (is.na(breweries$lon[index]) & !is.na(extracted$lon)) {
-                cat("\n\t\tAdding missing longitude value...")
+                cat("\n\tAdding missing longitude value...")
                 breweries$lon[index] <- extracted$lon
             }
             
@@ -256,38 +263,25 @@ while (index <= reps) {
             cat("\n\tDone!")
         } else {
             cat("\n\tResponse was empty... :-(")
+            breweries$status[index] <- "empty_response"
         }
         
     } else {
         # update user
         cat("Failed!")
-
-        # updated failed counters and array
-        fails <- fails + 1
-        array[fails] <- index
-        
-        # quit loop if fails reach threshold
-        threshold <- 10
-        threshold_counter <- 0
-        as.numeric(
-            sapply(
-                rev(seq_len(length(array))), function(d) {
-                    if((array[d] - array[d - 1]) == 1) {
-                        threshold_counter <<- threshold_counter + 1
-                    }
-                }
-            )
-        )
-        if (threshold_counter == threshold) {
-            stop("ERROR: Too many consecutive fails (n=", threshold, "). Aborting process on #", index, "@", Sys.time())
-        }
+        breweries$status[index] <- response$status_code
     }
     
+    # save data in case of emergency
+    if(index %in% save_array) {
+        cat("\nSTATUS: Saving 'breweries' object in case of emergency.\n")
+        saveRDS(breweries, paste0("tmp/breweries_first_",index,".RDS"))
+    }
     
     # update
     cat("\nComplete!")
     index <- index + 1
     
     # add pause
-    Sys.sleep(runif(1, 1.5, 8))
+    Sys.sleep(runif(1, 10, 15))
 }
