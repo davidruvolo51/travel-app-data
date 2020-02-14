@@ -5,7 +5,7 @@
 #' MODIFIED: 2020-02-06
 #' PURPOSE: utils for wrangling brewery data
 #' STATUS: working; complete
-#' PACKAGES: tidyverse; osmdata; 
+#' PACKAGES: tidyverse; osmdata;
 #' COMMENTS:
 #'////////////////////////////////////////////////////////////////////////////
 

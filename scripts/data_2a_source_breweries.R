@@ -5,7 +5,7 @@
 #' MODIFIED: 2020-02-06
 #' PURPOSE: source brewery data for European Cities
 #' STATUS: in.progress
-#' PACKAGES: tidyverse; osmdata; 
+#' PACKAGES: tidyverse; osmdata
 #' COMMENTS:
 #'      The purpose of this script is to source data on breweries using the
 #'      cities gathered in scripts 1a and 1b. To do this, all cities will need
@@ -21,102 +21,8 @@ suppressPackageStartupMessages(library(tidyverse))
 # utils
 source("scripts/utils/utils_1_brewery.R")
 
-#'//////////////////////////////////////////////////////////////////////////////
-
-#' ~ 0 ~
-#' DEFINE UNIQUE CITIES & GEOCODE CITY
-#' Load the file coffee_all_cafes.RDS file and build an object that contains
-#' unique cities by country.
-
-#' Load master dataset
-cafes <- readRDS("data/coffee_all_cafes.RDS")
-
-
-#' recode cafes where countries was incorrect
-cafes$country[cafes$cafeId == "cafe_1197"] <- "Belgium"
-
-
-#' find distinct cities and countries and remove missing rows. One cafe,
-#' "Wilekaffee Rosterei" in Germany that is missing a value for city. The
-#' website indicates that it is located in "Garmisch-Partenkirchen", but
-#' I did not see it anywhere on their website. Perhaps the location moved
-#' or the site is outdated. Since I cannot confirm the location, I will
-#' remove it from the dataset.
-cities <- cafes %>%
-    distinct(city, country) %>%
-    filter(city != "", country != "")
-
-
-#' There are a few options to get coordinates for cities. We could either
-#' grab random coordinates from the dataset for each city, use google places
-#' API to geocode each city using a search query, or calcuate the centroids
-#' of all cafes. Using google places API, might be a bit of an overkill and
-#' it is difficult to know the location of a cafe in relation to center point
-#' of a city so pulling random coordinates might not be accurate. Instead,
-#' I will calculate the centroid of each city using the coordinates of all
-#' cafes. This will give us a better search radius for running overpass API
-#' queries that is aligned with where the cafes are located.
-
-city_geo <- lapply(seq_len(NROW(cities)), function(index) {
-
-    # filter master cafe list for current city and return vars of interest
-    # leave entries with missing lat and lng as these cities will be geocoded
-    # manually
-    tmp <- cafes %>%
-        filter(city == cities$city[index]) %>%
-        select(city, country, lng, lat)
-    if (NROW(tmp) == 1 & NROW(tmp[is.na(tmp$lat), ]) == 0) {
-        l <- list(
-            city = cities$city[index],
-            country = cities$country[index],
-            lat = tmp$lat,
-            lng = tmp$lng
-        )
-    } else if (NROW(tmp) == 2 & NROW(tmp[is.na(tmp$lat), ]) == 0) {
-        l <- list(
-            city = cities$city[index],
-            country = cities$country[index],
-            lat = mean(tmp$lat),
-            lng = mean(tmp$lng)
-        )
-    } else if (NROW(tmp) > 2 | NROW(tmp[is.na(tmp$lat), ]) > 0) {
-        # build bounding box
-        bb <- osmdata::getbb(
-            paste0(
-                cities$city[index],
-                " ",
-                cities$country[index]
-            )
-        )
-
-        # calculate centroid of bounding box
-        centroid <- brew$bb_centroid(x = bb)
-
-        # return as data.frame
-        l <- list(
-            city = cities$city[index],
-            country = cities$country[index],
-            lat = centroid$lat,
-            lng = centroid$lng
-        )
-    } else {
-        cat("ERROR: This should never happen")
-    }
-
-    # out
-    cat("Completed: ", index, "of", NROW(cities), "\n")
-    return(l)
-})
-
-#' convert city_geo to data.frame
-city_info <- brew$list_to_df(city_geo)
-city_info$lat <- as.numeric(city_info$lat)
-city_info$lng <- as.numeric(city_info$lng)
-
-#' save to tmp dir incase of restart. This would eliminate the need to rerun
-#' the previous code.
-# saveRDS(city_info, "tmp/cafe_cities_geocoded.RDS")
-# city_info <- readRDS("tmp/cafe_cities_geocoded.RDS")
+# load city reference data
+city_info <- readRDS("data/cafe_cities_geocoded.RDS")
 
 #'//////////////////////////////////////////////////////////////////////////////
 
@@ -126,20 +32,30 @@ city_info$lng <- as.numeric(city_info$lng)
 #' for querying overpass API with radius. This section will build and run
 #' queries using the city data and return json file with all breweries in
 #' a city. Run loop to fetch data from overpass API
+#'
+#' In this script, I will query for breweries in cities where there is specialty
+#' coffee. The search radius is 35km and the following OSM tags are used to find
+#' "breweries"
+#'      - ["craft" = "brewery"]
+#'      - ["amenity" = "restaurant"]["microbrewery" = "yes"]
+#'      - ["amenity" = "pub"]["microbrewery" = "yes"]
+#'      - ["amenity" = "bar"]["microbrewery" = "yes"]
+#'      - ["building" = "brewery"]
+#'
+#' All queries are `nwr` (node, way, relations)
 
-
-# For failed items, run the following lines. Adjust `d` and reps accordingly
-# with row name
-# failures <- failed
-# failed_cities <- sapply(seq_len(length(failures)), function(x){
-#    failed[[x]][["city"]]
-# })
-# city_info[city_info$city %in% failed_cities,] %>% rownames()
+#' For failed items, run the following lines. Adjust `d` and reps accordingly
+#' with row name
+#' failures <- failed
+#' failed_cities <- sapply(seq_len(length(failures)), function(x) {
+#'    failed[[x]][["city"]]
+#' })
+#' city_info[city_info$city %in% failed_cities,] %>% rownames()
 
 # init loop vars
-d <- 431
+d <- 1
 fails <- 0
-reps <- 431 #NROW(city_info)
+reps <- NROW(city_info)
 failed <- list()
 
 # run
@@ -156,24 +72,24 @@ while (d <= reps) {
     cat("\tSending GET request...")
     response <- httr::GET(
         url = "http://overpass-api.de/",
-        path = paste0("api/interpreter?data=",URLencode(q, reserved = T))
+        path = paste0("api/interpreter?data=", URLencode(q, reserved = T))
     )
-    
+
     # process response
     if (response$status_code == 200) {
         cat("Sucess!\n")
-        
+
         # extract body
-        json <- httr::content(response,"text", encoding = "utf-8")
-        
+        json <- httr::content(response, "text", encoding = "utf-8")
+
         # form file name
-        name <- paste0(city_info$city[d]," ", city_info$country[d])
+        name <- paste0(city_info$city[d], " ", city_info$country[d])
         n <- gsub(
             pattern = "[[:space:]]",
             replacement = "_",
             x = name
         )
-        
+
         # build file path with name
         file <- paste0(
             "data/breweries/",
@@ -181,14 +97,14 @@ while (d <= reps) {
             tolower(n),
             ".json"
         )
-        
+
         # write json to file
         cat("\tSaving file...")
         readr::write_file(x = json, path = file)
         cat("Success!\n")
-        
+
     } else {
-        
+
         # notify fail and update object fails
         cat("\tFailed!\n")
         cat("\t\tAdding to object 'failed' (fails:", fails, ")")
@@ -197,9 +113,8 @@ while (d <= reps) {
             city = city_info$city[d],
             country = city_info$country[d]
         )
-        
     }
-    
+
     # update counter and display message
     cat("\tCompleted!\n")
     d <- d + 1
