@@ -18,6 +18,8 @@ museums_complete <- readRDS("tmp/museums_complete.RDS")
 museums_incomplete <- readRDS("tmp/museums_incomplete.RDS")
 museums_incomplete_geo <- readRDS("tmp/museums_incomplete_geocoded.RDS")
 
+#' Utils
+source("scripts/utils/utils_99_general.R")
 
 #'/////////////////////////////////////
 
@@ -137,6 +139,9 @@ sort(names(museums_complete)) == sort(names(museums_incomplete))
 museums <- rbind(museums_complete, museums_incomplete) %>%
     arrange(city_id, id)
 
+tools$find_missing_cases(museums)
+dim(museums)
 
-
+#' Save
+saveRDS(museums, "data/museums_all_cities.RDS")
 
