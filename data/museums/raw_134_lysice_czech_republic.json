@@ -1,0 +1,3761 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-14T11:53:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 83483337,
+  "lat": 49.1976369,
+  "lon": 16.6081832,
+  "tags": {
+    "name": "Místodržitelský palác",
+    "name:es": "Palacio del Gobernador",
+    "old_name": "Augustiniánský klášter",
+    "source": "cuzk:km",
+    "tourism": "museum",
+    "wikidata": "Q12039262",
+    "wikipedia": "cs:Místodržitelský palác (Brno)"
+  }
+},
+{
+  "type": "node",
+  "id": 88978151,
+  "lat": 49.2047665,
+  "lon": 16.5836423,
+  "tags": {
+    "name": "Hvězdárna a planetárium Brno",
+    "source": "uhul:ortofoto",
+    "tourism": "museum",
+    "website": "https://www.hvezdarna.cz/",
+    "wikidata": "Q12021065",
+    "wikipedia": "cs:Hvězdárna a planetárium Brno"
+  }
+},
+{
+  "type": "node",
+  "id": 297078170,
+  "lat": 49.1939474,
+  "lon": 16.5998374,
+  "tags": {
+    "fee": "yes",
+    "name": "Kasematy",
+    "opening_hours": "Apr-Sep Mo-Su 09:00-17:00; Oct-Mar Tu-Su 09:00-17:00",
+    "tourism": "museum",
+    "website": "https://www.spilberk.cz/spilberk/historie-hradu/historie/"
+  }
+},
+{
+  "type": "node",
+  "id": 374215287,
+  "lat": 49.1912999,
+  "lon": 16.5937953,
+  "tags": {
+    "name": "Mendelovo muzeum",
+    "tourism": "museum",
+    "wikidata": "Q6816571",
+    "wikipedia": "cs:Mendelovo muzeum Masarykovy univerzity"
+  }
+},
+{
+  "type": "node",
+  "id": 393178583,
+  "lat": 49.1913943,
+  "lon": 16.6073709,
+  "tags": {
+    "name": "Diecézní muzeum Petrov",
+    "tourism": "museum",
+    "wikidata": "Q22915130"
+  }
+},
+{
+  "type": "node",
+  "id": 393178584,
+  "lat": 49.1912156,
+  "lon": 16.6083292,
+  "tags": {
+    "name": "Biskupský dvůr",
+    "name:de": "Bischofshof",
+    "tourism": "museum",
+    "wikidata": "Q11152361",
+    "wikipedia": "cs:Biskupský dvůr (Brno)"
+  }
+},
+{
+  "type": "node",
+  "id": 428740723,
+  "lat": 49.2005278,
+  "lon": 16.6233879,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "67",
+    "addr:postcode": "60200",
+    "addr:street": "Bratislavská",
+    "contact:website": "http://www.rommuz.cz",
+    "name": "Muzeum romské kultury",
+    "opening_hours": "Mo off; Tu-Fr 10:00-18:00; Sa off; Su 10:00-18:00",
+    "source": "cuzk:km",
+    "source:position": "cuzk_km",
+    "tourism": "museum",
+    "wikidata": "Q1570294"
+  }
+},
+{
+  "type": "node",
+  "id": 443861757,
+  "lat": 49.5232534,
+  "lon": 16.2610630,
+  "tags": {
+    "name": "Městské muzeum",
+    "tourism": "museum",
+    "wikidata": "Q22961983",
+    "wikipedia": "cs:Městské muzeum Bystřice nad Pernštejnem"
+  }
+},
+{
+  "type": "node",
+  "id": 463552817,
+  "lat": 49.1921153,
+  "lon": 16.5671639,
+  "tags": {
+    "dog": "no",
+    "name": "Anthropos",
+    "opening_hours": "Tu-Fr 09:00-18:00; Sa-Su 10:00-18:00",
+    "tourism": "museum",
+    "wheelchair": "yes",
+    "wikidata": "Q4414992",
+    "wikipedia": "cs:Anthropos"
+  }
+},
+{
+  "type": "node",
+  "id": 494332733,
+  "lat": 49.1969751,
+  "lon": 16.5729077,
+  "tags": {
+    "architect": "Ernst Wiesner",
+    "contact:email": "vila@npu.cz",
+    "contact:phone": "+420 778545993",
+    "contact:website": "http://www.vilastiassni.cz",
+    "name": "Vila Stiassny",
+    "old_name": "Vládní vila",
+    "opening_hours": "Oct 1-May 31: Fr-Su 10:00-16:00; Jun 1-Sep 30: Fr-Su 10:00-17:00",
+    "start_date": "1929",
+    "tourism": "museum",
+    "wikidata": "Q9374731",
+    "wikipedia": "cs:Vila Stiassni"
+  }
+},
+{
+  "type": "node",
+  "id": 494332739,
+  "lat": 49.2518484,
+  "lon": 16.5888124,
+  "tags": {
+    "architect": "Vilém Kuba",
+    "name": "Kubova vila",
+    "start_date": "1936",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 647885009,
+  "lat": 49.1917517,
+  "lon": 16.6085842,
+  "tags": {
+    "name": "Moravské zemské muzeum",
+    "name:de": "Mährisches Landesmuseum",
+    "short_name": "MZM",
+    "source": "cuzk:km",
+    "tourism": "museum",
+    "wikidata": "Q1348579"
+  }
+},
+{
+  "type": "node",
+  "id": 647885052,
+  "lat": 49.1954179,
+  "lon": 16.6091422,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "1",
+    "addr:postcode": "60200",
+    "addr:street": "Kobližná",
+    "name": "Etnografický ústav MZM",
+    "source": "cuzk:km",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1656816238,
+  "lat": 49.5890363,
+  "lon": 16.8908412,
+  "tags": {
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1773152789,
+  "lat": 49.2113368,
+  "lon": 16.4084063,
+  "tags": {
+    "name": "Památník Pohádky máje",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1787026257,
+  "lat": 49.1961305,
+  "lon": 16.6052577,
+  "tags": {
+    "name": "Galerie Ars",
+    "opening_hours": "Tu-Sa 12:00-18:00; Su 13:00-18:00",
+    "tourism": "museum",
+    "website": "http://www.galerie-ars.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 2013644547,
+  "lat": 49.2524384,
+  "lon": 16.5717231,
+  "tags": {
+    "name": "Depozitář Technického muzea v Brně",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 2106028327,
+  "lat": 49.6104106,
+  "lon": 16.6689961,
+  "tags": {
+    "designation": "MKC",
+    "email": "smvo1@seznam.cz",
+    "name": "Moravské kartografické centrum",
+    "operator": "Služby Města Velké Opatovice",
+    "phone": "+420 516 410 700",
+    "tourism": "museum",
+    "website": "http://kc.velkeopatovice.cz/mkc/"
+  }
+},
+{
+  "type": "node",
+  "id": 2106028982,
+  "lat": 49.6102681,
+  "lon": 16.6685991,
+  "tags": {
+    "designation": "MKC",
+    "name": "Památník města Velké Opatovice",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 2244976338,
+  "lat": 49.7542591,
+  "lon": 16.4726147,
+  "tags": {
+    "designation": "muzeum",
+    "name": "Městské muzeum a galerie",
+    "name:de": "Städtisches Museum und Galerie",
+    "source": "local knowledge",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 2244977210,
+  "lat": 49.7546004,
+  "lon": 16.4725880,
+  "tags": {
+    "designation": "museum",
+    "esperanto": "yes",
+    "museum": "language",
+    "name": "Muzeum Esperanta",
+    "name:de": "Esperanto-Museum",
+    "name:eo": "Esperanto-Muzeo",
+    "source": "local knowledge",
+    "tourism": "museum",
+    "wikidata": "Q406679",
+    "wikipedia": "eo:Esperanto-Muzeo en Svitavy"
+  }
+},
+{
+  "type": "node",
+  "id": 2244979724,
+  "lat": 49.7547127,
+  "lon": 16.4726926,
+  "tags": {
+    "designation": "památka",
+    "name": "Ottendorferova knihovna",
+    "name:de": "Ottendorfer Bibliothek",
+    "source": "local knowledge",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 2250168928,
+  "lat": 49.3477072,
+  "lon": 16.4231116,
+  "tags": {
+    "name": "Jamborův dům",
+    "source": "local knowledge",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 2276109679,
+  "lat": 49.1933886,
+  "lon": 16.6118998,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "1",
+    "addr:postcode": "60200",
+    "addr:street": "Josefská",
+    "name": "Galerie MATHIAS - akad.malíř Josef Minařík",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 2670678853,
+  "lat": 49.3621994,
+  "lon": 16.7474770,
+  "tags": {
+    "name": "Speleomuzeum Vilémovice",
+    "source": "survey",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 2864907213,
+  "lat": 49.5430859,
+  "lon": 16.5766550,
+  "tags": {
+    "name": "Muzeum zemědělských strojů",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 2954647195,
+  "lat": 49.6330900,
+  "lon": 16.7093443,
+  "tags": {
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 2979742403,
+  "lat": 49.5298045,
+  "lon": 16.7543781,
+  "tags": {
+    "alt_name": "Muzeum lidových tradic Kořenec",
+    "name": "Muzeum Kořenecka",
+    "opening_hours": "Mo-Su 09:00-17:00; Dec-Mar off",
+    "phone": "739 267 475",
+    "tourism": "museum",
+    "website": "https://www.korenec.cz/muzeum/",
+    "wikidata": "Q12039001",
+    "wikipedia": "cs:Muzeum Kořenec"
+  }
+},
+{
+  "type": "node",
+  "id": 3065835159,
+  "lat": 49.4354439,
+  "lon": 16.9021410,
+  "tags": {
+    "name": "Muzeum Drahanské vrchoviny",
+    "note": "Otevřeno pouze po předchozí telefonické objednávce",
+    "phone": "+420723223869",
+    "tourism": "museum",
+    "website": "https://cs-cz.facebook.com/muzeumdrahanska/"
+  }
+},
+{
+  "type": "node",
+  "id": 3586109893,
+  "lat": 49.6221618,
+  "lon": 16.8705202,
+  "tags": {
+    "description": "sbírka techniky",
+    "name": "Pila Ludmírov",
+    "tourism": "museum",
+    "website": "http://www.pilanakopci.cz/index.php?obsah=muzeum"
+  }
+},
+{
+  "type": "node",
+  "id": 3858998077,
+  "lat": 49.1963449,
+  "lon": 16.6079588,
+  "tags": {
+    "email": "kostnice@ticbrno.cz",
+    "name": "Brněnská kostnice",
+    "name:en": "Brno Ossuary",
+    "official_name": "Kostnice u svatého Jakuba",
+    "opening_hours": "Tu-Su 09:30-18:00",
+    "phone": "+420 515 919 793",
+    "tourism": "museum",
+    "website": "https://ticbrno.cz/cs/podzemi/kostnice-u-sv-jakuba",
+    "website:cs": "https://ticbrno.cz/cs/podzemi/kostnice-u-sv-jakuba",
+    "website:en": "https://ticbrno.cz/en/underground/ossuary-underneath-the-church-of-st-james",
+    "wheelchair": "no",
+    "wikidata": "Q4971773",
+    "wikipedia": "cs:Brněnská kostnice"
+  }
+},
+{
+  "type": "node",
+  "id": 4240996352,
+  "lat": 49.1940217,
+  "lon": 16.6042865,
+  "tags": {
+    "charge": "150 CZK/person",
+    "fee": "yes",
+    "layer": "-1",
+    "name": "10-Z",
+    "opening_hours": "Tu-Su 11:30-18:15",
+    "tourism": "museum",
+    "website": "http://10-z.cz"
+  }
+},
+{
+  "type": "node",
+  "id": 4689652297,
+  "lat": 49.1934188,
+  "lon": 16.6212429,
+  "tags": {
+    "level": "3",
+    "name": "Klub modelářů železnic Brno I",
+    "operator": "Modelářský klub svazu modelářů České republiky, klub modelářů železnic Brno I",
+    "tourism": "museum",
+    "website": "https://kmz-brno.cz/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4742235384,
+  "lat": 49.2097958,
+  "lon": 16.6037179,
+  "tags": {
+    "name": "Muzeum českého a slovenského exilu 20. století",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4742612344,
+  "lat": 49.3935152,
+  "lon": 16.7067328,
+  "tags": {
+    "name": "Muzeum včelařství Moravského krasu",
+    "tourism": "museum",
+    "website": "https://www.vavrinec.cz/muzeum-vcelarstvi/"
+  }
+},
+{
+  "type": "node",
+  "id": 5263659321,
+  "lat": 49.2060936,
+  "lon": 16.6137222,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "22",
+    "addr:postcode": "60200",
+    "addr:street": "Drobného",
+    "email": "vila@vila.muzeumbrnenska.cz",
+    "name": "Vila Löw-Beer v Brně",
+    "name:cs": "Vila Löw-Beer v Brně",
+    "name:en": "Löw-Beer Villa in Brno",
+    "opening_hours": "Tu-Su 10:00-18:00",
+    "phone": "+420 544 245 010",
+    "tourism": "museum",
+    "website": "https://www.vilalowbeer.cz/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5301959974,
+  "lat": 49.5573250,
+  "lon": 16.4214453,
+  "tags": {
+    "name": "Muzeum strašidel a postav pověstí Olešnicka",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 5483269858,
+  "lat": 49.1918607,
+  "lon": 16.6084743,
+  "tags": {
+    "name": "Dětské muzeum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 5697679862,
+  "lat": 49.3713139,
+  "lon": 16.7257766,
+  "tags": {
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 5715734995,
+  "lat": 49.1913705,
+  "lon": 16.5938273,
+  "tags": {
+    "name": "Muzeum starbrněnského opatství",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6074421258,
+  "lat": 49.3531014,
+  "lon": 16.4000103,
+  "tags": {
+    "name": "Podhorácké muzeum Předklášteří",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6284944082,
+  "lat": 49.2911424,
+  "lon": 16.7238629,
+  "tags": {
+    "level": "1",
+    "name": "Jeskyně a lidé",
+    "source": "survey;gps",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6352951731,
+  "lat": 49.1911142,
+  "lon": 16.6098606,
+  "tags": {
+    "charge": "80 CZK/adult",
+    "contact:website": "http://hrobka.kapucini.cz",
+    "fee": "yes",
+    "historic": "tomb",
+    "name": "Kapucínská hrobka",
+    "name:en": "Capuchin Crypt in Brno",
+    "opening_hours": "Apr-Oct Mo-Sa 09:00-12:00,13:00-18:00; Apr-Oct Su 11:00-17:00; Nov-Mar Mo-Sa 10:00-16:00; Nov-Mar Su 11:00-16:30",
+    "payment:visa": "yes",
+    "tomb": "crypt",
+    "tourism": "museum",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7050623114,
+  "lat": 49.1942937,
+  "lon": 16.5989953,
+  "tags": {
+    "fee": "yes",
+    "name": "Stálé expozice hradu Špilberk",
+    "opening_hours": "Tu-Su 09:00-17:00",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 7158235861,
+  "lat": 49.1914003,
+  "lon": 16.6082760,
+  "tags": {
+    "entrance": "main",
+    "name": "Mendelianum",
+    "tourism": "museum",
+    "website": "http://www.mendelianum.cz/"
+  }
+},
+{
+  "type": "way",
+  "id": 29239092,
+  "nodes": [
+    387804350,
+    387804347,
+    321592936,
+    321592940,
+    387804343,
+    387804344,
+    387804345,
+    387804346,
+    321592943,
+    321592945,
+    321592947,
+    321592949,
+    387804348,
+    387804349,
+    387804350
+  ],
+  "tags": {
+    "building": "civic",
+    "building:levels": "2",
+    "building:ruian:type": "5",
+    "name": "Wanieck gallery",
+    "ref:ruian:building": "26261391",
+    "source": "cuzk:ruian",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 32539504,
+  "nodes": [
+    365937139,
+    365937138,
+    3792440939,
+    365937137,
+    3792440941,
+    365937135,
+    3792440944,
+    365937134,
+    365937126,
+    365937133,
+    365937131,
+    365937129,
+    365937127,
+    365937125,
+    365937122,
+    365937121,
+    365937120,
+    365937119,
+    365937118,
+    365937117,
+    365937139
+  ],
+  "tags": {
+    "building": "civic",
+    "building:ruian:type": "5",
+    "description": "dům ředitele Varhanické školy",
+    "name": "Památník Leoše Janáčka",
+    "ref:ruian:building": "47930543",
+    "source": "cuzk:ruian",
+    "tourism": "museum",
+    "url": "www.mzm.cz/pamatnik-leose-janacka/",
+    "wikidata": "Q29043056"
+  }
+},
+{
+  "type": "way",
+  "id": 39018396,
+  "nodes": [
+    465195906,
+    465195905,
+    465195904,
+    465195903,
+    465195902,
+    465195901,
+    465195900,
+    465195899,
+    465195898,
+    465195897,
+    3978575027,
+    3978575025,
+    465195896,
+    465195895,
+    3978574984,
+    3978574982,
+    465195894,
+    465195893,
+    465195892,
+    465195891,
+    3978574953,
+    3978574954,
+    465195890,
+    465195889,
+    465195906
+  ],
+  "tags": {
+    "building": "civic",
+    "building:levels": "3",
+    "building:ruian:type": "5",
+    "name": "Dům umění města Brna",
+    "old_name": "Künstlerhaus",
+    "ref:ruian:building": "18948642",
+    "source": "cuzk:ruian",
+    "tourism": "museum",
+    "wikidata": "Q1272757"
+  }
+},
+{
+  "type": "way",
+  "id": 49999689,
+  "nodes": [
+    5314668459,
+    635069425,
+    2285940433,
+    635069428,
+    2285940432,
+    635069426,
+    635069446,
+    635069447,
+    635069448,
+    370762016,
+    635069404,
+    5314668454,
+    5314668453,
+    5314668452,
+    5314668451,
+    5314668450,
+    5314668449,
+    5314668448,
+    5314668447,
+    5314668446,
+    5314668445,
+    5314668444,
+    5314668443,
+    5314668442,
+    5314668441,
+    5314668440,
+    5314668439,
+    635069419,
+    635069390,
+    635069391,
+    635069402,
+    635069401,
+    635069398,
+    5314668438,
+    410847262,
+    5314668437,
+    635069454,
+    5314668436,
+    5314668435,
+    5314668458,
+    2285940434,
+    5314668459
+  ],
+  "tags": {
+    "building": "yes",
+    "building:levels": "2",
+    "building:ruian:type": "19",
+    "name": "Dům pánů z Kunštátu",
+    "ref:ruian:building": "18946372",
+    "source": "cuzk:ruian",
+    "tourism": "museum",
+    "wikidata": "Q11863360",
+    "wikipedia": "cs:Dům pánů z Kunštátu"
+  }
+},
+{
+  "type": "way",
+  "id": 50171113,
+  "nodes": [
+    637788533,
+    637788536,
+    637788535,
+    637788522,
+    637788521,
+    637788520,
+    5314668000,
+    637788512,
+    637788514,
+    637788515,
+    637788517,
+    637788519,
+    861828306,
+    861828308,
+    637788528,
+    637788529,
+    637788531,
+    637788533
+  ],
+  "tags": {
+    "building": "civic",
+    "building:levels": "1",
+    "building:ruian:type": "15",
+    "name": "Uměleckoprůmyslové muzeum",
+    "ref:ruian:building": "18947794",
+    "source": "cuzk:ruian",
+    "tourism": "museum",
+    "wikidata": "Q11878249",
+    "wikipedia": "cs:Uměleckoprůmyslové muzeum (Brno)"
+  }
+},
+{
+  "type": "way",
+  "id": 50312541,
+  "nodes": [
+    639223005,
+    639222765,
+    663483142,
+    639222770,
+    639222774,
+    639223007,
+    639222999,
+    663483143,
+    639223005
+  ],
+  "tags": {
+    "barrier": "sally_port",
+    "building": "yes",
+    "heritage": "yes",
+    "historic": "city_gate",
+    "image": "https://commons.wikimedia.org/wiki/File:Brno_Menin_Gate-01.jpg",
+    "name": "Měnínská brána",
+    "operator": "Muzeum města Brna",
+    "source": "cuzk:km",
+    "tourism": "museum",
+    "wikidata": "Q12039319",
+    "wikipedia": "cs:Měnínská brána"
+  }
+},
+{
+  "type": "way",
+  "id": 50555386,
+  "nodes": [
+    643285703,
+    643285706,
+    3660040395,
+    643285709,
+    3660040394,
+    643285740,
+    643285743,
+    643285744,
+    643285693,
+    643285712,
+    643285715,
+    643285734,
+    643285703
+  ],
+  "tags": {
+    "addr:city": "Brno",
+    "addr:conscriptionnumber": "237",
+    "addr:housenumber": "237/45",
+    "addr:place": "Černá Pole",
+    "addr:postcode": "61300",
+    "addr:street": "Černopolní",
+    "addr:streetnumber": "45",
+    "architect": "Ludwig Mies van der Rohe",
+    "building": "yes",
+    "building:flats": "1",
+    "building:levels": "2",
+    "building:ruian:type": "19",
+    "end_date": "1930",
+    "heritage": "1",
+    "heritage:operator": "whc",
+    "name": "Vila Tugendhat",
+    "name:cs": "Vila Tugendhat",
+    "name:da": "Villa Tugendhat",
+    "name:de": "Villa Tugendhat",
+    "name:el": "Έπαυλη Τούγκεντατ",
+    "name:eo": "Vilao Tugendhat",
+    "name:fr": "Villa Tugendhat",
+    "name:ru": "Вилла Тугендгат",
+    "ref:ruian:addr": "19289791",
+    "ref:ruian:building": "19119623",
+    "ref:whc": "1052",
+    "source": "cuzk:ruian",
+    "start_date": "1929",
+    "tourism": "museum",
+    "website": "http://www.tugendhat.eu/",
+    "whc:criteria": "(ii),(iv)",
+    "whc:inscription_date": "2001",
+    "wikidata": "Q457453",
+    "wikipedia": "cs:Vila Tugendhat"
+  }
+},
+{
+  "type": "way",
+  "id": 50734707,
+  "nodes": [
+    646805105,
+    646805099,
+    646805100,
+    646805102,
+    646805107,
+    646805108,
+    646805109,
+    2534176505,
+    646805110,
+    646805112,
+    646805091,
+    646805092,
+    646805093,
+    646805095,
+    646805096,
+    646805088,
+    646805078,
+    646805080,
+    646805081,
+    646805082,
+    646805084,
+    646805085,
+    646805086,
+    646805087,
+    646805098,
+    646805097,
+    646805106,
+    4526709555,
+    646805104,
+    646805105
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Technické muzeum",
+    "opening_hours": "Tu-Fr 09:00-17:00; Sa-Su 10:00-18:00",
+    "source": "cuzk:km",
+    "tourism": "museum",
+    "wikidata": "Q1441701"
+  }
+},
+{
+  "type": "way",
+  "id": 51792548,
+  "nodes": [
+    660842582,
+    660842583,
+    3829880113,
+    3829880115,
+    660842584,
+    660842585,
+    660842586,
+    660842587,
+    3829880119,
+    3829880118,
+    660842588,
+    3829880117,
+    3829880116,
+    3829880114,
+    3829880112,
+    660842577,
+    660842578,
+    660842579,
+    660842580,
+    3829880099,
+    3829880100,
+    660842581,
+    660842582
+  ],
+  "tags": {
+    "architect": "Dušan Jurkovič",
+    "building": "civic",
+    "building:flats": "2",
+    "building:levels": "1",
+    "building:ruian:type": "15",
+    "name": "Jurkovičova vila",
+    "ref:ruian:building": "19379960",
+    "source": "cuzk:ruian",
+    "start_date": "1906",
+    "tourism": "museum",
+    "wikidata": "Q12027264",
+    "wikipedia": "cs:Jurkovičova vila"
+  }
+},
+{
+  "type": "way",
+  "id": 53551629,
+  "nodes": [
+    676549812,
+    676549803,
+    676549804,
+    676549805,
+    676549801,
+    676549802,
+    676549807,
+    676549808,
+    676549811,
+    676549812
+  ],
+  "tags": {
+    "building": "yes",
+    "building:flats": "1",
+    "building:levels": "1",
+    "building:ruian:type": "19",
+    "name": "Jarošův mlýn",
+    "ref:ruian:building": "13185039",
+    "source": "cuzk:ruian",
+    "tourism": "museum",
+    "wikidata": "Q12024232",
+    "wikipedia": "cs:Jarošův mlýn"
+  }
+},
+{
+  "type": "way",
+  "id": 55934412,
+  "nodes": [
+    2961828898,
+    2961828910,
+    2961828911,
+    2961828917,
+    2961828918,
+    2961828919,
+    2961828920,
+    2961828912,
+    2961828913,
+    2961828900,
+    2961828901,
+    2961828891,
+    2961828890,
+    2961828879,
+    2961828857,
+    2961828856,
+    2961828878,
+    2961828877,
+    2961828876,
+    2961828889,
+    2961828899,
+    2961828898
+  ],
+  "tags": {
+    "building": "yes",
+    "man_made": "windmill",
+    "name": "Větrný mlýn Rudice",
+    "ref:ruian:building": "1961527",
+    "source": "cuzk:ruian",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 55982685,
+  "nodes": [
+    702729160,
+    3023107602,
+    3023107600,
+    702729158,
+    3023107598,
+    3023107597,
+    702729157,
+    3023107599,
+    3023107601,
+    702729159,
+    3023107603,
+    3023107604,
+    702729160
+  ],
+  "tags": {
+    "building": "yes",
+    "man_made": "windmill",
+    "name": "Větrný mlýn s turbínou",
+    "source": "cuzk:km;survey",
+    "tourism": "museum",
+    "website": "https://www.mlynruprechtov.cz/",
+    "wikidata": "Q3507440"
+  }
+},
+{
+  "type": "way",
+  "id": 69907121,
+  "nodes": [
+    835544878,
+    835544879,
+    835544813,
+    835544793,
+    835544878
+  ],
+  "tags": {
+    "building": "civic",
+    "building:levels": "2",
+    "building:ruian:type": "15",
+    "name": "Muzeum Boskovicka",
+    "ref:ruian:building": "15154246",
+    "source": "cuzk:ruian",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 81271653,
+  "nodes": [
+    946817874,
+    946808775,
+    946816151,
+    946807302,
+    946819775,
+    6025493194,
+    946812142,
+    946820099,
+    6025493195,
+    6025493196,
+    946809937,
+    4970200978,
+    6025493193,
+    946829253,
+    946817874
+  ],
+  "tags": {
+    "building": "civic",
+    "building:ruian:type": "5",
+    "name": "Historické zemědělské stroje",
+    "operator": "Muzeum regionu Boskovicka",
+    "ref:ruian:building": "38325438",
+    "source": "cuzk:ruian",
+    "tourism": "museum",
+    "website": "http://muzeum.boskovice.cz/h1/gs-1034"
+  }
+},
+{
+  "type": "way",
+  "id": 94121682,
+  "nodes": [
+    1094082907,
+    1094082467,
+    1094083535,
+    1094083940,
+    1094082907
+  ],
+  "tags": {
+    "building:part": "yes",
+    "name": "Muzeum Brněnska",
+    "source": "cuzk:km;uhul:ortofoto",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 97698061,
+  "nodes": [
+    1131059963,
+    1131071011,
+    1535625261,
+    1535624997,
+    1131069381,
+    1131067708,
+    1131065596,
+    1535625218,
+    1131063525,
+    1131059963
+  ],
+  "tags": {
+    "building": "civic",
+    "building:levels": "1",
+    "building:ruian:type": "15",
+    "name": "Muzeum města Tišnova",
+    "ref:ruian:building": "13223089",
+    "source": "cuzk:ruian",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 102301374,
+  "nodes": [
+    1180844397,
+    4439560550,
+    1180847208,
+    1180844061,
+    1180846464,
+    1180849246,
+    1180844619,
+    1180847656,
+    1180843871,
+    1180845787,
+    1180848726,
+    1180844397
+  ],
+  "tags": {
+    "building": "residential",
+    "building:flats": "1",
+    "building:levels": "2",
+    "building:ruian:type": "3",
+    "name": "Modrotisk",
+    "ref:ruian:building": "7813791",
+    "source": "cuzk:ruian",
+    "tourism": "museum",
+    "website": "https://www.modrotisk-danzinger.cz/"
+  }
+},
+{
+  "type": "way",
+  "id": 107416010,
+  "nodes": [
+    1234579387,
+    1234579300,
+    1234579426,
+    7191817991,
+    7191730170,
+    1234579734,
+    1224467646,
+    1224468011,
+    1224468463,
+    1234579387
+  ],
+  "tags": {
+    "name": "Muzeum MHD",
+    "source": "bing",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 113496923,
+  "nodes": [
+    1286684269,
+    1286684339,
+    6284943559,
+    6284943558,
+    6284943557,
+    6284943556,
+    1286684193,
+    1286684279,
+    1286684269
+  ],
+  "tags": {
+    "building": "residential",
+    "building:ruian:type": "3",
+    "name": "Stará huť u Adamova",
+    "ref:ruian:building": "24807915",
+    "source": "cuzk:ruian",
+    "start_date": "2000-03-21",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 113989454,
+  "nodes": [
+    1291822457,
+    1291816142,
+    1291814913,
+    1291816740,
+    1291815554,
+    1291820715,
+    1291819058,
+    1291821736,
+    1291820089,
+    1291814169,
+    1291823239,
+    1291814982,
+    1291817680,
+    1291823163,
+    1291821588,
+    1291823975,
+    1291822457
+  ],
+  "tags": {
+    "amenity": "library",
+    "building": "civic",
+    "building:flats": "1",
+    "building:levels": "2",
+    "building:ruian:type": "5",
+    "name": "TIC Letovice, Muzeum Letovice, Knihovna",
+    "ref:ruian:building": "2009498",
+    "source": "cuzk:ruian",
+    "toilets": "yes",
+    "toilets:access": "customers",
+    "toilets:wheelchair": "no",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 119657963,
+  "nodes": [
+    1343646127,
+    1343644607,
+    1343645311,
+    1343643289,
+    1343647467,
+    1343647915,
+    1343646127
+  ],
+  "tags": {
+    "building": "residential",
+    "building:flats": "1",
+    "building:ruian:type": "3",
+    "name": "Brtounova chalupa",
+    "ref:ruian:building": "1779222",
+    "source": "cuzk:ruian",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 224009017,
+  "nodes": [
+    2328401182,
+    2328401190,
+    2328401192,
+    2328401188,
+    2328401187,
+    2328401191,
+    2328401186,
+    2328401181,
+    2328401182
+  ],
+  "tags": {
+    "building": "house",
+    "building:ruian:type": "7",
+    "name": "Výstavní síň u sv. Jana - Síň rodáků Jimramova",
+    "old_name": "Horní škola",
+    "ref:ruian:building": "3545661",
+    "source": "cuzk:ruian",
+    "start_date": "1801",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 233551068,
+  "nodes": [
+    3910575009,
+    3910575006,
+    3910575001,
+    3910574972,
+    3910574970,
+    3910574971,
+    3910574969,
+    3910574975,
+    3910574976,
+    3910574982,
+    3910574983,
+    3910575000,
+    3910574993,
+    2419192954,
+    3910575009
+  ],
+  "tags": {
+    "building": "public",
+    "building:levels": "2",
+    "building:ruian:type": "19",
+    "name": "Zetor Gallery",
+    "opening_hours": "Mo-Sa 10:00-17:00",
+    "phone": "+420 734 416 006",
+    "ref:ruian:building": "19252081",
+    "source": "cuzk:ruian",
+    "start_date": "2013-06-12",
+    "tourism": "museum",
+    "website": "http://www.zetorgallery.cz/"
+  }
+},
+{
+  "type": "way",
+  "id": 291298932,
+  "nodes": [
+    2947436188,
+    4529311263,
+    2947436192,
+    2947436186,
+    2947436183,
+    2947436185,
+    2947436187,
+    2947436188
+  ],
+  "tags": {
+    "building": "yes",
+    "building:ruian:type": "19",
+    "name": "Muzeum průmyslových železnic",
+    "ref:ruian:building": "48761010",
+    "source": "cuzk:ruian",
+    "tourism": "museum",
+    "website": "http://www.mpz.cz/"
+  }
+},
+{
+  "type": "way",
+  "id": 491439213,
+  "nodes": [
+    4835389182,
+    6796368132,
+    5792783048,
+    5792783047,
+    6796368131,
+    5792783046,
+    5792783045,
+    5792783044,
+    5792783043,
+    4835389181,
+    5792783032,
+    5792783042,
+    5792783041,
+    5792783040,
+    5792783039,
+    5792783038,
+    5792783037,
+    5792783036,
+    5792783035,
+    5792783034,
+    4835389178,
+    4241910653,
+    4835389182
+  ],
+  "tags": {
+    "addr:housenumber": "96",
+    "addr:street": "Skalní mlýn",
+    "building": "roof",
+    "building:levels": "2",
+    "building:ruian:type": "19",
+    "changing_table": "yes",
+    "changing_table:location": "room",
+    "email": "info@dpmk.cz",
+    "layer": "1",
+    "material": "wood",
+    "name": "Dům přírody Moravského krasu",
+    "opening_hours": "Jan-Feb 09:00-15:00; Mar-Mar 09:00-16:00; Apr-Jun 09:00-17:00; Jul-Aug 09:00-18:00; Sep-Sep 09:00-17:00; Oct-Dec 09:00-16:00",
+    "phone": "+420 516 414 826",
+    "ref:ruian:building": "79925243",
+    "source": "cuzk:ruian",
+    "start_date": "2015-06-24",
+    "toilets": "yes",
+    "toilets:access": "yes",
+    "toilets:wheelchair": "designated",
+    "tourism": "museum",
+    "website": "http://www.dumprirody.cz/moravsky-kras/"
+  }
+},
+{
+  "type": "relation",
+  "id": 407316,
+  "members": [
+    {
+      "type": "way",
+      "ref": 50171128,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 50171124,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 50171106,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "addr:housenumber": "18",
+    "addr:street": "Husova",
+    "building": "yes",
+    "name": "Pražákův palác - Moravian Gallery",
+    "name:en": "Pražák Palace",
+    "old_name": "Obecní dům",
+    "opening_hours": "We-Th,Sa-Su 10:00-18:00; Fr 10:00-19:00",
+    "phone": "+420532169 111",
+    "source": "uhul:ortofoto",
+    "tourism": "museum",
+    "type": "multipolygon",
+    "website": "http://www.moravska-galerie.cz",
+    "wikidata": "Q12046954",
+    "wikipedia": "cs:Pražákův palác"
+  }
+},
+{
+  "type": "node",
+  "id": 2947436183,
+  "lat": 49.1649530,
+  "lon": 16.3517140
+},
+{
+  "type": "node",
+  "id": 2947436185,
+  "lat": 49.1649592,
+  "lon": 16.3517092
+},
+{
+  "type": "node",
+  "id": 2947436186,
+  "lat": 49.1649722,
+  "lon": 16.3517845
+},
+{
+  "type": "node",
+  "id": 2947436187,
+  "lat": 49.1649464,
+  "lon": 16.3516600
+},
+{
+  "type": "node",
+  "id": 2947436188,
+  "lat": 49.1650007,
+  "lon": 16.3516239
+},
+{
+  "type": "node",
+  "id": 2947436192,
+  "lat": 49.1650355,
+  "lon": 16.3517464
+},
+{
+  "type": "node",
+  "id": 4529311263,
+  "lat": 49.1650216,
+  "lon": 16.3516867
+},
+{
+  "type": "node",
+  "id": 676549801,
+  "lat": 49.2736162,
+  "lon": 16.4306015
+},
+{
+  "type": "node",
+  "id": 676549802,
+  "lat": 49.2736436,
+  "lon": 16.4306344
+},
+{
+  "type": "node",
+  "id": 676549803,
+  "lat": 49.2735803,
+  "lon": 16.4304638
+},
+{
+  "type": "node",
+  "id": 676549804,
+  "lat": 49.2735977,
+  "lon": 16.4304362
+},
+{
+  "type": "node",
+  "id": 676549805,
+  "lat": 49.2736635,
+  "lon": 16.4305124
+},
+{
+  "type": "node",
+  "id": 676549807,
+  "lat": 49.2735905,
+  "lon": 16.4307358
+},
+{
+  "type": "node",
+  "id": 676549808,
+  "lat": 49.2734243,
+  "lon": 16.4305349
+},
+{
+  "type": "node",
+  "id": 676549811,
+  "lat": 49.2734816,
+  "lon": 16.4304272
+},
+{
+  "type": "node",
+  "id": 676549812,
+  "lat": 49.2735125,
+  "lon": 16.4303776
+},
+{
+  "type": "node",
+  "id": 370762016,
+  "lat": 49.1931654,
+  "lon": 16.6065152
+},
+{
+  "type": "node",
+  "id": 410847262,
+  "lat": 49.1932467,
+  "lon": 16.6064405
+},
+{
+  "type": "node",
+  "id": 635069390,
+  "lat": 49.1928990,
+  "lon": 16.6065087
+},
+{
+  "type": "node",
+  "id": 635069391,
+  "lat": 49.1929851,
+  "lon": 16.6064410
+},
+{
+  "type": "node",
+  "id": 635069398,
+  "lat": 49.1931640,
+  "lon": 16.6062828
+},
+{
+  "type": "node",
+  "id": 635069401,
+  "lat": 49.1930288,
+  "lon": 16.6064138
+},
+{
+  "type": "node",
+  "id": 635069402,
+  "lat": 49.1930265,
+  "lon": 16.6064088
+},
+{
+  "type": "node",
+  "id": 635069404,
+  "lat": 49.1931334,
+  "lon": 16.6064351
+},
+{
+  "type": "node",
+  "id": 635069419,
+  "lat": 49.1929278,
+  "lon": 16.6066093
+},
+{
+  "type": "node",
+  "id": 635069426,
+  "lat": 49.1929522,
+  "lon": 16.6067527
+},
+{
+  "type": "node",
+  "id": 635069428,
+  "lat": 49.1929261,
+  "lon": 16.6067693
+},
+{
+  "type": "node",
+  "id": 635069446,
+  "lat": 49.1931509,
+  "lon": 16.6066079
+},
+{
+  "type": "node",
+  "id": 635069447,
+  "lat": 49.1931468,
+  "lon": 16.6065965
+},
+{
+  "type": "node",
+  "id": 635069448,
+  "lat": 49.1931862,
+  "lon": 16.6065674
+},
+{
+  "type": "node",
+  "id": 635069454,
+  "lat": 49.1933096,
+  "lon": 16.6065919
+},
+{
+  "type": "node",
+  "id": 637788512,
+  "lat": 49.1941234,
+  "lon": 16.6046375
+},
+{
+  "type": "node",
+  "id": 637788514,
+  "lat": 49.1942155,
+  "lon": 16.6046046
+},
+{
+  "type": "node",
+  "id": 637788515,
+  "lat": 49.1942163,
+  "lon": 16.6046089
+},
+{
+  "type": "node",
+  "id": 637788517,
+  "lat": 49.1942805,
+  "lon": 16.6045874
+},
+{
+  "type": "node",
+  "id": 637788519,
+  "lat": 49.1942795,
+  "lon": 16.6045810
+},
+{
+  "type": "node",
+  "id": 637788520,
+  "lat": 49.1941974,
+  "lon": 16.6051266
+},
+{
+  "type": "node",
+  "id": 637788521,
+  "lat": 49.1942805,
+  "lon": 16.6050971
+},
+{
+  "type": "node",
+  "id": 637788522,
+  "lat": 49.1942825,
+  "lon": 16.6051139
+},
+{
+  "type": "node",
+  "id": 637788528,
+  "lat": 49.1943815,
+  "lon": 16.6045521
+},
+{
+  "type": "node",
+  "id": 637788529,
+  "lat": 49.1943803,
+  "lon": 16.6045463
+},
+{
+  "type": "node",
+  "id": 637788531,
+  "lat": 49.1944719,
+  "lon": 16.6045157
+},
+{
+  "type": "node",
+  "id": 637788533,
+  "lat": 49.1945468,
+  "lon": 16.6050022
+},
+{
+  "type": "node",
+  "id": 637788535,
+  "lat": 49.1944649,
+  "lon": 16.6050468
+},
+{
+  "type": "node",
+  "id": 637788536,
+  "lat": 49.1944624,
+  "lon": 16.6050327
+},
+{
+  "type": "node",
+  "id": 861828306,
+  "lat": 49.1943161,
+  "lon": 16.6045683
+},
+{
+  "type": "node",
+  "id": 861828308,
+  "lat": 49.1943171,
+  "lon": 16.6045741
+},
+{
+  "type": "node",
+  "id": 2285940432,
+  "lat": 49.1929401,
+  "lon": 16.6067596
+},
+{
+  "type": "node",
+  "id": 5314668000,
+  "lat": 49.1941600,
+  "lon": 16.6048796
+},
+{
+  "type": "node",
+  "id": 5314668435,
+  "lat": 49.1932402,
+  "lon": 16.6066604
+},
+{
+  "type": "node",
+  "id": 5314668436,
+  "lat": 49.1933032,
+  "lon": 16.6065992
+},
+{
+  "type": "node",
+  "id": 5314668437,
+  "lat": 49.1932690,
+  "lon": 16.6064883
+},
+{
+  "type": "node",
+  "id": 5314668438,
+  "lat": 49.1931715,
+  "lon": 16.6062795
+},
+{
+  "type": "node",
+  "id": 5314668439,
+  "lat": 49.1929798,
+  "lon": 16.6065665
+},
+{
+  "type": "node",
+  "id": 5314668440,
+  "lat": 49.1929832,
+  "lon": 16.6065748
+},
+{
+  "type": "node",
+  "id": 5314668441,
+  "lat": 49.1929872,
+  "lon": 16.6065704
+},
+{
+  "type": "node",
+  "id": 5314668442,
+  "lat": 49.1929842,
+  "lon": 16.6065621
+},
+{
+  "type": "node",
+  "id": 5314668443,
+  "lat": 49.1930360,
+  "lon": 16.6065179
+},
+{
+  "type": "node",
+  "id": 5314668444,
+  "lat": 49.1930394,
+  "lon": 16.6065262
+},
+{
+  "type": "node",
+  "id": 5314668445,
+  "lat": 49.1930430,
+  "lon": 16.6065231
+},
+{
+  "type": "node",
+  "id": 5314668446,
+  "lat": 49.1930402,
+  "lon": 16.6065143
+},
+{
+  "type": "node",
+  "id": 5314668447,
+  "lat": 49.1930552,
+  "lon": 16.6065021
+},
+{
+  "type": "node",
+  "id": 5314668448,
+  "lat": 49.1930582,
+  "lon": 16.6065097
+},
+{
+  "type": "node",
+  "id": 5314668449,
+  "lat": 49.1930625,
+  "lon": 16.6065056
+},
+{
+  "type": "node",
+  "id": 5314668450,
+  "lat": 49.1930598,
+  "lon": 16.6064981
+},
+{
+  "type": "node",
+  "id": 5314668451,
+  "lat": 49.1930761,
+  "lon": 16.6064836
+},
+{
+  "type": "node",
+  "id": 5314668452,
+  "lat": 49.1930792,
+  "lon": 16.6064908
+},
+{
+  "type": "node",
+  "id": 5314668453,
+  "lat": 49.1930836,
+  "lon": 16.6064870
+},
+{
+  "type": "node",
+  "id": 5314668454,
+  "lat": 49.1930813,
+  "lon": 16.6064798
+},
+{
+  "type": "node",
+  "id": 5314668458,
+  "lat": 49.1931846,
+  "lon": 16.6067145
+},
+{
+  "type": "node",
+  "id": 321592936,
+  "lat": 49.1876666,
+  "lon": 16.6157292
+},
+{
+  "type": "node",
+  "id": 321592940,
+  "lat": 49.1876819,
+  "lon": 16.6158361
+},
+{
+  "type": "node",
+  "id": 321592943,
+  "lat": 49.1873824,
+  "lon": 16.6164136
+},
+{
+  "type": "node",
+  "id": 321592945,
+  "lat": 49.1868212,
+  "lon": 16.6166059
+},
+{
+  "type": "node",
+  "id": 321592947,
+  "lat": 49.1867482,
+  "lon": 16.6161284
+},
+{
+  "type": "node",
+  "id": 321592949,
+  "lat": 49.1867763,
+  "lon": 16.6160359
+},
+{
+  "type": "node",
+  "id": 387804343,
+  "lat": 49.1876552,
+  "lon": 16.6159190
+},
+{
+  "type": "node",
+  "id": 387804344,
+  "lat": 49.1875154,
+  "lon": 16.6162119
+},
+{
+  "type": "node",
+  "id": 387804345,
+  "lat": 49.1874192,
+  "lon": 16.6162484
+},
+{
+  "type": "node",
+  "id": 387804346,
+  "lat": 49.1874283,
+  "lon": 16.6163171
+},
+{
+  "type": "node",
+  "id": 387804347,
+  "lat": 49.1870937,
+  "lon": 16.6159271
+},
+{
+  "type": "node",
+  "id": 387804348,
+  "lat": 49.1870016,
+  "lon": 16.6159590
+},
+{
+  "type": "node",
+  "id": 387804349,
+  "lat": 49.1869996,
+  "lon": 16.6159396
+},
+{
+  "type": "node",
+  "id": 387804350,
+  "lat": 49.1870904,
+  "lon": 16.6159088
+},
+{
+  "type": "node",
+  "id": 635069425,
+  "lat": 49.1929504,
+  "lon": 16.6068591
+},
+{
+  "type": "node",
+  "id": 639222765,
+  "lat": 49.1941899,
+  "lon": 16.6126917
+},
+{
+  "type": "node",
+  "id": 639222770,
+  "lat": 49.1942750,
+  "lon": 16.6125963
+},
+{
+  "type": "node",
+  "id": 639222774,
+  "lat": 49.1943354,
+  "lon": 16.6126062
+},
+{
+  "type": "node",
+  "id": 639222999,
+  "lat": 49.1943162,
+  "lon": 16.6127203
+},
+{
+  "type": "node",
+  "id": 639223005,
+  "lat": 49.1942439,
+  "lon": 16.6127997
+},
+{
+  "type": "node",
+  "id": 639223007,
+  "lat": 49.1943349,
+  "lon": 16.6127251
+},
+{
+  "type": "node",
+  "id": 663483142,
+  "lat": 49.1942279,
+  "lon": 16.6126487
+},
+{
+  "type": "node",
+  "id": 663483143,
+  "lat": 49.1942808,
+  "lon": 16.6127578
+},
+{
+  "type": "node",
+  "id": 2285940433,
+  "lat": 49.1929419,
+  "lon": 16.6068261
+},
+{
+  "type": "node",
+  "id": 2285940434,
+  "lat": 49.1929704,
+  "lon": 16.6068570
+},
+{
+  "type": "node",
+  "id": 5314668459,
+  "lat": 49.1929532,
+  "lon": 16.6068685
+},
+{
+  "type": "node",
+  "id": 1094082467,
+  "lat": 49.1693847,
+  "lon": 16.7270720
+},
+{
+  "type": "node",
+  "id": 1094082907,
+  "lat": 49.1693226,
+  "lon": 16.7269555
+},
+{
+  "type": "node",
+  "id": 1094083535,
+  "lat": 49.1692319,
+  "lon": 16.7272859
+},
+{
+  "type": "node",
+  "id": 1094083940,
+  "lat": 49.1691586,
+  "lon": 16.7271686
+},
+{
+  "type": "node",
+  "id": 660842577,
+  "lat": 49.2066468,
+  "lon": 16.5762698
+},
+{
+  "type": "node",
+  "id": 660842578,
+  "lat": 49.2066269,
+  "lon": 16.5762533
+},
+{
+  "type": "node",
+  "id": 660842579,
+  "lat": 49.2066317,
+  "lon": 16.5762397
+},
+{
+  "type": "node",
+  "id": 660842580,
+  "lat": 49.2065234,
+  "lon": 16.5761505
+},
+{
+  "type": "node",
+  "id": 660842581,
+  "lat": 49.2065385,
+  "lon": 16.5760794
+},
+{
+  "type": "node",
+  "id": 660842582,
+  "lat": 49.2065497,
+  "lon": 16.5760719
+},
+{
+  "type": "node",
+  "id": 660842583,
+  "lat": 49.2065899,
+  "lon": 16.5759606
+},
+{
+  "type": "node",
+  "id": 660842584,
+  "lat": 49.2066809,
+  "lon": 16.5760303
+},
+{
+  "type": "node",
+  "id": 660842585,
+  "lat": 49.2066708,
+  "lon": 16.5760590
+},
+{
+  "type": "node",
+  "id": 660842586,
+  "lat": 49.2066786,
+  "lon": 16.5760653
+},
+{
+  "type": "node",
+  "id": 660842587,
+  "lat": 49.2066797,
+  "lon": 16.5760617
+},
+{
+  "type": "node",
+  "id": 660842588,
+  "lat": 49.2067156,
+  "lon": 16.5760956
+},
+{
+  "type": "node",
+  "id": 3829880099,
+  "lat": 49.2065309,
+  "lon": 16.5761218
+},
+{
+  "type": "node",
+  "id": 3829880100,
+  "lat": 49.2065312,
+  "lon": 16.5761048
+},
+{
+  "type": "node",
+  "id": 3829880112,
+  "lat": 49.2066519,
+  "lon": 16.5762553
+},
+{
+  "type": "node",
+  "id": 3829880113,
+  "lat": 49.2066541,
+  "lon": 16.5760130
+},
+{
+  "type": "node",
+  "id": 3829880114,
+  "lat": 49.2066543,
+  "lon": 16.5762572
+},
+{
+  "type": "node",
+  "id": 3829880115,
+  "lat": 49.2066554,
+  "lon": 16.5760092
+},
+{
+  "type": "node",
+  "id": 3829880116,
+  "lat": 49.2066882,
+  "lon": 16.5761609
+},
+{
+  "type": "node",
+  "id": 3829880117,
+  "lat": 49.2066917,
+  "lon": 16.5761638
+},
+{
+  "type": "node",
+  "id": 3829880118,
+  "lat": 49.2067046,
+  "lon": 16.5760866
+},
+{
+  "type": "node",
+  "id": 3829880119,
+  "lat": 49.2067059,
+  "lon": 16.5760830
+},
+{
+  "type": "node",
+  "id": 637788505,
+  "lat": 49.1953304,
+  "lon": 16.6042154
+},
+{
+  "type": "node",
+  "id": 637788570,
+  "lat": 49.1954018,
+  "lon": 16.6046984
+},
+{
+  "type": "node",
+  "id": 637788655,
+  "lat": 49.1955474,
+  "lon": 16.6041402
+},
+{
+  "type": "node",
+  "id": 637788659,
+  "lat": 49.1955481,
+  "lon": 16.6041446
+},
+{
+  "type": "node",
+  "id": 637788660,
+  "lat": 49.1954919,
+  "lon": 16.6043901
+},
+{
+  "type": "node",
+  "id": 637788662,
+  "lat": 49.1954514,
+  "lon": 16.6044038
+},
+{
+  "type": "node",
+  "id": 637788664,
+  "lat": 49.1954437,
+  "lon": 16.6043509
+},
+{
+  "type": "node",
+  "id": 637788666,
+  "lat": 49.1954843,
+  "lon": 16.6043372
+},
+{
+  "type": "node",
+  "id": 637788751,
+  "lat": 49.1956188,
+  "lon": 16.6046233
+},
+{
+  "type": "node",
+  "id": 637788756,
+  "lat": 49.1954796,
+  "lon": 16.6045412
+},
+{
+  "type": "node",
+  "id": 637788757,
+  "lat": 49.1954714,
+  "lon": 16.6044975
+},
+{
+  "type": "node",
+  "id": 637788758,
+  "lat": 49.1954961,
+  "lon": 16.6044867
+},
+{
+  "type": "node",
+  "id": 637788759,
+  "lat": 49.1955042,
+  "lon": 16.6045304
+},
+{
+  "type": "node",
+  "id": 3202765546,
+  "lat": 49.1953658,
+  "lon": 16.6044552
+},
+{
+  "type": "node",
+  "id": 3202765550,
+  "lat": 49.1956058,
+  "lon": 16.6045343
+},
+{
+  "type": "node",
+  "id": 3205806821,
+  "lat": 49.1955838,
+  "lon": 16.6043863
+},
+{
+  "type": "node",
+  "id": 365937117,
+  "lat": 49.2015264,
+  "lon": 16.6026503
+},
+{
+  "type": "node",
+  "id": 365937118,
+  "lat": 49.2014920,
+  "lon": 16.6026925
+},
+{
+  "type": "node",
+  "id": 365937119,
+  "lat": 49.2014954,
+  "lon": 16.6027008
+},
+{
+  "type": "node",
+  "id": 365937120,
+  "lat": 49.2014488,
+  "lon": 16.6027572
+},
+{
+  "type": "node",
+  "id": 365937121,
+  "lat": 49.2015313,
+  "lon": 16.6029149
+},
+{
+  "type": "node",
+  "id": 365937122,
+  "lat": 49.2015762,
+  "lon": 16.6028634
+},
+{
+  "type": "node",
+  "id": 365937125,
+  "lat": 49.2015421,
+  "lon": 16.6027948
+},
+{
+  "type": "node",
+  "id": 365937126,
+  "lat": 49.2015599,
+  "lon": 16.6026962
+},
+{
+  "type": "node",
+  "id": 365937127,
+  "lat": 49.2015711,
+  "lon": 16.6027619
+},
+{
+  "type": "node",
+  "id": 365937129,
+  "lat": 49.2015768,
+  "lon": 16.6027543
+},
+{
+  "type": "node",
+  "id": 365937131,
+  "lat": 49.2015566,
+  "lon": 16.6027125
+},
+{
+  "type": "node",
+  "id": 365937133,
+  "lat": 49.2015587,
+  "lon": 16.6027061
+},
+{
+  "type": "node",
+  "id": 365937134,
+  "lat": 49.2015593,
+  "lon": 16.6026898
+},
+{
+  "type": "node",
+  "id": 365937135,
+  "lat": 49.2015555,
+  "lon": 16.6026778
+},
+{
+  "type": "node",
+  "id": 365937137,
+  "lat": 49.2015504,
+  "lon": 16.6026711
+},
+{
+  "type": "node",
+  "id": 365937138,
+  "lat": 49.2015400,
+  "lon": 16.6026668
+},
+{
+  "type": "node",
+  "id": 365937139,
+  "lat": 49.2015353,
+  "lon": 16.6026680
+},
+{
+  "type": "node",
+  "id": 3792440939,
+  "lat": 49.2015475,
+  "lon": 16.6026689
+},
+{
+  "type": "node",
+  "id": 3792440941,
+  "lat": 49.2015530,
+  "lon": 16.6026739
+},
+{
+  "type": "node",
+  "id": 3792440944,
+  "lat": 49.2015581,
+  "lon": 16.6026833
+},
+{
+  "type": "node",
+  "id": 465195889,
+  "lat": 49.1963203,
+  "lon": 16.6143648
+},
+{
+  "type": "node",
+  "id": 465195890,
+  "lat": 49.1961888,
+  "lon": 16.6144748
+},
+{
+  "type": "node",
+  "id": 465195891,
+  "lat": 49.1962293,
+  "lon": 16.6145909
+},
+{
+  "type": "node",
+  "id": 465195892,
+  "lat": 49.1961488,
+  "lon": 16.6146631
+},
+{
+  "type": "node",
+  "id": 465195893,
+  "lat": 49.1962297,
+  "lon": 16.6148764
+},
+{
+  "type": "node",
+  "id": 465195894,
+  "lat": 49.1963112,
+  "lon": 16.6148038
+},
+{
+  "type": "node",
+  "id": 465195895,
+  "lat": 49.1963566,
+  "lon": 16.6149169
+},
+{
+  "type": "node",
+  "id": 465195896,
+  "lat": 49.1964869,
+  "lon": 16.6148013
+},
+{
+  "type": "node",
+  "id": 465195897,
+  "lat": 49.1964339,
+  "lon": 16.6146512
+},
+{
+  "type": "node",
+  "id": 465195898,
+  "lat": 49.1964703,
+  "lon": 16.6146173
+},
+{
+  "type": "node",
+  "id": 465195899,
+  "lat": 49.1964634,
+  "lon": 16.6145983
+},
+{
+  "type": "node",
+  "id": 465195900,
+  "lat": 49.1964944,
+  "lon": 16.6145685
+},
+{
+  "type": "node",
+  "id": 465195901,
+  "lat": 49.1964541,
+  "lon": 16.6144658
+},
+{
+  "type": "node",
+  "id": 465195902,
+  "lat": 49.1964236,
+  "lon": 16.6144939
+},
+{
+  "type": "node",
+  "id": 465195903,
+  "lat": 49.1964151,
+  "lon": 16.6144720
+},
+{
+  "type": "node",
+  "id": 465195904,
+  "lat": 49.1963783,
+  "lon": 16.6145065
+},
+{
+  "type": "node",
+  "id": 465195905,
+  "lat": 49.1963279,
+  "lon": 16.6143740
+},
+{
+  "type": "node",
+  "id": 465195906,
+  "lat": 49.1963249,
+  "lon": 16.6143767
+},
+{
+  "type": "node",
+  "id": 3978574953,
+  "lat": 49.1961904,
+  "lon": 16.6144880
+},
+{
+  "type": "node",
+  "id": 3978574954,
+  "lat": 49.1961923,
+  "lon": 16.6144859
+},
+{
+  "type": "node",
+  "id": 3978574982,
+  "lat": 49.1963504,
+  "lon": 16.6149076
+},
+{
+  "type": "node",
+  "id": 3978574984,
+  "lat": 49.1963527,
+  "lon": 16.6149061
+},
+{
+  "type": "node",
+  "id": 3978575025,
+  "lat": 49.1964834,
+  "lon": 16.6147889
+},
+{
+  "type": "node",
+  "id": 3978575027,
+  "lat": 49.1964853,
+  "lon": 16.6147869
+},
+{
+  "type": "node",
+  "id": 643285693,
+  "lat": 49.2069843,
+  "lon": 16.6161407
+},
+{
+  "type": "node",
+  "id": 643285703,
+  "lat": 49.2073583,
+  "lon": 16.6160207
+},
+{
+  "type": "node",
+  "id": 643285706,
+  "lat": 49.2073136,
+  "lon": 16.6160824
+},
+{
+  "type": "node",
+  "id": 643285709,
+  "lat": 49.2072718,
+  "lon": 16.6160126
+},
+{
+  "type": "node",
+  "id": 643285712,
+  "lat": 49.2071410,
+  "lon": 16.6159182
+},
+{
+  "type": "node",
+  "id": 643285715,
+  "lat": 49.2071722,
+  "lon": 16.6159709
+},
+{
+  "type": "node",
+  "id": 643285734,
+  "lat": 49.2072572,
+  "lon": 16.6158551
+},
+{
+  "type": "node",
+  "id": 643285740,
+  "lat": 49.2071520,
+  "lon": 16.6161821
+},
+{
+  "type": "node",
+  "id": 643285743,
+  "lat": 49.2071648,
+  "lon": 16.6162051
+},
+{
+  "type": "node",
+  "id": 643285744,
+  "lat": 49.2070883,
+  "lon": 16.6163124
+},
+{
+  "type": "node",
+  "id": 3660040394,
+  "lat": 49.2072520,
+  "lon": 16.6160406
+},
+{
+  "type": "node",
+  "id": 3660040395,
+  "lat": 49.2072862,
+  "lon": 16.6160366
+},
+{
+  "type": "node",
+  "id": 646805078,
+  "lat": 49.2279970,
+  "lon": 16.5816080
+},
+{
+  "type": "node",
+  "id": 646805080,
+  "lat": 49.2279990,
+  "lon": 16.5816250
+},
+{
+  "type": "node",
+  "id": 646805081,
+  "lat": 49.2279360,
+  "lon": 16.5816360
+},
+{
+  "type": "node",
+  "id": 646805082,
+  "lat": 49.2279340,
+  "lon": 16.5816170
+},
+{
+  "type": "node",
+  "id": 646805084,
+  "lat": 49.2278810,
+  "lon": 16.5816260
+},
+{
+  "type": "node",
+  "id": 646805085,
+  "lat": 49.2278650,
+  "lon": 16.5815420
+},
+{
+  "type": "node",
+  "id": 646805086,
+  "lat": 49.2277400,
+  "lon": 16.5815600
+},
+{
+  "type": "node",
+  "id": 646805087,
+  "lat": 49.2277270,
+  "lon": 16.5813450
+},
+{
+  "type": "node",
+  "id": 646805088,
+  "lat": 49.2280490,
+  "lon": 16.5816020
+},
+{
+  "type": "node",
+  "id": 646805091,
+  "lat": 49.2283610,
+  "lon": 16.5818610
+},
+{
+  "type": "node",
+  "id": 646805092,
+  "lat": 49.2283560,
+  "lon": 16.5818100
+},
+{
+  "type": "node",
+  "id": 646805093,
+  "lat": 49.2282340,
+  "lon": 16.5818260
+},
+{
+  "type": "node",
+  "id": 646805095,
+  "lat": 49.2282340,
+  "lon": 16.5818420
+},
+{
+  "type": "node",
+  "id": 646805096,
+  "lat": 49.2280590,
+  "lon": 16.5818630
+},
+{
+  "type": "node",
+  "id": 646805097,
+  "lat": 49.2285490,
+  "lon": 16.5815370
+},
+{
+  "type": "node",
+  "id": 646805098,
+  "lat": 49.2285300,
+  "lon": 16.5812420
+},
+{
+  "type": "node",
+  "id": 646805099,
+  "lat": 49.2284610,
+  "lon": 16.5817730
+},
+{
+  "type": "node",
+  "id": 646805100,
+  "lat": 49.2284640,
+  "lon": 16.5817950
+},
+{
+  "type": "node",
+  "id": 646805102,
+  "lat": 49.2284500,
+  "lon": 16.5818000
+},
+{
+  "type": "node",
+  "id": 646805104,
+  "lat": 49.2284510,
+  "lon": 16.5817060
+},
+{
+  "type": "node",
+  "id": 646805105,
+  "lat": 49.2284570,
+  "lon": 16.5817070
+},
+{
+  "type": "node",
+  "id": 646805106,
+  "lat": 49.2284420,
+  "lon": 16.5815550
+},
+{
+  "type": "node",
+  "id": 646805107,
+  "lat": 49.2284260,
+  "lon": 16.5818460
+},
+{
+  "type": "node",
+  "id": 646805108,
+  "lat": 49.2284140,
+  "lon": 16.5818570
+},
+{
+  "type": "node",
+  "id": 646805109,
+  "lat": 49.2284150,
+  "lon": 16.5818960
+},
+{
+  "type": "node",
+  "id": 646805110,
+  "lat": 49.2283740,
+  "lon": 16.5819010
+},
+{
+  "type": "node",
+  "id": 646805112,
+  "lat": 49.2283690,
+  "lon": 16.5818600
+},
+{
+  "type": "node",
+  "id": 2534176505,
+  "lat": 49.2283990,
+  "lon": 16.5818980
+},
+{
+  "type": "node",
+  "id": 4526709555,
+  "lat": 49.2284460,
+  "lon": 16.5816227
+},
+{
+  "type": "node",
+  "id": 2419192954,
+  "lat": 49.1996221,
+  "lon": 16.6717154
+},
+{
+  "type": "node",
+  "id": 3910574969,
+  "lat": 49.1990107,
+  "lon": 16.6721434
+},
+{
+  "type": "node",
+  "id": 3910574970,
+  "lat": 49.1990144,
+  "lon": 16.6721737
+},
+{
+  "type": "node",
+  "id": 3910574971,
+  "lat": 49.1990181,
+  "lon": 16.6721713
+},
+{
+  "type": "node",
+  "id": 3910574972,
+  "lat": 49.1990443,
+  "lon": 16.6722864
+},
+{
+  "type": "node",
+  "id": 3910574975,
+  "lat": 49.1990565,
+  "lon": 16.6721149
+},
+{
+  "type": "node",
+  "id": 3910574976,
+  "lat": 49.1990629,
+  "lon": 16.6721397
+},
+{
+  "type": "node",
+  "id": 3910574982,
+  "lat": 49.1991651,
+  "lon": 16.6720778
+},
+{
+  "type": "node",
+  "id": 3910574983,
+  "lat": 49.1991658,
+  "lon": 16.6720803
+},
+{
+  "type": "node",
+  "id": 3910574993,
+  "lat": 49.1993869,
+  "lon": 16.6718573
+},
+{
+  "type": "node",
+  "id": 3910575000,
+  "lat": 49.1994058,
+  "lon": 16.6719352
+},
+{
+  "type": "node",
+  "id": 3910575001,
+  "lat": 49.1994487,
+  "lon": 16.6720444
+},
+{
+  "type": "node",
+  "id": 3910575006,
+  "lat": 49.1996029,
+  "lon": 16.6719565
+},
+{
+  "type": "node",
+  "id": 3910575009,
+  "lat": 49.1996727,
+  "lon": 16.6719137
+},
+{
+  "type": "node",
+  "id": 1224467646,
+  "lat": 49.1995501,
+  "lon": 16.6940381
+},
+{
+  "type": "node",
+  "id": 1224468011,
+  "lat": 49.1998488,
+  "lon": 16.6938136
+},
+{
+  "type": "node",
+  "id": 1234579426,
+  "lat": 49.1988486,
+  "lon": 16.6949921
+},
+{
+  "type": "node",
+  "id": 1234579734,
+  "lat": 49.1987882,
+  "lon": 16.6942888
+},
+{
+  "type": "node",
+  "id": 7191730170,
+  "lat": 49.1987952,
+  "lon": 16.6944234
+},
+{
+  "type": "node",
+  "id": 7191817991,
+  "lat": 49.1987996,
+  "lon": 16.6944838
+},
+{
+  "type": "node",
+  "id": 1224468463,
+  "lat": 49.2011803,
+  "lon": 16.6935737
+},
+{
+  "type": "node",
+  "id": 1234579300,
+  "lat": 49.2014421,
+  "lon": 16.6943837
+},
+{
+  "type": "node",
+  "id": 1234579387,
+  "lat": 49.2013523,
+  "lon": 16.6935625
+},
+{
+  "type": "node",
+  "id": 1131059963,
+  "lat": 49.3501586,
+  "lon": 16.4178811
+},
+{
+  "type": "node",
+  "id": 1131063525,
+  "lat": 49.3502733,
+  "lon": 16.4176128
+},
+{
+  "type": "node",
+  "id": 1131065596,
+  "lat": 49.3501988,
+  "lon": 16.4175495
+},
+{
+  "type": "node",
+  "id": 1131067708,
+  "lat": 49.3501927,
+  "lon": 16.4175633
+},
+{
+  "type": "node",
+  "id": 1131069381,
+  "lat": 49.3501634,
+  "lon": 16.4175339
+},
+{
+  "type": "node",
+  "id": 1131071011,
+  "lat": 49.3500863,
+  "lon": 16.4178126
+},
+{
+  "type": "node",
+  "id": 1535624997,
+  "lat": 49.3500769,
+  "lon": 16.4177354
+},
+{
+  "type": "node",
+  "id": 1535625218,
+  "lat": 49.3502673,
+  "lon": 16.4176077
+},
+{
+  "type": "node",
+  "id": 1535625261,
+  "lat": 49.3501066,
+  "lon": 16.4177651
+},
+{
+  "type": "node",
+  "id": 1286684193,
+  "lat": 49.3066914,
+  "lon": 16.6784346
+},
+{
+  "type": "node",
+  "id": 1286684269,
+  "lat": 49.3066770,
+  "lon": 16.6787451
+},
+{
+  "type": "node",
+  "id": 1286684279,
+  "lat": 49.3067628,
+  "lon": 16.6784955
+},
+{
+  "type": "node",
+  "id": 1286684339,
+  "lat": 49.3066006,
+  "lon": 16.6786812
+},
+{
+  "type": "node",
+  "id": 6284943556,
+  "lat": 49.3066560,
+  "lon": 16.6785309
+},
+{
+  "type": "node",
+  "id": 6284943557,
+  "lat": 49.3066532,
+  "lon": 16.6785284
+},
+{
+  "type": "node",
+  "id": 6284943558,
+  "lat": 49.3066336,
+  "lon": 16.6785817
+},
+{
+  "type": "node",
+  "id": 6284943559,
+  "lat": 49.3066363,
+  "lon": 16.6785841
+},
+{
+  "type": "node",
+  "id": 2961828856,
+  "lat": 49.3337235,
+  "lon": 16.7279541
+},
+{
+  "type": "node",
+  "id": 2961828857,
+  "lat": 49.3337252,
+  "lon": 16.7279722
+},
+{
+  "type": "node",
+  "id": 2961828876,
+  "lat": 49.3337389,
+  "lon": 16.7279064
+},
+{
+  "type": "node",
+  "id": 2961828877,
+  "lat": 49.3337307,
+  "lon": 16.7279197
+},
+{
+  "type": "node",
+  "id": 2961828878,
+  "lat": 49.3337254,
+  "lon": 16.7279361
+},
+{
+  "type": "node",
+  "id": 2961828879,
+  "lat": 49.3337303,
+  "lon": 16.7279887
+},
+{
+  "type": "node",
+  "id": 2961828889,
+  "lat": 49.3337492,
+  "lon": 16.7278975
+},
+{
+  "type": "node",
+  "id": 2961828890,
+  "lat": 49.3337383,
+  "lon": 16.7280021
+},
+{
+  "type": "node",
+  "id": 2961828891,
+  "lat": 49.3337486,
+  "lon": 16.7280114
+},
+{
+  "type": "node",
+  "id": 2961828898,
+  "lat": 49.3337727,
+  "lon": 16.7278952
+},
+{
+  "type": "node",
+  "id": 2961828899,
+  "lat": 49.3337609,
+  "lon": 16.7278936
+},
+{
+  "type": "node",
+  "id": 2961828900,
+  "lat": 49.3337720,
+  "lon": 16.7280143
+},
+{
+  "type": "node",
+  "id": 2961828901,
+  "lat": 49.3337602,
+  "lon": 16.7280155
+},
+{
+  "type": "node",
+  "id": 2961828910,
+  "lat": 49.3337837,
+  "lon": 16.7279020
+},
+{
+  "type": "node",
+  "id": 2961828911,
+  "lat": 49.3337929,
+  "lon": 16.7279135
+},
+{
+  "type": "node",
+  "id": 2961828912,
+  "lat": 49.3337924,
+  "lon": 16.7279965
+},
+{
+  "type": "node",
+  "id": 2961828913,
+  "lat": 49.3337830,
+  "lon": 16.7280078
+},
+{
+  "type": "node",
+  "id": 2961828917,
+  "lat": 49.3337994,
+  "lon": 16.7279287
+},
+{
+  "type": "node",
+  "id": 2961828918,
+  "lat": 49.3338028,
+  "lon": 16.7279461
+},
+{
+  "type": "node",
+  "id": 2961828919,
+  "lat": 49.3338027,
+  "lon": 16.7279643
+},
+{
+  "type": "node",
+  "id": 2961828920,
+  "lat": 49.3337991,
+  "lon": 16.7279816
+},
+{
+  "type": "node",
+  "id": 4241910653,
+  "lat": 49.3629321,
+  "lon": 16.7100482
+},
+{
+  "type": "node",
+  "id": 4835389178,
+  "lat": 49.3629354,
+  "lon": 16.7100017
+},
+{
+  "type": "node",
+  "id": 4835389181,
+  "lat": 49.3628221,
+  "lon": 16.7101144
+},
+{
+  "type": "node",
+  "id": 4835389182,
+  "lat": 49.3629285,
+  "lon": 16.7100976
+},
+{
+  "type": "node",
+  "id": 5792783032,
+  "lat": 49.3628191,
+  "lon": 16.7100734
+},
+{
+  "type": "node",
+  "id": 5792783034,
+  "lat": 49.3631411,
+  "lon": 16.7099677
+},
+{
+  "type": "node",
+  "id": 5792783035,
+  "lat": 49.3631276,
+  "lon": 16.7097661
+},
+{
+  "type": "node",
+  "id": 5792783036,
+  "lat": 49.3631174,
+  "lon": 16.7097676
+},
+{
+  "type": "node",
+  "id": 5792783037,
+  "lat": 49.3631176,
+  "lon": 16.7097723
+},
+{
+  "type": "node",
+  "id": 5792783038,
+  "lat": 49.3628025,
+  "lon": 16.7098242
+},
+{
+  "type": "node",
+  "id": 5792783039,
+  "lat": 49.3628096,
+  "lon": 16.7099432
+},
+{
+  "type": "node",
+  "id": 5792783040,
+  "lat": 49.3628076,
+  "lon": 16.7099441
+},
+{
+  "type": "node",
+  "id": 5792783041,
+  "lat": 49.3628130,
+  "lon": 16.7100213
+},
+{
+  "type": "node",
+  "id": 5792783042,
+  "lat": 49.3628152,
+  "lon": 16.7100206
+},
+{
+  "type": "node",
+  "id": 5792783043,
+  "lat": 49.3627774,
+  "lon": 16.7101226
+},
+{
+  "type": "node",
+  "id": 5792783044,
+  "lat": 49.3627927,
+  "lon": 16.7103412
+},
+{
+  "type": "node",
+  "id": 5792783045,
+  "lat": 49.3630550,
+  "lon": 16.7102980
+},
+{
+  "type": "node",
+  "id": 5792783046,
+  "lat": 49.3630503,
+  "lon": 16.7102267
+},
+{
+  "type": "node",
+  "id": 5792783047,
+  "lat": 49.3631909,
+  "lon": 16.7102045
+},
+{
+  "type": "node",
+  "id": 5792783048,
+  "lat": 49.3631804,
+  "lon": 16.7100564
+},
+{
+  "type": "node",
+  "id": 6796368131,
+  "lat": 49.3630873,
+  "lon": 16.7102209
+},
+{
+  "type": "node",
+  "id": 6796368132,
+  "lat": 49.3630778,
+  "lon": 16.7100732
+},
+{
+  "type": "node",
+  "id": 835544793,
+  "lat": 49.4860264,
+  "lon": 16.6616636
+},
+{
+  "type": "node",
+  "id": 835544813,
+  "lat": 49.4859890,
+  "lon": 16.6618465
+},
+{
+  "type": "node",
+  "id": 835544878,
+  "lat": 49.4865411,
+  "lon": 16.6619133
+},
+{
+  "type": "node",
+  "id": 835544879,
+  "lat": 49.4865043,
+  "lon": 16.6620968
+},
+{
+  "type": "node",
+  "id": 946807302,
+  "lat": 49.4889230,
+  "lon": 16.6632035
+},
+{
+  "type": "node",
+  "id": 946808775,
+  "lat": 49.4887654,
+  "lon": 16.6631647
+},
+{
+  "type": "node",
+  "id": 946809937,
+  "lat": 49.4889531,
+  "lon": 16.6633775
+},
+{
+  "type": "node",
+  "id": 946812142,
+  "lat": 49.4890394,
+  "lon": 16.6633741
+},
+{
+  "type": "node",
+  "id": 946816151,
+  "lat": 49.4888152,
+  "lon": 16.6631569
+},
+{
+  "type": "node",
+  "id": 946817874,
+  "lat": 49.4887823,
+  "lon": 16.6633996
+},
+{
+  "type": "node",
+  "id": 946819775,
+  "lat": 49.4890341,
+  "lon": 16.6631840
+},
+{
+  "type": "node",
+  "id": 946820099,
+  "lat": 49.4890402,
+  "lon": 16.6633851
+},
+{
+  "type": "node",
+  "id": 946829253,
+  "lat": 49.4887772,
+  "lon": 16.6633967
+},
+{
+  "type": "node",
+  "id": 4970200978,
+  "lat": 49.4889540,
+  "lon": 16.6633892
+},
+{
+  "type": "node",
+  "id": 6025493193,
+  "lat": 49.4887789,
+  "lon": 16.6634200
+},
+{
+  "type": "node",
+  "id": 6025493194,
+  "lat": 49.4890470,
+  "lon": 16.6633727
+},
+{
+  "type": "node",
+  "id": 6025493195,
+  "lat": 49.4890018,
+  "lon": 16.6633919
+},
+{
+  "type": "node",
+  "id": 6025493196,
+  "lat": 49.4890000,
+  "lon": 16.6633692
+},
+{
+  "type": "node",
+  "id": 2328401181,
+  "lat": 49.6366563,
+  "lon": 16.2261747
+},
+{
+  "type": "node",
+  "id": 2328401182,
+  "lat": 49.6366819,
+  "lon": 16.2259344
+},
+{
+  "type": "node",
+  "id": 2328401186,
+  "lat": 49.6367407,
+  "lon": 16.2261986
+},
+{
+  "type": "node",
+  "id": 2328401187,
+  "lat": 49.6367696,
+  "lon": 16.2261423
+},
+{
+  "type": "node",
+  "id": 2328401188,
+  "lat": 49.6367791,
+  "lon": 16.2260594
+},
+{
+  "type": "node",
+  "id": 2328401190,
+  "lat": 49.6367669,
+  "lon": 16.2259592
+},
+{
+  "type": "node",
+  "id": 2328401191,
+  "lat": 49.6367475,
+  "lon": 16.2261371
+},
+{
+  "type": "node",
+  "id": 2328401192,
+  "lat": 49.6367567,
+  "lon": 16.2260533
+},
+{
+  "type": "node",
+  "id": 1343643289,
+  "lat": 49.6304378,
+  "lon": 16.3435341
+},
+{
+  "type": "node",
+  "id": 1343644607,
+  "lat": 49.6305214,
+  "lon": 16.3436270
+},
+{
+  "type": "node",
+  "id": 1343645311,
+  "lat": 49.6304403,
+  "lon": 16.3436289
+},
+{
+  "type": "node",
+  "id": 1343646127,
+  "lat": 49.6305192,
+  "lon": 16.3436933
+},
+{
+  "type": "node",
+  "id": 1343647467,
+  "lat": 49.6305779,
+  "lon": 16.3435371
+},
+{
+  "type": "node",
+  "id": 1343647915,
+  "lat": 49.6305732,
+  "lon": 16.3436936
+},
+{
+  "type": "node",
+  "id": 1180843871,
+  "lat": 49.5553203,
+  "lon": 16.4203467
+},
+{
+  "type": "node",
+  "id": 1180844061,
+  "lat": 49.5553549,
+  "lon": 16.4204822
+},
+{
+  "type": "node",
+  "id": 1180844397,
+  "lat": 49.5554266,
+  "lon": 16.4202780
+},
+{
+  "type": "node",
+  "id": 1180844619,
+  "lat": 49.5552883,
+  "lon": 16.4203941
+},
+{
+  "type": "node",
+  "id": 1180845787,
+  "lat": 49.5553800,
+  "lon": 16.4203154
+},
+{
+  "type": "node",
+  "id": 1180846464,
+  "lat": 49.5553465,
+  "lon": 16.4204343
+},
+{
+  "type": "node",
+  "id": 1180847208,
+  "lat": 49.5554535,
+  "lon": 16.4204414
+},
+{
+  "type": "node",
+  "id": 1180847656,
+  "lat": 49.5553285,
+  "lon": 16.4203901
+},
+{
+  "type": "node",
+  "id": 1180848726,
+  "lat": 49.5553752,
+  "lon": 16.4202928
+},
+{
+  "type": "node",
+  "id": 1180849246,
+  "lat": 49.5552905,
+  "lon": 16.4204445
+},
+{
+  "type": "node",
+  "id": 4439560550,
+  "lat": 49.5554255,
+  "lon": 16.4202992
+},
+{
+  "type": "node",
+  "id": 1291814169,
+  "lat": 49.5461636,
+  "lon": 16.5720397
+},
+{
+  "type": "node",
+  "id": 1291814913,
+  "lat": 49.5459995,
+  "lon": 16.5719240
+},
+{
+  "type": "node",
+  "id": 1291814982,
+  "lat": 49.5462757,
+  "lon": 16.5719662
+},
+{
+  "type": "node",
+  "id": 1291815554,
+  "lat": 49.5459945,
+  "lon": 16.5717904
+},
+{
+  "type": "node",
+  "id": 1291816142,
+  "lat": 49.5459926,
+  "lon": 16.5719933
+},
+{
+  "type": "node",
+  "id": 1291816740,
+  "lat": 49.5459800,
+  "lon": 16.5719188
+},
+{
+  "type": "node",
+  "id": 1291817680,
+  "lat": 49.5462481,
+  "lon": 16.5722239
+},
+{
+  "type": "node",
+  "id": 1291819058,
+  "lat": 49.5461186,
+  "lon": 16.5719561
+},
+{
+  "type": "node",
+  "id": 1291820089,
+  "lat": 49.5460902,
+  "lon": 16.5720212
+},
+{
+  "type": "node",
+  "id": 1291820715,
+  "lat": 49.5461325,
+  "lon": 16.5718275
+},
+{
+  "type": "node",
+  "id": 1291821588,
+  "lat": 49.5458284,
+  "lon": 16.5718489
+},
+{
+  "type": "node",
+  "id": 1291821736,
+  "lat": 49.5460985,
+  "lon": 16.5719514
+},
+{
+  "type": "node",
+  "id": 1291822457,
+  "lat": 49.5459190,
+  "lon": 16.5719737
+},
+{
+  "type": "node",
+  "id": 1291823163,
+  "lat": 49.5458001,
+  "lon": 16.5721049
+},
+{
+  "type": "node",
+  "id": 1291823239,
+  "lat": 49.5461745,
+  "lon": 16.5719404
+},
+{
+  "type": "node",
+  "id": 1291823975,
+  "lat": 49.5459306,
+  "lon": 16.5718756
+},
+{
+  "type": "node",
+  "id": 702729157,
+  "lat": 49.3326202,
+  "lon": 16.8479961
+},
+{
+  "type": "node",
+  "id": 702729158,
+  "lat": 49.3326316,
+  "lon": 16.8480992
+},
+{
+  "type": "node",
+  "id": 702729159,
+  "lat": 49.3326874,
+  "lon": 16.8479787
+},
+{
+  "type": "node",
+  "id": 702729160,
+  "lat": 49.3326988,
+  "lon": 16.8480818
+},
+{
+  "type": "node",
+  "id": 3023107597,
+  "lat": 49.3326115,
+  "lon": 16.8480320
+},
+{
+  "type": "node",
+  "id": 3023107598,
+  "lat": 49.3326157,
+  "lon": 16.8480698
+},
+{
+  "type": "node",
+  "id": 3023107599,
+  "lat": 49.3326394,
+  "lon": 16.8479717
+},
+{
+  "type": "node",
+  "id": 3023107600,
+  "lat": 49.3326550,
+  "lon": 16.8481126
+},
+{
+  "type": "node",
+  "id": 3023107601,
+  "lat": 49.3326640,
+  "lon": 16.8479653
+},
+{
+  "type": "node",
+  "id": 3023107602,
+  "lat": 49.3326796,
+  "lon": 16.8481062
+},
+{
+  "type": "node",
+  "id": 3023107603,
+  "lat": 49.3327033,
+  "lon": 16.8480082
+},
+{
+  "type": "node",
+  "id": 3023107604,
+  "lat": 49.3327075,
+  "lon": 16.8480459
+},
+{
+  "type": "way",
+  "id": 50171106,
+  "nodes": [
+    637788751,
+    637788570,
+    3202765546,
+    637788505,
+    637788655,
+    637788659,
+    3205806821,
+    3202765550,
+    637788751
+  ]
+},
+{
+  "type": "way",
+  "id": 50171124,
+  "nodes": [
+    637788660,
+    637788662,
+    637788664,
+    637788666,
+    637788660
+  ]
+},
+{
+  "type": "way",
+  "id": 50171128,
+  "nodes": [
+    637788756,
+    637788757,
+    637788758,
+    637788759,
+    637788756
+  ]
+}
+
+  ]
+}

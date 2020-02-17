@@ -1,0 +1,874 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-14T18:13:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 488389103,
+  "lat": 61.1781304,
+  "lon": 25.5353717,
+  "tags": {
+    "name": "Suomen Vapaa-ajankalastusmuseo",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 699003060,
+  "lat": 60.9837183,
+  "lon": 25.6621599,
+  "tags": {
+    "addr:city": "Lahti",
+    "addr:country": "FI",
+    "addr:housenumber": "11A",
+    "addr:postcode": "15141",
+    "addr:street": "Vesijärvenkatu",
+    "name": "Lahden taidemuseo",
+    "opening_hours": "Mo-Fr 10:00-17:00; Sa-Su 11:00-17:00",
+    "phone": "+358 3 8144547",
+    "tourism": "museum",
+    "website": "http://www.lahdenmuseot.fi/main.php?id=26&taidemuseo",
+    "wikidata": "Q18346669",
+    "wikipedia": "fi:Lahden taidemuseo"
+  }
+},
+{
+  "type": "node",
+  "id": 783675145,
+  "lat": 60.8073292,
+  "lon": 25.7294251,
+  "tags": {
+    "name": "Orimattilan taidemuseo",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1236992261,
+  "lat": 61.2024369,
+  "lon": 26.0284586,
+  "tags": {
+    "addr:city": "Heinola",
+    "addr:country": "FI",
+    "name": "WPK:n juhlahuoneisto (1891)",
+    "tourism": "museum",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1738914992,
+  "lat": 60.9842331,
+  "lon": 25.6331500,
+  "tags": {
+    "designation": "Cross-country ski museum",
+    "name": "Hiihtomuseo",
+    "source": "http://www.lahdenmuseot.fi/museot/en/ski-museum/",
+    "tourism": "museum",
+    "wikidata": "Q18346670",
+    "wikipedia": "fi:Hiihtomuseo"
+  }
+},
+{
+  "type": "node",
+  "id": 2516084097,
+  "lat": 60.9339208,
+  "lon": 26.4035962,
+  "tags": {
+    "addr:city": "Iitti",
+    "addr:housenumber": "8",
+    "addr:postcode": "47520",
+    "addr:street": "Museotie",
+    "name": "Iitin kotiseutumuseo",
+    "opening_hours": "we-fr 13:00-19:00; sa 12:00-15:00; su 12:00-17:00; mo-tu off",
+    "tourism": "museum",
+    "website": "https://www.iitti.fi/kulttuuri/museot.html"
+  }
+},
+{
+  "type": "node",
+  "id": 3665201108,
+  "lat": 61.2162036,
+  "lon": 25.4847193,
+  "tags": {
+    "addr:city": "Asikkala",
+    "addr:housenumber": "16",
+    "addr:postcode": "17320",
+    "addr:street": "Haravamäentie",
+    "name": "Asikkalan kotiseutumuseo",
+    "opening_hours": "We-Sa 12-18; Su 11-15",
+    "operator": "Asikkalan kotiseutuyhdistys",
+    "phone": "040 755 1309",
+    "source": "http://www.phmuseomatka.fi/index.php/fi/asikkala/asikkalan-kotiseutumuseo",
+    "tourism": "museum",
+    "website": "https://www.facebook.com/AsikkalanKotiseutumuseo"
+  }
+},
+{
+  "type": "node",
+  "id": 5417788024,
+  "lat": 61.0083281,
+  "lon": 25.6505547,
+  "tags": {
+    "addr:housenumber": "1",
+    "addr:postcode": "151140",
+    "addr:street": "Veistämönkatu",
+    "email": "Lahti@moottoripyoramuseo.fi",
+    "name": "Suomen Moottoripyörämuseo Oy",
+    "name:en": "Motorcycle Museum",
+    "name:ru": "Мото-музей",
+    "opening_hours": "Mo-Su 10:00-18:00",
+    "phone": "+358400712310",
+    "tourism": "museum",
+    "website": "http://moottoripyoramuseo.fi"
+  }
+},
+{
+  "type": "node",
+  "id": 6909704580,
+  "lat": 60.9639368,
+  "lon": 25.6225308,
+  "tags": {
+    "name": "Sotilaslääketieteenmuseo",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 46034463,
+  "nodes": [
+    586514897,
+    586514903,
+    586514894,
+    586514909,
+    586514899,
+    586514912,
+    586514901,
+    586514910,
+    586514897
+  ],
+  "tags": {
+    "building": "yes",
+    "designation": "Lahti city museum, Fellman mason",
+    "name": "Lahden kaupunginmuseo, Fellmanin kartano",
+    "tourism": "museum",
+    "wikidata": "Q11874369",
+    "wikipedia": "fi:Lahden kaupunginmuseo"
+  }
+},
+{
+  "type": "way",
+  "id": 46048151,
+  "nodes": [
+    587181890,
+    587181895,
+    587181899,
+    4735123010,
+    587181893,
+    587181890
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Radio- ja tv-museo",
+    "opening_hours": "Mo-Fr 10:00-17:00; Sa-Su 11:00-17:00",
+    "phone": "+358-3-8144512",
+    "tourism": "museum",
+    "wikidata": "Q11889637",
+    "wikipedia": "fi:Radio- ja tv-museo"
+  }
+},
+{
+  "type": "way",
+  "id": 46762178,
+  "nodes": [
+    597629601,
+    597629602,
+    597629603,
+    597629604,
+    597629601
+  ],
+  "tags": {
+    "addr:city": "Lahti",
+    "addr:postcode": "15141",
+    "addr:street": "Pl 74 (Radiomäenkatu 43)",
+    "building": "yes",
+    "designation": "Old Lahti rdio station (Radio- ja tv-museo)",
+    "email": "oh3ac@oh3ac.fi",
+    "name": "Lahden vanha radioasema",
+    "note": "Lahden Radioamatöörikerho talo / Lahti radio amateur club house",
+    "opening_hours": "Mo 18:00-19:00",
+    "operator": "Lahden Radioamatöörikerho ry",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 68290268,
+  "nodes": [
+    822232191,
+    822232013,
+    822231985,
+    822232239,
+    822232191
+  ],
+  "tags": {
+    "addr:city": "Vesivehmaa",
+    "addr:housenumber": "89",
+    "addr:postcode": "17130",
+    "addr:street": "Lentotie",
+    "building": "hangar",
+    "level": "1",
+    "name": "Päijänne Tavastia Aviation Museum",
+    "operator": "Lahden Ilmasilta ry",
+    "tourism": "museum",
+    "website": "https://www.ilmailumuseot.fi/museot/paijat-hameen-ilmailumuseo--paijanne-tavastia-aviation-museum"
+  }
+},
+{
+  "type": "way",
+  "id": 173575553,
+  "nodes": [
+    1843648900,
+    1843648885,
+    1843648879,
+    1843648877,
+    1843648878,
+    1843648889,
+    1843648924,
+    1843648948,
+    1843648949,
+    1843648915,
+    1843648900
+  ],
+  "tags": {
+    "barrier": "fence",
+    "name": "Orimattilan kotiseutumuseo",
+    "operator": "Orimattilan kaupunki",
+    "seasonal": "yes",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 182585086,
+  "nodes": [
+    1929410534,
+    1929410528,
+    1929410457,
+    1929410539,
+    1929410534
+  ],
+  "tags": {
+    "name": "Vääksyn vesimylly- ja piensähkölaitosmuseo",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 211884966,
+  "nodes": [
+    2218224347,
+    2218224352,
+    2218224356,
+    2218224357,
+    2218224347
+  ],
+  "tags": {
+    "addr:city": "Heinola",
+    "addr:housenumber": "14",
+    "addr:street": "Kauppakatu",
+    "building": "yes",
+    "name": "Heinolan kaupunginmuseo",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 211889881,
+  "nodes": [
+    2218264715,
+    2218264717,
+    2218264718,
+    2218264711,
+    2218264715
+  ],
+  "tags": {
+    "addr:housenumber": "4",
+    "addr:postcode": "18100",
+    "addr:street": "Kauppakatu",
+    "building": "yes",
+    "name": "Heinolan taidemuseo",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 212316665,
+  "nodes": [
+    2221839951,
+    2221839923,
+    2221839966,
+    2221839935,
+    2221839938,
+    2221839962,
+    2221839926,
+    2221839961,
+    2221839925,
+    2221839932,
+    2221839951
+  ],
+  "tags": {
+    "barrier": "fence",
+    "name": "Lääninkivalteri Aschanin talo",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 232776065,
+  "nodes": [
+    2410969106,
+    4146700054,
+    4146700055,
+    4146700056,
+    4146700053,
+    2410969565,
+    2410966935,
+    2410966979,
+    2410969106
+  ],
+  "tags": {
+    "addr:city": "Jaala",
+    "addr:housenumber": "75",
+    "addr:street": "Jaalantie",
+    "building": "house",
+    "building:levels": "1",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 259552863,
+  "nodes": [
+    2649802529,
+    2649802527,
+    2649802531,
+    2649802535,
+    2649802529
+  ],
+  "tags": {
+    "addr:city": "Hollola kk",
+    "addr:postcode": "16710",
+    "addr:street": "Rälssintie",
+    "building": "yes",
+    "charge": "5€",
+    "fee": "yes",
+    "name": "Hollolan kotiseutumuseo",
+    "operator": "Hollolan kotiseutuyhdistys",
+    "operator:type": "public",
+    "tourism": "museum",
+    "website": "https://www.hollolankotiseutuyhdistys.fi/museoalue/",
+    "wikidata": "Q18346717",
+    "wikipedia": "fi:Hollolan kotiseutumuseo"
+  }
+},
+{
+  "type": "way",
+  "id": 362597804,
+  "nodes": [
+    3668703588,
+    3668703589,
+    1230753030,
+    3668703590,
+    3668703588
+  ],
+  "tags": {
+    "building": "yes",
+    "description": "Museoon koottu maataloudessa käytettyjä koneita eri aikakausilta",
+    "moved": "no",
+    "name": "Maatalouskonemuseo",
+    "source:desciption": "Asikkalan kotiseutuyhdistys",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 373635390,
+  "nodes": [
+    3770748759,
+    3770748760,
+    3770748761,
+    3770748764,
+    3770748762,
+    3770748763,
+    3770748759
+  ],
+  "tags": {
+    "addr:city": "Artjärvi",
+    "addr:housenumber": "312",
+    "addr:street": "Ratulantie",
+    "name": "Artjärven kotiseutumuseo",
+    "opening_hours": "jun-jul su 12:00-14:00; mo-sa off",
+    "operator": "Artjärven kotiseutuyhdistys",
+    "tourism": "museum",
+    "website": "https://www.orimattila.fi/sivu.php?id=54&sivuid=73"
+  }
+},
+{
+  "type": "node",
+  "id": 1843648877,
+  "lat": 60.8081979,
+  "lon": 25.7387650
+},
+{
+  "type": "node",
+  "id": 1843648878,
+  "lat": 60.8083205,
+  "lon": 25.7384449
+},
+{
+  "type": "node",
+  "id": 1843648879,
+  "lat": 60.8083540,
+  "lon": 25.7389982
+},
+{
+  "type": "node",
+  "id": 1843648885,
+  "lat": 60.8085436,
+  "lon": 25.7391948
+},
+{
+  "type": "node",
+  "id": 1843648889,
+  "lat": 60.8085790,
+  "lon": 25.7380374
+},
+{
+  "type": "node",
+  "id": 1843648900,
+  "lat": 60.8086930,
+  "lon": 25.7393320
+},
+{
+  "type": "node",
+  "id": 1843648915,
+  "lat": 60.8088404,
+  "lon": 25.7394331
+},
+{
+  "type": "node",
+  "id": 1843648924,
+  "lat": 60.8089024,
+  "lon": 25.7375373
+},
+{
+  "type": "node",
+  "id": 1843648948,
+  "lat": 60.8090864,
+  "lon": 25.7382026
+},
+{
+  "type": "node",
+  "id": 1843648949,
+  "lat": 60.8092325,
+  "lon": 25.7387057
+},
+{
+  "type": "node",
+  "id": 3770748759,
+  "lat": 60.7840410,
+  "lon": 26.0416356
+},
+{
+  "type": "node",
+  "id": 3770748760,
+  "lat": 60.7842016,
+  "lon": 26.0424995
+},
+{
+  "type": "node",
+  "id": 3770748761,
+  "lat": 60.7836157,
+  "lon": 26.0431675
+},
+{
+  "type": "node",
+  "id": 3770748762,
+  "lat": 60.7834821,
+  "lon": 26.0423463
+},
+{
+  "type": "node",
+  "id": 3770748763,
+  "lat": 60.7837836,
+  "lon": 26.0416934
+},
+{
+  "type": "node",
+  "id": 3770748764,
+  "lat": 60.7835603,
+  "lon": 26.0428270
+},
+{
+  "type": "node",
+  "id": 2649802527,
+  "lat": 61.0519630,
+  "lon": 25.4291676
+},
+{
+  "type": "node",
+  "id": 2649802529,
+  "lat": 61.0520330,
+  "lon": 25.4290637
+},
+{
+  "type": "node",
+  "id": 2649802531,
+  "lat": 61.0520728,
+  "lon": 25.4294835
+},
+{
+  "type": "node",
+  "id": 2649802535,
+  "lat": 61.0521428,
+  "lon": 25.4293796
+},
+{
+  "type": "node",
+  "id": 1929410457,
+  "lat": 61.1760644,
+  "lon": 25.5341661
+},
+{
+  "type": "node",
+  "id": 1929410528,
+  "lat": 61.1760998,
+  "lon": 25.5343131
+},
+{
+  "type": "node",
+  "id": 1929410534,
+  "lat": 61.1762152,
+  "lon": 25.5341935
+},
+{
+  "type": "node",
+  "id": 1929410539,
+  "lat": 61.1761798,
+  "lon": 25.5340465
+},
+{
+  "type": "node",
+  "id": 1230753030,
+  "lat": 61.2146740,
+  "lon": 25.4864508
+},
+{
+  "type": "node",
+  "id": 3668703588,
+  "lat": 61.2143089,
+  "lon": 25.4860639
+},
+{
+  "type": "node",
+  "id": 3668703589,
+  "lat": 61.2142885,
+  "lon": 25.4863169
+},
+{
+  "type": "node",
+  "id": 3668703590,
+  "lat": 61.2146944,
+  "lon": 25.4861977
+},
+{
+  "type": "node",
+  "id": 587181890,
+  "lat": 60.9795011,
+  "lon": 25.6485452
+},
+{
+  "type": "node",
+  "id": 587181893,
+  "lat": 60.9792022,
+  "lon": 25.6485581
+},
+{
+  "type": "node",
+  "id": 587181895,
+  "lat": 60.9795070,
+  "lon": 25.6489220
+},
+{
+  "type": "node",
+  "id": 587181899,
+  "lat": 60.9792081,
+  "lon": 25.6489349
+},
+{
+  "type": "node",
+  "id": 597629601,
+  "lat": 60.9791803,
+  "lon": 25.6461938
+},
+{
+  "type": "node",
+  "id": 597629602,
+  "lat": 60.9792910,
+  "lon": 25.6463250
+},
+{
+  "type": "node",
+  "id": 597629603,
+  "lat": 60.9794154,
+  "lon": 25.6458574
+},
+{
+  "type": "node",
+  "id": 597629604,
+  "lat": 60.9793131,
+  "lon": 25.6457319
+},
+{
+  "type": "node",
+  "id": 4735123010,
+  "lat": 60.9792058,
+  "lon": 25.6487551
+},
+{
+  "type": "node",
+  "id": 586514894,
+  "lat": 60.9856573,
+  "lon": 25.6510238
+},
+{
+  "type": "node",
+  "id": 586514897,
+  "lat": 60.9855215,
+  "lon": 25.6508933
+},
+{
+  "type": "node",
+  "id": 586514899,
+  "lat": 60.9857274,
+  "lon": 25.6511819
+},
+{
+  "type": "node",
+  "id": 586514901,
+  "lat": 60.9857362,
+  "lon": 25.6516024
+},
+{
+  "type": "node",
+  "id": 586514903,
+  "lat": 60.9856411,
+  "lon": 25.6510703
+},
+{
+  "type": "node",
+  "id": 586514909,
+  "lat": 60.9857399,
+  "lon": 25.6511460
+},
+{
+  "type": "node",
+  "id": 586514910,
+  "lat": 60.9854316,
+  "lon": 25.6511517
+},
+{
+  "type": "node",
+  "id": 586514912,
+  "lat": 60.9858298,
+  "lon": 25.6513334
+},
+{
+  "type": "node",
+  "id": 822231985,
+  "lat": 61.1442535,
+  "lon": 25.6874353
+},
+{
+  "type": "node",
+  "id": 822232013,
+  "lat": 61.1446154,
+  "lon": 25.6873741
+},
+{
+  "type": "node",
+  "id": 822232191,
+  "lat": 61.1445983,
+  "lon": 25.6869388
+},
+{
+  "type": "node",
+  "id": 822232239,
+  "lat": 61.1442363,
+  "lon": 25.6870000
+},
+{
+  "type": "node",
+  "id": 2218264711,
+  "lat": 61.2022277,
+  "lon": 26.0292635
+},
+{
+  "type": "node",
+  "id": 2218264715,
+  "lat": 61.2023283,
+  "lon": 26.0293474
+},
+{
+  "type": "node",
+  "id": 2218264717,
+  "lat": 61.2024286,
+  "lon": 26.0288295
+},
+{
+  "type": "node",
+  "id": 2218264718,
+  "lat": 61.2023280,
+  "lon": 26.0287456
+},
+{
+  "type": "node",
+  "id": 2221839923,
+  "lat": 61.2030813,
+  "lon": 26.0262736
+},
+{
+  "type": "node",
+  "id": 2221839925,
+  "lat": 61.2034676,
+  "lon": 26.0264470
+},
+{
+  "type": "node",
+  "id": 2221839926,
+  "lat": 61.2033562,
+  "lon": 26.0270580
+},
+{
+  "type": "node",
+  "id": 2221839932,
+  "lat": 61.2034138,
+  "lon": 26.0264047
+},
+{
+  "type": "node",
+  "id": 2221839935,
+  "lat": 61.2029868,
+  "lon": 26.0267559
+},
+{
+  "type": "node",
+  "id": 2221839938,
+  "lat": 61.2031964,
+  "lon": 26.0269351
+},
+{
+  "type": "node",
+  "id": 2221839951,
+  "lat": 61.2031041,
+  "lon": 26.0261527
+},
+{
+  "type": "node",
+  "id": 2221839961,
+  "lat": 61.2034305,
+  "lon": 26.0266507
+},
+{
+  "type": "node",
+  "id": 2221839962,
+  "lat": 61.2033363,
+  "lon": 26.0270434
+},
+{
+  "type": "node",
+  "id": 2221839966,
+  "lat": 61.2030330,
+  "lon": 26.0265309
+},
+{
+  "type": "node",
+  "id": 2218224347,
+  "lat": 61.2015640,
+  "lon": 26.0327442
+},
+{
+  "type": "node",
+  "id": 2218224352,
+  "lat": 61.2016685,
+  "lon": 26.0328298
+},
+{
+  "type": "node",
+  "id": 2218224356,
+  "lat": 61.2015926,
+  "lon": 26.0332295
+},
+{
+  "type": "node",
+  "id": 2218224357,
+  "lat": 61.2014880,
+  "lon": 26.0331439
+},
+{
+  "type": "node",
+  "id": 2410966979,
+  "lat": 61.0498213,
+  "lon": 26.4764753
+},
+{
+  "type": "node",
+  "id": 2410966935,
+  "lat": 61.0497388,
+  "lon": 26.4767496
+},
+{
+  "type": "node",
+  "id": 2410969106,
+  "lat": 61.0499014,
+  "lon": 26.4765781
+},
+{
+  "type": "node",
+  "id": 2410969565,
+  "lat": 61.0498182,
+  "lon": 26.4768515
+},
+{
+  "type": "node",
+  "id": 4146700053,
+  "lat": 61.0498489,
+  "lon": 26.4767495
+},
+{
+  "type": "node",
+  "id": 4146700054,
+  "lat": 61.0498768,
+  "lon": 26.4766602
+},
+{
+  "type": "node",
+  "id": 4146700055,
+  "lat": 61.0498890,
+  "lon": 26.4766758
+},
+{
+  "type": "node",
+  "id": 4146700056,
+  "lat": 61.0498618,
+  "lon": 26.4767661
+}
+
+  ]
+}

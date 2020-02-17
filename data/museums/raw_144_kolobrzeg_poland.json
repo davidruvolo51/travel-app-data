@@ -1,0 +1,478 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-14T12:10:01Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 838456021,
+  "lat": 54.0048605,
+  "lon": 15.9897551,
+  "tags": {
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1183160090,
+  "lat": 54.1743860,
+  "lon": 15.5743864,
+  "tags": {
+    "email": "wystawy@muzeum.kolobrzeg.pl",
+    "name": "Muzeum Oręża Polskiego",
+    "opening_hours": "Tu-Su 09:00-16:00",
+    "phone": "+48 94 35 212 88",
+    "tourism": "museum",
+    "website": "www.muzeum.kolobrzeg.pl",
+    "wheelchair": "yes",
+    "wikidata": "Q6940993",
+    "wikipedia": "pl:Muzeum Oręża Polskiego w Kołobrzegu"
+  }
+},
+{
+  "type": "node",
+  "id": 2154769448,
+  "lat": 54.1773223,
+  "lon": 15.5599647,
+  "tags": {
+    "email": "wystawy@muzeum.kolobrzeg.pl",
+    "fee": "yes",
+    "fee:amount": "15 zt",
+    "name": "Kołobrzeski Skansen Morski",
+    "name:de": "Freilicht Meeresmuseum",
+    "name:en": "Open Air Maritime Museum",
+    "phone": "48 94 35 212 88",
+    "tourism": "museum",
+    "website": "http://www.muzeum.kolobrzeg.pl/wokol-muzeum/oddzialy-muzeum/18-oddzial-skansen-morski"
+  }
+},
+{
+  "type": "node",
+  "id": 3037699153,
+  "lat": 54.0634401,
+  "lon": 15.2707914,
+  "tags": {
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3417355952,
+  "lat": 54.1760520,
+  "lon": 15.5761193,
+  "tags": {
+    "name": "Patria Colbergiensis",
+    "opening_hours": "Mo-Su 10:00-17:00",
+    "tourism": "museum",
+    "website": "http://www.colbergiensis.eu",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4426764592,
+  "lat": 54.1863729,
+  "lon": 15.5543411,
+  "tags": {
+    "description": "muzeum w podziemiach Latarni Morskiej",
+    "email": "agatszlif@wp.pl",
+    "location": "underground",
+    "name": "Muzeum Minerałów",
+    "opening_hours": "Nov-Mar 11:00-16:00; Apr-Jun 10:00-17:00; Jul-Aug 10:00-20:00; Sep-Oct 10:00-17:00",
+    "phone": "+48 607 872 022",
+    "source": "survey",
+    "tourism": "museum",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 124439109,
+  "nodes": [
+    1385200124,
+    1385200102,
+    4029497806,
+    4029497810,
+    4029497808,
+    4029497803,
+    4029497799,
+    4029497807,
+    4029497800,
+    1385200104,
+    4029497798,
+    2610440634,
+    4029497795,
+    1385200098,
+    4029497794,
+    4029497793,
+    4029497796,
+    4029497797,
+    1385200124
+  ],
+  "tags": {
+    "addr:city": "Kołobrzeg",
+    "addr:housenumber": "13",
+    "addr:postcode": "78-100",
+    "addr:street": "Armii Krajowej",
+    "building": "public",
+    "building:levels": "3",
+    "roof:colour": "darksalmon",
+    "roof:height": "4",
+    "roof:levels": "1",
+    "roof:shape": "gabled",
+    "source": "local knowledge",
+    "tourism": "museum",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 294774523,
+  "nodes": [
+    2983939574,
+    2983939577,
+    2983939576,
+    3026983698,
+    3026983700,
+    2983939573,
+    2983939574
+  ],
+  "tags": {
+    "building": "retail",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 619188859,
+  "nodes": [
+    5859144111,
+    5859144110,
+    5851575053,
+    5851575052,
+    5851575051,
+    5851575049,
+    5851575045,
+    5851575044,
+    5901269661,
+    5901269662,
+    5851575043,
+    5859144111
+  ],
+  "tags": {
+    "addr:city": "Rogowo",
+    "addr:country": "PL",
+    "addr:housenumber": "8",
+    "addr:postcode": "72-330",
+    "addr:street": "Hangarowa",
+    "email": "fort.rogowo@op.pl",
+    "name": "Muzeum Lotnictwa i Techniki Militarnej w Rogowie",
+    "name:en": "Aircraft nad Militar Museum in Rogowo",
+    "note": "działka nr 376/63 Mrzeżyno-3 (własność powiatu kołobrzeskiego) – Uchwała Nr LIII/450/18 Rady Miejskiej w Trzebiatowie z dnia 30 sierpnia 2018 r. w sprawie sprzedaży nieruchomości położonej na terenie gminy Trzebiatów",
+    "opening_hours": "Mo-Fr 12:00-17:00",
+    "phone": "+48 889 955228",
+    "source:geometry": "WMS Geoportal powiatowy 3205 gryficki http://188.112.63.47/cgi-bin/gryfice",
+    "tourism": "museum",
+    "website": "https://muzeum-lotnictwa-i-techniki-militarnej-w-rogowie.business.site/"
+  }
+},
+{
+  "type": "way",
+  "id": 686357548,
+  "nodes": [
+    6433276741,
+    6433276728,
+    6433276740,
+    6433276739,
+    6433276738,
+    6433276737,
+    6433276736,
+    6433276735,
+    6433276734,
+    6433276741
+  ],
+  "tags": {
+    "addr:city": "Niechorze",
+    "addr:housenumber": "28",
+    "addr:postcode": "72-350",
+    "addr:street": "Aleja Bursztynowa",
+    "name": "Muzeum Rybołówstwa Morskiego",
+    "opening_hours": "Mo-Su 10:00-18:00",
+    "phone": "+48 91 38 63 250",
+    "tourism": "museum",
+    "website": "http://muzeumniechorze.pl",
+    "wikidata": "Q11787199",
+    "wikipedia": "pl:Muzeum Rybołówstwa Morskiego w Niechorzu"
+  }
+},
+{
+  "type": "node",
+  "id": 6433276728,
+  "lat": 54.0951660,
+  "lon": 15.0861175
+},
+{
+  "type": "node",
+  "id": 6433276734,
+  "lat": 54.0955029,
+  "lon": 15.0856538
+},
+{
+  "type": "node",
+  "id": 6433276735,
+  "lat": 54.0955087,
+  "lon": 15.0856862
+},
+{
+  "type": "node",
+  "id": 6433276736,
+  "lat": 54.0955210,
+  "lon": 15.0856835
+},
+{
+  "type": "node",
+  "id": 6433276741,
+  "lat": 54.0951491,
+  "lon": 15.0857245
+},
+{
+  "type": "node",
+  "id": 6433276737,
+  "lat": 54.0956539,
+  "lon": 15.0864662
+},
+{
+  "type": "node",
+  "id": 6433276738,
+  "lat": 54.0956386,
+  "lon": 15.0864694
+},
+{
+  "type": "node",
+  "id": 6433276739,
+  "lat": 54.0956447,
+  "lon": 15.0865073
+},
+{
+  "type": "node",
+  "id": 6433276740,
+  "lat": 54.0951872,
+  "lon": 15.0865752
+},
+{
+  "type": "node",
+  "id": 5851575043,
+  "lat": 54.1490242,
+  "lon": 15.3314523
+},
+{
+  "type": "node",
+  "id": 5851575044,
+  "lat": 54.1484731,
+  "lon": 15.3315923
+},
+{
+  "type": "node",
+  "id": 5851575045,
+  "lat": 54.1482955,
+  "lon": 15.3316377
+},
+{
+  "type": "node",
+  "id": 5851575049,
+  "lat": 54.1485396,
+  "lon": 15.3341625
+},
+{
+  "type": "node",
+  "id": 5901269661,
+  "lat": 54.1485024,
+  "lon": 15.3319254
+},
+{
+  "type": "node",
+  "id": 5901269662,
+  "lat": 54.1490533,
+  "lon": 15.3317846
+},
+{
+  "type": "node",
+  "id": 5851575051,
+  "lat": 54.1494579,
+  "lon": 15.3339477
+},
+{
+  "type": "node",
+  "id": 5851575052,
+  "lat": 54.1492953,
+  "lon": 15.3322662
+},
+{
+  "type": "node",
+  "id": 5851575053,
+  "lat": 54.1493868,
+  "lon": 15.3322437
+},
+{
+  "type": "node",
+  "id": 5859144110,
+  "lat": 54.1493241,
+  "lon": 15.3316106
+},
+{
+  "type": "node",
+  "id": 5859144111,
+  "lat": 54.1491689,
+  "lon": 15.3314145
+},
+{
+  "type": "node",
+  "id": 1385200098,
+  "lat": 54.1769319,
+  "lon": 15.5741855
+},
+{
+  "type": "node",
+  "id": 1385200102,
+  "lat": 54.1771806,
+  "lon": 15.5740299
+},
+{
+  "type": "node",
+  "id": 1385200104,
+  "lat": 54.1770653,
+  "lon": 15.5743702
+},
+{
+  "type": "node",
+  "id": 1385200124,
+  "lat": 54.1770804,
+  "lon": 15.5738928
+},
+{
+  "type": "node",
+  "id": 2610440634,
+  "lat": 54.1770312,
+  "lon": 15.5743302
+},
+{
+  "type": "node",
+  "id": 4029497793,
+  "lat": 54.1769799,
+  "lon": 15.5740880
+},
+{
+  "type": "node",
+  "id": 4029497794,
+  "lat": 54.1769816,
+  "lon": 15.5740908
+},
+{
+  "type": "node",
+  "id": 4029497795,
+  "lat": 54.1770257,
+  "lon": 15.5743223
+},
+{
+  "type": "node",
+  "id": 4029497796,
+  "lat": 54.1770306,
+  "lon": 15.5739863
+},
+{
+  "type": "node",
+  "id": 4029497797,
+  "lat": 54.1770324,
+  "lon": 15.5739889
+},
+{
+  "type": "node",
+  "id": 4029497798,
+  "lat": 54.1770340,
+  "lon": 15.5743245
+},
+{
+  "type": "node",
+  "id": 4029497799,
+  "lat": 54.1770686,
+  "lon": 15.5742522
+},
+{
+  "type": "node",
+  "id": 4029497800,
+  "lat": 54.1770840,
+  "lon": 15.5743935
+},
+{
+  "type": "node",
+  "id": 4029497803,
+  "lat": 54.1770920,
+  "lon": 15.5741997
+},
+{
+  "type": "node",
+  "id": 4029497806,
+  "lat": 54.1771179,
+  "lon": 15.5741493
+},
+{
+  "type": "node",
+  "id": 4029497807,
+  "lat": 54.1771197,
+  "lon": 15.5743220
+},
+{
+  "type": "node",
+  "id": 4029497808,
+  "lat": 54.1771315,
+  "lon": 15.5742535
+},
+{
+  "type": "node",
+  "id": 4029497810,
+  "lat": 54.1771552,
+  "lon": 15.5742035
+},
+{
+  "type": "node",
+  "id": 2983939573,
+  "lat": 54.2006495,
+  "lon": 15.7419854
+},
+{
+  "type": "node",
+  "id": 2983939574,
+  "lat": 54.2006702,
+  "lon": 15.7421227
+},
+{
+  "type": "node",
+  "id": 2983939576,
+  "lat": 54.2008036,
+  "lon": 15.7418117
+},
+{
+  "type": "node",
+  "id": 2983939577,
+  "lat": 54.2008392,
+  "lon": 15.7420484
+},
+{
+  "type": "node",
+  "id": 3026983698,
+  "lat": 54.2007249,
+  "lon": 15.7418463
+},
+{
+  "type": "node",
+  "id": 3026983700,
+  "lat": 54.2007398,
+  "lon": 15.7419457
+}
+
+  ]
+}

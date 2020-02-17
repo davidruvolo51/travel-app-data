@@ -1,0 +1,4317 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-14T19:13:01Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 599655454,
+  "lat": 59.4405333,
+  "lon": 24.7475817,
+  "tags": {
+    "museum": "history",
+    "name": "KGB vangikongid",
+    "name:be": "Былы будынак КДБ",
+    "name:de": "Ehemalige KGB-Gefängniszellen",
+    "name:en": "KGB Prison Cells",
+    "name:ru": "Бывшее здание КГБ",
+    "opening_hours": "Mo-Su 10:00-18:00",
+    "operator": "Okupatsioonide muuseum",
+    "tourism": "museum",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 600228722,
+  "lat": 59.4377315,
+  "lon": 24.7459364,
+  "tags": {
+    "address": "MTÜ Revali Raeapteegi Muuseum, Raekoja plats 11, Tallinn 10146",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Raeapteek",
+    "name:de": "Ratsapotheke",
+    "name:en": "Town Hall Pharmacy",
+    "name:fi": "Kaupungintalon apteekki",
+    "name:it": "Farmacia Municipale",
+    "name:ru": "Ратушная аптека",
+    "name:sv": "Rådhusapoteket",
+    "note": "Changed \"historic = museum\" (deprecated) to \"tourism = museum\" and added the shop tag.",
+    "opening_hours": "Mo-Sa 10:00-18:00",
+    "phone": "+372 6314860",
+    "shop": "medical_supply",
+    "source": "http://www.muuseum.ee/et/muuseumid",
+    "tourism": "museum",
+    "website": "http://www.raeapteek.ee/",
+    "wikidata": "Q1841234",
+    "wikipedia": "et:Raeapteek"
+  }
+},
+{
+  "type": "node",
+  "id": 649892004,
+  "lat": 59.4375188,
+  "lon": 24.7460601,
+  "tags": {
+    "addr:city": "Tallinn",
+    "addr:housenumber": "14",
+    "addr:postcode": "10146",
+    "addr:street": "Raekoja plats",
+    "amenity": "community_centre",
+    "name": "Tallinna Õpetajate Maja",
+    "name:en": "Tallinn Teachers' House",
+    "phone": "+372 615 5161",
+    "tourism": "museum",
+    "website": "www.opetajatemaja.ee"
+  }
+},
+{
+  "type": "node",
+  "id": 649898434,
+  "lat": 59.4370585,
+  "lon": 24.7526693,
+  "tags": {
+    "addr:city": "Tallinn",
+    "addr:housenumber": "14",
+    "addr:street": "Vana-Viru",
+    "name": "Tuletõrjemuuseum",
+    "name:be": "Эстонскі музей пажарнай аховы",
+    "name:fi": "Palomuseo",
+    "name:ru": "Эстонский музей пожарной охраны",
+    "tourism": "museum",
+    "website": "http://www.tuletorjemuuseum.ee"
+  }
+},
+{
+  "type": "node",
+  "id": 655291554,
+  "lat": 59.4397098,
+  "lon": 24.7451628,
+  "tags": {
+    "addr:city": "Tallinn",
+    "addr:postcode": "10133",
+    "addr:street": "Lai",
+    "name": "Tarbekunsti- ja Disainimuuseum",
+    "name:be": "Музей мастацтва і дызайна",
+    "name:de": "Estnisches Museum für angewandte Kunst und Design",
+    "name:en": "Applied Art and Design Museum",
+    "name:et": "Tarbekunsti- ja Disainimuuseum",
+    "name:fi": "Taideoteollinen- ja muotoilumuseo",
+    "name:ru": "Музей декоративно-прикладного искусства и дизайна",
+    "phone": "+372 627 4600",
+    "tourism": "museum",
+    "website": "http://www.etdm.ee"
+  }
+},
+{
+  "type": "node",
+  "id": 679898565,
+  "lat": 59.4377871,
+  "lon": 24.7785715,
+  "tags": {
+    "address": "Koidula 12a, 10125 Tallinn",
+    "muuseum_id": "39",
+    "name": "A. H. Tammsaare Muuseum Tallinnas",
+    "name:en": "A. H. Tammsaare Museum in Tallinn",
+    "opening_hours": "We-Mo 10:00-17:00",
+    "phone": "+3726013232",
+    "source": "http://www.muuseum.ee/et/muuseumid",
+    "tourism": "museum",
+    "url": "www.linnamuuseum.ee/tammsaare",
+    "wheelchair": "no",
+    "wikidata": "Q12357985",
+    "wikipedia": "et:A. H. Tammsaare muuseum (Tallinn)"
+  }
+},
+{
+  "type": "node",
+  "id": 687056968,
+  "lat": 59.4394945,
+  "lon": 24.7454605,
+  "tags": {
+    "addr:city": "Tallinn",
+    "addr:housenumber": "30",
+    "addr:postcode": "10133",
+    "addr:street": "Lai",
+    "address": "Lai 28/30, 10133 Tallinn",
+    "muuseum_id": "26",
+    "name": "Eesti Tervishoiu Muuseum",
+    "name:be": "Эстонскі музей аховы здароўя",
+    "name:de": "Estnisches Museum für Gesundheitswesen",
+    "name:en": "Estonian Healthcare Museum",
+    "name:et": "Eesti Tervishoiu Muuseum",
+    "name:fi": "Viron terveydenhuollonmuseo",
+    "name:ru": "Эстонский музей здравоохранения",
+    "opening_hours": "Tu-Sa 11:00-18:00",
+    "phone": "+372 6 411 732",
+    "source": "http://tervishoiumuuseum.ee/",
+    "tourism": "museum",
+    "url": "http://www.tervishoiumuuseum.ee",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 687057070,
+  "lat": 59.3134316,
+  "lon": 24.4117333,
+  "tags": {
+    "addr:housenumber": "1",
+    "addr:street": "Ehitajate tee",
+    "fixme": "olemasolu kontroll peale põhja tänavalt ärakolimist",
+    "muuseum_id": "539",
+    "name": "Keila Kooli Muuseum",
+    "source": "http://www.muuseum.ee/et/muuseumid",
+    "tourism": "museum",
+    "url": "http://www.keilakool.ee"
+  }
+},
+{
+  "type": "node",
+  "id": 687057097,
+  "lat": 59.3039737,
+  "lon": 24.4396569,
+  "tags": {
+    "address": "Linnuse 9, 76 608 Keila, Harju maakond",
+    "muuseum_id": "51",
+    "name": "Harjumaa Muuseum",
+    "name:en": "Harju County Museum",
+    "opening_hours": "We-Su 11:00-16:00",
+    "phone": "+372 6781668",
+    "source": "http://www.muuseum.ee/et/muuseumid",
+    "tourism": "museum",
+    "url": "http://www.muuseum.harju.ee"
+  }
+},
+{
+  "type": "node",
+  "id": 687057149,
+  "lat": 59.5432813,
+  "lon": 24.5475036,
+  "tags": {
+    "address": "Männiku küla, Männiku tee 10, Naissaar, 74001 Harjumaa",
+    "museum": "local",
+    "muuseum_id": "574",
+    "name": "Naissaare Muuseum",
+    "name:en": "Naissaare Museum",
+    "opening_hours": "Kokkuleppel",
+    "phone": "+372 6066941",
+    "source": "http://www.muuseum.ee/et/muuseumid",
+    "tourism": "museum",
+    "url": "http://www.rannarahvamuuseum.ee"
+  }
+},
+{
+  "type": "node",
+  "id": 687057167,
+  "lat": 59.2587040,
+  "lon": 24.6631266,
+  "tags": {
+    "address": "Metsanurme küla, Saku vald, 75506 Harjumaa",
+    "muuseum_id": "551",
+    "name": "Rehemetsa koduloomuuseum-külastuskeskus",
+    "source": "http://www.muuseum.ee/et/muuseumid",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 687057184,
+  "lat": 59.1596579,
+  "lon": 24.6520630,
+  "tags": {
+    "address": "Hageri, 79701 Kohila vald, Rapla maakond",
+    "muuseum_id": "170",
+    "name": "Hageri Muuseum",
+    "name:en": "Hageri Museum",
+    "opening_hours": "Tu-th 11:00-16:00 || \"by appointment\"",
+    "phone": "+372 4894794",
+    "source": "http://www.muuseum.ee/et/muuseumid",
+    "tourism": "museum",
+    "url": "http://www.kohila.ee"
+  }
+},
+{
+  "type": "node",
+  "id": 687057195,
+  "lat": 59.3000655,
+  "lon": 24.6679036,
+  "tags": {
+    "address": "Tallinna mnt 2, Saku 75501, Harjumaa",
+    "museum": "food",
+    "muuseum_id": "65",
+    "name": "Õllemuuseum Saku Pruulikoda",
+    "name:en": "Beer Museum Saku Brewery",
+    "name:et": "Õllemuuseum Saku Pruulikoda",
+    "phone": "+372 6508400",
+    "source": "http://www.muuseum.ee/et/muuseumid",
+    "tourism": "museum",
+    "url": "http://www.saku.ee"
+  }
+},
+{
+  "type": "node",
+  "id": 687057209,
+  "lat": 59.2676499,
+  "lon": 24.6637118,
+  "tags": {
+    "address": "Rehemetsa, Metsanurme küla, Saku vald, 75503 Harju maakond",
+    "museum": "local",
+    "muuseum_id": "56",
+    "name": "Metsanurme Koduloomuuseum",
+    "name:en": "Metsanurme Local Lore Museum",
+    "phone": "+372 5054832",
+    "source": "http://www.muuseum.ee/et/muuseumid",
+    "tourism": "museum",
+    "website": "http://www.metsanurme.eu/Kulakeskus-koduloomuuseum",
+    "wikidata": "Q16412785",
+    "wikipedia": "et:Metsanurme koduloomuuseum"
+  }
+},
+{
+  "type": "node",
+  "id": 687057225,
+  "lat": 59.2270265,
+  "lon": 24.7136653,
+  "tags": {
+    "address": "Tagadi tee 1, Kurtna, Saku vald, 75503 Harju maakond",
+    "muuseum_id": "57",
+    "name": "Mootorrattamuuseum",
+    "name:en": "Motorcycle Museum",
+    "opening_hours": "We, Sa-Su 11:00-20:00",
+    "source": "http://www.muuseum.ee/et/muuseumid",
+    "tourism": "museum",
+    "url": "http://www.teearu.ee/index.php?page=11"
+  }
+},
+{
+  "type": "node",
+  "id": 687057251,
+  "lat": 59.3889920,
+  "lon": 24.9407816,
+  "tags": {
+    "address": "Külma park, 75303 Lagedi, Rae vald, Harju maakond",
+    "muuseum_id": "50",
+    "name": "Eesti Vabadusvõitluse Muuseum Lagedil",
+    "name:en": "Estonian Liberation Movement Museum at Lagedi",
+    "opening_hours": "Mo-Su 09:00-19:00",
+    "phone": "+372-6-766197",
+    "source": "http://www.hot.ee/vvmuuseum/",
+    "tourism": "museum",
+    "url": "http://vabadusvoitlus.ee/meie-asukoht/"
+  }
+},
+{
+  "type": "node",
+  "id": 687057300,
+  "lat": 59.3829546,
+  "lon": 24.6333569,
+  "tags": {
+    "address": "Kalda 7c, 11625 Tallinn",
+    "muuseum_id": "49",
+    "name": "Ühiskaubandusmuuseum",
+    "name:en": "Cooperative Trade Museum",
+    "opening_hours": "Tu-We 12:00-16:00; Th 09:00-12:00; \"Muul ajal etteteatamisel\"",
+    "phone": "+372 6710500",
+    "source": "http://www.muuseum.ee/et/muuseumid",
+    "tourism": "museum",
+    "url": "http://www.etk.ee/index.php?leht=126"
+  }
+},
+{
+  "type": "node",
+  "id": 687057367,
+  "lat": 59.4331402,
+  "lon": 24.7392739,
+  "tags": {
+    "address": "Toompea 8, 10142 Tallinn",
+    "muuseum_id": "577",
+    "name": "Kaitseliidu Muuseum",
+    "name:be": "Музей Лігі Абароны",
+    "name:de": "Verteidigungsbundmuseum",
+    "name:en": "Museum of Defence League",
+    "name:et": "Kaitseliidu Muuseum",
+    "opening_hours": "Mo-Th 9:00-17:00; Fr 9:00-14:00",
+    "phone": "+372 7179007",
+    "source": "http://www.muuseum.ee/et/muuseumid",
+    "tourism": "museum",
+    "website": "http://www.kaitseliit.ee/index.php?op=body&cat_id=279"
+  }
+},
+{
+  "type": "node",
+  "id": 687057382,
+  "lat": 59.4325998,
+  "lon": 24.7394227,
+  "tags": {
+    "addr:city": "Tallinn",
+    "addr:country": "EE",
+    "addr:housenumber": "8",
+    "addr:postcode": "10142",
+    "addr:street": "Toompea",
+    "email": "muuseum@okupatsioon.ee",
+    "muuseum_id": "20",
+    "name": "Okupatsioonide muuseum",
+    "name:be": "Музей акупацыі",
+    "name:de": "Okkupationsmuseum",
+    "name:en": "Museum of Occupations",
+    "name:et": "Okupatsioonide muuseum",
+    "name:fi": "Miehitysmuseo",
+    "opening_hours": "Tu-Su 11:00-18:00",
+    "phone": "+372 668 0250",
+    "source": "http://www.muuseum.ee/et/muuseumid",
+    "tourism": "museum",
+    "website": "http://www.okupatsioon.ee",
+    "wikidata": "Q625590"
+  }
+},
+{
+  "type": "node",
+  "id": 687057388,
+  "lat": 59.4428193,
+  "lon": 24.7368888,
+  "tags": {
+    "address": "Kotzebue 16, 10411 Tallinn",
+    "muuseum_id": "43",
+    "name": "Lastemuuseum",
+    "name:be": "Дзіцячы музей",
+    "name:en": "Children's Museum",
+    "name:ru": "Детский музей",
+    "opening_hours": "We-Su 10:30-18:00; Nov-Feb 10:30-17:00",
+    "phone": "+372 6413491",
+    "source": "http://www.muuseum.ee/et/muuseumid",
+    "tourism": "museum",
+    "url": "http://www.linnamuuseum.ee/lastemuuseum"
+  }
+},
+{
+  "type": "node",
+  "id": 687057397,
+  "lat": 59.4347970,
+  "lon": 24.7450967,
+  "tags": {
+    "addr:city": "Tallinn",
+    "addr:housenumber": "12",
+    "addr:postcode": "10146",
+    "addr:street": "Müürivahe",
+    "address": "Müürivahe 12, 10146 Tallinn",
+    "muuseum_id": "24",
+    "name": "Eesti Teatri- ja Muusikamuuseum",
+    "name:be": "Эстонскі музей тэатра і музыкі",
+    "name:en": "Estonian Theatre And Music Museum",
+    "name:fi": "Viron teatteri- ja musiikkimuseo",
+    "name:ru": "Эстонский музей театра и музыки",
+    "opening_hours": "We-Sa 10:00-18:00",
+    "phone": "+372644 6407",
+    "source": "http://www.muuseum.ee/et/muuseumid",
+    "tourism": "museum",
+    "website": "http://www.tmm.ee",
+    "wheelchair": "no",
+    "wikidata": "Q16413289"
+  }
+},
+{
+  "type": "node",
+  "id": 687057414,
+  "lat": 59.4333708,
+  "lon": 24.7642113,
+  "tags": {
+    "address": "Pronksi 19, 10124 Tallinn",
+    "muuseum_id": "31",
+    "name": "Kindlustuse Muuseum",
+    "name:be": "Музей страхоўкі",
+    "name:en": "Insurance Musem",
+    "opening_hours": "Mo-Fr 10:00-16:00 \"Preannounce visit\"",
+    "phone": "+372 6671126",
+    "source": "http://www.muuseum.ee/et/muuseumid",
+    "tourism": "museum",
+    "url": "http://www.if.ee"
+  }
+},
+{
+  "type": "node",
+  "id": 687057439,
+  "lat": 59.4368552,
+  "lon": 24.7454214,
+  "tags": {
+    "addr:city": "Tallinn",
+    "addr:housenumber": "4",
+    "addr:postcode": "10146",
+    "addr:street": "Raekoja",
+    "address": "Raekoja tn 4/6, 10146 Tallinn",
+    "muuseum_id": "45",
+    "name": "Fotomuuseum",
+    "name:be": "Музей фота",
+    "name:en": "Photo Museum",
+    "name:fi": "Raadinvankilan valokuvamuseo",
+    "opening_hours": "Mar-Oct Th-Tu 10:30-18:00; Nov-Feb Th-Tu 10:30-17:00",
+    "phone": "+372 644 8767",
+    "source": "http://linnamuuseum.ee/fotomuuseum/",
+    "tourism": "museum",
+    "url": "http://www.linnamuuseum.ee/fotomuuseum"
+  }
+},
+{
+  "type": "node",
+  "id": 687057445,
+  "lat": 59.4362578,
+  "lon": 24.7419306,
+  "tags": {
+    "addr:city": "Tallinn",
+    "address": "Lühike jalg 3, 10130 Tallinn",
+    "muuseum_id": "11",
+    "name": "Adamson-Ericu Muuseum",
+    "name:be": "Музей Эрыка Адамсана",
+    "name:en": "Adamson Eric Museum",
+    "name:et": "Adamson-Ericu Muuseum",
+    "name:fi": "Adamson Eric museo",
+    "opening_hours": "We-Su 11:00-18:00",
+    "phone": "+3726 445",
+    "source": "http://www.muuseum.ee/et/muuseumid",
+    "tourism": "museum",
+    "url": "http://www.ekm.ee",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 687057446,
+  "lat": 59.4382857,
+  "lon": 24.7456242,
+  "tags": {
+    "addr:city": "Tallinn",
+    "addr:housenumber": "16",
+    "addr:street": "Pikk",
+    "muuseum_id": "30",
+    "name": "Kalevi Martsipanituba",
+    "name:en": "Kalev Marzipan Room",
+    "opening_hours": "Mo-Su 10:00-17:00",
+    "phone": "+372 6464192",
+    "source": "http://www.muuseum.ee/et/muuseumid",
+    "tourism": "museum",
+    "url": "http://www.kalev.eu",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 687057447,
+  "lat": 59.4383680,
+  "lon": 24.7451652,
+  "tags": {
+    "addr:city": "Tallinn",
+    "addr:housenumber": "17",
+    "addr:postcode": "10123",
+    "addr:street": "Pikk",
+    "address": "Pikk 17, 10123 Tallinn",
+    "muuseum_id": "7",
+    "name": "Eesti Ajaloomuuseum",
+    "name:be": "Эстонскі музей гісторыі",
+    "name:en": "Estonian History Museum",
+    "name:fi": "Viron historia museo",
+    "name:ru": "Эстонский исторический музей, здание Большой гильдии",
+    "name:zh": "历史博物馆",
+    "opening_hours": "Mo-Su 10:00-18:00",
+    "phone": "+372 641 1630",
+    "source": "http://www.muuseum.ee/et/muuseumid",
+    "tourism": "museum",
+    "url": "http://www.ajaloomuuseum.ee/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 687057448,
+  "lat": 59.4386893,
+  "lon": 24.7481496,
+  "tags": {
+    "addr:housenumber": "17",
+    "addr:postcode": "10123",
+    "addr:street": "Vene",
+    "muuseum_id": "38",
+    "name": "Tallinna Linnamuuseum",
+    "name:be": "Талінскі гарадскі музей",
+    "name:en": "Tallinn City Museum",
+    "name:et": "Tallinna Linnamuuseum",
+    "name:fi": "Tallinnan kaupunginmuseo",
+    "name:ru": "Таллинский городской музей",
+    "opening_hours": "Tu-Su 10:00-18:00",
+    "phone": "+372 644 5856",
+    "source": "http://www.muuseum.ee/et/muuseumid",
+    "tourism": "museum",
+    "url": "http://www.linnamuuseum.ee",
+    "wikidata": "Q18625832"
+  }
+},
+{
+  "type": "node",
+  "id": 687057461,
+  "lat": 59.4380669,
+  "lon": 24.7486824,
+  "tags": {
+    "address": "Vene 16, 10123 Tallinn",
+    "muuseum_id": "6",
+    "name": "Dominiiklaste Kloostri Muuseum",
+    "name:be": "Музей дамініканскага манастыра",
+    "name:en": "Dominican Monastery Museum",
+    "name:fi": "Dominikaaninen luostarimuseo",
+    "name:ru": "Музей монастыря доминиканцев",
+    "opening_hours": "May 15-Sep 23 10:00-18:00; Sep 24 - May 14 \"by appointment\"",
+    "phone": "+372 644 4606",
+    "source": "http://www.muuseum.ee/et/muuseumid",
+    "tourism": "museum",
+    "url": "http://www.kloostri.ee"
+  }
+},
+{
+  "type": "node",
+  "id": 687057472,
+  "lat": 59.4441195,
+  "lon": 24.7494200,
+  "tags": {
+    "addr:city": "Tallinn",
+    "addr:country": "EE",
+    "addr:housenumber": "29",
+    "addr:postcode": "10415",
+    "addr:street": "Põhja pst",
+    "address": "Põhja pst 29, Tallinn 10415",
+    "alt_name": "Energia avastuskeskus",
+    "entrance": "yes",
+    "muuseum_id": "525",
+    "name": "Energiakeskus",
+    "name:be": "Пазнавальны цэнтр \"Энэргіі\"",
+    "name:en": "Energy Discovery Centre",
+    "name:ru": "Познавательный центр «Энергия»",
+    "opening_hours": "Mo-Fr 10:00-18:00; Sa-Su 11:00-18:00",
+    "phone": "+372 620 9020",
+    "source": "http://www.muuseum.ee/et/muuseumid",
+    "tourism": "museum",
+    "url": "http://www.energiakeskus.ee/"
+  }
+},
+{
+  "type": "node",
+  "id": 687057482,
+  "lat": 59.4424047,
+  "lon": 24.7494089,
+  "tags": {
+    "addr:city": "Tallinn",
+    "addr:housenumber": "70",
+    "addr:postcode": "10133",
+    "addr:street": "Pikk",
+    "email": "info@meremuuseum.ee",
+    "muuseum_id": "17",
+    "name": "Eesti Meremuuseum",
+    "name:be": "Эстонскі марскі музей",
+    "name:de": "Estnisches Seefahrtsmuseum",
+    "name:en": "Estonian Maritime Museum",
+    "name:et": "Eesti Meremuuseum",
+    "name:fi": "Viron merenkulkumuseo",
+    "name:fr": "Musée de la marine d'Estonie",
+    "name:ru": "Морской музей Эстонии",
+    "opening_hours": "We-Su 10:00-18:00",
+    "phone": "+372 6411 408",
+    "source": "http://www.muuseum.ee/et/muuseumid",
+    "tourism": "museum",
+    "url": "http://www.meremuuseum.ee",
+    "wikidata": "Q223373",
+    "wikipedia": "et:Eesti Meremuuseum"
+  }
+},
+{
+  "type": "node",
+  "id": 687057489,
+  "lat": 59.4387118,
+  "lon": 24.7660916,
+  "tags": {
+    "addr:housenumber": "16",
+    "addr:street": "Karu",
+    "address": "Karu 16, 10120 Tallinn",
+    "muuseum_id": "524",
+    "name": "Eesti Juudi muuseum",
+    "name:be": "Музей жыдоў Эстоніі",
+    "name:en": "Estonian Jewish Museum",
+    "name:et": "Eesti Juudi muuseum",
+    "name:ru": "Еврейский музей Эстонии",
+    "opening_hours": "Mo-Th 10:00-17:00; Fr 10:00-16:00",
+    "phone": "+372 56262251",
+    "source": "http://www.muuseum.ee/et/muuseumid",
+    "tourism": "museum",
+    "url": "http://www.eja.pri.ee",
+    "wikidata": "Q1516798",
+    "wikipedia": "en:History of the Jews in Estonia"
+  }
+},
+{
+  "type": "node",
+  "id": 687057491,
+  "lat": 59.4390807,
+  "lon": 24.7720921,
+  "tags": {
+    "address": "Narva mnt 25, Tallinn 10120",
+    "museum": "science",
+    "muuseum_id": "22",
+    "name": "Eesti Pedagoogika Arhiivmuuseum",
+    "name:be": "Архіўны музей эстонская педагогікі",
+    "name:en": "Archival Museum Of Estonian Pedagogy",
+    "name:ru": "Музей-архив эстонской педагогики",
+    "opening_hours": "Mo-Fr 10:00-16:00",
+    "phone": "+372 6409226",
+    "source": "http://www.muuseum.ee/et/muuseumid",
+    "tourism": "museum",
+    "url": "http://www.tlu.ee/epam"
+  }
+},
+{
+  "type": "node",
+  "id": 687057495,
+  "lat": 59.4385963,
+  "lon": 24.7910873,
+  "tags": {
+    "addr:postcode": "10127",
+    "address": "Weizenbergi 37, 10127 Tallinn",
+    "fixme": "combine details into building",
+    "muuseum_id": "14",
+    "name": "Kadrioru Kunstimuuseum",
+    "name:be": "Кадрыоргскі мастацкі музей",
+    "name:en": "Kadriorg Art Museum",
+    "name:ru": "Кадриоргский художественный музей",
+    "opening_hours": "okt-aprill K-P 10-17; mai-sept T-P 10-17",
+    "phone": "+372 606 6400",
+    "source": "http://www.muuseum.ee/et/muuseumid",
+    "tourism": "museum",
+    "url": "http://kadriorumuuseum.ekm.ee/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 687057502,
+  "lat": 59.5012808,
+  "lon": 24.8343936,
+  "tags": {
+    "address": "Mõisa tee 1, 74001 Viimsi, Harju maakond",
+    "alt_name": "Kindral Laidoneri muuseum",
+    "museum": "military",
+    "muuseum_id": "55",
+    "name": "Eesti Sõjamuuseum",
+    "name:en": "Estonian War Museum",
+    "opening_hours": "We-Sa 11:00-17:00",
+    "phone": "+372 6217410",
+    "tourism": "museum",
+    "url": "http://www.esm.ee"
+  }
+},
+{
+  "type": "node",
+  "id": 687057503,
+  "lat": 59.5242863,
+  "lon": 24.7981360,
+  "tags": {
+    "address": "Rohuneeme tee 51, Pringi küla, Viimsi vald, 74011 Harjumaa",
+    "museum": "local",
+    "muuseum_id": "572",
+    "name": "Viimsi Vabaõhumuuseum",
+    "name:en": "Viimsi Open Air Museum",
+    "opening_hours": "May 1-Oct 31: We-Fr 12:00-17:00 \"by appointment\"",
+    "phone": "+372 6066952",
+    "source": "http://www.muuseum.ee/et/muuseumid",
+    "tourism": "museum",
+    "url": "http://www.rannarahvamuuseum.ee"
+  }
+},
+{
+  "type": "node",
+  "id": 687057504,
+  "lat": 59.4895314,
+  "lon": 25.0287917,
+  "tags": {
+    "address": "Rootsi-Kallavere küla, Jõelähtme vald, 74121 Harjumaa",
+    "muuseum_id": "552",
+    "name": "Rootsi-Kallavere Küla Muuseum",
+    "name:en": "Rootsi-Kallavere Village Museum",
+    "opening_hours": "Kokkuleppel",
+    "source": "http://www.muuseum.ee/et/muuseumid",
+    "tourism": "museum",
+    "url": "http://www.rkk.ee"
+  }
+},
+{
+  "type": "node",
+  "id": 687057505,
+  "lat": 59.6249293,
+  "lon": 25.0096686,
+  "tags": {
+    "address": "Mardi talu, Lääneotsa küla (Prangli saar), Viimsi vald, 74007 Harjumaa",
+    "muuseum_id": "575",
+    "name": "Pranglisaarte Muuseum",
+    "name:en": "Museum of Prangli Islands",
+    "opening_hours": "Kokkuleppel",
+    "source": "http://www.muuseum.ee/et/muuseumid",
+    "tourism": "museum",
+    "url": "http://www.rannarahvamuuseum.ee"
+  }
+},
+{
+  "type": "node",
+  "id": 745640225,
+  "lat": 59.4384673,
+  "lon": 24.7430306,
+  "tags": {
+    "addr:city": "Tallinn",
+    "addr:housenumber": "1",
+    "addr:postcode": "10130",
+    "addr:street": "Lai",
+    "name": "Nuku",
+    "name:be": "Музей лялек",
+    "name:ru": "Музей кукольного искусства NUKU",
+    "opening_hours": "Tu-Su 11:00-18:00",
+    "phone": "+372 667 9500",
+    "tourism": "museum",
+    "website": "http://www.nuku.ee",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 825035896,
+  "lat": 59.1980154,
+  "lon": 24.3904740,
+  "tags": {
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1104932270,
+  "lat": 59.4341172,
+  "lon": 24.7434516,
+  "tags": {
+    "name": "Raidkivimuuseum",
+    "name:be": "Музей разнога камня",
+    "name:en": "Carved Stone Museum",
+    "name:ru": "Музей резного камня",
+    "opening_hours": "Tu-Su 10:30-18:00",
+    "tourism": "museum",
+    "website": "https://linnamuuseum.ee/raidkivimuuseum-kok/"
+  }
+},
+{
+  "type": "node",
+  "id": 2407355833,
+  "lat": 59.1860289,
+  "lon": 25.1675858,
+  "tags": {
+    "name": "Kose Vesiveski",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 2475013002,
+  "lat": 59.4381939,
+  "lon": 24.7417814,
+  "tags": {
+    "addr:city": "Tallinn",
+    "addr:housenumber": "10",
+    "addr:postcode": "10130",
+    "addr:street": "Rahukohtu",
+    "alcohol": "wine",
+    "email": "booking@luschermatiesen.com",
+    "name": "Luscher & Matiesen",
+    "phone": "+372 526 3065",
+    "shop": "alcohol",
+    "tourism": "museum",
+    "website": "http://www.luschermatiesen.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4187742714,
+  "lat": 59.4365904,
+  "lon": 24.7546840,
+  "tags": {
+    "email": "viru.reservation@sok.fi",
+    "name": "KGB Museum",
+    "name:be": "Музей КДБ",
+    "name:fi": "KGB museo",
+    "name:lv": "VDK muzejs",
+    "name:ru": "Музей КГБ",
+    "phone": "+372 680 9300",
+    "tourism": "museum",
+    "website": "https://www.visitestonia.com/en/hotel-viru-and-kgb-museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4264162649,
+  "lat": 59.3969956,
+  "lon": 24.2956443,
+  "tags": {
+    "name": "Shloss Fall",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4805497396,
+  "lat": 59.4369679,
+  "lon": 24.7474855,
+  "tags": {
+    "addr:city": "Tallinn",
+    "addr:housenumber": "3",
+    "addr:postcode": "10140",
+    "addr:street": "Viru",
+    "name": "Keskaegsete piinariistade muuseum",
+    "name:be": "Музей Сярэднявечных катаванняў",
+    "name:en": "Museum Of Medieval Torture Instruments",
+    "name:ru": "Музей средневековых пыток",
+    "tourism": "museum",
+    "website": "https://www.facebook.com/pages/Museum-Of-Medieval-Torture/212350015547535"
+  }
+},
+{
+  "type": "node",
+  "id": 4805763177,
+  "lat": 59.4368412,
+  "lon": 24.7449260,
+  "tags": {
+    "addr:city": "Tallinn",
+    "addr:housenumber": "7",
+    "addr:street": "Kullassepa",
+    "name": "Tallinn Legends",
+    "name:ru": "Шоу \"Легенды Таллинна\"",
+    "opening_hours": "Mo-Su 11:00-19:00",
+    "tourism": "museum",
+    "website": "http://www.tallinnlegends.ee",
+    "wheelchair": "no",
+    "wikidata": "Q28134203"
+  }
+},
+{
+  "type": "node",
+  "id": 5012642621,
+  "lat": 59.4352292,
+  "lon": 24.7408952,
+  "tags": {
+    "addr:housenumber": "9a",
+    "addr:street": "Lühike jalg",
+    "email": "neitsitorn@linnamuuseum.ee",
+    "name": "Neitsitorni muuseumkohvik",
+    "name:be": "Дзявочая вежа - музей",
+    "name:de": "Neitsitorn Turm Museum und Café",
+    "name:en": "Neitsitorn Maiden Tower Museum & Cafe",
+    "name:et": "Neitsitorni muuseumkohvik",
+    "name:ru": "Девичья башня",
+    "opening_hours": "Mo-Su 09:00-18:00",
+    "phone": "+3726012605",
+    "tourism": "museum",
+    "website": "https://linnamuuseum.ee/neitsitorn/"
+  }
+},
+{
+  "type": "node",
+  "id": 5346672322,
+  "lat": 59.4532767,
+  "lon": 24.8121727,
+  "tags": {
+    "addr:housenumber": "64",
+    "addr:street": "Pirita tee",
+    "email": "post@ajaloomuuseum.ee",
+    "name": "Filmimuuseum",
+    "name:en": "Film Museum",
+    "opening_hours": "Tu-Su 10:00-18:00",
+    "phone": "+372 696 8670",
+    "tourism": "museum",
+    "website": "https://www.ajaloomuuseum.ee/kulastamine/majad/filmimuuseum"
+  }
+},
+{
+  "type": "node",
+  "id": 5591023822,
+  "lat": 59.5211814,
+  "lon": 24.8080206,
+  "tags": {
+    "name": "Viimsi Rannarahva Muuseum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 5961206585,
+  "lat": 59.4385534,
+  "lon": 24.7443803,
+  "tags": {
+    "name:ru": "музей истории",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6450692285,
+  "lat": 59.4405332,
+  "lon": 24.7376397,
+  "tags": {
+    "name:en": "Back In Time -Life in Soviet Estonia",
+    "opening_hours": "Mo-Su 11:00-19:00",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6499945487,
+  "lat": 59.4391078,
+  "lon": 24.7574962,
+  "tags": {
+    "name": "Tallinn Design House",
+    "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 11:00-16:00",
+    "phone": "+37258650558",
+    "tourism": "museum",
+    "website": "https://www.tallinndesignhouse.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 6685135686,
+  "lat": 59.4383522,
+  "lon": 24.7284645,
+  "tags": {
+    "addr:city": "Tallinn",
+    "addr:street": "Telliskivi",
+    "name": "Fotografiska",
+    "tourism": "museum",
+    "website": "https://www.fotografiska.com/tallinn"
+  }
+},
+{
+  "type": "node",
+  "id": 6772830291,
+  "lat": 59.4515211,
+  "lon": 24.7304843,
+  "tags": {
+    "addr:city": "Tallinn",
+    "addr:housenumber": "10",
+    "addr:postcode": "10411",
+    "addr:street": "Peetri",
+    "name": "PROTO Avastustehas",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6915860185,
+  "lat": 59.4080000,
+  "lon": 24.7331478,
+  "tags": {
+    "email": "info@lvlup.ee",
+    "name": "LvlUp!",
+    "opening_hours": "Tu-Th 15:00-20:00; Fr-Sa 15:00-22:00; Su 15:00-18:00",
+    "phone": "+37258589262",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 7040524323,
+  "lat": 59.3372367,
+  "lon": 25.3332134,
+  "tags": {
+    "name": "Kehra muuseum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 7114319585,
+  "lat": 59.4387681,
+  "lon": 24.7427384,
+  "tags": {
+    "name:en": "Museum of Puppetry Arts",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 7133482685,
+  "lat": 59.4387057,
+  "lon": 24.7404103,
+  "tags": {
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 8073278,
+  "nodes": [
+    60443630,
+    60443631,
+    619993037,
+    619993044,
+    619993042,
+    619993046,
+    619993022,
+    619993026,
+    619993020,
+    619993024,
+    60443636,
+    60443637,
+    60443630
+  ],
+  "tags": {
+    "addr:city": "Tallinn",
+    "addr:country": "EE",
+    "addr:housenumber": "37",
+    "addr:street": "August Weizenbergi",
+    "alt_name": "Екатериненталь",
+    "building": "yes",
+    "castle_type": "palace",
+    "description": "The constraction of the Kadriorg Palace was started by the Tsar Peter the Great of Russia in 1718. It was named Kadriorg (in German Catharinenthal) in honour of his wife Catherine I.",
+    "historic": "castle",
+    "maaamet:orig_tunnus": "78401:115:0750",
+    "name": "Kadrioru loss",
+    "name:en": "Kadriorg Palace",
+    "name:et": "Kadrioru loss",
+    "name:fi": "Kadriorgin palatsi",
+    "name:ru": "Кадриорг",
+    "name_1": "Kadrioru kunstimuuseum",
+    "source:addr": "Maa-amet 2012",
+    "tourism": "museum",
+    "wheelchair": "yes",
+    "wikidata": "Q7722735",
+    "wikipedia": "en:Kadriorg Palace"
+  }
+},
+{
+  "type": "way",
+  "id": 26873875,
+  "nodes": [
+    294846701,
+    308989172,
+    308989173,
+    308989164,
+    294846678,
+    294846677,
+    294846669,
+    294846667,
+    294846701
+  ],
+  "tags": {
+    "addr:city": "Tallinn",
+    "addr:country": "EE",
+    "addr:housenumber": "3",
+    "addr:postcode": "10146",
+    "addr:street": "Kuninga",
+    "building": "yes",
+    "description": "A unique collection of original collars, stars, badges and costumes of orders of knighthood from all over the world (18-20th century) Notably the only known foreign order of Peter the Great - the diamond-studded badge of the Order of the White Eagle.",
+    "fee": "yes",
+    "maaamet:ETAK": "571932",
+    "name": "Tallinn Museum of Orders of Knighthood",
+    "name:ru": "Таллинский музей рыцарских орденов",
+    "opening_hours": "Tu-Su 10:00-18:00",
+    "payment:cash": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "phone": "+372 53339380",
+    "source:addr": "Maa-amet 2012",
+    "tourism": "museum",
+    "website": "https://tallinnmuseum.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 26881759,
+  "nodes": [
+    294522966,
+    7138606695,
+    7138606694,
+    294522967,
+    7138606691,
+    7138606690,
+    7138606689,
+    7138606688,
+    294522968,
+    294522969,
+    1559595791,
+    294522973,
+    294522974,
+    7138606687,
+    7138606686,
+    7138606693,
+    7138606692,
+    294522966
+  ],
+  "tags": {
+    "addr:city": "Tallinn",
+    "addr:country": "EE",
+    "addr:housenumber": "6",
+    "addr:street": "Vesilennuki",
+    "alt_name": "Vesilennukite angaarid",
+    "building": "yes",
+    "fee": "yes",
+    "height": "0.1",
+    "internet_access": "wlan",
+    "name": "Lennusadam",
+    "name:de": "Wasserflugzeughafen",
+    "name:en": "Seaplane Harbour",
+    "name:et": "Lennusadam",
+    "name:fi": "Lentosatama",
+    "name:lv": "Hidroplānu osta",
+    "name:pl": "Baza Wodnosamolotów",
+    "name:ru": "Лётная гавань",
+    "name:sv": "Flyghamnen",
+    "opening_hours": "Tu-Su 10:00-18:00",
+    "phone": "+3726200550",
+    "toilets:wheelchair": "yes",
+    "tourism": "museum",
+    "website": "http://www.lennusadam.eu",
+    "wheelchair": "yes",
+    "wikidata": "Q12376251",
+    "wikipedia": "et:Tallinna vesilennukite angaarid"
+  }
+},
+{
+  "type": "way",
+  "id": 26882906,
+  "nodes": [
+    294531693,
+    294531692,
+    294531691,
+    294531690,
+    294531689,
+    294531688,
+    294531686,
+    294531684,
+    619993095,
+    294531752,
+    294531753,
+    294531754,
+    294531756,
+    294531748,
+    294531749,
+    294531750,
+    294531751,
+    294531743,
+    294531745,
+    294531746,
+    294531747,
+    294531738,
+    294531740,
+    294531693
+  ],
+  "tags": {
+    "addr:city": "Tallinn",
+    "addr:country": "EE",
+    "addr:housenumber": "34",
+    "addr:housenumber2": "1",
+    "addr:street": "August Weizenbergi",
+    "addr:street2": "Valge",
+    "building": "yes",
+    "email": "kumu@ekm.ee",
+    "name": "Kumu Kunstimuuseum",
+    "name:en": "Kumu Art Museum",
+    "name:ru": "Художественный музей Куму",
+    "opening_hours": "Th 10:00-20:00; Tu-We, Fr-Su 10:00-18:00",
+    "tourism": "museum",
+    "website": "https://kumu.ekm.ee/",
+    "wheelchair": "yes",
+    "wikidata": "Q919611"
+  }
+},
+{
+  "type": "way",
+  "id": 26885402,
+  "nodes": [
+    294517714,
+    294517713,
+    294517716,
+    294517715,
+    294517718,
+    294517717,
+    294517720,
+    294517719,
+    294517722,
+    294517721,
+    294517724,
+    294517723,
+    294517679,
+    294517680,
+    294517676,
+    294517678,
+    294517714
+  ],
+  "tags": {
+    "addr:city": "Tallinn",
+    "addr:country": "EE",
+    "addr:full": "Ristiku 84",
+    "addr:housenumber": "84",
+    "addr:street": "Ristiku",
+    "building": "yes",
+    "name": "Eesti Filmiarhiiv",
+    "name:ru": "Эстонский киноархив",
+    "source": "ADS 2011-04",
+    "tourism": "museum",
+    "wikidata": "Q16409195"
+  }
+},
+{
+  "type": "way",
+  "id": 26886695,
+  "nodes": [
+    294514877,
+    6925085898,
+    6925085897,
+    294514879,
+    294514897,
+    294514900,
+    294514904,
+    294514890,
+    294514891,
+    294514894,
+    294514895,
+    294514985,
+    294514983,
+    294514982,
+    294514977,
+    6925085895,
+    6925085896,
+    294514974,
+    294514877
+  ],
+  "tags": {
+    "addr:city": "Tallinn",
+    "addr:housenumber": "21c",
+    "addr:postcode": "10127",
+    "addr:street": "Lydia Koidula",
+    "address": "Koidula 21c, Tallinn 10127",
+    "building": "yes",
+    "maaamet:ETAK": "565823",
+    "muuseum_id": "580",
+    "name": "Muuseum Miia-Milla-Manda",
+    "name:en": "Museum Miia-Milla-Manda",
+    "opening_hours": "Tu-Su 12:00-18:00",
+    "phone": "+372 6017 051",
+    "source": "http://www.muuseum.ee/et/muuseumid",
+    "tourism": "museum",
+    "url": "http://www.linnamuuseum.ee/miiamillamanda",
+    "wheelchair": "yes",
+    "wikidata": "Q16413393"
+  }
+},
+{
+  "type": "way",
+  "id": 26887383,
+  "nodes": [
+    294498972,
+    294498973,
+    294498965,
+    294498966,
+    294498967,
+    294498968,
+    294498972
+  ],
+  "tags": {
+    "addr:city": "Tallinn",
+    "addr:country": "EE",
+    "addr:housenumber": "2",
+    "addr:street": "Mäekalda",
+    "building": "yes",
+    "maaamet:orig_tunnus": "78401:115:3790",
+    "muuseum_id": "512",
+    "name": "Peeter I Majamuuseum",
+    "name:be": "Хатка Пятра І",
+    "name:en": "Peter I House Museum",
+    "name:ru": "Домик Петра l",
+    "opening_hours": "May 1-Aug 31 Tu-Su 11:00-19:00, Sep 1-Apr 30 We-Su 11:00-16:00",
+    "phone": "+372 6013136",
+    "source": "http://www.muuseum.ee/et/muuseumid",
+    "source:addr": "Maa-amet 2012",
+    "tourism": "museum",
+    "url": "http://www.linnamuuseum.ee/peetrimaja",
+    "wheelchair": "no",
+    "wikidata": "Q16410029"
+  }
+},
+{
+  "type": "way",
+  "id": 26889447,
+  "nodes": [
+    294477217,
+    6433983213,
+    6433983214,
+    6433983215,
+    6433983212,
+    6433983210,
+    6433983211,
+    294479138,
+    6433983209,
+    6433983709,
+    6433983208,
+    294479137,
+    294479141,
+    294479140,
+    294479133,
+    294479132,
+    294479136,
+    294479135,
+    294479148,
+    294479147,
+    294479156,
+    294479155,
+    294479144,
+    294479142,
+    294479146,
+    294479145,
+    294479163,
+    6433983700,
+    6433983207,
+    6433983206,
+    6433983205,
+    6433983204,
+    6433983202,
+    6433983201,
+    6433983203,
+    294479164,
+    294479165,
+    6433983708,
+    6433983707,
+    6433983706,
+    6433983705,
+    6433983704,
+    6433983703,
+    6433983702,
+    6433983701,
+    6433983715,
+    6433983713,
+    6433983712,
+    6433983711,
+    6433983714,
+    6433983217,
+    6433983216,
+    6433983710,
+    294479166,
+    6433983717,
+    6433983716,
+    6433983718,
+    6433983670,
+    6433983669,
+    6433983719,
+    294479157,
+    294477217
+  ],
+  "tags": {
+    "addr:city": "Tallinn",
+    "addr:country": "EE",
+    "addr:housenumber": "3",
+    "addr:street": "Niguliste",
+    "alt_name": "Niguliste muuseum",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "lutheran",
+    "maaamet:ETAK": "581173",
+    "name": "Niguliste kirik",
+    "name:be": "Царква Св. Мікалая (Нігулістэ)",
+    "name:de": "Nikolaikirche",
+    "name:en": "St. Nicholas Church",
+    "name:fi": "Pyhän Nikolaoksen kirkko",
+    "name:pt": "Igreja de São Nicolau",
+    "name:ru": "Церковь святого Николая",
+    "name:zh": "圣尼古拉博物馆",
+    "opening_hours": "Mo-Su 10:00-18:00",
+    "religion": "christian",
+    "source:addr": "Maa-amet 2012",
+    "tourism": "museum",
+    "website": "https://nigulistemuuseum.ekm.ee/en/",
+    "wheelchair": "limited",
+    "wikidata": "Q613788"
+  }
+},
+{
+  "type": "way",
+  "id": 26901331,
+  "nodes": [
+    294440716,
+    294440715,
+    294440718,
+    294440717,
+    294440716
+  ],
+  "tags": {
+    "addr:city": "Tallinn",
+    "addr:country": "EE",
+    "addr:housename": "Rotermanni soolaladu",
+    "addr:housenumber": "2",
+    "addr:postcode": "10151",
+    "addr:street": "Ahtri",
+    "building": "museum",
+    "email": "info@arhitektuurimuuseum.ee",
+    "muuseum_id": "9",
+    "name": "Eesti Arhitektuurimuuseum",
+    "name:be": "Эстонскі музей архітэктуры",
+    "name:de": "Estonisches Architekturmuseum",
+    "name:en": "Museum of Estonian Architecture",
+    "name:ru": "Эстонский музей архитектуры",
+    "opening_hours": "Mo-Fr 10:00-18:00; Sa-Su 11:00-18:00",
+    "phone": "+372 6257000",
+    "tourism": "museum",
+    "url": "http://www.arhitektuurimuuseum.ee/"
+  }
+},
+{
+  "type": "way",
+  "id": 26902919,
+  "nodes": [
+    294447648,
+    294447646,
+    294447661,
+    294447659,
+    294447657,
+    294447655,
+    294447703,
+    294447704,
+    294447705,
+    294447706,
+    294447707,
+    294447708,
+    294447648
+  ],
+  "tags": {
+    "addr:city": "Tallinn",
+    "addr:country": "EE",
+    "addr:housenumber": "3",
+    "addr:street": "Roheline aas",
+    "building": "yes",
+    "maaamet:orig_tunnus": "78401:115:1810",
+    "museum": "person",
+    "muuseum_id": "40",
+    "name": "Eduard Vilde Muuseum",
+    "name:be": "Музей Эдуарда Вільдэ",
+    "name:en": "Eduard Vilde Museum",
+    "opening_hours": "We-Mo 11:00-18:00",
+    "phone": "+372 6013181",
+    "source": "http://www.muuseum.ee/et/muuseumid",
+    "source:addr": "Maa-amet 2012",
+    "tourism": "museum",
+    "url": "http://www.linnamuuseum.ee/vilde",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 26903392,
+  "nodes": [
+    294445927,
+    294445930,
+    294445929,
+    294445924,
+    294445927
+  ],
+  "tags": {
+    "addr:city": "Tallinn",
+    "addr:country": "EE",
+    "addr:housenumber": "28",
+    "addr:postcode": "10127",
+    "addr:street": "August Weizenbergi",
+    "address": "Weizenbergi 28, 10127 Tallinn",
+    "building": "yes",
+    "maaamet:ETAK": "581170",
+    "muuseum_id": "15",
+    "name": "Mikkeli Muuseum",
+    "name:en": "Mikkel Museum",
+    "name:et": "Mikkeli Muuseum",
+    "name:fi": "Mikkelin museo",
+    "name:ru": "Музей Миккеля",
+    "opening_hours": "Tu, Th-Su 10:00-18:00; We 10:00-20:00",
+    "phone": "+372 601 5844",
+    "source": "http://www.muuseum.ee/et/muuseumid",
+    "source:addr": "Maa-amet 2012",
+    "tourism": "museum",
+    "url": "http://mikkelimuuseum.ekm.ee/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "way",
+  "id": 26904531,
+  "nodes": [
+    294419697,
+    294419698,
+    294419695,
+    294419696,
+    294419697
+  ],
+  "tags": {
+    "addr:city": "Tallinn",
+    "addr:country": "EE",
+    "addr:housenumber": "37",
+    "addr:street": "Uus",
+    "building": "yes",
+    "maaamet:ETAK": "589131",
+    "name": "Miinimuuseum",
+    "name:be": "Музей мін",
+    "name:de": "Minenmuseum",
+    "name:en": "Mines Museum",
+    "name:et": "Miinimuuseum",
+    "name:fi": "Miinamuseo",
+    "name:ru": "Музей мин",
+    "source:addr": "Maa-amet 2012",
+    "tourism": "museum",
+    "wikidata": "Q13726959",
+    "wikipedia": "fi:Miinamuseo"
+  }
+},
+{
+  "type": "way",
+  "id": 47007745,
+  "nodes": [
+    599726486,
+    294841389,
+    294841388,
+    599726487,
+    294841387,
+    599726488,
+    294841386,
+    4815726021,
+    599726489,
+    599726490,
+    294841383,
+    599726491,
+    294841381,
+    599726492,
+    294841397,
+    599726493,
+    294841398,
+    294841395,
+    4815726023,
+    294841396,
+    599726486
+  ],
+  "tags": {
+    "addr:city": "Tallinn",
+    "addr:country": "EE",
+    "addr:housenumber": "47",
+    "addr:street": "Lai",
+    "alt_name:de": "Rossmühle",
+    "building": "yes",
+    "maaamet:ETAK": "587895",
+    "name": "Hobuveski",
+    "name:be": "Конны млын",
+    "name:de": "Pferdemühle",
+    "name:en": "Horse Mill",
+    "name:et": "Hobuveski",
+    "name:ru": "Конная мельница",
+    "source:addr": "Maa-amet 2012",
+    "tourism": "museum",
+    "wikidata": "Q12376219"
+  }
+},
+{
+  "type": "way",
+  "id": 101983996,
+  "nodes": [
+    763619507,
+    1177344482,
+    1177344215,
+    1177343952,
+    1177345264,
+    1177345034,
+    1177344536,
+    1177344278,
+    1177344021,
+    1177345330,
+    1177345079,
+    1177344884,
+    1177344658,
+    1177344428,
+    1177344167,
+    1177345477,
+    1177345220,
+    1177344988,
+    1177344767,
+    1177344560,
+    1177345149,
+    1177344588,
+    1177344338,
+    1177344091,
+    1177344944,
+    1177344727,
+    1177344501,
+    1177344232,
+    1177343969,
+    1177345279,
+    1177345047,
+    1177344847,
+    1177344613,
+    1177344364,
+    1177344121,
+    1177345433,
+    1177345183,
+    1177344951,
+    1177344737,
+    1177344518,
+    1177344254,
+    1177343987,
+    1177345001,
+    1177344777,
+    1177344564,
+    1177344309,
+    1177344075,
+    1177345364,
+    1177345107,
+    1177344913,
+    1177344695,
+    1177344465,
+    1177344176,
+    1177343920,
+    1177345242,
+    1177345010,
+    1177344798,
+    1177344569,
+    1177344320,
+    1177344079,
+    1177345367,
+    1177345110,
+    1177344922,
+    1177344699,
+    1177344477,
+    1177344207,
+    1177343943,
+    1177345015,
+    763619475,
+    763619432,
+    763619514,
+    763619555,
+    2599425765,
+    763619521,
+    1198655045,
+    763619461,
+    763619579,
+    763619534,
+    7169674312,
+    763619545,
+    763619414,
+    294364376,
+    4072417065,
+    4177734781,
+    294364373,
+    763619577,
+    763619504,
+    4177734784,
+    4072417072,
+    4072417074,
+    763619444,
+    4072417075,
+    4072615230,
+    4072417068,
+    763619508,
+    7169749484,
+    763619465,
+    763619406,
+    918700464,
+    763619538,
+    763619509,
+    7093197001,
+    763619507
+  ],
+  "tags": {
+    "addr:city": "Tallinn",
+    "addr:housenumber": "12",
+    "addr:postcode": "13521",
+    "addr:street": "Vabaõhumuuseumi tee",
+    "address": "Vabaõhumuuseumi tee 12, 13521 Tallinn",
+    "building": "no",
+    "location": "outdoor",
+    "museum": "open_air",
+    "muuseum_id": "28",
+    "name": "Eesti Vabaõhumuuseum",
+    "name:de": "Estnisches Freilichtmuseum",
+    "name:en": "Estonian Open Air Museum",
+    "name:ru": "Эстонский музей под открытым небом",
+    "opening_hours": "May 1-Aug 31 Mo-Su 10:00-20:00; Sep 1-Oct 31 Mo-Su 10:00-18:00; Nov 1-Apr 30 Mo-Su 10:00-17:00",
+    "phone": "+372 6549100",
+    "source": "http://www.muuseum.ee/et/muuseumid",
+    "tourism": "museum",
+    "website": "https://www.evm.ee/",
+    "wikidata": "Q2038855",
+    "wikipedia": "et:Eesti Vabaõhumuuseum"
+  }
+},
+{
+  "type": "way",
+  "id": 114927316,
+  "nodes": [
+    1300491540,
+    1300489111,
+    1300488898,
+    1300491886,
+    1300491540
+  ],
+  "tags": {
+    "addr:city": "Kehra",
+    "addr:country": "EE",
+    "addr:full": "Raudtee 7",
+    "addr:housenumber": "7",
+    "addr:street": "Raudtee",
+    "building": "train_station",
+    "description": "Taastamisel (2013-08-05)",
+    "name": "Kehra raudteejaam",
+    "source": "ADS 2011-04",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 148387610,
+  "nodes": [
+    1614937425,
+    1614937424,
+    1614937421,
+    1614937423,
+    1614937425
+  ],
+  "tags": {
+    "addr:city": "Jõelähtme küla",
+    "addr:housename": "Rebala muuseum",
+    "addr:postcode": "74202",
+    "building": "yes",
+    "maaamet:ETAK": "554073",
+    "name": "Rebala muinsuskaitseala keskus-muuseum",
+    "source:addr": "Maa-amet 2019",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 200517002,
+  "nodes": [
+    2104922315,
+    294847972,
+    294847973,
+    2104922310,
+    2104922306,
+    2104922304,
+    2104922315
+  ],
+  "tags": {
+    "addr2:housenumber": "29a",
+    "addr2:street": "Lai",
+    "addr:city": "Tallinn",
+    "addr:country": "EE",
+    "addr:housenumber": "18",
+    "addr:street": "Laboratooriumi",
+    "address": "Lai 29A, 10133 Tallinn",
+    "building": "civic",
+    "building:levels": "3",
+    "maaamet:ETAK": "579989",
+    "museum": "nature",
+    "muuseum_id": "16",
+    "name": "Eesti Loodusmuuseum",
+    "name:de": "Estnisches Naturmuseum",
+    "name:en": "Estonian Museum Of Natural History",
+    "name:et": "Eesti Loodusmuuseum",
+    "name:fi": "Viron luonnonmuseo",
+    "opening_hours": "We-Su 10:00-17:00",
+    "phone": "+372 6411739",
+    "source": "http://www.muuseum.ee/et/muuseumid",
+    "source:addr": "Maa-amet 2012",
+    "tourism": "museum",
+    "url": "http://www.loodusmuuseum.ee",
+    "wikidata": "Q12361299"
+  }
+},
+{
+  "type": "way",
+  "id": 201040648,
+  "nodes": [
+    7006572399,
+    294860221,
+    294860225,
+    7105391066,
+    7006572394,
+    7105391072,
+    7101077828,
+    7101077829,
+    7105391071,
+    294860239,
+    7101077831,
+    7101153576,
+    294860243,
+    294860247,
+    2109931771,
+    2109931776,
+    2109931774,
+    2109931778,
+    2109931780,
+    294860164,
+    294860165,
+    7006572387,
+    7006572389,
+    7006572388,
+    294860167,
+    7101077839,
+    294848776,
+    2109931762,
+    2109931750,
+    2109931748,
+    2109931752,
+    2109931755,
+    2109931758,
+    2109931759,
+    2109931764,
+    2109931766,
+    2109931763,
+    7101153578,
+    7101077838,
+    2109931756,
+    7101153571,
+    7006572399
+  ],
+  "tags": {
+    "addr2:street": "Sakala",
+    "addr:city": "Tallinn",
+    "addr:country": "EE",
+    "addr:housenumber": "11",
+    "addr:postcode": "15095",
+    "addr:street": "Estonia pst",
+    "building": "yes",
+    "height": "0.1",
+    "maaamet:ETAK": "578529",
+    "muuseum_id": "21",
+    "name": "Eesti Panga muuseum",
+    "name:be": "Музей банка Эстоніі",
+    "name:de": "Museum der Estnischen Bank",
+    "name:et": "Eesti Panga muuseum",
+    "name:fi": "Viron pankkimuseo",
+    "opening_hours": "We-Fr 12:00-17:00; Sa 11:00-16:00",
+    "operator": "Eesti Pank",
+    "operator:type": "public",
+    "phone": "+372668 0760",
+    "roof:colour": "dark_grey",
+    "source": "http://www.muuseum.ee/et/muuseumid",
+    "source:addr": "Maa-amet 2019",
+    "tourism": "museum",
+    "website": "http://www.eestipank.info"
+  }
+},
+{
+  "type": "way",
+  "id": 495261406,
+  "nodes": [
+    635078824,
+    4870410498,
+    4870410496,
+    635078811,
+    635078809,
+    697602403,
+    6718532266,
+    635078807,
+    697602400,
+    697602418,
+    697602416,
+    697602413,
+    633030292,
+    697602411,
+    697602421,
+    697602419,
+    697602424,
+    294586945,
+    294586933,
+    294586935,
+    6126988561,
+    294586931,
+    6126967544,
+    294590215,
+    6126988568,
+    294590214,
+    294590213,
+    294590417,
+    294590414,
+    639309421,
+    697602437,
+    639309420,
+    635078813,
+    635078824
+  ],
+  "tags": {
+    "name": "Eesti Ajaloomuuseum",
+    "name:en": "Estonian History Museum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 763619414,
+  "lat": 59.4313107,
+  "lon": 24.6386400
+},
+{
+  "type": "node",
+  "id": 763619461,
+  "lat": 59.4308086,
+  "lon": 24.6412273
+},
+{
+  "type": "node",
+  "id": 763619508,
+  "lat": 59.4313124,
+  "lon": 24.6368383
+},
+{
+  "type": "node",
+  "id": 763619534,
+  "lat": 59.4312189,
+  "lon": 24.6401049
+},
+{
+  "type": "node",
+  "id": 763619545,
+  "lat": 59.4312339,
+  "lon": 24.6398078
+},
+{
+  "type": "node",
+  "id": 763619579,
+  "lat": 59.4311917,
+  "lon": 24.6412567
+},
+{
+  "type": "node",
+  "id": 7169674312,
+  "lat": 59.4312209,
+  "lon": 24.6400650
+},
+{
+  "type": "node",
+  "id": 918700464,
+  "lat": 59.4372374,
+  "lon": 24.6274586
+},
+{
+  "type": "node",
+  "id": 763619507,
+  "lat": 59.4411721,
+  "lon": 24.6282417
+},
+{
+  "type": "node",
+  "id": 763619509,
+  "lat": 59.4391611,
+  "lon": 24.6249833
+},
+{
+  "type": "node",
+  "id": 763619538,
+  "lat": 59.4381427,
+  "lon": 24.6269930
+},
+{
+  "type": "node",
+  "id": 7093197001,
+  "lat": 59.4408343,
+  "lon": 24.6276944
+},
+{
+  "type": "node",
+  "id": 763619406,
+  "lat": 59.4350367,
+  "lon": 24.6285905
+},
+{
+  "type": "node",
+  "id": 763619465,
+  "lat": 59.4338445,
+  "lon": 24.6299674
+},
+{
+  "type": "node",
+  "id": 7169749484,
+  "lat": 59.4327176,
+  "lon": 24.6330254
+},
+{
+  "type": "node",
+  "id": 294364373,
+  "lat": 59.4314827,
+  "lon": 24.6380686
+},
+{
+  "type": "node",
+  "id": 294364376,
+  "lat": 59.4313702,
+  "lon": 24.6384752
+},
+{
+  "type": "node",
+  "id": 763619444,
+  "lat": 59.4317264,
+  "lon": 24.6374234
+},
+{
+  "type": "node",
+  "id": 763619504,
+  "lat": 59.4315236,
+  "lon": 24.6379987
+},
+{
+  "type": "node",
+  "id": 763619577,
+  "lat": 59.4314937,
+  "lon": 24.6380835
+},
+{
+  "type": "node",
+  "id": 1177343969,
+  "lat": 59.4374258,
+  "lon": 24.6390147
+},
+{
+  "type": "node",
+  "id": 1177344121,
+  "lat": 59.4368397,
+  "lon": 24.6404551
+},
+{
+  "type": "node",
+  "id": 1177344232,
+  "lat": 59.4374881,
+  "lon": 24.6386836
+},
+{
+  "type": "node",
+  "id": 1177344364,
+  "lat": 59.4369758,
+  "lon": 24.6401012
+},
+{
+  "type": "node",
+  "id": 1177344501,
+  "lat": 59.4375665,
+  "lon": 24.6382163
+},
+{
+  "type": "node",
+  "id": 1177344613,
+  "lat": 59.4371258,
+  "lon": 24.6398018
+},
+{
+  "type": "node",
+  "id": 1177344727,
+  "lat": 59.4376703,
+  "lon": 24.6375631
+},
+{
+  "type": "node",
+  "id": 1177344847,
+  "lat": 59.4372851,
+  "lon": 24.6395999
+},
+{
+  "type": "node",
+  "id": 1177344944,
+  "lat": 59.4377303,
+  "lon": 24.6369677
+},
+{
+  "type": "node",
+  "id": 1177344951,
+  "lat": 59.4366990,
+  "lon": 24.6412671
+},
+{
+  "type": "node",
+  "id": 1177345047,
+  "lat": 59.4373612,
+  "lon": 24.6393822
+},
+{
+  "type": "node",
+  "id": 1177345183,
+  "lat": 59.4367013,
+  "lon": 24.6410856
+},
+{
+  "type": "node",
+  "id": 1177345279,
+  "lat": 59.4374142,
+  "lon": 24.6391780
+},
+{
+  "type": "node",
+  "id": 1177345433,
+  "lat": 59.4367659,
+  "lon": 24.6409042
+},
+{
+  "type": "node",
+  "id": 4072417065,
+  "lat": 59.4313494,
+  "lon": 24.6384470
+},
+{
+  "type": "node",
+  "id": 4072417068,
+  "lat": 59.4314203,
+  "lon": 24.6369908
+},
+{
+  "type": "node",
+  "id": 4072417072,
+  "lat": 59.4316299,
+  "lon": 24.6376947
+},
+{
+  "type": "node",
+  "id": 4072417074,
+  "lat": 59.4316755,
+  "lon": 24.6375676
+},
+{
+  "type": "node",
+  "id": 4072417075,
+  "lat": 59.4316943,
+  "lon": 24.6373778
+},
+{
+  "type": "node",
+  "id": 4072615230,
+  "lat": 59.4316803,
+  "lon": 24.6373581
+},
+{
+  "type": "node",
+  "id": 4177734781,
+  "lat": 59.4314668,
+  "lon": 24.6381139
+},
+{
+  "type": "node",
+  "id": 4177734784,
+  "lat": 59.4315987,
+  "lon": 24.6377839
+},
+{
+  "type": "node",
+  "id": 1177343952,
+  "lat": 59.4408141,
+  "lon": 24.6290787
+},
+{
+  "type": "node",
+  "id": 1177344021,
+  "lat": 59.4399861,
+  "lon": 24.6309614
+},
+{
+  "type": "node",
+  "id": 1177344167,
+  "lat": 59.4390358,
+  "lon": 24.6331752
+},
+{
+  "type": "node",
+  "id": 1177344215,
+  "lat": 59.4410079,
+  "lon": 24.6287521
+},
+{
+  "type": "node",
+  "id": 1177344278,
+  "lat": 59.4401291,
+  "lon": 24.6306484
+},
+{
+  "type": "node",
+  "id": 1177344428,
+  "lat": 59.4392503,
+  "lon": 24.6328622
+},
+{
+  "type": "node",
+  "id": 1177344482,
+  "lat": 59.4411071,
+  "lon": 24.6284663
+},
+{
+  "type": "node",
+  "id": 1177344536,
+  "lat": 59.4402514,
+  "lon": 24.6304987
+},
+{
+  "type": "node",
+  "id": 1177344560,
+  "lat": 59.4384938,
+  "lon": 24.6337558
+},
+{
+  "type": "node",
+  "id": 1177344588,
+  "lat": 59.4382622,
+  "lon": 24.6344697
+},
+{
+  "type": "node",
+  "id": 1177344658,
+  "lat": 59.4393656,
+  "lon": 24.6325627
+},
+{
+  "type": "node",
+  "id": 1177344767,
+  "lat": 59.4385676,
+  "lon": 24.6335381
+},
+{
+  "type": "node",
+  "id": 1177344884,
+  "lat": 59.4395017,
+  "lon": 24.6321136
+},
+{
+  "type": "node",
+  "id": 1177344988,
+  "lat": 59.4387290,
+  "lon": 24.6333929
+},
+{
+  "type": "node",
+  "id": 1177345034,
+  "lat": 59.4404151,
+  "lon": 24.6301357
+},
+{
+  "type": "node",
+  "id": 1177345079,
+  "lat": 59.4396470,
+  "lon": 24.6317054
+},
+{
+  "type": "node",
+  "id": 1177345149,
+  "lat": 59.4383853,
+  "lon": 24.6340326
+},
+{
+  "type": "node",
+  "id": 1177345220,
+  "lat": 59.4388051,
+  "lon": 24.6332704
+},
+{
+  "type": "node",
+  "id": 1177345264,
+  "lat": 59.4406435,
+  "lon": 24.6294371
+},
+{
+  "type": "node",
+  "id": 1177345330,
+  "lat": 59.4397993,
+  "lon": 24.6314422
+},
+{
+  "type": "node",
+  "id": 1177345477,
+  "lat": 59.4389274,
+  "lon": 24.6332614
+},
+{
+  "type": "node",
+  "id": 1177344091,
+  "lat": 59.4379024,
+  "lon": 24.6362412
+},
+{
+  "type": "node",
+  "id": 1177344338,
+  "lat": 59.4380929,
+  "lon": 24.6353069
+},
+{
+  "type": "node",
+  "id": 763619521,
+  "lat": 59.4306023,
+  "lon": 24.6476968
+},
+{
+  "type": "node",
+  "id": 1198655045,
+  "lat": 59.4306040,
+  "lon": 24.6476436
+},
+{
+  "type": "node",
+  "id": 2599425765,
+  "lat": 59.4307252,
+  "lon": 24.6476856
+},
+{
+  "type": "node",
+  "id": 763619432,
+  "lat": 59.4319339,
+  "lon": 24.6479494
+},
+{
+  "type": "node",
+  "id": 763619514,
+  "lat": 59.4316538,
+  "lon": 24.6476509
+},
+{
+  "type": "node",
+  "id": 763619555,
+  "lat": 59.4315335,
+  "lon": 24.6476118
+},
+{
+  "type": "node",
+  "id": 1177343920,
+  "lat": 59.4348674,
+  "lon": 24.6460349
+},
+{
+  "type": "node",
+  "id": 1177343987,
+  "lat": 59.4361708,
+  "lon": 24.6423468
+},
+{
+  "type": "node",
+  "id": 1177344075,
+  "lat": 59.4356102,
+  "lon": 24.6431860
+},
+{
+  "type": "node",
+  "id": 1177344079,
+  "lat": 59.4339183,
+  "lon": 24.6479393
+},
+{
+  "type": "node",
+  "id": 1177344176,
+  "lat": 59.4351096,
+  "lon": 24.6454497
+},
+{
+  "type": "node",
+  "id": 1177344254,
+  "lat": 59.4363184,
+  "lon": 24.6420474
+},
+{
+  "type": "node",
+  "id": 1177344309,
+  "lat": 59.4357002,
+  "lon": 24.6428911
+},
+{
+  "type": "node",
+  "id": 1177344320,
+  "lat": 59.4341084,
+  "lon": 24.6477942
+},
+{
+  "type": "node",
+  "id": 1177344465,
+  "lat": 59.4352526,
+  "lon": 24.6450142
+},
+{
+  "type": "node",
+  "id": 1177344518,
+  "lat": 59.4364291,
+  "lon": 24.6418704
+},
+{
+  "type": "node",
+  "id": 1177344564,
+  "lat": 59.4357971,
+  "lon": 24.6427414
+},
+{
+  "type": "node",
+  "id": 1177344569,
+  "lat": 59.4342801,
+  "lon": 24.6475692
+},
+{
+  "type": "node",
+  "id": 1177344695,
+  "lat": 59.4353657,
+  "lon": 24.6446332
+},
+{
+  "type": "node",
+  "id": 1177344737,
+  "lat": 59.4365629,
+  "lon": 24.6415756
+},
+{
+  "type": "node",
+  "id": 1177344777,
+  "lat": 59.4359285,
+  "lon": 24.6426054
+},
+{
+  "type": "node",
+  "id": 1177344798,
+  "lat": 59.4343816,
+  "lon": 24.6473405
+},
+{
+  "type": "node",
+  "id": 1177344913,
+  "lat": 59.4354257,
+  "lon": 24.6440797
+},
+{
+  "type": "node",
+  "id": 1177345001,
+  "lat": 59.4360670,
+  "lon": 24.6425509
+},
+{
+  "type": "node",
+  "id": 1177345010,
+  "lat": 59.4345537,
+  "lon": 24.6468470
+},
+{
+  "type": "node",
+  "id": 1177345107,
+  "lat": 59.4355133,
+  "lon": 24.6438620
+},
+{
+  "type": "node",
+  "id": 1177345242,
+  "lat": 59.4346852,
+  "lon": 24.6464387
+},
+{
+  "type": "node",
+  "id": 1177345364,
+  "lat": 59.4355364,
+  "lon": 24.6435898
+},
+{
+  "type": "node",
+  "id": 763619475,
+  "lat": 59.4323127,
+  "lon": 24.6484082
+},
+{
+  "type": "node",
+  "id": 1177343943,
+  "lat": 59.4332466,
+  "lon": 24.6494273
+},
+{
+  "type": "node",
+  "id": 1177344207,
+  "lat": 59.4333647,
+  "lon": 24.6492386
+},
+{
+  "type": "node",
+  "id": 1177344477,
+  "lat": 59.4334514,
+  "lon": 24.6490789
+},
+{
+  "type": "node",
+  "id": 1177344699,
+  "lat": 59.4335474,
+  "lon": 24.6489011
+},
+{
+  "type": "node",
+  "id": 1177344922,
+  "lat": 59.4335769,
+  "lon": 24.6485672
+},
+{
+  "type": "node",
+  "id": 1177345015,
+  "lat": 59.4331040,
+  "lon": 24.6495459
+},
+{
+  "type": "node",
+  "id": 1177345110,
+  "lat": 59.4336766,
+  "lon": 24.6483277
+},
+{
+  "type": "node",
+  "id": 1177345367,
+  "lat": 59.4338021,
+  "lon": 24.6480918
+},
+{
+  "type": "node",
+  "id": 294477217,
+  "lat": 59.4358257,
+  "lon": 24.7433582
+},
+{
+  "type": "node",
+  "id": 294479132,
+  "lat": 59.4360420,
+  "lon": 24.7430050
+},
+{
+  "type": "node",
+  "id": 294479133,
+  "lat": 59.4360580,
+  "lon": 24.7430090
+},
+{
+  "type": "node",
+  "id": 294479135,
+  "lat": 59.4360580,
+  "lon": 24.7428160
+},
+{
+  "type": "node",
+  "id": 294479136,
+  "lat": 59.4360540,
+  "lon": 24.7428340
+},
+{
+  "type": "node",
+  "id": 294479137,
+  "lat": 59.4359467,
+  "lon": 24.7433308
+},
+{
+  "type": "node",
+  "id": 294479138,
+  "lat": 59.4358938,
+  "lon": 24.7433880
+},
+{
+  "type": "node",
+  "id": 294479140,
+  "lat": 59.4360420,
+  "lon": 24.7432480
+},
+{
+  "type": "node",
+  "id": 294479141,
+  "lat": 59.4359890,
+  "lon": 24.7432320
+},
+{
+  "type": "node",
+  "id": 294479142,
+  "lat": 59.4360000,
+  "lon": 24.7422250
+},
+{
+  "type": "node",
+  "id": 294479144,
+  "lat": 59.4359970,
+  "lon": 24.7422670
+},
+{
+  "type": "node",
+  "id": 294479145,
+  "lat": 59.4358400,
+  "lon": 24.7422390
+},
+{
+  "type": "node",
+  "id": 294479146,
+  "lat": 59.4358440,
+  "lon": 24.7421850
+},
+{
+  "type": "node",
+  "id": 294479147,
+  "lat": 59.4361260,
+  "lon": 24.7423470
+},
+{
+  "type": "node",
+  "id": 294479148,
+  "lat": 59.4360840,
+  "lon": 24.7428240
+},
+{
+  "type": "node",
+  "id": 294479155,
+  "lat": 59.4360920,
+  "lon": 24.7422790
+},
+{
+  "type": "node",
+  "id": 294479156,
+  "lat": 59.4360920,
+  "lon": 24.7423320
+},
+{
+  "type": "node",
+  "id": 294479157,
+  "lat": 59.4357783,
+  "lon": 24.7432986
+},
+{
+  "type": "node",
+  "id": 294479163,
+  "lat": 59.4356994,
+  "lon": 24.7422046
+},
+{
+  "type": "node",
+  "id": 294479164,
+  "lat": 59.4356811,
+  "lon": 24.7424698
+},
+{
+  "type": "node",
+  "id": 294479165,
+  "lat": 59.4357851,
+  "lon": 24.7425103
+},
+{
+  "type": "node",
+  "id": 294479166,
+  "lat": 59.4357506,
+  "lon": 24.7431478
+},
+{
+  "type": "node",
+  "id": 294846667,
+  "lat": 59.4362433,
+  "lon": 24.7453682
+},
+{
+  "type": "node",
+  "id": 294846669,
+  "lat": 59.4363060,
+  "lon": 24.7454185
+},
+{
+  "type": "node",
+  "id": 294846677,
+  "lat": 59.4363068,
+  "lon": 24.7454024
+},
+{
+  "type": "node",
+  "id": 294846678,
+  "lat": 59.4364083,
+  "lon": 24.7454405
+},
+{
+  "type": "node",
+  "id": 294846701,
+  "lat": 59.4362357,
+  "lon": 24.7454192
+},
+{
+  "type": "node",
+  "id": 308989164,
+  "lat": 59.4364111,
+  "lon": 24.7454683
+},
+{
+  "type": "node",
+  "id": 308989172,
+  "lat": 59.4362179,
+  "lon": 24.7455117
+},
+{
+  "type": "node",
+  "id": 308989173,
+  "lat": 59.4364029,
+  "lon": 24.7456859
+},
+{
+  "type": "node",
+  "id": 6433983201,
+  "lat": 59.4356744,
+  "lon": 24.7424605
+},
+{
+  "type": "node",
+  "id": 6433983202,
+  "lat": 59.4356759,
+  "lon": 24.7424409
+},
+{
+  "type": "node",
+  "id": 6433983203,
+  "lat": 59.4356818,
+  "lon": 24.7424622
+},
+{
+  "type": "node",
+  "id": 6433983204,
+  "lat": 59.4356828,
+  "lon": 24.7424421
+},
+{
+  "type": "node",
+  "id": 6433983205,
+  "lat": 59.4356961,
+  "lon": 24.7422298
+},
+{
+  "type": "node",
+  "id": 6433983206,
+  "lat": 59.4356906,
+  "lon": 24.7422292
+},
+{
+  "type": "node",
+  "id": 6433983207,
+  "lat": 59.4356916,
+  "lon": 24.7422117
+},
+{
+  "type": "node",
+  "id": 6433983208,
+  "lat": 59.4359534,
+  "lon": 24.7433451
+},
+{
+  "type": "node",
+  "id": 6433983209,
+  "lat": 59.4359399,
+  "lon": 24.7433433
+},
+{
+  "type": "node",
+  "id": 6433983210,
+  "lat": 59.4358868,
+  "lon": 24.7434097
+},
+{
+  "type": "node",
+  "id": 6433983211,
+  "lat": 59.4358967,
+  "lon": 24.7434036
+},
+{
+  "type": "node",
+  "id": 6433983212,
+  "lat": 59.4358829,
+  "lon": 24.7433912
+},
+{
+  "type": "node",
+  "id": 6433983213,
+  "lat": 59.4358186,
+  "lon": 24.7433815
+},
+{
+  "type": "node",
+  "id": 6433983214,
+  "lat": 59.4358285,
+  "lon": 24.7433919
+},
+{
+  "type": "node",
+  "id": 6433983215,
+  "lat": 59.4358359,
+  "lon": 24.7433698
+},
+{
+  "type": "node",
+  "id": 6433983216,
+  "lat": 59.4357481,
+  "lon": 24.7429998
+},
+{
+  "type": "node",
+  "id": 6433983217,
+  "lat": 59.4357491,
+  "lon": 24.7429807
+},
+{
+  "type": "node",
+  "id": 6433983669,
+  "lat": 59.4357639,
+  "lon": 24.7432917
+},
+{
+  "type": "node",
+  "id": 6433983670,
+  "lat": 59.4357740,
+  "lon": 24.7432816
+},
+{
+  "type": "node",
+  "id": 6433983700,
+  "lat": 59.4356991,
+  "lon": 24.7422131
+},
+{
+  "type": "node",
+  "id": 6433983701,
+  "lat": 59.4357741,
+  "lon": 24.7427224
+},
+{
+  "type": "node",
+  "id": 6433983702,
+  "lat": 59.4357624,
+  "lon": 24.7427220
+},
+{
+  "type": "node",
+  "id": 6433983703,
+  "lat": 59.4357634,
+  "lon": 24.7427006
+},
+{
+  "type": "node",
+  "id": 6433983704,
+  "lat": 59.4357750,
+  "lon": 24.7427033
+},
+{
+  "type": "node",
+  "id": 6433983705,
+  "lat": 59.4357803,
+  "lon": 24.7425997
+},
+{
+  "type": "node",
+  "id": 6433983706,
+  "lat": 59.4357691,
+  "lon": 24.7425983
+},
+{
+  "type": "node",
+  "id": 6433983707,
+  "lat": 59.4357695,
+  "lon": 24.7425809
+},
+{
+  "type": "node",
+  "id": 6433983708,
+  "lat": 59.4357816,
+  "lon": 24.7425829
+},
+{
+  "type": "node",
+  "id": 6433983709,
+  "lat": 59.4359467,
+  "lon": 24.7433580
+},
+{
+  "type": "node",
+  "id": 6433983710,
+  "lat": 59.4357595,
+  "lon": 24.7430016
+},
+{
+  "type": "node",
+  "id": 6433983711,
+  "lat": 59.4357661,
+  "lon": 24.7428578
+},
+{
+  "type": "node",
+  "id": 6433983712,
+  "lat": 59.4357561,
+  "lon": 24.7428568
+},
+{
+  "type": "node",
+  "id": 6433983713,
+  "lat": 59.4357566,
+  "lon": 24.7428390
+},
+{
+  "type": "node",
+  "id": 6433983714,
+  "lat": 59.4357600,
+  "lon": 24.7429819
+},
+{
+  "type": "node",
+  "id": 6433983715,
+  "lat": 59.4357673,
+  "lon": 24.7428397
+},
+{
+  "type": "node",
+  "id": 6433983716,
+  "lat": 59.4357399,
+  "lon": 24.7431726
+},
+{
+  "type": "node",
+  "id": 6433983717,
+  "lat": 59.4357383,
+  "lon": 24.7431522
+},
+{
+  "type": "node",
+  "id": 6433983718,
+  "lat": 59.4357516,
+  "lon": 24.7431686
+},
+{
+  "type": "node",
+  "id": 6433983719,
+  "lat": 59.4357686,
+  "lon": 24.7433079
+},
+{
+  "type": "node",
+  "id": 294847972,
+  "lat": 59.4409440,
+  "lon": 24.7452370
+},
+{
+  "type": "node",
+  "id": 294847973,
+  "lat": 59.4408528,
+  "lon": 24.7450543
+},
+{
+  "type": "node",
+  "id": 2104922304,
+  "lat": 59.4407389,
+  "lon": 24.7452576
+},
+{
+  "type": "node",
+  "id": 2104922306,
+  "lat": 59.4407880,
+  "lon": 24.7450947
+},
+{
+  "type": "node",
+  "id": 2104922310,
+  "lat": 59.4408254,
+  "lon": 24.7451278
+},
+{
+  "type": "node",
+  "id": 2104922315,
+  "lat": 59.4408609,
+  "lon": 24.7454462
+},
+{
+  "type": "node",
+  "id": 294517676,
+  "lat": 59.4468800,
+  "lon": 24.7106360
+},
+{
+  "type": "node",
+  "id": 294517678,
+  "lat": 59.4469100,
+  "lon": 24.7105980
+},
+{
+  "type": "node",
+  "id": 294517679,
+  "lat": 59.4468760,
+  "lon": 24.7108930
+},
+{
+  "type": "node",
+  "id": 294517680,
+  "lat": 59.4468870,
+  "lon": 24.7107860
+},
+{
+  "type": "node",
+  "id": 294517713,
+  "lat": 59.4464260,
+  "lon": 24.7107500
+},
+{
+  "type": "node",
+  "id": 294517714,
+  "lat": 59.4468610,
+  "lon": 24.7103780
+},
+{
+  "type": "node",
+  "id": 294517715,
+  "lat": 59.4465020,
+  "lon": 24.7109500
+},
+{
+  "type": "node",
+  "id": 294517716,
+  "lat": 59.4464720,
+  "lon": 24.7109690
+},
+{
+  "type": "node",
+  "id": 294517717,
+  "lat": 59.4465900,
+  "lon": 24.7111180
+},
+{
+  "type": "node",
+  "id": 294517718,
+  "lat": 59.4465400,
+  "lon": 24.7110480
+},
+{
+  "type": "node",
+  "id": 294517719,
+  "lat": 59.4467200,
+  "lon": 24.7111700
+},
+{
+  "type": "node",
+  "id": 294517720,
+  "lat": 59.4466470,
+  "lon": 24.7111600
+},
+{
+  "type": "node",
+  "id": 294517721,
+  "lat": 59.4468530,
+  "lon": 24.7112920
+},
+{
+  "type": "node",
+  "id": 294517722,
+  "lat": 59.4467650,
+  "lon": 24.7113640
+},
+{
+  "type": "node",
+  "id": 294517723,
+  "lat": 59.4468460,
+  "lon": 24.7110100
+},
+{
+  "type": "node",
+  "id": 294517724,
+  "lat": 59.4468070,
+  "lon": 24.7110840
+},
+{
+  "type": "node",
+  "id": 294522966,
+  "lat": 59.4522851,
+  "lon": 24.7389150
+},
+{
+  "type": "node",
+  "id": 294522967,
+  "lat": 59.4522955,
+  "lon": 24.7380164
+},
+{
+  "type": "node",
+  "id": 294522968,
+  "lat": 59.4511892,
+  "lon": 24.7379670
+},
+{
+  "type": "node",
+  "id": 294522969,
+  "lat": 59.4511872,
+  "lon": 24.7381218
+},
+{
+  "type": "node",
+  "id": 294522973,
+  "lat": 59.4511804,
+  "lon": 24.7387274
+},
+{
+  "type": "node",
+  "id": 294522974,
+  "lat": 59.4511788,
+  "lon": 24.7388651
+},
+{
+  "type": "node",
+  "id": 1559595791,
+  "lat": 59.4511848,
+  "lon": 24.7383509
+},
+{
+  "type": "node",
+  "id": 7138606686,
+  "lat": 59.4515518,
+  "lon": 24.7388819
+},
+{
+  "type": "node",
+  "id": 7138606687,
+  "lat": 59.4512285,
+  "lon": 24.7388674
+},
+{
+  "type": "node",
+  "id": 7138606688,
+  "lat": 59.4512380,
+  "lon": 24.7379695
+},
+{
+  "type": "node",
+  "id": 7138606689,
+  "lat": 59.4515608,
+  "lon": 24.7379835
+},
+{
+  "type": "node",
+  "id": 7138606690,
+  "lat": 59.4518876,
+  "lon": 24.7379981
+},
+{
+  "type": "node",
+  "id": 7138606691,
+  "lat": 59.4522151,
+  "lon": 24.7380128
+},
+{
+  "type": "node",
+  "id": 7138606692,
+  "lat": 59.4522056,
+  "lon": 24.7389114
+},
+{
+  "type": "node",
+  "id": 7138606693,
+  "lat": 59.4518786,
+  "lon": 24.7388967
+},
+{
+  "type": "node",
+  "id": 7138606694,
+  "lat": 59.4522938,
+  "lon": 24.7381633
+},
+{
+  "type": "node",
+  "id": 7138606695,
+  "lat": 59.4522866,
+  "lon": 24.7387870
+},
+{
+  "type": "node",
+  "id": 294848776,
+  "lat": 59.4332951,
+  "lon": 24.7493848
+},
+{
+  "type": "node",
+  "id": 294860164,
+  "lat": 59.4334780,
+  "lon": 24.7497258
+},
+{
+  "type": "node",
+  "id": 294860165,
+  "lat": 59.4334756,
+  "lon": 24.7497027
+},
+{
+  "type": "node",
+  "id": 294860167,
+  "lat": 59.4334443,
+  "lon": 24.7496586
+},
+{
+  "type": "node",
+  "id": 294860221,
+  "lat": 59.4332810,
+  "lon": 24.7504018
+},
+{
+  "type": "node",
+  "id": 294860225,
+  "lat": 59.4332825,
+  "lon": 24.7503544
+},
+{
+  "type": "node",
+  "id": 294860239,
+  "lat": 59.4334661,
+  "lon": 24.7503302
+},
+{
+  "type": "node",
+  "id": 294860243,
+  "lat": 59.4334736,
+  "lon": 24.7500749
+},
+{
+  "type": "node",
+  "id": 294860247,
+  "lat": 59.4334591,
+  "lon": 24.7500730
+},
+{
+  "type": "node",
+  "id": 2109931748,
+  "lat": 59.4331798,
+  "lon": 24.7496270
+},
+{
+  "type": "node",
+  "id": 2109931750,
+  "lat": 59.4331846,
+  "lon": 24.7496169
+},
+{
+  "type": "node",
+  "id": 2109931752,
+  "lat": 59.4332095,
+  "lon": 24.7496815
+},
+{
+  "type": "node",
+  "id": 2109931755,
+  "lat": 59.4332147,
+  "lon": 24.7496706
+},
+{
+  "type": "node",
+  "id": 2109931756,
+  "lat": 59.4332251,
+  "lon": 24.7501956
+},
+{
+  "type": "node",
+  "id": 2109931758,
+  "lat": 59.4332292,
+  "lon": 24.7496973
+},
+{
+  "type": "node",
+  "id": 2109931759,
+  "lat": 59.4332359,
+  "lon": 24.7496832
+},
+{
+  "type": "node",
+  "id": 2109931762,
+  "lat": 59.4332888,
+  "lon": 24.7493977
+},
+{
+  "type": "node",
+  "id": 2109931763,
+  "lat": 59.4332966,
+  "lon": 24.7501273
+},
+{
+  "type": "node",
+  "id": 2109931764,
+  "lat": 59.4333074,
+  "lon": 24.7498144
+},
+{
+  "type": "node",
+  "id": 2109931766,
+  "lat": 59.4333026,
+  "lon": 24.7499724
+},
+{
+  "type": "node",
+  "id": 2109931771,
+  "lat": 59.4334657,
+  "lon": 24.7498703
+},
+{
+  "type": "node",
+  "id": 2109931774,
+  "lat": 59.4334856,
+  "lon": 24.7497982
+},
+{
+  "type": "node",
+  "id": 2109931776,
+  "lat": 59.4334832,
+  "lon": 24.7498725
+},
+{
+  "type": "node",
+  "id": 2109931778,
+  "lat": 59.4334892,
+  "lon": 24.7497987
+},
+{
+  "type": "node",
+  "id": 2109931780,
+  "lat": 59.4334915,
+  "lon": 24.7497253
+},
+{
+  "type": "node",
+  "id": 7006572387,
+  "lat": 59.4334694,
+  "lon": 24.7496824
+},
+{
+  "type": "node",
+  "id": 7006572388,
+  "lat": 59.4334490,
+  "lon": 24.7496589
+},
+{
+  "type": "node",
+  "id": 7006572389,
+  "lat": 59.4334602,
+  "lon": 24.7496673
+},
+{
+  "type": "node",
+  "id": 7006572394,
+  "lat": 59.4334405,
+  "lon": 24.7503646
+},
+{
+  "type": "node",
+  "id": 7006572399,
+  "lat": 59.4332219,
+  "lon": 24.7503944
+},
+{
+  "type": "node",
+  "id": 7101077828,
+  "lat": 59.4334527,
+  "lon": 24.7503898
+},
+{
+  "type": "node",
+  "id": 7101077829,
+  "lat": 59.4334744,
+  "lon": 24.7503461
+},
+{
+  "type": "node",
+  "id": 7101077831,
+  "lat": 59.4334670,
+  "lon": 24.7502639
+},
+{
+  "type": "node",
+  "id": 7101077838,
+  "lat": 59.4332210,
+  "lon": 24.7501949
+},
+{
+  "type": "node",
+  "id": 7101077839,
+  "lat": 59.4333374,
+  "lon": 24.7494624
+},
+{
+  "type": "node",
+  "id": 7101153571,
+  "lat": 59.4332250,
+  "lon": 24.7502194
+},
+{
+  "type": "node",
+  "id": 7101153576,
+  "lat": 59.4334701,
+  "lon": 24.7501766
+},
+{
+  "type": "node",
+  "id": 7101153578,
+  "lat": 59.4332218,
+  "lon": 24.7501262
+},
+{
+  "type": "node",
+  "id": 7105391066,
+  "lat": 59.4334245,
+  "lon": 24.7503635
+},
+{
+  "type": "node",
+  "id": 7105391071,
+  "lat": 59.4334691,
+  "lon": 24.7503360
+},
+{
+  "type": "node",
+  "id": 7105391072,
+  "lat": 59.4334479,
+  "lon": 24.7503798
+},
+{
+  "type": "node",
+  "id": 294419695,
+  "lat": 59.4417610,
+  "lon": 24.7498090
+},
+{
+  "type": "node",
+  "id": 294419696,
+  "lat": 59.4419860,
+  "lon": 24.7499350
+},
+{
+  "type": "node",
+  "id": 294419697,
+  "lat": 59.4420200,
+  "lon": 24.7497270
+},
+{
+  "type": "node",
+  "id": 294419698,
+  "lat": 59.4417950,
+  "lon": 24.7495990
+},
+{
+  "type": "node",
+  "id": 294841381,
+  "lat": 59.4419992,
+  "lon": 24.7473974
+},
+{
+  "type": "node",
+  "id": 294841383,
+  "lat": 59.4419899,
+  "lon": 24.7473123
+},
+{
+  "type": "node",
+  "id": 294841386,
+  "lat": 59.4420459,
+  "lon": 24.7471756
+},
+{
+  "type": "node",
+  "id": 294841387,
+  "lat": 59.4421088,
+  "lon": 24.7471910
+},
+{
+  "type": "node",
+  "id": 294841388,
+  "lat": 59.4421425,
+  "lon": 24.7472713
+},
+{
+  "type": "node",
+  "id": 294841389,
+  "lat": 59.4421471,
+  "lon": 24.7473306
+},
+{
+  "type": "node",
+  "id": 294841395,
+  "lat": 59.4421155,
+  "lon": 24.7474477
+},
+{
+  "type": "node",
+  "id": 294841396,
+  "lat": 59.4421385,
+  "lon": 24.7473937
+},
+{
+  "type": "node",
+  "id": 294841397,
+  "lat": 59.4420345,
+  "lon": 24.7474633
+},
+{
+  "type": "node",
+  "id": 294841398,
+  "lat": 59.4420861,
+  "lon": 24.7474745
+},
+{
+  "type": "node",
+  "id": 599726486,
+  "lat": 59.4421453,
+  "lon": 24.7473575
+},
+{
+  "type": "node",
+  "id": 599726487,
+  "lat": 59.4421273,
+  "lon": 24.7472209
+},
+{
+  "type": "node",
+  "id": 599726488,
+  "lat": 59.4420815,
+  "lon": 24.7471712
+},
+{
+  "type": "node",
+  "id": 599726489,
+  "lat": 59.4420062,
+  "lon": 24.7472289
+},
+{
+  "type": "node",
+  "id": 599726490,
+  "lat": 59.4419946,
+  "lon": 24.7472697
+},
+{
+  "type": "node",
+  "id": 599726491,
+  "lat": 59.4419912,
+  "lon": 24.7473538
+},
+{
+  "type": "node",
+  "id": 599726492,
+  "lat": 59.4420169,
+  "lon": 24.7474407
+},
+{
+  "type": "node",
+  "id": 599726493,
+  "lat": 59.4420615,
+  "lon": 24.7474778
+},
+{
+  "type": "node",
+  "id": 4815726021,
+  "lat": 59.4420234,
+  "lon": 24.7471952
+},
+{
+  "type": "node",
+  "id": 4815726023,
+  "lat": 59.4421283,
+  "lon": 24.7474247
+},
+{
+  "type": "node",
+  "id": 294440715,
+  "lat": 59.4404938,
+  "lon": 24.7561158
+},
+{
+  "type": "node",
+  "id": 294440716,
+  "lat": 59.4403488,
+  "lon": 24.7567688
+},
+{
+  "type": "node",
+  "id": 294440717,
+  "lat": 59.4401698,
+  "lon": 24.7566138
+},
+{
+  "type": "node",
+  "id": 294440718,
+  "lat": 59.4403108,
+  "lon": 24.7559578
+},
+{
+  "type": "node",
+  "id": 294447646,
+  "lat": 59.4364566,
+  "lon": 24.7854843
+},
+{
+  "type": "node",
+  "id": 294447648,
+  "lat": 59.4363683,
+  "lon": 24.7853872
+},
+{
+  "type": "node",
+  "id": 294447655,
+  "lat": 59.4365785,
+  "lon": 24.7854364
+},
+{
+  "type": "node",
+  "id": 294447657,
+  "lat": 59.4365564,
+  "lon": 24.7854121
+},
+{
+  "type": "node",
+  "id": 294447659,
+  "lat": 59.4365400,
+  "lon": 24.7854694
+},
+{
+  "type": "node",
+  "id": 294447661,
+  "lat": 59.4364797,
+  "lon": 24.7854031
+},
+{
+  "type": "node",
+  "id": 294447703,
+  "lat": 59.4366020,
+  "lon": 24.7853536
+},
+{
+  "type": "node",
+  "id": 294447704,
+  "lat": 59.4365790,
+  "lon": 24.7853283
+},
+{
+  "type": "node",
+  "id": 294447705,
+  "lat": 59.4365950,
+  "lon": 24.7852719
+},
+{
+  "type": "node",
+  "id": 294447706,
+  "lat": 59.4364745,
+  "lon": 24.7851392
+},
+{
+  "type": "node",
+  "id": 294447707,
+  "lat": 59.4364622,
+  "lon": 24.7851825
+},
+{
+  "type": "node",
+  "id": 294447708,
+  "lat": 59.4364350,
+  "lon": 24.7851527
+},
+{
+  "type": "node",
+  "id": 294445924,
+  "lat": 59.4375760,
+  "lon": 24.7911890
+},
+{
+  "type": "node",
+  "id": 294445927,
+  "lat": 59.4374800,
+  "lon": 24.7910800
+},
+{
+  "type": "node",
+  "id": 294445929,
+  "lat": 59.4374880,
+  "lon": 24.7916730
+},
+{
+  "type": "node",
+  "id": 294445930,
+  "lat": 59.4373810,
+  "lon": 24.7916060
+},
+{
+  "type": "node",
+  "id": 294514877,
+  "lat": 59.4365162,
+  "lon": 24.7890487
+},
+{
+  "type": "node",
+  "id": 294514879,
+  "lat": 59.4364803,
+  "lon": 24.7893276
+},
+{
+  "type": "node",
+  "id": 294514890,
+  "lat": 59.4366083,
+  "lon": 24.7894529
+},
+{
+  "type": "node",
+  "id": 294514891,
+  "lat": 59.4368735,
+  "lon": 24.7897121
+},
+{
+  "type": "node",
+  "id": 294514894,
+  "lat": 59.4369057,
+  "lon": 24.7895851
+},
+{
+  "type": "node",
+  "id": 294514895,
+  "lat": 59.4369210,
+  "lon": 24.7896001
+},
+{
+  "type": "node",
+  "id": 294514897,
+  "lat": 59.4365403,
+  "lon": 24.7893864
+},
+{
+  "type": "node",
+  "id": 294514900,
+  "lat": 59.4365498,
+  "lon": 24.7893490
+},
+{
+  "type": "node",
+  "id": 294514904,
+  "lat": 59.4366178,
+  "lon": 24.7894155
+},
+{
+  "type": "node",
+  "id": 294514974,
+  "lat": 59.4366001,
+  "lon": 24.7891308
+},
+{
+  "type": "node",
+  "id": 294514977,
+  "lat": 59.4366526,
+  "lon": 24.7894160
+},
+{
+  "type": "node",
+  "id": 294514982,
+  "lat": 59.4368616,
+  "lon": 24.7896203
+},
+{
+  "type": "node",
+  "id": 294514983,
+  "lat": 59.4368981,
+  "lon": 24.7894763
+},
+{
+  "type": "node",
+  "id": 294514985,
+  "lat": 59.4369416,
+  "lon": 24.7895189
+},
+{
+  "type": "node",
+  "id": 6925085895,
+  "lat": 59.4366891,
+  "lon": 24.7892722
+},
+{
+  "type": "node",
+  "id": 6925085896,
+  "lat": 59.4365891,
+  "lon": 24.7891744
+},
+{
+  "type": "node",
+  "id": 6925085897,
+  "lat": 59.4365097,
+  "lon": 24.7892114
+},
+{
+  "type": "node",
+  "id": 6925085898,
+  "lat": 59.4364818,
+  "lon": 24.7891841
+},
+{
+  "type": "node",
+  "id": 294498965,
+  "lat": 59.4376509,
+  "lon": 24.7961857
+},
+{
+  "type": "node",
+  "id": 294498966,
+  "lat": 59.4376746,
+  "lon": 24.7961428
+},
+{
+  "type": "node",
+  "id": 294498967,
+  "lat": 59.4376245,
+  "lon": 24.7960363
+},
+{
+  "type": "node",
+  "id": 294498968,
+  "lat": 59.4375476,
+  "lon": 24.7961760
+},
+{
+  "type": "node",
+  "id": 294498972,
+  "lat": 59.4376676,
+  "lon": 24.7964313
+},
+{
+  "type": "node",
+  "id": 294498973,
+  "lat": 59.4377208,
+  "lon": 24.7963346
+},
+{
+  "type": "node",
+  "id": 294531684,
+  "lat": 59.4363929,
+  "lon": 24.7956227
+},
+{
+  "type": "node",
+  "id": 294531686,
+  "lat": 59.4364269,
+  "lon": 24.7956109
+},
+{
+  "type": "node",
+  "id": 294531688,
+  "lat": 59.4364667,
+  "lon": 24.7955960
+},
+{
+  "type": "node",
+  "id": 294531689,
+  "lat": 59.4365214,
+  "lon": 24.7955685
+},
+{
+  "type": "node",
+  "id": 294531690,
+  "lat": 59.4365601,
+  "lon": 24.7955598
+},
+{
+  "type": "node",
+  "id": 294531691,
+  "lat": 59.4367516,
+  "lon": 24.7958548
+},
+{
+  "type": "node",
+  "id": 294531692,
+  "lat": 59.4366939,
+  "lon": 24.7960065
+},
+{
+  "type": "node",
+  "id": 294531693,
+  "lat": 59.4365035,
+  "lon": 24.7956989
+},
+{
+  "type": "node",
+  "id": 294531738,
+  "lat": 59.4359623,
+  "lon": 24.7968136
+},
+{
+  "type": "node",
+  "id": 294531740,
+  "lat": 59.4359728,
+  "lon": 24.7970318
+},
+{
+  "type": "node",
+  "id": 294531743,
+  "lat": 59.4359394,
+  "lon": 24.7963958
+},
+{
+  "type": "node",
+  "id": 294531745,
+  "lat": 59.4359180,
+  "lon": 24.7965488
+},
+{
+  "type": "node",
+  "id": 294531746,
+  "lat": 59.4359058,
+  "lon": 24.7966887
+},
+{
+  "type": "node",
+  "id": 294531747,
+  "lat": 59.4359041,
+  "lon": 24.7967928
+},
+{
+  "type": "node",
+  "id": 294531748,
+  "lat": 59.4360905,
+  "lon": 24.7958662
+},
+{
+  "type": "node",
+  "id": 294531749,
+  "lat": 59.4360441,
+  "lon": 24.7959943
+},
+{
+  "type": "node",
+  "id": 294531750,
+  "lat": 59.4360006,
+  "lon": 24.7961354
+},
+{
+  "type": "node",
+  "id": 294531751,
+  "lat": 59.4359702,
+  "lon": 24.7962550
+},
+{
+  "type": "node",
+  "id": 294531752,
+  "lat": 59.4363659,
+  "lon": 24.7955184
+},
+{
+  "type": "node",
+  "id": 294531753,
+  "lat": 59.4363088,
+  "lon": 24.7955695
+},
+{
+  "type": "node",
+  "id": 294531754,
+  "lat": 59.4362181,
+  "lon": 24.7956540
+},
+{
+  "type": "node",
+  "id": 294531756,
+  "lat": 59.4361614,
+  "lon": 24.7957456
+},
+{
+  "type": "node",
+  "id": 619993095,
+  "lat": 59.4363753,
+  "lon": 24.7955530
+},
+{
+  "type": "node",
+  "id": 60443630,
+  "lat": 59.4386911,
+  "lon": 24.7909489
+},
+{
+  "type": "node",
+  "id": 60443631,
+  "lat": 59.4386702,
+  "lon": 24.7910694
+},
+{
+  "type": "node",
+  "id": 60443636,
+  "lat": 59.4383463,
+  "lon": 24.7908339
+},
+{
+  "type": "node",
+  "id": 60443637,
+  "lat": 59.4383642,
+  "lon": 24.7907302
+},
+{
+  "type": "node",
+  "id": 619993020,
+  "lat": 59.4382724,
+  "lon": 24.7910403
+},
+{
+  "type": "node",
+  "id": 619993022,
+  "lat": 59.4383834,
+  "lon": 24.7911974
+},
+{
+  "type": "node",
+  "id": 619993024,
+  "lat": 59.4383120,
+  "lon": 24.7908110
+},
+{
+  "type": "node",
+  "id": 619993026,
+  "lat": 59.4383962,
+  "lon": 24.7911231
+},
+{
+  "type": "node",
+  "id": 619993037,
+  "lat": 59.4387123,
+  "lon": 24.7910976
+},
+{
+  "type": "node",
+  "id": 619993042,
+  "lat": 59.4385489,
+  "lon": 24.7912185
+},
+{
+  "type": "node",
+  "id": 619993044,
+  "lat": 59.4386766,
+  "lon": 24.7913039
+},
+{
+  "type": "node",
+  "id": 619993046,
+  "lat": 59.4385350,
+  "lon": 24.7912989
+},
+{
+  "type": "node",
+  "id": 294586931,
+  "lat": 59.4533274,
+  "lon": 24.8097030
+},
+{
+  "type": "node",
+  "id": 294586933,
+  "lat": 59.4531428,
+  "lon": 24.8093756
+},
+{
+  "type": "node",
+  "id": 294586935,
+  "lat": 59.4531158,
+  "lon": 24.8094708
+},
+{
+  "type": "node",
+  "id": 294586945,
+  "lat": 59.4530294,
+  "lon": 24.8092512
+},
+{
+  "type": "node",
+  "id": 294590213,
+  "lat": 59.4540060,
+  "lon": 24.8106270
+},
+{
+  "type": "node",
+  "id": 294590214,
+  "lat": 59.4538340,
+  "lon": 24.8102970
+},
+{
+  "type": "node",
+  "id": 294590215,
+  "lat": 59.4534070,
+  "lon": 24.8098080
+},
+{
+  "type": "node",
+  "id": 294590414,
+  "lat": 59.4542270,
+  "lon": 24.8111970
+},
+{
+  "type": "node",
+  "id": 294590417,
+  "lat": 59.4540210,
+  "lon": 24.8107260
+},
+{
+  "type": "node",
+  "id": 633030292,
+  "lat": 59.4526545,
+  "lon": 24.8090987
+},
+{
+  "type": "node",
+  "id": 635078807,
+  "lat": 59.4523648,
+  "lon": 24.8096565
+},
+{
+  "type": "node",
+  "id": 635078809,
+  "lat": 59.4520217,
+  "lon": 24.8113944
+},
+{
+  "type": "node",
+  "id": 639309420,
+  "lat": 59.4543252,
+  "lon": 24.8113480
+},
+{
+  "type": "node",
+  "id": 639309421,
+  "lat": 59.4542656,
+  "lon": 24.8113288
+},
+{
+  "type": "node",
+  "id": 697602400,
+  "lat": 59.4525078,
+  "lon": 24.8089868
+},
+{
+  "type": "node",
+  "id": 697602403,
+  "lat": 59.4520915,
+  "lon": 24.8109444
+},
+{
+  "type": "node",
+  "id": 697602411,
+  "lat": 59.4526757,
+  "lon": 24.8090987
+},
+{
+  "type": "node",
+  "id": 697602413,
+  "lat": 59.4526283,
+  "lon": 24.8090987
+},
+{
+  "type": "node",
+  "id": 697602416,
+  "lat": 59.4526161,
+  "lon": 24.8090454
+},
+{
+  "type": "node",
+  "id": 697602418,
+  "lat": 59.4526012,
+  "lon": 24.8090055
+},
+{
+  "type": "node",
+  "id": 697602419,
+  "lat": 59.4527299,
+  "lon": 24.8090534
+},
+{
+  "type": "node",
+  "id": 697602421,
+  "lat": 59.4526920,
+  "lon": 24.8090614
+},
+{
+  "type": "node",
+  "id": 697602424,
+  "lat": 59.4528856,
+  "lon": 24.8091307
+},
+{
+  "type": "node",
+  "id": 697602437,
+  "lat": 59.4543023,
+  "lon": 24.8113377
+},
+{
+  "type": "node",
+  "id": 6126967544,
+  "lat": 59.4533655,
+  "lon": 24.8097532
+},
+{
+  "type": "node",
+  "id": 6126988561,
+  "lat": 59.4533080,
+  "lon": 24.8096817
+},
+{
+  "type": "node",
+  "id": 6126988568,
+  "lat": 59.4534217,
+  "lon": 24.8098248
+},
+{
+  "type": "node",
+  "id": 6718532266,
+  "lat": 59.4522431,
+  "lon": 24.8101688
+},
+{
+  "type": "node",
+  "id": 635078811,
+  "lat": 59.4525998,
+  "lon": 24.8120382
+},
+{
+  "type": "node",
+  "id": 635078813,
+  "lat": 59.4542393,
+  "lon": 24.8121224
+},
+{
+  "type": "node",
+  "id": 635078824,
+  "lat": 59.4535817,
+  "lon": 24.8130822
+},
+{
+  "type": "node",
+  "id": 4870410496,
+  "lat": 59.4529155,
+  "lon": 24.8123698
+},
+{
+  "type": "node",
+  "id": 4870410498,
+  "lat": 59.4530693,
+  "lon": 24.8125375
+},
+{
+  "type": "node",
+  "id": 1614937421,
+  "lat": 59.4401640,
+  "lon": 25.1341993
+},
+{
+  "type": "node",
+  "id": 1614937423,
+  "lat": 59.4402163,
+  "lon": 25.1338776
+},
+{
+  "type": "node",
+  "id": 1614937424,
+  "lat": 59.4402529,
+  "lon": 25.1342551
+},
+{
+  "type": "node",
+  "id": 1614937425,
+  "lat": 59.4403052,
+  "lon": 25.1339333
+},
+{
+  "type": "node",
+  "id": 1300488898,
+  "lat": 59.3372872,
+  "lon": 25.3329480
+},
+{
+  "type": "node",
+  "id": 1300489111,
+  "lat": 59.3371433,
+  "lon": 25.3334329
+},
+{
+  "type": "node",
+  "id": 1300491540,
+  "lat": 59.3372411,
+  "lon": 25.3335446
+},
+{
+  "type": "node",
+  "id": 1300491886,
+  "lat": 59.3373851,
+  "lon": 25.3330597
+}
+
+  ]
+}

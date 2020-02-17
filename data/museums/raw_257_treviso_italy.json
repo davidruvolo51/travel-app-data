@@ -1,0 +1,3296 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-14T15:03:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 250421435,
+  "lat": 45.4451347,
+  "lon": 12.3271807,
+  "tags": {
+    "addr:housenumber": "2902B",
+    "addr:neighbourhood": "Cannaregio",
+    "addr:place": "Cannaregio",
+    "addr:postcode": "30100",
+    "ethnicity": "hebrew",
+    "museum": "cultural",
+    "name": "Museo Ebraico",
+    "name:hu": "Zsidó Múzeum",
+    "opening_hours": "Su-Fr 10:00-17:30",
+    "phone": "+39 041 715359",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 445126323,
+  "lat": 45.6246817,
+  "lon": 12.5848418,
+  "tags": {
+    "name": "Museo Della Bonifica",
+    "toilets:wheelchair": "yes",
+    "tourism": "museum",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 611720447,
+  "lat": 45.8325493,
+  "lon": 12.0313492,
+  "tags": {
+    "addr:city": "Cornuda",
+    "addr:housenumber": "3",
+    "addr:street": "Via Canapificio",
+    "facebook": "https://it-it.facebook.com/tipoteca/",
+    "name": "Tipoteca italiana Fondazione - Museo della Stampa e del Design Tipografico",
+    "opening_hours": "Mo-Sa 09:00-13:00, 14:00-18:00; PH off",
+    "operator": "Tipoteca italiana Fondazione",
+    "phone": "+39 0423 86338",
+    "tourism": "museum",
+    "website": "http://www.tipoteca.it/"
+  }
+},
+{
+  "type": "node",
+  "id": 895801921,
+  "lat": 45.4566191,
+  "lon": 12.3568893,
+  "tags": {
+    "addr:city": "Murano",
+    "addr:housenumber": "8",
+    "addr:postcode": "30141",
+    "addr:street": "Fondamenta Marco Giustinian",
+    "cost": "6,50 euro",
+    "name": "Museo del Vetro",
+    "name:en": "Glass Museum",
+    "name:it": "Museo Del Vetro",
+    "opening_hours": "Mo-Su 10:00-17:00",
+    "tourism": "museum",
+    "website": "museovetro.visitmuve.it",
+    "wikidata": "Q3867986",
+    "wikipedia": "it:Museo del vetro"
+  }
+},
+{
+  "type": "node",
+  "id": 895805118,
+  "lat": 45.4312440,
+  "lon": 12.3282997,
+  "tags": {
+    "addr:city": "Venezia",
+    "addr:country": "IT",
+    "addr:housenumber": "1050",
+    "addr:postcode": "30123",
+    "addr:street": "Campo de la Carità",
+    "email": "infogallerie.venezia@beniculturali.it",
+    "name": "Gallerie dell'Accademia",
+    "name:en": "Accademia Gallery",
+    "name:es": "Galería de la Academia",
+    "name:it": "Galleria dell'Accademia",
+    "name:ru": "Галерея Академии",
+    "name:zh": "威尼斯美术学院",
+    "opening_hours": "Tu-Su 08:15-19:15; Mo 8:15-14:00",
+    "phone": "+ 39 041 5222247",
+    "start_date": "1817",
+    "tourism": "museum",
+    "website": "http://www.gallerieaccademia.it/en",
+    "wheelchair": "yes",
+    "wikidata": "Q338330",
+    "wikipedia": "it:Gallerie dell'Accademia"
+  }
+},
+{
+  "type": "node",
+  "id": 1050907475,
+  "lat": 45.6668927,
+  "lon": 12.2507436,
+  "tags": {
+    "name": "Museo di Santa Caterina",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1050982804,
+  "lat": 45.6675225,
+  "lon": 12.2381655,
+  "tags": {
+    "name": "Museo Civico Luigi Bailo",
+    "tourism": "museum",
+    "wikidata": "Q51166",
+    "wikipedia": "it:Museo civico Luigi Bailo"
+  }
+},
+{
+  "type": "node",
+  "id": 1421791028,
+  "lat": 45.7785779,
+  "lon": 12.0574307,
+  "tags": {
+    "addr:city": "Montebelluna",
+    "addr:housenumber": "51",
+    "addr:postcode": "31044",
+    "addr:street": "Via Piave",
+    "name": "Museo di Storia Naturale e Archeologia",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1439518551,
+  "lat": 45.7724149,
+  "lon": 12.4884018,
+  "tags": {
+    "name": "Museo Brandolini Rota",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1453806495,
+  "lat": 45.7902471,
+  "lon": 11.8353440,
+  "tags": {
+    "name": "Museo Barchessa Villa Rubelli",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1491595685,
+  "lat": 45.8666709,
+  "lon": 12.2497404,
+  "tags": {
+    "name": "Museo dell'uomo",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1535294343,
+  "lat": 45.5210242,
+  "lon": 12.1041310,
+  "tags": {
+    "name": "Museo San Pio X",
+    "name:hu": "X. Szent Piusz Pápa Múzeum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1546251996,
+  "lat": 45.8019884,
+  "lon": 11.9133076,
+  "tags": {
+    "name": "Museo Civico",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1681390595,
+  "lat": 45.5920074,
+  "lon": 12.4548217,
+  "tags": {
+    "name": "Centro Pavanello",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1705180588,
+  "lat": 45.8920398,
+  "lon": 12.3009241,
+  "tags": {
+    "contact:website": "http://www.dersut.it",
+    "fee": "no",
+    "name": "Museo del Caffè",
+    "operator": "Dersut Caffé",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1999968188,
+  "lat": 45.3671229,
+  "lon": 12.1334902,
+  "tags": {
+    "name": "Museo Archeologico di Santa Maria di Lugo",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 2029732889,
+  "lat": 45.8877230,
+  "lon": 12.3008187,
+  "tags": {
+    "contact:email": "museodeglialpini@anaconegliano.it",
+    "contact:website": "http://www.anaconegliano.it/museo/index.htm",
+    "name": "Museo degli Alpini",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 2173397106,
+  "lat": 45.4846526,
+  "lon": 12.4185601,
+  "tags": {
+    "addr:city": "Venezia",
+    "addr:postcode": "30142",
+    "addr:street": "Piazza Baldassare Galuppi",
+    "name": "Museo del Merletto di Burano",
+    "name:zh": "花边装饰艺术博物馆",
+    "opening_hours": "Tu-Su 10:00-17:00",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 2189681860,
+  "lat": 45.4288548,
+  "lon": 12.3579719,
+  "tags": {
+    "name": "Giardini della Biennale",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 2205844954,
+  "lat": 45.4346734,
+  "lon": 12.3408125,
+  "tags": {
+    "addr:housenumber": "4312",
+    "addr:neighbourhood": "Castello",
+    "addr:place": "Castello",
+    "addr:postcode": "30122",
+    "building": "yes",
+    "name": "Museo Diocesano",
+    "name:hu": "Egyházmegyei Múzeum",
+    "opening_hours": "Tu-Su 10:00-18:00",
+    "tourism": "museum",
+    "wikidata": "Q2579358",
+    "wikipedia": "it:Museo diocesano d'arte sacra Sant'Apollonia"
+  }
+},
+{
+  "type": "node",
+  "id": 2301298907,
+  "lat": 45.7788794,
+  "lon": 12.4915280,
+  "tags": {
+    "name": "Museo Archeologico \"Eno Bellis\"",
+    "tourism": "museum",
+    "wikidata": "Q3867789",
+    "wikipedia": "it:Museo civico archeologico Eno Bellis"
+  }
+},
+{
+  "type": "node",
+  "id": 2301307124,
+  "lat": 45.7787062,
+  "lon": 12.4911714,
+  "tags": {
+    "name": "Pinacoteca",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 2310921372,
+  "lat": 45.3724294,
+  "lon": 12.3376951,
+  "tags": {
+    "name": "Museo archeologico",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 2317052086,
+  "lat": 45.9764386,
+  "lon": 12.2931077,
+  "tags": {
+    "name": "Museo diocesano d'Arte Sacra \"Albino Luciani\"",
+    "tourism": "museum",
+    "wikidata": "Q3868299",
+    "wikipedia": "it:Museo diocesano Albino Luciani"
+  }
+},
+{
+  "type": "node",
+  "id": 2442180515,
+  "lat": 45.6709665,
+  "lon": 11.9269877,
+  "tags": {
+    "name": "Casa Giorgione",
+    "tourism": "museum",
+    "wikidata": "Q3661110",
+    "wikipedia": "it:Casa Giorgione"
+  }
+},
+{
+  "type": "node",
+  "id": 2517245274,
+  "lat": 45.4091524,
+  "lon": 12.0066543,
+  "tags": {
+    "name": "Museo Rossimoda della Calzatura",
+    "tourism": "museum",
+    "wikidata": "Q15961616",
+    "wikipedia": "it:Museo Rossimoda della calzatura"
+  }
+},
+{
+  "type": "node",
+  "id": 2682300549,
+  "lat": 45.6628846,
+  "lon": 12.2453427,
+  "tags": {
+    "name": "Spazio Paraggi",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 2761628204,
+  "lat": 45.5343328,
+  "lon": 11.9696013,
+  "tags": {
+    "addr:city": "Borgoricco",
+    "addr:housenumber": "12",
+    "addr:postcode": "35010",
+    "addr:street": "Viale Europa",
+    "name": "Museo della Centuriazione Romana",
+    "opening_hours": "Mo: Closed / Tu: 09:00-12:30 / We: 09:00-12:30/15:00-18:00 / Th: 09:00-12:30 / Fr: 09:00-12:30/15:00-18:00 / Sa: 09:00-12:30/15:00-18:30 / Su: 10:00-12:00/15:00-18:30",
+    "operator": "Comune di Borgoricco",
+    "tourism": "museum",
+    "website": "https://www.museodellacenturiazione.it/",
+    "wikipedia": "it:Museo della centuriazione romana (Borgoricco)"
+  }
+},
+{
+  "type": "node",
+  "id": 3158707594,
+  "lat": 45.4420427,
+  "lon": 12.3287992,
+  "tags": {
+    "name": "Museo di Storia Naturale di Venezia",
+    "name:en": "Natural History Museum",
+    "opening_hours": "Tu-Fr 09:00-17:00; Sa-Su 10:00-18:00",
+    "tourism": "museum",
+    "tourism_2": "yes",
+    "wikidata": "Q3867834",
+    "wikipedia": "it:Museo civico di storia naturale (Venezia)"
+  }
+},
+{
+  "type": "node",
+  "id": 3812442648,
+  "lat": 45.6715684,
+  "lon": 11.9274925,
+  "tags": {
+    "name": "Ingresso Torre Civica",
+    "opening_hours": "Sa 11:00-13:00,15:00-20:00; Su 10:00-13:00,15:00-20:00",
+    "phone": "+39 0423 735626",
+    "tourism": "museum",
+    "website": "https://www.facebook.com/torrecivicacastelfranco"
+  }
+},
+{
+  "type": "node",
+  "id": 3840421540,
+  "lat": 45.6665370,
+  "lon": 12.2476777,
+  "tags": {
+    "addr:city": "Treviso",
+    "addr:housenumber": "33/35",
+    "addr:postcode": "31100",
+    "addr:street": "Via Palestro",
+    "building:levels": "2",
+    "description": "Casa dei Carraresi è un palazzo medievale situato nel centro storico di Treviso, tra il fiume Cagnan e via Palestro, sede di importanti mostre e convegni.",
+    "email": "casadeicarraresi@fondazionecassamarca.it",
+    "fax": "+39 0422 513151",
+    "level": "0",
+    "name": "Casa dei Carraresi",
+    "operator": "Patrizia Verducci",
+    "phone": "+39 0422 513150",
+    "tourism": "museum",
+    "website": "http://www.casadeicarraresi.it/",
+    "wikidata": "Q3649109",
+    "wikipedia": "it:Ca' dei Carraresi"
+  }
+},
+{
+  "type": "node",
+  "id": 3924086871,
+  "lat": 45.6659822,
+  "lon": 12.2432506,
+  "tags": {
+    "addr:housenumber": "9",
+    "addr:street": "Via Canoniche",
+    "name": "Museo diocesano di arte sacra",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4068154736,
+  "lat": 45.4435058,
+  "lon": 12.3367169,
+  "tags": {
+    "addr:city": "Venezia",
+    "addr:housenumber": "4942",
+    "addr:postcode": "30121",
+    "addr:street": "Cannaregio",
+    "name": "Museo di Fisica \"Anton Maria Traversi\"",
+    "name:hu": "Anton Maria Traversi Fizikai Múzeum",
+    "operator": "Convitto Liceo \"Marco Foscarini\"",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4121738102,
+  "lat": 45.4336755,
+  "lon": 12.3372073,
+  "tags": {
+    "name": "Museo Correr",
+    "name:ru": "Музей Карэр",
+    "opening_hours": "10:00-19:00; Nov-Mar 10:00-17:00",
+    "tourism": "museum",
+    "wheelchair": "yes",
+    "wikidata": "Q1470912",
+    "wikipedia": "it:Museo Correr"
+  }
+},
+{
+  "type": "node",
+  "id": 4121738103,
+  "lat": 45.4337200,
+  "lon": 12.3388890,
+  "tags": {
+    "addr:city": "Venezia",
+    "addr:housenumber": "17/52",
+    "addr:postcode": "30124",
+    "addr:street": "Piazza San Marco",
+    "email": "pm-ven.archeologico@beniculturali.it",
+    "name": "Museo archeologico nazionale",
+    "name:en": "Venice National Archaeological Museum",
+    "name:es": "Museo Arqueológico Nacional de Venecia",
+    "name:fr": "Musée archéologique national de Venise",
+    "name:hu": "Velencei Nemzeti Régészeti Múzeum",
+    "opening_hours": "Mo-Su 10:00-17:00",
+    "phone": "+39 041 2967663",
+    "tourism": "museum",
+    "website": "https://polomusealeveneto.beniculturali.it/musei/museo-archeologico-nazionale-di-venezia",
+    "wikidata": "Q16580545",
+    "wikipedia": "it:Museo archeologico nazionale di Venezia"
+  }
+},
+{
+  "type": "node",
+  "id": 4149867507,
+  "lat": 45.7734907,
+  "lon": 12.5107432,
+  "tags": {
+    "name": "Museo di apicoltura Guido Fregonese",
+    "tourism": "museum",
+    "wikidata": "Q3868195",
+    "wikipedia": "it:Museo di apicoltura Guido Fregonese"
+  }
+},
+{
+  "type": "node",
+  "id": 4163471511,
+  "lat": 45.4331124,
+  "lon": 12.3315396,
+  "tags": {
+    "addr:housenumber": "2603",
+    "addr:place": "San Marco",
+    "name": "Museo della Musica",
+    "name:hu": "Zenetörténeti Múzeum",
+    "name:zh": "音乐博物馆",
+    "tourism": "museum",
+    "website": "http://museodellamusica.com"
+  }
+},
+{
+  "type": "node",
+  "id": 4237129800,
+  "lat": 45.4319493,
+  "lon": 12.3296330,
+  "tags": {
+    "name": "Istituto Veneto di Scienze Lettere ed Arti",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4330799289,
+  "lat": 45.4361536,
+  "lon": 12.3282611,
+  "tags": {
+    "addr:city": "Venezia",
+    "addr:country": "IT",
+    "addr:housenumber": "2794",
+    "addr:neighbourhood": "San Polo",
+    "addr:postcode": "30125",
+    "description:hu": "Carlo Goldoni (1707-1793) komédiaíró",
+    "name": "Casa di Carlo Goldoni",
+    "name:hu": "Carlo Goldoni szülőháza",
+    "opening_hours": "Mo, Tu, Th-Su 10:00-16:30",
+    "toilets:wheelchair": "yes",
+    "tourism": "museum",
+    "website": "http://carlogoldoni.visitmuve.it/",
+    "wheelchair": "yes",
+    "wikidata": "Q856400"
+  }
+},
+{
+  "type": "node",
+  "id": 4362153490,
+  "lat": 45.4334767,
+  "lon": 12.3505813,
+  "tags": {
+    "addr:housenumber": "2169/S",
+    "addr:postcode": "30122",
+    "addr:street": "Campo de la Tana",
+    "name": "La Biennale di Venezia - Arsenale",
+    "name:it": "La Biennale di Venezia - Arsenale",
+    "tourism": "museum",
+    "website": "http://labiannale.org"
+  }
+},
+{
+  "type": "node",
+  "id": 4363501528,
+  "lat": 45.4369212,
+  "lon": 12.3352147,
+  "tags": {
+    "description:en": "Contemporary art exhibitions",
+    "museum": "art",
+    "name": "Palazzo Bembo",
+    "operator": "GAA-Foundation",
+    "source": "website",
+    "tourism": "museum",
+    "website": "www.palazzobembo.org"
+  }
+},
+{
+  "type": "node",
+  "id": 4372320704,
+  "lat": 45.4412042,
+  "lon": 12.3316183,
+  "tags": {
+    "addr:city": "Venezia",
+    "addr:housenumber": "2076",
+    "addr:postcode": "30100",
+    "addr:street": "Sestriere Santa Croce",
+    "description": "Il museo si trova all'ultimo piano di Ca' Pesaro. ",
+    "email": "pm-ven.orientale@beniculturali.it",
+    "name": "Museo d'Arte Orientale",
+    "name:en": "Oriental Art Museum",
+    "name:hu": "Keleti Művészet Múzeuma",
+    "opening_hours": "Apr 1- Oct 31: Tu-Su 10:00-17:00; Nov 1-Mar 31: 10:00-16:00; Mo off; Jan 1 off; Dec 25 off",
+    "phone": "+39 041 5241173",
+    "tourism": "museum",
+    "website": "https://polomusealeveneto.beniculturali.it/musei/museo-d’arte-orientale",
+    "wikidata": "Q1403370",
+    "wikipedia": "it:Museo d'arte orientale (Venezia)"
+  }
+},
+{
+  "type": "node",
+  "id": 4450520490,
+  "lat": 45.4409267,
+  "lon": 12.3301711,
+  "tags": {
+    "name": "Palazzo Mocenigo",
+    "name:fr": "Palais Mocenigo",
+    "name:it": "Palazzo Mocenigo",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4475042527,
+  "lat": 45.4368723,
+  "lon": 12.3255900,
+  "tags": {
+    "contact:phone": "+ 39 041 8876815",
+    "name": "Leonardo da Vinci",
+    "tourism": "museum",
+    "website": "http://www.davincimuseum.it"
+  }
+},
+{
+  "type": "node",
+  "id": 4479285990,
+  "lat": 45.4406931,
+  "lon": 12.3298812,
+  "tags": {
+    "addr:housenumber": "1992",
+    "name": "Palazzo Mocenigo",
+    "name:ru": "Палаццо Мочениго",
+    "opening_hours": "Tu-Su 10:00-15:30",
+    "phone": "+39 041 721798",
+    "tourism": "museum",
+    "website": "https://mocenigo.visitmuve.it/en/home/"
+  }
+},
+{
+  "type": "node",
+  "id": 4482725553,
+  "lat": 45.4367261,
+  "lon": 12.3361098,
+  "tags": {
+    "addr:housenumber": "4826",
+    "addr:neighbourhood": "San Marco",
+    "addr:place": "San Marco",
+    "name:en": "TIM Future Center",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4493365870,
+  "lat": 45.4341507,
+  "lon": 12.3375524,
+  "tags": {
+    "addr:housenumber": "101",
+    "addr:neighbourhood": "San Marco",
+    "addr:place": "San Marco",
+    "addr:postcode": "30124",
+    "addr:street": "Piazza San Marco",
+    "name": "Negozio Olivetti",
+    "opening_hours": "Tu-Su 10:00-18:00",
+    "phone": "+390415228387",
+    "tourism": "museum",
+    "website": "https://www.fondoambiente.it/"
+  }
+},
+{
+  "type": "node",
+  "id": 4572028440,
+  "lat": 45.4411055,
+  "lon": 12.3318118,
+  "tags": {
+    "name": "Galleria internazionale di arte moderna",
+    "name:en": "Modern Art International Gallery",
+    "name:hu": "Nemzetközi Modern Művészeti Galéria",
+    "opening_hours": "Mar - Dom 10 – 17 ultimo ingresso 16",
+    "operator": "Fondazione musei civici di Venezia",
+    "tourism": "museum",
+    "website": "http://capesaro.visitmuve.it/it/il-museo/la-sede-e-la-storia/il-museo-e-la-sua-collezione/"
+  }
+},
+{
+  "type": "node",
+  "id": 4663481979,
+  "lat": 45.7175170,
+  "lon": 12.4619792,
+  "tags": {
+    "name": "Casa Museo di Goffredo Parise",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4798279235,
+  "lat": 45.4397895,
+  "lon": 12.3414791,
+  "tags": {
+    "name": "Scuola Grande di San Marco",
+    "opening_hours": "24/7",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 5167076531,
+  "lat": 45.4503394,
+  "lon": 12.4684846,
+  "tags": {
+    "name": "Batteria Pisani",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 5366368715,
+  "lat": 45.4308025,
+  "lon": 12.3315406,
+  "tags": {
+    "addr:street": "Corte Venier dai Leoni",
+    "email": "shop@guggenheim-venice.it",
+    "internet_access": "wlan",
+    "name": "Peggy Guggenheim Collection",
+    "name:en": "Peggy Guggenheim Collection",
+    "name:hu": "Guggenheim Alapítvány",
+    "name:it": "Collezione Peggy Guggenheim",
+    "name:ru": "Коллекция Пегги Гуггенхайм",
+    "opening_hours": "We-Mo 10:00-18:00",
+    "phone": "+39 041 2405411",
+    "tourism": "museum",
+    "website": "http://www.guggenheim-venice.it"
+  }
+},
+{
+  "type": "node",
+  "id": 5366863424,
+  "lat": 45.4364575,
+  "lon": 12.3410349,
+  "tags": {
+    "addr:housenumber": "4778",
+    "addr:neighbourhood": "Castello",
+    "addr:place": "Castello",
+    "name": "Fondazione Querini Stampalia",
+    "name:en": "Querini Stampalia Foundation",
+    "name:zh": "奎瑞尼 斯坦帕里亚基金会",
+    "opening_hours": "Tu-Su 10:00-18:00",
+    "tourism": "museum",
+    "wikidata": "Q3747209"
+  }
+},
+{
+  "type": "node",
+  "id": 5554842284,
+  "lat": 45.8248147,
+  "lon": 12.2079660,
+  "tags": {
+    "name": "Museo \"Battaglia del Solstizio\"",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 5564729825,
+  "lat": 45.4394631,
+  "lon": 12.3395572,
+  "tags": {
+    "addr:postcode": "30121",
+    "addr:street": "Fondamenta Van Axel",
+    "name": "Palazzo Soranzo Van Axel",
+    "name:en": "Soranzo Van Axel Museum",
+    "tourism": "museum",
+    "website": "https://www.labiennale.org/en/noticeboard/275"
+  }
+},
+{
+  "type": "node",
+  "id": 6118418587,
+  "lat": 45.4917403,
+  "lon": 12.2409230,
+  "tags": {
+    "addr:city": "Venezia-Mestre",
+    "addr:housenumber": "11",
+    "addr:postcode": "30171",
+    "addr:street": "Via Pascoli",
+    "email": "info@m9digital.it",
+    "name": "M9 Museo 900",
+    "opening_hours": "Mo-Fr 09:00-20:00; Tu off; Sa 10:00-21:30; Su 10:00-21:00",
+    "operator": "Fondazione Venezia",
+    "phone": "0412387230",
+    "tourism": "museum",
+    "website": "https://www.m9digital.it/"
+  }
+},
+{
+  "type": "node",
+  "id": 6224362046,
+  "lat": 45.7978332,
+  "lon": 12.3424762,
+  "tags": {
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6582597073,
+  "lat": 45.8868005,
+  "lon": 12.2953799,
+  "tags": {
+    "addr:city": "Conegliano",
+    "addr:housenumber": "24",
+    "addr:postcode": "31015",
+    "addr:street": "Via G. B. Cima",
+    "description": "In questa antica dimora di artigiani, casa natale del pittore Cima da Conegliano (1460-1517/18), recentemente restaurata, e sede della fondazione Giambattista Cima, sono esposte diverse riproduzioni di opere di Cima. ",
+    "name": "Casa Museo \"G.B. Cima da Conegliano\"",
+    "opening_hours": "Sa 15:00-18:00; Su 10:00-12:00,15:00-18:00",
+    "tourism": "museum",
+    "website": "www.comune.conegliano.tv.it"
+  }
+},
+{
+  "type": "node",
+  "id": 6616529101,
+  "lat": 45.6658094,
+  "lon": 12.2505459,
+  "tags": {
+    "addr:city": "Treviso",
+    "addr:housenumber": "31",
+    "addr:postcode": "31100",
+    "addr:street": "Via Carlo Alberto",
+    "email": "pm-ven.collezionesalce@beniculturali.it",
+    "name": "Museo nazionale Collezione Salce",
+    "opening_hours": "We-Su 10:00-18:00; Mo-Tu off",
+    "phone": "+39 0422 591936",
+    "tourism": "museum",
+    "website": "http://www.collezionesalce.beniculturali.it"
+  }
+},
+{
+  "type": "node",
+  "id": 6721050985,
+  "lat": 45.4291084,
+  "lon": 12.3457211,
+  "tags": {
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6781991085,
+  "lat": 45.4534338,
+  "lon": 12.3510852,
+  "tags": {
+    "addr:housenumber": "68",
+    "name": "Simone Cenedese",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 7013409085,
+  "lat": 45.4382491,
+  "lon": 12.3366866,
+  "tags": {
+    "addr:postcode": "30124",
+    "addr:street": "Calle del Fontego dei Tedeschi",
+    "name": "T Fondaco Dei Tedeschi",
+    "opening_hours": "Mo-Su 10:00-19:30",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 7017317440,
+  "lat": 45.4326886,
+  "lon": 12.3318999,
+  "tags": {
+    "name": "Exhibit",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 61593635,
+  "nodes": [
+    768172851,
+    768173065,
+    768172349,
+    768172803,
+    768172851
+  ],
+  "tags": {
+    "addr:city": "Treviso",
+    "addr:housename": "Casa Piavone",
+    "addr:housenumber": "130",
+    "addr:postcode": "31100",
+    "addr:street": "Via Cal di Breda",
+    "building": "yes",
+    "name": "Museo Etnografico Case Piavone",
+    "opening_hours": "Th-Su 09:30-12:30,15:00-18:30",
+    "source": "Regione_del_Veneto_LR28_16.7.1976_Formazione_CTR_auth_39164-5700-1100_23.01.2009",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 98662512,
+  "nodes": [
+    1141401681,
+    1141401211,
+    1141403724,
+    1141400695,
+    1141400862,
+    1141403200,
+    1141399962,
+    1141404866,
+    1141401681
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Museo Civico del Castello di Conegliano",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 138802715,
+  "nodes": [
+    1521829538,
+    4876677960,
+    1521833209,
+    1521830304,
+    1521826786,
+    3300927782,
+    3300927785,
+    3300927786,
+    2619671467,
+    6366113490,
+    1521829538
+  ],
+  "tags": {
+    "building": "yes",
+    "building:levels": "5",
+    "name": "Mueo Storico Navale",
+    "name:en": "Historic Naval Museum",
+    "name:es": "Museo Naval Histórico",
+    "name:it": "Museo Storico Navale",
+    "tourism": "museum",
+    "wikidata": "Q1954326",
+    "wikipedia": "it:Museo storico navale"
+  }
+},
+{
+  "type": "way",
+  "id": 138843143,
+  "nodes": [
+    1522272680,
+    1522273512,
+    3503833801,
+    1522274191,
+    1522276017,
+    1522278303,
+    1522277956,
+    1522277962,
+    1522277957,
+    1522277959,
+    1522276704,
+    1522277966,
+    1522278326,
+    1522277964,
+    1522278322,
+    1522278319,
+    1522278315,
+    1522278312,
+    1522278308,
+    1522278305,
+    1522278590,
+    1522280535,
+    1522280529,
+    1522280526,
+    1522280545,
+    1522280540,
+    4359036316,
+    1522280096,
+    1522280100,
+    1522280105,
+    1522280103,
+    1522279665,
+    1522279673,
+    1522279668,
+    1522279685,
+    1522279072,
+    1522279078,
+    1522279103,
+    1522279109,
+    1522279097,
+    1522279083,
+    4359036607,
+    1522278593,
+    1522278607,
+    1522278614,
+    1522278616,
+    1522278594,
+    1522278610,
+    1522278329,
+    1522278331,
+    1522278333,
+    1522277969,
+    1522277968,
+    1522272914,
+    1522272910,
+    1522272907,
+    1522272905,
+    3503833800,
+    1522272680
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Scuola Grande di San Rocco",
+    "name:uk": "Церква Сан-Рокко",
+    "opening_hours": "Mo-Sa 09:30-17:30",
+    "tourism": "museum",
+    "website": "http://www.scuolagrandesanrocco.it/",
+    "wikidata": "Q1270723",
+    "wikipedia": "it:Scuola Grande di San Rocco"
+  }
+},
+{
+  "type": "way",
+  "id": 152693823,
+  "nodes": [
+    1654728891,
+    1654729269,
+    1654728416,
+    1654728377,
+    1654728121,
+    1654728083,
+    1654727943,
+    1654727773,
+    1654727767,
+    1654728182,
+    1654728475,
+    1654728547,
+    1654728557,
+    1654728891
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Museo della Battaglia",
+    "tourism": "museum",
+    "wikipedia": "it:Museo della Battaglia di Vittorio Veneto"
+  }
+},
+{
+  "type": "way",
+  "id": 162227289,
+  "nodes": [
+    1521999522,
+    1521998893,
+    1521999518,
+    1521998888,
+    1521998699,
+    1521998451,
+    1521998187,
+    1521997642,
+    1521997631,
+    1521996906,
+    1521997904,
+    2486203251,
+    2486203270,
+    1741561459,
+    2486203268,
+    1521999522
+  ],
+  "tags": {
+    "addr:city": "Venezia",
+    "addr:housenumber": "3932",
+    "addr:postcode": "30126",
+    "addr:street": "Cannaregio",
+    "building": "yes",
+    "email": "pm-ven.franchetti@beniculturali.it",
+    "name": "Ca' d'Oro",
+    "name:en": "Ca' d'Oro",
+    "name:it": "Ca' d'Oro",
+    "name:ru": "Дворец Ка'д'Оро",
+    "name:zh": "金屋",
+    "opening_hours": "Mo 09:00-14:00; Tu-Su 09:00-19:00; Jan 1off; Dec 25 off",
+    "phone": "+39 041 5222349",
+    "tourism": "museum",
+    "website": "https://polomusealeveneto.beniculturali.it/musei/galleria-giorgio-franchetti-alla-ca-doro",
+    "wikidata": "Q820872",
+    "wikipedia": "de:Ca’ d’Oro"
+  }
+},
+{
+  "type": "way",
+  "id": 173619525,
+  "nodes": [
+    1522253582,
+    1522253082,
+    1867824283,
+    1522252474,
+    1522252289,
+    1522252097,
+    1522252094,
+    1522252086,
+    1522252592,
+    1522253353,
+    1522253751,
+    1522253753,
+    1522253765,
+    1522254279,
+    1522254292,
+    1522254296,
+    1522254299,
+    1522254302,
+    1522254430,
+    1522253767,
+    1522253582
+  ],
+  "tags": {
+    "building": "public",
+    "contact:website": "http://www.palazzograssi.it",
+    "name": "Palazzo Grassi",
+    "operator": "François Pinault Foundation",
+    "subject": "contemporary art",
+    "tourism": "museum",
+    "wikidata": "Q907964",
+    "wikipedia": "it:Palazzo Grassi"
+  }
+},
+{
+  "type": "way",
+  "id": 176655267,
+  "nodes": [
+    1871369600,
+    4838436051,
+    1871369596,
+    1871369598,
+    1871369610,
+    1871369600
+  ],
+  "tags": {
+    "access": "customers",
+    "building": "yes",
+    "description": "Museo Casa Andrich",
+    "ele": "1",
+    "name": "Museo Casa Andrich",
+    "opening_hours": "Mo-Su 10:30-17:30",
+    "phone": "+39 041 735542",
+    "source": "Proprietario",
+    "tourism": "museum",
+    "website": "http://www.museoandrich.com",
+    "wikidata": "Q20895401",
+    "wikipedia": "it:Lucio Andrich"
+  }
+},
+{
+  "type": "way",
+  "id": 187303652,
+  "nodes": [
+    1980179135,
+    1980179125,
+    1980179122,
+    1980179124,
+    1980179135
+  ],
+  "tags": {
+    "addr:city": "Quarto d'Altino",
+    "addr:housenumber": "56",
+    "addr:postcode": "30020",
+    "addr:street": "Via Sant'Eliodoro",
+    "building": "yes",
+    "email": "pm-ven.quartodaltino@beniculturali.it",
+    "name": "Museo Archeologico Nazionale di Altino",
+    "opening_hours": "Apr 1- Sep 30: Tu-Su 08:30-19:30; Oct 1-Mar 31: We, Fr, Sa, Su 08:30-19:30; Tu, Th 09:00-14:15; Mo off; Jan 1 off; Dec 25 off",
+    "operator": "MIBAC",
+    "operator:type": "government",
+    "phone": "+39 0422 789443",
+    "tourism": "museum",
+    "website": "https://polomusealeveneto.beniculturali.it/musei/museo-archeologico-nazionale-e-area-archeologica-di-altino"
+  }
+},
+{
+  "type": "way",
+  "id": 314636453,
+  "nodes": [
+    1521900447,
+    1521900450,
+    1521898301,
+    1521898298,
+    1521898292,
+    1521898289,
+    1521898274,
+    1521898280,
+    1521898285,
+    3303104514,
+    1521898270,
+    1521898264,
+    1521898237,
+    1521898243,
+    1521898207,
+    1521898213,
+    1521898221,
+    1521898232,
+    1521899098,
+    1521900025,
+    1521900447
+  ],
+  "tags": {
+    "alt_name": "Scuola Dalmata Santi Giorgio e Trifone",
+    "building": "yes",
+    "name": "Scuola di San Giorgio degli Schiavoni",
+    "tourism": "museum",
+    "wikipedia": "it:Scuola di San Giorgio degli Schiavoni"
+  }
+},
+{
+  "type": "way",
+  "id": 316454133,
+  "nodes": [
+    1522021992,
+    1522021053,
+    1522021296,
+    566308755,
+    1522021184,
+    1522021384,
+    566308874,
+    1522021390,
+    3225711942,
+    3225711941,
+    1522021708,
+    1522021984,
+    1522022073,
+    5221159530,
+    1522022148,
+    1522022077,
+    1522022159,
+    1522022162,
+    1522021992
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Oratorio dei Crociferi",
+    "opening_hours": "Fr-Su 10:00-13:00, 14:00-17:00",
+    "tourism": "museum",
+    "wikidata": "Q3884410",
+    "wikipedia": "it:Oratorio dei Crociferi"
+  }
+},
+{
+  "type": "way",
+  "id": 391356690,
+  "nodes": [
+    2421778470,
+    3945725761,
+    3945725757,
+    3945723654,
+    3945723640,
+    3945723643,
+    3945723642,
+    3945723647,
+    3945723649,
+    2421778470
+  ],
+  "tags": {
+    "name": "Ecomuseo Maglio dei Thonet",
+    "phone": "+39 434756513",
+    "tourism": "museum",
+    "website": "http://www.museomagliodeitonet.it"
+  }
+},
+{
+  "type": "way",
+  "id": 404201292,
+  "nodes": [
+    4064744192,
+    4064744193,
+    4064744194,
+    4064744195,
+    4064744196,
+    4064744197,
+    4064744198,
+    4064744192
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Museo storico militare",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 404939307,
+  "nodes": [
+    4071840586,
+    4071840587,
+    4071840588,
+    4071845089,
+    4071840586
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Museo Imbarcazioni Tradizionali",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "relation",
+  "id": 1927025,
+  "members": [
+    {
+      "type": "way",
+      "ref": 138842060,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 138842807,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "addr:housenumber": "3136",
+    "building": "yes",
+    "name": "Museo Ca' Rezzonico",
+    "name:ru": "Дворец Ка'Реццонико",
+    "name:uk": "Ка' Реццоніко",
+    "opening_hours": "Apr-Oct 10:00-18:00; Apr-Oct Tu off; Nov-Mar We-Mo 10:00-17:00",
+    "tourism": "museum",
+    "type": "multipolygon",
+    "wheelchair": "limited",
+    "wikidata": "Q1052171",
+    "wikipedia": "en:Ca' Rezzonico"
+  }
+},
+{
+  "type": "relation",
+  "id": 2317696,
+  "members": [
+    {
+      "type": "way",
+      "ref": 173613028,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 138803502,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "addr:city": "Venezia",
+    "addr:housenumber": "4858",
+    "addr:postcode": "30122",
+    "addr:street": "Ramo Grimani",
+    "building": "yes",
+    "email": "pm-ven.grimani@beniculturali.it",
+    "name": "Palazzo Grimani di Santa Maria Formosa",
+    "opening_hours": "Tu-Su 10:00-18:30; Mo off; Jan 1 off; May 1 off; Dec 25 off",
+    "phone": "+39 041 2411507",
+    "tourism": "museum",
+    "type": "multipolygon",
+    "website": "https://polomusealeveneto.beniculturali.it/musei/museo-di-palazzo-grimani",
+    "wikidata": "Q2898082",
+    "wikipedia": "it:Palazzo Grimani (Castello)"
+  }
+},
+{
+  "type": "relation",
+  "id": 2382783,
+  "members": [
+    {
+      "type": "way",
+      "ref": 343543714,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 138842829,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "building": "yes",
+    "building:levels": "3",
+    "description": "Ca' Pesaro, ospita due musei e mostre temporanee.",
+    "name": "Ca' Pesaro",
+    "tourism": "museum",
+    "type": "multipolygon",
+    "wikidata": "Q756807",
+    "wikipedia": "it:Ca' Pesaro"
+  }
+},
+{
+  "type": "relation",
+  "id": 4058541,
+  "members": [
+    {
+      "type": "way",
+      "ref": 132932927,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 176657628,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "name": "Museo di Torcello",
+    "tourism": "museum",
+    "type": "multipolygon",
+    "website": "http://sbmp.provincia.venezia.it/mir/musei/torcello/home.htm",
+    "wikidata": "Q17199095",
+    "wikipedia": "it:Museo provinciale di Torcello"
+  }
+},
+{
+  "type": "node",
+  "id": 4064744192,
+  "lat": 45.4756624,
+  "lon": 12.2594224
+},
+{
+  "type": "node",
+  "id": 4064744193,
+  "lat": 45.4757074,
+  "lon": 12.2593903
+},
+{
+  "type": "node",
+  "id": 4064744194,
+  "lat": 45.4757396,
+  "lon": 12.2594086
+},
+{
+  "type": "node",
+  "id": 4064744195,
+  "lat": 45.4757750,
+  "lon": 12.2594362
+},
+{
+  "type": "node",
+  "id": 4064744196,
+  "lat": 45.4757782,
+  "lon": 12.2595004
+},
+{
+  "type": "node",
+  "id": 4064744197,
+  "lat": 45.4756335,
+  "lon": 12.2598489
+},
+{
+  "type": "node",
+  "id": 4064744198,
+  "lat": 45.4755145,
+  "lon": 12.2597618
+},
+{
+  "type": "node",
+  "id": 4071840586,
+  "lat": 45.4760652,
+  "lon": 12.2642600
+},
+{
+  "type": "node",
+  "id": 4071840587,
+  "lat": 45.4759895,
+  "lon": 12.2645265
+},
+{
+  "type": "node",
+  "id": 4071840588,
+  "lat": 45.4755127,
+  "lon": 12.2642511
+},
+{
+  "type": "node",
+  "id": 4071845089,
+  "lat": 45.4755884,
+  "lon": 12.2639845
+},
+{
+  "type": "node",
+  "id": 1522250645,
+  "lat": 45.4334060,
+  "lon": 12.3262952
+},
+{
+  "type": "node",
+  "id": 1522250646,
+  "lat": 45.4334221,
+  "lon": 12.3265248
+},
+{
+  "type": "node",
+  "id": 1522250648,
+  "lat": 45.4334102,
+  "lon": 12.3265263
+},
+{
+  "type": "node",
+  "id": 1522250649,
+  "lat": 45.4334062,
+  "lon": 12.3265373
+},
+{
+  "type": "node",
+  "id": 1522250650,
+  "lat": 45.4334132,
+  "lon": 12.3265721
+},
+{
+  "type": "node",
+  "id": 1522250651,
+  "lat": 45.4334086,
+  "lon": 12.3265699
+},
+{
+  "type": "node",
+  "id": 1522250652,
+  "lat": 45.4334250,
+  "lon": 12.3265704
+},
+{
+  "type": "node",
+  "id": 1522250991,
+  "lat": 45.4334462,
+  "lon": 12.3269271
+},
+{
+  "type": "node",
+  "id": 1522250992,
+  "lat": 45.4334515,
+  "lon": 12.3269252
+},
+{
+  "type": "node",
+  "id": 1522250993,
+  "lat": 45.4334504,
+  "lon": 12.3269924
+},
+{
+  "type": "node",
+  "id": 1522251158,
+  "lat": 45.4334650,
+  "lon": 12.3261909
+},
+{
+  "type": "node",
+  "id": 1522251160,
+  "lat": 45.4334717,
+  "lon": 12.3262866
+},
+{
+  "type": "node",
+  "id": 1522251282,
+  "lat": 45.4334863,
+  "lon": 12.3264745
+},
+{
+  "type": "node",
+  "id": 1522251284,
+  "lat": 45.4334998,
+  "lon": 12.3266369
+},
+{
+  "type": "node",
+  "id": 1522251477,
+  "lat": 45.4335345,
+  "lon": 12.3261303
+},
+{
+  "type": "node",
+  "id": 1522251479,
+  "lat": 45.4335374,
+  "lon": 12.3261809
+},
+{
+  "type": "node",
+  "id": 1522251628,
+  "lat": 45.4335530,
+  "lon": 12.3264636
+},
+{
+  "type": "node",
+  "id": 1522251630,
+  "lat": 45.4335655,
+  "lon": 12.3266265
+},
+{
+  "type": "node",
+  "id": 1522251637,
+  "lat": 45.4335451,
+  "lon": 12.3269793
+},
+{
+  "type": "node",
+  "id": 1522252263,
+  "lat": 45.4336261,
+  "lon": 12.3261722
+},
+{
+  "type": "node",
+  "id": 1522252264,
+  "lat": 45.4336320,
+  "lon": 12.3262633
+},
+{
+  "type": "node",
+  "id": 1522252266,
+  "lat": 45.4336326,
+  "lon": 12.3262677
+},
+{
+  "type": "node",
+  "id": 1522252268,
+  "lat": 45.4336365,
+  "lon": 12.3264416
+},
+{
+  "type": "node",
+  "id": 1522252270,
+  "lat": 45.4336420,
+  "lon": 12.3265122
+},
+{
+  "type": "node",
+  "id": 1522252271,
+  "lat": 45.4336505,
+  "lon": 12.3265126
+},
+{
+  "type": "node",
+  "id": 1522252288,
+  "lat": 45.4336448,
+  "lon": 12.3265498
+},
+{
+  "type": "node",
+  "id": 1522252445,
+  "lat": 45.4336638,
+  "lon": 12.3261133
+},
+{
+  "type": "node",
+  "id": 1522252447,
+  "lat": 45.4336676,
+  "lon": 12.3261667
+},
+{
+  "type": "node",
+  "id": 1522252458,
+  "lat": 45.4336609,
+  "lon": 12.3265232
+},
+{
+  "type": "node",
+  "id": 1522252459,
+  "lat": 45.4336617,
+  "lon": 12.3265301
+},
+{
+  "type": "node",
+  "id": 1522252460,
+  "lat": 45.4336606,
+  "lon": 12.3265398
+},
+{
+  "type": "node",
+  "id": 1522252462,
+  "lat": 45.4336567,
+  "lon": 12.3265156
+},
+{
+  "type": "node",
+  "id": 1522252465,
+  "lat": 45.4336558,
+  "lon": 12.3265477
+},
+{
+  "type": "node",
+  "id": 1522252467,
+  "lat": 45.4336656,
+  "lon": 12.3268626
+},
+{
+  "type": "node",
+  "id": 1522252468,
+  "lat": 45.4336754,
+  "lon": 12.3269310
+},
+{
+  "type": "node",
+  "id": 1522252471,
+  "lat": 45.4336702,
+  "lon": 12.3269308
+},
+{
+  "type": "node",
+  "id": 1522252473,
+  "lat": 45.4336769,
+  "lon": 12.3269601
+},
+{
+  "type": "node",
+  "id": 1522272680,
+  "lat": 45.4362788,
+  "lon": 12.3253080
+},
+{
+  "type": "node",
+  "id": 1522272905,
+  "lat": 45.4363081,
+  "lon": 12.3253318
+},
+{
+  "type": "node",
+  "id": 1522272907,
+  "lat": 45.4363069,
+  "lon": 12.3253347
+},
+{
+  "type": "node",
+  "id": 1522272910,
+  "lat": 45.4363181,
+  "lon": 12.3253438
+},
+{
+  "type": "node",
+  "id": 1522272914,
+  "lat": 45.4363191,
+  "lon": 12.3253403
+},
+{
+  "type": "node",
+  "id": 1522273512,
+  "lat": 45.4363654,
+  "lon": 12.3250900
+},
+{
+  "type": "node",
+  "id": 1522274191,
+  "lat": 45.4364525,
+  "lon": 12.3251639
+},
+{
+  "type": "node",
+  "id": 1522276017,
+  "lat": 45.4365230,
+  "lon": 12.3249963
+},
+{
+  "type": "node",
+  "id": 1522276704,
+  "lat": 45.4365609,
+  "lon": 12.3252563
+},
+{
+  "type": "node",
+  "id": 1522277956,
+  "lat": 45.4366106,
+  "lon": 12.3251381
+},
+{
+  "type": "node",
+  "id": 1522277957,
+  "lat": 45.4366083,
+  "lon": 12.3251501
+},
+{
+  "type": "node",
+  "id": 1522277959,
+  "lat": 45.4366060,
+  "lon": 12.3251487
+},
+{
+  "type": "node",
+  "id": 1522277962,
+  "lat": 45.4366126,
+  "lon": 12.3251400
+},
+{
+  "type": "node",
+  "id": 1522277964,
+  "lat": 45.4366249,
+  "lon": 12.3252354
+},
+{
+  "type": "node",
+  "id": 1522277966,
+  "lat": 45.4366049,
+  "lon": 12.3252922
+},
+{
+  "type": "node",
+  "id": 1522277968,
+  "lat": 45.4366224,
+  "lon": 12.3255909
+},
+{
+  "type": "node",
+  "id": 1522277969,
+  "lat": 45.4366214,
+  "lon": 12.3255928
+},
+{
+  "type": "node",
+  "id": 1522278303,
+  "lat": 45.4366312,
+  "lon": 12.3250883
+},
+{
+  "type": "node",
+  "id": 1522278305,
+  "lat": 45.4366525,
+  "lon": 12.3251704
+},
+{
+  "type": "node",
+  "id": 1522278308,
+  "lat": 45.4366513,
+  "lon": 12.3251692
+},
+{
+  "type": "node",
+  "id": 1522278312,
+  "lat": 45.4366466,
+  "lon": 12.3251815
+},
+{
+  "type": "node",
+  "id": 1522278315,
+  "lat": 45.4366482,
+  "lon": 12.3251832
+},
+{
+  "type": "node",
+  "id": 1522278319,
+  "lat": 45.4366332,
+  "lon": 12.3252205
+},
+{
+  "type": "node",
+  "id": 1522278322,
+  "lat": 45.4366313,
+  "lon": 12.3252194
+},
+{
+  "type": "node",
+  "id": 1522278326,
+  "lat": 45.4366269,
+  "lon": 12.3252374
+},
+{
+  "type": "node",
+  "id": 1522278329,
+  "lat": 45.4366368,
+  "lon": 12.3255854
+},
+{
+  "type": "node",
+  "id": 1522278331,
+  "lat": 45.4366452,
+  "lon": 12.3255926
+},
+{
+  "type": "node",
+  "id": 1522278333,
+  "lat": 45.4366391,
+  "lon": 12.3256083
+},
+{
+  "type": "node",
+  "id": 1522278590,
+  "lat": 45.4366540,
+  "lon": 12.3251675
+},
+{
+  "type": "node",
+  "id": 1522278593,
+  "lat": 45.4366661,
+  "lon": 12.3255118
+},
+{
+  "type": "node",
+  "id": 1522278594,
+  "lat": 45.4366673,
+  "lon": 12.3255402
+},
+{
+  "type": "node",
+  "id": 1522278607,
+  "lat": 45.4366686,
+  "lon": 12.3255142
+},
+{
+  "type": "node",
+  "id": 1522278610,
+  "lat": 45.4366580,
+  "lon": 12.3255329
+},
+{
+  "type": "node",
+  "id": 1522278614,
+  "lat": 45.4366656,
+  "lon": 12.3255222
+},
+{
+  "type": "node",
+  "id": 1522278616,
+  "lat": 45.4366720,
+  "lon": 12.3255279
+},
+{
+  "type": "node",
+  "id": 1522279072,
+  "lat": 45.4366928,
+  "lon": 12.3254475
+},
+{
+  "type": "node",
+  "id": 1522279078,
+  "lat": 45.4367023,
+  "lon": 12.3254555
+},
+{
+  "type": "node",
+  "id": 1522279083,
+  "lat": 45.4366846,
+  "lon": 12.3254674
+},
+{
+  "type": "node",
+  "id": 1522279097,
+  "lat": 45.4366866,
+  "lon": 12.3254693
+},
+{
+  "type": "node",
+  "id": 1522279103,
+  "lat": 45.4366975,
+  "lon": 12.3254668
+},
+{
+  "type": "node",
+  "id": 1522279109,
+  "lat": 45.4366905,
+  "lon": 12.3254611
+},
+{
+  "type": "node",
+  "id": 1522279665,
+  "lat": 45.4367204,
+  "lon": 12.3253820
+},
+{
+  "type": "node",
+  "id": 1522279668,
+  "lat": 45.4367236,
+  "lon": 12.3254023
+},
+{
+  "type": "node",
+  "id": 1522279673,
+  "lat": 45.4367294,
+  "lon": 12.3253889
+},
+{
+  "type": "node",
+  "id": 1522279685,
+  "lat": 45.4367151,
+  "lon": 12.3253953
+},
+{
+  "type": "node",
+  "id": 1522280096,
+  "lat": 45.4367471,
+  "lon": 12.3253188
+},
+{
+  "type": "node",
+  "id": 1522280100,
+  "lat": 45.4367494,
+  "lon": 12.3253209
+},
+{
+  "type": "node",
+  "id": 1522280103,
+  "lat": 45.4367407,
+  "lon": 12.3253324
+},
+{
+  "type": "node",
+  "id": 1522280105,
+  "lat": 45.4367431,
+  "lon": 12.3253343
+},
+{
+  "type": "node",
+  "id": 1522280526,
+  "lat": 45.4367760,
+  "lon": 12.3252567
+},
+{
+  "type": "node",
+  "id": 1522280529,
+  "lat": 45.4367735,
+  "lon": 12.3252540
+},
+{
+  "type": "node",
+  "id": 1522280535,
+  "lat": 45.4367756,
+  "lon": 12.3252490
+},
+{
+  "type": "node",
+  "id": 1522280540,
+  "lat": 45.4367677,
+  "lon": 12.3252684
+},
+{
+  "type": "node",
+  "id": 1522280545,
+  "lat": 45.4367700,
+  "lon": 12.3252704
+},
+{
+  "type": "node",
+  "id": 1828593076,
+  "lat": 45.4335688,
+  "lon": 12.3269762
+},
+{
+  "type": "node",
+  "id": 3503833800,
+  "lat": 45.4362919,
+  "lon": 12.3253187
+},
+{
+  "type": "node",
+  "id": 3503833801,
+  "lat": 45.4363800,
+  "lon": 12.3251024
+},
+{
+  "type": "node",
+  "id": 4359036316,
+  "lat": 45.4367593,
+  "lon": 12.3252889
+},
+{
+  "type": "node",
+  "id": 4359036607,
+  "lat": 45.4366751,
+  "lon": 12.3254902
+},
+{
+  "type": "node",
+  "id": 5367967920,
+  "lat": 45.4335562,
+  "lon": 12.3269778
+},
+{
+  "type": "node",
+  "id": 1522252086,
+  "lat": 45.4336007,
+  "lon": 12.3276741
+},
+{
+  "type": "node",
+  "id": 1522252094,
+  "lat": 45.4336061,
+  "lon": 12.3276993
+},
+{
+  "type": "node",
+  "id": 1522252097,
+  "lat": 45.4336089,
+  "lon": 12.3276973
+},
+{
+  "type": "node",
+  "id": 1522252289,
+  "lat": 45.4336407,
+  "lon": 12.3278247
+},
+{
+  "type": "node",
+  "id": 1522252474,
+  "lat": 45.4336673,
+  "lon": 12.3279322
+},
+{
+  "type": "node",
+  "id": 1522252592,
+  "lat": 45.4336963,
+  "lon": 12.3276442
+},
+{
+  "type": "node",
+  "id": 1522253082,
+  "lat": 45.4337571,
+  "lon": 12.3282982
+},
+{
+  "type": "node",
+  "id": 1522253353,
+  "lat": 45.4338078,
+  "lon": 12.3276093
+},
+{
+  "type": "node",
+  "id": 1522253582,
+  "lat": 45.4338565,
+  "lon": 12.3282578
+},
+{
+  "type": "node",
+  "id": 1522253751,
+  "lat": 45.4338994,
+  "lon": 12.3275816
+},
+{
+  "type": "node",
+  "id": 1522253753,
+  "lat": 45.4339027,
+  "lon": 12.3276033
+},
+{
+  "type": "node",
+  "id": 1522253765,
+  "lat": 45.4339012,
+  "lon": 12.3276038
+},
+{
+  "type": "node",
+  "id": 1522253767,
+  "lat": 45.4339016,
+  "lon": 12.3282394
+},
+{
+  "type": "node",
+  "id": 1522254279,
+  "lat": 45.4339050,
+  "lon": 12.3276492
+},
+{
+  "type": "node",
+  "id": 1522254292,
+  "lat": 45.4339147,
+  "lon": 12.3277502
+},
+{
+  "type": "node",
+  "id": 1522254296,
+  "lat": 45.4339234,
+  "lon": 12.3278457
+},
+{
+  "type": "node",
+  "id": 1522254299,
+  "lat": 45.4339250,
+  "lon": 12.3278672
+},
+{
+  "type": "node",
+  "id": 1522254302,
+  "lat": 45.4339276,
+  "lon": 12.3279205
+},
+{
+  "type": "node",
+  "id": 1522254430,
+  "lat": 45.4339389,
+  "lon": 12.3282235
+},
+{
+  "type": "node",
+  "id": 1867824283,
+  "lat": 45.4336994,
+  "lon": 12.3280649
+},
+{
+  "type": "node",
+  "id": 1521997904,
+  "lat": 45.4408073,
+  "lon": 12.3336686
+},
+{
+  "type": "node",
+  "id": 1522336147,
+  "lat": 45.4406713,
+  "lon": 12.3314532
+},
+{
+  "type": "node",
+  "id": 1522336715,
+  "lat": 45.4407347,
+  "lon": 12.3312645
+},
+{
+  "type": "node",
+  "id": 1522336718,
+  "lat": 45.4407212,
+  "lon": 12.3313514
+},
+{
+  "type": "node",
+  "id": 1522336986,
+  "lat": 45.4407559,
+  "lon": 12.3312877
+},
+{
+  "type": "node",
+  "id": 1522336989,
+  "lat": 45.4407368,
+  "lon": 12.3313200
+},
+{
+  "type": "node",
+  "id": 1522337277,
+  "lat": 45.4407670,
+  "lon": 12.3312028
+},
+{
+  "type": "node",
+  "id": 1522337284,
+  "lat": 45.4407639,
+  "lon": 12.3313902
+},
+{
+  "type": "node",
+  "id": 1522337798,
+  "lat": 45.4408040,
+  "lon": 12.3311301
+},
+{
+  "type": "node",
+  "id": 1522338283,
+  "lat": 45.4408512,
+  "lon": 12.3312429
+},
+{
+  "type": "node",
+  "id": 1522338287,
+  "lat": 45.4408731,
+  "lon": 12.3315149
+},
+{
+  "type": "node",
+  "id": 1522338572,
+  "lat": 45.4408850,
+  "lon": 12.3312254
+},
+{
+  "type": "node",
+  "id": 1522338575,
+  "lat": 45.4409013,
+  "lon": 12.3312674
+},
+{
+  "type": "node",
+  "id": 1522338589,
+  "lat": 45.4408805,
+  "lon": 12.3316403
+},
+{
+  "type": "node",
+  "id": 1522338976,
+  "lat": 45.4409273,
+  "lon": 12.3316884
+},
+{
+  "type": "node",
+  "id": 1522339143,
+  "lat": 45.4409570,
+  "lon": 12.3313690
+},
+{
+  "type": "node",
+  "id": 1522339400,
+  "lat": 45.4409685,
+  "lon": 12.3313497
+},
+{
+  "type": "node",
+  "id": 1522339772,
+  "lat": 45.4409876,
+  "lon": 12.3313175
+},
+{
+  "type": "node",
+  "id": 1522340597,
+  "lat": 45.4410496,
+  "lon": 12.3318328
+},
+{
+  "type": "node",
+  "id": 1522341451,
+  "lat": 45.4411218,
+  "lon": 12.3314699
+},
+{
+  "type": "node",
+  "id": 1522341453,
+  "lat": 45.4411088,
+  "lon": 12.3319072
+},
+{
+  "type": "node",
+  "id": 1522344035,
+  "lat": 45.4412690,
+  "lon": 12.3316451
+},
+{
+  "type": "node",
+  "id": 1522344040,
+  "lat": 45.4412670,
+  "lon": 12.3316370
+},
+{
+  "type": "node",
+  "id": 1522344045,
+  "lat": 45.4412694,
+  "lon": 12.3316420
+},
+{
+  "type": "node",
+  "id": 2486203251,
+  "lat": 45.4408700,
+  "lon": 12.3337302
+},
+{
+  "type": "node",
+  "id": 3503833486,
+  "lat": 45.4409781,
+  "lon": 12.3313336
+},
+{
+  "type": "node",
+  "id": 3503833487,
+  "lat": 45.4409274,
+  "lon": 12.3313001
+},
+{
+  "type": "node",
+  "id": 1521898207,
+  "lat": 45.4361616,
+  "lon": 12.3458904
+},
+{
+  "type": "node",
+  "id": 1521898213,
+  "lat": 45.4361598,
+  "lon": 12.3458901
+},
+{
+  "type": "node",
+  "id": 1521898221,
+  "lat": 45.4361592,
+  "lon": 12.3458787
+},
+{
+  "type": "node",
+  "id": 1521898232,
+  "lat": 45.4361658,
+  "lon": 12.3458786
+},
+{
+  "type": "node",
+  "id": 1521898237,
+  "lat": 45.4361604,
+  "lon": 12.3459262
+},
+{
+  "type": "node",
+  "id": 1521898243,
+  "lat": 45.4361626,
+  "lon": 12.3459261
+},
+{
+  "type": "node",
+  "id": 1521898264,
+  "lat": 45.4361606,
+  "lon": 12.3459352
+},
+{
+  "type": "node",
+  "id": 1521898270,
+  "lat": 45.4361625,
+  "lon": 12.3459350
+},
+{
+  "type": "node",
+  "id": 1521898274,
+  "lat": 45.4361631,
+  "lon": 12.3459971
+},
+{
+  "type": "node",
+  "id": 1521898280,
+  "lat": 45.4361628,
+  "lon": 12.3459881
+},
+{
+  "type": "node",
+  "id": 1521898285,
+  "lat": 45.4361645,
+  "lon": 12.3459880
+},
+{
+  "type": "node",
+  "id": 1521898289,
+  "lat": 45.4361648,
+  "lon": 12.3459969
+},
+{
+  "type": "node",
+  "id": 1521898292,
+  "lat": 45.4361659,
+  "lon": 12.3460339
+},
+{
+  "type": "node",
+  "id": 1521898298,
+  "lat": 45.4361645,
+  "lon": 12.3460340
+},
+{
+  "type": "node",
+  "id": 1521898301,
+  "lat": 45.4361648,
+  "lon": 12.3460436
+},
+{
+  "type": "node",
+  "id": 1521899098,
+  "lat": 45.4361992,
+  "lon": 12.3458624
+},
+{
+  "type": "node",
+  "id": 1521900025,
+  "lat": 45.4362404,
+  "lon": 12.3458421
+},
+{
+  "type": "node",
+  "id": 1521900447,
+  "lat": 45.4362682,
+  "lon": 12.3458352
+},
+{
+  "type": "node",
+  "id": 1521900450,
+  "lat": 45.4362686,
+  "lon": 12.3460394
+},
+{
+  "type": "node",
+  "id": 1521907754,
+  "lat": 45.4368334,
+  "lon": 12.3421476
+},
+{
+  "type": "node",
+  "id": 1521909069,
+  "lat": 45.4369089,
+  "lon": 12.3421948
+},
+{
+  "type": "node",
+  "id": 1521910010,
+  "lat": 45.4369828,
+  "lon": 12.3423726
+},
+{
+  "type": "node",
+  "id": 1521910016,
+  "lat": 45.4369801,
+  "lon": 12.3425460
+},
+{
+  "type": "node",
+  "id": 1521911538,
+  "lat": 45.4370319,
+  "lon": 12.3420848
+},
+{
+  "type": "node",
+  "id": 1521911927,
+  "lat": 45.4370498,
+  "lon": 12.3420782
+},
+{
+  "type": "node",
+  "id": 1521911930,
+  "lat": 45.4370447,
+  "lon": 12.3425068
+},
+{
+  "type": "node",
+  "id": 1521912947,
+  "lat": 45.4371124,
+  "lon": 12.3419029
+},
+{
+  "type": "node",
+  "id": 1521912950,
+  "lat": 45.4371125,
+  "lon": 12.3422873
+},
+{
+  "type": "node",
+  "id": 1521913870,
+  "lat": 45.4371578,
+  "lon": 12.3420189
+},
+{
+  "type": "node",
+  "id": 1521916103,
+  "lat": 45.4372763,
+  "lon": 12.3423610
+},
+{
+  "type": "node",
+  "id": 3303104514,
+  "lat": 45.4361639,
+  "lon": 12.3459726
+},
+{
+  "type": "node",
+  "id": 4441294412,
+  "lat": 45.4368090,
+  "lon": 12.3421686
+},
+{
+  "type": "node",
+  "id": 4853999352,
+  "lat": 45.4368841,
+  "lon": 12.3421031
+},
+{
+  "type": "node",
+  "id": 4858449915,
+  "lat": 45.4368435,
+  "lon": 12.3422446
+},
+{
+  "type": "node",
+  "id": 4858450201,
+  "lat": 45.4368720,
+  "lon": 12.3421137
+},
+{
+  "type": "node",
+  "id": 566308755,
+  "lat": 45.4430183,
+  "lon": 12.3382171
+},
+{
+  "type": "node",
+  "id": 566308874,
+  "lat": 45.4430532,
+  "lon": 12.3380957
+},
+{
+  "type": "node",
+  "id": 1521996906,
+  "lat": 45.4406965,
+  "lon": 12.3339117
+},
+{
+  "type": "node",
+  "id": 1521997631,
+  "lat": 45.4407687,
+  "lon": 12.3339709
+},
+{
+  "type": "node",
+  "id": 1521997642,
+  "lat": 45.4407889,
+  "lon": 12.3339889
+},
+{
+  "type": "node",
+  "id": 1521998187,
+  "lat": 45.4408436,
+  "lon": 12.3340394
+},
+{
+  "type": "node",
+  "id": 1521998451,
+  "lat": 45.4408693,
+  "lon": 12.3339858
+},
+{
+  "type": "node",
+  "id": 1521998699,
+  "lat": 45.4408900,
+  "lon": 12.3339446
+},
+{
+  "type": "node",
+  "id": 1521998888,
+  "lat": 45.4409305,
+  "lon": 12.3339819
+},
+{
+  "type": "node",
+  "id": 1521998893,
+  "lat": 45.4409239,
+  "lon": 12.3341136
+},
+{
+  "type": "node",
+  "id": 1521999518,
+  "lat": 45.4409703,
+  "lon": 12.3340207
+},
+{
+  "type": "node",
+  "id": 1521999522,
+  "lat": 45.4409699,
+  "lon": 12.3341564
+},
+{
+  "type": "node",
+  "id": 1522021053,
+  "lat": 45.4429808,
+  "lon": 12.3383746
+},
+{
+  "type": "node",
+  "id": 1522021184,
+  "lat": 45.4430112,
+  "lon": 12.3382131
+},
+{
+  "type": "node",
+  "id": 1522021296,
+  "lat": 45.4430252,
+  "lon": 12.3382205
+},
+{
+  "type": "node",
+  "id": 1522021384,
+  "lat": 45.4430471,
+  "lon": 12.3380917
+},
+{
+  "type": "node",
+  "id": 1522021390,
+  "lat": 45.4430593,
+  "lon": 12.3380992
+},
+{
+  "type": "node",
+  "id": 1522021708,
+  "lat": 45.4431336,
+  "lon": 12.3382196
+},
+{
+  "type": "node",
+  "id": 1522021984,
+  "lat": 45.4432024,
+  "lon": 12.3382659
+},
+{
+  "type": "node",
+  "id": 1522021992,
+  "lat": 45.4432053,
+  "lon": 12.3385156
+},
+{
+  "type": "node",
+  "id": 1522022073,
+  "lat": 45.4432090,
+  "lon": 12.3382408
+},
+{
+  "type": "node",
+  "id": 1522022077,
+  "lat": 45.4432193,
+  "lon": 12.3383837
+},
+{
+  "type": "node",
+  "id": 1522022148,
+  "lat": 45.4432520,
+  "lon": 12.3382683
+},
+{
+  "type": "node",
+  "id": 1522022159,
+  "lat": 45.4432454,
+  "lon": 12.3383989
+},
+{
+  "type": "node",
+  "id": 1522022162,
+  "lat": 45.4432446,
+  "lon": 12.3384020
+},
+{
+  "type": "node",
+  "id": 1741561459,
+  "lat": 45.4410709,
+  "lon": 12.3339277
+},
+{
+  "type": "node",
+  "id": 2486203268,
+  "lat": 45.4410049,
+  "lon": 12.3340774
+},
+{
+  "type": "node",
+  "id": 2486203270,
+  "lat": 45.4410299,
+  "lon": 12.3338873
+},
+{
+  "type": "node",
+  "id": 3225711941,
+  "lat": 45.4430571,
+  "lon": 12.3381693
+},
+{
+  "type": "node",
+  "id": 3225711942,
+  "lat": 45.4430755,
+  "lon": 12.3381108
+},
+{
+  "type": "node",
+  "id": 5221159530,
+  "lat": 45.4432373,
+  "lon": 12.3382589
+},
+{
+  "type": "node",
+  "id": 1521826786,
+  "lat": 45.4325271,
+  "lon": 12.3504914
+},
+{
+  "type": "node",
+  "id": 1521829538,
+  "lat": 45.4326934,
+  "lon": 12.3498181
+},
+{
+  "type": "node",
+  "id": 1521830304,
+  "lat": 45.4327338,
+  "lon": 12.3505862
+},
+{
+  "type": "node",
+  "id": 2619671467,
+  "lat": 45.4326241,
+  "lon": 12.3500978
+},
+{
+  "type": "node",
+  "id": 3300927782,
+  "lat": 45.4325246,
+  "lon": 12.3504638
+},
+{
+  "type": "node",
+  "id": 3300927785,
+  "lat": 45.4325667,
+  "lon": 12.3502914
+},
+{
+  "type": "node",
+  "id": 3300927786,
+  "lat": 45.4325754,
+  "lon": 12.3502901
+},
+{
+  "type": "node",
+  "id": 6366113490,
+  "lat": 45.4326735,
+  "lon": 12.3499005
+},
+{
+  "type": "node",
+  "id": 1521833209,
+  "lat": 45.4329356,
+  "lon": 12.3499307
+},
+{
+  "type": "node",
+  "id": 4876677960,
+  "lat": 45.4328799,
+  "lon": 12.3499048
+},
+{
+  "type": "node",
+  "id": 1871369596,
+  "lat": 45.4983374,
+  "lon": 12.4115488
+},
+{
+  "type": "node",
+  "id": 4838436051,
+  "lat": 45.4983768,
+  "lon": 12.4116744
+},
+{
+  "type": "node",
+  "id": 1462654759,
+  "lat": 45.4983804,
+  "lon": 12.4187707
+},
+{
+  "type": "node",
+  "id": 1871369598,
+  "lat": 45.4983991,
+  "lon": 12.4115094
+},
+{
+  "type": "node",
+  "id": 1871369600,
+  "lat": 45.4983975,
+  "lon": 12.4117404
+},
+{
+  "type": "node",
+  "id": 1871369610,
+  "lat": 45.4984592,
+  "lon": 12.4117010
+},
+{
+  "type": "node",
+  "id": 1462654685,
+  "lat": 45.4984536,
+  "lon": 12.4188250
+},
+{
+  "type": "node",
+  "id": 1462654718,
+  "lat": 45.4985132,
+  "lon": 12.4186614
+},
+{
+  "type": "node",
+  "id": 1462654758,
+  "lat": 45.4984400,
+  "lon": 12.4186071
+},
+{
+  "type": "node",
+  "id": 1871412261,
+  "lat": 45.4984162,
+  "lon": 12.4182427
+},
+{
+  "type": "node",
+  "id": 1871412265,
+  "lat": 45.4984334,
+  "lon": 12.4182743
+},
+{
+  "type": "node",
+  "id": 1871412268,
+  "lat": 45.4984388,
+  "lon": 12.4182590
+},
+{
+  "type": "node",
+  "id": 1871412270,
+  "lat": 45.4984419,
+  "lon": 12.4181702
+},
+{
+  "type": "node",
+  "id": 1871412278,
+  "lat": 45.4985641,
+  "lon": 12.4183686
+},
+{
+  "type": "node",
+  "id": 1871412284,
+  "lat": 45.4985952,
+  "lon": 12.4182808
+},
+{
+  "type": "node",
+  "id": 4838683092,
+  "lat": 45.4984987,
+  "lon": 12.4183215
+},
+{
+  "type": "node",
+  "id": 4838683093,
+  "lat": 45.4984291,
+  "lon": 12.4182064
+},
+{
+  "type": "node",
+  "id": 768172349,
+  "lat": 45.6943953,
+  "lon": 12.2703802
+},
+{
+  "type": "node",
+  "id": 768172803,
+  "lat": 45.6945644,
+  "lon": 12.2706086
+},
+{
+  "type": "node",
+  "id": 768172851,
+  "lat": 45.6946640,
+  "lon": 12.2704585
+},
+{
+  "type": "node",
+  "id": 768173065,
+  "lat": 45.6944948,
+  "lon": 12.2702302
+},
+{
+  "type": "node",
+  "id": 1980179122,
+  "lat": 45.5405794,
+  "lon": 12.3982719
+},
+{
+  "type": "node",
+  "id": 1980179124,
+  "lat": 45.5406062,
+  "lon": 12.3979236
+},
+{
+  "type": "node",
+  "id": 1980179125,
+  "lat": 45.5407757,
+  "lon": 12.3983024
+},
+{
+  "type": "node",
+  "id": 1980179135,
+  "lat": 45.5408026,
+  "lon": 12.3979542
+},
+{
+  "type": "node",
+  "id": 1141400695,
+  "lat": 45.8893537,
+  "lon": 12.2945501
+},
+{
+  "type": "node",
+  "id": 1141401211,
+  "lat": 45.8893557,
+  "lon": 12.2944817
+},
+{
+  "type": "node",
+  "id": 1141401681,
+  "lat": 45.8892925,
+  "lon": 12.2944912
+},
+{
+  "type": "node",
+  "id": 1141403724,
+  "lat": 45.8893608,
+  "lon": 12.2945491
+},
+{
+  "type": "node",
+  "id": 1141399962,
+  "lat": 45.8893676,
+  "lon": 12.2946415
+},
+{
+  "type": "node",
+  "id": 1141400862,
+  "lat": 45.8893594,
+  "lon": 12.2946282
+},
+{
+  "type": "node",
+  "id": 1141403200,
+  "lat": 45.8893672,
+  "lon": 12.2946277
+},
+{
+  "type": "node",
+  "id": 1141404866,
+  "lat": 45.8893116,
+  "lon": 12.2946519
+},
+{
+  "type": "node",
+  "id": 2421778470,
+  "lat": 45.9093127,
+  "lon": 12.5063230
+},
+{
+  "type": "node",
+  "id": 3945723640,
+  "lat": 45.9090348,
+  "lon": 12.5068572
+},
+{
+  "type": "node",
+  "id": 3945723642,
+  "lat": 45.9090425,
+  "lon": 12.5067319
+},
+{
+  "type": "node",
+  "id": 3945723643,
+  "lat": 45.9090502,
+  "lon": 12.5067798
+},
+{
+  "type": "node",
+  "id": 3945723647,
+  "lat": 45.9091142,
+  "lon": 12.5066988
+},
+{
+  "type": "node",
+  "id": 3945723649,
+  "lat": 45.9091181,
+  "lon": 12.5066472
+},
+{
+  "type": "node",
+  "id": 3945723654,
+  "lat": 45.9092565,
+  "lon": 12.5069935
+},
+{
+  "type": "node",
+  "id": 3945725757,
+  "lat": 45.9093154,
+  "lon": 12.5068222
+},
+{
+  "type": "node",
+  "id": 3945725761,
+  "lat": 45.9094180,
+  "lon": 12.5063507
+},
+{
+  "type": "node",
+  "id": 1654727767,
+  "lat": 45.9768583,
+  "lon": 12.2926504
+},
+{
+  "type": "node",
+  "id": 1654727773,
+  "lat": 45.9768604,
+  "lon": 12.2926646
+},
+{
+  "type": "node",
+  "id": 1654727943,
+  "lat": 45.9768833,
+  "lon": 12.2928135
+},
+{
+  "type": "node",
+  "id": 1654728083,
+  "lat": 45.9769006,
+  "lon": 12.2929421
+},
+{
+  "type": "node",
+  "id": 1654728121,
+  "lat": 45.9769168,
+  "lon": 12.2929380
+},
+{
+  "type": "node",
+  "id": 1654728182,
+  "lat": 45.9768839,
+  "lon": 12.2926186
+},
+{
+  "type": "node",
+  "id": 1654728377,
+  "lat": 45.9769564,
+  "lon": 12.2929281
+},
+{
+  "type": "node",
+  "id": 1654728416,
+  "lat": 45.9769410,
+  "lon": 12.2929732
+},
+{
+  "type": "node",
+  "id": 1654728475,
+  "lat": 45.9769705,
+  "lon": 12.2926148
+},
+{
+  "type": "node",
+  "id": 1654728547,
+  "lat": 45.9769788,
+  "lon": 12.2926123
+},
+{
+  "type": "node",
+  "id": 1654728557,
+  "lat": 45.9769806,
+  "lon": 12.2926243
+},
+{
+  "type": "node",
+  "id": 1654728891,
+  "lat": 45.9770190,
+  "lon": 12.2926127
+},
+{
+  "type": "node",
+  "id": 1654729269,
+  "lat": 45.9770704,
+  "lon": 12.2929277
+},
+{
+  "type": "way",
+  "id": 138842060,
+  "nodes": [
+    1522252445,
+    1522252447,
+    1522252263,
+    1522252264,
+    1522252266,
+    1522252268,
+    1522252270,
+    1522252271,
+    1522252462,
+    1522252458,
+    1522252459,
+    1522252460,
+    1522252465,
+    1522252288,
+    1522252467,
+    1522252471,
+    1522252468,
+    1522252473,
+    1828593076,
+    5367967920,
+    1522251637,
+    1522250993,
+    1522250991,
+    1522250992,
+    1522250652,
+    1522250650,
+    1522250651,
+    1522250649,
+    1522250648,
+    1522250646,
+    1522250645,
+    1522251160,
+    1522251158,
+    1522251479,
+    1522251477,
+    1522252445
+  ]
+},
+{
+  "type": "way",
+  "id": 138842807,
+  "nodes": [
+    1522251628,
+    1522251630,
+    1522251284,
+    1522251282,
+    1522251628
+  ]
+},
+{
+  "type": "way",
+  "id": 138842829,
+  "nodes": [
+    1522339143,
+    1522338287,
+    1522337284,
+    1522338283,
+    1522339143
+  ]
+},
+{
+  "type": "way",
+  "id": 343543714,
+  "nodes": [
+    1522337798,
+    1522338572,
+    1522338575,
+    3503833487,
+    1522339400,
+    3503833486,
+    1522339772,
+    1522341451,
+    1522344040,
+    1522344045,
+    1522344035,
+    1522341453,
+    1522340597,
+    1522338976,
+    1522338589,
+    1522336147,
+    1522336718,
+    1522336989,
+    1522336986,
+    1522336715,
+    1522337277,
+    1522337798
+  ]
+},
+{
+  "type": "way",
+  "id": 138803502,
+  "nodes": [
+    1521911927,
+    1521912950,
+    1521910010,
+    1521909069,
+    1521911538,
+    1521911927
+  ]
+},
+{
+  "type": "way",
+  "id": 173613028,
+  "nodes": [
+    1521907754,
+    4858450201,
+    4853999352,
+    1521912947,
+    1521913870,
+    1521916103,
+    1521911930,
+    1521910016,
+    4858449915,
+    4441294412,
+    1521907754
+  ]
+},
+{
+  "type": "way",
+  "id": 132932927,
+  "nodes": [
+    1462654718,
+    1462654685,
+    1462654759,
+    1462654758,
+    1462654718
+  ]
+},
+{
+  "type": "way",
+  "id": 176657628,
+  "nodes": [
+    1871412284,
+    1871412278,
+    4838683092,
+    1871412265,
+    1871412268,
+    1871412261,
+    4838683093,
+    1871412270,
+    1871412284
+  ]
+}
+
+  ]
+}

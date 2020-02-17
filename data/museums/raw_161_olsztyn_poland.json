@@ -1,0 +1,1325 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-14T12:36:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1568007437,
+  "lat": 53.7751932,
+  "lon": 20.4912948,
+  "tags": {
+    "addr:city": "Olsztyn",
+    "addr:housenumber": "38",
+    "addr:street": "Aleja Marszałka Józefa Piłsudskiego",
+    "name": "Planetarium",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 2444493528,
+  "lat": 53.7748584,
+  "lon": 20.4914596,
+  "tags": {
+    "name": "BWA Olsztyn Galeria Sztuki",
+    "opening_hours": "Tu-Th 10:00-18:00; Fr 10:00-19:00; Sa 11:00-19:00; Su 11:00-18:00",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 2563152053,
+  "lat": 53.7611864,
+  "lon": 20.4943264,
+  "tags": {
+    "name": "Muzeum Przyrody",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3024318955,
+  "lat": 53.8289197,
+  "lon": 20.6904978,
+  "tags": {
+    "name": "Muzeum Feliksa Nowowiejskiego",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3598572615,
+  "lat": 53.5906061,
+  "lon": 20.2888091,
+  "tags": {
+    "name": "Brama wjazdowa z Borek (XIX w.)",
+    "operator": "Muzeum Budownictwa Ludowego - Park Etnograficzny w Olsztynku",
+    "source": "http://muzeumolsztynek.com.pl/",
+    "tourism": "museum",
+    "website": "http://muzeumolsztynek.com.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 3677297228,
+  "lat": 53.5832840,
+  "lon": 20.2833760,
+  "tags": {
+    "addr:city": "Olsztynek",
+    "addr:housenumber": "1",
+    "addr:street": "Zamkowa",
+    "name": "Muzeum Budownictwa Ludowego",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3789821764,
+  "lat": 53.5828344,
+  "lon": 20.2817650,
+  "tags": {
+    "addr:city": "Olsztynek",
+    "addr:housenumber": "1",
+    "addr:postcode": "11-015",
+    "addr:street": "Ratusz",
+    "name": "Multimedialne Muzeum Obozu Jenieckiego Stalag IB oraz Historii Olsztynka",
+    "opening_hours": "Tu-Fr 10:00-17:00; Sa-Su 10:00-14:00; Mo off",
+    "operator": "Gmina Olsztynek",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4639436782,
+  "lat": 53.8641842,
+  "lon": 20.9552621,
+  "tags": {
+    "name": "Wystawa aparatów fotograficznych",
+    "opening_hours": "uzg. telefonicznie",
+    "operator": "prywatna Wiesław Borowski / Dom Pracy Twórczej Sorboma",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 143265529,
+  "nodes": [
+    1567872167,
+    3533900381,
+    3533900384,
+    1567871825,
+    1567870844,
+    1567872149,
+    1567870531,
+    1567871237,
+    7052607657,
+    7052607656,
+    1567872167
+  ],
+  "tags": {
+    "addr:city": "Olsztyn",
+    "addr:housenumber": "3b",
+    "addr:postcode": "10-015",
+    "addr:street": "Ryszarda Knosały",
+    "building": "yes",
+    "name": "Muzeum Nowoczesności - Tartak Raphaelsohnów",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 143265547,
+  "nodes": [
+    1567871398,
+    1567870822,
+    1567871223,
+    1567870210,
+    1567870102,
+    1567870539,
+    1567871398
+  ],
+  "tags": {
+    "addr:city": "Olsztyn",
+    "addr:housenumber": "3a",
+    "addr:postcode": "10-015",
+    "addr:street": "Ryszarda Knosały",
+    "building": "yes",
+    "building:levels": "1",
+    "name": "Muzeum Nowoczesności - Dawna zajezdnia trolejbusowa",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 143269067,
+  "nodes": [
+    1567909737,
+    1868464878,
+    1567909968,
+    1567909975,
+    1868464877,
+    1567909728,
+    1868464874,
+    1567910028,
+    1567909636,
+    1868464876,
+    1567909897,
+    1567910161,
+    1868464872,
+    1567909835,
+    1868464873,
+    1567909927,
+    1868464869,
+    1567909941,
+    1868464875,
+    1567909737
+  ],
+  "tags": {
+    "addr:city": "Olsztyn",
+    "addr:housenumber": "13",
+    "addr:street": "Żołnierska",
+    "building": "yes",
+    "building:height": "23",
+    "name": "Obserwatorium astronomiczne",
+    "roof:shape": "dome",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 196755706,
+  "nodes": [
+    2070480966,
+    2070480842,
+    2070481015,
+    2070481014,
+    2070480966
+  ],
+  "tags": {
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 196755714,
+  "nodes": [
+    2070481022,
+    2070480901,
+    2070480977,
+    2070481013,
+    2070481022
+  ],
+  "tags": {
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 196755720,
+  "nodes": [
+    2070480967,
+    2070480939,
+    2070480987,
+    2070480949,
+    2070480967
+  ],
+  "tags": {
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 196755721,
+  "nodes": [
+    2070480945,
+    2070481020,
+    2070480931,
+    2070480864,
+    2070480945
+  ],
+  "tags": {
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 196755723,
+  "nodes": [
+    2070480914,
+    2070480921,
+    2070480962,
+    2070480929,
+    2070480914
+  ],
+  "tags": {
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 196755725,
+  "nodes": [
+    2070481003,
+    2070481008,
+    2070480976,
+    2070480836,
+    2070481003
+  ],
+  "tags": {
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 196755728,
+  "nodes": [
+    2070480865,
+    2070481011,
+    2070480986,
+    2070480954,
+    2070480865
+  ],
+  "tags": {
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 196755729,
+  "nodes": [
+    2070480905,
+    2070480961,
+    2070480981,
+    31523090,
+    2070481010,
+    2070480858,
+    2070480905
+  ],
+  "tags": {
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 352955374,
+  "nodes": [
+    3587415828,
+    3587415829,
+    3587415830,
+    6535195901,
+    6535195900,
+    3587415831,
+    3587415828
+  ],
+  "tags": {
+    "building": "yes",
+    "building:levels": "2",
+    "name": "Karczma ze Skandawy (II poł. XVII w.)",
+    "operator": "Muzeum Budownictwa Ludowego - Park Etnograficzny w Olsztynku",
+    "source": "http://muzeumolsztynek.com.pl/",
+    "tourism": "museum",
+    "website": "http://muzeumolsztynek.com.pl/"
+  }
+},
+{
+  "type": "way",
+  "id": 352955375,
+  "nodes": [
+    3587415832,
+    3587415833,
+    3587415834,
+    3587415835,
+    3587415832
+  ],
+  "tags": {
+    "building": "industrial",
+    "name": "Młyn wodny z Kaborna (II poł. XVIII w.)",
+    "operator": "Muzeum Budownictwa Ludowego - Park Etnograficzny w Olsztynku",
+    "tourism": "museum",
+    "website": "http://muzeumolsztynek.com.pl/"
+  }
+},
+{
+  "type": "way",
+  "id": 352955376,
+  "nodes": [
+    3587415838,
+    3587415839,
+    3587415840,
+    3587415841,
+    3587415842,
+    3587415843,
+    3587415844,
+    3587415845,
+    3587415846,
+    3587415847,
+    3587415857,
+    3587415858,
+    3587415861,
+    3587415860,
+    3587415859,
+    3587415851,
+    3587415852,
+    3587415853,
+    3587415854,
+    3587415855,
+    3587415856,
+    3587415838
+  ],
+  "tags": {
+    "addr:city": "Olsztynek",
+    "addr:postcode": "11-015",
+    "addr:street": "Leśna",
+    "name": "Muzeum Budownictwa Ludowego - Park Etnograficzny w Olsztynku",
+    "name:en": "Museum of Folk Architecture",
+    "opening_hours": "IV Wt-N 9:00-17:00, V-VI 9:00-17:00, VII-VIII 10:00-18:00, IX Wt-N 9:00-17:00, X Wt-N 9:00-16:00, XI-14.IV 9:00-15:00",
+    "operator": "Urząd Marszałkowski Województwa Warmińsko-Mazurskiego",
+    "source": "http://muzeumolsztynek.com.pl/pl/kontakt.html",
+    "tourism": "museum",
+    "website": "http://muzeumolsztynek.com.pl/",
+    "wheelchair": "yes",
+    "wikidata": "Q1454536",
+    "wikipedia": "pl:Muzeum Budownictwa Ludowego w Olsztynku"
+  }
+},
+{
+  "type": "way",
+  "id": 352956821,
+  "nodes": [
+    3587439926,
+    3587439927,
+    3587439928,
+    3587439929,
+    3587439926
+  ],
+  "tags": {
+    "building": "house",
+    "name": "Dom kamienny z Łutynowa (I poł. XIX w.)",
+    "operator": "Muzeum Budownictwa Ludowego - Park Etnograficzny w Olsztynku",
+    "tourism": "museum",
+    "website": "http://muzeumolsztynek.com.pl/"
+  }
+},
+{
+  "type": "way",
+  "id": 352956822,
+  "nodes": [
+    3587439930,
+    3598572621,
+    3598572620,
+    3587439931,
+    6535152145,
+    6535152146,
+    6535152147,
+    6535152151,
+    6535152148,
+    3587439934,
+    6535152144,
+    3587439935,
+    6535152143,
+    6535152140,
+    6535152141,
+    6535152142,
+    3587439930
+  ],
+  "tags": {
+    "building": "church",
+    "name": "Kościół ewangelicki z Rychnowa (1712-1714)",
+    "operator": "Muzeum Budownictwa Ludowego - Park Etnograficzny w Olsztynku",
+    "tourism": "museum",
+    "website": "http://muzeumolsztynek.com.pl/"
+  }
+},
+{
+  "type": "way",
+  "id": 354080961,
+  "nodes": [
+    3598572616,
+    3598572617,
+    3598572618,
+    3598572619,
+    3598572616
+  ],
+  "tags": {
+    "building": "shed",
+    "name": "Piwnica ziemna z Małszewa (II poł. XIX w.)",
+    "operator": "Muzeum Budownictwa Ludowego - Park Etnograficzny w Olsztynku",
+    "tourism": "museum",
+    "website": "http://muzeumolsztynek.com.pl/"
+  }
+},
+{
+  "type": "way",
+  "id": 354080962,
+  "nodes": [
+    3598572622,
+    3598572623,
+    6535152150,
+    6535152149,
+    3598572622
+  ],
+  "tags": {
+    "building": "church",
+    "name": "Dzwonnica z Maniek ( 1685 r)",
+    "operator": "Muzeum Budownictwa Ludowego - Park Etnograficzny w Olsztynku",
+    "tourism": "museum",
+    "website": "http://muzeumolsztynek.com.pl/"
+  }
+},
+{
+  "type": "way",
+  "id": 354080966,
+  "nodes": [
+    3598572646,
+    3598572647,
+    3598572648,
+    3598572649,
+    3598572646
+  ],
+  "tags": {
+    "building": "church",
+    "name": "Dzwonnica ze wsi Kot (pocz. XX w.)",
+    "operator": "Muzeum Budownictwa Ludowego - Park Etnograficzny w Olsztynku",
+    "tourism": "museum",
+    "website": "http://muzeumolsztynek.com.pl/"
+  }
+},
+{
+  "type": "way",
+  "id": 354080974,
+  "nodes": [
+    3598572682,
+    3598572683,
+    3598572684,
+    3598572685,
+    3598572682
+  ],
+  "tags": {
+    "building": "yes",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3587415845,
+  "lat": 53.5901438,
+  "lon": 20.2827129
+},
+{
+  "type": "node",
+  "id": 3587415828,
+  "lat": 53.5906293,
+  "lon": 20.2884115
+},
+{
+  "type": "node",
+  "id": 3587415829,
+  "lat": 53.5903676,
+  "lon": 20.2882145
+},
+{
+  "type": "node",
+  "id": 3587415830,
+  "lat": 53.5903193,
+  "lon": 20.2883855
+},
+{
+  "type": "node",
+  "id": 3587415831,
+  "lat": 53.5905923,
+  "lon": 20.2885436
+},
+{
+  "type": "node",
+  "id": 3587415832,
+  "lat": 53.5909879,
+  "lon": 20.2880611
+},
+{
+  "type": "node",
+  "id": 3587415833,
+  "lat": 53.5909146,
+  "lon": 20.2879855
+},
+{
+  "type": "node",
+  "id": 3587415834,
+  "lat": 53.5908803,
+  "lon": 20.2880799
+},
+{
+  "type": "node",
+  "id": 3587415835,
+  "lat": 53.5909536,
+  "lon": 20.2881555
+},
+{
+  "type": "node",
+  "id": 3587415838,
+  "lat": 53.5905038,
+  "lon": 20.2898565
+},
+{
+  "type": "node",
+  "id": 3587415839,
+  "lat": 53.5897304,
+  "lon": 20.2896651
+},
+{
+  "type": "node",
+  "id": 3587415840,
+  "lat": 53.5889625,
+  "lon": 20.2896652
+},
+{
+  "type": "node",
+  "id": 3587415841,
+  "lat": 53.5890453,
+  "lon": 20.2889249
+},
+{
+  "type": "node",
+  "id": 3587415842,
+  "lat": 53.5890230,
+  "lon": 20.2884904
+},
+{
+  "type": "node",
+  "id": 3587415843,
+  "lat": 53.5888383,
+  "lon": 20.2877179
+},
+{
+  "type": "node",
+  "id": 3587415844,
+  "lat": 53.5893382,
+  "lon": 20.2856955
+},
+{
+  "type": "node",
+  "id": 3587415855,
+  "lat": 53.5919454,
+  "lon": 20.2889412
+},
+{
+  "type": "node",
+  "id": 3587415856,
+  "lat": 53.5911175,
+  "lon": 20.2881902
+},
+{
+  "type": "node",
+  "id": 3587439926,
+  "lat": 53.5914748,
+  "lon": 20.2873132
+},
+{
+  "type": "node",
+  "id": 3587439927,
+  "lat": 53.5914230,
+  "lon": 20.2872760
+},
+{
+  "type": "node",
+  "id": 3587439928,
+  "lat": 53.5913769,
+  "lon": 20.2874583
+},
+{
+  "type": "node",
+  "id": 3587439929,
+  "lat": 53.5914287,
+  "lon": 20.2874955
+},
+{
+  "type": "node",
+  "id": 3587439930,
+  "lat": 53.5911810,
+  "lon": 20.2859637
+},
+{
+  "type": "node",
+  "id": 3587439931,
+  "lat": 53.5912480,
+  "lon": 20.2860811
+},
+{
+  "type": "node",
+  "id": 3587439934,
+  "lat": 53.5912982,
+  "lon": 20.2859221
+},
+{
+  "type": "node",
+  "id": 3587439935,
+  "lat": 53.5912347,
+  "lon": 20.2858724
+},
+{
+  "type": "node",
+  "id": 3598572616,
+  "lat": 53.5915149,
+  "lon": 20.2869593
+},
+{
+  "type": "node",
+  "id": 3598572617,
+  "lat": 53.5914710,
+  "lon": 20.2870980
+},
+{
+  "type": "node",
+  "id": 3598572618,
+  "lat": 53.5915167,
+  "lon": 20.2871350
+},
+{
+  "type": "node",
+  "id": 3598572619,
+  "lat": 53.5915569,
+  "lon": 20.2869994
+},
+{
+  "type": "node",
+  "id": 3598572620,
+  "lat": 53.5912119,
+  "lon": 20.2860683
+},
+{
+  "type": "node",
+  "id": 3598572621,
+  "lat": 53.5911832,
+  "lon": 20.2860174
+},
+{
+  "type": "node",
+  "id": 3598572622,
+  "lat": 53.5913084,
+  "lon": 20.2858210
+},
+{
+  "type": "node",
+  "id": 3598572623,
+  "lat": 53.5913334,
+  "lon": 20.2858663
+},
+{
+  "type": "node",
+  "id": 3598572646,
+  "lat": 53.5917457,
+  "lon": 20.2855471
+},
+{
+  "type": "node",
+  "id": 3598572647,
+  "lat": 53.5917099,
+  "lon": 20.2855436
+},
+{
+  "type": "node",
+  "id": 3598572648,
+  "lat": 53.5917078,
+  "lon": 20.2855825
+},
+{
+  "type": "node",
+  "id": 3598572649,
+  "lat": 53.5917436,
+  "lon": 20.2855860
+},
+{
+  "type": "node",
+  "id": 6535152140,
+  "lat": 53.5911996,
+  "lon": 20.2858794
+},
+{
+  "type": "node",
+  "id": 6535152141,
+  "lat": 53.5911842,
+  "lon": 20.2859069
+},
+{
+  "type": "node",
+  "id": 6535152142,
+  "lat": 53.5911996,
+  "lon": 20.2859316
+},
+{
+  "type": "node",
+  "id": 6535152143,
+  "lat": 53.5912150,
+  "lon": 20.2859048
+},
+{
+  "type": "node",
+  "id": 6535152144,
+  "lat": 53.5912695,
+  "lon": 20.2858739
+},
+{
+  "type": "node",
+  "id": 6535152145,
+  "lat": 53.5912693,
+  "lon": 20.2860471
+},
+{
+  "type": "node",
+  "id": 6535152146,
+  "lat": 53.5912838,
+  "lon": 20.2860697
+},
+{
+  "type": "node",
+  "id": 6535152147,
+  "lat": 53.5912992,
+  "lon": 20.2860400
+},
+{
+  "type": "node",
+  "id": 6535152148,
+  "lat": 53.5913026,
+  "lon": 20.2859807
+},
+{
+  "type": "node",
+  "id": 6535152149,
+  "lat": 53.5912822,
+  "lon": 20.2858621
+},
+{
+  "type": "node",
+  "id": 6535152150,
+  "lat": 53.5913071,
+  "lon": 20.2859073
+},
+{
+  "type": "node",
+  "id": 6535152151,
+  "lat": 53.5912843,
+  "lon": 20.2860169
+},
+{
+  "type": "node",
+  "id": 6535195900,
+  "lat": 53.5905195,
+  "lon": 20.2884852
+},
+{
+  "type": "node",
+  "id": 6535195901,
+  "lat": 53.5905081,
+  "lon": 20.2885303
+},
+{
+  "type": "node",
+  "id": 3587415846,
+  "lat": 53.5926265,
+  "lon": 20.2814002
+},
+{
+  "type": "node",
+  "id": 3587415847,
+  "lat": 53.5960303,
+  "lon": 20.2809541
+},
+{
+  "type": "node",
+  "id": 3587415851,
+  "lat": 53.5974275,
+  "lon": 20.2821730
+},
+{
+  "type": "node",
+  "id": 3587415857,
+  "lat": 53.5960342,
+  "lon": 20.2810122
+},
+{
+  "type": "node",
+  "id": 3587415858,
+  "lat": 53.5968450,
+  "lon": 20.2808423
+},
+{
+  "type": "node",
+  "id": 3587415859,
+  "lat": 53.5975549,
+  "lon": 20.2815714
+},
+{
+  "type": "node",
+  "id": 3587415860,
+  "lat": 53.5975087,
+  "lon": 20.2809839
+},
+{
+  "type": "node",
+  "id": 3587415861,
+  "lat": 53.5971432,
+  "lon": 20.2807291
+},
+{
+  "type": "node",
+  "id": 3587415852,
+  "lat": 53.5977999,
+  "lon": 20.2852253
+},
+{
+  "type": "node",
+  "id": 3587415853,
+  "lat": 53.5978417,
+  "lon": 20.2853792
+},
+{
+  "type": "node",
+  "id": 3587415854,
+  "lat": 53.5981855,
+  "lon": 20.2870100
+},
+{
+  "type": "node",
+  "id": 3598572682,
+  "lat": 53.5938796,
+  "lon": 20.2861884
+},
+{
+  "type": "node",
+  "id": 3598572683,
+  "lat": 53.5939169,
+  "lon": 20.2863702
+},
+{
+  "type": "node",
+  "id": 3598572684,
+  "lat": 53.5936490,
+  "lon": 20.2865262
+},
+{
+  "type": "node",
+  "id": 3598572685,
+  "lat": 53.5936117,
+  "lon": 20.2863445
+},
+{
+  "type": "node",
+  "id": 1567870102,
+  "lat": 53.7736465,
+  "lon": 20.4806531
+},
+{
+  "type": "node",
+  "id": 1567870210,
+  "lat": 53.7736182,
+  "lon": 20.4808350
+},
+{
+  "type": "node",
+  "id": 1567870531,
+  "lat": 53.7736069,
+  "lon": 20.4813289
+},
+{
+  "type": "node",
+  "id": 1567870539,
+  "lat": 53.7737351,
+  "lon": 20.4806926
+},
+{
+  "type": "node",
+  "id": 1567870822,
+  "lat": 53.7734624,
+  "lon": 20.4803665
+},
+{
+  "type": "node",
+  "id": 1567870844,
+  "lat": 53.7734964,
+  "lon": 20.4816078
+},
+{
+  "type": "node",
+  "id": 1567871223,
+  "lat": 53.7734043,
+  "lon": 20.4807397
+},
+{
+  "type": "node",
+  "id": 1567871237,
+  "lat": 53.7736350,
+  "lon": 20.4811601
+},
+{
+  "type": "node",
+  "id": 1567871398,
+  "lat": 53.7737649,
+  "lon": 20.4805012
+},
+{
+  "type": "node",
+  "id": 1567871825,
+  "lat": 53.7734167,
+  "lon": 20.4815698
+},
+{
+  "type": "node",
+  "id": 1567872149,
+  "lat": 53.7735475,
+  "lon": 20.4813006
+},
+{
+  "type": "node",
+  "id": 1567872167,
+  "lat": 53.7734536,
+  "lon": 20.4810817
+},
+{
+  "type": "node",
+  "id": 3533900381,
+  "lat": 53.7733843,
+  "lon": 20.4814977
+},
+{
+  "type": "node",
+  "id": 3533900384,
+  "lat": 53.7734255,
+  "lon": 20.4815173
+},
+{
+  "type": "node",
+  "id": 7052607656,
+  "lat": 53.7734903,
+  "lon": 20.4810992
+},
+{
+  "type": "node",
+  "id": 7052607657,
+  "lat": 53.7734916,
+  "lon": 20.4810917
+},
+{
+  "type": "node",
+  "id": 1567909636,
+  "lat": 53.7724549,
+  "lon": 20.4888634
+},
+{
+  "type": "node",
+  "id": 1567909728,
+  "lat": 53.7725077,
+  "lon": 20.4888672
+},
+{
+  "type": "node",
+  "id": 1567909737,
+  "lat": 53.7725316,
+  "lon": 20.4887286
+},
+{
+  "type": "node",
+  "id": 1567909835,
+  "lat": 53.7724383,
+  "lon": 20.4887212
+},
+{
+  "type": "node",
+  "id": 1567909897,
+  "lat": 53.7724338,
+  "lon": 20.4888271
+},
+{
+  "type": "node",
+  "id": 1567909927,
+  "lat": 53.7724645,
+  "lon": 20.4886891
+},
+{
+  "type": "node",
+  "id": 1567909941,
+  "lat": 53.7725040,
+  "lon": 20.4886901
+},
+{
+  "type": "node",
+  "id": 1567909968,
+  "lat": 53.7725404,
+  "lon": 20.4887781
+},
+{
+  "type": "node",
+  "id": 1567909975,
+  "lat": 53.7725347,
+  "lon": 20.4888219
+},
+{
+  "type": "node",
+  "id": 1567910028,
+  "lat": 53.7724699,
+  "lon": 20.4888736
+},
+{
+  "type": "node",
+  "id": 1567910161,
+  "lat": 53.7724265,
+  "lon": 20.4887831
+},
+{
+  "type": "node",
+  "id": 1868464869,
+  "lat": 53.7724840,
+  "lon": 20.4886836
+},
+{
+  "type": "node",
+  "id": 1868464872,
+  "lat": 53.7724293,
+  "lon": 20.4887499
+},
+{
+  "type": "node",
+  "id": 1868464873,
+  "lat": 53.7724529,
+  "lon": 20.4886986
+},
+{
+  "type": "node",
+  "id": 1868464874,
+  "lat": 53.7724887,
+  "lon": 20.4888760
+},
+{
+  "type": "node",
+  "id": 1868464875,
+  "lat": 53.7725209,
+  "lon": 20.4887074
+},
+{
+  "type": "node",
+  "id": 1868464876,
+  "lat": 53.7724398,
+  "lon": 20.4888419
+},
+{
+  "type": "node",
+  "id": 1868464877,
+  "lat": 53.7725232,
+  "lon": 20.4888491
+},
+{
+  "type": "node",
+  "id": 1868464878,
+  "lat": 53.7725391,
+  "lon": 20.4887596
+},
+{
+  "type": "node",
+  "id": 2070480842,
+  "lat": 53.9479380,
+  "lon": 20.3156847
+},
+{
+  "type": "node",
+  "id": 2070480858,
+  "lat": 53.9496270,
+  "lon": 20.3158582
+},
+{
+  "type": "node",
+  "id": 2070480905,
+  "lat": 53.9497352,
+  "lon": 20.3159858
+},
+{
+  "type": "node",
+  "id": 2070480939,
+  "lat": 53.9492892,
+  "lon": 20.3161582
+},
+{
+  "type": "node",
+  "id": 2070480949,
+  "lat": 53.9494079,
+  "lon": 20.3156491
+},
+{
+  "type": "node",
+  "id": 2070480966,
+  "lat": 53.9479921,
+  "lon": 20.3155546
+},
+{
+  "type": "node",
+  "id": 2070480967,
+  "lat": 53.9494726,
+  "lon": 20.3157291
+},
+{
+  "type": "node",
+  "id": 2070480987,
+  "lat": 53.9492244,
+  "lon": 20.3160782
+},
+{
+  "type": "node",
+  "id": 2070481014,
+  "lat": 53.9478966,
+  "lon": 20.3154401
+},
+{
+  "type": "node",
+  "id": 2070481015,
+  "lat": 53.9478425,
+  "lon": 20.3155702
+},
+{
+  "type": "node",
+  "id": 31523090,
+  "lat": 53.9496086,
+  "lon": 20.3164559
+},
+{
+  "type": "node",
+  "id": 2070480836,
+  "lat": 53.9493777,
+  "lon": 20.3192615
+},
+{
+  "type": "node",
+  "id": 2070480864,
+  "lat": 53.9486248,
+  "lon": 20.3178602
+},
+{
+  "type": "node",
+  "id": 2070480865,
+  "lat": 53.9492755,
+  "lon": 20.3184805
+},
+{
+  "type": "node",
+  "id": 2070480901,
+  "lat": 53.9492608,
+  "lon": 20.3165391
+},
+{
+  "type": "node",
+  "id": 2070480914,
+  "lat": 53.9492472,
+  "lon": 20.3192841
+},
+{
+  "type": "node",
+  "id": 2070480921,
+  "lat": 53.9492008,
+  "lon": 20.3193873
+},
+{
+  "type": "node",
+  "id": 2070480929,
+  "lat": 53.9491611,
+  "lon": 20.3191724
+},
+{
+  "type": "node",
+  "id": 2070480931,
+  "lat": 53.9485458,
+  "lon": 20.3180069
+},
+{
+  "type": "node",
+  "id": 2070480945,
+  "lat": 53.9487778,
+  "lon": 20.3180982
+},
+{
+  "type": "node",
+  "id": 2070480954,
+  "lat": 53.9491818,
+  "lon": 20.3182849
+},
+{
+  "type": "node",
+  "id": 2070480961,
+  "lat": 53.9496602,
+  "lon": 20.3161694
+},
+{
+  "type": "node",
+  "id": 2070480962,
+  "lat": 53.9491148,
+  "lon": 20.3192756
+},
+{
+  "type": "node",
+  "id": 2070480976,
+  "lat": 53.9493162,
+  "lon": 20.3193804
+},
+{
+  "type": "node",
+  "id": 2070480977,
+  "lat": 53.9491090,
+  "lon": 20.3163454
+},
+{
+  "type": "node",
+  "id": 2070480981,
+  "lat": 53.9497044,
+  "lon": 20.3162214
+},
+{
+  "type": "node",
+  "id": 2070480986,
+  "lat": 53.9490868,
+  "lon": 20.3184163
+},
+{
+  "type": "node",
+  "id": 2070481003,
+  "lat": 53.9494894,
+  "lon": 20.3194286
+},
+{
+  "type": "node",
+  "id": 2070481008,
+  "lat": 53.9494278,
+  "lon": 20.3195474
+},
+{
+  "type": "node",
+  "id": 2070481010,
+  "lat": 53.9494563,
+  "lon": 20.3162763
+},
+{
+  "type": "node",
+  "id": 2070481011,
+  "lat": 53.9491805,
+  "lon": 20.3186120
+},
+{
+  "type": "node",
+  "id": 2070481013,
+  "lat": 53.9491792,
+  "lon": 20.3161863
+},
+{
+  "type": "node",
+  "id": 2070481020,
+  "lat": 53.9486988,
+  "lon": 20.3182448
+},
+{
+  "type": "node",
+  "id": 2070481022,
+  "lat": 53.9493311,
+  "lon": 20.3163800
+}
+
+  ]
+}

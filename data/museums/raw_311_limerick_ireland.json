@@ -1,0 +1,450 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-14T16:24:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 278940500,
+  "lat": 52.6113853,
+  "lon": -9.1099045,
+  "tags": {
+    "name": "Foynes Flying Boat Museum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 2177560181,
+  "lat": 52.6649606,
+  "lon": -8.6250511,
+  "tags": {
+    "name": "Ormston House Art Gallery",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4028743520,
+  "lat": 52.6587242,
+  "lon": -8.6306108,
+  "tags": {
+    "alt_name": "The Frank McCourt Museum",
+    "name": "Leamy House",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 5008313084,
+  "lat": 52.6639627,
+  "lon": -8.6288242,
+  "tags": {
+    "name": "Limerick Museum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6536028586,
+  "lat": 52.8177437,
+  "lon": -9.0075653,
+  "tags": {
+    "historic": "monument",
+    "name": "Alice and Gwendoline Cave",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 87651394,
+  "nodes": [
+    1019379861,
+    1233664483,
+    1233664488,
+    1019379875,
+    5427530960,
+    1019379795,
+    1019379818,
+    1019379839,
+    4018858622,
+    4018858621,
+    1019379856,
+    1019379871,
+    1019379792,
+    1019379861
+  ],
+  "tags": {
+    "building": "museum",
+    "name": "Hunt Museum",
+    "opening_hours": "Mo-Sa 10:00-17:00; Su 14:00-17:00",
+    "tourism": "museum",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 127732311,
+  "nodes": [
+    1413141479,
+    3658403584,
+    1413141472,
+    1413141475,
+    1413141481,
+    1413141487,
+    1413141489,
+    1413141495,
+    1413141497,
+    1413141479
+  ],
+  "tags": {
+    "addr:city": "Limerick",
+    "addr:street": "Pery Square",
+    "building": "yes",
+    "name": "Culture House",
+    "tourism": "museum",
+    "website": "http://www.limerickcivictrust.ie/georgian/index.html"
+  }
+},
+{
+  "type": "way",
+  "id": 219888667,
+  "nodes": [
+    2290193970,
+    2290193985,
+    5680108835,
+    2290193977,
+    2290193982,
+    2290193983,
+    2290193984,
+    2290193975,
+    2290193976,
+    2290193963,
+    2290193965,
+    2290193958,
+    2290193959,
+    2290193964,
+    2290193979,
+    2290193970
+  ],
+  "tags": {
+    "building": "public",
+    "name": "Clare Museum",
+    "source": "Bing",
+    "tourism": "museum",
+    "wikidata": "Q19847611"
+  }
+},
+{
+  "type": "way",
+  "id": 220719336,
+  "nodes": [
+    2298110221,
+    2298110226,
+    2298110174,
+    2298110173,
+    2298110221
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Clare County Museum",
+    "opening_hours": "Tu-Sa 09:30-13:00,14:00-17:30",
+    "operator": "Clare County Council",
+    "source": "Bing",
+    "tourism": "museum",
+    "website": "http://www.clarelibrary.ie/eolas/claremuseum/index.htm"
+  }
+},
+{
+  "type": "way",
+  "id": 317291466,
+  "nodes": [
+    3235325853,
+    3235325854,
+    3235325855,
+    3235325856,
+    3235325853
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "The Eamonn De Valera Museum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3235325853,
+  "lat": 52.4246081,
+  "lon": -8.6628232
+},
+{
+  "type": "node",
+  "id": 3235325854,
+  "lat": 52.4246263,
+  "lon": -8.6629875
+},
+{
+  "type": "node",
+  "id": 3235325855,
+  "lat": 52.4244722,
+  "lon": -8.6630336
+},
+{
+  "type": "node",
+  "id": 3235325856,
+  "lat": 52.4244539,
+  "lon": -8.6628693
+},
+{
+  "type": "node",
+  "id": 2290193958,
+  "lat": 52.8440497,
+  "lon": -8.9813397
+},
+{
+  "type": "node",
+  "id": 2290193959,
+  "lat": 52.8440735,
+  "lon": -8.9816791
+},
+{
+  "type": "node",
+  "id": 2290193963,
+  "lat": 52.8441298,
+  "lon": -8.9812834
+},
+{
+  "type": "node",
+  "id": 2290193964,
+  "lat": 52.8441303,
+  "lon": -8.9820539
+},
+{
+  "type": "node",
+  "id": 2290193965,
+  "lat": 52.8441336,
+  "lon": -8.9813236
+},
+{
+  "type": "node",
+  "id": 2290193970,
+  "lat": 52.8441861,
+  "lon": -8.9817302
+},
+{
+  "type": "node",
+  "id": 2290193975,
+  "lat": 52.8442164,
+  "lon": -8.9813737
+},
+{
+  "type": "node",
+  "id": 2290193976,
+  "lat": 52.8442188,
+  "lon": -8.9812900
+},
+{
+  "type": "node",
+  "id": 2290193977,
+  "lat": 52.8442245,
+  "lon": -8.9814970
+},
+{
+  "type": "node",
+  "id": 2290193979,
+  "lat": 52.8442289,
+  "lon": -8.9820130
+},
+{
+  "type": "node",
+  "id": 2290193982,
+  "lat": 52.8442488,
+  "lon": -8.9814987
+},
+{
+  "type": "node",
+  "id": 2290193983,
+  "lat": 52.8442494,
+  "lon": -8.9814737
+},
+{
+  "type": "node",
+  "id": 2290193984,
+  "lat": 52.8442518,
+  "lon": -8.9813761
+},
+{
+  "type": "node",
+  "id": 2290193985,
+  "lat": 52.8442548,
+  "lon": -8.9817024
+},
+{
+  "type": "node",
+  "id": 5680108835,
+  "lat": 52.8442500,
+  "lon": -8.9816695
+},
+{
+  "type": "node",
+  "id": 2298110173,
+  "lat": 52.8459919,
+  "lon": -8.9842774
+},
+{
+  "type": "node",
+  "id": 2298110174,
+  "lat": 52.8460005,
+  "lon": -8.9841436
+},
+{
+  "type": "node",
+  "id": 2298110221,
+  "lat": 52.8461442,
+  "lon": -8.9843041
+},
+{
+  "type": "node",
+  "id": 2298110226,
+  "lat": 52.8461528,
+  "lon": -8.9841703
+},
+{
+  "type": "node",
+  "id": 1413141472,
+  "lat": 52.6581650,
+  "lon": -8.6298045
+},
+{
+  "type": "node",
+  "id": 1413141475,
+  "lat": 52.6582243,
+  "lon": -8.6297424
+},
+{
+  "type": "node",
+  "id": 1413141479,
+  "lat": 52.6582631,
+  "lon": -8.6300775
+},
+{
+  "type": "node",
+  "id": 1413141481,
+  "lat": 52.6582925,
+  "lon": -8.6299145
+},
+{
+  "type": "node",
+  "id": 1413141487,
+  "lat": 52.6582563,
+  "lon": -8.6299588
+},
+{
+  "type": "node",
+  "id": 1413141489,
+  "lat": 52.6582664,
+  "lon": -8.6299838
+},
+{
+  "type": "node",
+  "id": 1413141495,
+  "lat": 52.6582851,
+  "lon": -8.6300327
+},
+{
+  "type": "node",
+  "id": 1413141497,
+  "lat": 52.6582790,
+  "lon": -8.6300570
+},
+{
+  "type": "node",
+  "id": 3658403584,
+  "lat": 52.6582281,
+  "lon": -8.6299867
+},
+{
+  "type": "node",
+  "id": 1019379792,
+  "lat": 52.6662636,
+  "lon": -8.6245755
+},
+{
+  "type": "node",
+  "id": 1019379856,
+  "lat": 52.6661521,
+  "lon": -8.6246003
+},
+{
+  "type": "node",
+  "id": 1019379871,
+  "lat": 52.6662621,
+  "lon": -8.6245568
+},
+{
+  "type": "node",
+  "id": 1019379795,
+  "lat": 52.6662470,
+  "lon": -8.6243287
+},
+{
+  "type": "node",
+  "id": 1019379818,
+  "lat": 52.6662278,
+  "lon": -8.6241898
+},
+{
+  "type": "node",
+  "id": 1019379839,
+  "lat": 52.6660741,
+  "lon": -8.6242515
+},
+{
+  "type": "node",
+  "id": 1019379861,
+  "lat": 52.6664729,
+  "lon": -8.6244957
+},
+{
+  "type": "node",
+  "id": 1019379875,
+  "lat": 52.6664412,
+  "lon": -8.6242552
+},
+{
+  "type": "node",
+  "id": 1233664483,
+  "lat": 52.6664700,
+  "lon": -8.6244697
+},
+{
+  "type": "node",
+  "id": 1233664488,
+  "lat": 52.6664504,
+  "lon": -8.6243334
+},
+{
+  "type": "node",
+  "id": 4018858621,
+  "lat": 52.6661230,
+  "lon": -8.6243980
+},
+{
+  "type": "node",
+  "id": 4018858622,
+  "lat": 52.6660944,
+  "lon": -8.6244104
+},
+{
+  "type": "node",
+  "id": 5427530960,
+  "lat": 52.6664345,
+  "lon": -8.6242577
+}
+
+  ]
+}

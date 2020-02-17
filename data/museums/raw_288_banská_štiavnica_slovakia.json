@@ -1,0 +1,771 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-14T15:48:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 456041970,
+  "lat": 48.2284271,
+  "lon": 18.8675230,
+  "tags": {
+    "name": "Lišovská izba",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 506574685,
+  "lat": 48.2213891,
+  "lon": 18.6005670,
+  "tags": {
+    "name": "Tekovské Múzeum",
+    "opening_hours": "Mo-Fr 09:00-18:00; Sa,Su 10:00-18:00",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 528554852,
+  "lat": 48.2821999,
+  "lon": 18.9125649,
+  "tags": {
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 561327145,
+  "lat": 48.5729530,
+  "lon": 19.1276698,
+  "tags": {
+    "name": "Slovenská národná galéria",
+    "name:hu": "Szlovák Nemzeti Galéria",
+    "opening_hours": "We-Su 10:00-17:30",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1042407096,
+  "lat": 48.7052844,
+  "lon": 18.9164604,
+  "tags": {
+    "name": "Muzeum Mincovne",
+    "name:en": "Museum of Coins",
+    "name:ru": "Музей Монет",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1042407124,
+  "lat": 48.7039477,
+  "lon": 18.9173832,
+  "tags": {
+    "name": "Múzeum mincí a medailí",
+    "name:en": "Museum of Coins and Medals",
+    "name:pl": "Muzeum Minci i Medaili (MMM)",
+    "name:ru": "Музей Монет и Медалей",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1305253460,
+  "lat": 48.4580354,
+  "lon": 18.8956889,
+  "tags": {
+    "contact:website": "https://www.muzeumbs.sk/",
+    "name": "Banské múzeum",
+    "name:hu": "Szlovák Bányászati Múzeum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1340037364,
+  "lat": 48.5787325,
+  "lon": 18.8972685,
+  "tags": {
+    "name": "Múzeum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1517879942,
+  "lat": 48.7461611,
+  "lon": 19.0690981,
+  "tags": {
+    "name": "Pamätný dom J.G.Tajovského",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1736251488,
+  "lat": 48.5771321,
+  "lon": 19.1252360,
+  "tags": {
+    "name": "Lesnícke a drevárske múzeum",
+    "tourism": "museum",
+    "website": "www.ldmzvolen.sk"
+  }
+},
+{
+  "type": "node",
+  "id": 1834773709,
+  "lat": 48.7050278,
+  "lon": 18.9175442,
+  "tags": {
+    "name": "Múzeum gýča",
+    "name:en": "Museum of kitsch",
+    "tourism": "museum",
+    "website": "http://www.gyc.sk/"
+  }
+},
+{
+  "type": "node",
+  "id": 1846881312,
+  "lat": 48.2147615,
+  "lon": 18.7375597,
+  "tags": {
+    "fee": "0.66EUR",
+    "name": "Skalné obydlia",
+    "opening_hours": "Apr-Oct Mo-Su 09:00-12:00,12:45-16:00",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4837277021,
+  "lat": 48.5614062,
+  "lon": 19.2593171,
+  "tags": {
+    "addr:housenumber": "2",
+    "addr:postcode": "96201",
+    "addr:street": "Terézie Vansovej",
+    "name": "Galéria Jána Kulicha",
+    "name:en": "Jan Kulich Gallery",
+    "name:sk": "Galéria Jána Kulicha",
+    "opening_hours": "Tu-Fr 10:00-18:00",
+    "phone": "0948366260",
+    "tourism": "museum",
+    "website": "http://www.galeriajanakulicha.sk/"
+  }
+},
+{
+  "type": "node",
+  "id": 4946239305,
+  "lat": 48.3525860,
+  "lon": 18.7198741,
+  "tags": {
+    "name": "Expoícia tradičných remesiel",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 5186519477,
+  "lat": 48.2890055,
+  "lon": 18.9852133,
+  "tags": {
+    "name": "Nemčianske múzeum v Turčanovom mlyne",
+    "operator": "Obecný úrad Hontianske Nemce",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6744581714,
+  "lat": 48.7121776,
+  "lon": 18.9086929,
+  "tags": {
+    "name": "Múzeum geocachingu",
+    "name:en": "Museum of Geocaching",
+    "operator": "OZ GEO.GURU Združenie slovenských geocacherov",
+    "operator:type": "ngo",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 53724863,
+  "nodes": [
+    678289363,
+    678289393,
+    678289395,
+    678289396,
+    678289397,
+    678289398,
+    678289399,
+    678289400,
+    678289401,
+    678289402,
+    678289403,
+    678289364,
+    678289363
+  ],
+  "tags": {
+    "addr:city": "Banská Bystrica",
+    "addr:conscriptionnumber": "1956",
+    "addr:country": "SK",
+    "addr:housenumber": "1956/27",
+    "addr:postcode": "97405",
+    "addr:street": "Radvanská",
+    "addr:streetnumber": "27",
+    "addr:suburb": "Kráľová",
+    "building": "yes",
+    "building:levels": "2",
+    "castle_type": "manor",
+    "historic": "castle",
+    "name": "Tihanyovský kaštieľ",
+    "name:hu": "Tihanyi kastély",
+    "tourism": "museum",
+    "website": "https://ssmuzeum.sk/tihanyiovsky-kastiel-3/",
+    "wikidata": "Q20966125",
+    "wikipedia": "sk:Tihániovský kaštieľ"
+  }
+},
+{
+  "type": "way",
+  "id": 54941627,
+  "nodes": [
+    691340322,
+    691340331,
+    691340332,
+    691340333,
+    691340317,
+    691340316,
+    691340322
+  ],
+  "tags": {
+    "addr:city": "Plášťovce",
+    "addr:conscriptionnumber": "628",
+    "addr:country": "SK",
+    "addr:housenumber": "628",
+    "addr:place": "Plášťovce",
+    "building": "yes",
+    "source": "kapor2",
+    "source:conscriptionnumber": "kapor2",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 115830825,
+  "nodes": [
+    1307538081,
+    1307538100,
+    1307538057,
+    1307538003,
+    1307538014,
+    1307537949,
+    1307538072,
+    1307537944,
+    1307538067,
+    1307537999,
+    1307537910,
+    1307537934,
+    1307538051,
+    1307537928,
+    1307538017,
+    2549777467,
+    1307537973,
+    1307537985,
+    1307538080,
+    1307537969,
+    1307537943,
+    1307538019,
+    1307537961,
+    933703042,
+    933703039,
+    1307538087,
+    1307537956,
+    1307538028,
+    1307538050,
+    1307538034,
+    1307538081
+  ],
+  "tags": {
+    "area": "yes",
+    "description:hu": "Szabadtéri néprajzi múzeum",
+    "is_in": "Banská Štiavnica",
+    "name": "Banské múzeum v prírode",
+    "name:hu": "Bányaskanzen",
+    "operator": "Slovenské Banské Múzeum",
+    "source": "kapor2",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 185966226,
+  "nodes": [
+    1966593466,
+    1966593325,
+    1966593408,
+    1966593529,
+    4533494684,
+    1966593466
+  ],
+  "tags": {
+    "building": "yes",
+    "building:levels": "2",
+    "name": "Slovenské banské múzeum",
+    "opening_hours": "May-Sep: Tu-Sa 09:00-17:00; Oct-Apr: Mo-Fr 09:00-16:00",
+    "source": "kapor2",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "relation",
+  "id": 946450,
+  "members": [
+    {
+      "type": "way",
+      "ref": 60875775,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 60876350,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "addr:city": "Banská Štiavnica",
+    "addr:conscriptionnumber": "10",
+    "addr:country": "SK",
+    "addr:housenumber": "10/6",
+    "addr:street": "Námestie svätej trojice",
+    "addr:streetnumber": "10",
+    "building": "yes",
+    "building:levels": "3",
+    "contact:website": "https://www.muzeumbs.sk/",
+    "description:hu": "A múzeum ásványtani kiállítása van benne",
+    "import": "budovy201004",
+    "name": "SBM - Berggericht",
+    "name:hu": "Bányabíróság (Berggericht)",
+    "source": "kapor2",
+    "tourism": "museum",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "node",
+  "id": 691340316,
+  "lat": 48.1602276,
+  "lon": 18.9743490
+},
+{
+  "type": "node",
+  "id": 691340317,
+  "lat": 48.1602442,
+  "lon": 18.9746724
+},
+{
+  "type": "node",
+  "id": 691340322,
+  "lat": 48.1603430,
+  "lon": 18.9743362
+},
+{
+  "type": "node",
+  "id": 691340331,
+  "lat": 48.1603517,
+  "lon": 18.9745047
+},
+{
+  "type": "node",
+  "id": 691340332,
+  "lat": 48.1603819,
+  "lon": 18.9745012
+},
+{
+  "type": "node",
+  "id": 691340333,
+  "lat": 48.1603878,
+  "lon": 18.9746588
+},
+{
+  "type": "node",
+  "id": 1307537944,
+  "lat": 48.4515420,
+  "lon": 18.8870282
+},
+{
+  "type": "node",
+  "id": 1307537949,
+  "lat": 48.4511271,
+  "lon": 18.8869435
+},
+{
+  "type": "node",
+  "id": 1307538003,
+  "lat": 48.4510642,
+  "lon": 18.8871651
+},
+{
+  "type": "node",
+  "id": 1307538014,
+  "lat": 48.4511273,
+  "lon": 18.8869474
+},
+{
+  "type": "node",
+  "id": 1307538057,
+  "lat": 48.4510035,
+  "lon": 18.8873224
+},
+{
+  "type": "node",
+  "id": 1307538067,
+  "lat": 48.4517035,
+  "lon": 18.8872949
+},
+{
+  "type": "node",
+  "id": 1307538072,
+  "lat": 48.4512865,
+  "lon": 18.8869068
+},
+{
+  "type": "node",
+  "id": 933703039,
+  "lat": 48.4500341,
+  "lon": 18.8900082
+},
+{
+  "type": "node",
+  "id": 933703042,
+  "lat": 48.4499944,
+  "lon": 18.8900467
+},
+{
+  "type": "node",
+  "id": 1307537910,
+  "lat": 48.4516782,
+  "lon": 18.8877415
+},
+{
+  "type": "node",
+  "id": 1307537928,
+  "lat": 48.4515195,
+  "lon": 18.8884898
+},
+{
+  "type": "node",
+  "id": 1307537934,
+  "lat": 48.4515787,
+  "lon": 18.8882387
+},
+{
+  "type": "node",
+  "id": 1307537943,
+  "lat": 48.4504399,
+  "lon": 18.8899831
+},
+{
+  "type": "node",
+  "id": 1307537956,
+  "lat": 48.4501840,
+  "lon": 18.8895283
+},
+{
+  "type": "node",
+  "id": 1307537961,
+  "lat": 48.4500120,
+  "lon": 18.8901684
+},
+{
+  "type": "node",
+  "id": 1307537969,
+  "lat": 48.4505161,
+  "lon": 18.8899291
+},
+{
+  "type": "node",
+  "id": 1307537973,
+  "lat": 48.4513418,
+  "lon": 18.8893036
+},
+{
+  "type": "node",
+  "id": 1307537985,
+  "lat": 48.4511273,
+  "lon": 18.8897574
+},
+{
+  "type": "node",
+  "id": 1307537999,
+  "lat": 48.4516978,
+  "lon": 18.8876206
+},
+{
+  "type": "node",
+  "id": 1307538017,
+  "lat": 48.4513911,
+  "lon": 18.8890151
+},
+{
+  "type": "node",
+  "id": 1307538019,
+  "lat": 48.4503178,
+  "lon": 18.8903703
+},
+{
+  "type": "node",
+  "id": 1307538028,
+  "lat": 48.4502432,
+  "lon": 18.8894069
+},
+{
+  "type": "node",
+  "id": 1307538034,
+  "lat": 48.4506844,
+  "lon": 18.8883906
+},
+{
+  "type": "node",
+  "id": 1307538050,
+  "lat": 48.4502277,
+  "lon": 18.8893915
+},
+{
+  "type": "node",
+  "id": 1307538051,
+  "lat": 48.4515703,
+  "lon": 18.8882954
+},
+{
+  "type": "node",
+  "id": 1307538080,
+  "lat": 48.4510741,
+  "lon": 18.8899272
+},
+{
+  "type": "node",
+  "id": 1307538081,
+  "lat": 48.4508859,
+  "lon": 18.8878372
+},
+{
+  "type": "node",
+  "id": 1307538087,
+  "lat": 48.4500745,
+  "lon": 18.8899827
+},
+{
+  "type": "node",
+  "id": 1307538100,
+  "lat": 48.4509557,
+  "lon": 18.8874882
+},
+{
+  "type": "node",
+  "id": 2549777467,
+  "lat": 48.4513673,
+  "lon": 18.8891541
+},
+{
+  "type": "node",
+  "id": 761957991,
+  "lat": 48.4596569,
+  "lon": 18.8929287
+},
+{
+  "type": "node",
+  "id": 761958885,
+  "lat": 48.4598350,
+  "lon": 18.8929061
+},
+{
+  "type": "node",
+  "id": 761960962,
+  "lat": 48.4597469,
+  "lon": 18.8928384
+},
+{
+  "type": "node",
+  "id": 761961960,
+  "lat": 48.4597662,
+  "lon": 18.8928836
+},
+{
+  "type": "node",
+  "id": 761967125,
+  "lat": 48.4597422,
+  "lon": 18.8931836
+},
+{
+  "type": "node",
+  "id": 761972745,
+  "lat": 48.4595095,
+  "lon": 18.8929136
+},
+{
+  "type": "node",
+  "id": 761977089,
+  "lat": 48.4596772,
+  "lon": 18.8929732
+},
+{
+  "type": "node",
+  "id": 761981748,
+  "lat": 48.4597019,
+  "lon": 18.8930801
+},
+{
+  "type": "node",
+  "id": 761983072,
+  "lat": 48.4597336,
+  "lon": 18.8926892
+},
+{
+  "type": "node",
+  "id": 761983274,
+  "lat": 48.4598467,
+  "lon": 18.8929356
+},
+{
+  "type": "node",
+  "id": 761988569,
+  "lat": 48.4596279,
+  "lon": 18.8931975
+},
+{
+  "type": "node",
+  "id": 1966593325,
+  "lat": 48.7277999,
+  "lon": 18.7561685
+},
+{
+  "type": "node",
+  "id": 1966593408,
+  "lat": 48.7278783,
+  "lon": 18.7560524
+},
+{
+  "type": "node",
+  "id": 1966593466,
+  "lat": 48.7279067,
+  "lon": 18.7563346
+},
+{
+  "type": "node",
+  "id": 1966593529,
+  "lat": 48.7279826,
+  "lon": 18.7562135
+},
+{
+  "type": "node",
+  "id": 4533494684,
+  "lat": 48.7279505,
+  "lon": 18.7562648
+},
+{
+  "type": "node",
+  "id": 678289363,
+  "lat": 48.7191605,
+  "lon": 19.1366363
+},
+{
+  "type": "node",
+  "id": 678289364,
+  "lat": 48.7190301,
+  "lon": 19.1366438
+},
+{
+  "type": "node",
+  "id": 678289393,
+  "lat": 48.7191644,
+  "lon": 19.1368162
+},
+{
+  "type": "node",
+  "id": 678289395,
+  "lat": 48.7192360,
+  "lon": 19.1368147
+},
+{
+  "type": "node",
+  "id": 678289396,
+  "lat": 48.7192380,
+  "lon": 19.1369039
+},
+{
+  "type": "node",
+  "id": 678289397,
+  "lat": 48.7191654,
+  "lon": 19.1369054
+},
+{
+  "type": "node",
+  "id": 678289398,
+  "lat": 48.7191684,
+  "lon": 19.1370837
+},
+{
+  "type": "node",
+  "id": 678289399,
+  "lat": 48.7190428,
+  "lon": 19.1370941
+},
+{
+  "type": "node",
+  "id": 678289400,
+  "lat": 48.7190370,
+  "lon": 19.1369143
+},
+{
+  "type": "node",
+  "id": 678289401,
+  "lat": 48.7189762,
+  "lon": 19.1369143
+},
+{
+  "type": "node",
+  "id": 678289402,
+  "lat": 48.7189732,
+  "lon": 19.1368206
+},
+{
+  "type": "node",
+  "id": 678289403,
+  "lat": 48.7190360,
+  "lon": 19.1368206
+},
+{
+  "type": "way",
+  "id": 60875775,
+  "nodes": [
+    761983274,
+    761981748,
+    761967125,
+    761988569,
+    761972745,
+    761983072,
+    761958885,
+    761983274
+  ]
+},
+{
+  "type": "way",
+  "id": 60876350,
+  "nodes": [
+    761957991,
+    761977089,
+    761961960,
+    761960962,
+    761957991
+  ]
+}
+
+  ]
+}

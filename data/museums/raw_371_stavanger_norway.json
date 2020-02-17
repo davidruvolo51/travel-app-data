@@ -1,0 +1,2022 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-14T17:55:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 373656245,
+  "lat": 58.9724007,
+  "lon": 5.7251680,
+  "tags": {
+    "name": "Norsk Hermetikkmuseum",
+    "name:en": "The Norwegian Canning Museum",
+    "opening_hours": "Tu-Su 11:00-16:00",
+    "tourism": "museum",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 414269431,
+  "lat": 58.8422135,
+  "lon": 5.5860423,
+  "tags": {
+    "description": "Old cars, tractors and farm machines",
+    "name": "TS Museet",
+    "opening_hours": "Mo-Su 10:00-14:00",
+    "tourism": "museum",
+    "website": "https://www.tsmaskin.no/en/about-us/ts-museet/"
+  }
+},
+{
+  "type": "node",
+  "id": 451154492,
+  "lat": 58.9648710,
+  "lon": 5.7329713,
+  "tags": {
+    "name": "Norsk Barnemuseum",
+    "name:en": "The Norwegian Childrens Museum",
+    "opening_hours": "Tu-Su 11:00-16:00",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 506025240,
+  "lat": 58.9119254,
+  "lon": 5.6665249,
+  "tags": {
+    "name": "Speidermuseet",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 553643720,
+  "lat": 58.9711806,
+  "lon": 5.7384526,
+  "tags": {
+    "name": "Reidar Berge-museet",
+    "opening_hours": "Su 12:00-16:00",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 735080802,
+  "lat": 59.1479384,
+  "lon": 5.2605485,
+  "tags": {
+    "name": "Mælandsgården",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 764376175,
+  "lat": 58.9327548,
+  "lon": 5.5803877,
+  "tags": {
+    "name": "Kystkultursamlingen i Tananger",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 812392716,
+  "lat": 58.7704226,
+  "lon": 5.8881222,
+  "tags": {
+    "name": "Limagarden",
+    "operator": "Jærmuseet",
+    "tourism": "museum",
+    "wikipedia": "no:Limagarden"
+  }
+},
+{
+  "type": "node",
+  "id": 1938820058,
+  "lat": 59.0588671,
+  "lon": 5.3991560,
+  "tags": {
+    "alt_name": "Kvitsøy Hummermuseum",
+    "name": "Hummermuseet",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1950932124,
+  "lat": 58.9849326,
+  "lon": 5.5749950,
+  "tags": {
+    "designation": "Bygdemuseum",
+    "name": "Vistnestunet",
+    "source": "Randaberg kommune",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1950932134,
+  "lat": 58.9891621,
+  "lon": 5.5835486,
+  "tags": {
+    "designation": "Bygdemuseum",
+    "name": "Vistnes skole",
+    "source": "Randaberg",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 2667518098,
+  "lat": 59.0870488,
+  "lon": 5.5760950,
+  "tags": {
+    "name": "Fjøløy Fort",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 2816853413,
+  "lat": 58.8543684,
+  "lon": 5.7528076,
+  "tags": {
+    "addr:city": "Sandnes",
+    "addr:housenumber": "5A",
+    "addr:postcode": "4327",
+    "addr:street": "Skippergata",
+    "name": "Fogdahuset",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4942826116,
+  "lat": 58.9213107,
+  "lon": 5.8561307,
+  "tags": {
+    "name": "Kverna i Frøylandsbekken",
+    "name:en": "Mill",
+    "tourism": "museum",
+    "website": "https://www.riskahistorie.no/"
+  }
+},
+{
+  "type": "node",
+  "id": 6632754320,
+  "lat": 59.2097290,
+  "lon": 6.1157774,
+  "tags": {
+    "name": "Vigatunet",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6632754321,
+  "lat": 58.7860418,
+  "lon": 5.6433227,
+  "tags": {
+    "name": "Kristinahuset",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6632754323,
+  "lat": 58.7366229,
+  "lon": 5.6419303,
+  "tags": {
+    "name": "Andreas Bøe-samlinga",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6632754328,
+  "lat": 58.6820811,
+  "lon": 5.7754861,
+  "tags": {
+    "name": "Time bygdemuseum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6632754330,
+  "lat": 58.8993823,
+  "lon": 6.0965752,
+  "tags": {
+    "name": "Forsand bygdemuseum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6632754331,
+  "lat": 59.0356879,
+  "lon": 5.5816001,
+  "tags": {
+    "name": "Tungenes fyr",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6632754332,
+  "lat": 58.9054408,
+  "lon": 6.0986235,
+  "tags": {
+    "name": "Sjøhuset i Bergevik",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6632754333,
+  "lat": 59.1085017,
+  "lon": 5.7156519,
+  "tags": {
+    "name": "Bakken husmannsplass",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6632754334,
+  "lat": 59.0970951,
+  "lon": 5.6974759,
+  "tags": {
+    "name": "BibMus Rennesøy",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6632754335,
+  "lat": 58.7337899,
+  "lon": 5.6503145,
+  "tags": {
+    "name": "Garborgsenteret",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6632754344,
+  "lat": 59.1714105,
+  "lon": 5.8748729,
+  "tags": {
+    "name": "Bedehuset Bethel",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6632754345,
+  "lat": 59.1743772,
+  "lon": 5.8728738,
+  "tags": {
+    "name": "Finnøy bygdemuseum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6632754347,
+  "lat": 58.9815087,
+  "lon": 5.7429212,
+  "tags": {
+    "name": "Engøyholmen Kystkultursenter",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6632754348,
+  "lat": 58.9719500,
+  "lon": 5.7125100,
+  "tags": {
+    "name": "Misjonsmuseet",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6632754351,
+  "lat": 58.9414658,
+  "lon": 5.6939237,
+  "tags": {
+    "name": "Jernaldergarden på Ullandhaug",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6632754354,
+  "lat": 58.9722359,
+  "lon": 5.7246971,
+  "tags": {
+    "name": "Norsk grafisk museum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6632754355,
+  "lat": 59.1031160,
+  "lon": 5.5906486,
+  "tags": {
+    "name": "Utstein kloster",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6632754356,
+  "lat": 59.1857011,
+  "lon": 5.4452087,
+  "tags": {
+    "name": "Røykstova på Laupland",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6632754357,
+  "lat": 59.1648703,
+  "lon": 5.2737016,
+  "tags": {
+    "name": "Derikhuset",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6632754359,
+  "lat": 59.2140924,
+  "lon": 5.4421612,
+  "tags": {
+    "name": "Bokn bygdemuseum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6632754360,
+  "lat": 58.7618794,
+  "lon": 5.5082685,
+  "tags": {
+    "name": "Revtangen ornitologiske stasjon",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 28062244,
+  "nodes": [
+    308146778,
+    308146780,
+    413979082,
+    308146781,
+    308146783,
+    308146784,
+    308146786,
+    308220406,
+    308220405,
+    308146778
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Vitenfabrikken",
+    "tourism": "museum",
+    "wheelchair": "yes",
+    "wikidata": "Q7762560"
+  }
+},
+{
+  "type": "way",
+  "id": 28062247,
+  "nodes": [
+    308146789,
+    308146794,
+    6532890976,
+    308146795,
+    6532890984,
+    308146797,
+    308146798,
+    308146800,
+    308146801,
+    308146804,
+    308146789
+  ],
+  "tags": {
+    "building": "yes",
+    "image": "https://images.mapillary.com/ULVax9-yx98GaVeI967WVA/thumb-2048.jpg",
+    "mapillary": "https://www.mapillary.com/map/im/ULVax9-yx98GaVeI967WVA",
+    "name": "Krossens Havremølle",
+    "tourism": "museum",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 28127134,
+  "nodes": [
+    308930352,
+    308930354,
+    308930355,
+    308930356,
+    308930358,
+    308930359,
+    308930384,
+    308930352
+  ],
+  "tags": {
+    "amenity": "arts_centre",
+    "building": "yes",
+    "name": "KinoKino",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 31722952,
+  "nodes": [
+    363922220,
+    354929199,
+    1111138800,
+    1111138721,
+    354929200,
+    354929201,
+    354929202,
+    1111138005,
+    354929203,
+    354929204,
+    6695855612,
+    363922220
+  ],
+  "tags": {
+    "building": "yes",
+    "description": "Time travel:  https://www.mapillary.com/app/time-travel/?focus=photo&pKey=1Mt28KAF9aBPE2L2nAe5Iw&cKey=eH812SV-Ucmd5h6rnOerrQ&ttKeys%5B%5D=eH812SV-Ucmd5h6rnOerrQ",
+    "email": "post@norskolje.museum.no",
+    "image": "https://images.mapillary.com/1Mt28KAF9aBPE2L2nAe5Iw/thumb-2048.jpg",
+    "internet_access": "wlan",
+    "mapillary": "https://www.mapillary.com/map/im/1Mt28KAF9aBPE2L2nAe5Iw",
+    "name": "Norsk Oljemuseum",
+    "name:ca": "Museu Noruec del Petroli",
+    "name:en": "The Norwegian Petroleum Museum",
+    "opening_hours": "Jun-Aug: Mo-Su 10:00-19:00; Sep-May: Mo-Sa 10:00-16:00; Su 10:00-18:00; Dec 24 off; Dec 25 off; Dec 31 off; Jan 01 off; May 17 off; easter off",
+    "phone": "+47 51 93 93 00",
+    "ssr:stedsnr": "647468",
+    "tourism": "museum",
+    "website": "https://www.norskolje.museum.no/",
+    "wheelchair": "yes",
+    "wikidata": "Q1322300"
+  }
+},
+{
+  "type": "way",
+  "id": 41441779,
+  "nodes": [
+    506855963,
+    506855964,
+    506855965,
+    506855966,
+    506855963
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Vestlandske Skolemuseum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 55334591,
+  "nodes": [
+    695070073,
+    695070079,
+    6632754301,
+    6632754300,
+    695070072,
+    6632754299,
+    6632754298,
+    6632754297,
+    6632754296,
+    695070071,
+    695070073
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Breidablikk",
+    "operator": "MUST",
+    "tourism": "museum",
+    "website": "http://breidablikkmuseum.no/",
+    "wikidata": "Q16179655",
+    "wikipedia": "no:Breidablikk museum"
+  }
+},
+{
+  "type": "way",
+  "id": 58047185,
+  "nodes": [
+    720102836,
+    720102811,
+    720102766,
+    720102828,
+    720102777,
+    720102820,
+    720102845,
+    720102808,
+    6632754315,
+    6632754312,
+    6632754313,
+    6632754314,
+    720102836
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Ledaal",
+    "opening_hours": "Mo-Su 10:00-16:00",
+    "tourism": "museum",
+    "wikidata": "Q4582474"
+  }
+},
+{
+  "type": "way",
+  "id": 59318047,
+  "nodes": [
+    735888535,
+    735888537,
+    735888513,
+    735888518,
+    735888535
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Krigshistorisk museum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 87895640,
+  "nodes": [
+    1021594620,
+    1021595265,
+    1021595410,
+    1021595180,
+    1021594968,
+    1021594953,
+    1021594620
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Stavanger maritime museum",
+    "name:en": "Stavanger Maritime Museum",
+    "old_name": "Stavanger Sjøfartsmuseum",
+    "phone": "+47 51 84 27 00",
+    "tourism": "museum",
+    "website": "http://stavangermaritimemuseum.no",
+    "wikidata": "Q12002795",
+    "wikipedia": "no:Stavanger maritime museum"
+  }
+},
+{
+  "type": "way",
+  "id": 87895658,
+  "nodes": [
+    1021594835,
+    1021595216,
+    1021595023,
+    1021594767,
+    1021594528,
+    1021595292,
+    1021595038,
+    1021595235,
+    1021594835
+  ],
+  "tags": {
+    "alt_name": "Vektermuseet",
+    "building": "tower",
+    "name": "Valbergtårnet",
+    "ssr:stedsnr": "282089",
+    "tourism": "museum",
+    "wikidata": "Q12719304"
+  }
+},
+{
+  "type": "way",
+  "id": 87989792,
+  "nodes": [
+    1022809514,
+    1022808407,
+    1022809100,
+    5010422650,
+    1022808854,
+    1022809484,
+    1022813668,
+    1022808262,
+    1022809175,
+    1022809771,
+    1022814214,
+    1022808471,
+    1022808748,
+    1022814054,
+    1022808589,
+    1022809318,
+    1022813102,
+    1022808027,
+    1022809401,
+    1022812895,
+    1022808170,
+    1022812874,
+    1022808008,
+    1022809698,
+    1022809514
+  ],
+  "tags": {
+    "building": "yes",
+    "image": "https://images.mapillary.com/Nz_RtYYYOrsegCr_JRrSQg/thumb-2048.jpg",
+    "mapillary": "https://www.mapillary.com/map/im/Nz_RtYYYOrsegCr_JRrSQg",
+    "name": "Stavanger kunstmuseum",
+    "name:en": "Stavanger Art Museum",
+    "old_name": "Rogaland kunstmuseum",
+    "opening_hours": "Tu-Su 11:00-16:00",
+    "tourism": "museum",
+    "wikidata": "Q12002797"
+  }
+},
+{
+  "type": "way",
+  "id": 91521852,
+  "nodes": [
+    1062968229,
+    1062968290,
+    1062968243,
+    1062968227,
+    1062968353,
+    1062968345,
+    6771764238,
+    6771764241,
+    1062968304,
+    1062968266,
+    1062968302,
+    1062968323,
+    1062968258,
+    1062968288,
+    1062968249,
+    1062968347,
+    1062968316,
+    1062968269,
+    1062968229
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Arkeologisk museum",
+    "name:en": "The Museum of Archaeology",
+    "opening_hours": "We-Sa 11:00-15:00; Su 11:00-16:00; Tu 11:00-20:00",
+    "tourism": "museum",
+    "wikidata": "Q11958714"
+  }
+},
+{
+  "type": "way",
+  "id": 91521853,
+  "nodes": [
+    1062968260,
+    265995223,
+    6988119645,
+    1062968325,
+    1062968222,
+    1062968259,
+    1062968260
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Stavanger Museum",
+    "opening_hours": "Tu-Su 11:00-16:00",
+    "tourism": "museum",
+    "wikidata": "Q116939"
+  }
+},
+{
+  "type": "way",
+  "id": 187301361,
+  "nodes": [
+    1980163647,
+    413163391,
+    2248752433,
+    1980163624,
+    1980163625,
+    1980163629,
+    1980163631,
+    2430214122,
+    2248752441,
+    1980163646,
+    1980163645,
+    1980163648,
+    1980163647
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Sjøbruksmuseum",
+    "tourism": "museum",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "way",
+  "id": 266737704,
+  "nodes": [
+    2722569170,
+    2722569172,
+    2722569174,
+    2722569176,
+    2722569170
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Flyhistorisk museum Sola",
+    "tourism": "museum",
+    "wikidata": "Q5463328"
+  }
+},
+{
+  "type": "way",
+  "id": 283808732,
+  "nodes": [
+    2876335577,
+    2876335569,
+    2876335570,
+    2876335578,
+    2876335565,
+    2876335577
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Bryne Mølle",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 284064305,
+  "nodes": [
+    2878367398,
+    2906462408,
+    2878367394,
+    2878367395,
+    2878367391,
+    2878367388,
+    2878367398
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Fotland kraftstasjon",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 284064737,
+  "nodes": [
+    2878373960,
+    2878373964,
+    2878373963,
+    2878373965,
+    2878373962,
+    2878373955,
+    2878373960
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Fotland bygdemølle",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 284328106,
+  "nodes": [
+    2880722857,
+    2880722858,
+    2880722859,
+    2880722856,
+    2880722857
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Garborgheimen",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 284329337,
+  "nodes": [
+    2880734983,
+    2880734988,
+    2880734990,
+    2880734992,
+    2880734983
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Knudaheio",
+    "tourism": "museum",
+    "wikidata": "Q12716161"
+  }
+},
+{
+  "type": "way",
+  "id": 615318319,
+  "nodes": [
+    5818611166,
+    5818611167,
+    5818611168,
+    5818611169,
+    5818611170,
+    5818611171,
+    5818611172,
+    5818611166
+  ],
+  "tags": {
+    "name": "Klepp bygdemuseum",
+    "operator": "Klepp kommune",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 746013605,
+  "nodes": [
+    6981698363,
+    6981698364,
+    6981698365,
+    6981698366,
+    6981698367,
+    6981698368,
+    6981698369,
+    6981698363
+  ],
+  "tags": {
+    "building": "yes",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 746013606,
+  "nodes": [
+    6981698370,
+    6981698371,
+    6981698372,
+    6981698373,
+    6981698370
+  ],
+  "tags": {
+    "building": "yes",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 2876335565,
+  "lat": 58.7363848,
+  "lon": 5.6420189
+},
+{
+  "type": "node",
+  "id": 2876335569,
+  "lat": 58.7366101,
+  "lon": 5.6422672
+},
+{
+  "type": "node",
+  "id": 2876335570,
+  "lat": 58.7366208,
+  "lon": 5.6420654
+},
+{
+  "type": "node",
+  "id": 2876335577,
+  "lat": 58.7363741,
+  "lon": 5.6422207
+},
+{
+  "type": "node",
+  "id": 2876335578,
+  "lat": 58.7365375,
+  "lon": 5.6420490
+},
+{
+  "type": "node",
+  "id": 2880722856,
+  "lat": 58.6873179,
+  "lon": 5.7034752
+},
+{
+  "type": "node",
+  "id": 2880722857,
+  "lat": 58.6873468,
+  "lon": 5.7035993
+},
+{
+  "type": "node",
+  "id": 2880722858,
+  "lat": 58.6872084,
+  "lon": 5.7037185
+},
+{
+  "type": "node",
+  "id": 2880722859,
+  "lat": 58.6871795,
+  "lon": 5.7035945
+},
+{
+  "type": "node",
+  "id": 2878367388,
+  "lat": 58.7153719,
+  "lon": 5.7050716
+},
+{
+  "type": "node",
+  "id": 2878367391,
+  "lat": 58.7153504,
+  "lon": 5.7050928
+},
+{
+  "type": "node",
+  "id": 2878367394,
+  "lat": 58.7153436,
+  "lon": 5.7053210
+},
+{
+  "type": "node",
+  "id": 2878367395,
+  "lat": 58.7153971,
+  "lon": 5.7052681
+},
+{
+  "type": "node",
+  "id": 2878367398,
+  "lat": 58.7153444,
+  "lon": 5.7049684
+},
+{
+  "type": "node",
+  "id": 2878373955,
+  "lat": 58.7151065,
+  "lon": 5.7077202
+},
+{
+  "type": "node",
+  "id": 2878373960,
+  "lat": 58.7151519,
+  "lon": 5.7078203
+},
+{
+  "type": "node",
+  "id": 2878373962,
+  "lat": 58.7151353,
+  "lon": 5.7076718
+},
+{
+  "type": "node",
+  "id": 2878373963,
+  "lat": 58.7151190,
+  "lon": 5.7074700
+},
+{
+  "type": "node",
+  "id": 2878373964,
+  "lat": 58.7152233,
+  "lon": 5.7077002
+},
+{
+  "type": "node",
+  "id": 2878373965,
+  "lat": 58.7150763,
+  "lon": 5.7075418
+},
+{
+  "type": "node",
+  "id": 2906462408,
+  "lat": 58.7152694,
+  "lon": 5.7050425
+},
+{
+  "type": "node",
+  "id": 2880734983,
+  "lat": 58.6797297,
+  "lon": 5.7893489
+},
+{
+  "type": "node",
+  "id": 2880734988,
+  "lat": 58.6796226,
+  "lon": 5.7893772
+},
+{
+  "type": "node",
+  "id": 2880734990,
+  "lat": 58.6796135,
+  "lon": 5.7892503
+},
+{
+  "type": "node",
+  "id": 2880734992,
+  "lat": 58.6797207,
+  "lon": 5.7892220
+},
+{
+  "type": "node",
+  "id": 5818611166,
+  "lat": 58.7702513,
+  "lon": 5.6229082
+},
+{
+  "type": "node",
+  "id": 5818611167,
+  "lat": 58.7702952,
+  "lon": 5.6224646
+},
+{
+  "type": "node",
+  "id": 5818611168,
+  "lat": 58.7707321,
+  "lon": 5.6225924
+},
+{
+  "type": "node",
+  "id": 5818611169,
+  "lat": 58.7707585,
+  "lon": 5.6226263
+},
+{
+  "type": "node",
+  "id": 5818611170,
+  "lat": 58.7707728,
+  "lon": 5.6226756
+},
+{
+  "type": "node",
+  "id": 5818611171,
+  "lat": 58.7707665,
+  "lon": 5.6229775
+},
+{
+  "type": "node",
+  "id": 5818611172,
+  "lat": 58.7707497,
+  "lon": 5.6230207
+},
+{
+  "type": "node",
+  "id": 735888513,
+  "lat": 58.8722303,
+  "lon": 5.6618297
+},
+{
+  "type": "node",
+  "id": 735888518,
+  "lat": 58.8722576,
+  "lon": 5.6615953
+},
+{
+  "type": "node",
+  "id": 735888535,
+  "lat": 58.8724803,
+  "lon": 5.6616924
+},
+{
+  "type": "node",
+  "id": 735888537,
+  "lat": 58.8724530,
+  "lon": 5.6619268
+},
+{
+  "type": "node",
+  "id": 2722569170,
+  "lat": 58.8982122,
+  "lon": 5.6307939
+},
+{
+  "type": "node",
+  "id": 2722569172,
+  "lat": 58.8983047,
+  "lon": 5.6315603
+},
+{
+  "type": "node",
+  "id": 2722569174,
+  "lat": 58.8972494,
+  "lon": 5.6320377
+},
+{
+  "type": "node",
+  "id": 2722569176,
+  "lat": 58.8971569,
+  "lon": 5.6312713
+},
+{
+  "type": "node",
+  "id": 6981698363,
+  "lat": 58.7887428,
+  "lon": 5.8060372
+},
+{
+  "type": "node",
+  "id": 6981698364,
+  "lat": 58.7890425,
+  "lon": 5.8058184
+},
+{
+  "type": "node",
+  "id": 6981698368,
+  "lat": 58.7888785,
+  "lon": 5.8062756
+},
+{
+  "type": "node",
+  "id": 6981698369,
+  "lat": 58.7887873,
+  "lon": 5.8063303
+},
+{
+  "type": "node",
+  "id": 6981698370,
+  "lat": 58.7888602,
+  "lon": 5.8056621
+},
+{
+  "type": "node",
+  "id": 6981698371,
+  "lat": 58.7884350,
+  "lon": 5.8059552
+},
+{
+  "type": "node",
+  "id": 6981698372,
+  "lat": 58.7883743,
+  "lon": 5.8056270
+},
+{
+  "type": "node",
+  "id": 6981698373,
+  "lat": 58.7887873,
+  "lon": 5.8053183
+},
+{
+  "type": "node",
+  "id": 6981698365,
+  "lat": 58.7891113,
+  "lon": 5.8059005
+},
+{
+  "type": "node",
+  "id": 6981698366,
+  "lat": 58.7891558,
+  "lon": 5.8060450
+},
+{
+  "type": "node",
+  "id": 6981698367,
+  "lat": 58.7891356,
+  "lon": 5.8060919
+},
+{
+  "type": "node",
+  "id": 308146778,
+  "lat": 58.8517339,
+  "lon": 5.7306346
+},
+{
+  "type": "node",
+  "id": 308146780,
+  "lat": 58.8514774,
+  "lon": 5.7302198
+},
+{
+  "type": "node",
+  "id": 308146781,
+  "lat": 58.8513634,
+  "lon": 5.7304608
+},
+{
+  "type": "node",
+  "id": 308146783,
+  "lat": 58.8514027,
+  "lon": 5.7305284
+},
+{
+  "type": "node",
+  "id": 308146784,
+  "lat": 58.8511308,
+  "lon": 5.7311558
+},
+{
+  "type": "node",
+  "id": 308146786,
+  "lat": 58.8513565,
+  "lon": 5.7315072
+},
+{
+  "type": "node",
+  "id": 308146789,
+  "lat": 58.8510902,
+  "lon": 5.7310380
+},
+{
+  "type": "node",
+  "id": 308146794,
+  "lat": 58.8511185,
+  "lon": 5.7310834
+},
+{
+  "type": "node",
+  "id": 308146795,
+  "lat": 58.8512622,
+  "lon": 5.7307485
+},
+{
+  "type": "node",
+  "id": 308146797,
+  "lat": 58.8511032,
+  "lon": 5.7304937
+},
+{
+  "type": "node",
+  "id": 308146798,
+  "lat": 58.8510543,
+  "lon": 5.7306077
+},
+{
+  "type": "node",
+  "id": 308146800,
+  "lat": 58.8511308,
+  "lon": 5.7307305
+},
+{
+  "type": "node",
+  "id": 308146801,
+  "lat": 58.8510652,
+  "lon": 5.7308835
+},
+{
+  "type": "node",
+  "id": 308146804,
+  "lat": 58.8511193,
+  "lon": 5.7309702
+},
+{
+  "type": "node",
+  "id": 308220405,
+  "lat": 58.8516667,
+  "lon": 5.7307984
+},
+{
+  "type": "node",
+  "id": 308220406,
+  "lat": 58.8516484,
+  "lon": 5.7308341
+},
+{
+  "type": "node",
+  "id": 413979082,
+  "lat": 58.8514365,
+  "lon": 5.7303062
+},
+{
+  "type": "node",
+  "id": 6532890976,
+  "lat": 58.8511258,
+  "lon": 5.7310665
+},
+{
+  "type": "node",
+  "id": 6532890984,
+  "lat": 58.8512249,
+  "lon": 5.7306888
+},
+{
+  "type": "node",
+  "id": 308930352,
+  "lat": 58.8541718,
+  "lon": 5.7374398
+},
+{
+  "type": "node",
+  "id": 308930354,
+  "lat": 58.8543872,
+  "lon": 5.7369308
+},
+{
+  "type": "node",
+  "id": 308930355,
+  "lat": 58.8541229,
+  "lon": 5.7364846
+},
+{
+  "type": "node",
+  "id": 308930356,
+  "lat": 58.8540112,
+  "lon": 5.7367390
+},
+{
+  "type": "node",
+  "id": 308930358,
+  "lat": 58.8541246,
+  "lon": 5.7369308
+},
+{
+  "type": "node",
+  "id": 308930359,
+  "lat": 58.8540171,
+  "lon": 5.7371889
+},
+{
+  "type": "node",
+  "id": 308930384,
+  "lat": 58.8540770,
+  "lon": 5.7372865
+},
+{
+  "type": "node",
+  "id": 506855963,
+  "lat": 58.9439183,
+  "lon": 5.7452324
+},
+{
+  "type": "node",
+  "id": 506855964,
+  "lat": 58.9439449,
+  "lon": 5.7454524
+},
+{
+  "type": "node",
+  "id": 506855965,
+  "lat": 58.9437607,
+  "lon": 5.7455360
+},
+{
+  "type": "node",
+  "id": 506855966,
+  "lat": 58.9437341,
+  "lon": 5.7453160
+},
+{
+  "type": "node",
+  "id": 413163391,
+  "lat": 59.0349210,
+  "lon": 5.5868352
+},
+{
+  "type": "node",
+  "id": 1980163624,
+  "lat": 59.0345428,
+  "lon": 5.5866765
+},
+{
+  "type": "node",
+  "id": 1980163625,
+  "lat": 59.0345627,
+  "lon": 5.5864883
+},
+{
+  "type": "node",
+  "id": 1980163629,
+  "lat": 59.0345777,
+  "lon": 5.5864915
+},
+{
+  "type": "node",
+  "id": 1980163631,
+  "lat": 59.0345855,
+  "lon": 5.5864171
+},
+{
+  "type": "node",
+  "id": 1980163645,
+  "lat": 59.0349200,
+  "lon": 5.5866449
+},
+{
+  "type": "node",
+  "id": 1980163646,
+  "lat": 59.0349293,
+  "lon": 5.5865573
+},
+{
+  "type": "node",
+  "id": 1980163647,
+  "lat": 59.0350457,
+  "lon": 5.5868774
+},
+{
+  "type": "node",
+  "id": 1980163648,
+  "lat": 59.0350642,
+  "lon": 5.5867025
+},
+{
+  "type": "node",
+  "id": 2248752433,
+  "lat": 59.0345823,
+  "lon": 5.5866931
+},
+{
+  "type": "node",
+  "id": 2248752441,
+  "lat": 59.0348991,
+  "lon": 5.5865452
+},
+{
+  "type": "node",
+  "id": 2430214122,
+  "lat": 59.0346082,
+  "lon": 5.5864264
+},
+{
+  "type": "node",
+  "id": 1022808008,
+  "lat": 58.9549298,
+  "lon": 5.7035311
+},
+{
+  "type": "node",
+  "id": 1022808027,
+  "lat": 58.9548601,
+  "lon": 5.7038575
+},
+{
+  "type": "node",
+  "id": 1022808170,
+  "lat": 58.9548950,
+  "lon": 5.7035648
+},
+{
+  "type": "node",
+  "id": 1022808262,
+  "lat": 58.9551766,
+  "lon": 5.7028049
+},
+{
+  "type": "node",
+  "id": 1022808407,
+  "lat": 58.9550111,
+  "lon": 5.7033678
+},
+{
+  "type": "node",
+  "id": 1022808471,
+  "lat": 58.9549501,
+  "lon": 5.7026529
+},
+{
+  "type": "node",
+  "id": 1022808589,
+  "lat": 58.9547208,
+  "lon": 5.7040433
+},
+{
+  "type": "node",
+  "id": 1022808748,
+  "lat": 58.9544334,
+  "lon": 5.7032102
+},
+{
+  "type": "node",
+  "id": 1022808854,
+  "lat": 58.9550982,
+  "lon": 5.7031989
+},
+{
+  "type": "node",
+  "id": 1022809100,
+  "lat": 58.9549966,
+  "lon": 5.7032834
+},
+{
+  "type": "node",
+  "id": 1022809175,
+  "lat": 58.9551156,
+  "lon": 5.7027261
+},
+{
+  "type": "node",
+  "id": 1022809318,
+  "lat": 58.9547818,
+  "lon": 5.7039983
+},
+{
+  "type": "node",
+  "id": 1022809401,
+  "lat": 58.9548863,
+  "lon": 5.7037506
+},
+{
+  "type": "node",
+  "id": 1022809484,
+  "lat": 58.9551737,
+  "lon": 5.7031258
+},
+{
+  "type": "node",
+  "id": 1022809514,
+  "lat": 58.9550024,
+  "lon": 5.7034748
+},
+{
+  "type": "node",
+  "id": 1022809698,
+  "lat": 58.9549617,
+  "lon": 5.7035311
+},
+{
+  "type": "node",
+  "id": 1022809771,
+  "lat": 58.9550343,
+  "lon": 5.7027599
+},
+{
+  "type": "node",
+  "id": 1022812874,
+  "lat": 58.9548992,
+  "lon": 5.7035286
+},
+{
+  "type": "node",
+  "id": 1022812895,
+  "lat": 58.9548892,
+  "lon": 5.7036549
+},
+{
+  "type": "node",
+  "id": 1022813102,
+  "lat": 58.9548253,
+  "lon": 5.7039364
+},
+{
+  "type": "node",
+  "id": 1022813668,
+  "lat": 58.9552143,
+  "lon": 5.7029681
+},
+{
+  "type": "node",
+  "id": 1022814054,
+  "lat": 58.9546656,
+  "lon": 5.7040433
+},
+{
+  "type": "node",
+  "id": 1022814214,
+  "lat": 58.9550024,
+  "lon": 5.7028162
+},
+{
+  "type": "node",
+  "id": 5010422650,
+  "lat": 58.9550277,
+  "lon": 5.7031958
+},
+{
+  "type": "node",
+  "id": 695070071,
+  "lat": 58.9655134,
+  "lon": 5.7220883
+},
+{
+  "type": "node",
+  "id": 695070072,
+  "lat": 58.9656129,
+  "lon": 5.7224162
+},
+{
+  "type": "node",
+  "id": 695070073,
+  "lat": 58.9656480,
+  "lon": 5.7219710
+},
+{
+  "type": "node",
+  "id": 695070079,
+  "lat": 58.9657213,
+  "lon": 5.7222873
+},
+{
+  "type": "node",
+  "id": 6632754296,
+  "lat": 58.9655340,
+  "lon": 5.7221774
+},
+{
+  "type": "node",
+  "id": 6632754297,
+  "lat": 58.9655224,
+  "lon": 5.7221875
+},
+{
+  "type": "node",
+  "id": 6632754298,
+  "lat": 58.9655685,
+  "lon": 5.7223866
+},
+{
+  "type": "node",
+  "id": 6632754299,
+  "lat": 58.9655997,
+  "lon": 5.7223594
+},
+{
+  "type": "node",
+  "id": 6632754300,
+  "lat": 58.9656767,
+  "lon": 5.7223606
+},
+{
+  "type": "node",
+  "id": 6632754301,
+  "lat": 58.9656701,
+  "lon": 5.7223319
+},
+{
+  "type": "node",
+  "id": 720102766,
+  "lat": 58.9672164,
+  "lon": 5.7198897
+},
+{
+  "type": "node",
+  "id": 720102777,
+  "lat": 58.9671973,
+  "lon": 5.7199805
+},
+{
+  "type": "node",
+  "id": 720102808,
+  "lat": 58.9670443,
+  "lon": 5.7198414
+},
+{
+  "type": "node",
+  "id": 720102811,
+  "lat": 58.9671829,
+  "lon": 5.7199212
+},
+{
+  "type": "node",
+  "id": 720102820,
+  "lat": 58.9672402,
+  "lon": 5.7201518
+},
+{
+  "type": "node",
+  "id": 720102828,
+  "lat": 58.9672312,
+  "lon": 5.7199486
+},
+{
+  "type": "node",
+  "id": 720102836,
+  "lat": 58.9671403,
+  "lon": 5.7197510
+},
+{
+  "type": "node",
+  "id": 720102845,
+  "lat": 58.9671446,
+  "lon": 5.7202419
+},
+{
+  "type": "node",
+  "id": 6632754312,
+  "lat": 58.9670605,
+  "lon": 5.7197645
+},
+{
+  "type": "node",
+  "id": 6632754313,
+  "lat": 58.9671207,
+  "lon": 5.7197077
+},
+{
+  "type": "node",
+  "id": 6632754314,
+  "lat": 58.9671332,
+  "lon": 5.7197576
+},
+{
+  "type": "node",
+  "id": 6632754315,
+  "lat": 58.9670730,
+  "lon": 5.7198144
+},
+{
+  "type": "node",
+  "id": 265995223,
+  "lat": 58.9649484,
+  "lon": 5.7327780
+},
+{
+  "type": "node",
+  "id": 1062968222,
+  "lat": 58.9644285,
+  "lon": 5.7331272
+},
+{
+  "type": "node",
+  "id": 1062968227,
+  "lat": 58.9636273,
+  "lon": 5.7301641
+},
+{
+  "type": "node",
+  "id": 1062968229,
+  "lat": 58.9634486,
+  "lon": 5.7296732
+},
+{
+  "type": "node",
+  "id": 1062968243,
+  "lat": 58.9635806,
+  "lon": 5.7301252
+},
+{
+  "type": "node",
+  "id": 1062968249,
+  "lat": 58.9633397,
+  "lon": 5.7297897
+},
+{
+  "type": "node",
+  "id": 1062968258,
+  "lat": 58.9632273,
+  "lon": 5.7303773
+},
+{
+  "type": "node",
+  "id": 1062968259,
+  "lat": 58.9644735,
+  "lon": 5.7333796
+},
+{
+  "type": "node",
+  "id": 1062968260,
+  "lat": 58.9649935,
+  "lon": 5.7330303
+},
+{
+  "type": "node",
+  "id": 1062968266,
+  "lat": 58.9631312,
+  "lon": 5.7307675
+},
+{
+  "type": "node",
+  "id": 1062968269,
+  "lat": 58.9633794,
+  "lon": 5.7294533
+},
+{
+  "type": "node",
+  "id": 1062968288,
+  "lat": 58.9633822,
+  "lon": 5.7302339
+},
+{
+  "type": "node",
+  "id": 1062968290,
+  "lat": 58.9634811,
+  "lon": 5.7300179
+},
+{
+  "type": "node",
+  "id": 1062968302,
+  "lat": 58.9629417,
+  "lon": 5.7298328
+},
+{
+  "type": "node",
+  "id": 1062968304,
+  "lat": 58.9632411,
+  "lon": 5.7306764
+},
+{
+  "type": "node",
+  "id": 1062968316,
+  "lat": 58.9632453,
+  "lon": 5.7295713
+},
+{
+  "type": "node",
+  "id": 1062968323,
+  "lat": 58.9630952,
+  "lon": 5.7297000
+},
+{
+  "type": "node",
+  "id": 1062968325,
+  "lat": 58.9644595,
+  "lon": 5.7331064
+},
+{
+  "type": "node",
+  "id": 1062968345,
+  "lat": 58.9636643,
+  "lon": 5.7301990
+},
+{
+  "type": "node",
+  "id": 1062968347,
+  "lat": 58.9632992,
+  "lon": 5.7298181
+},
+{
+  "type": "node",
+  "id": 1062968353,
+  "lat": 58.9636518,
+  "lon": 5.7302070
+},
+{
+  "type": "node",
+  "id": 6771764238,
+  "lat": 58.9636707,
+  "lon": 5.7302484
+},
+{
+  "type": "node",
+  "id": 6771764241,
+  "lat": 58.9636792,
+  "lon": 5.7303129
+},
+{
+  "type": "node",
+  "id": 6988119645,
+  "lat": 58.9647047,
+  "lon": 5.7329417
+},
+{
+  "type": "node",
+  "id": 1021594528,
+  "lat": 58.9719778,
+  "lon": 5.7313353
+},
+{
+  "type": "node",
+  "id": 1021594620,
+  "lat": 58.9706527,
+  "lon": 5.7286844
+},
+{
+  "type": "node",
+  "id": 1021594767,
+  "lat": 58.9719871,
+  "lon": 5.7312692
+},
+{
+  "type": "node",
+  "id": 1021594835,
+  "lat": 58.9719048,
+  "lon": 5.7312255
+},
+{
+  "type": "node",
+  "id": 1021594953,
+  "lat": 58.9706085,
+  "lon": 5.7285262
+},
+{
+  "type": "node",
+  "id": 1021594968,
+  "lat": 58.9704923,
+  "lon": 5.7286791
+},
+{
+  "type": "node",
+  "id": 1021595023,
+  "lat": 58.9719696,
+  "lon": 5.7312097
+},
+{
+  "type": "node",
+  "id": 1021595038,
+  "lat": 58.9719130,
+  "lon": 5.7313512
+},
+{
+  "type": "node",
+  "id": 1021595180,
+  "lat": 58.9704688,
+  "lon": 5.7286174
+},
+{
+  "type": "node",
+  "id": 1021595216,
+  "lat": 58.9719355,
+  "lon": 5.7311916
+},
+{
+  "type": "node",
+  "id": 1021595235,
+  "lat": 58.9718955,
+  "lon": 5.7312917
+},
+{
+  "type": "node",
+  "id": 1021595265,
+  "lat": 58.9705158,
+  "lon": 5.7288802
+},
+{
+  "type": "node",
+  "id": 1021595292,
+  "lat": 58.9719471,
+  "lon": 5.7313693
+},
+{
+  "type": "node",
+  "id": 1021595410,
+  "lat": 58.9704274,
+  "lon": 5.7286737
+},
+{
+  "type": "node",
+  "id": 354929199,
+  "lat": 58.9736411,
+  "lon": 5.7342113
+},
+{
+  "type": "node",
+  "id": 1111138721,
+  "lat": 58.9733798,
+  "lon": 5.7343143
+},
+{
+  "type": "node",
+  "id": 1111138800,
+  "lat": 58.9734076,
+  "lon": 5.7343892
+},
+{
+  "type": "node",
+  "id": 354929200,
+  "lat": 58.9732865,
+  "lon": 5.7344266
+},
+{
+  "type": "node",
+  "id": 354929201,
+  "lat": 58.9736280,
+  "lon": 5.7354998
+},
+{
+  "type": "node",
+  "id": 354929202,
+  "lat": 58.9737283,
+  "lon": 5.7353667
+},
+{
+  "type": "node",
+  "id": 354929203,
+  "lat": 58.9737716,
+  "lon": 5.7351243
+},
+{
+  "type": "node",
+  "id": 354929204,
+  "lat": 58.9737687,
+  "lon": 5.7346259
+},
+{
+  "type": "node",
+  "id": 363922220,
+  "lat": 58.9737056,
+  "lon": 5.7344124
+},
+{
+  "type": "node",
+  "id": 1111138005,
+  "lat": 58.9737165,
+  "lon": 5.7353220
+},
+{
+  "type": "node",
+  "id": 6695855612,
+  "lat": 58.9737321,
+  "lon": 5.7345020
+}
+
+  ]
+}

@@ -1,0 +1,1807 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-14T12:48:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 528395244,
+  "lat": 46.0610502,
+  "lon": 6.9577844,
+  "tags": {
+    "name": "Musée CFF (Usine de Barberine)",
+    "note": "Website invalide (http://www.trient.ch/centralecff.htm)",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 814607165,
+  "lat": 46.0260916,
+  "lon": 7.1223098,
+  "tags": {
+    "name": "Fort d'artillerie de Champex-Lac",
+    "tourism": "museum",
+    "wikidata": "Q21035607"
+  }
+},
+{
+  "type": "node",
+  "id": 844139670,
+  "lat": 45.7121504,
+  "lon": 7.1712825,
+  "tags": {
+    "name": "Museo Cerlogne",
+    "name:en": "Cerlogne Museum",
+    "name:fr": "Musée Cerlogne",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 847131934,
+  "lat": 45.8458434,
+  "lon": 6.9316133,
+  "tags": {
+    "name": "Mostra dei cristalli",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 913855301,
+  "lat": 46.0832922,
+  "lon": 7.2103766,
+  "tags": {
+    "name": "Forge à Oreiller",
+    "operator": "Musées de Bagnes",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 947041748,
+  "lat": 45.6943960,
+  "lon": 7.1794405,
+  "tags": {
+    "name": "Maison Bruil di Introd",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 989014531,
+  "lat": 46.0821530,
+  "lon": 7.2118979,
+  "tags": {
+    "addr:city": "Vilette (Le Châble VS)",
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:postcode": "1934",
+    "name": "Ancienne demeure",
+    "operator": "Musées de Bagnes",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1306404248,
+  "lat": 46.0904374,
+  "lon": 7.0623520,
+  "tags": {
+    "name": "Le Moulin Semblanet",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1402753185,
+  "lat": 46.1210128,
+  "lon": 7.0209482,
+  "tags": {
+    "name": "Musée Marconi",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1699495173,
+  "lat": 46.0801166,
+  "lon": 7.2088970,
+  "tags": {
+    "addr:city": "Le Châble",
+    "addr:housenumber": "13",
+    "addr:street": "Chemin de l'Eglise",
+    "contact:email": "musee@bagnes.ch",
+    "contact:phone": "+41 27 776 15 25",
+    "contact:website": "www.museedebagnes.ch",
+    "name": "Musée de Bagnes",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1867921057,
+  "lat": 45.7525225,
+  "lon": 6.8162372,
+  "tags": {
+    "opening_hours": "Jun 25-Sep 15",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1882368588,
+  "lat": 45.9334365,
+  "lon": 6.9171340,
+  "tags": {
+    "name": "Musée de l'Hôtel du Montenvers",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1948372274,
+  "lat": 45.9355769,
+  "lon": 6.6247377,
+  "tags": {
+    "name": "Centre de la Nature Montagnarde",
+    "phone": "+33 4 50 58 32 13",
+    "tourism": "museum",
+    "website": "http://www.centrenaturemontagnarde.org/"
+  }
+},
+{
+  "type": "node",
+  "id": 2385630348,
+  "lat": 45.8215512,
+  "lon": 7.1792648,
+  "tags": {
+    "name": "Chateau de Bosses",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 2400463935,
+  "lat": 45.8787692,
+  "lon": 6.8875196,
+  "tags": {
+    "name": "Musée de l'Alpinisme de Pointe",
+    "operator": "CMB",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 2610836257,
+  "lat": 45.8929888,
+  "lon": 6.7088732,
+  "tags": {
+    "name": "Pile Pont Expo",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3034993218,
+  "lat": 45.8546573,
+  "lon": 6.7232694,
+  "tags": {
+    "name": "Musée d'Art Sacré",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3442946797,
+  "lat": 45.7194893,
+  "lon": 6.5736041,
+  "tags": {
+    "name": "Musée du Beaufort",
+    "opening_hours": "Mo-Su 08:00-19:00",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3644533827,
+  "lat": 45.9243619,
+  "lon": 6.8671920,
+  "tags": {
+    "addr:city": "Chamonix-Mont-Blanc",
+    "addr:postcode": "74400",
+    "name": "Musée Espace Tairraz",
+    "source": "Enquête de terrain",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3696653187,
+  "lat": 45.7918115,
+  "lon": 6.9725857,
+  "tags": {
+    "addr:city": "Courmayeur",
+    "addr:housenumber": "2",
+    "addr:postcode": "11013",
+    "addr:street": "Strada del Villair",
+    "email": "info@guidecourmayeur.com",
+    "name": "Museo Alpino Duca degli Abruzzi",
+    "opening_hours": "May, Jun, Sep, Oct, Nov: Tu-Su 08:30-12:30,16:00-18:30; Mo off; Jul 1-Aug 31: Mo-Su 08:30-12:30,16:00-19:00; Dec 1-Apr 30: Mo 16:00-19:00; Tu-Su 08:30-13:00,16:00-19:00",
+    "phone": "+39 0165 842064",
+    "tourism": "museum",
+    "website": "www.guidecourmayeur.com"
+  }
+},
+{
+  "type": "node",
+  "id": 3696692484,
+  "lat": 45.7158097,
+  "lon": 6.9478571,
+  "tags": {
+    "addr:city": "La Thuile",
+    "name": "Maison Musée Berton",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4048595799,
+  "lat": 45.7501289,
+  "lon": 6.5849526,
+  "tags": {
+    "name": "Ecomusée",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4796564222,
+  "lat": 46.0490729,
+  "lon": 7.2663319,
+  "tags": {
+    "name": "Gletscher Museum",
+    "name:de": "Gletscher Museum",
+    "name:en": "Museum of Glacier",
+    "name:fr": "Musée des Glaciers",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 5858569185,
+  "lat": 45.6178322,
+  "lon": 6.7704898,
+  "tags": {
+    "name": "Musée des Minéraux Alpins",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 63749619,
+  "nodes": [
+    788255490,
+    788260665,
+    788265158,
+    788262001,
+    788266910,
+    3318412961,
+    788258058,
+    788255490
+  ],
+  "tags": {
+    "alt_name": "Le Musée Vallorcin",
+    "building": "yes",
+    "name": "La Maison de Barberine",
+    "opening_hours": "Jul-Aug: 14:00-17:00",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+    "tourism": "museum",
+    "website": "http://maisonbarberine.over-blog.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 86750645,
+  "nodes": [
+    1009129383,
+    1009129407,
+    2272025105,
+    1009129419,
+    1009129428,
+    1009129383
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Fondation Pierre Gianadda",
+    "source": "Bing",
+    "tourism": "museum",
+    "wikidata": "Q687778"
+  }
+},
+{
+  "type": "way",
+  "id": 87386068,
+  "nodes": [
+    1016179757,
+    1016180015,
+    1016179692,
+    1016179942,
+    1016179757
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Musée de l'Hospice du Grand Saint-Bernard",
+    "name:de": "Hospiz-Museum auf dem Grossen Sankt Bernhard",
+    "name:fr": "Musée de l'Hospice du Grand Saint-Bernard",
+    "source": "Bing",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 88313685,
+  "nodes": [
+    1025751768,
+    1025751803,
+    1025751745,
+    1630298622,
+    1025751728,
+    1630298621,
+    1025751871,
+    1025751855,
+    1025751788,
+    1025751772,
+    1025751768
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Musé de la Montagne",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 97313166,
+  "nodes": [
+    1126866137,
+    1127089344,
+    1126826359,
+    1127000866,
+    1126866137
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Glaciorium",
+    "source": "GPS, Bing",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 97313427,
+  "nodes": [
+    1126878808,
+    1127024889,
+    1126904316,
+    1126966071,
+    1126962718,
+    1127094401,
+    1126894929,
+    1126837932,
+    1127039135,
+    1127093813,
+    1127007113,
+    1126839984,
+    1126899402,
+    1127005005,
+    1126995919,
+    1127061139,
+    1126999726,
+    1126909844,
+    1126811872,
+    1126846470,
+    1126975922,
+    1126878808
+  ],
+  "tags": {
+    "addr:city": "Chamonix-Mont-Blanc",
+    "addr:postcode": "74400",
+    "building": "yes",
+    "name": "Musée Alpin",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011 Relevés de terrain",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 97320483,
+  "nodes": [
+    1126897394,
+    1126823937,
+    1126999908,
+    1126900593,
+    1126897394
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Galerie des Cristaux",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 97322736,
+  "nodes": [
+    1126963175,
+    5584373815,
+    1127089851,
+    5584373819,
+    1127007001,
+    5584373817,
+    5584373816,
+    1126820225,
+    1126963175
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Temple de la Nature",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 105799487,
+  "nodes": [
+    1218101365,
+    1218155244,
+    1218123341,
+    1218172444,
+    1218138987,
+    6451380618,
+    6451380617,
+    1218067329,
+    1218160372,
+    1218075525,
+    1218082689,
+    1218176464,
+    1218106547,
+    1218070429,
+    1218125244,
+    1218083615,
+    1218177389,
+    1218101365
+  ],
+  "tags": {
+    "addr:housename": "Espace Carpano & Pons",
+    "addr:housenumber": "100",
+    "addr:street": "Place du 11 Novembre",
+    "building": "public",
+    "contact:phone": "+33 4 50 96 43 00",
+    "contact:website": "https://musee.2ccam.fr/",
+    "name": "Musée de l'horlogerie et du décolletage",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 126620592,
+  "nodes": [
+    1403231265,
+    1403230182,
+    1403201123,
+    1403217552,
+    1403232059,
+    1403190459,
+    1403231265
+  ],
+  "tags": {
+    "building": "yes",
+    "contact:email": "closparche@le-clos-parchet.com",
+    "contact:website": "http://www.le-clos-parchet.com/",
+    "heritage": "3",
+    "heritage:operator": "mhs",
+    "mhs:inscription_date": "2007-09-19",
+    "name": "Écomusée du Clos Parchet",
+    "ref:mhs": "PA74000010",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+    "source:heritage": "data.gouv.fr, Ministère de la Culture - 2016",
+    "tourism": "museum",
+    "wikidata": "Q3068935",
+    "wikipedia": "fr:Ferme du Clos Parchet"
+  }
+},
+{
+  "type": "way",
+  "id": 133981461,
+  "nodes": [
+    1474185420,
+    1474185432,
+    1474185349,
+    1474185346,
+    1474185420
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Museo Papa Giovanni Paolo II",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 134013815,
+  "nodes": [
+    1474253317,
+    1474253327,
+    4426783246,
+    4426783617,
+    1474253312,
+    4426783245,
+    4426783244,
+    1474253317
+  ],
+  "tags": {
+    "building": "yes",
+    "denomination": "catholic",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 146375217,
+  "nodes": [
+    1596449302,
+    1596449318,
+    1596449355,
+    1596449338,
+    1596449288,
+    1596449302
+  ],
+  "tags": {
+    "addr:city": "Allein",
+    "addr:street": "Ayez",
+    "building": "yes",
+    "name": "Museo Del Carnevale Della Coumba Frèide",
+    "tourism": "museum",
+    "wikidata": "Q55675066"
+  }
+},
+{
+  "type": "way",
+  "id": 148176314,
+  "nodes": [
+    1612799163,
+    5287573734,
+    1612799106,
+    1612799122,
+    1612799104,
+    1612799142,
+    5287573741,
+    1612799187,
+    1612799247,
+    5287573742,
+    1612799236,
+    1612799188,
+    1612799163
+  ],
+  "tags": {
+    "building": "yes",
+    "note": "Ancien bâtiment du téléphérique. Ne pas le raccorder avec l'existant !! ",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 212069678,
+  "nodes": [
+    2219658678,
+    2219658676,
+    2219658669,
+    2219658672,
+    2219658666,
+    2219658674,
+    4800446858,
+    2219658678
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Barryland - Musée et Chiens du Saint-Bernard",
+    "phone": "+41 27 722 65 42",
+    "source": "Bing",
+    "tourism": "museum",
+    "website": "https://fondation-barry.ch/",
+    "wheelchair": "yes",
+    "wikidata": "Q1955751"
+  }
+},
+{
+  "type": "way",
+  "id": 217475780,
+  "nodes": [
+    2267393253,
+    2267393263,
+    2267393260,
+    2267393239,
+    2267393253
+  ],
+  "tags": {
+    "addr:city": "Martigny",
+    "addr:housenumber": "1",
+    "addr:postcode": "1920",
+    "addr:street": "Place du Manoir",
+    "building": "yes",
+    "name": "Manoir de la Ville",
+    "source": "Bing",
+    "tourism": "museum",
+    "website": "http://www.manoir-martigny.ch"
+  }
+},
+{
+  "type": "way",
+  "id": 218150956,
+  "nodes": [
+    2274271207,
+    2274271468,
+    1606918121,
+    2274271739,
+    2274271207
+  ],
+  "tags": {
+    "addr:city": "Les Gets",
+    "addr:housenumber": "194",
+    "addr:postcode": "74260",
+    "addr:street": "Rue du Vieux Village",
+    "building": "yes",
+    "name": "Musée de la musique mécanique",
+    "phone": "+33 4 50 79 85 75",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2013",
+    "tourism": "museum",
+    "website": "http://www.musicmecalesgets.org/"
+  }
+},
+{
+  "type": "way",
+  "id": 227138585,
+  "nodes": [
+    2358673638,
+    2358673634,
+    2358673635,
+    2358673640,
+    2358673638
+  ],
+  "tags": {
+    "addr:street": "Route des Montets",
+    "building": "yes",
+    "information": "office",
+    "name": "Chalet de la Réserve Naturelle des Aiguilles Rouges",
+    "office": "guide",
+    "opening_hours": "Jun-Sep: 09:30-18:00",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 246399969,
+  "nodes": [
+    2534563590,
+    2534563613,
+    2534563629,
+    2534563661,
+    2534563652,
+    2534563676,
+    2534563628,
+    2534563632,
+    2534563640,
+    2534563646,
+    2534563645,
+    2534563643,
+    2534563636,
+    2534563631,
+    2534563627,
+    2534563622,
+    2534563614,
+    2534563612,
+    2534563610,
+    2534563605,
+    2534563603,
+    2534563606,
+    2534563481,
+    2534563470,
+    2534563460,
+    2534563451,
+    2534563445,
+    2534563441,
+    2534563438,
+    2534563439,
+    2534563443,
+    2534563454,
+    2534563466,
+    2534563475,
+    2534563484,
+    2534563487,
+    2534563551,
+    2534563590
+  ],
+  "tags": {
+    "building": "yes",
+    "historic": "castle",
+    "name": "Maison forte de Hautetour",
+    "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2013",
+    "tourism": "museum",
+    "wikidata": "Q67772561"
+  }
+},
+{
+  "type": "way",
+  "id": 738678839,
+  "nodes": [
+    6917108802,
+    6917108807,
+    6917074469,
+    6917108794,
+    6917108802
+  ],
+  "tags": {
+    "building": "yes",
+    "fixme": "Survey opening_hours",
+    "layer": "-1",
+    "name": "Trésor de l'Abbaye de St-Maurice",
+    "opening_hours": "Tu-Su",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1218067329,
+  "lat": 46.0559441,
+  "lon": 6.5798360
+},
+{
+  "type": "node",
+  "id": 1218070429,
+  "lat": 46.0557441,
+  "lon": 6.5801450
+},
+{
+  "type": "node",
+  "id": 1218075525,
+  "lat": 46.0557331,
+  "lon": 6.5801080
+},
+{
+  "type": "node",
+  "id": 1218082689,
+  "lat": 46.0557401,
+  "lon": 6.5801270
+},
+{
+  "type": "node",
+  "id": 1218083615,
+  "lat": 46.0559182,
+  "lon": 6.5802227
+},
+{
+  "type": "node",
+  "id": 1218101365,
+  "lat": 46.0559299,
+  "lon": 6.5802402
+},
+{
+  "type": "node",
+  "id": 1218106547,
+  "lat": 46.0557371,
+  "lon": 6.5801500
+},
+{
+  "type": "node",
+  "id": 1218123341,
+  "lat": 46.0560564,
+  "lon": 6.5801496
+},
+{
+  "type": "node",
+  "id": 1218125244,
+  "lat": 46.0558586,
+  "lon": 6.5800608
+},
+{
+  "type": "node",
+  "id": 1218138987,
+  "lat": 46.0559701,
+  "lon": 6.5799110
+},
+{
+  "type": "node",
+  "id": 1218155244,
+  "lat": 46.0560445,
+  "lon": 6.5801580
+},
+{
+  "type": "node",
+  "id": 1218160372,
+  "lat": 46.0557001,
+  "lon": 6.5800180
+},
+{
+  "type": "node",
+  "id": 1218172444,
+  "lat": 46.0560547,
+  "lon": 6.5801445
+},
+{
+  "type": "node",
+  "id": 1218176464,
+  "lat": 46.0557311,
+  "lon": 6.5801330
+},
+{
+  "type": "node",
+  "id": 1218177389,
+  "lat": 46.0559221,
+  "lon": 6.5802200
+},
+{
+  "type": "node",
+  "id": 6451380617,
+  "lat": 46.0559479,
+  "lon": 6.5798470
+},
+{
+  "type": "node",
+  "id": 6451380618,
+  "lat": 46.0559644,
+  "lon": 6.5798946
+},
+{
+  "type": "node",
+  "id": 1403190459,
+  "lat": 46.1018844,
+  "lon": 6.7011065
+},
+{
+  "type": "node",
+  "id": 1403201123,
+  "lat": 46.1019624,
+  "lon": 6.7012165
+},
+{
+  "type": "node",
+  "id": 1403217552,
+  "lat": 46.1020104,
+  "lon": 6.7011775
+},
+{
+  "type": "node",
+  "id": 1403230182,
+  "lat": 46.1019794,
+  "lon": 6.7012615
+},
+{
+  "type": "node",
+  "id": 1403231265,
+  "lat": 46.1019494,
+  "lon": 6.7012835
+},
+{
+  "type": "node",
+  "id": 1403232059,
+  "lat": 46.1019594,
+  "lon": 6.7010475
+},
+{
+  "type": "node",
+  "id": 1606918121,
+  "lat": 46.1609808,
+  "lon": 6.6727615
+},
+{
+  "type": "node",
+  "id": 2274271207,
+  "lat": 46.1607747,
+  "lon": 6.6728030
+},
+{
+  "type": "node",
+  "id": 2274271468,
+  "lat": 46.1608538,
+  "lon": 6.6729284
+},
+{
+  "type": "node",
+  "id": 2274271739,
+  "lat": 46.1609017,
+  "lon": 6.6726361
+},
+{
+  "type": "node",
+  "id": 1474185346,
+  "lat": 45.6831556,
+  "lon": 7.1528666
+},
+{
+  "type": "node",
+  "id": 1474185349,
+  "lat": 45.6831752,
+  "lon": 7.1530232
+},
+{
+  "type": "node",
+  "id": 1474185420,
+  "lat": 45.6832530,
+  "lon": 7.1528416
+},
+{
+  "type": "node",
+  "id": 1474185432,
+  "lat": 45.6832726,
+  "lon": 7.1529982
+},
+{
+  "type": "node",
+  "id": 1474253312,
+  "lat": 45.7024226,
+  "lon": 7.1673019
+},
+{
+  "type": "node",
+  "id": 1474253317,
+  "lat": 45.7024627,
+  "lon": 7.1672266
+},
+{
+  "type": "node",
+  "id": 1474253327,
+  "lat": 45.7025572,
+  "lon": 7.1673323
+},
+{
+  "type": "node",
+  "id": 4426783244,
+  "lat": 45.7024377,
+  "lon": 7.1672353
+},
+{
+  "type": "node",
+  "id": 4426783245,
+  "lat": 45.7024188,
+  "lon": 7.1672590
+},
+{
+  "type": "node",
+  "id": 4426783246,
+  "lat": 45.7025141,
+  "lon": 7.1674107
+},
+{
+  "type": "node",
+  "id": 4426783617,
+  "lat": 45.7024678,
+  "lon": 7.1673556
+},
+{
+  "type": "node",
+  "id": 1025751728,
+  "lat": 45.8900582,
+  "lon": 6.7979015
+},
+{
+  "type": "node",
+  "id": 1025751745,
+  "lat": 45.8900010,
+  "lon": 6.7980351
+},
+{
+  "type": "node",
+  "id": 1025751768,
+  "lat": 45.8901320,
+  "lon": 6.7979649
+},
+{
+  "type": "node",
+  "id": 1025751772,
+  "lat": 45.8900789,
+  "lon": 6.7979185
+},
+{
+  "type": "node",
+  "id": 1025751788,
+  "lat": 45.8901290,
+  "lon": 6.7978072
+},
+{
+  "type": "node",
+  "id": 1025751803,
+  "lat": 45.8900710,
+  "lon": 6.7981005
+},
+{
+  "type": "node",
+  "id": 1025751855,
+  "lat": 45.8900774,
+  "lon": 6.7977550
+},
+{
+  "type": "node",
+  "id": 1025751871,
+  "lat": 45.8900321,
+  "lon": 6.7978585
+},
+{
+  "type": "node",
+  "id": 1630298621,
+  "lat": 45.8900515,
+  "lon": 6.7978790
+},
+{
+  "type": "node",
+  "id": 1630298622,
+  "lat": 45.8900568,
+  "lon": 6.7979049
+},
+{
+  "type": "node",
+  "id": 2534563438,
+  "lat": 45.8923780,
+  "lon": 6.7129290
+},
+{
+  "type": "node",
+  "id": 2534563439,
+  "lat": 45.8923780,
+  "lon": 6.7129380
+},
+{
+  "type": "node",
+  "id": 2534563441,
+  "lat": 45.8923790,
+  "lon": 6.7129210
+},
+{
+  "type": "node",
+  "id": 2534563443,
+  "lat": 45.8923820,
+  "lon": 6.7129470
+},
+{
+  "type": "node",
+  "id": 2534563445,
+  "lat": 45.8923830,
+  "lon": 6.7129130
+},
+{
+  "type": "node",
+  "id": 2534563451,
+  "lat": 45.8923880,
+  "lon": 6.7129070
+},
+{
+  "type": "node",
+  "id": 2534563454,
+  "lat": 45.8923910,
+  "lon": 6.7129550
+},
+{
+  "type": "node",
+  "id": 2534563460,
+  "lat": 45.8923940,
+  "lon": 6.7129050
+},
+{
+  "type": "node",
+  "id": 2534563466,
+  "lat": 45.8923970,
+  "lon": 6.7129550
+},
+{
+  "type": "node",
+  "id": 2534563470,
+  "lat": 45.8924010,
+  "lon": 6.7129070
+},
+{
+  "type": "node",
+  "id": 2534563475,
+  "lat": 45.8924020,
+  "lon": 6.7129540
+},
+{
+  "type": "node",
+  "id": 2534563481,
+  "lat": 45.8924070,
+  "lon": 6.7129100
+},
+{
+  "type": "node",
+  "id": 2534563484,
+  "lat": 45.8924080,
+  "lon": 6.7129500
+},
+{
+  "type": "node",
+  "id": 2534563487,
+  "lat": 45.8924110,
+  "lon": 6.7129450
+},
+{
+  "type": "node",
+  "id": 2534563551,
+  "lat": 45.8924700,
+  "lon": 6.7130830
+},
+{
+  "type": "node",
+  "id": 2534563590,
+  "lat": 45.8925240,
+  "lon": 6.7130350
+},
+{
+  "type": "node",
+  "id": 2534563603,
+  "lat": 45.8925380,
+  "lon": 6.7127940
+},
+{
+  "type": "node",
+  "id": 2534563605,
+  "lat": 45.8925390,
+  "lon": 6.7127870
+},
+{
+  "type": "node",
+  "id": 2534563606,
+  "lat": 45.8925390,
+  "lon": 6.7128030
+},
+{
+  "type": "node",
+  "id": 2534563610,
+  "lat": 45.8925410,
+  "lon": 6.7127800
+},
+{
+  "type": "node",
+  "id": 2534563612,
+  "lat": 45.8925450,
+  "lon": 6.7127740
+},
+{
+  "type": "node",
+  "id": 2534563613,
+  "lat": 45.8925460,
+  "lon": 6.7130170
+},
+{
+  "type": "node",
+  "id": 2534563614,
+  "lat": 45.8925490,
+  "lon": 6.7127700
+},
+{
+  "type": "node",
+  "id": 2534563622,
+  "lat": 45.8925550,
+  "lon": 6.7127680
+},
+{
+  "type": "node",
+  "id": 2534563627,
+  "lat": 45.8925600,
+  "lon": 6.7127680
+},
+{
+  "type": "node",
+  "id": 2534563628,
+  "lat": 45.8925610,
+  "lon": 6.7128180
+},
+{
+  "type": "node",
+  "id": 2534563629,
+  "lat": 45.8925610,
+  "lon": 6.7130520
+},
+{
+  "type": "node",
+  "id": 2534563631,
+  "lat": 45.8925650,
+  "lon": 6.7127710
+},
+{
+  "type": "node",
+  "id": 2534563632,
+  "lat": 45.8925660,
+  "lon": 6.7128130
+},
+{
+  "type": "node",
+  "id": 2534563636,
+  "lat": 45.8925690,
+  "lon": 6.7127760
+},
+{
+  "type": "node",
+  "id": 2534563640,
+  "lat": 45.8925700,
+  "lon": 6.7128070
+},
+{
+  "type": "node",
+  "id": 2534563643,
+  "lat": 45.8925720,
+  "lon": 6.7127830
+},
+{
+  "type": "node",
+  "id": 2534563645,
+  "lat": 45.8925730,
+  "lon": 6.7127900
+},
+{
+  "type": "node",
+  "id": 2534563646,
+  "lat": 45.8925730,
+  "lon": 6.7127990
+},
+{
+  "type": "node",
+  "id": 2534563652,
+  "lat": 45.8925770,
+  "lon": 6.7129890
+},
+{
+  "type": "node",
+  "id": 2534563661,
+  "lat": 45.8925920,
+  "lon": 6.7130250
+},
+{
+  "type": "node",
+  "id": 2534563676,
+  "lat": 45.8926210,
+  "lon": 6.7129510
+},
+{
+  "type": "node",
+  "id": 1126811872,
+  "lat": 45.9240099,
+  "lon": 6.8717242
+},
+{
+  "type": "node",
+  "id": 1126837932,
+  "lat": 45.9241907,
+  "lon": 6.8709341
+},
+{
+  "type": "node",
+  "id": 1126839984,
+  "lat": 45.9239376,
+  "lon": 6.8714214
+},
+{
+  "type": "node",
+  "id": 1126846470,
+  "lat": 45.9240285,
+  "lon": 6.8716367
+},
+{
+  "type": "node",
+  "id": 1126878808,
+  "lat": 45.9240720,
+  "lon": 6.8714808
+},
+{
+  "type": "node",
+  "id": 1126894929,
+  "lat": 45.9241655,
+  "lon": 6.8710508
+},
+{
+  "type": "node",
+  "id": 1126899402,
+  "lat": 45.9239187,
+  "lon": 6.8715064
+},
+{
+  "type": "node",
+  "id": 1126904316,
+  "lat": 45.9241030,
+  "lon": 6.8712827
+},
+{
+  "type": "node",
+  "id": 1126909844,
+  "lat": 45.9240217,
+  "lon": 6.8717324
+},
+{
+  "type": "node",
+  "id": 1126962718,
+  "lat": 45.9241552,
+  "lon": 6.8710484
+},
+{
+  "type": "node",
+  "id": 1126966071,
+  "lat": 45.9241457,
+  "lon": 6.8710911
+},
+{
+  "type": "node",
+  "id": 1126975922,
+  "lat": 45.9240627,
+  "lon": 6.8714773
+},
+{
+  "type": "node",
+  "id": 1126995919,
+  "lat": 45.9238778,
+  "lon": 6.8716706
+},
+{
+  "type": "node",
+  "id": 1126999726,
+  "lat": 45.9239967,
+  "lon": 6.8718455
+},
+{
+  "type": "node",
+  "id": 1127005005,
+  "lat": 45.9238839,
+  "lon": 6.8716715
+},
+{
+  "type": "node",
+  "id": 1127007113,
+  "lat": 45.9239031,
+  "lon": 6.8714067
+},
+{
+  "type": "node",
+  "id": 1127024889,
+  "lat": 45.9241139,
+  "lon": 6.8712882
+},
+{
+  "type": "node",
+  "id": 1127039135,
+  "lat": 45.9239986,
+  "lon": 6.8708507
+},
+{
+  "type": "node",
+  "id": 1127061139,
+  "lat": 45.9238536,
+  "lon": 6.8717837
+},
+{
+  "type": "node",
+  "id": 1127093813,
+  "lat": 45.9238786,
+  "lon": 6.8713960
+},
+{
+  "type": "node",
+  "id": 1127094401,
+  "lat": 45.9241558,
+  "lon": 6.8710456
+},
+{
+  "type": "node",
+  "id": 1126820225,
+  "lat": 45.9329276,
+  "lon": 6.9171583
+},
+{
+  "type": "node",
+  "id": 1126823937,
+  "lat": 45.9311100,
+  "lon": 6.9177168
+},
+{
+  "type": "node",
+  "id": 1126826359,
+  "lat": 45.9331964,
+  "lon": 6.9163982
+},
+{
+  "type": "node",
+  "id": 1126866137,
+  "lat": 45.9332323,
+  "lon": 6.9160696
+},
+{
+  "type": "node",
+  "id": 1126897394,
+  "lat": 45.9311115,
+  "lon": 6.9176456
+},
+{
+  "type": "node",
+  "id": 1126900593,
+  "lat": 45.9309702,
+  "lon": 6.9176398
+},
+{
+  "type": "node",
+  "id": 1126963175,
+  "lat": 45.9329438,
+  "lon": 6.9171254
+},
+{
+  "type": "node",
+  "id": 1126999908,
+  "lat": 45.9309688,
+  "lon": 6.9177109
+},
+{
+  "type": "node",
+  "id": 1127000866,
+  "lat": 45.9331705,
+  "lon": 6.9160800
+},
+{
+  "type": "node",
+  "id": 1127007001,
+  "lat": 45.9328810,
+  "lon": 6.9171016
+},
+{
+  "type": "node",
+  "id": 1127089344,
+  "lat": 45.9332582,
+  "lon": 6.9163878
+},
+{
+  "type": "node",
+  "id": 1127089851,
+  "lat": 45.9329233,
+  "lon": 6.9170735
+},
+{
+  "type": "node",
+  "id": 5584373815,
+  "lat": 45.9329400,
+  "lon": 6.9170987
+},
+{
+  "type": "node",
+  "id": 5584373816,
+  "lat": 45.9329090,
+  "lon": 6.9171603
+},
+{
+  "type": "node",
+  "id": 5584373817,
+  "lat": 45.9328877,
+  "lon": 6.9171420
+},
+{
+  "type": "node",
+  "id": 5584373819,
+  "lat": 45.9328965,
+  "lon": 6.9170729
+},
+{
+  "type": "node",
+  "id": 1612799104,
+  "lat": 45.8289626,
+  "lon": 6.9503926
+},
+{
+  "type": "node",
+  "id": 1612799106,
+  "lat": 45.8289633,
+  "lon": 6.9503072
+},
+{
+  "type": "node",
+  "id": 1612799122,
+  "lat": 45.8289883,
+  "lon": 6.9503635
+},
+{
+  "type": "node",
+  "id": 1612799142,
+  "lat": 45.8290326,
+  "lon": 6.9505540
+},
+{
+  "type": "node",
+  "id": 1612799163,
+  "lat": 45.8291197,
+  "lon": 6.9501636
+},
+{
+  "type": "node",
+  "id": 1612799187,
+  "lat": 45.8290691,
+  "lon": 6.9505748
+},
+{
+  "type": "node",
+  "id": 1612799188,
+  "lat": 45.8292124,
+  "lon": 6.9503784
+},
+{
+  "type": "node",
+  "id": 1612799236,
+  "lat": 45.8291682,
+  "lon": 6.9504226
+},
+{
+  "type": "node",
+  "id": 1612799247,
+  "lat": 45.8291354,
+  "lon": 6.9505206
+},
+{
+  "type": "node",
+  "id": 5287573734,
+  "lat": 45.8291136,
+  "lon": 6.9501692
+},
+{
+  "type": "node",
+  "id": 5287573741,
+  "lat": 45.8290503,
+  "lon": 6.9505396
+},
+{
+  "type": "node",
+  "id": 5287573742,
+  "lat": 45.8291400,
+  "lon": 6.9504531
+},
+{
+  "type": "node",
+  "id": 2358673634,
+  "lat": 46.0038150,
+  "lon": 6.9230366
+},
+{
+  "type": "node",
+  "id": 2358673635,
+  "lat": 46.0038610,
+  "lon": 6.9232960
+},
+{
+  "type": "node",
+  "id": 2358673638,
+  "lat": 46.0039474,
+  "lon": 6.9229879
+},
+{
+  "type": "node",
+  "id": 2358673640,
+  "lat": 46.0039935,
+  "lon": 6.9232473
+},
+{
+  "type": "node",
+  "id": 788255490,
+  "lat": 46.0501883,
+  "lon": 6.9421989
+},
+{
+  "type": "node",
+  "id": 788258058,
+  "lat": 46.0500987,
+  "lon": 6.9421745
+},
+{
+  "type": "node",
+  "id": 788260665,
+  "lat": 46.0502194,
+  "lon": 6.9419959
+},
+{
+  "type": "node",
+  "id": 788262001,
+  "lat": 46.0501273,
+  "lon": 6.9420120
+},
+{
+  "type": "node",
+  "id": 788265158,
+  "lat": 46.0501322,
+  "lon": 6.9419779
+},
+{
+  "type": "node",
+  "id": 788266910,
+  "lat": 46.0501214,
+  "lon": 6.9420116
+},
+{
+  "type": "node",
+  "id": 3318412961,
+  "lat": 46.0501153,
+  "lon": 6.9420552
+},
+{
+  "type": "node",
+  "id": 1009129383,
+  "lat": 46.0951285,
+  "lon": 7.0705292
+},
+{
+  "type": "node",
+  "id": 1009129407,
+  "lat": 46.0953047,
+  "lon": 7.0708155
+},
+{
+  "type": "node",
+  "id": 1009129419,
+  "lat": 46.0951288,
+  "lon": 7.0710406
+},
+{
+  "type": "node",
+  "id": 1009129428,
+  "lat": 46.0949526,
+  "lon": 7.0707543
+},
+{
+  "type": "node",
+  "id": 2272025105,
+  "lat": 46.0952281,
+  "lon": 7.0709133
+},
+{
+  "type": "node",
+  "id": 2219658666,
+  "lat": 46.0950082,
+  "lon": 7.0738686
+},
+{
+  "type": "node",
+  "id": 2219658669,
+  "lat": 46.0950439,
+  "lon": 7.0740261
+},
+{
+  "type": "node",
+  "id": 2219658672,
+  "lat": 46.0950789,
+  "lon": 7.0739797
+},
+{
+  "type": "node",
+  "id": 2219658674,
+  "lat": 46.0951137,
+  "lon": 7.0737290
+},
+{
+  "type": "node",
+  "id": 2219658676,
+  "lat": 46.0953197,
+  "lon": 7.0744594
+},
+{
+  "type": "node",
+  "id": 2219658678,
+  "lat": 46.0954602,
+  "lon": 7.0742733
+},
+{
+  "type": "node",
+  "id": 4800446858,
+  "lat": 46.0953065,
+  "lon": 7.0740318
+},
+{
+  "type": "node",
+  "id": 2267393239,
+  "lat": 46.1023134,
+  "lon": 7.0722082
+},
+{
+  "type": "node",
+  "id": 2267393253,
+  "lat": 46.1023933,
+  "lon": 7.0719876
+},
+{
+  "type": "node",
+  "id": 2267393260,
+  "lat": 46.1024519,
+  "lon": 7.0723127
+},
+{
+  "type": "node",
+  "id": 2267393263,
+  "lat": 46.1025319,
+  "lon": 7.0720921
+},
+{
+  "type": "node",
+  "id": 1596449288,
+  "lat": 45.8038083,
+  "lon": 7.2799471
+},
+{
+  "type": "node",
+  "id": 1596449302,
+  "lat": 45.8038313,
+  "lon": 7.2797890
+},
+{
+  "type": "node",
+  "id": 1596449318,
+  "lat": 45.8038853,
+  "lon": 7.2798051
+},
+{
+  "type": "node",
+  "id": 1596449338,
+  "lat": 45.8039210,
+  "lon": 7.2799808
+},
+{
+  "type": "node",
+  "id": 1596449355,
+  "lat": 45.8039440,
+  "lon": 7.2798226
+},
+{
+  "type": "node",
+  "id": 1016179692,
+  "lat": 45.8691110,
+  "lon": 7.1708190
+},
+{
+  "type": "node",
+  "id": 1016179757,
+  "lat": 45.8692811,
+  "lon": 7.1708667
+},
+{
+  "type": "node",
+  "id": 1016179942,
+  "lat": 45.8691538,
+  "lon": 7.1706719
+},
+{
+  "type": "node",
+  "id": 1016180015,
+  "lat": 45.8692028,
+  "lon": 7.1709598
+},
+{
+  "type": "node",
+  "id": 6917108802,
+  "lat": 46.2192669,
+  "lon": 7.0034484
+},
+{
+  "type": "node",
+  "id": 6917108807,
+  "lat": 46.2192504,
+  "lon": 7.0033654
+},
+{
+  "type": "node",
+  "id": 6917074469,
+  "lat": 46.2194913,
+  "lon": 7.0032652
+},
+{
+  "type": "node",
+  "id": 6917108794,
+  "lat": 46.2195078,
+  "lon": 7.0033483
+}
+
+  ]
+}

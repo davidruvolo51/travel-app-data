@@ -1,0 +1,1112 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-14T11:09:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 292421625,
+  "lat": 50.3559528,
+  "lon": 12.4678650,
+  "tags": {
+    "addr:city": "Klingenthal",
+    "addr:country": "DE",
+    "addr:housenumber": "3",
+    "addr:postcode": "08248",
+    "addr:street": "Schloßstraße",
+    "toilets:wheelchair": "no",
+    "tourism": "museum",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 924010057,
+  "lat": 49.9770009,
+  "lon": 12.7084873,
+  "tags": {
+    "name": "Městské muzeum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1170885711,
+  "lat": 50.4643886,
+  "lon": 12.8107681,
+  "tags": {
+    "man_made": "watermill",
+    "name": "Papiermühle Weigel",
+    "tourism": "museum",
+    "website": "http://www.muehlen-dgm-ev.de/pages/Detailed/961.php"
+  }
+},
+{
+  "type": "node",
+  "id": 1312707907,
+  "lat": 50.4389295,
+  "lon": 13.0512186,
+  "tags": {
+    "opening_hours": "Sa-Su 14:00-18:00",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1491964489,
+  "lat": 50.1872780,
+  "lon": 12.5658655,
+  "tags": {
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1558937744,
+  "lat": 50.3248907,
+  "lon": 12.7334241,
+  "tags": {
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1643007435,
+  "lat": 50.4800782,
+  "lon": 12.9736611,
+  "tags": {
+    "addr:city": "Sehmatal",
+    "addr:housenumber": "164",
+    "addr:postcode": "09465",
+    "addr:street": "Karlsbader Straße",
+    "contact:email": "info@suppenmuseum-neudorf.de",
+    "contact:fax": "+49 37342 16048",
+    "contact:phone": "+49 37342 16045",
+    "contact:website": "http://www.suppenmuseum-neudorf.de/",
+    "name": "Suppenmuseum",
+    "opening_hours": "Mo-Sa 10:30-15:30; Su,PH 11:00-15:00",
+    "operator": "Heimatverein \"Am Fichtelberg“ e.V.",
+    "tourism": "museum",
+    "wheelchair": "no",
+    "wikidata": "Q2368156",
+    "wikipedia": "de:Suppenmuseum"
+  }
+},
+{
+  "type": "node",
+  "id": 1678714750,
+  "lat": 50.3758500,
+  "lon": 12.4663256,
+  "tags": {
+    "addr:city": "Klingenthal",
+    "addr:country": "DE",
+    "addr:housenumber": "31",
+    "addr:postcode": "08248",
+    "addr:street": "Falkensteiner Straße",
+    "name": "Schaumanufaktur Akkordeonbau",
+    "phone": "+49 37467 22407",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 2448371660,
+  "lat": 50.4738047,
+  "lon": 12.8044694,
+  "tags": {
+    "name": "Eisenbahnmuseum Rittersgrün",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 2536711897,
+  "lat": 50.2249949,
+  "lon": 12.8795773,
+  "tags": {
+    "addr:city": "Karlovy Vary",
+    "addr:conscriptionnumber": "4",
+    "addr:country": "CZ",
+    "addr:housenumber": "4",
+    "addr:place": "Karlovy Vary",
+    "addr:postcode": "36001",
+    "addr:street": "Zámecký vrch",
+    "is_in": "Karlovy Vary, Karlovarský kraj, CZ",
+    "name:de": "St. Lucas Museum",
+    "opening_hours": "Mo-Su 14:00-19:00",
+    "ref:ruian": "20730667",
+    "ref:ruian:addr": "20730667",
+    "source:addr": "cuzk:ruian",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 2949115035,
+  "lat": 49.9748596,
+  "lon": 13.1646038,
+  "tags": {
+    "name": "Regionální muzeum Nečtiny",
+    "tourism": "museum",
+    "website": "http://www.nectiny.cz/regionalni-muzeum-nectiny/"
+  }
+},
+{
+  "type": "node",
+  "id": 3385901380,
+  "lat": 50.3713936,
+  "lon": 12.9131634,
+  "tags": {
+    "addr:city": "Jáchymov",
+    "addr:conscriptionnumber": "37",
+    "addr:country": "CZ",
+    "addr:housenumber": "37",
+    "addr:postcode": "36251",
+    "addr:street": "náměstí Republiky",
+    "name": "Královská mincovna",
+    "name:de": "Königliche Münze",
+    "name:en": "Royal mint",
+    "opening_hours": "Feb-Apr: We-Su 09:00-12:00, 13:00-17:00; May-Sep: Tu-Su 09:00-17:00; Oct-Dec: We-Su 09:00-12:00, 13:00-17:00",
+    "operator": "Muzeum Karlovy Vary",
+    "phone": "+420 736754831",
+    "tourism": "museum",
+    "website": "http://kvmuz.cz/muz/muzeum-kralovska-mincovna-jachymov",
+    "wikipedia": "cs:Královská mincovna v Jáchymově"
+  }
+},
+{
+  "type": "node",
+  "id": 3573327313,
+  "lat": 50.5161366,
+  "lon": 12.9911357,
+  "tags": {
+    "addr:city": "Sehmatal",
+    "addr:housenumber": "44",
+    "addr:postcode": "09465",
+    "addr:street": "Dorfstraße",
+    "addr:suburb": "Cranzahl",
+    "dogs": "no",
+    "name": "1. Räuchermann Museum",
+    "opening_hours": "Mar-Aug Mo-Sa 10:00-16:00; Mar-Aug Su,PH 13:30-16:00; Sep-Feb Mo-Sa 10:00-17:00; Sep-Feb Su,PH 13:30-17:00; ",
+    "tourism": "museum",
+    "website": "https://www.raachermannlmuseum.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 3773151140,
+  "lat": 50.1074554,
+  "lon": 12.6985597,
+  "tags": {
+    "fixme": "correct location",
+    "name": "důl Jeroným",
+    "tourism": "museum",
+    "website": "http://www.omks.cz/cz/vypis.php?typ=sekce&id=31"
+  }
+},
+{
+  "type": "node",
+  "id": 3838681559,
+  "lat": 50.3845524,
+  "lon": 13.1719561,
+  "tags": {
+    "name": "Muzeum hodin",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4004490315,
+  "lat": 50.3185254,
+  "lon": 12.5173799,
+  "tags": {
+    "name": "Muzeum venkova",
+    "tourism": "museum",
+    "website": "https://jatkakraslice.com"
+  }
+},
+{
+  "type": "node",
+  "id": 4430828890,
+  "lat": 50.4192322,
+  "lon": 12.9690787,
+  "tags": {
+    "name": "Wiesenthaler K3",
+    "opening_hours": "PH,Mo-Su 09:30-17:00",
+    "phone": "+49 37348 1550 50",
+    "toilets:wheelchair": "yes",
+    "tourism": "museum",
+    "wheelchair": "yes",
+    "wikidata": "Q28498776"
+  }
+},
+{
+  "type": "node",
+  "id": 4524195091,
+  "lat": 50.2114966,
+  "lon": 12.8247421,
+  "tags": {
+    "name:ru": "Рождественский дом",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4691853947,
+  "lat": 50.2303682,
+  "lon": 12.8669272,
+  "tags": {
+    "name": "Jan Becher",
+    "name:ru": "Музей Бехеровка",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 5000034272,
+  "lat": 50.4329735,
+  "lon": 12.8713939,
+  "tags": {
+    "email": "info@stolajohannes.cz",
+    "name": "Štola Johannes",
+    "name:de": "Johannes-Stolln",
+    "phone": "+420603539020",
+    "tourism": "museum",
+    "website": "http://www.stolajohannes.cz/",
+    "wikipedia": "cs:Přírodní park Zlatý kopec"
+  }
+},
+{
+  "type": "node",
+  "id": 5003512730,
+  "lat": 50.0262562,
+  "lon": 12.6674850,
+  "tags": {
+    "name": "Muzeum Kladská",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 5031128787,
+  "lat": 50.1393586,
+  "lon": 12.8083493,
+  "tags": {
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 5034723561,
+  "lat": 50.0480224,
+  "lon": 12.7303377,
+  "tags": {
+    "description": "Malé muzeum v obci Prameny ve Slavkovském lese, která v 50. letech minulého století téměř zanikla, mapuje bohatou a unikátní historii tohoto místa a zároveň se snaží předvést současné Prameny a zajímavosti v okolí, které stojí za návštěvu.",
+    "name": "Muzeum Prameny",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 5252334047,
+  "lat": 50.3710872,
+  "lon": 12.9106436,
+  "tags": {
+    "email": "jachymov@muzeum-sokolov.cz",
+    "name": "Štola č. 1",
+    "name:de": "Stolln Nr. 1",
+    "opening_hours": "May-Oct: 10:00-17:00",
+    "operator": "Muzeum Sokolov",
+    "phone": "+420601289121",
+    "tourism": "museum",
+    "website": "http://www.omks.cz/cz/vypis.php?typ=sekce&id=28",
+    "wikipedia": "cs:Štola č. 1 (Jáchymov)"
+  }
+},
+{
+  "type": "node",
+  "id": 5268857349,
+  "lat": 50.3871001,
+  "lon": 12.8310552,
+  "tags": {
+    "email": "infomauritius@seznam.cz",
+    "name": "Důl Mauritius",
+    "name:de": "Besucherbergwerk Mauritius",
+    "phone": "+420608205940",
+    "tourism": "museum",
+    "website": "http://www.dulmauritius.cz/",
+    "wikipedia": "cs:Důl Mauritius"
+  }
+},
+{
+  "type": "node",
+  "id": 6742711219,
+  "lat": 50.3788102,
+  "lon": 13.2583736,
+  "tags": {
+    "name": "Městské muzeum",
+    "tourism": "museum",
+    "wikipedia": "cs:Městské muzeum Kadaň"
+  }
+},
+{
+  "type": "node",
+  "id": 6743997078,
+  "lat": 50.3842246,
+  "lon": 13.1734304,
+  "tags": {
+    "name": "Muzeum porcelánu",
+    "tourism": "museum",
+    "wikidata": "Q13434666",
+    "wikipedia": "cs:Muzeum porcelánu v Klášterci nad Ohří"
+  }
+},
+{
+  "type": "node",
+  "id": 6749917166,
+  "lat": 50.0841646,
+  "lon": 12.8391673,
+  "tags": {
+    "name": "Muzeum historické motorcykly",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6778251818,
+  "lat": 50.3309593,
+  "lon": 12.5027204,
+  "tags": {
+    "name": "Muzeum Kraslické dráhy",
+    "tourism": "museum",
+    "website": "http://www.mkd.websnadno.cz"
+  }
+},
+{
+  "type": "way",
+  "id": 62200921,
+  "nodes": [
+    775881966,
+    775881857,
+    775881822,
+    4734340506,
+    775881706,
+    775881769,
+    775881722,
+    4734340505,
+    296620772,
+    775881728,
+    775881890,
+    775881731,
+    775881894,
+    775881966
+  ],
+  "tags": {
+    "addr:city": "Karlovy Vary",
+    "addr:conscriptionnumber": "578",
+    "addr:country": "CZ",
+    "addr:housenumber": "578/23",
+    "addr:postcode": "36001",
+    "addr:street": "Nová louka",
+    "addr:streetnumber": "23",
+    "building": "yes",
+    "building:flats": "1",
+    "building:levels": "3",
+    "building:ruian:type": "20",
+    "is_in": "Karlovy Vary, Karlovarský kraj, CZ",
+    "name": "Muzeum Karlovy Vary",
+    "ref:ruian": "20734662",
+    "ref:ruian:building": "20497792",
+    "source": "cuzk:ruian",
+    "source:addr": "ruian",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 86210614,
+  "nodes": [
+    1000757906,
+    1000757910,
+    1000757916,
+    1000757911,
+    1000757906
+  ],
+  "tags": {
+    "building": "residential",
+    "building:ruian:type": "3",
+    "name": "SOOS",
+    "ref:ruian:building": "30330955",
+    "source": "cuzk:ruian",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 86210615,
+  "nodes": [
+    3384194196,
+    3384194209,
+    1000757909,
+    1000757915,
+    1000757908,
+    1000757914,
+    3384194196
+  ],
+  "tags": {
+    "building": "yes",
+    "building:ruian:type": "19",
+    "name": "SOOS",
+    "ref:ruian:building": "41512669",
+    "source": "cuzk:ruian",
+    "toilets": "yes",
+    "tourism": "museum",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 89796571,
+  "nodes": [
+    1040782196,
+    1040782227,
+    1040782223,
+    1040782236,
+    1040782196
+  ],
+  "tags": {
+    "addr:city": "Crottendorf",
+    "addr:country": "DE",
+    "addr:housenumber": "59C",
+    "addr:postcode": "09474",
+    "addr:street": "Rathenaustraße",
+    "building": "yes",
+    "contact:fax": "+49 37344 13616",
+    "contact:phone": "+49 37344 8333",
+    "contact:website": "https://grenzwald.de/crottendorfer-schnaps-museum/",
+    "name": "Grenzwald-Destillation Museum",
+    "opening_hours": "Mo-Fr 10:00-17:00; Sa 09:00-12:00; Su,PH off",
+    "operator": "Grenzwald Destillation Otto Ficker GmbH",
+    "source": "Bing",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 122997071,
+  "nodes": [
+    1372805227,
+    1372805170,
+    1372805247,
+    1372805220,
+    1372805243,
+    4676768555,
+    1372805297,
+    1372805347,
+    1372805227
+  ],
+  "tags": {
+    "building": "yes",
+    "building:flats": "2",
+    "building:levels": "1",
+    "building:ruian:type": "19",
+    "name": "Muzeum Horní Blatná",
+    "opening_hours": "We-Fr 13:00-16:00; Sa,Su 10:00-16:00",
+    "ref:ruian:building": "11846046",
+    "source": "cuzk:ruian",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 190917229,
+  "nodes": [
+    2015130899,
+    2101228432,
+    2101228433,
+    2015130901,
+    2101228434,
+    2101228436,
+    2015130900,
+    2015130895,
+    2015130899
+  ],
+  "tags": {
+    "addr:housenumber": "4",
+    "addr:street": "Kirchstraße",
+    "building": "train_station",
+    "historic": "memorial",
+    "name": "Eisenbahnmuseum Rittersgrün",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 228646268,
+  "nodes": [
+    2373044314,
+    2373044315,
+    4017826127,
+    2373044317,
+    2373044316,
+    2373044314
+  ],
+  "tags": {
+    "addr:housenumber": "17",
+    "addr:street": "Jägerhäuser Straße",
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "german",
+    "name": "Technisches Museum Silberwäsche",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 245249073,
+  "nodes": [
+    2524775871,
+    2524775831,
+    2524775812,
+    2524775853,
+    2524775871
+  ],
+  "tags": {
+    "building": "industrial",
+    "building:ruian:type": "1",
+    "name": "Museum Moser",
+    "operator": "Moser",
+    "ref:ruian:building": "20445423",
+    "source": "cuzk:ruian",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 515081328,
+  "nodes": [
+    5031096084,
+    5031096087,
+    5031096081,
+    5031096082,
+    6595608256,
+    6595608255,
+    6595608254,
+    6595608253,
+    5031096083,
+    5031096084
+  ],
+  "tags": {
+    "building": "civic",
+    "building:levels": "1",
+    "building:ruian:type": "15",
+    "name": "Hornické muzeum Krásno",
+    "ref:ruian:building": "2569281",
+    "source": "cuzk:ruian",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 760509472,
+  "nodes": [
+    7104573354,
+    7104573353,
+    7104573352,
+    7104573351,
+    7104573350,
+    7104573349,
+    7104573348,
+    7104573347,
+    7104573355,
+    7104573346,
+    7104573345,
+    7104573344,
+    7104573343,
+    7104573342,
+    7104573341,
+    7104573340,
+    7104573354
+  ],
+  "tags": {
+    "addr:city": "Crottendorf",
+    "addr:housenumber": "1",
+    "addr:postcode": "09474",
+    "addr:street": "Am Gewerbegebiet",
+    "building": "yes",
+    "description": "Das Museum befindet sich innerhalb einer 15m hohen Räucherkerze",
+    "name": "Räucherkerzen-Museum",
+    "opening_hours": "Mo-Su,PH 09:00-18:00; Tu off",
+    "operator": "Crottendorfer Räucherkerzen GmbH",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1000757906,
+  "lat": 50.1460576,
+  "lon": 12.4017597
+},
+{
+  "type": "node",
+  "id": 1000757908,
+  "lat": 50.1458711,
+  "lon": 12.4020795
+},
+{
+  "type": "node",
+  "id": 1000757909,
+  "lat": 50.1459745,
+  "lon": 12.4021498
+},
+{
+  "type": "node",
+  "id": 1000757910,
+  "lat": 50.1461486,
+  "lon": 12.4015617
+},
+{
+  "type": "node",
+  "id": 1000757911,
+  "lat": 50.1461388,
+  "lon": 12.4018466
+},
+{
+  "type": "node",
+  "id": 1000757914,
+  "lat": 50.1458694,
+  "lon": 12.4019986
+},
+{
+  "type": "node",
+  "id": 1000757915,
+  "lat": 50.1459221,
+  "lon": 12.4021533
+},
+{
+  "type": "node",
+  "id": 1000757916,
+  "lat": 50.1462250,
+  "lon": 12.4016496
+},
+{
+  "type": "node",
+  "id": 3384194196,
+  "lat": 50.1459028,
+  "lon": 12.4019423
+},
+{
+  "type": "node",
+  "id": 3384194209,
+  "lat": 50.1460131,
+  "lon": 12.4020851
+},
+{
+  "type": "node",
+  "id": 5031096081,
+  "lat": 50.1164463,
+  "lon": 12.7963889
+},
+{
+  "type": "node",
+  "id": 5031096082,
+  "lat": 50.1164091,
+  "lon": 12.7965719
+},
+{
+  "type": "node",
+  "id": 5031096083,
+  "lat": 50.1160926,
+  "lon": 12.7964162
+},
+{
+  "type": "node",
+  "id": 5031096084,
+  "lat": 50.1161291,
+  "lon": 12.7962342
+},
+{
+  "type": "node",
+  "id": 5031096087,
+  "lat": 50.1164188,
+  "lon": 12.7963747
+},
+{
+  "type": "node",
+  "id": 6595608253,
+  "lat": 50.1162067,
+  "lon": 12.7964695
+},
+{
+  "type": "node",
+  "id": 6595608254,
+  "lat": 50.1161970,
+  "lon": 12.7965147
+},
+{
+  "type": "node",
+  "id": 6595608255,
+  "lat": 50.1162260,
+  "lon": 12.7965290
+},
+{
+  "type": "node",
+  "id": 6595608256,
+  "lat": 50.1162351,
+  "lon": 12.7964847
+},
+{
+  "type": "node",
+  "id": 2524775812,
+  "lat": 50.2277357,
+  "lon": 12.8375636
+},
+{
+  "type": "node",
+  "id": 2524775831,
+  "lat": 50.2278016,
+  "lon": 12.8377384
+},
+{
+  "type": "node",
+  "id": 2524775853,
+  "lat": 50.2278916,
+  "lon": 12.8374187
+},
+{
+  "type": "node",
+  "id": 2524775871,
+  "lat": 50.2279564,
+  "lon": 12.8375990
+},
+{
+  "type": "node",
+  "id": 296620772,
+  "lat": 50.2202375,
+  "lon": 12.8798456
+},
+{
+  "type": "node",
+  "id": 775881706,
+  "lat": 50.2203437,
+  "lon": 12.8797287
+},
+{
+  "type": "node",
+  "id": 775881722,
+  "lat": 50.2204153,
+  "lon": 12.8798207
+},
+{
+  "type": "node",
+  "id": 775881728,
+  "lat": 50.2202172,
+  "lon": 12.8798738
+},
+{
+  "type": "node",
+  "id": 775881731,
+  "lat": 50.2201804,
+  "lon": 12.8797493
+},
+{
+  "type": "node",
+  "id": 775881769,
+  "lat": 50.2203551,
+  "lon": 12.8797128
+},
+{
+  "type": "node",
+  "id": 775881822,
+  "lat": 50.2202671,
+  "lon": 12.8795927
+},
+{
+  "type": "node",
+  "id": 775881857,
+  "lat": 50.2202781,
+  "lon": 12.8795775
+},
+{
+  "type": "node",
+  "id": 775881890,
+  "lat": 50.2201614,
+  "lon": 12.8797759
+},
+{
+  "type": "node",
+  "id": 775881894,
+  "lat": 50.2201105,
+  "lon": 12.8796301
+},
+{
+  "type": "node",
+  "id": 775881966,
+  "lat": 50.2202187,
+  "lon": 12.8794753
+},
+{
+  "type": "node",
+  "id": 4734340505,
+  "lat": 50.2202943,
+  "lon": 12.8799445
+},
+{
+  "type": "node",
+  "id": 4734340506,
+  "lat": 50.2203326,
+  "lon": 12.8797058
+},
+{
+  "type": "node",
+  "id": 1372805170,
+  "lat": 50.3913868,
+  "lon": 12.7700452
+},
+{
+  "type": "node",
+  "id": 1372805220,
+  "lat": 50.3914239,
+  "lon": 12.7699605
+},
+{
+  "type": "node",
+  "id": 1372805227,
+  "lat": 50.3914259,
+  "lon": 12.7702069
+},
+{
+  "type": "node",
+  "id": 1372805243,
+  "lat": 50.3914355,
+  "lon": 12.7699535
+},
+{
+  "type": "node",
+  "id": 1372805247,
+  "lat": 50.3914372,
+  "lon": 12.7700158
+},
+{
+  "type": "node",
+  "id": 1372805297,
+  "lat": 50.3915255,
+  "lon": 12.7698727
+},
+{
+  "type": "node",
+  "id": 1372805347,
+  "lat": 50.3915772,
+  "lon": 12.7701217
+},
+{
+  "type": "node",
+  "id": 4676768555,
+  "lat": 50.3914298,
+  "lon": 12.7699218
+},
+{
+  "type": "node",
+  "id": 2373044314,
+  "lat": 50.5046859,
+  "lon": 12.7560300
+},
+{
+  "type": "node",
+  "id": 2373044315,
+  "lat": 50.5047283,
+  "lon": 12.7562301
+},
+{
+  "type": "node",
+  "id": 2373044316,
+  "lat": 50.5048782,
+  "lon": 12.7559293
+},
+{
+  "type": "node",
+  "id": 2373044317,
+  "lat": 50.5049206,
+  "lon": 12.7561293
+},
+{
+  "type": "node",
+  "id": 4017826127,
+  "lat": 50.5048254,
+  "lon": 12.7561792
+},
+{
+  "type": "node",
+  "id": 2015130895,
+  "lat": 50.4742185,
+  "lon": 12.8030555
+},
+{
+  "type": "node",
+  "id": 2015130899,
+  "lat": 50.4741347,
+  "lon": 12.8029748
+},
+{
+  "type": "node",
+  "id": 2015130900,
+  "lat": 50.4740888,
+  "lon": 12.8033882
+},
+{
+  "type": "node",
+  "id": 2015130901,
+  "lat": 50.4739902,
+  "lon": 12.8033868
+},
+{
+  "type": "node",
+  "id": 2101228432,
+  "lat": 50.4740049,
+  "lon": 12.8033077
+},
+{
+  "type": "node",
+  "id": 2101228433,
+  "lat": 50.4740167,
+  "lon": 12.8033189
+},
+{
+  "type": "node",
+  "id": 2101228434,
+  "lat": 50.4740462,
+  "lon": 12.8034407
+},
+{
+  "type": "node",
+  "id": 2101228436,
+  "lat": 50.4740727,
+  "lon": 12.8033727
+},
+{
+  "type": "node",
+  "id": 7104573340,
+  "lat": 50.5053664,
+  "lon": 12.9300179
+},
+{
+  "type": "node",
+  "id": 7104573341,
+  "lat": 50.5053553,
+  "lon": 12.9299906
+},
+{
+  "type": "node",
+  "id": 7104573342,
+  "lat": 50.5053517,
+  "lon": 12.9299587
+},
+{
+  "type": "node",
+  "id": 7104573343,
+  "lat": 50.5053561,
+  "lon": 12.9299270
+},
+{
+  "type": "node",
+  "id": 7104573344,
+  "lat": 50.5053678,
+  "lon": 12.9299004
+},
+{
+  "type": "node",
+  "id": 7104573345,
+  "lat": 50.5053852,
+  "lon": 12.9298829
+},
+{
+  "type": "node",
+  "id": 7104573346,
+  "lat": 50.5054055,
+  "lon": 12.9298771
+},
+{
+  "type": "node",
+  "id": 7104573347,
+  "lat": 50.5054426,
+  "lon": 12.9299026
+},
+{
+  "type": "node",
+  "id": 7104573348,
+  "lat": 50.5054537,
+  "lon": 12.9299299
+},
+{
+  "type": "node",
+  "id": 7104573349,
+  "lat": 50.5054573,
+  "lon": 12.9299618
+},
+{
+  "type": "node",
+  "id": 7104573350,
+  "lat": 50.5054529,
+  "lon": 12.9299934
+},
+{
+  "type": "node",
+  "id": 7104573351,
+  "lat": 50.5054412,
+  "lon": 12.9300201
+},
+{
+  "type": "node",
+  "id": 7104573352,
+  "lat": 50.5054238,
+  "lon": 12.9300376
+},
+{
+  "type": "node",
+  "id": 7104573353,
+  "lat": 50.5054035,
+  "lon": 12.9300433
+},
+{
+  "type": "node",
+  "id": 7104573354,
+  "lat": 50.5053834,
+  "lon": 12.9300364
+},
+{
+  "type": "node",
+  "id": 7104573355,
+  "lat": 50.5054256,
+  "lon": 12.9298841
+},
+{
+  "type": "node",
+  "id": 1040782196,
+  "lat": 50.5081984,
+  "lon": 12.9353669
+},
+{
+  "type": "node",
+  "id": 1040782223,
+  "lat": 50.5080579,
+  "lon": 12.9354923
+},
+{
+  "type": "node",
+  "id": 1040782227,
+  "lat": 50.5082035,
+  "lon": 12.9354754
+},
+{
+  "type": "node",
+  "id": 1040782236,
+  "lat": 50.5080528,
+  "lon": 12.9353838
+}
+
+  ]
+}

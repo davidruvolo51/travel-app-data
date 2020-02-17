@@ -1,0 +1,2318 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-14T17:16:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 103128011,
+  "lat": 47.2686574,
+  "lon": 11.3932692,
+  "tags": {
+    "addr:city": "Innsbruck",
+    "addr:country": "AT",
+    "addr:housenumber": "15",
+    "addr:postcode": "6020",
+    "addr:street": "Herzog-Friedrich-Straße",
+    "contact:phone": "+43 512 5360 1441",
+    "contact:website": "http://www.innsbruck.gv.at/goldenesdachl",
+    "email": "goldenes.dachl@innsbruck.gv.at",
+    "int_name": "Golden Roof Museum",
+    "name": "Museum Goldenes Dachl",
+    "name:ar": "السطح الذهبي",
+    "name:de": "Museum Goldenes Dachl",
+    "name:en": "Golden Roof Museum",
+    "opening_hours": "May-Sep: Mo-Su 09:00-17:00; Oct-Apr: Tu-Su 09:00-17:00",
+    "toilets:wheelchair": "yes",
+    "tourism": "museum",
+    "website": "https://www.innsbruck.info/infrastruktur/detail/infrastruktur/museum-goldenes-dachl-innsbruck.html",
+    "wheelchair": "yes",
+    "wikidata": "Q700208",
+    "wikipedia": "de:Goldenes Dachl"
+  }
+},
+{
+  "type": "node",
+  "id": 299499722,
+  "lat": 47.4426300,
+  "lon": 11.2604958,
+  "tags": {
+    "contact:website": "http://www.geigenbaumuseum-mittenwald.de/",
+    "name": "Geigenbau-Museum",
+    "opening_hours:url": "http://www.geigenbaumuseum-mittenwald.de/index.php?id=76",
+    "tourism": "museum",
+    "wikidata": "Q29413558"
+  }
+},
+{
+  "type": "node",
+  "id": 312708485,
+  "lat": 47.2688635,
+  "lon": 11.3948986,
+  "tags": {
+    "addr:city": "Innsbruck",
+    "addr:country": "AT",
+    "addr:housenumber": "1",
+    "addr:postcode": "6020",
+    "addr:street": "Rennweg",
+    "contact:email": "hofburg.ibk@burghauptmannschaft.at",
+    "contact:phone": "+43 1536 49814111",
+    "contact:website": "http://www.hofburg-innsbruck.at/",
+    "name": "Hofburg",
+    "name:ru": "Хофбург",
+    "opening_hours": "Mo-Su 09:00-17:00",
+    "tourism": "museum",
+    "wheelchair": "yes",
+    "wikidata": "Q356289",
+    "wikipedia": "de:Hofburg (Innsbruck)"
+  }
+},
+{
+  "type": "node",
+  "id": 370371730,
+  "lat": 47.2533271,
+  "lon": 11.3979066,
+  "tags": {
+    "addr:city": "Innsbruck",
+    "addr:country": "AT",
+    "addr:housenumber": "4",
+    "addr:postcode": "6020",
+    "addr:street": "Pater-Reinisch-Weg",
+    "addr:suburb": "Wilten",
+    "contact:phone": "+43 664 11 16 001",
+    "museum": "railway",
+    "name": "Localbahnmuseum",
+    "opening_hours": "May-Oct Sa 09:00-17:00",
+    "tourism": "museum",
+    "website": "http://www.tmb.at",
+    "wheelchair": "no",
+    "wikidata": "Q2436269",
+    "wikipedia": "de:Tiroler Museumsbahnen"
+  }
+},
+{
+  "type": "node",
+  "id": 440637462,
+  "lat": 47.2518157,
+  "lon": 11.3273764,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Thurnfels",
+    "tourism": "museum",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 453022202,
+  "lat": 47.3716142,
+  "lon": 11.1431721,
+  "tags": {
+    "name": "Ganghofermuseum",
+    "tourism": "museum",
+    "wheelchair": "yes",
+    "wikidata": "Q1168645",
+    "wikipedia": "de:Ganghofermuseum"
+  }
+},
+{
+  "type": "node",
+  "id": 595350802,
+  "lat": 47.2661410,
+  "lon": 11.3913027,
+  "tags": {
+    "addr:city": "Innsbruck",
+    "addr:country": "AT",
+    "addr:housenumber": "8",
+    "addr:postcode": "6020",
+    "addr:street": "Adolf-Pichler-Platz",
+    "contact:email": "fotoforum@aon.at",
+    "contact:phone": "+43 512 664 18 75 808",
+    "contact:website": "http://www.fotoforumwest.at/",
+    "fee": "no",
+    "name": "Fotoforum West",
+    "opening_hours": "Tu-Fr 15:00-19:00; Sa 10:00-13:00",
+    "phone": "+43 660 5646550",
+    "source": "website",
+    "tourism": "museum",
+    "website": "http://www.fotoforum.cc",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 599186233,
+  "lat": 47.2562860,
+  "lon": 11.3981370,
+  "tags": {
+    "addr:city": "Innsbruck",
+    "addr:country": "AT",
+    "addr:housenumber": "53",
+    "addr:postcode": "6020",
+    "addr:street": "Leopoldstraße",
+    "addr:suburb": "Wilten",
+    "contact:email": "museum@grassmair.at",
+    "contact:phone": "+43 512 59416 37",
+    "contact:website": "http://www.grassmayr.at",
+    "name": "Glockengießerei Grassmayr",
+    "opening_hours": "Mo-Fr 10:00-16:00; May-Oct Sa 10:00-16:00; PH off",
+    "operator": "Grassmayr Glockengießerei GmbH",
+    "phone": "+43 512 59416",
+    "tourism": "museum",
+    "website": "https://www.grassmayr.at",
+    "wheelchair": "yes",
+    "wikidata": "Q1531870",
+    "wikipedia": "de:Glockengießerei Grassmayr (Innsbruck)"
+  }
+},
+{
+  "type": "node",
+  "id": 614236395,
+  "lat": 47.2691042,
+  "lon": 11.3927081,
+  "tags": {
+    "addr:city": "Innsbruck",
+    "addr:country": "AT",
+    "addr:housenumber": "2",
+    "addr:postcode": "6020",
+    "addr:street": "Badgasse",
+    "contact:email": "post.stadtarchiv@innsbruck.gv.at",
+    "contact:phone": "+43 512 5360 1400",
+    "name": "Stadtmuseum - Stadtarchiv",
+    "name:en": "Townmuseum - Stadtarchiv",
+    "opening_hours": "Su-Th 09:00-12:00, 13:00-17:00; Fr 09:00-13:00",
+    "phone": "+43 512 5360 1400",
+    "tourism": "museum",
+    "website": "https://www.innsbruck.gv.at/page.cfm?vpath=bildung--kultur/stadtarchiv",
+    "wheelchair:description": "Barrierefreier Zugang über Herzog-Friedrich-Straße 3"
+  }
+},
+{
+  "type": "node",
+  "id": 1379845692,
+  "lat": 47.2642885,
+  "lon": 11.4121496,
+  "tags": {
+    "name": "Modell-Straßenbahn Anlage",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1421012451,
+  "lat": 47.4417580,
+  "lon": 11.7023243,
+  "tags": {
+    "email": "tiroler@vitalberg.at",
+    "name": "Tiroler Steinöl Vitalberg",
+    "name:ru": "Музей Тирольского масла",
+    "opening_hours": "Mo-Su 09:00-17:00",
+    "operator": "Tiroler Steinöl Vitalberg GmbH",
+    "phone": "+43 (5243) 20186",
+    "tourism": "museum",
+    "website": "https://www.vitalberg.at",
+    "wheelchair": "yes",
+    "wheelchair:description": "Eine Behindertengerechte Toilette ist vorhanden"
+  }
+},
+{
+  "type": "node",
+  "id": 1449347882,
+  "lat": 47.3466929,
+  "lon": 11.7118755,
+  "tags": {
+    "name": "Museum Rabalderhaus Galerie",
+    "tourism": "museum",
+    "website": "https://rabalderhaus-schwaz.at/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1453428054,
+  "lat": 47.4481468,
+  "lon": 11.0442358,
+  "tags": {
+    "fee": "no",
+    "name": "Museum Höllentalklamm",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1604290323,
+  "lat": 47.2810992,
+  "lon": 11.5078192,
+  "tags": {
+    "addr:city": "Hall in Tirol",
+    "addr:country": "AT",
+    "addr:housenumber": "2",
+    "addr:postcode": "6060",
+    "addr:street": "Fürstengasse",
+    "name": "Bergbaumuseum",
+    "opening_hours": "Mo, Th, Sa 11:35-12:35",
+    "phone": "+435223455440",
+    "tourism": "museum",
+    "website": "https://www.hall-wattens.at/de/fuehrungen-bergbaumuseum.html",
+    "wheelchair": "no",
+    "wikidata": "Q37987650"
+  }
+},
+{
+  "type": "node",
+  "id": 1627685433,
+  "lat": 47.2736651,
+  "lon": 11.2418286,
+  "tags": {
+    "addr:city": "Zirl",
+    "addr:country": "AT",
+    "addr:housenumber": "2",
+    "addr:postcode": "6170",
+    "addr:street": "Dorfplatz",
+    "name": "Heimatmuseum",
+    "opening_hours": "Tu,We 09:00-12:00; Jan Sa,Su 14:00-17:00; PH off; Nov 2 off",
+    "tourism": "museum",
+    "wheelchair": "no",
+    "wikidata": "Q37817927"
+  }
+},
+{
+  "type": "node",
+  "id": 1675846853,
+  "lat": 47.3032542,
+  "lon": 11.0958196,
+  "tags": {
+    "name": "Dorfmuseum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1831883433,
+  "lat": 47.1534219,
+  "lon": 11.3478682,
+  "tags": {
+    "addr:city": "Fulpmes",
+    "addr:country": "AT",
+    "addr:housenumber": "11",
+    "addr:postcode": "6166",
+    "addr:street": "Bahnstraße",
+    "name": "Tiroler Krippenmuseum",
+    "phone": "+43 5225 62908",
+    "tourism": "museum",
+    "website": "http://www.krippenmuseum.at"
+  }
+},
+{
+  "type": "node",
+  "id": 1836565801,
+  "lat": 47.1277749,
+  "lon": 11.3344504,
+  "tags": {
+    "addr:city": "Neustift im Stubaital",
+    "addr:country": "AT",
+    "addr:housenumber": "5",
+    "addr:postcode": "6167",
+    "addr:street": "Stubaitalstraße",
+    "name": "Heimatmuseum „Forsterhaus“",
+    "tourism": "museum",
+    "website": "https://www.stubai.at/de/stubaital/sehenswuerdigkeiten/heimatmuseum"
+  }
+},
+{
+  "type": "node",
+  "id": 1996216679,
+  "lat": 47.2694391,
+  "lon": 11.4154964,
+  "tags": {
+    "addr:city": "Innsbruck",
+    "addr:country": "AT",
+    "addr:housenumber": "19a",
+    "addr:postcode": "6020",
+    "addr:street": "Kravoglstraße",
+    "addr:suburb": "Pradl",
+    "alt_name": "Radiomuseum Schuchter",
+    "contact:email": "radiomuseum@aon.at",
+    "contact:website": "http://www.radiomuseum.wg.vu",
+    "fee": "no",
+    "name": "Radiomuseum Innsbruck",
+    "opening_hours": "Mo 10:00-13:00; PH off",
+    "operator": "Verein Radiomuseum Innsbruck",
+    "phone": "+43 5252 2170",
+    "short_name": "Radiomuseum",
+    "tourism": "museum",
+    "url": "http://www.radiomuseum-innsbruck.at",
+    "website": "http://www.radiomuseum.wg.vu",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2303803708,
+  "lat": 47.3039313,
+  "lon": 11.6635527,
+  "tags": {
+    "addr:city": "Weerberg",
+    "addr:country": "AT",
+    "addr:housename": "Museum Rablhaus",
+    "addr:housenumber": "17",
+    "addr:postcode": "6133",
+    "addr:street": "Kirchgasse",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 2320463223,
+  "lat": 47.2356570,
+  "lon": 11.2990270,
+  "tags": {
+    "image": "File:RaetermuseumBirgitz 01.jpg",
+    "name": "Raetermuseum Hohe Birga",
+    "opening_hours": "May-Oct Fr 17:00-19:00; May-Oct Sa 15:00-18:00; May-Oct Su 16:00-18:00",
+    "operator": "Verein Archaeotop Hohe Birga",
+    "phone": "+43 5234 33233-25",
+    "subject:wikidata": "Q1545095",
+    "subject:wikipedia": "de:Hohe Birga",
+    "tourism": "museum",
+    "website": "http://www.hohe-birga.at/"
+  }
+},
+{
+  "type": "node",
+  "id": 2412072400,
+  "lat": 47.3549880,
+  "lon": 11.6962580,
+  "tags": {
+    "addr:city": "Vomp",
+    "addr:country": "AT",
+    "addr:housename": "Benediktinerabtei",
+    "addr:housenumber": "4",
+    "addr:postcode": "6134",
+    "addr:street": "Fiecht",
+    "denomination": "catholic",
+    "name": "Benediktinerabtei",
+    "note": "Gäste, Jakobuspilger mit Voranmeldung (ca. 1 Woche vorher)",
+    "operator": "Missions-Benediktiner St. Georgenberg-Fiecht",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 2433820396,
+  "lat": 47.3453640,
+  "lon": 11.8486483,
+  "tags": {
+    "name": "Heimatmuseum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 2613823278,
+  "lat": 47.4949667,
+  "lon": 11.0896333,
+  "tags": {
+    "name": "Michael Ende Museum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 2887325007,
+  "lat": 47.2606705,
+  "lon": 11.3875467,
+  "tags": {
+    "addr:city": "Innsbruck",
+    "addr:country": "AT",
+    "addr:housenumber": "15",
+    "addr:postcode": "6020",
+    "addr:street": "Müllerstraße",
+    "addr:suburb": "Wilten",
+    "contact:email": "romed.hoermann@i-med.ac.at",
+    "contact:website": "http://www.anatomie-innsbruck.at",
+    "name": "Anatomisches Museum",
+    "opening_hours": "Th 15:30-18:00; PH off",
+    "tourism": "museum",
+    "url": "http://www.anatomie-innsbruck.at/klinisch-funktionelle-anatomie/museum/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3221332425,
+  "lat": 47.2634691,
+  "lon": 11.3967841,
+  "tags": {
+    "addr:city": "Innsbruck",
+    "addr:country": "AT",
+    "addr:housenumber": "23",
+    "addr:postcode": "6020",
+    "addr:street": "Wilhelm-Greil-Straße",
+    "contact:email": "office@audioversum.at",
+    "contact:phone": "+43 57 78899",
+    "contact:website": "http://www.audioversum.at",
+    "fee": "yes",
+    "name": "Audioversum",
+    "opening_hours": "Tu-Fr 09:00-17:00; Sa-Su,PH 10:00-17:00; Mo off",
+    "operator": "MED-EL Elektromedizinische Geräte Gesellschaft m.b.H.",
+    "phone": "+43 57 78899",
+    "tourism": "museum",
+    "website": "http://www.audioversum.at",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3263012632,
+  "lat": 47.3466585,
+  "lon": 11.7119688,
+  "tags": {
+    "name": "Museum und Heimatschutzverein",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3263012633,
+  "lat": 47.3482499,
+  "lon": 11.7082441,
+  "tags": {
+    "name": "Feuerwehrmuseum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3263014541,
+  "lat": 47.3432430,
+  "lon": 11.7177240,
+  "tags": {
+    "name": "Museum der Stadt Schwaz",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3325770725,
+  "lat": 47.1549505,
+  "lon": 11.3484443,
+  "tags": {
+    "name": "Schmiedemuseum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3465052257,
+  "lat": 46.9950097,
+  "lon": 11.5014168,
+  "tags": {
+    "name": "Plessi Museum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4352453686,
+  "lat": 47.3938162,
+  "lon": 11.7720745,
+  "tags": {
+    "level": "1",
+    "name": "Whiskymuseum",
+    "opening_hours": "Fr 19:30-22:00",
+    "phone": "+43 676 5706162",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4726154415,
+  "lat": 47.2442669,
+  "lon": 11.2491153,
+  "tags": {
+    "addr:city": "Oberperfuss",
+    "addr:country": "AT",
+    "addr:housename": "Peter-Anich-Haus",
+    "addr:housenumber": "30",
+    "addr:postcode": "6173",
+    "addr:state": "AT",
+    "addr:street": "Riedl",
+    "contact:email": "oberperfuss@innsbruck.info",
+    "contact:phone": "+43 5232 81 489",
+    "contact:website": "http://www.innsbruck.info/perfuss",
+    "fee": "no",
+    "name": "Anich-Hueber-Museum",
+    "tourism": "museum",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4876652285,
+  "lat": 47.0880220,
+  "lon": 11.4601357,
+  "tags": {
+    "fee": "no",
+    "name": "BBT Tunnelwelten",
+    "opening_hours": "Tu-Su 10:00-17:00",
+    "operator": "Galleria di Base del Brennero – Brenner Basistunnel BBT SE",
+    "phone": "+43 512 4030 400",
+    "tourism": "museum",
+    "website": "https://www.tunnelwelten.com/de",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5062209606,
+  "lat": 47.4728752,
+  "lon": 11.4658998,
+  "tags": {
+    "name": "Naturparkhaus Hinterriß",
+    "opening_hours": "Mo-Su 09:00-17:00",
+    "operator": "Naturpark Karwendel",
+    "tourism": "museum",
+    "website": "https://www.karwendel.org/naturparkhaus/"
+  }
+},
+{
+  "type": "node",
+  "id": 5096113421,
+  "lat": 47.2870480,
+  "lon": 11.5158946,
+  "tags": {
+    "addr:city": "Hall in Tirol",
+    "addr:country": "AT",
+    "addr:housenumber": "1",
+    "addr:postcode": "6060",
+    "addr:street": "Krajncstraße",
+    "at_bev:addr_date": "2017-10-01",
+    "name": "Tiroler Landesmuseen Sammlungs- und Forschungszentrum",
+    "opening_hours": "off",
+    "start_date": "2017-09-08",
+    "tourism": "museum",
+    "website": "https://www.tiroler-landesmuseen.at/page.cfm?vpath=tiroler-landesmuseen/forschung"
+  }
+},
+{
+  "type": "node",
+  "id": 5471207154,
+  "lat": 47.2738789,
+  "lon": 11.4155976,
+  "tags": {
+    "addr:city": "Innsbruck",
+    "addr:country": "AT",
+    "addr:housenumber": "11",
+    "addr:postcode": "6020",
+    "addr:street": "Oswald-Redlich-Straße",
+    "addr:suburb": "Pradl",
+    "alt_name": "Radiomuseum Roggenhofer",
+    "fee": "no",
+    "level": "0",
+    "name": "Radiomuseum Radiowelt",
+    "phone": "+43 664 5638150",
+    "short_name": "Radiomuseum",
+    "start_date": "2005-10",
+    "tourism": "museum",
+    "was:operator": "Peter & Doris Roggenhofer",
+    "website": "http://www.radiomuseum-radiowelt.at/"
+  }
+},
+{
+  "type": "node",
+  "id": 6189552785,
+  "lat": 47.2698632,
+  "lon": 11.3495045,
+  "tags": {
+    "addr:country": "AT",
+    "addr:postcode": "6020",
+    "email": "office@galerie-decole.at",
+    "name": "Galerie D‘Ecole",
+    "operator": "Pablo Sascha / Isabella Christo",
+    "phone": "+43 650 2100939",
+    "tourism": "museum",
+    "website": "https://www.galerie-decole.at/"
+  }
+},
+{
+  "type": "node",
+  "id": 7086432785,
+  "lat": 47.2680616,
+  "lon": 11.3885304,
+  "tags": {
+    "email": "galerie@mathiasmayr.com",
+    "name": "Galerie Mathias Mayr",
+    "opening_hours": "Tu-Fr 10:00-12:00,15:00-18:00",
+    "phone": "+436507817100",
+    "tourism": "museum",
+    "website": "http://mathiasmayr.com"
+  }
+},
+{
+  "type": "way",
+  "id": 44221565,
+  "nodes": [
+    561668109,
+    1158082270,
+    561668141,
+    561668159,
+    1585587378,
+    561668184,
+    561668200,
+    561668221,
+    561668285,
+    1158082280,
+    1183951330,
+    561668308,
+    561668325,
+    1182523055,
+    1374645809,
+    561668342,
+    561668363,
+    1158082308,
+    1374645783,
+    561668465,
+    1374619233,
+    561668490,
+    561668511,
+    561668538,
+    561668558,
+    561668109
+  ],
+  "tags": {
+    "addr:city": "Innsbruck",
+    "addr:country": "AT",
+    "addr:housenumber": "20",
+    "addr:postcode": "6020",
+    "addr:street": "Schloßstraße",
+    "addr:suburb": "Amras",
+    "building": "yes",
+    "historic": "castle",
+    "source": "yahoo imagery;Bing",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 45656980,
+  "nodes": [
+    581871530,
+    4169027223,
+    4169027221,
+    4169027211,
+    581871530
+  ],
+  "tags": {
+    "addr:city": "Innsbruck",
+    "addr:country": "AT",
+    "addr:housenumber": "2",
+    "addr:postcode": "6020",
+    "addr:street": "Bergisel",
+    "addr:suburb": "Wilten",
+    "alt_name": "Bergiselmuseum",
+    "building": "yes",
+    "email": "dastirolpanorama@tiroler-landesmuseen.at",
+    "name": "Tirol Panorama",
+    "opening_hours": "We-Mo 09:00-17:00",
+    "phone": "+43 512 594 89 - 611",
+    "source": "GeoImage.at",
+    "tourism": "museum",
+    "website": "http://www.tiroler-landesmuseen.at/page.cfm?vpath=haeuser/das-tirol-panorama-mit-kjm-/haus",
+    "wikidata": "Q1170557",
+    "wikipedia": "de:Das Tirol Panorama"
+  }
+},
+{
+  "type": "way",
+  "id": 48453761,
+  "nodes": [
+    615566710,
+    615566726,
+    717967107,
+    615566741,
+    615566751,
+    615566710
+  ],
+  "tags": {
+    "addr:city": "Innsbruck",
+    "addr:country": "AT",
+    "addr:housenumber": "1",
+    "addr:postcode": "6020",
+    "addr:street": "Lois-Welzenbacher-Platz",
+    "addr:suburb": "Wilten",
+    "amenity": "arts_centre",
+    "building": "yes",
+    "contact:email": "office@aut.cc",
+    "contact:phone": "+43 512 57 15 67",
+    "contact:website": "http://www.aut.cc",
+    "fee": "no",
+    "name": "AUT",
+    "note": "Architekturmuseum",
+    "old_name": "Adambräu",
+    "opening_hours": "Tu-Fr 11:00-18:00; Th 11:00-21:00; Sa 11:00-17:00; JUL-SEP: Tu-Fr 11:00-18:00, Th 11:00-18:00, Sa 11:00-17:00; PH off",
+    "phone": "+43 512 571567",
+    "tourism": "museum",
+    "website": "https://aut.cc/service/besucherinfo",
+    "wheelchair": "yes",
+    "wikidata": "Q22671348"
+  }
+},
+{
+  "type": "way",
+  "id": 59113094,
+  "nodes": [
+    732659858,
+    732659854,
+    732659834,
+    2406476965,
+    724726275,
+    732659858
+  ],
+  "tags": {
+    "addr:city": "Garmisch-Partenkirchen",
+    "addr:housenumber": "47",
+    "addr:postcode": "82467",
+    "addr:street": "Ludwigstraße",
+    "building": "yes",
+    "ele": "712",
+    "name": "Werdenfels Museum",
+    "opening_hours": "Tu-Su 10:00-17:00, PH Mo off",
+    "subject": "history",
+    "tourism": "museum",
+    "website": "http://www.werdenfels-museum.de/",
+    "wikidata": "Q76627652"
+  }
+},
+{
+  "type": "way",
+  "id": 65198893,
+  "nodes": [
+    797461052,
+    797461065,
+    797461049,
+    797460998,
+    797461061,
+    797461005,
+    797461038,
+    797461071,
+    797461052
+  ],
+  "tags": {
+    "building": "yes",
+    "historic": "yes",
+    "name": "Bobschuppen (Bobmuseum)",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 81929977,
+  "nodes": [
+    954751711,
+    954751717,
+    1847008383,
+    954751719,
+    954751711
+  ],
+  "tags": {
+    "addr:city": "Jenbach",
+    "addr:country": "AT",
+    "addr:housenumber": "21",
+    "addr:postcode": "6200",
+    "addr:street": "Achenseestraße",
+    "building": "yes",
+    "name": "Jenbacher Museum",
+    "source": "Geoimage.at",
+    "tourism": "museum",
+    "website": "http://www.jenbachermuseum.at/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 95680613,
+  "nodes": [
+    1109279210,
+    1109279279,
+    1109279169,
+    1109279340,
+    1109279252,
+    1109279133,
+    1109279210
+  ],
+  "tags": {
+    "addr:city": "Achenkirch",
+    "addr:country": "AT",
+    "addr:housename": "Sixnhof",
+    "addr:housenumber": "29",
+    "addr:postcode": "6215",
+    "addr:street": "Achenkirch",
+    "building": "yes",
+    "date": "200111",
+    "name": "Sixenhof",
+    "opening_hours": "May 1-Oct 30: 13:00-17:00",
+    "phone": "+43 5246 6508",
+    "source": "Bing und survey",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 98627536,
+  "nodes": [
+    1141061442,
+    1141061445,
+    1141061448,
+    1141061438,
+    1141061451,
+    1141061467,
+    1141061469,
+    1141061473,
+    1141061442
+  ],
+  "tags": {
+    "addr:city": "Innsbruck",
+    "addr:country": "AT",
+    "addr:housenumber": "1",
+    "addr:postcode": "6020",
+    "addr:street": "Bergisel",
+    "addr:suburb": "Wilten",
+    "building": "yes",
+    "contact:email": "dastirolpanorama@tiroler-landesmuseen.at",
+    "contact:phone": "+43 512 594 89 - 611",
+    "contact:website": "http://www.tiroler-landesmuseen.at/page.cfm?vpath=haeuser/das-tirol-panorama-mit-kjm-/haus",
+    "name": "Tiroler Kaiserjägermuseum",
+    "opening_hours": "We-Mo 09:00-17:00",
+    "source": "Bing",
+    "tourism": "museum",
+    "wheelchair": "yes",
+    "wikidata": "Q2436218",
+    "wikipedia": "de:Tiroler Kaiserjägermuseum"
+  }
+},
+{
+  "type": "way",
+  "id": 103339636,
+  "nodes": [
+    359957612,
+    694104142,
+    1193444482,
+    1193444546,
+    1193444557,
+    1193444553,
+    1193444541,
+    1193444534,
+    359957618,
+    2506431371,
+    359957616,
+    759997800,
+    359957614,
+    359957612
+  ],
+  "tags": {
+    "addr:city": "Innsbruck",
+    "addr:country": "AT",
+    "addr:housenumber": "15",
+    "addr:postcode": "6020",
+    "addr:street": "Museumstraße",
+    "building": "yes",
+    "building:levels": "4",
+    "contact:email": "sekreteriat@tiroler-landesmuseum.at",
+    "contact:phone": "+43 512 594 89",
+    "name": "Landesmuseum Ferdinandeum",
+    "opening_hours": "Tu-Su 09:00-17:00",
+    "ref:isil": "AT-FERD",
+    "tourism": "museum",
+    "website": "http://www.tiroler-landesmuseum.at/ferdinandeum",
+    "wheelchair": "yes",
+    "wikidata": "Q2436253",
+    "wikipedia": "de:Tiroler Landesmuseum"
+  }
+},
+{
+  "type": "way",
+  "id": 114890537,
+  "nodes": [
+    1300231611,
+    1300231666,
+    1334631854,
+    1300231704,
+    1300231618,
+    1334631874,
+    1300231657,
+    1334631858,
+    1300231694,
+    1300231605,
+    1300231642,
+    1300231678,
+    1300231607,
+    1300231645,
+    1334631904,
+    1300231680,
+    1300231684,
+    1334631906,
+    1300231648,
+    1334631910,
+    1300231611
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Münzerturm",
+    "tourism": "museum",
+    "website": "http://www.muenze-hall.at/de/BESUCHEN/Muenzerturm"
+  }
+},
+{
+  "type": "way",
+  "id": 117883624,
+  "nodes": [
+    1326921980,
+    1326922120,
+    1326922046,
+    1326922217,
+    1326922386,
+    1326921987,
+    1326922008,
+    1326922511,
+    1326922081,
+    1326922154,
+    1326922448,
+    1326921980
+  ],
+  "tags": {
+    "addr:city": "Absam",
+    "addr:country": "AT",
+    "addr:housenumber": "31",
+    "addr:postcode": "6067",
+    "addr:street": "Walburga Schindl-Straße",
+    "building": "yes",
+    "tourism": "museum",
+    "url": "www.absammuseum.at"
+  }
+},
+{
+  "type": "way",
+  "id": 118720849,
+  "nodes": [
+    1334631834,
+    1334631833,
+    1300231611,
+    1334631910,
+    1300231648,
+    1334631906,
+    1334631891,
+    1300231632,
+    1300231661,
+    1334631834
+  ],
+  "tags": {
+    "addr:city": "Hall in Tirol",
+    "addr:country": "AT",
+    "addr:housenumber": "6",
+    "addr:postcode": "6060",
+    "addr:street": "Burg Hasegg",
+    "building": "yes",
+    "contact:email": "info@muenze-hall.at",
+    "contact:phone": "+43 5223 58 55 520",
+    "contact:website": "http://www.muenze-hall.at",
+    "fee": "yes",
+    "name": "Münze Hall",
+    "tourism": "museum",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 126041045,
+  "nodes": [
+    1398317775,
+    1398317795,
+    1398317772,
+    1398317769,
+    1398317775
+  ],
+  "tags": {
+    "addr:city": "Garmisch-Partenkirchen",
+    "addr:country": "DE",
+    "addr:housenumber": "44",
+    "addr:postcode": "82467",
+    "addr:street": "Loisachstraße",
+    "building": "yes",
+    "name": "Museum Aschenbrenner",
+    "opening_hours": "Tu-Su 12:00-17:00",
+    "phone": "+49 8821-7303105",
+    "tourism": "museum",
+    "website": "https://www.museum-aschenbrenner.de/",
+    "wheelchair": "no",
+    "wikidata": "Q76627648"
+  }
+},
+{
+  "type": "way",
+  "id": 185569875,
+  "nodes": [
+    1962237781,
+    1962237777,
+    1962237764,
+    1962237766,
+    1962237726,
+    1962237758,
+    1962237721,
+    1962237729,
+    1962237775,
+    1962237772,
+    1962237781
+  ],
+  "tags": {
+    "addr:city": "Telfs",
+    "addr:country": "AT",
+    "addr:housename": "Noaflhaus",
+    "addr:housenumber": "20",
+    "addr:postcode": "6410",
+    "addr:street": "Untermarktstraße",
+    "building": "yes",
+    "tourism": "museum",
+    "website": "https://www.telfs.at/kulturzentrum-noaflhaus.html"
+  }
+},
+{
+  "type": "way",
+  "id": 268746218,
+  "nodes": [
+    2740712460,
+    2740712463,
+    2740712466,
+    2740712469,
+    2740712460
+  ],
+  "tags": {
+    "addr:city": "Garmisch-Partenkirchen",
+    "addr:housenumber": "19",
+    "addr:postcode": "82467",
+    "addr:street": "Schnitzschulstraße",
+    "building": "yes",
+    "name": "Richard-Strauß-Institut",
+    "tourism": "museum",
+    "website": "www.richard-strauss-institut.de",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 319626765,
+  "nodes": [
+    3260633368,
+    3260633369,
+    3260633370,
+    3260633371,
+    3260633368
+  ],
+  "tags": {
+    "addr:city": "Schwaz",
+    "addr:country": "AT",
+    "addr:housenumber": "16",
+    "addr:postcode": "6130",
+    "addr:street": "St. Martin",
+    "building": "yes",
+    "name": "Museum der Völker",
+    "note": "Museum für Kunst und Ethnographie",
+    "tourism": "museum",
+    "website": "https://www.museumdervoelker.com/",
+    "wheelchair": "yes",
+    "wikidata": "Q18026218",
+    "wikipedia": "de:Museum der Völker"
+  }
+},
+{
+  "type": "way",
+  "id": 760938868,
+  "nodes": [
+    7109247160,
+    7109247161,
+    7109247162,
+    7109247163,
+    7109247164,
+    7109247165,
+    7109247166,
+    7109247160
+  ],
+  "tags": {
+    "addr:city": "Scharnitz",
+    "addr:housenumber": "555a",
+    "addr:postcode": "6108",
+    "addr:street": "Hinterautalstraße",
+    "building": "yes",
+    "email": "info@karwendel.org",
+    "internet_access": "wlan",
+    "name": "Museum Holzerhütte",
+    "name:en": "The wood's way",
+    "operator": "Alpenpark Karwendel",
+    "operator:type": "public",
+    "tourism": "museum",
+    "website": "https://www.karwendel.org/wege-des-holzes/"
+  }
+},
+{
+  "type": "relation",
+  "id": 396334,
+  "members": [
+    {
+      "type": "way",
+      "ref": 46108780,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 48992012,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Zeughaus",
+    "opening_hours": "Tu-Su 09:00-17:00",
+    "tourism": "museum",
+    "type": "multipolygon",
+    "website": "http://www.tiroler-landesmuseen.at/",
+    "wikidata": "Q196954",
+    "wikipedia": "de:Zeughaus (Innsbruck)"
+  }
+},
+{
+  "type": "relation",
+  "id": 1406316,
+  "members": [
+    {
+      "type": "way",
+      "ref": 32063145,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 60369246,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "addr:city": "Innsbruck",
+    "addr:country": "AT",
+    "addr:housenumber": "2",
+    "addr:postcode": "6020",
+    "addr:street": "Universitätsstraße",
+    "building": "yes",
+    "name": "Volkskunstmuseum",
+    "name:ru": "Музей тирольского народного творчества",
+    "opening_hours": "Mo-Su 09:00-17:00",
+    "roof:colour": "grey",
+    "roof:shape": "gabled",
+    "tourism": "museum",
+    "type": "multipolygon",
+    "website": "http://www.tiroler-landesmuseen.at/page.cfm?vpath=haeuser/volkskunstmuseum/haus",
+    "wikidata": "Q874539",
+    "wikipedia": "de:Tiroler Volkskunstmuseum"
+  }
+},
+{
+  "type": "node",
+  "id": 1962237721,
+  "lat": 47.3064825,
+  "lon": 11.0737172
+},
+{
+  "type": "node",
+  "id": 1962237726,
+  "lat": 47.3065033,
+  "lon": 11.0736065
+},
+{
+  "type": "node",
+  "id": 1962237729,
+  "lat": 47.3065033,
+  "lon": 11.0738081
+},
+{
+  "type": "node",
+  "id": 1962237758,
+  "lat": 47.3065191,
+  "lon": 11.0736754
+},
+{
+  "type": "node",
+  "id": 1962237764,
+  "lat": 47.3065300,
+  "lon": 11.0735524
+},
+{
+  "type": "node",
+  "id": 1962237766,
+  "lat": 47.3065358,
+  "lon": 11.0735856
+},
+{
+  "type": "node",
+  "id": 1962237772,
+  "lat": 47.3066167,
+  "lon": 11.0736016
+},
+{
+  "type": "node",
+  "id": 1962237775,
+  "lat": 47.3066439,
+  "lon": 11.0737355
+},
+{
+  "type": "node",
+  "id": 1962237777,
+  "lat": 47.3066442,
+  "lon": 11.0735045
+},
+{
+  "type": "node",
+  "id": 1962237781,
+  "lat": 47.3066591,
+  "lon": 11.0735813
+},
+{
+  "type": "node",
+  "id": 7109247160,
+  "lat": 47.3859969,
+  "lon": 11.2674525
+},
+{
+  "type": "node",
+  "id": 7109247161,
+  "lat": 47.3859679,
+  "lon": 11.2675044
+},
+{
+  "type": "node",
+  "id": 7109247162,
+  "lat": 47.3859248,
+  "lon": 11.2674460
+},
+{
+  "type": "node",
+  "id": 7109247163,
+  "lat": 47.3859679,
+  "lon": 11.2673539
+},
+{
+  "type": "node",
+  "id": 7109247164,
+  "lat": 47.3859942,
+  "lon": 11.2673046
+},
+{
+  "type": "node",
+  "id": 7109247165,
+  "lat": 47.3860575,
+  "lon": 11.2673929
+},
+{
+  "type": "node",
+  "id": 7109247166,
+  "lat": 47.3860180,
+  "lon": 11.2674798
+},
+{
+  "type": "node",
+  "id": 581871530,
+  "lat": 47.2507113,
+  "lon": 11.4012117
+},
+{
+  "type": "node",
+  "id": 1141061438,
+  "lat": 47.2511884,
+  "lon": 11.4010022
+},
+{
+  "type": "node",
+  "id": 1141061442,
+  "lat": 47.2511260,
+  "lon": 11.4012575
+},
+{
+  "type": "node",
+  "id": 1141061445,
+  "lat": 47.2511095,
+  "lon": 11.4011702
+},
+{
+  "type": "node",
+  "id": 1141061448,
+  "lat": 47.2512122,
+  "lon": 11.4011281
+},
+{
+  "type": "node",
+  "id": 1141061451,
+  "lat": 47.2510991,
+  "lon": 11.4010388
+},
+{
+  "type": "node",
+  "id": 1141061467,
+  "lat": 47.2510819,
+  "lon": 11.4009475
+},
+{
+  "type": "node",
+  "id": 1141061469,
+  "lat": 47.2509580,
+  "lon": 11.4009982
+},
+{
+  "type": "node",
+  "id": 1141061473,
+  "lat": 47.2510156,
+  "lon": 11.4013028
+},
+{
+  "type": "node",
+  "id": 4169027211,
+  "lat": 47.2501573,
+  "lon": 11.4014149
+},
+{
+  "type": "node",
+  "id": 4169027221,
+  "lat": 47.2502437,
+  "lon": 11.4019260
+},
+{
+  "type": "node",
+  "id": 4169027223,
+  "lat": 47.2507976,
+  "lon": 11.4017228
+},
+{
+  "type": "node",
+  "id": 615566710,
+  "lat": 47.2611268,
+  "lon": 11.3992966
+},
+{
+  "type": "node",
+  "id": 615566726,
+  "lat": 47.2611500,
+  "lon": 11.3994541
+},
+{
+  "type": "node",
+  "id": 615566741,
+  "lat": 47.2609706,
+  "lon": 11.3995195
+},
+{
+  "type": "node",
+  "id": 615566751,
+  "lat": 47.2609466,
+  "lon": 11.3993495
+},
+{
+  "type": "node",
+  "id": 717967107,
+  "lat": 47.2611507,
+  "lon": 11.3994696
+},
+{
+  "type": "node",
+  "id": 359957612,
+  "lat": 47.2675408,
+  "lon": 11.3974099
+},
+{
+  "type": "node",
+  "id": 359957614,
+  "lat": 47.2672066,
+  "lon": 11.3973115
+},
+{
+  "type": "node",
+  "id": 359957616,
+  "lat": 47.2671054,
+  "lon": 11.3980581
+},
+{
+  "type": "node",
+  "id": 359957618,
+  "lat": 47.2674312,
+  "lon": 11.3981541
+},
+{
+  "type": "node",
+  "id": 694104142,
+  "lat": 47.2675219,
+  "lon": 11.3975493
+},
+{
+  "type": "node",
+  "id": 759997800,
+  "lat": 47.2671560,
+  "lon": 11.3976848
+},
+{
+  "type": "node",
+  "id": 1193444482,
+  "lat": 47.2675089,
+  "lon": 11.3976451
+},
+{
+  "type": "node",
+  "id": 1193444534,
+  "lat": 47.2674605,
+  "lon": 11.3979378
+},
+{
+  "type": "node",
+  "id": 1193444541,
+  "lat": 47.2674944,
+  "lon": 11.3979478
+},
+{
+  "type": "node",
+  "id": 1193444546,
+  "lat": 47.2675345,
+  "lon": 11.3976526
+},
+{
+  "type": "node",
+  "id": 1193444553,
+  "lat": 47.2674966,
+  "lon": 11.3979318
+},
+{
+  "type": "node",
+  "id": 1193444557,
+  "lat": 47.2675163,
+  "lon": 11.3977864
+},
+{
+  "type": "node",
+  "id": 2506431371,
+  "lat": 47.2672042,
+  "lon": 11.3980872
+},
+{
+  "type": "node",
+  "id": 359957621,
+  "lat": 47.2684882,
+  "lon": 11.3954172
+},
+{
+  "type": "node",
+  "id": 359957623,
+  "lat": 47.2679814,
+  "lon": 11.3954398
+},
+{
+  "type": "node",
+  "id": 359957625,
+  "lat": 47.2679662,
+  "lon": 11.3959403
+},
+{
+  "type": "node",
+  "id": 359957627,
+  "lat": 47.2685915,
+  "lon": 11.3960140
+},
+{
+  "type": "node",
+  "id": 614352590,
+  "lat": 47.2684580,
+  "lon": 11.3954175
+},
+{
+  "type": "node",
+  "id": 751742948,
+  "lat": 47.2681764,
+  "lon": 11.3955041
+},
+{
+  "type": "node",
+  "id": 751742952,
+  "lat": 47.2683455,
+  "lon": 11.3955229
+},
+{
+  "type": "node",
+  "id": 751742963,
+  "lat": 47.2683345,
+  "lon": 11.3957394
+},
+{
+  "type": "node",
+  "id": 751742976,
+  "lat": 47.2681653,
+  "lon": 11.3957207
+},
+{
+  "type": "node",
+  "id": 1137267852,
+  "lat": 47.2680958,
+  "lon": 11.3953364
+},
+{
+  "type": "node",
+  "id": 1137267854,
+  "lat": 47.2680934,
+  "lon": 11.3953870
+},
+{
+  "type": "node",
+  "id": 1137267855,
+  "lat": 47.2680015,
+  "lon": 11.3954419
+},
+{
+  "type": "node",
+  "id": 1137267856,
+  "lat": 47.2679898,
+  "lon": 11.3953282
+},
+{
+  "type": "node",
+  "id": 4721833269,
+  "lat": 47.2685443,
+  "lon": 11.3957316
+},
+{
+  "type": "node",
+  "id": 5207372592,
+  "lat": 47.2684575,
+  "lon": 11.3954249
+},
+{
+  "type": "node",
+  "id": 587759559,
+  "lat": 47.2703846,
+  "lon": 11.4071801
+},
+{
+  "type": "node",
+  "id": 587759564,
+  "lat": 47.2708246,
+  "lon": 11.4080860
+},
+{
+  "type": "node",
+  "id": 587759569,
+  "lat": 47.2712011,
+  "lon": 11.4077802
+},
+{
+  "type": "node",
+  "id": 587759572,
+  "lat": 47.2706910,
+  "lon": 11.4068536
+},
+{
+  "type": "node",
+  "id": 621758162,
+  "lat": 47.2704816,
+  "lon": 11.4071431
+},
+{
+  "type": "node",
+  "id": 621758163,
+  "lat": 47.2708803,
+  "lon": 11.4079580
+},
+{
+  "type": "node",
+  "id": 621758164,
+  "lat": 47.2710281,
+  "lon": 11.4078013
+},
+{
+  "type": "node",
+  "id": 622219535,
+  "lat": 47.2706335,
+  "lon": 11.4069813
+},
+{
+  "type": "node",
+  "id": 763488198,
+  "lat": 47.2705529,
+  "lon": 11.4069994
+},
+{
+  "type": "node",
+  "id": 1495274305,
+  "lat": 47.2711796,
+  "lon": 11.4077159
+},
+{
+  "type": "node",
+  "id": 1495274317,
+  "lat": 47.2711952,
+  "lon": 11.4077461
+},
+{
+  "type": "node",
+  "id": 1495274318,
+  "lat": 47.2711904,
+  "lon": 11.4078065
+},
+{
+  "type": "node",
+  "id": 1495274319,
+  "lat": 47.2710992,
+  "lon": 11.4076970
+},
+{
+  "type": "node",
+  "id": 1495274320,
+  "lat": 47.2711617,
+  "lon": 11.4078288
+},
+{
+  "type": "node",
+  "id": 1495274322,
+  "lat": 47.2710874,
+  "lon": 11.4078102
+},
+{
+  "type": "node",
+  "id": 561668109,
+  "lat": 47.2558741,
+  "lon": 11.4345033
+},
+{
+  "type": "node",
+  "id": 561668141,
+  "lat": 47.2557515,
+  "lon": 11.4346199
+},
+{
+  "type": "node",
+  "id": 561668159,
+  "lat": 47.2556569,
+  "lon": 11.4344038
+},
+{
+  "type": "node",
+  "id": 561668184,
+  "lat": 47.2554737,
+  "lon": 11.4341612
+},
+{
+  "type": "node",
+  "id": 561668200,
+  "lat": 47.2555330,
+  "lon": 11.4340827
+},
+{
+  "type": "node",
+  "id": 561668221,
+  "lat": 47.2554750,
+  "lon": 11.4339916
+},
+{
+  "type": "node",
+  "id": 561668285,
+  "lat": 47.2555404,
+  "lon": 11.4338861
+},
+{
+  "type": "node",
+  "id": 561668308,
+  "lat": 47.2555698,
+  "lon": 11.4339639
+},
+{
+  "type": "node",
+  "id": 561668325,
+  "lat": 47.2556732,
+  "lon": 11.4336153
+},
+{
+  "type": "node",
+  "id": 561668342,
+  "lat": 47.2560091,
+  "lon": 11.4336173
+},
+{
+  "type": "node",
+  "id": 561668363,
+  "lat": 47.2560162,
+  "lon": 11.4336638
+},
+{
+  "type": "node",
+  "id": 561668465,
+  "lat": 47.2559450,
+  "lon": 11.4341302
+},
+{
+  "type": "node",
+  "id": 561668490,
+  "lat": 47.2559185,
+  "lon": 11.4337738
+},
+{
+  "type": "node",
+  "id": 561668511,
+  "lat": 47.2557279,
+  "lon": 11.4337837
+},
+{
+  "type": "node",
+  "id": 561668538,
+  "lat": 47.2556475,
+  "lon": 11.4340874
+},
+{
+  "type": "node",
+  "id": 561668558,
+  "lat": 47.2557582,
+  "lon": 11.4342428
+},
+{
+  "type": "node",
+  "id": 1158082270,
+  "lat": 47.2558202,
+  "lon": 11.4345805
+},
+{
+  "type": "node",
+  "id": 1158082280,
+  "lat": 47.2555680,
+  "lon": 11.4339091
+},
+{
+  "type": "node",
+  "id": 1158082308,
+  "lat": 47.2560391,
+  "lon": 11.4341218
+},
+{
+  "type": "node",
+  "id": 1182523055,
+  "lat": 47.2559114,
+  "lon": 11.4336167
+},
+{
+  "type": "node",
+  "id": 1183951330,
+  "lat": 47.2555582,
+  "lon": 11.4339456
+},
+{
+  "type": "node",
+  "id": 1374619233,
+  "lat": 47.2559207,
+  "lon": 11.4338291
+},
+{
+  "type": "node",
+  "id": 1374645783,
+  "lat": 47.2559927,
+  "lon": 11.4341248
+},
+{
+  "type": "node",
+  "id": 1374645809,
+  "lat": 47.2559504,
+  "lon": 11.4336170
+},
+{
+  "type": "node",
+  "id": 1585587378,
+  "lat": 47.2555430,
+  "lon": 11.4342529
+},
+{
+  "type": "node",
+  "id": 1300231605,
+  "lat": 47.2791619,
+  "lon": 11.5072404
+},
+{
+  "type": "node",
+  "id": 1300231607,
+  "lat": 47.2791112,
+  "lon": 11.5072361
+},
+{
+  "type": "node",
+  "id": 1300231611,
+  "lat": 47.2791256,
+  "lon": 11.5070706
+},
+{
+  "type": "node",
+  "id": 1300231618,
+  "lat": 47.2791800,
+  "lon": 11.5071480
+},
+{
+  "type": "node",
+  "id": 1300231632,
+  "lat": 47.2794096,
+  "lon": 11.5067203
+},
+{
+  "type": "node",
+  "id": 1300231642,
+  "lat": 47.2791443,
+  "lon": 11.5072485
+},
+{
+  "type": "node",
+  "id": 1300231645,
+  "lat": 47.2790968,
+  "lon": 11.5072128
+},
+{
+  "type": "node",
+  "id": 1300231648,
+  "lat": 47.2791068,
+  "lon": 11.5071088
+},
+{
+  "type": "node",
+  "id": 1300231657,
+  "lat": 47.2791762,
+  "lon": 11.5071854
+},
+{
+  "type": "node",
+  "id": 1300231661,
+  "lat": 47.2794320,
+  "lon": 11.5068072
+},
+{
+  "type": "node",
+  "id": 1300231666,
+  "lat": 47.2791500,
+  "lon": 11.5070902
+},
+{
+  "type": "node",
+  "id": 1300231678,
+  "lat": 47.2791261,
+  "lon": 11.5072463
+},
+{
+  "type": "node",
+  "id": 1300231680,
+  "lat": 47.2790904,
+  "lon": 11.5071755
+},
+{
+  "type": "node",
+  "id": 1300231684,
+  "lat": 47.2790912,
+  "lon": 11.5071644
+},
+{
+  "type": "node",
+  "id": 1300231694,
+  "lat": 47.2791751,
+  "lon": 11.5072251
+},
+{
+  "type": "node",
+  "id": 1300231704,
+  "lat": 47.2791727,
+  "lon": 11.5071179
+},
+{
+  "type": "node",
+  "id": 1334631833,
+  "lat": 47.2791233,
+  "lon": 11.5070613
+},
+{
+  "type": "node",
+  "id": 1334631834,
+  "lat": 47.2791063,
+  "lon": 11.5069977
+},
+{
+  "type": "node",
+  "id": 1334631854,
+  "lat": 47.2791663,
+  "lon": 11.5071061
+},
+{
+  "type": "node",
+  "id": 1334631858,
+  "lat": 47.2791742,
+  "lon": 11.5071913
+},
+{
+  "type": "node",
+  "id": 1334631874,
+  "lat": 47.2791792,
+  "lon": 11.5071723
+},
+{
+  "type": "node",
+  "id": 1334631891,
+  "lat": 47.2790194,
+  "lon": 11.5069307
+},
+{
+  "type": "node",
+  "id": 1334631904,
+  "lat": 47.2790912,
+  "lon": 11.5071904
+},
+{
+  "type": "node",
+  "id": 1334631906,
+  "lat": 47.2790986,
+  "lon": 11.5071227
+},
+{
+  "type": "node",
+  "id": 1334631910,
+  "lat": 47.2791219,
+  "lon": 11.5070954
+},
+{
+  "type": "node",
+  "id": 1326921980,
+  "lat": 47.2954379,
+  "lon": 11.5007532
+},
+{
+  "type": "node",
+  "id": 1326921987,
+  "lat": 47.2953049,
+  "lon": 11.5008100
+},
+{
+  "type": "node",
+  "id": 1326922008,
+  "lat": 47.2952590,
+  "lon": 11.5008299
+},
+{
+  "type": "node",
+  "id": 1326922046,
+  "lat": 47.2954189,
+  "lon": 11.5007407
+},
+{
+  "type": "node",
+  "id": 1326922081,
+  "lat": 47.2954512,
+  "lon": 11.5009037
+},
+{
+  "type": "node",
+  "id": 1326922120,
+  "lat": 47.2954221,
+  "lon": 11.5007588
+},
+{
+  "type": "node",
+  "id": 1326922154,
+  "lat": 47.2954506,
+  "lon": 11.5008854
+},
+{
+  "type": "node",
+  "id": 1326922217,
+  "lat": 47.2953799,
+  "lon": 11.5007588
+},
+{
+  "type": "node",
+  "id": 1326922386,
+  "lat": 47.2953838,
+  "lon": 11.5007759
+},
+{
+  "type": "node",
+  "id": 1326922448,
+  "lat": 47.2954525,
+  "lon": 11.5008200
+},
+{
+  "type": "node",
+  "id": 1326922511,
+  "lat": 47.2952826,
+  "lon": 11.5009866
+},
+{
+  "type": "node",
+  "id": 3260633368,
+  "lat": 47.3507965,
+  "lon": 11.7187524
+},
+{
+  "type": "node",
+  "id": 3260633369,
+  "lat": 47.3510556,
+  "lon": 11.7185819
+},
+{
+  "type": "node",
+  "id": 3260633370,
+  "lat": 47.3510118,
+  "lon": 11.7184369
+},
+{
+  "type": "node",
+  "id": 3260633371,
+  "lat": 47.3507526,
+  "lon": 11.7186074
+},
+{
+  "type": "node",
+  "id": 797460998,
+  "lat": 47.4742266,
+  "lon": 11.0745765
+},
+{
+  "type": "node",
+  "id": 797461005,
+  "lat": 47.4741584,
+  "lon": 11.0744509
+},
+{
+  "type": "node",
+  "id": 797461038,
+  "lat": 47.4741455,
+  "lon": 11.0744517
+},
+{
+  "type": "node",
+  "id": 797461049,
+  "lat": 47.4742227,
+  "lon": 11.0744466
+},
+{
+  "type": "node",
+  "id": 797461052,
+  "lat": 47.4742525,
+  "lon": 11.0743397
+},
+{
+  "type": "node",
+  "id": 797461061,
+  "lat": 47.4741623,
+  "lon": 11.0745807
+},
+{
+  "type": "node",
+  "id": 797461065,
+  "lat": 47.4742557,
+  "lon": 11.0744445
+},
+{
+  "type": "node",
+  "id": 797461071,
+  "lat": 47.4741423,
+  "lon": 11.0743469
+},
+{
+  "type": "node",
+  "id": 1398317769,
+  "lat": 47.4952151,
+  "lon": 11.0855638
+},
+{
+  "type": "node",
+  "id": 1398317772,
+  "lat": 47.4952821,
+  "lon": 11.0857578
+},
+{
+  "type": "node",
+  "id": 1398317775,
+  "lat": 47.4953693,
+  "lon": 11.0854471
+},
+{
+  "type": "node",
+  "id": 1398317795,
+  "lat": 47.4954364,
+  "lon": 11.0856411
+},
+{
+  "type": "node",
+  "id": 2740712460,
+  "lat": 47.4931880,
+  "lon": 11.1076279
+},
+{
+  "type": "node",
+  "id": 2740712463,
+  "lat": 47.4930787,
+  "lon": 11.1077646
+},
+{
+  "type": "node",
+  "id": 2740712466,
+  "lat": 47.4929748,
+  "lon": 11.1075827
+},
+{
+  "type": "node",
+  "id": 2740712469,
+  "lat": 47.4930841,
+  "lon": 11.1074460
+},
+{
+  "type": "node",
+  "id": 724726275,
+  "lat": 47.4937294,
+  "lon": 11.1110971
+},
+{
+  "type": "node",
+  "id": 732659834,
+  "lat": 47.4938112,
+  "lon": 11.1109780
+},
+{
+  "type": "node",
+  "id": 732659854,
+  "lat": 47.4936617,
+  "lon": 11.1107469
+},
+{
+  "type": "node",
+  "id": 732659858,
+  "lat": 47.4935800,
+  "lon": 11.1108659
+},
+{
+  "type": "node",
+  "id": 2406476965,
+  "lat": 47.4937675,
+  "lon": 11.1110432
+},
+{
+  "type": "node",
+  "id": 1109279133,
+  "lat": 47.5015541,
+  "lon": 11.7068787
+},
+{
+  "type": "node",
+  "id": 1109279169,
+  "lat": 47.5014366,
+  "lon": 11.7066827
+},
+{
+  "type": "node",
+  "id": 1109279210,
+  "lat": 47.5015431,
+  "lon": 11.7066325
+},
+{
+  "type": "node",
+  "id": 1109279252,
+  "lat": 47.5012967,
+  "lon": 11.7069037
+},
+{
+  "type": "node",
+  "id": 1109279279,
+  "lat": 47.5014348,
+  "lon": 11.7066430
+},
+{
+  "type": "node",
+  "id": 1109279340,
+  "lat": 47.5012876,
+  "lon": 11.7066972
+},
+{
+  "type": "node",
+  "id": 954751711,
+  "lat": 47.3897074,
+  "lon": 11.7733751
+},
+{
+  "type": "node",
+  "id": 954751717,
+  "lat": 47.3897347,
+  "lon": 11.7735556
+},
+{
+  "type": "node",
+  "id": 954751719,
+  "lat": 47.3899242,
+  "lon": 11.7733037
+},
+{
+  "type": "node",
+  "id": 1847008383,
+  "lat": 47.3899514,
+  "lon": 11.7734842
+},
+{
+  "type": "way",
+  "id": 32063145,
+  "nodes": [
+    359957621,
+    614352590,
+    5207372592,
+    1137267854,
+    1137267852,
+    1137267856,
+    359957623,
+    1137267855,
+    359957625,
+    359957627,
+    4721833269,
+    359957621
+  ]
+},
+{
+  "type": "way",
+  "id": 60369246,
+  "nodes": [
+    751742952,
+    751742963,
+    751742976,
+    751742948,
+    751742952
+  ]
+},
+{
+  "type": "way",
+  "id": 46108780,
+  "nodes": [
+    587759559,
+    763488198,
+    587759572,
+    1495274319,
+    1495274305,
+    1495274317,
+    587759569,
+    1495274318,
+    1495274320,
+    1495274322,
+    587759564,
+    587759559
+  ]
+},
+{
+  "type": "way",
+  "id": 48992012,
+  "nodes": [
+    621758162,
+    621758163,
+    621758164,
+    622219535,
+    621758162
+  ]
+}
+
+  ]
+}

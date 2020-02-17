@@ -1,0 +1,3775 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-14T13:42:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 860109170,
+  "lat": 43.3714119,
+  "lon": -8.3960019,
+  "tags": {
+    "addr:city": "A Coruña",
+    "addr:housenumber": "1",
+    "addr:postcode": "15001",
+    "addr:street": "Praza de María Pita",
+    "name": "Museo dos Reloxos",
+    "name:en": "The Clock Museum",
+    "name:es": "Museo de los Relojes",
+    "name:gl": "Museo dos Reloxos",
+    "opening_hours": "Mo-Fr 17:00-19:00",
+    "tourism": "museum",
+    "website": "http://www.coruna.es/servlet/Satellite?itemID=1149055934059&pagename=cultura%2FPage%2FGenerico-Page-Generica&itemType=Entidad&cid=1322783576553&argIdioma=es"
+  }
+},
+{
+  "type": "node",
+  "id": 1595603492,
+  "lat": 43.4768211,
+  "lon": -8.1656394,
+  "tags": {
+    "addr:city": "Fene",
+    "addr:housenumber": "20 - 22",
+    "addr:postcode": "15500",
+    "addr:street": "Avenida de Conces",
+    "name": "Museo do Humor",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1854255372,
+  "lat": 43.3182411,
+  "lon": -8.6066342,
+  "tags": {
+    "addr:housename": "Cofradía de Pescadores",
+    "designation": "Cofradía de Pescadores",
+    "name": "Cofradía de pescadores e Museo do Arquivo de Pescadores",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 2386501932,
+  "lat": 43.4365998,
+  "lon": -7.9827047,
+  "tags": {
+    "name": "Casa do Mel",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 2473187849,
+  "lat": 43.2999361,
+  "lon": -8.5108815,
+  "tags": {
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 2772382143,
+  "lat": 43.0776480,
+  "lon": -8.4115239,
+  "tags": {
+    "name": "Museo do Traxe Juanjo Linares",
+    "note": "Información obtenida como ejercicio de cartografía participativa dentro de la asignatura de Cooperación para el Desarrollo en Ingeniería Civil de la Escuela de Ingeniería de Caminos, Canales y Puertos de la Universidade da Coruña",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3393652335,
+  "lat": 43.2113852,
+  "lon": -8.6896656,
+  "tags": {
+    "name": "Museo de Bergantiños",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3406247092,
+  "lat": 43.3694216,
+  "lon": -8.3944369,
+  "tags": {
+    "addr:city": "A Coruña",
+    "addr:housenumber": "11",
+    "addr:postcode": "15001",
+    "addr:street": "Rúa de Tabernas",
+    "name": "Casa Museo Emilia Pardo Bazán",
+    "name:en": "Emilia Pardo Bazán House Museum",
+    "name:es": "Casa Museo Emilia Pardo Bazán",
+    "opening_hours": "Jul-Aug: Mo-Fr 08:30-14:45; Sep-Jun: Mo-Th 09:00-14:45,16:30-19:45; Sep-Jun: Fr 09:00-14:45; Sa off; Su off",
+    "source": "Catastro 18-3-2015",
+    "tourism": "museum",
+    "website": "http://www.casamuseoemiliapardobazan.org/",
+    "wikidata": "Q275929",
+    "wikipedia": "es:Emilia Pardo Bazán"
+  }
+},
+{
+  "type": "node",
+  "id": 5248053091,
+  "lat": 43.2807113,
+  "lon": -8.2110897,
+  "tags": {
+    "addr:city": "Betanzos",
+    "addr:housenumber": "2",
+    "addr:postcode": "15300",
+    "addr:street": "Rúa do Castro",
+    "fee": "yes",
+    "name": "Centro Internacional de Estampa Contemporánea",
+    "operator": "Fundación CIEC",
+    "phone": "+34 081 772 964",
+    "tourism": "museum",
+    "wikidata": "Q8343608"
+  }
+},
+{
+  "type": "node",
+  "id": 5418211739,
+  "lat": 43.2670431,
+  "lon": -8.7819074,
+  "tags": {
+    "name": "Formó da forte",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 5981092408,
+  "lat": 43.2787717,
+  "lon": -8.2102693,
+  "tags": {
+    "addr:city": "Betanzos",
+    "addr:postcode": "15300",
+    "addr:street": "Rúa Emilio Romay",
+    "fixme": "Especificar mejor los métodos de pago. https://wiki.openstreetmap.org/wiki/Key:payment",
+    "name": "Museo das Mariñas",
+    "opening_hours": "Mo-Fr 10:30-13:00,16:00-20:00; Sa 10:30-13:00; Jul,Aug: Mo-Fr 09:00-14:00; Sa 10:30-13:00",
+    "operator": "Concello de Betanzos",
+    "payment:coins": "yes",
+    "payment:credit_cards": "yes",
+    "tourism": "museum",
+    "website": "http://museos.xunta.gal/es/marinas"
+  }
+},
+{
+  "type": "node",
+  "id": 6557996464,
+  "lat": 43.3524937,
+  "lon": -8.4201625,
+  "tags": {
+    "addr:city": "A Coruña",
+    "addr:housenumber": "6",
+    "addr:postcode": "15008",
+    "addr:street": "Rúa José María Rivera Corral",
+    "charge": "15€/person",
+    "description": "Museum of the Estrella Galicia brewery",
+    "guided_tour:public": "Fr-Su 11:00 & 12:30 & 16:00 & 17:15",
+    "name": "Mundo Estrella Galicia (Mega)",
+    "opening_hours": "Tu-Th 11:00-19:00; Fr-Su 11:00-20:00",
+    "short_name": "MEGA",
+    "start_date": "2019-06-19",
+    "tourism": "museum",
+    "website": "https://mundoestrellagalicia.es/gl/"
+  }
+},
+{
+  "type": "way",
+  "id": 32931837,
+  "nodes": [
+    370849631,
+    370849632,
+    370849634,
+    370849635,
+    370849631
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Afundación",
+    "operator": "Abanca",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 34921527,
+  "nodes": [
+    409741434,
+    409741435,
+    409741436,
+    409741437,
+    409741438,
+    409741439,
+    409741434
+  ],
+  "tags": {
+    "addr:city": "Ferrol",
+    "addr:place": "Cantón de Molíns",
+    "addr:postcode": "15403",
+    "alt_name": "Exposición Nacional da Construción Naval",
+    "alt_name:es": "Exposición Nacional de la Construcción Naval",
+    "alt_name:gl": "Exposición Nacional da Construción Naval",
+    "building": "yes",
+    "email": "exponav@exponav.org",
+    "historic": "yes",
+    "name": "Museo da Construción Naval Exponav",
+    "name:es": "Museo de la Construcción Naval Exponav",
+    "name:gl": "Museo da Construción Naval Exponav",
+    "nohousenumber": "yes",
+    "old_name": "Edificio das Ferrerías",
+    "old_name:es": "Edificio de las Herrerías",
+    "old_name:gl": "Edificio das Ferrerías",
+    "phone": "+34 981 359682",
+    "short_name": "Exponav",
+    "tourism": "museum",
+    "website": "https://www.exponav.org/",
+    "wikidata": "Q3390338",
+    "wikipedia": "gl:Exposición Nacional da Construción Naval"
+  }
+},
+{
+  "type": "way",
+  "id": 38884423,
+  "nodes": [
+    461928441,
+    461928445,
+    461928446,
+    461928447,
+    461928452,
+    461928455,
+    461928458,
+    461928460,
+    461928441
+  ],
+  "tags": {
+    "addr:city": "A Coruña",
+    "addr:housenumber": "2",
+    "addr:postcode": "15005",
+    "addr:street": "Parque de Santa Margarida",
+    "alt_name": "Casa das Ciencias e Planetario",
+    "alt_name:de": "Haus der Wissenschaft und Planetarium",
+    "alt_name:en": "Science Museum and Planetarium",
+    "alt_name:es": "Casa de las Ciencias y Planetario",
+    "alt_name:fr": "Maison de la Science et le Planétarium",
+    "alt_name:gl": "Casa das Ciencias e Planetario",
+    "alt_name:it": "Casa della Scienza e Planetario",
+    "alt_name:pt": "Casa das Ciencias e Planetario",
+    "building": "museum",
+    "building:levels": "4",
+    "building:levels:underground": "1",
+    "museum": "science",
+    "museum_type": "municipal",
+    "name": "Casa das Ciencias",
+    "name:de": "Haus der Wissenschaft",
+    "name:en": "Science Museum",
+    "name:es": "Casa de las Ciencias",
+    "name:fr": "Maison de la Science",
+    "name:gl": "Casa das Ciencias",
+    "name:it": "Casa della Scienza",
+    "name:pt": "Casa das Ciencias",
+    "opening_hours": "Jan 1 off; Jan 6 off; Dec 25 off; Jan-Apr: Mo-Fr 10:00-18:00; Jan-Apr: Sa-Su 11:00-19:00; May-Jun: Mo-Fr 10:00-19:00; May-Jun: Sa-Su 11:00-19:00; Jul-Aug: Mo-Su 10:00-20:00; Sep-Dec: Mo-Fr 10:00-19:00; Sep-Dec: Sa-Su 11:00-19:00",
+    "operator": "Concello da Coruña",
+    "roof:levels": "1",
+    "toilets": "yes",
+    "toilets:access": "yes",
+    "toilets:wheelchair": "yes",
+    "tourism": "museum",
+    "website": "http://www.coruna.gal/mc2/gl/casa-das-ciencias",
+    "wheelchair": "yes",
+    "wikidata": "Q5477768",
+    "wikipedia": "gl:Casa das Ciencias",
+    "wikipedia:es": "Casa de las Ciencias (La Coruña)",
+    "wikipedia:gl": "Casa das Ciencias"
+  }
+},
+{
+  "type": "way",
+  "id": 75260454,
+  "nodes": [
+    888775449,
+    3494928847,
+    3494928889,
+    6307058943,
+    3406247431,
+    472433848,
+    888775660,
+    888775518,
+    888775393,
+    888775642,
+    888775534,
+    888775367,
+    888775774,
+    876196060,
+    888775689,
+    888775583,
+    888775403,
+    888775297,
+    888775469,
+    888775356,
+    888775691,
+    888775585,
+    888775522,
+    888775449
+  ],
+  "tags": {
+    "addr:city": "A Coruña",
+    "addr:housenumber": "1",
+    "addr:postcode": "15001",
+    "addr:street": "Xardín de San Carlos",
+    "alt_name": "Arquivo Histórico de Galicia",
+    "alt_name:gl": "Arquivo Histórico de Galiza",
+    "name": "Arquivo do Reino de Galicia",
+    "name:es": "Archivo del Reino de Galicia",
+    "name:gl": "Arquivo do Reino de Galicia",
+    "opening_hours": "Jun 16-Sep 16: Mo-Fr 08:30-19:30; Sep 17-Jun 15: Mo-Fr 08:30-20:30",
+    "source": "https://gl.wikipedia.org/wiki/Arquivo_do_Reino_de_Galicia",
+    "tourism": "museum",
+    "website": "http://arquivosdegalicia.xunta.es/portal/arquivo-do-reino-de-galicia/content/el-archivo/index.html"
+  }
+},
+{
+  "type": "way",
+  "id": 132917856,
+  "nodes": [
+    1462248293,
+    1462248289,
+    1462248291,
+    1462248287,
+    6589681088,
+    6589681091,
+    3428654343,
+    6589681092,
+    6589681095,
+    1462248293
+  ],
+  "tags": {
+    "addr:city": "A Coruña",
+    "addr:housenumber": "3",
+    "addr:postcode": "15006",
+    "addr:street": "Xardíns de Méndez Núñez",
+    "building": "yes",
+    "building:levels": "3",
+    "museum": "art",
+    "museum_type": "municipal",
+    "name": "Quiosco Afonso",
+    "name:en": "Kiosk Afonso",
+    "name:es": "Kiosko Alfonso",
+    "name:gl": "Quiosco Afonso",
+    "name:pt": "Quiosque Afonso",
+    "opening_hours": "Mo-Su 12:00-14:00,18:00-21:00",
+    "toilets": "yes",
+    "tourism": "museum",
+    "website": "https://www.coruna.gal/cultura/gl/espazos/detalle-para-entidade/quiosco-alfonso/entidad/1149055940406",
+    "wheelchair": "limited",
+    "wikidata": "Q12391346",
+    "wikipedia": "gl:Kiosco Alfonso"
+  }
+},
+{
+  "type": "way",
+  "id": 132918340,
+  "nodes": [
+    1462264211,
+    1462264196,
+    1462264214,
+    1462264207,
+    1462264197,
+    1462264195,
+    1462264215,
+    1462264194,
+    1462264205,
+    1462264209,
+    1462264213,
+    1462264193,
+    3494928823,
+    1462264211
+  ],
+  "tags": {
+    "addr:city": "A Coruña",
+    "addr:housenumber": "27",
+    "addr:postcode": "15001",
+    "addr:street": "Rúa de San Francisco",
+    "building": "yes",
+    "name": "Fundación Luis Seoane",
+    "opening_hours": "Tu-Su 11:00-15:00,17:00-21:00",
+    "tourism": "museum",
+    "website": "https://www.fundacionluisseoane.gal/fundacionls/gl/como-chegar"
+  }
+},
+{
+  "type": "way",
+  "id": 146222298,
+  "nodes": [
+    1594955704,
+    1594955717,
+    5872150635,
+    1594955756,
+    5872149763,
+    1594955770,
+    1594955773,
+    1594955778,
+    1594955782,
+    1594955781,
+    1594955775,
+    1594955772,
+    1594955766,
+    1594955764,
+    5872046532,
+    1594955762,
+    1594955760,
+    1594955759,
+    1594955753,
+    1594955751,
+    1594955749,
+    1594955739,
+    1594955733,
+    1594955722,
+    1594955715,
+    31618484,
+    1960823889,
+    5872046539,
+    5872045829,
+    31609503,
+    5872150844,
+    5872150845,
+    5872046285,
+    5872045884,
+    265667897,
+    5872045876,
+    1594955614,
+    1594955609,
+    5872046534,
+    1594955587,
+    5872046535,
+    1594955588,
+    5872046533,
+    1594955590,
+    1594955603,
+    5872046536,
+    1594955607,
+    1594955622,
+    5872045875,
+    1594955623,
+    1594955626,
+    1594955638,
+    1594955641,
+    5872046537,
+    1594955642,
+    1594955652,
+    5872046538,
+    1594955666,
+    1594955677,
+    1594955681,
+    1594955661,
+    1594955659,
+    1594955662,
+    1594955657,
+    1594955685,
+    1594955679,
+    1594955689,
+    1594955687,
+    1594955686,
+    5872226057,
+    1594955683,
+    1594955704
+  ],
+  "tags": {
+    "addr:city": "A Coruña",
+    "addr:housenumber": "34",
+    "addr:postcode": "15002",
+    "addr:street": "Paseo Alcalde Francisco Vázquez",
+    "area": "yes",
+    "barrier": "fence",
+    "museum": "nature",
+    "museum_type": "municipal",
+    "name": "Aquarium Finisterrae - Casa dos Peixes",
+    "name:de": "Aquarium Finisterrae - Fischhaus",
+    "name:en": "Aquarium Finisterrae - Fish House",
+    "name:es": "Aquarium Finisterrae - Casa de los Peces",
+    "name:fr": "Aquarium Finisterrae - Maison de Poissons",
+    "name:gl": "Aquarium Finisterrae - Casa dos Peixes",
+    "name:it": "Aquarium Finisterrae - Casa di Pesce",
+    "name:pt": "Aquarium Finisterrae - Casa dos Peixes",
+    "opening_hours": "Jan 1 off; Jan 6 off; Dec 25 off; Jan-Apr: Mo-Fr 10:00-18:00; Jan-Apr: Sa-Su 11:00-20:00; May-Jun: Mo-Fr 10:00-19:00; May-Jun: Sa-Su 11:00-20:00; Jul-Aug: Mo-Su 10:00-21:00; Sep-Dec: Mo-Fr 10:00-19:00; Sep-Dec: Sa-Su 11:00-20:00",
+    "toilets:wheelchair": "yes",
+    "tourism": "aquarium",
+    "website": "http://www.coruna.gal/mc2/gl/aquarium-finisterrae",
+    "wheelchair": "yes",
+    "wikidata": "Q3398288",
+    "wikipedia": "gl:Aquarium Finisterrae"
+  }
+},
+{
+  "type": "way",
+  "id": 146222308,
+  "nodes": [
+    1594955657,
+    1594955685,
+    1594955679,
+    1594955689,
+    1594955701,
+    1594955707,
+    1594955711,
+    1594955709,
+    1594955714,
+    5872226188,
+    1594955728,
+    5872226069,
+    1594955742,
+    5872226051,
+    1594955724,
+    5872226056,
+    1594955736,
+    1594955730,
+    1594955726,
+    1594955719,
+    1594955688,
+    1594955664,
+    1594955662,
+    1594955657
+  ],
+  "tags": {
+    "building": "museum",
+    "museum": "nature",
+    "museum_type": "municipal",
+    "name": "Aquarium Finisterrae - Casa dos Peixes",
+    "name:de": "Aquarium Finisterrae - Fischhaus",
+    "name:en": "Aquarium Finisterrae - Fish House",
+    "name:es": "Aquarium Finisterrae - Casa de los Peces",
+    "name:fr": "Aquarium Finisterrae - Maison de Poissons",
+    "name:gl": "Aquarium Finisterrae - Casa dos Peixes",
+    "name:it": "Aquarium Finisterrae - Casa di Pesce",
+    "name:pt": "Aquarium Finisterrae - Casa dos Peixes",
+    "operator": "Concello da Coruña",
+    "toilets": "yes",
+    "toilets:access": "yes",
+    "toilets:wheelchair": "yes",
+    "tourism": "museum",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 150639198,
+  "nodes": [
+    1635360237,
+    1635360235,
+    1635360221,
+    1635360234,
+    1635360243,
+    1635360262,
+    1635360272,
+    1635360270,
+    1635360269,
+    1635360268,
+    1635360267,
+    1635360266,
+    1635360263,
+    1635360257,
+    1635360255,
+    1635360250,
+    1635360253,
+    1848507281,
+    3388448644,
+    3388448611,
+    1635360237
+  ],
+  "tags": {
+    "addr:city": "A Coruña",
+    "addr:housenumber": "91",
+    "addr:postcode": "15002",
+    "addr:street": "Rúa Ángel Rebollo",
+    "building": "museum",
+    "museum": "human",
+    "museum_type": "municipal",
+    "name": "Domus - Casa do Home",
+    "name:de": "Domus - Haus des Menschen",
+    "name:en": "Domus - Man House",
+    "name:es": "Domus - Casa del Hombre",
+    "name:fr": "Domus - Maison de l'Homme",
+    "name:gl": "Domus - Casa do Home",
+    "name:it": "Domus - Casa dell'Uomo",
+    "name:pt": "Domus - Casa do Homem",
+    "opening_hours": "Jan 1 off; Jan 6 off; Dec 25 off; Jan-Apr: Mo-Fr 10:00-18:00; Jan-Apr: Sa-Su 11:00-19:00; May-Jun: Mo-Fr 10:00-19:00; May-Jun: Sa-Su 11:00-19:00; Jul-Aug: Mo-Su 10:00-20:00; Sep-Dec: Mo-Fr 10:00-19:00; Sep-Dec: Sa-Su 11:00-19:00",
+    "operator": "Concello da Coruña",
+    "toilets": "yes",
+    "toilets:access": "yes",
+    "toilets:wheelchair": "yes",
+    "tourism": "museum",
+    "website": "http://www.coruna.gal/mc2/gl/domus",
+    "wheelchair": "yes",
+    "wikidata": "Q3329855",
+    "wikipedia": "gl:Casa do Home",
+    "wikipedia:es": "Casa del Hombre (La Coruña)",
+    "wikipedia:gl": "Casa do Home"
+  }
+},
+{
+  "type": "way",
+  "id": 152502699,
+  "nodes": [
+    1653209368,
+    1653209366,
+    1653209369,
+    1653209370,
+    1653209368
+  ],
+  "tags": {
+    "addr:city": "Cambre",
+    "addr:postcode": "15660",
+    "addr:street": "Praza Mosteiro",
+    "building": "yes",
+    "name": "Museo Arqueolóxico de Cambre",
+    "operator": "Concello de Cambre",
+    "source": "PNOA",
+    "tourism": "museum",
+    "wikipedia": "gl:Vila romana de Cambre"
+  }
+},
+{
+  "type": "way",
+  "id": 157363079,
+  "nodes": [
+    1695821391,
+    1695821400,
+    2634171013,
+    1695821398,
+    1695821402,
+    1695821391
+  ],
+  "tags": {
+    "addr:city": "A Coruña",
+    "addr:housenumber": "2",
+    "addr:postcode": "15002",
+    "addr:street": "Rúa Zalaeta",
+    "building": "yes",
+    "name": "Museo de Belas Artes",
+    "name:en": "The Fine Arts Museum",
+    "name:es": "Museo de Bellas Artes",
+    "name:gl": "Museo de Belas Artes",
+    "opening_hours": "Tu-Fr 10:00-20:00; Sa 10:00-14:00, 16:30-20:00; Su 10:00-14:00",
+    "phone": "+34 881 88 17 00",
+    "tourism": "museum",
+    "website": "http://museobelasartescoruna.xunta.es/",
+    "wikidata": "Q18327587",
+    "wikipedia": "gl:Museo de Belas Artes da Coruña"
+  }
+},
+{
+  "type": "way",
+  "id": 159764427,
+  "nodes": [
+    1718693411,
+    1718693408,
+    1704165404,
+    4953597898,
+    1718693410,
+    1718693413,
+    1718693412,
+    1718693409,
+    1718693411
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Museo da Natureza - Sociedade Galega de Historia Natural",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 159826186,
+  "nodes": [
+    1719255699,
+    1719255701,
+    1719255704,
+    1719255702,
+    1719255691,
+    3660697820,
+    3660697821,
+    1719255706,
+    1719255697,
+    1719255695,
+    1719255699
+  ],
+  "tags": {
+    "addr:city": "A Coruña",
+    "addr:housenumber": "1",
+    "addr:postcode": "15001",
+    "addr:street": "Praza de Carlos I",
+    "building": "yes",
+    "building:levels": "2",
+    "name": "Museo Histórico Militar da Coruña",
+    "name:de": "Militärhistorisches Museum von La Coruña",
+    "name:en": "Military Historical Museum of A Coruña",
+    "name:es": "Museo Histórico Militar de A Coruña",
+    "name:fr": "Musée militaire historique de La Corogne",
+    "name:it": "Museo storico militare di A Coruña",
+    "opening_hours": "Mo-Sa 10:00-14:00,16:00-19:00; Su 10:00-14:00",
+    "tourism": "museum",
+    "website": "http://www.ejercito.mde.es/unidades/Madrid/ihycm/Museos/coruna.html",
+    "wikipedia": "gl:Museo Militar Rexional da Coruña"
+  }
+},
+{
+  "type": "way",
+  "id": 161826910,
+  "nodes": [
+    1737804403,
+    1737804400,
+    3375596769,
+    1737804402,
+    1737804401,
+    1737804403
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Fundación Barrié",
+    "tourism": "museum",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "way",
+  "id": 161826976,
+  "nodes": [
+    1737804400,
+    1737805219,
+    1737805215,
+    3227386843,
+    3227387138,
+    3227387122,
+    1737804403,
+    1737804400
+  ],
+  "tags": {
+    "addr:city": "A Coruña",
+    "addr:housenumber": "8",
+    "addr:postcode": "15003",
+    "addr:street": "Cantón Grande",
+    "building": "yes",
+    "building:levels": "9",
+    "building:levels:underground": "6",
+    "name": "Sede Afundación A Coruña",
+    "source": "Catastro",
+    "toilets:wheelchair": "yes",
+    "tourism": "museum",
+    "website": "https://www.afundacion.org/es/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 162102328,
+  "nodes": [
+    5476016287,
+    1740373569,
+    1740373576,
+    3500081744,
+    1740373582,
+    6297604237,
+    6297604241,
+    5476016287
+  ],
+  "tags": {
+    "addr:city": "A Coruña",
+    "addr:housenumber": "1",
+    "addr:postcode": "15011",
+    "addr:street": "Praza do Museo Nacional de Ciencia",
+    "building": "museum",
+    "designation": "Museo Nacional de Ciencia y Tecnología",
+    "museum": "technology",
+    "museum_type": "national",
+    "name": "Museo Nacional de Ciencia e Tecnoloxía - MUNCYT",
+    "name:en": "National Museum of Science and Technology - MUNCYT",
+    "name:gl": "Museo Nacional de Ciencia e Tecnoloxía - MUNCYT",
+    "opening_hours": "Jul 1-Sep 14: Tu-Sa 11:00-20:00; Jul 1-Sep 14: Su 11:00-15:00; Sep 15-Jun 30: Tu-Fr 10:00-17:00; Sep 15-Jun 30: Sa 11:00-19:00; Sep 15-Jun 30: Su 11:00-15:00; Jan 1 off; Jan 6 off; May 1 off; Dec 24-25 off; Dec 31 off",
+    "operator": "Ministerio de Ciencia, Innovación e Universidades",
+    "source": "http://www.muncyt.es/",
+    "toilets": "yes",
+    "toilets:access": "yes",
+    "toilets:wheelchair": "yes",
+    "tourism": "museum",
+    "wikipedia": "gl:Museo Nacional de Ciencia e Tecnoloxía",
+    "wikipedia:es": "Museo Nacional de Ciencia y Tecnología",
+    "wikipedia:gl": "Museo Nacional de Ciencia e Tecnoloxía"
+  }
+},
+{
+  "type": "way",
+  "id": 177114441,
+  "nodes": [
+    1875833149,
+    5737093421,
+    1875833144,
+    1875833151,
+    5737089396,
+    3500081752,
+    3225088335,
+    3500081745,
+    1875833149
+  ],
+  "tags": {
+    "addr:city": "A Coruña",
+    "addr:housenumber": "14",
+    "addr:postcode": "15004",
+    "addr:street": "Rúa Payo Gómez",
+    "building": "yes",
+    "building:levels": "4",
+    "name": "Casa Museo Picasso",
+    "name:en": "Picasso House Museum",
+    "name:es": "Casa Museo Picasso",
+    "opening_hours": "Tu-Sa 11:00-13:30, 18:00-20:00; Su 12:00-14:00",
+    "phone": "+34 981 18 98 54",
+    "tourism": "museum",
+    "website": "https://www.coruna.es/servlet/Satellite?pagename=cultura/Page/Generico-Page-Generica&cid=1322783576553&itemID=1149055947672&itemType=Entidad",
+    "wikidata": "Q20549957",
+    "wikipedia": "es:Pablo Picasso"
+  }
+},
+{
+  "type": "way",
+  "id": 211117445,
+  "nodes": [
+    2211228937,
+    2211228917,
+    2462268309,
+    2211228946,
+    2211228948,
+    2211228937
+  ],
+  "tags": {
+    "addr:city": "Visantoña",
+    "addr:street": "As Brañas de Valga",
+    "building": "yes",
+    "email": "aulanatureza@concellodemesia.es",
+    "name": "Aula da Natureza e Museo Etnográfico das Brañas da Valga",
+    "nohousenumber": "yes",
+    "opening_hours": "Mo-Fr 10:00-14:00",
+    "operator": "Concello de Mesía",
+    "phone": "+34 699453750",
+    "phone_1": "+34 981687241",
+    "tourism": "museum",
+    "website": "http://aulanatureza.concellodemesia.es/"
+  }
+},
+{
+  "type": "way",
+  "id": 218917714,
+  "nodes": [
+    2281191982,
+    2281191996,
+    7066275697,
+    2281191984,
+    7066275727,
+    2281191983,
+    2281191982
+  ],
+  "tags": {
+    "addr:city": "A Coruña",
+    "addr:housenumber": "2A",
+    "addr:postcode": "15001",
+    "addr:street": "Paseo Alcalde Francisco Vázquez",
+    "alt_name:be": "крэпасць Сан-Анто́н",
+    "building": "tickets",
+    "museum": "archaeological",
+    "museum_type": "municipal",
+    "name": "Museo Arqueolóxico e Histórico - Castelo de Santo Antón",
+    "name:be": "Крэпасць Святога Антонія",
+    "name:de": "Archäologie und Geschichte Museum - Schloss Santo Anton",
+    "name:en": "Archaeological and Historical Museum - Santo Anton Castle",
+    "name:es": "Museo Arqueológico e Histórico - Castillo de San Antón",
+    "name:fr": "Musée archéologique et historique - Château Saint Anton",
+    "name:gl": "Museo Arqueolóxico e Histórico - Castelo de Santo Antón",
+    "name:it": "Museo Archeologico e Storico - Castello di Santo Anton",
+    "name:pt": "Museu Arqueológico e Histórico - Castelo de Santo Antão",
+    "opening_hours": "Jul-Aug: Tu-Sa 10:00-21:00; Jul-Aug: Su 10:00-15:00; Sep-Jun: Tu-Sa 10:00-19:30; Sep-Jun: Su 10:00-14:30",
+    "operator": "Concello da Coruña",
+    "toilets": "yes",
+    "toilets:access": "yes",
+    "tourism": "museum",
+    "website": "https://www.coruna.gal/cultura/gl/espazos/detalle-para-entidade/museo-arqueoloxico-castelo-de-san-anton/entidad/1149055937727",
+    "wheelchair": "limited",
+    "wikidata": "Q961912",
+    "wikipedia": "gl:Castelo de Santo Antón",
+    "wikipedia:be": "Крэпасць Святога Антонія",
+    "wikipedia:ca": "Castell de Santo Antón",
+    "wikipedia:es": "Castillo de San Antón (La Coruña)",
+    "wikipedia:gl": "Castelo de Santo Antón",
+    "wikipedia:pt": "Castelo de Santo Antón"
+  }
+},
+{
+  "type": "way",
+  "id": 314862939,
+  "nodes": [
+    3209069373,
+    3209069374,
+    3209069375,
+    3209069376,
+    6128997434,
+    6128997435,
+    3209069373
+  ],
+  "tags": {
+    "addr:city": "Cerceda",
+    "addr:housenumber": "37",
+    "addr:postcode": "15185",
+    "addr:street": "Avenida Galicia",
+    "building": "yes",
+    "email": "museomouchocentrosocial@yahoo.es",
+    "name": "Museo do Moucho",
+    "operator": "Concello de Cerceda",
+    "phone": "+34 981686215",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 335205200,
+  "nodes": [
+    3423264147,
+    3423264148,
+    3423264149,
+    3423264150,
+    3423264147
+  ],
+  "tags": {
+    "alt_name": "Centro de interpretación das baterías da beira do Monte San Pedro",
+    "building": "yes",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 335210924,
+  "nodes": [
+    3423318132,
+    3423318133,
+    3423318134,
+    3423318135,
+    3423318136,
+    3423318137,
+    3423318138,
+    3423318139,
+    3423318140,
+    3423318141,
+    3423318142,
+    882221398,
+    3404660839,
+    3423318132
+  ],
+  "tags": {
+    "addr:city": "A Coruña",
+    "addr:housenumber": "28",
+    "addr:postcode": "15001",
+    "addr:street": "Rúa de Ferrarías",
+    "building": "yes",
+    "name": "Casa Museo María Pita",
+    "name:en": "María Pita House Museum",
+    "name:es": "Casa Museo María Pita",
+    "opening_hours": "Mo off; Tu-Sa 10:30-14:00,17:30-20:00; Su 10:30-14:00",
+    "tourism": "museum",
+    "website": "http://www.coruna.es/servlet/Satellite?cid=1322783576553&itemID=1149055946641&itemType=Entidad&pagename=cultura%2FPage%2FGenerico-Page-Generica",
+    "wikipedia": "es:María Pita"
+  }
+},
+{
+  "type": "way",
+  "id": 343095754,
+  "nodes": [
+    3500081754,
+    3404656389,
+    882221400,
+    3500081749,
+    3500081748,
+    3500081754
+  ],
+  "tags": {
+    "addr:city": "A Coruña",
+    "addr:housenumber": "23",
+    "addr:postcode": "15001",
+    "addr:street": "Rúa da Porta de Aires",
+    "building": "yes",
+    "name": "Museo de Arte Sacra da Colexiata",
+    "name:en": "Collegiate Church Religious Art Museum",
+    "name:es": "Museo de Arte Sacro de la Colegiata",
+    "name:gl": "Museo de Arte Sacra da Colexiata",
+    "opening_hours": "Jun-Sep: Tu-Fr 09:00-14:00; Jun-Sep: Sa 10:00-13:00; Oct-May: Tu-Fr 10:00-13:00,15:30-17:30; Oct-May: Sa 10:00-13:00",
+    "tourism": "museum",
+    "website": "http://www.turismocoruna.com/web/corTurServer.php?idSecweb=97&idCategoria=119",
+    "wikipedia": "gl:Museo de Arte Sacra da Colexiata de Santa María do Campo"
+  }
+},
+{
+  "type": "way",
+  "id": 343095755,
+  "nodes": [
+    3500081743,
+    3500081753,
+    3500081739,
+    3500081740,
+    3398800515,
+    3500081743
+  ],
+  "tags": {
+    "addr:city": "A Coruña",
+    "addr:housenumber": "12",
+    "addr:postcode": "15001",
+    "addr:street": "Rúa Panadeiras",
+    "building": "yes",
+    "name": "Casa Museo Casares Quiroga",
+    "name:en": "Casares Quiroga House Museum",
+    "name:es": "Casa Museo Casares Quiroga",
+    "opening_hours": "Mo off; Tu-Sa 10:30-14:00,17:30-20:00; Su 10:30-14:00",
+    "tourism": "museum",
+    "website": "http://www.coruna.es/servlet/Satellite?cid=1322783576553&itemID=1176031245284&itemType=Entidad&pagename=cultura%2FPage%2FGenerico-Page-Generica",
+    "wikipedia": "es:Santiago Casares Quiroga"
+  }
+},
+{
+  "type": "way",
+  "id": 410296634,
+  "nodes": [
+    4121248777,
+    6134688208,
+    6134688211,
+    6134688210,
+    6134688209,
+    4121248778,
+    4121248779,
+    6134688203,
+    6134688202,
+    4121248780,
+    6134688201,
+    4121248781,
+    4121248777
+  ],
+  "tags": {
+    "addr:city": "Monfero",
+    "addr:postcode": "15619",
+    "addr:street": "O Convento, San Fiz de Monfero",
+    "building": "yes",
+    "email": "fragas.eume@xunta.es",
+    "name": "Centro de Visitantes de Monfero",
+    "nohousenumber": "yes",
+    "operator": "Xunta de Galicia",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 410354419,
+  "nodes": [
+    4121828004,
+    5100603649,
+    6137073447,
+    6137073448,
+    6137073449,
+    6137073452,
+    6137073451,
+    6137073450,
+    5100603668,
+    6137116485,
+    6137116486,
+    5100603648,
+    6137116484,
+    4121828005,
+    5100603650,
+    5100603653,
+    5100603654,
+    6137116487,
+    4121828006,
+    5100603655,
+    5100603656,
+    6137116496,
+    5100603647,
+    6137116497,
+    5100603652,
+    6157243619,
+    4121828007,
+    5100603651,
+    6137073444,
+    6137073445,
+    6137073446,
+    4121828004
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Centro Arqueolóxico do Caldoval",
+    "operator": "Concello de Mugardos",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 438655116,
+  "nodes": [
+    4363641489,
+    4363641497,
+    4363641503,
+    4363641502,
+    4363641500,
+    4363641496,
+    4363641493,
+    4363641495,
+    4363641494,
+    4363641498,
+    4363641499,
+    4363641501,
+    4363641491,
+    4363641492,
+    4363641388,
+    4363641489
+  ],
+  "tags": {
+    "addr:city": "Malpica de Bergantiños",
+    "addr:postcode": "15113",
+    "addr:street": "Buño, Buño",
+    "name": "Ecomuseo Forno do Forte",
+    "operator": "Concello de Malpica de Bergantiños",
+    "tourism": "museum",
+    "website": "http://www.concellomalpica.com/fornodoforte"
+  }
+},
+{
+  "type": "way",
+  "id": 438655117,
+  "nodes": [
+    4363641387,
+    4363641384,
+    4363641386,
+    4363641490,
+    4363641387
+  ],
+  "tags": {
+    "name": "Ecomuseo Forno do Forte",
+    "tourism": "museum",
+    "website": "http://www.concellomalpica.com/fornodoforte"
+  }
+},
+{
+  "type": "way",
+  "id": 457301074,
+  "nodes": [
+    4534688326,
+    4534688333,
+    4534688329,
+    4534688330,
+    4534688327,
+    4534688326
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Museo Naval",
+    "tourism": "museum",
+    "wikidata": "Q19969093"
+  }
+},
+{
+  "type": "way",
+  "id": 484522556,
+  "nodes": [
+    4772702542,
+    4772702545,
+    4772702546,
+    5538276958,
+    4772702544,
+    4772702542
+  ],
+  "tags": {
+    "addr:city": "Ferrol",
+    "addr:housenumber": "202-204",
+    "addr:postcode": "15402",
+    "addr:street": "Rúa Magdalena",
+    "building": "yes",
+    "contact:facebook": "https://www.facebook.com/ateneoferrolan1879/",
+    "contact:twitter": "ateneoferrolan",
+    "name": "Ateneo Ferrolán",
+    "name:es": "Ateneo Ferrolán",
+    "name:gl": "Ateneo Ferrolán",
+    "phone": "+34 981 357970",
+    "tourism": "museum",
+    "website": "https://ateneo-ferrolan.blogspot.com/",
+    "wikidata": "Q9636032",
+    "wikipedia": "gl:Ateneo Ferrolán"
+  }
+},
+{
+  "type": "way",
+  "id": 656852948,
+  "nodes": [
+    6152623384,
+    6152623685,
+    6152623686,
+    6152623687,
+    6152623384
+  ],
+  "tags": {
+    "addr:city": "A Capela",
+    "addr:street": "O Pazo, A Capela",
+    "building": "yes",
+    "email": "info@museodacapela.org",
+    "name": "Museo Etnográfico da Capela",
+    "note": "Prezo: 1 € a menores de 6 a 12 anos e grupos de miás de 10 persoas. Con entrada para menores de 6 anos. ",
+    "operator": "Concello da Capela",
+    "phone": "+34 981 459 380",
+    "phone_1": "+34 678713971",
+    "tourism": "museum",
+    "website": "http://www.museodacapela.org/"
+  }
+},
+{
+  "type": "way",
+  "id": 732216496,
+  "nodes": [
+    6856245539,
+    6856245545,
+    6856245540,
+    6856245541,
+    6856245542,
+    6856245543,
+    3743124739,
+    3743124750,
+    3743123150,
+    6856245544,
+    4757075946,
+    2813733269,
+    4757075945,
+    4757075942,
+    4757054734,
+    6856245539
+  ],
+  "tags": {
+    "fixme": "Repasar forma y etiquetado.",
+    "museum": "science",
+    "name": "Aquaciencia",
+    "opening_hours": "PH off; Tu,Sa 10:00-14:00,16:30-20:00",
+    "phone": "+34 981 944221",
+    "tourism": "museum",
+    "website": "http://www.ferrol.es/aquaciencia/ven.html"
+  }
+},
+{
+  "type": "way",
+  "id": 766172862,
+  "nodes": [
+    7155907603,
+    7155907604,
+    7155907605,
+    7155907606,
+    7155907607,
+    7155907603
+  ],
+  "tags": {
+    "building": "yes",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "relation",
+  "id": 2114013,
+  "members": [
+    {
+      "type": "way",
+      "ref": 157940309,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Museo Galego de Arte Contemporánea \"Carlos Maside\"",
+    "source": "PNOA;catastro",
+    "tourism": "museum",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 9449238,
+  "members": [
+    {
+      "type": "way",
+      "ref": 438655118,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 680870332,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "name": "Ecomuseo Forno do Forte",
+    "tourism": "museum",
+    "type": "multipolygon",
+    "website": "http://www.concellomalpica.com/fornodoforte"
+  }
+},
+{
+  "type": "node",
+  "id": 3209069373,
+  "lat": 43.1885437,
+  "lon": -8.4745582
+},
+{
+  "type": "node",
+  "id": 3209069374,
+  "lat": 43.1883968,
+  "lon": -8.4743685
+},
+{
+  "type": "node",
+  "id": 3209069375,
+  "lat": 43.1883326,
+  "lon": -8.4744505
+},
+{
+  "type": "node",
+  "id": 3209069376,
+  "lat": 43.1884877,
+  "lon": -8.4746174
+},
+{
+  "type": "node",
+  "id": 6128997434,
+  "lat": 43.1885070,
+  "lon": -8.4746302
+},
+{
+  "type": "node",
+  "id": 6128997435,
+  "lat": 43.1885303,
+  "lon": -8.4746197
+},
+{
+  "type": "node",
+  "id": 2211228917,
+  "lat": 43.1292969,
+  "lon": -8.2989063
+},
+{
+  "type": "node",
+  "id": 2211228937,
+  "lat": 43.1293907,
+  "lon": -8.2990471
+},
+{
+  "type": "node",
+  "id": 2211228946,
+  "lat": 43.1291737,
+  "lon": -8.2990606
+},
+{
+  "type": "node",
+  "id": 2211228948,
+  "lat": 43.1292675,
+  "lon": -8.2992014
+},
+{
+  "type": "node",
+  "id": 2462268309,
+  "lat": 43.1292399,
+  "lon": -8.2989777
+},
+{
+  "type": "node",
+  "id": 7155907603,
+  "lat": 43.1731228,
+  "lon": -8.1973886
+},
+{
+  "type": "node",
+  "id": 7155907604,
+  "lat": 43.1732382,
+  "lon": -8.1972780
+},
+{
+  "type": "node",
+  "id": 7155907605,
+  "lat": 43.1731924,
+  "lon": -8.1971700
+},
+{
+  "type": "node",
+  "id": 7155907606,
+  "lat": 43.1730953,
+  "lon": -8.1972353
+},
+{
+  "type": "node",
+  "id": 7155907607,
+  "lat": 43.1730624,
+  "lon": -8.1972454
+},
+{
+  "type": "node",
+  "id": 4363641380,
+  "lat": 43.2684330,
+  "lon": -8.7825333
+},
+{
+  "type": "node",
+  "id": 4363641381,
+  "lat": 43.2684794,
+  "lon": -8.7824944
+},
+{
+  "type": "node",
+  "id": 4363641382,
+  "lat": 43.2684955,
+  "lon": -8.7827526
+},
+{
+  "type": "node",
+  "id": 4363641383,
+  "lat": 43.2685311,
+  "lon": -8.7827626
+},
+{
+  "type": "node",
+  "id": 4363641384,
+  "lat": 43.2685379,
+  "lon": -8.7826490
+},
+{
+  "type": "node",
+  "id": 4363641385,
+  "lat": 43.2685575,
+  "lon": -8.7827754
+},
+{
+  "type": "node",
+  "id": 4363641386,
+  "lat": 43.2685731,
+  "lon": -8.7827110
+},
+{
+  "type": "node",
+  "id": 4363641387,
+  "lat": 43.2685736,
+  "lon": -8.7826057
+},
+{
+  "type": "node",
+  "id": 4363641388,
+  "lat": 43.2685752,
+  "lon": -8.7828096
+},
+{
+  "type": "node",
+  "id": 4363641489,
+  "lat": 43.2685856,
+  "lon": -8.7828826
+},
+{
+  "type": "node",
+  "id": 4363641490,
+  "lat": 43.2686063,
+  "lon": -8.7826684
+},
+{
+  "type": "node",
+  "id": 4363641491,
+  "lat": 43.2686280,
+  "lon": -8.7827525
+},
+{
+  "type": "node",
+  "id": 4363641492,
+  "lat": 43.2686293,
+  "lon": -8.7827600
+},
+{
+  "type": "node",
+  "id": 4363641493,
+  "lat": 43.2686300,
+  "lon": -8.7825118
+},
+{
+  "type": "node",
+  "id": 4363641494,
+  "lat": 43.2686349,
+  "lon": -8.7825480
+},
+{
+  "type": "node",
+  "id": 4363641495,
+  "lat": 43.2686451,
+  "lon": -8.7825345
+},
+{
+  "type": "node",
+  "id": 4363641496,
+  "lat": 43.2686564,
+  "lon": -8.7824809
+},
+{
+  "type": "node",
+  "id": 4363641497,
+  "lat": 43.2686632,
+  "lon": -8.7828665
+},
+{
+  "type": "node",
+  "id": 4363641498,
+  "lat": 43.2686798,
+  "lon": -8.7826251
+},
+{
+  "type": "node",
+  "id": 4363641499,
+  "lat": 43.2686944,
+  "lon": -8.7826063
+},
+{
+  "type": "node",
+  "id": 4363641500,
+  "lat": 43.2686964,
+  "lon": -8.7825252
+},
+{
+  "type": "node",
+  "id": 4363641501,
+  "lat": 43.2687169,
+  "lon": -8.7826935
+},
+{
+  "type": "node",
+  "id": 4363641502,
+  "lat": 43.2687286,
+  "lon": -8.7825748
+},
+{
+  "type": "node",
+  "id": 4363641503,
+  "lat": 43.2688017,
+  "lon": -8.7828006
+},
+{
+  "type": "node",
+  "id": 1740373569,
+  "lat": 43.3733086,
+  "lon": -8.4200753
+},
+{
+  "type": "node",
+  "id": 1740373576,
+  "lat": 43.3729668,
+  "lon": -8.4201466
+},
+{
+  "type": "node",
+  "id": 1740373582,
+  "lat": 43.3730186,
+  "lon": -8.4206150
+},
+{
+  "type": "node",
+  "id": 3500081744,
+  "lat": 43.3729766,
+  "lon": -8.4202371
+},
+{
+  "type": "node",
+  "id": 5476016287,
+  "lat": 43.3733633,
+  "lon": -8.4205683
+},
+{
+  "type": "node",
+  "id": 6297604237,
+  "lat": 43.3731896,
+  "lon": -8.4205795
+},
+{
+  "type": "node",
+  "id": 6297604241,
+  "lat": 43.3731922,
+  "lon": -8.4206039
+},
+{
+  "type": "node",
+  "id": 461928441,
+  "lat": 43.3621359,
+  "lon": -8.4126188
+},
+{
+  "type": "node",
+  "id": 461928445,
+  "lat": 43.3621978,
+  "lon": -8.4125367
+},
+{
+  "type": "node",
+  "id": 461928446,
+  "lat": 43.3621993,
+  "lon": -8.4124187
+},
+{
+  "type": "node",
+  "id": 461928447,
+  "lat": 43.3621395,
+  "lon": -8.4123338
+},
+{
+  "type": "node",
+  "id": 461928452,
+  "lat": 43.3620536,
+  "lon": -8.4123318
+},
+{
+  "type": "node",
+  "id": 461928455,
+  "lat": 43.3619916,
+  "lon": -8.4124130
+},
+{
+  "type": "node",
+  "id": 461928458,
+  "lat": 43.3619898,
+  "lon": -8.4125317
+},
+{
+  "type": "node",
+  "id": 461928460,
+  "lat": 43.3620496,
+  "lon": -8.4126166
+},
+{
+  "type": "node",
+  "id": 1462248289,
+  "lat": 43.3677192,
+  "lon": -8.4017216
+},
+{
+  "type": "node",
+  "id": 1462248293,
+  "lat": 43.3677930,
+  "lon": -8.4017971
+},
+{
+  "type": "node",
+  "id": 1737804400,
+  "lat": 43.3681045,
+  "lon": -8.4033024
+},
+{
+  "type": "node",
+  "id": 1737804401,
+  "lat": 43.3680996,
+  "lon": -8.4037843
+},
+{
+  "type": "node",
+  "id": 1737804402,
+  "lat": 43.3679286,
+  "lon": -8.4035061
+},
+{
+  "type": "node",
+  "id": 1737804403,
+  "lat": 43.3682631,
+  "lon": -8.4035620
+},
+{
+  "type": "node",
+  "id": 1737805215,
+  "lat": 43.3684089,
+  "lon": -8.4034218
+},
+{
+  "type": "node",
+  "id": 1737805219,
+  "lat": 43.3682280,
+  "lon": -8.4031595
+},
+{
+  "type": "node",
+  "id": 1875833144,
+  "lat": 43.3673980,
+  "lon": -8.4068844
+},
+{
+  "type": "node",
+  "id": 1875833149,
+  "lat": 43.3673576,
+  "lon": -8.4069828
+},
+{
+  "type": "node",
+  "id": 1875833151,
+  "lat": 43.3673486,
+  "lon": -8.4068418
+},
+{
+  "type": "node",
+  "id": 3225088335,
+  "lat": 43.3672648,
+  "lon": -8.4071234
+},
+{
+  "type": "node",
+  "id": 3227387122,
+  "lat": 43.3683685,
+  "lon": -8.4034450
+},
+{
+  "type": "node",
+  "id": 3375596769,
+  "lat": 43.3679994,
+  "lon": -8.4034241
+},
+{
+  "type": "node",
+  "id": 3500081745,
+  "lat": 43.3672874,
+  "lon": -8.4071426
+},
+{
+  "type": "node",
+  "id": 3500081752,
+  "lat": 43.3672382,
+  "lon": -8.4071001
+},
+{
+  "type": "node",
+  "id": 5737089396,
+  "lat": 43.3673191,
+  "lon": -8.4069106
+},
+{
+  "type": "node",
+  "id": 5737093421,
+  "lat": 43.3673880,
+  "lon": -8.4069093
+},
+{
+  "type": "node",
+  "id": 6589681095,
+  "lat": 43.3678037,
+  "lon": -8.4017774
+},
+{
+  "type": "node",
+  "id": 3227386843,
+  "lat": 43.3685431,
+  "lon": -8.4036200
+},
+{
+  "type": "node",
+  "id": 3227387138,
+  "lat": 43.3685180,
+  "lon": -8.4036517
+},
+{
+  "type": "node",
+  "id": 1462248287,
+  "lat": 43.3680599,
+  "lon": -8.4013039
+},
+{
+  "type": "node",
+  "id": 1462248291,
+  "lat": 43.3679861,
+  "lon": -8.4012284
+},
+{
+  "type": "node",
+  "id": 3428654343,
+  "lat": 43.3679278,
+  "lon": -8.4015480
+},
+{
+  "type": "node",
+  "id": 6589681088,
+  "lat": 43.3680497,
+  "lon": -8.4013228
+},
+{
+  "type": "node",
+  "id": 6589681091,
+  "lat": 43.3679387,
+  "lon": -8.4015278
+},
+{
+  "type": "node",
+  "id": 6589681092,
+  "lat": 43.3679141,
+  "lon": -8.4015733
+},
+{
+  "type": "node",
+  "id": 2281191982,
+  "lat": 43.3659621,
+  "lon": -8.3888473
+},
+{
+  "type": "node",
+  "id": 2281191983,
+  "lat": 43.3658882,
+  "lon": -8.3888211
+},
+{
+  "type": "node",
+  "id": 2281191984,
+  "lat": 43.3659175,
+  "lon": -8.3886646
+},
+{
+  "type": "node",
+  "id": 2281191996,
+  "lat": 43.3659914,
+  "lon": -8.3886908
+},
+{
+  "type": "node",
+  "id": 7066275697,
+  "lat": 43.3659709,
+  "lon": -8.3886835
+},
+{
+  "type": "node",
+  "id": 7066275727,
+  "lat": 43.3659032,
+  "lon": -8.3887414
+},
+{
+  "type": "node",
+  "id": 1695821391,
+  "lat": 43.3728816,
+  "lon": -8.4001508
+},
+{
+  "type": "node",
+  "id": 1695821398,
+  "lat": 43.3727404,
+  "lon": -8.3993552
+},
+{
+  "type": "node",
+  "id": 1695821400,
+  "lat": 43.3726279,
+  "lon": -8.4000758
+},
+{
+  "type": "node",
+  "id": 1695821402,
+  "lat": 43.3729941,
+  "lon": -8.3994301
+},
+{
+  "type": "node",
+  "id": 2634171013,
+  "lat": 43.3726599,
+  "lon": -8.3998709
+},
+{
+  "type": "node",
+  "id": 3398800515,
+  "lat": 43.3729859,
+  "lon": -8.3979944
+},
+{
+  "type": "node",
+  "id": 3500081739,
+  "lat": 43.3733150,
+  "lon": -8.3980046
+},
+{
+  "type": "node",
+  "id": 3500081740,
+  "lat": 43.3729955,
+  "lon": -8.3979432
+},
+{
+  "type": "node",
+  "id": 3500081743,
+  "lat": 43.3729777,
+  "lon": -8.3980370
+},
+{
+  "type": "node",
+  "id": 3500081753,
+  "lat": 43.3732969,
+  "lon": -8.3981066
+},
+{
+  "type": "node",
+  "id": 472433848,
+  "lat": 43.3690965,
+  "lon": -8.3907376
+},
+{
+  "type": "node",
+  "id": 876196060,
+  "lat": 43.3691331,
+  "lon": -8.3910848
+},
+{
+  "type": "node",
+  "id": 882221398,
+  "lat": 43.3710958,
+  "lon": -8.3923147
+},
+{
+  "type": "node",
+  "id": 882221400,
+  "lat": 43.3709144,
+  "lon": -8.3926260
+},
+{
+  "type": "node",
+  "id": 888775297,
+  "lat": 43.3691453,
+  "lon": -8.3912635
+},
+{
+  "type": "node",
+  "id": 888775356,
+  "lat": 43.3690669,
+  "lon": -8.3914051
+},
+{
+  "type": "node",
+  "id": 888775367,
+  "lat": 43.3691208,
+  "lon": -8.3910373
+},
+{
+  "type": "node",
+  "id": 888775393,
+  "lat": 43.3691572,
+  "lon": -8.3908021
+},
+{
+  "type": "node",
+  "id": 888775403,
+  "lat": 43.3691309,
+  "lon": -8.3912492
+},
+{
+  "type": "node",
+  "id": 888775449,
+  "lat": 43.3688656,
+  "lon": -8.3912772
+},
+{
+  "type": "node",
+  "id": 888775469,
+  "lat": 43.3690763,
+  "lon": -8.3914154
+},
+{
+  "type": "node",
+  "id": 888775518,
+  "lat": 43.3691418,
+  "lon": -8.3907895
+},
+{
+  "type": "node",
+  "id": 888775522,
+  "lat": 43.3689385,
+  "lon": -8.3913457
+},
+{
+  "type": "node",
+  "id": 888775534,
+  "lat": 43.3691978,
+  "lon": -8.3908773
+},
+{
+  "type": "node",
+  "id": 888775583,
+  "lat": 43.3691746,
+  "lon": -8.3911584
+},
+{
+  "type": "node",
+  "id": 888775585,
+  "lat": 43.3689480,
+  "lon": -8.3913279
+},
+{
+  "type": "node",
+  "id": 888775642,
+  "lat": 43.3691437,
+  "lon": -8.3908297
+},
+{
+  "type": "node",
+  "id": 888775660,
+  "lat": 43.3691453,
+  "lon": -8.3907815
+},
+{
+  "type": "node",
+  "id": 888775689,
+  "lat": 43.3691226,
+  "lon": -8.3911064
+},
+{
+  "type": "node",
+  "id": 888775691,
+  "lat": 43.3690573,
+  "lon": -8.3914257
+},
+{
+  "type": "node",
+  "id": 888775774,
+  "lat": 43.3691449,
+  "lon": -8.3910607
+},
+{
+  "type": "node",
+  "id": 1462264193,
+  "lat": 43.3690079,
+  "lon": -8.3894798
+},
+{
+  "type": "node",
+  "id": 1462264194,
+  "lat": 43.3687877,
+  "lon": -8.3891898
+},
+{
+  "type": "node",
+  "id": 1462264195,
+  "lat": 43.3687303,
+  "lon": -8.3891597
+},
+{
+  "type": "node",
+  "id": 1462264196,
+  "lat": 43.3685456,
+  "lon": -8.3893192
+},
+{
+  "type": "node",
+  "id": 1462264197,
+  "lat": 43.3687165,
+  "lon": -8.3891146
+},
+{
+  "type": "node",
+  "id": 1462264205,
+  "lat": 43.3688374,
+  "lon": -8.3891610
+},
+{
+  "type": "node",
+  "id": 1462264207,
+  "lat": 43.3684792,
+  "lon": -8.3892525
+},
+{
+  "type": "node",
+  "id": 1462264209,
+  "lat": 43.3689027,
+  "lon": -8.3893737
+},
+{
+  "type": "node",
+  "id": 1462264211,
+  "lat": 43.3686574,
+  "lon": -8.3896835
+},
+{
+  "type": "node",
+  "id": 1462264213,
+  "lat": 43.3689643,
+  "lon": -8.3893379
+},
+{
+  "type": "node",
+  "id": 1462264214,
+  "lat": 43.3685066,
+  "lon": -8.3893418
+},
+{
+  "type": "node",
+  "id": 1462264215,
+  "lat": 43.3687712,
+  "lon": -8.3891359
+},
+{
+  "type": "node",
+  "id": 1719255691,
+  "lat": 43.3691101,
+  "lon": -8.3899168
+},
+{
+  "type": "node",
+  "id": 1719255695,
+  "lat": 43.3690499,
+  "lon": -8.3904057
+},
+{
+  "type": "node",
+  "id": 1719255697,
+  "lat": 43.3690388,
+  "lon": -8.3901928
+},
+{
+  "type": "node",
+  "id": 1719255699,
+  "lat": 43.3693412,
+  "lon": -8.3903770
+},
+{
+  "type": "node",
+  "id": 1719255701,
+  "lat": 43.3693318,
+  "lon": -8.3901984
+},
+{
+  "type": "node",
+  "id": 1719255702,
+  "lat": 43.3692090,
+  "lon": -8.3899070
+},
+{
+  "type": "node",
+  "id": 1719255704,
+  "lat": 43.3692248,
+  "lon": -8.3902090
+},
+{
+  "type": "node",
+  "id": 1719255706,
+  "lat": 43.3691240,
+  "lon": -8.3901844
+},
+{
+  "type": "node",
+  "id": 3404656389,
+  "lat": 43.3709177,
+  "lon": -8.3926639
+},
+{
+  "type": "node",
+  "id": 3404660839,
+  "lat": 43.3711052,
+  "lon": -8.3923724
+},
+{
+  "type": "node",
+  "id": 3406247431,
+  "lat": 43.3689913,
+  "lon": -8.3909606
+},
+{
+  "type": "node",
+  "id": 3423318132,
+  "lat": 43.3711131,
+  "lon": -8.3924213
+},
+{
+  "type": "node",
+  "id": 3423318133,
+  "lat": 43.3709920,
+  "lon": -8.3924560
+},
+{
+  "type": "node",
+  "id": 3423318134,
+  "lat": 43.3709881,
+  "lon": -8.3924305
+},
+{
+  "type": "node",
+  "id": 3423318135,
+  "lat": 43.3709657,
+  "lon": -8.3924359
+},
+{
+  "type": "node",
+  "id": 3423318136,
+  "lat": 43.3709559,
+  "lon": -8.3923863
+},
+{
+  "type": "node",
+  "id": 3423318137,
+  "lat": 43.3709705,
+  "lon": -8.3923796
+},
+{
+  "type": "node",
+  "id": 3423318138,
+  "lat": 43.3709627,
+  "lon": -8.3923206
+},
+{
+  "type": "node",
+  "id": 3423318139,
+  "lat": 43.3709774,
+  "lon": -8.3923179
+},
+{
+  "type": "node",
+  "id": 3423318140,
+  "lat": 43.3709704,
+  "lon": -8.3922416
+},
+{
+  "type": "node",
+  "id": 3423318141,
+  "lat": 43.3710084,
+  "lon": -8.3922373
+},
+{
+  "type": "node",
+  "id": 3423318142,
+  "lat": 43.3710183,
+  "lon": -8.3923501
+},
+{
+  "type": "node",
+  "id": 3494928823,
+  "lat": 43.3688552,
+  "lon": -8.3895686
+},
+{
+  "type": "node",
+  "id": 3494928847,
+  "lat": 43.3689804,
+  "lon": -8.3910317
+},
+{
+  "type": "node",
+  "id": 3494928889,
+  "lat": 43.3689636,
+  "lon": -8.3910148
+},
+{
+  "type": "node",
+  "id": 3500081748,
+  "lat": 43.3710305,
+  "lon": -8.3926671
+},
+{
+  "type": "node",
+  "id": 3500081749,
+  "lat": 43.3710236,
+  "lon": -8.3926161
+},
+{
+  "type": "node",
+  "id": 3500081754,
+  "lat": 43.3709196,
+  "lon": -8.3926917
+},
+{
+  "type": "node",
+  "id": 3660697820,
+  "lat": 43.3691125,
+  "lon": -8.3899632
+},
+{
+  "type": "node",
+  "id": 3660697821,
+  "lat": 43.3691171,
+  "lon": -8.3900525
+},
+{
+  "type": "node",
+  "id": 6307058943,
+  "lat": 43.3689873,
+  "lon": -8.3909685
+},
+{
+  "type": "node",
+  "id": 3423264147,
+  "lat": 43.3781523,
+  "lon": -8.4370806
+},
+{
+  "type": "node",
+  "id": 3423264148,
+  "lat": 43.3782151,
+  "lon": -8.4369618
+},
+{
+  "type": "node",
+  "id": 3423264149,
+  "lat": 43.3781513,
+  "lon": -8.4368980
+},
+{
+  "type": "node",
+  "id": 3423264150,
+  "lat": 43.3780885,
+  "lon": -8.4370168
+},
+{
+  "type": "node",
+  "id": 1635360221,
+  "lat": 43.3772849,
+  "lon": -8.4062148
+},
+{
+  "type": "node",
+  "id": 1635360234,
+  "lat": 43.3773976,
+  "lon": -8.4064346
+},
+{
+  "type": "node",
+  "id": 1635360235,
+  "lat": 43.3774122,
+  "lon": -8.4061641
+},
+{
+  "type": "node",
+  "id": 1635360237,
+  "lat": 43.3774724,
+  "lon": -8.4061144
+},
+{
+  "type": "node",
+  "id": 1635360243,
+  "lat": 43.3775504,
+  "lon": -8.4066253
+},
+{
+  "type": "node",
+  "id": 1635360250,
+  "lat": 43.3776288,
+  "lon": -8.4064566
+},
+{
+  "type": "node",
+  "id": 1635360253,
+  "lat": 43.3776770,
+  "lon": -8.4063462
+},
+{
+  "type": "node",
+  "id": 1635360255,
+  "lat": 43.3776970,
+  "lon": -8.4064511
+},
+{
+  "type": "node",
+  "id": 1635360257,
+  "lat": 43.3776970,
+  "lon": -8.4065201
+},
+{
+  "type": "node",
+  "id": 1635360262,
+  "lat": 43.3777338,
+  "lon": -8.4067885
+},
+{
+  "type": "node",
+  "id": 1635360263,
+  "lat": 43.3777372,
+  "lon": -8.4064870
+},
+{
+  "type": "node",
+  "id": 1635360266,
+  "lat": 43.3777733,
+  "lon": -8.4065063
+},
+{
+  "type": "node",
+  "id": 1635360267,
+  "lat": 43.3777913,
+  "lon": -8.4065835
+},
+{
+  "type": "node",
+  "id": 1635360268,
+  "lat": 43.3778434,
+  "lon": -8.4065642
+},
+{
+  "type": "node",
+  "id": 1635360269,
+  "lat": 43.3778595,
+  "lon": -8.4066525
+},
+{
+  "type": "node",
+  "id": 1635360270,
+  "lat": 43.3778956,
+  "lon": -8.4066691
+},
+{
+  "type": "node",
+  "id": 1635360272,
+  "lat": 43.3779357,
+  "lon": -8.4068953
+},
+{
+  "type": "node",
+  "id": 1848507281,
+  "lat": 43.3776073,
+  "lon": -8.4063326
+},
+{
+  "type": "node",
+  "id": 3388448611,
+  "lat": 43.3775130,
+  "lon": -8.4062175
+},
+{
+  "type": "node",
+  "id": 3388448644,
+  "lat": 43.3776103,
+  "lon": -8.4062253
+},
+{
+  "type": "node",
+  "id": 31609503,
+  "lat": 43.3833912,
+  "lon": -8.4107726
+},
+{
+  "type": "node",
+  "id": 31618484,
+  "lat": 43.3837931,
+  "lon": -8.4106379
+},
+{
+  "type": "node",
+  "id": 265667897,
+  "lat": 43.3830638,
+  "lon": -8.4110310
+},
+{
+  "type": "node",
+  "id": 1594955587,
+  "lat": 43.3828188,
+  "lon": -8.4105212
+},
+{
+  "type": "node",
+  "id": 1594955588,
+  "lat": 43.3828283,
+  "lon": -8.4104359
+},
+{
+  "type": "node",
+  "id": 1594955590,
+  "lat": 43.3828538,
+  "lon": -8.4103493
+},
+{
+  "type": "node",
+  "id": 1594955603,
+  "lat": 43.3828862,
+  "lon": -8.4102903
+},
+{
+  "type": "node",
+  "id": 1594955607,
+  "lat": 43.3829326,
+  "lon": -8.4102329
+},
+{
+  "type": "node",
+  "id": 1594955609,
+  "lat": 43.3829817,
+  "lon": -8.4109233
+},
+{
+  "type": "node",
+  "id": 1594955614,
+  "lat": 43.3830103,
+  "lon": -8.4109044
+},
+{
+  "type": "node",
+  "id": 1594955622,
+  "lat": 43.3831293,
+  "lon": -8.4101517
+},
+{
+  "type": "node",
+  "id": 1594955623,
+  "lat": 43.3831726,
+  "lon": -8.4101192
+},
+{
+  "type": "node",
+  "id": 1594955626,
+  "lat": 43.3832464,
+  "lon": -8.4100444
+},
+{
+  "type": "node",
+  "id": 1594955638,
+  "lat": 43.3833268,
+  "lon": -8.4099402
+},
+{
+  "type": "node",
+  "id": 1594955641,
+  "lat": 43.3834177,
+  "lon": -8.4098285
+},
+{
+  "type": "node",
+  "id": 1594955642,
+  "lat": 43.3834767,
+  "lon": -8.4097885
+},
+{
+  "type": "node",
+  "id": 1594955652,
+  "lat": 43.3835184,
+  "lon": -8.4097834
+},
+{
+  "type": "node",
+  "id": 1594955657,
+  "lat": 43.3835697,
+  "lon": -8.4095872
+},
+{
+  "type": "node",
+  "id": 1594955659,
+  "lat": 43.3835662,
+  "lon": -8.4096833
+},
+{
+  "type": "node",
+  "id": 1594955661,
+  "lat": 43.3835917,
+  "lon": -8.4097103
+},
+{
+  "type": "node",
+  "id": 1594955662,
+  "lat": 43.3835926,
+  "lon": -8.4096364
+},
+{
+  "type": "node",
+  "id": 1594955664,
+  "lat": 43.3836281,
+  "lon": -8.4097125
+},
+{
+  "type": "node",
+  "id": 1594955666,
+  "lat": 43.3836272,
+  "lon": -8.4097970
+},
+{
+  "type": "node",
+  "id": 1594955677,
+  "lat": 43.3836363,
+  "lon": -8.4097717
+},
+{
+  "type": "node",
+  "id": 1594955679,
+  "lat": 43.3836452,
+  "lon": -8.4094734
+},
+{
+  "type": "node",
+  "id": 1594955681,
+  "lat": 43.3836449,
+  "lon": -8.4097482
+},
+{
+  "type": "node",
+  "id": 1594955683,
+  "lat": 43.3836468,
+  "lon": -8.4092663
+},
+{
+  "type": "node",
+  "id": 1594955685,
+  "lat": 43.3836608,
+  "lon": -8.4095067
+},
+{
+  "type": "node",
+  "id": 1594955686,
+  "lat": 43.3836809,
+  "lon": -8.4093406
+},
+{
+  "type": "node",
+  "id": 1594955687,
+  "lat": 43.3836941,
+  "lon": -8.4093692
+},
+{
+  "type": "node",
+  "id": 1594955688,
+  "lat": 43.3837193,
+  "lon": -8.4096319
+},
+{
+  "type": "node",
+  "id": 1594955689,
+  "lat": 43.3837188,
+  "lon": -8.4094084
+},
+{
+  "type": "node",
+  "id": 1594955701,
+  "lat": 43.3837342,
+  "lon": -8.4094415
+},
+{
+  "type": "node",
+  "id": 1594955704,
+  "lat": 43.3837345,
+  "lon": -8.4087449
+},
+{
+  "type": "node",
+  "id": 1594955707,
+  "lat": 43.3837550,
+  "lon": -8.4094232
+},
+{
+  "type": "node",
+  "id": 1594955709,
+  "lat": 43.3837928,
+  "lon": -8.4095675
+},
+{
+  "type": "node",
+  "id": 1594955711,
+  "lat": 43.3838137,
+  "lon": -8.4095490
+},
+{
+  "type": "node",
+  "id": 1594955714,
+  "lat": 43.3838345,
+  "lon": -8.4096567
+},
+{
+  "type": "node",
+  "id": 1594955715,
+  "lat": 43.3839861,
+  "lon": -8.4104862
+},
+{
+  "type": "node",
+  "id": 1594955717,
+  "lat": 43.3840343,
+  "lon": -8.4090072
+},
+{
+  "type": "node",
+  "id": 1594955719,
+  "lat": 43.3840103,
+  "lon": -8.4102551
+},
+{
+  "type": "node",
+  "id": 1594955722,
+  "lat": 43.3840679,
+  "lon": -8.4104603
+},
+{
+  "type": "node",
+  "id": 1594955724,
+  "lat": 43.3840846,
+  "lon": -8.4100619
+},
+{
+  "type": "node",
+  "id": 1594955726,
+  "lat": 43.3840347,
+  "lon": -8.4102336
+},
+{
+  "type": "node",
+  "id": 1594955728,
+  "lat": 43.3841292,
+  "lon": -8.4093962
+},
+{
+  "type": "node",
+  "id": 1594955730,
+  "lat": 43.3841532,
+  "lon": -8.4104875
+},
+{
+  "type": "node",
+  "id": 1594955733,
+  "lat": 43.3841683,
+  "lon": -8.4106525
+},
+{
+  "type": "node",
+  "id": 1594955736,
+  "lat": 43.3842453,
+  "lon": -8.4104061
+},
+{
+  "type": "node",
+  "id": 1594955739,
+  "lat": 43.3842868,
+  "lon": -8.4106468
+},
+{
+  "type": "node",
+  "id": 1594955742,
+  "lat": 43.3843362,
+  "lon": -8.4098395
+},
+{
+  "type": "node",
+  "id": 1594955749,
+  "lat": 43.3844469,
+  "lon": -8.4105510
+},
+{
+  "type": "node",
+  "id": 1594955751,
+  "lat": 43.3844694,
+  "lon": -8.4106064
+},
+{
+  "type": "node",
+  "id": 1594955753,
+  "lat": 43.3844977,
+  "lon": -8.4105852
+},
+{
+  "type": "node",
+  "id": 1594955756,
+  "lat": 43.3845179,
+  "lon": -8.4097724
+},
+{
+  "type": "node",
+  "id": 1594955759,
+  "lat": 43.3846088,
+  "lon": -8.4106078
+},
+{
+  "type": "node",
+  "id": 1594955760,
+  "lat": 43.3846366,
+  "lon": -8.4107716
+},
+{
+  "type": "node",
+  "id": 1594955762,
+  "lat": 43.3847090,
+  "lon": -8.4107615
+},
+{
+  "type": "node",
+  "id": 1594955764,
+  "lat": 43.3847363,
+  "lon": -8.4106697
+},
+{
+  "type": "node",
+  "id": 1594955766,
+  "lat": 43.3847743,
+  "lon": -8.4104793
+},
+{
+  "type": "node",
+  "id": 1594955770,
+  "lat": 43.3847842,
+  "lon": -8.4097455
+},
+{
+  "type": "node",
+  "id": 1594955772,
+  "lat": 43.3848038,
+  "lon": -8.4103730
+},
+{
+  "type": "node",
+  "id": 1594955773,
+  "lat": 43.3848196,
+  "lon": -8.4098159
+},
+{
+  "type": "node",
+  "id": 1594955775,
+  "lat": 43.3848451,
+  "lon": -8.4102380
+},
+{
+  "type": "node",
+  "id": 1594955778,
+  "lat": 43.3848294,
+  "lon": -8.4098863
+},
+{
+  "type": "node",
+  "id": 1594955781,
+  "lat": 43.3848726,
+  "lon": -8.4101425
+},
+{
+  "type": "node",
+  "id": 1594955782,
+  "lat": 43.3848842,
+  "lon": -8.4100488
+},
+{
+  "type": "node",
+  "id": 1960823889,
+  "lat": 43.3836614,
+  "lon": -8.4107246
+},
+{
+  "type": "node",
+  "id": 5872045829,
+  "lat": 43.3834078,
+  "lon": -8.4107653
+},
+{
+  "type": "node",
+  "id": 5872045875,
+  "lat": 43.3831475,
+  "lon": -8.4101380
+},
+{
+  "type": "node",
+  "id": 5872045876,
+  "lat": 43.3830185,
+  "lon": -8.4109240
+},
+{
+  "type": "node",
+  "id": 5872045884,
+  "lat": 43.3832228,
+  "lon": -8.4109055
+},
+{
+  "type": "node",
+  "id": 5872046285,
+  "lat": 43.3832099,
+  "lon": -8.4108374
+},
+{
+  "type": "node",
+  "id": 5872046532,
+  "lat": 43.3847103,
+  "lon": -8.4106669
+},
+{
+  "type": "node",
+  "id": 5872046533,
+  "lat": 43.3828403,
+  "lon": -8.4103905
+},
+{
+  "type": "node",
+  "id": 5872046534,
+  "lat": 43.3828277,
+  "lon": -8.4105658
+},
+{
+  "type": "node",
+  "id": 5872046535,
+  "lat": 43.3828204,
+  "lon": -8.4104868
+},
+{
+  "type": "node",
+  "id": 5872046536,
+  "lat": 43.3829082,
+  "lon": -8.4102566
+},
+{
+  "type": "node",
+  "id": 5872046537,
+  "lat": 43.3834500,
+  "lon": -8.4098001
+},
+{
+  "type": "node",
+  "id": 5872046538,
+  "lat": 43.3835732,
+  "lon": -8.4097837
+},
+{
+  "type": "node",
+  "id": 5872046539,
+  "lat": 43.3834521,
+  "lon": -8.4107459
+},
+{
+  "type": "node",
+  "id": 5872149763,
+  "lat": 43.3846918,
+  "lon": -8.4097553
+},
+{
+  "type": "node",
+  "id": 5872150635,
+  "lat": 43.3841659,
+  "lon": -8.4092154
+},
+{
+  "type": "node",
+  "id": 5872150844,
+  "lat": 43.3833303,
+  "lon": -8.4107671
+},
+{
+  "type": "node",
+  "id": 5872150845,
+  "lat": 43.3832638,
+  "lon": -8.4107970
+},
+{
+  "type": "node",
+  "id": 5872226051,
+  "lat": 43.3841903,
+  "lon": -8.4099684
+},
+{
+  "type": "node",
+  "id": 5872226056,
+  "lat": 43.3841817,
+  "lon": -8.4102700
+},
+{
+  "type": "node",
+  "id": 5872226057,
+  "lat": 43.3836725,
+  "lon": -8.4093222
+},
+{
+  "type": "node",
+  "id": 5872226069,
+  "lat": 43.3842699,
+  "lon": -8.4096975
+},
+{
+  "type": "node",
+  "id": 5872226188,
+  "lat": 43.3840373,
+  "lon": -8.4094774
+},
+{
+  "type": "node",
+  "id": 1653209366,
+  "lat": 43.2916888,
+  "lon": -8.3449263
+},
+{
+  "type": "node",
+  "id": 1653209368,
+  "lat": 43.2917203,
+  "lon": -8.3448107
+},
+{
+  "type": "node",
+  "id": 1653209369,
+  "lat": 43.2918815,
+  "lon": -8.3450255
+},
+{
+  "type": "node",
+  "id": 1653209370,
+  "lat": 43.2919130,
+  "lon": -8.3449099
+},
+{
+  "type": "node",
+  "id": 1701713663,
+  "lat": 43.3393670,
+  "lon": -8.2707904
+},
+{
+  "type": "node",
+  "id": 1701713665,
+  "lat": 43.3393758,
+  "lon": -8.2708373
+},
+{
+  "type": "node",
+  "id": 1701713666,
+  "lat": 43.3393880,
+  "lon": -8.2707139
+},
+{
+  "type": "node",
+  "id": 1701713667,
+  "lat": 43.3393950,
+  "lon": -8.2707596
+},
+{
+  "type": "node",
+  "id": 1701713668,
+  "lat": 43.3394073,
+  "lon": -8.2708518
+},
+{
+  "type": "node",
+  "id": 1701713671,
+  "lat": 43.3394126,
+  "lon": -8.2708933
+},
+{
+  "type": "node",
+  "id": 1701713673,
+  "lat": 43.3394156,
+  "lon": -8.2706807
+},
+{
+  "type": "node",
+  "id": 1701713675,
+  "lat": 43.3394467,
+  "lon": -8.2709138
+},
+{
+  "type": "node",
+  "id": 1701713677,
+  "lat": 43.3394494,
+  "lon": -8.2706964
+},
+{
+  "type": "node",
+  "id": 1701713690,
+  "lat": 43.3394520,
+  "lon": -8.2709596
+},
+{
+  "type": "node",
+  "id": 1701713696,
+  "lat": 43.3394739,
+  "lon": -8.2706675
+},
+{
+  "type": "node",
+  "id": 1701713699,
+  "lat": 43.3394848,
+  "lon": -8.2709777
+},
+{
+  "type": "node",
+  "id": 1701713702,
+  "lat": 43.3395111,
+  "lon": -8.2709445
+},
+{
+  "type": "node",
+  "id": 1701713708,
+  "lat": 43.3395440,
+  "lon": -8.2709632
+},
+{
+  "type": "node",
+  "id": 1701713712,
+  "lat": 43.3395659,
+  "lon": -8.2708807
+},
+{
+  "type": "node",
+  "id": 1701713719,
+  "lat": 43.3395711,
+  "lon": -8.2709301
+},
+{
+  "type": "node",
+  "id": 1701713722,
+  "lat": 43.3395843,
+  "lon": -8.2708072
+},
+{
+  "type": "node",
+  "id": 1701713724,
+  "lat": 43.3395926,
+  "lon": -8.2708548
+},
+{
+  "type": "node",
+  "id": 1701713728,
+  "lat": 43.3396053,
+  "lon": -8.2707313
+},
+{
+  "type": "node",
+  "id": 1701713733,
+  "lat": 43.3396119,
+  "lon": -8.2707783
+},
+{
+  "type": "node",
+  "id": 1701713736,
+  "lat": 43.3396338,
+  "lon": -8.2707024
+},
+{
+  "type": "node",
+  "id": 1701713743,
+  "lat": 43.3396710,
+  "lon": -8.2706922
+},
+{
+  "type": "node",
+  "id": 1701713692,
+  "lat": 43.3394651,
+  "lon": -8.2706223
+},
+{
+  "type": "node",
+  "id": 1701713705,
+  "lat": 43.3395243,
+  "lon": -8.2705561
+},
+{
+  "type": "node",
+  "id": 1701713710,
+  "lat": 43.3395523,
+  "lon": -8.2705711
+},
+{
+  "type": "node",
+  "id": 1701713713,
+  "lat": 43.3395672,
+  "lon": -8.2705512
+},
+{
+  "type": "node",
+  "id": 1701713726,
+  "lat": 43.3396053,
+  "lon": -8.2705705
+},
+{
+  "type": "node",
+  "id": 1701713730,
+  "lat": 43.3396057,
+  "lon": -8.2705814
+},
+{
+  "type": "node",
+  "id": 1701713735,
+  "lat": 43.3396329,
+  "lon": -8.2705964
+},
+{
+  "type": "node",
+  "id": 1701713737,
+  "lat": 43.3396386,
+  "lon": -8.2706392
+},
+{
+  "type": "node",
+  "id": 1701713741,
+  "lat": 43.3396649,
+  "lon": -8.2706344
+},
+{
+  "type": "node",
+  "id": 4121248777,
+  "lat": 43.3426197,
+  "lon": -8.0378069
+},
+{
+  "type": "node",
+  "id": 4121248778,
+  "lat": 43.3426860,
+  "lon": -8.0375428
+},
+{
+  "type": "node",
+  "id": 4121248779,
+  "lat": 43.3426072,
+  "lon": -8.0375053
+},
+{
+  "type": "node",
+  "id": 4121248780,
+  "lat": 43.3425245,
+  "lon": -8.0377112
+},
+{
+  "type": "node",
+  "id": 4121248781,
+  "lat": 43.3425524,
+  "lon": -8.0377749
+},
+{
+  "type": "node",
+  "id": 6134688201,
+  "lat": 43.3425637,
+  "lon": -8.0377297
+},
+{
+  "type": "node",
+  "id": 6134688202,
+  "lat": 43.3425583,
+  "lon": -8.0375766
+},
+{
+  "type": "node",
+  "id": 6134688203,
+  "lat": 43.3425860,
+  "lon": -8.0375897
+},
+{
+  "type": "node",
+  "id": 6134688208,
+  "lat": 43.3426430,
+  "lon": -8.0377141
+},
+{
+  "type": "node",
+  "id": 6134688209,
+  "lat": 43.3426542,
+  "lon": -8.0376692
+},
+{
+  "type": "node",
+  "id": 6134688210,
+  "lat": 43.3426789,
+  "lon": -8.0376884
+},
+{
+  "type": "node",
+  "id": 6134688211,
+  "lat": 43.3426684,
+  "lon": -8.0377237
+},
+{
+  "type": "node",
+  "id": 6152623384,
+  "lat": 43.4271282,
+  "lon": -8.0650458
+},
+{
+  "type": "node",
+  "id": 6152623685,
+  "lat": 43.4269911,
+  "lon": -8.0650779
+},
+{
+  "type": "node",
+  "id": 6152623686,
+  "lat": 43.4269728,
+  "lon": -8.0649299
+},
+{
+  "type": "node",
+  "id": 6152623687,
+  "lat": 43.4271099,
+  "lon": -8.0648979
+},
+{
+  "type": "node",
+  "id": 4121828004,
+  "lat": 43.4581990,
+  "lon": -8.2597729
+},
+{
+  "type": "node",
+  "id": 4121828005,
+  "lat": 43.4581293,
+  "lon": -8.2601866
+},
+{
+  "type": "node",
+  "id": 4121828006,
+  "lat": 43.4578682,
+  "lon": -8.2598124
+},
+{
+  "type": "node",
+  "id": 4121828007,
+  "lat": 43.4579784,
+  "lon": -8.2595558
+},
+{
+  "type": "node",
+  "id": 5100603647,
+  "lat": 43.4578357,
+  "lon": -8.2596600
+},
+{
+  "type": "node",
+  "id": 5100603648,
+  "lat": 43.4582043,
+  "lon": -8.2600405
+},
+{
+  "type": "node",
+  "id": 5100603649,
+  "lat": 43.4582334,
+  "lon": -8.2598338
+},
+{
+  "type": "node",
+  "id": 5100603650,
+  "lat": 43.4581074,
+  "lon": -8.2602005
+},
+{
+  "type": "node",
+  "id": 5100603651,
+  "lat": 43.4580028,
+  "lon": -8.2595571
+},
+{
+  "type": "node",
+  "id": 5100603652,
+  "lat": 43.4579472,
+  "lon": -8.2595626
+},
+{
+  "type": "node",
+  "id": 5100603653,
+  "lat": 43.4580794,
+  "lon": -8.2602090
+},
+{
+  "type": "node",
+  "id": 5100603654,
+  "lat": 43.4578566,
+  "lon": -8.2598522
+},
+{
+  "type": "node",
+  "id": 5100603655,
+  "lat": 43.4578378,
+  "lon": -8.2597353
+},
+{
+  "type": "node",
+  "id": 5100603656,
+  "lat": 43.4578322,
+  "lon": -8.2597073
+},
+{
+  "type": "node",
+  "id": 5100603668,
+  "lat": 43.4582289,
+  "lon": -8.2600926
+},
+{
+  "type": "node",
+  "id": 6137073444,
+  "lat": 43.4580291,
+  "lon": -8.2595672
+},
+{
+  "type": "node",
+  "id": 6137073445,
+  "lat": 43.4580806,
+  "lon": -8.2596203
+},
+{
+  "type": "node",
+  "id": 6137073446,
+  "lat": 43.4581621,
+  "lon": -8.2597215
+},
+{
+  "type": "node",
+  "id": 6137073447,
+  "lat": 43.4582515,
+  "lon": -8.2598687
+},
+{
+  "type": "node",
+  "id": 6137073448,
+  "lat": 43.4582580,
+  "lon": -8.2598953
+},
+{
+  "type": "node",
+  "id": 6137073449,
+  "lat": 43.4582619,
+  "lon": -8.2599254
+},
+{
+  "type": "node",
+  "id": 6137073450,
+  "lat": 43.4582326,
+  "lon": -8.2600526
+},
+{
+  "type": "node",
+  "id": 6137073451,
+  "lat": 43.4582356,
+  "lon": -8.2600247
+},
+{
+  "type": "node",
+  "id": 6137073452,
+  "lat": 43.4582551,
+  "lon": -8.2599564
+},
+{
+  "type": "node",
+  "id": 6137116484,
+  "lat": 43.4581496,
+  "lon": -8.2601643
+},
+{
+  "type": "node",
+  "id": 6137116485,
+  "lat": 43.4582114,
+  "lon": -8.2601062
+},
+{
+  "type": "node",
+  "id": 6137116486,
+  "lat": 43.4582027,
+  "lon": -8.2600713
+},
+{
+  "type": "node",
+  "id": 6137116487,
+  "lat": 43.4578623,
+  "lon": -8.2598336
+},
+{
+  "type": "node",
+  "id": 6137116496,
+  "lat": 43.4578321,
+  "lon": -8.2596843
+},
+{
+  "type": "node",
+  "id": 6137116497,
+  "lat": 43.4578443,
+  "lon": -8.2596415
+},
+{
+  "type": "node",
+  "id": 6157243619,
+  "lat": 43.4579538,
+  "lon": -8.2595612
+},
+{
+  "type": "node",
+  "id": 2813733269,
+  "lat": 43.4809141,
+  "lon": -8.2439409
+},
+{
+  "type": "node",
+  "id": 3743123150,
+  "lat": 43.4804764,
+  "lon": -8.2428860
+},
+{
+  "type": "node",
+  "id": 3743124739,
+  "lat": 43.4805148,
+  "lon": -8.2427587
+},
+{
+  "type": "node",
+  "id": 3743124750,
+  "lat": 43.4805360,
+  "lon": -8.2428630
+},
+{
+  "type": "node",
+  "id": 4757054734,
+  "lat": 43.4814024,
+  "lon": -8.2434202
+},
+{
+  "type": "node",
+  "id": 4757075942,
+  "lat": 43.4812910,
+  "lon": -8.2435130
+},
+{
+  "type": "node",
+  "id": 4757075945,
+  "lat": 43.4812387,
+  "lon": -8.2435902
+},
+{
+  "type": "node",
+  "id": 4757075946,
+  "lat": 43.4808305,
+  "lon": -8.2440313
+},
+{
+  "type": "node",
+  "id": 6856245539,
+  "lat": 43.4814914,
+  "lon": -8.2430396
+},
+{
+  "type": "node",
+  "id": 6856245540,
+  "lat": 43.4811962,
+  "lon": -8.2428884
+},
+{
+  "type": "node",
+  "id": 6856245541,
+  "lat": 43.4809923,
+  "lon": -8.2428751
+},
+{
+  "type": "node",
+  "id": 6856245542,
+  "lat": 43.4808637,
+  "lon": -8.2428015
+},
+{
+  "type": "node",
+  "id": 6856245543,
+  "lat": 43.4808321,
+  "lon": -8.2427145
+},
+{
+  "type": "node",
+  "id": 6856245544,
+  "lat": 43.4804103,
+  "lon": -8.2429099
+},
+{
+  "type": "node",
+  "id": 6856245545,
+  "lat": 43.4814270,
+  "lon": -8.2430066
+},
+{
+  "type": "node",
+  "id": 370849631,
+  "lat": 43.4831381,
+  "lon": -8.2328979
+},
+{
+  "type": "node",
+  "id": 370849632,
+  "lat": 43.4832417,
+  "lon": -8.2326528
+},
+{
+  "type": "node",
+  "id": 370849634,
+  "lat": 43.4829849,
+  "lon": -8.2324465
+},
+{
+  "type": "node",
+  "id": 370849635,
+  "lat": 43.4828812,
+  "lon": -8.2326917
+},
+{
+  "type": "node",
+  "id": 409741434,
+  "lat": 43.4823225,
+  "lon": -8.2318765
+},
+{
+  "type": "node",
+  "id": 409741435,
+  "lat": 43.4821108,
+  "lon": -8.2317134
+},
+{
+  "type": "node",
+  "id": 4534688326,
+  "lat": 43.4818903,
+  "lon": -8.2325988
+},
+{
+  "type": "node",
+  "id": 4534688327,
+  "lat": 43.4816456,
+  "lon": -8.2324034
+},
+{
+  "type": "node",
+  "id": 4534688329,
+  "lat": 43.4821960,
+  "lon": -8.2318711
+},
+{
+  "type": "node",
+  "id": 4534688330,
+  "lat": 43.4819514,
+  "lon": -8.2316761
+},
+{
+  "type": "node",
+  "id": 4534688333,
+  "lat": 43.4819819,
+  "lon": -8.2323876
+},
+{
+  "type": "node",
+  "id": 4772702542,
+  "lat": 43.4819069,
+  "lon": -8.2371624
+},
+{
+  "type": "node",
+  "id": 4772702544,
+  "lat": 43.4820381,
+  "lon": -8.2372668
+},
+{
+  "type": "node",
+  "id": 4772702545,
+  "lat": 43.4819982,
+  "lon": -8.2369422
+},
+{
+  "type": "node",
+  "id": 4772702546,
+  "lat": 43.4821307,
+  "lon": -8.2370465
+},
+{
+  "type": "node",
+  "id": 5538276958,
+  "lat": 43.4820515,
+  "lon": -8.2372341
+},
+{
+  "type": "node",
+  "id": 1704165404,
+  "lat": 43.4881397,
+  "lon": -8.2356159
+},
+{
+  "type": "node",
+  "id": 1718693408,
+  "lat": 43.4883009,
+  "lon": -8.2354534
+},
+{
+  "type": "node",
+  "id": 1718693409,
+  "lat": 43.4881298,
+  "lon": -8.2358309
+},
+{
+  "type": "node",
+  "id": 1718693410,
+  "lat": 43.4880572,
+  "lon": -8.2354341
+},
+{
+  "type": "node",
+  "id": 1718693411,
+  "lat": 43.4883737,
+  "lon": -8.2355880
+},
+{
+  "type": "node",
+  "id": 1718693412,
+  "lat": 43.4880281,
+  "lon": -8.2357860
+},
+{
+  "type": "node",
+  "id": 1718693413,
+  "lat": 43.4879495,
+  "lon": -8.2354888
+},
+{
+  "type": "node",
+  "id": 4953597898,
+  "lat": 43.4881031,
+  "lon": -8.2356014
+},
+{
+  "type": "node",
+  "id": 409741436,
+  "lat": 43.4824844,
+  "lon": -8.2308036
+},
+{
+  "type": "node",
+  "id": 409741437,
+  "lat": 43.4824035,
+  "lon": -8.2307350
+},
+{
+  "type": "node",
+  "id": 409741438,
+  "lat": 43.4824782,
+  "lon": -8.2305547
+},
+{
+  "type": "node",
+  "id": 409741439,
+  "lat": 43.4827910,
+  "lon": -8.2307845
+},
+{
+  "type": "way",
+  "id": 438655118,
+  "nodes": [
+    4363641381,
+    4363641385,
+    4363641383
+  ]
+},
+{
+  "type": "way",
+  "id": 680870332,
+  "nodes": [
+    4363641383,
+    4363641382,
+    4363641380,
+    4363641381
+  ]
+},
+{
+  "type": "way",
+  "id": 157940309,
+  "nodes": [
+    1701713699,
+    1701713702,
+    1701713708,
+    1701713719,
+    1701713712,
+    1701713724,
+    1701713722,
+    1701713733,
+    1701713728,
+    1701713736,
+    1701713743,
+    1701713741,
+    1701713737,
+    1701713735,
+    1701713730,
+    1701713726,
+    1701713713,
+    1701713710,
+    1701713705,
+    1701713692,
+    1701713696,
+    1701713677,
+    1701713673,
+    1701713666,
+    1701713667,
+    1701713663,
+    1701713665,
+    1701713668,
+    1701713671,
+    1701713675,
+    1701713690,
+    1701713699
+  ]
+}
+
+  ]
+}

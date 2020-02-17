@@ -1,0 +1,591 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-14T12:32:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1590851716,
+  "lat": 52.2625397,
+  "lon": 19.5623561,
+  "tags": {
+    "description": "Zamek biskupi wzniesiony w XV wieku",
+    "historic": "castle",
+    "name": "Zamek biskupi w Oporowie",
+    "source": "zamkilodzkie.pl",
+    "tourism": "museum",
+    "url": "http://www.zamkilodzkie.pl/pliki/oporw.htm"
+  }
+},
+{
+  "type": "node",
+  "id": 2459888424,
+  "lat": 52.5411486,
+  "lon": 19.6888338,
+  "tags": {
+    "name": "Muzeum Diecezjalne",
+    "tourism": "museum",
+    "wikidata": "Q11786948",
+    "wikipedia": "pl:Muzeum Diecezjalne w Płocku"
+  }
+},
+{
+  "type": "node",
+  "id": 2948680147,
+  "lat": 52.4453922,
+  "lon": 19.8739871,
+  "tags": {
+    "board_type": "history",
+    "name": "Skansen Osadnictwa Nadwiślańskiego w Wiączeminie Polskim",
+    "operator": "Muzeum Mazowieckie w Płocku",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 5097340636,
+  "lat": 52.8561757,
+  "lon": 19.6685392,
+  "tags": {
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 202585747,
+  "nodes": [
+    2125511130,
+    2125511139,
+    2125511146,
+    2125511019,
+    2125511130
+  ],
+  "tags": {
+    "addr:city": "Płock",
+    "addr:housenumber": "11B",
+    "addr:postcode": "09-400",
+    "addr:street": "Kazimierza Wielkiego",
+    "building": "yes",
+    "name": "Muzeum Mazowieckie",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 206847657,
+  "nodes": [
+    2168949261,
+    2168949262,
+    2168949248,
+    2168949269,
+    2168949255,
+    2168949251,
+    2168949254,
+    2168949268,
+    2168949263,
+    2168949257,
+    2168949260,
+    2168949264,
+    2168949265,
+    2168949256,
+    2168949261
+  ],
+  "tags": {
+    "addr:city": "Płock",
+    "addr:housenumber": "2",
+    "addr:postcode": "09-402",
+    "addr:street": "Tumska",
+    "building": "yes",
+    "name": "Muzeum Diecezjalne",
+    "source:addr": "EMUiA (emuia.gugik.gov.pl)",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 291399567,
+  "nodes": [
+    2948680262,
+    2948680267,
+    2948680264,
+    2948680260,
+    2948680262
+  ],
+  "tags": {
+    "addr:city:simc": "0575580",
+    "addr:housenumber": "25",
+    "addr:place": "Wiączemin Polski",
+    "addr:postcode": "09-533",
+    "building": "church",
+    "denomination": "lutheran",
+    "historic": "church",
+    "image": "File:Zbór ewangelicki w Wiączeminie Polskim.JPG",
+    "name": "Zbór ewangelicki",
+    "religion": "christian",
+    "source:addr": "slubiceplockie.e-mapa.net",
+    "start_date": "1935",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 295880965,
+  "nodes": [
+    2996403019,
+    2999805295,
+    2996403018,
+    2996403014,
+    2996403016,
+    2996403019
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Muzeum Mazowieckie",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 296188547,
+  "nodes": [
+    2999805318,
+    2999805317,
+    2999805313,
+    2999805315,
+    2999805314,
+    2999805316,
+    2999805318
+  ],
+  "tags": {
+    "addr:city": "Płock",
+    "addr:housenumber": "7",
+    "addr:postcode": "09-400",
+    "addr:street": "Józefa Kwiatka",
+    "building": "yes",
+    "name": "Muzeum Żydów Mazowieckich",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 298198542,
+  "nodes": [
+    3020990057,
+    3020990056,
+    3020990052,
+    3020990054,
+    3520693534,
+    3520693535,
+    3520693537,
+    3520693536,
+    3020990057
+  ],
+  "tags": {
+    "addr:city": "Płock",
+    "addr:housenumber": "4",
+    "addr:postcode": "09-402",
+    "addr:street": "Tumska",
+    "building": "yes",
+    "name": "Odwach",
+    "source:addr": "EMUiA (emuia.gugik.gov.pl)",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 359474427,
+  "nodes": [
+    3641896577,
+    4350872835,
+    3641896586,
+    3641896585,
+    4350872832,
+    4350872833,
+    3641896584,
+    3641896578,
+    3641896580,
+    4350872836,
+    4350872839,
+    4350872838,
+    4350872837,
+    3641896579,
+    3641896581,
+    3641896576,
+    3641896582,
+    4350872834,
+    3641896577
+  ],
+  "tags": {
+    "addr:city": "Sanniki",
+    "addr:city:simc": "0574511",
+    "addr:housenumber": "142",
+    "addr:postcode": "09-540",
+    "addr:street": "Warszawska",
+    "addr:street:sym_ul": "23682",
+    "building": "yes",
+    "name": "Europejskie Centrum Artystyczne. im. Fryderyka Chopina w Sannikach",
+    "source:addr": "sanniki.e-mapa.net",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3641896576,
+  "lat": 52.3346083,
+  "lon": 19.8602615
+},
+{
+  "type": "node",
+  "id": 3641896577,
+  "lat": 52.3347896,
+  "lon": 19.8601740
+},
+{
+  "type": "node",
+  "id": 3641896578,
+  "lat": 52.3345289,
+  "lon": 19.8601053
+},
+{
+  "type": "node",
+  "id": 3641896579,
+  "lat": 52.3343854,
+  "lon": 19.8606348
+},
+{
+  "type": "node",
+  "id": 3641896580,
+  "lat": 52.3345154,
+  "lon": 19.8600959
+},
+{
+  "type": "node",
+  "id": 3641896581,
+  "lat": 52.3345075,
+  "lon": 19.8607086
+},
+{
+  "type": "node",
+  "id": 3641896582,
+  "lat": 52.3347679,
+  "lon": 19.8603578
+},
+{
+  "type": "node",
+  "id": 3641896584,
+  "lat": 52.3346150,
+  "lon": 19.8597491
+},
+{
+  "type": "node",
+  "id": 3641896585,
+  "lat": 52.3346658,
+  "lon": 19.8599425
+},
+{
+  "type": "node",
+  "id": 3641896586,
+  "lat": 52.3346412,
+  "lon": 19.8600434
+},
+{
+  "type": "node",
+  "id": 4350872832,
+  "lat": 52.3346820,
+  "lon": 19.8599545
+},
+{
+  "type": "node",
+  "id": 4350872833,
+  "lat": 52.3347168,
+  "lon": 19.8598132
+},
+{
+  "type": "node",
+  "id": 4350872834,
+  "lat": 52.3348063,
+  "lon": 19.8601846
+},
+{
+  "type": "node",
+  "id": 4350872835,
+  "lat": 52.3347976,
+  "lon": 19.8601392
+},
+{
+  "type": "node",
+  "id": 4350872836,
+  "lat": 52.3344894,
+  "lon": 19.8601940
+},
+{
+  "type": "node",
+  "id": 4350872837,
+  "lat": 52.3344687,
+  "lon": 19.8602756
+},
+{
+  "type": "node",
+  "id": 4350872838,
+  "lat": 52.3344525,
+  "lon": 19.8602638
+},
+{
+  "type": "node",
+  "id": 4350872839,
+  "lat": 52.3344738,
+  "lon": 19.8601836
+},
+{
+  "type": "node",
+  "id": 2125511019,
+  "lat": 52.5455523,
+  "lon": 19.6819485
+},
+{
+  "type": "node",
+  "id": 2125511130,
+  "lat": 52.5457441,
+  "lon": 19.6817018
+},
+{
+  "type": "node",
+  "id": 2125511139,
+  "lat": 52.5456616,
+  "lon": 19.6815283
+},
+{
+  "type": "node",
+  "id": 2125511146,
+  "lat": 52.5454697,
+  "lon": 19.6817749
+},
+{
+  "type": "node",
+  "id": 2168949248,
+  "lat": 52.5413904,
+  "lon": 19.6897699
+},
+{
+  "type": "node",
+  "id": 2168949251,
+  "lat": 52.5413152,
+  "lon": 19.6898435
+},
+{
+  "type": "node",
+  "id": 2168949254,
+  "lat": 52.5413209,
+  "lon": 19.6899192
+},
+{
+  "type": "node",
+  "id": 2168949255,
+  "lat": 52.5413488,
+  "lon": 19.6898366
+},
+{
+  "type": "node",
+  "id": 2168949256,
+  "lat": 52.5415332,
+  "lon": 19.6899939
+},
+{
+  "type": "node",
+  "id": 2168949257,
+  "lat": 52.5413383,
+  "lon": 19.6900013
+},
+{
+  "type": "node",
+  "id": 2168949260,
+  "lat": 52.5413432,
+  "lon": 19.6900660
+},
+{
+  "type": "node",
+  "id": 2168949261,
+  "lat": 52.5415187,
+  "lon": 19.6898034
+},
+{
+  "type": "node",
+  "id": 2168949262,
+  "lat": 52.5413948,
+  "lon": 19.6898288
+},
+{
+  "type": "node",
+  "id": 2168949263,
+  "lat": 52.5413131,
+  "lon": 19.6900065
+},
+{
+  "type": "node",
+  "id": 2168949264,
+  "lat": 52.5414384,
+  "lon": 19.6900466
+},
+{
+  "type": "node",
+  "id": 2168949265,
+  "lat": 52.5414359,
+  "lon": 19.6900138
+},
+{
+  "type": "node",
+  "id": 2168949268,
+  "lat": 52.5413067,
+  "lon": 19.6899222
+},
+{
+  "type": "node",
+  "id": 2168949269,
+  "lat": 52.5413445,
+  "lon": 19.6897793
+},
+{
+  "type": "node",
+  "id": 2996403014,
+  "lat": 52.5432277,
+  "lon": 19.6906207
+},
+{
+  "type": "node",
+  "id": 2996403016,
+  "lat": 52.5433697,
+  "lon": 19.6901972
+},
+{
+  "type": "node",
+  "id": 2996403018,
+  "lat": 52.5433804,
+  "lon": 19.6907592
+},
+{
+  "type": "node",
+  "id": 2999805295,
+  "lat": 52.5434265,
+  "lon": 19.6906218
+},
+{
+  "type": "node",
+  "id": 3020990052,
+  "lat": 52.5423558,
+  "lon": 19.6896344
+},
+{
+  "type": "node",
+  "id": 3020990054,
+  "lat": 52.5424106,
+  "lon": 19.6894662
+},
+{
+  "type": "node",
+  "id": 3020990056,
+  "lat": 52.5425072,
+  "lon": 19.6897680
+},
+{
+  "type": "node",
+  "id": 3020990057,
+  "lat": 52.5425620,
+  "lon": 19.6895998
+},
+{
+  "type": "node",
+  "id": 3520693534,
+  "lat": 52.5424527,
+  "lon": 19.6895033
+},
+{
+  "type": "node",
+  "id": 3520693535,
+  "lat": 52.5424596,
+  "lon": 19.6894823
+},
+{
+  "type": "node",
+  "id": 3520693536,
+  "lat": 52.5425199,
+  "lon": 19.6895626
+},
+{
+  "type": "node",
+  "id": 3520693537,
+  "lat": 52.5425267,
+  "lon": 19.6895416
+},
+{
+  "type": "node",
+  "id": 2996403019,
+  "lat": 52.5435224,
+  "lon": 19.6903357
+},
+{
+  "type": "node",
+  "id": 2999805313,
+  "lat": 52.5443589,
+  "lon": 19.6892513
+},
+{
+  "type": "node",
+  "id": 2999805314,
+  "lat": 52.5443798,
+  "lon": 19.6890200
+},
+{
+  "type": "node",
+  "id": 2999805315,
+  "lat": 52.5444180,
+  "lon": 19.6890776
+},
+{
+  "type": "node",
+  "id": 2999805316,
+  "lat": 52.5444642,
+  "lon": 19.6888891
+},
+{
+  "type": "node",
+  "id": 2999805317,
+  "lat": 52.5444814,
+  "lon": 19.6893641
+},
+{
+  "type": "node",
+  "id": 2999805318,
+  "lat": 52.5445841,
+  "lon": 19.6890624
+},
+{
+  "type": "node",
+  "id": 2948680260,
+  "lat": 52.4454915,
+  "lon": 19.8738949
+},
+{
+  "type": "node",
+  "id": 2948680262,
+  "lat": 52.4455528,
+  "lon": 19.8736752
+},
+{
+  "type": "node",
+  "id": 2948680264,
+  "lat": 52.4455867,
+  "lon": 19.8739663
+},
+{
+  "type": "node",
+  "id": 2948680267,
+  "lat": 52.4456479,
+  "lon": 19.8737466
+}
+
+  ]
+}

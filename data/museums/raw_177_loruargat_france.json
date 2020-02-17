@@ -1,0 +1,458 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-14T13:02:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1868372714,
+  "lat": 48.8018691,
+  "lon": -3.0324285,
+  "tags": {
+    "addr:city": "Ploubazlanec",
+    "addr:housenumber": "16",
+    "addr:postcode": "22620",
+    "addr:street": "Rue de la Résistance",
+    "email": "milmarin@gp3a.bzh",
+    "fee": "yes",
+    "name": "Milmarin",
+    "opening_hours": "Variables selon les périodes de l'année",
+    "phone": "02 96 55 49 34",
+    "tourism": "museum",
+    "website": "http://www.ploubazlanec.bzh/decouvrir-ploubazlanec/milmarin/"
+  }
+},
+{
+  "type": "node",
+  "id": 1937180034,
+  "lat": 48.3199519,
+  "lon": -3.4229922,
+  "tags": {
+    "name": "Maison du patrimoine",
+    "name:br": "Ti ar Glad",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 2049721354,
+  "lat": 48.6198163,
+  "lon": -3.2475165,
+  "tags": {
+    "name": "Le Palacret",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 2432016350,
+  "lat": 48.5415288,
+  "lon": -2.9696627,
+  "tags": {
+    "name": "Le Petit Écho de la Mode",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4181941344,
+  "lat": 48.5667511,
+  "lon": -3.7026676,
+  "tags": {
+    "addr:city": "Plouigneau",
+    "addr:postcode": "29610",
+    "addr:street": "Rue de la Gare",
+    "alt_name": "Ecomusée du Trégor",
+    "email": "ecomusee.lametairie@wanadoo.fr",
+    "fax": "+33298798278",
+    "name": "Ecomusée Le Village Breton",
+    "operator": "M. Urien",
+    "phone": "+33298798580",
+    "source": "Association Tourisme et Handicaps",
+    "tourism": "museum",
+    "website": "http://www.ecomusee.plouigneau.fr",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4810535321,
+  "lat": 48.4186963,
+  "lon": -3.1091901,
+  "tags": {
+    "contact:website": "http://www.musee-etangneuf.fr",
+    "name": "Musée de la Résistance en Argoat",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 5843297285,
+  "lat": 48.7788409,
+  "lon": -3.0419474,
+  "tags": {
+    "addr:housenumber": "11",
+    "addr:postcode": "22500",
+    "addr:street": "Rue de Labenne",
+    "email": "musee-mer@ville-paimpol.fr",
+    "name": "Musée de la Mer",
+    "opening_hours": "Mo-Su 14:00-18:30",
+    "phone": "+33 296220219",
+    "tourism": "museum",
+    "website": "http://museemerpaimpol.fr"
+  }
+},
+{
+  "type": "way",
+  "id": 64973015,
+  "nodes": [
+    795699464,
+    795698969,
+    795706681,
+    795704174,
+    795704739,
+    795710674,
+    795699030,
+    795695539,
+    795710182,
+    795698495,
+    795694945,
+    795705955,
+    795693131,
+    795693987,
+    795699464
+  ],
+  "tags": {
+    "name": "Musée des vieux outils",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 77933197,
+  "nodes": [
+    915902436,
+    916197446,
+    916184198,
+    916109820,
+    915902587,
+    916196244,
+    915902436
+  ],
+  "tags": {
+    "addr:housenumber": "20",
+    "addr:street": "Rue Ernest Renan",
+    "building": "yes",
+    "name": "Maison Natale de Ernest Renan",
+    "opening_hours": "Jul-Aug: 10:30-12:30, 14:00-18:00",
+    "phone": "+33 2 96 92 45 63",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+    "tourism": "museum",
+    "website": "http://www.maison-ernest-renan.fr/",
+    "wikipedia": "fr:Musée Ernest-Renan"
+  }
+},
+{
+  "type": "way",
+  "id": 81965686,
+  "nodes": [
+    954801528,
+    954919041,
+    954914183,
+    954855086,
+    954801528
+  ],
+  "tags": {
+    "addr:city": "Perros-Guirec",
+    "addr:housenumber": "51",
+    "addr:postcode": "22700",
+    "addr:street": "Boulevard du Linkin",
+    "building": "yes",
+    "name": "Musée de Cire",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 117081703,
+  "nodes": [
+    1318897278,
+    1318903128,
+    1318885477,
+    1318894432,
+    1318901473,
+    1318897278
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Musée rural de l'éducation",
+    "name:br": "Mirdi ar skolioù war ar maez",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 126131523,
+  "nodes": [
+    1399108052,
+    1399108136,
+    1399108139,
+    1399108140,
+    1399108144,
+    1399108156,
+    1399108158,
+    1399108168,
+    1399108205,
+    1399108052
+  ],
+  "tags": {
+    "addr:city": "Pleumeur-Bodou",
+    "addr:postcode": "22560",
+    "addr:street": "Parc du Radôme",
+    "building": "yes",
+    "name": "Cité des télécoms",
+    "operator": "Orange",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+    "tourism": "museum",
+    "website": "https://www.cite-telecoms.com/",
+    "wikidata": "Q2974792"
+  }
+},
+{
+  "type": "node",
+  "id": 795693131,
+  "lat": 48.6981177,
+  "lon": -3.7262645
+},
+{
+  "type": "node",
+  "id": 795693987,
+  "lat": 48.6981052,
+  "lon": -3.7262245
+},
+{
+  "type": "node",
+  "id": 795694945,
+  "lat": 48.6981032,
+  "lon": -3.7263699
+},
+{
+  "type": "node",
+  "id": 795695539,
+  "lat": 48.6981839,
+  "lon": -3.7264329
+},
+{
+  "type": "node",
+  "id": 795698495,
+  "lat": 48.6981328,
+  "lon": -3.7264390
+},
+{
+  "type": "node",
+  "id": 795698969,
+  "lat": 48.6982525,
+  "lon": -3.7261057
+},
+{
+  "type": "node",
+  "id": 795699030,
+  "lat": 48.6982908,
+  "lon": -3.7263148
+},
+{
+  "type": "node",
+  "id": 795699464,
+  "lat": 48.6982333,
+  "lon": -3.7260909
+},
+{
+  "type": "node",
+  "id": 795704174,
+  "lat": 48.6982291,
+  "lon": -3.7261495
+},
+{
+  "type": "node",
+  "id": 795704739,
+  "lat": 48.6982262,
+  "lon": -3.7261522
+},
+{
+  "type": "node",
+  "id": 795705955,
+  "lat": 48.6980792,
+  "lon": -3.7263143
+},
+{
+  "type": "node",
+  "id": 795706681,
+  "lat": 48.6982438,
+  "lon": -3.7261313
+},
+{
+  "type": "node",
+  "id": 795710182,
+  "lat": 48.6981650,
+  "lon": -3.7264012
+},
+{
+  "type": "node",
+  "id": 795710674,
+  "lat": 48.6982225,
+  "lon": -3.7261602
+},
+{
+  "type": "node",
+  "id": 1399108052,
+  "lat": 48.7861170,
+  "lon": -3.5247680
+},
+{
+  "type": "node",
+  "id": 1399108136,
+  "lat": 48.7864780,
+  "lon": -3.5245190
+},
+{
+  "type": "node",
+  "id": 1399108139,
+  "lat": 48.7864890,
+  "lon": -3.5244870
+},
+{
+  "type": "node",
+  "id": 1399108140,
+  "lat": 48.7865020,
+  "lon": -3.5244660
+},
+{
+  "type": "node",
+  "id": 1399108144,
+  "lat": 48.7865180,
+  "lon": -3.5244580
+},
+{
+  "type": "node",
+  "id": 1399108156,
+  "lat": 48.7865370,
+  "lon": -3.5244630
+},
+{
+  "type": "node",
+  "id": 1399108158,
+  "lat": 48.7865450,
+  "lon": -3.5244740
+},
+{
+  "type": "node",
+  "id": 1399108168,
+  "lat": 48.7866560,
+  "lon": -3.5244020
+},
+{
+  "type": "node",
+  "id": 1399108205,
+  "lat": 48.7869430,
+  "lon": -3.5253950
+},
+{
+  "type": "node",
+  "id": 954801528,
+  "lat": 48.8066071,
+  "lon": -3.4371308
+},
+{
+  "type": "node",
+  "id": 954855086,
+  "lat": 48.8065310,
+  "lon": -3.4371323
+},
+{
+  "type": "node",
+  "id": 954914183,
+  "lat": 48.8065362,
+  "lon": -3.4372798
+},
+{
+  "type": "node",
+  "id": 954919041,
+  "lat": 48.8066107,
+  "lon": -3.4372775
+},
+{
+  "type": "node",
+  "id": 1318885477,
+  "lat": 48.3368270,
+  "lon": -3.1623870
+},
+{
+  "type": "node",
+  "id": 1318894432,
+  "lat": 48.3367480,
+  "lon": -3.1623100
+},
+{
+  "type": "node",
+  "id": 1318897278,
+  "lat": 48.3367800,
+  "lon": -3.1622280
+},
+{
+  "type": "node",
+  "id": 1318901473,
+  "lat": 48.3367730,
+  "lon": -3.1622490
+},
+{
+  "type": "node",
+  "id": 1318903128,
+  "lat": 48.3368590,
+  "lon": -3.1623030
+},
+{
+  "type": "node",
+  "id": 915902436,
+  "lat": 48.7879983,
+  "lon": -3.2290589
+},
+{
+  "type": "node",
+  "id": 915902587,
+  "lat": 48.7879116,
+  "lon": -3.2290094
+},
+{
+  "type": "node",
+  "id": 916109820,
+  "lat": 48.7878845,
+  "lon": -3.2289944
+},
+{
+  "type": "node",
+  "id": 916184198,
+  "lat": 48.7878559,
+  "lon": -3.2291225
+},
+{
+  "type": "node",
+  "id": 916196244,
+  "lat": 48.7879523,
+  "lon": -3.2290333
+},
+{
+  "type": "node",
+  "id": 916197446,
+  "lat": 48.7879590,
+  "lon": -3.2291930
+}
+
+  ]
+}

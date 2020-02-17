@@ -1,0 +1,898 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-14T17:42:01Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 250686961,
+  "lat": 35.3389071,
+  "lon": 25.1371693,
+  "tags": {
+    "addr:city": "Ηράκλειο",
+    "addr:housenumber": "2",
+    "addr:postcode": "71202",
+    "addr:street": "Ξανθουδίδου Στεφ.",
+    "email": "amh@culture.gr",
+    "fax": "+302810279001",
+    "name": "Αρχαιολογικό Μουσείο",
+    "name:de": "Archäologisches Museum",
+    "name:el": "Αρχαιολογικό Μουσείο",
+    "name:en": "Heraklion Archaeological Museum",
+    "name:fr": "Musée Archéologique",
+    "name:pl": "Muzeum Archeologiczne",
+    "name:ru": "Археологический музей",
+    "name:uk": "Археологічний музей Іракліону",
+    "name:zh": "考古博物馆",
+    "opening_hours": "Apr-Oct: 08:00-20:00; Nov-Mar: 08:00-15:00",
+    "phone": "+302810279002",
+    "tourism": "museum",
+    "website": "http://heraklionmuseum.gr",
+    "wikidata": "Q636972",
+    "wikipedia": "el:Αρχαιολογικό Μουσείο Ηρακλείου"
+  }
+},
+{
+  "type": "node",
+  "id": 410247752,
+  "lat": 35.2157897,
+  "lon": 25.4610646,
+  "tags": {
+    "charge": "3 €",
+    "fee": "yes",
+    "name": "Homo Sapiens",
+    "name:uk": "Людина розумна",
+    "opening_hours": "Apr-Oct 09:00-19:00",
+    "phone": "+302897051880",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3768883623,
+  "lat": 35.3077548,
+  "lon": 24.8402799,
+  "tags": {
+    "int_name": "Museum of Wooden Sculptures",
+    "name": "Μουσειο Ξυλογλυπτικης",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4750814929,
+  "lat": 35.1946322,
+  "lon": 25.0000100,
+  "tags": {
+    "name:en": "Folk Museum of Ano Asites",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4960420328,
+  "lat": 35.3222628,
+  "lon": 25.3916227,
+  "tags": {
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 5018182222,
+  "lat": 35.3225145,
+  "lon": 25.3919414,
+  "tags": {
+    "addr:housenumber": "125",
+    "addr:postcode": "70014",
+    "addr:street": "Agias Paraskevis",
+    "name:en": "Maritime Collection",
+    "opening_hours": "Mo-Su 09:00-21:00",
+    "phone": "+302897501130",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 5169462643,
+  "lat": 35.2349128,
+  "lon": 25.2092810,
+  "tags": {
+    "addr:city": "Μυρτιά",
+    "addr:postcode": "70100",
+    "name": "Μουσείο Καζαντζάκη",
+    "name:de": "Nikos Kazantzakis Museum",
+    "name:pl": "Muzeum Nikosa Kazantzakisa",
+    "opening_hours": "Mo-Su 09:00-17:00, different times in winter",
+    "phone": "+30 281 074 1689",
+    "subject": "history",
+    "tourism": "museum",
+    "website": "https://www.kazantzaki.gr/"
+  }
+},
+{
+  "type": "node",
+  "id": 5926613759,
+  "lat": 35.1317109,
+  "lon": 24.9040046,
+  "tags": {
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6331622485,
+  "lat": 35.1323119,
+  "lon": 24.9471136,
+  "tags": {
+    "addr:city": "Γέργερη",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6863111085,
+  "lat": 35.2981147,
+  "lon": 25.1613772,
+  "tags": {
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6927736247,
+  "lat": 35.2757277,
+  "lon": 25.4727653,
+  "tags": {
+    "description": "vintage collection of olivee pressing machinery",
+    "name": "Omalia olive press",
+    "phone": "+30 694 2266765",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 7034526868,
+  "lat": 35.2644070,
+  "lon": 25.4218924,
+  "tags": {
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 7184485060,
+  "lat": 35.3414109,
+  "lon": 25.1355895,
+  "tags": {
+    "contact:facebook": "https://www.facebook.com/MuseumOfAncientGreekTechnologyCrete/",
+    "contact:phone": "+30 281 022 0610",
+    "contact:website": "https://kotsanasmuseum.com/crete/",
+    "museum": "technology",
+    "name": "Museum of Ancient Greek Technology",
+    "official_name": "Heraklion Museum of Ancient Greek Technology by Kotsanas",
+    "opening_hours": "09:00-19:00",
+    "tourism": "museum",
+    "wikipedia": "en:Museum of Ancient Greek Technology"
+  }
+},
+{
+  "type": "way",
+  "id": 61430581,
+  "nodes": [
+    766944069,
+    766948228,
+    766948231,
+    766944070,
+    5706137919,
+    5706137920,
+    5706138921,
+    766944071,
+    5706138922,
+    766948230,
+    766948229,
+    766944072,
+    766944069
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Μουσείο Αγίας Αικατερίνης",
+    "name:de": "Agias Ekaterinis Museum",
+    "name:el": "Μουσείο Αγίας Αικατερίνης",
+    "name:en": "Saint Catherine Museum",
+    "name:pl": "Muzeum Świętej Katarzyny",
+    "opening_hours": "Mo-Sa 09:30-19:30; Su 10:00-19:30",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 100428140,
+  "nodes": [
+    1161019817,
+    1161019818,
+    1161019819,
+    1161019820,
+    1161019817
+  ],
+  "tags": {
+    "building": "yes",
+    "fee": "no",
+    "info": "free entrance",
+    "int_name": "Archaeological Collection of Archanes",
+    "name": "Αρχαιολογικη Συλλογη Αρχανων",
+    "opening_hours": "We-Mo 08:00-14:30",
+    "phone": "+30 2810 752712",
+    "source": "Bing",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 176981180,
+  "nodes": [
+    1874540256,
+    1874540229,
+    1874540273,
+    1874540267,
+    1874540254,
+    1874540248,
+    1874540256
+  ],
+  "tags": {
+    "name": "El Greco House and Museum",
+    "name:uk": "Дом-музей Ель Греко",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 230366941,
+  "nodes": [
+    2388785054,
+    2388785059,
+    4410224698,
+    2388785053,
+    2388785062,
+    2388785056,
+    2388785050,
+    2388785060,
+    2388785057,
+    2388785054
+  ],
+  "tags": {
+    "description": "Cretan open-air ethno museum",
+    "int_name": "Museum Lychnostatis",
+    "name": "Μουσείο ΛΥΧΝΟΣΤΑΤΗΣ",
+    "name:de": "Museum Lychnostatis",
+    "name:gr": "Μουσείο ΛΥΧΝΟΣΤΑΤΗΣ",
+    "name:ru": "Музей Лихностатис",
+    "opening_hours": "Su-Fr 09:00-14:00",
+    "phone": "+30 28970 23660",
+    "source": "survey",
+    "tourism": "museum",
+    "website": "http://www.lychnostatis.gr/"
+  }
+},
+{
+  "type": "way",
+  "id": 350392018,
+  "nodes": [
+    3561458191,
+    3561458189,
+    5884650074,
+    5884650075,
+    5884650076,
+    5884650077,
+    5703607746,
+    3561458193,
+    3561458192,
+    5884650071,
+    5884650072,
+    5884650073,
+    3561458191
+  ],
+  "tags": {
+    "building": "yes",
+    "contact:email": "info@historical-museum.gr",
+    "contact:fax": "+30 2810 283754",
+    "contact:phone": "+30 2810 283219, +30 2810 288708",
+    "name": "Ιστορικό Μουσείο Κρήτης",
+    "name:de": "Historisches Museum von Kreta",
+    "name:en": "Historical Museum of Crete",
+    "name:pl": "Kreteńskie Muzeum Historyczne",
+    "name:ru": "Исторический музей Крита",
+    "name:zh": "克里特岛历史博物馆",
+    "opening_hours": "Mo-Sa 09:00-17:00",
+    "source": "Bing",
+    "tourism": "museum",
+    "website": "https://www.historical-museum.gr/",
+    "wikipedia": "el:Ιστορικό Μουσείο Κρήτης"
+  }
+},
+{
+  "type": "way",
+  "id": 371593856,
+  "nodes": [
+    3751576342,
+    3751576341,
+    3751576337,
+    3751576338,
+    3751576339,
+    3751576340,
+    3751576342
+  ],
+  "tags": {
+    "building": "yes",
+    "contact:phone": "+30 28970 23303",
+    "name": "Museum of Rural Life",
+    "opening_hours": "Jun-Oct: Mo 10:00-18:00; Jul-Oct: We-Sa 10:00-18:00",
+    "operator": "Society of Cretan and Historical Studies",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 378738598,
+  "nodes": [
+    3821439553,
+    3821439549,
+    3821439545,
+    3821439548,
+    3821439553
+  ],
+  "tags": {
+    "building": "terrace",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 469744500,
+  "nodes": [
+    4640397452,
+    4640397453,
+    4640397454,
+    4640397455,
+    4640397452
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Nikos Xylouris",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "relation",
+  "id": 5256568,
+  "members": [
+    {
+      "type": "way",
+      "ref": 211917529,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "addr:street": "Λεωφόρος Σοφοκλή Βενιζέλου",
+    "building": "yes",
+    "name": "Μουσείο Φυσικής Ιστορίας Κρήτης",
+    "name:el": "Μουσείο Φυσικής Ιστορίας Κρήτης",
+    "name:en": "Natural History Museum of Crete",
+    "name:ru": "Музей естественной истории",
+    "tourism": "museum",
+    "type": "multipolygon",
+    "website": "nhmc.uoc.gr",
+    "wikidata": "Q6980521",
+    "wikipedia": "el:Μουσείο Φυσικής Ιστορίας Κρήτης"
+  }
+},
+{
+  "type": "node",
+  "id": 1161019817,
+  "lat": 35.2349855,
+  "lon": 25.1584718
+},
+{
+  "type": "node",
+  "id": 1161019818,
+  "lat": 35.2349545,
+  "lon": 25.1587400
+},
+{
+  "type": "node",
+  "id": 1161019819,
+  "lat": 35.2348430,
+  "lon": 25.1587248
+},
+{
+  "type": "node",
+  "id": 1161019820,
+  "lat": 35.2348719,
+  "lon": 25.1584541
+},
+{
+  "type": "node",
+  "id": 3821439545,
+  "lat": 35.2354232,
+  "lon": 25.1595801
+},
+{
+  "type": "node",
+  "id": 3821439548,
+  "lat": 35.2353370,
+  "lon": 25.1595685
+},
+{
+  "type": "node",
+  "id": 3821439549,
+  "lat": 35.2354173,
+  "lon": 25.1596453
+},
+{
+  "type": "node",
+  "id": 3821439553,
+  "lat": 35.2353311,
+  "lon": 25.1596337
+},
+{
+  "type": "node",
+  "id": 4640397452,
+  "lat": 35.2888271,
+  "lon": 24.8813435
+},
+{
+  "type": "node",
+  "id": 4640397453,
+  "lat": 35.2887948,
+  "lon": 24.8813486
+},
+{
+  "type": "node",
+  "id": 4640397454,
+  "lat": 35.2888135,
+  "lon": 24.8813882
+},
+{
+  "type": "node",
+  "id": 4640397455,
+  "lat": 35.2888437,
+  "lon": 24.8813793
+},
+{
+  "type": "node",
+  "id": 1874540229,
+  "lat": 35.3856402,
+  "lon": 24.9508970
+},
+{
+  "type": "node",
+  "id": 1874540248,
+  "lat": 35.3855094,
+  "lon": 24.9507562
+},
+{
+  "type": "node",
+  "id": 1874540254,
+  "lat": 35.3854531,
+  "lon": 24.9509120
+},
+{
+  "type": "node",
+  "id": 1874540256,
+  "lat": 35.3856613,
+  "lon": 24.9508388
+},
+{
+  "type": "node",
+  "id": 1874540267,
+  "lat": 35.3855452,
+  "lon": 24.9509621
+},
+{
+  "type": "node",
+  "id": 1874540273,
+  "lat": 35.3855805,
+  "lon": 24.9508645
+},
+{
+  "type": "node",
+  "id": 766944069,
+  "lat": 35.3381038,
+  "lon": 25.1311990
+},
+{
+  "type": "node",
+  "id": 766944070,
+  "lat": 35.3381654,
+  "lon": 25.1315251
+},
+{
+  "type": "node",
+  "id": 766944071,
+  "lat": 35.3380499,
+  "lon": 25.1314541
+},
+{
+  "type": "node",
+  "id": 766944072,
+  "lat": 35.3380350,
+  "lon": 25.1311982
+},
+{
+  "type": "node",
+  "id": 766948228,
+  "lat": 35.3381008,
+  "lon": 25.1313866
+},
+{
+  "type": "node",
+  "id": 766948229,
+  "lat": 35.3380372,
+  "lon": 25.1313889
+},
+{
+  "type": "node",
+  "id": 766948230,
+  "lat": 35.3379818,
+  "lon": 25.1313884
+},
+{
+  "type": "node",
+  "id": 766948231,
+  "lat": 35.3381701,
+  "lon": 25.1313773
+},
+{
+  "type": "node",
+  "id": 5706137919,
+  "lat": 35.3381322,
+  "lon": 25.1315249
+},
+{
+  "type": "node",
+  "id": 5706137920,
+  "lat": 35.3381316,
+  "lon": 25.1315062
+},
+{
+  "type": "node",
+  "id": 5706138921,
+  "lat": 35.3380492,
+  "lon": 25.1315054
+},
+{
+  "type": "node",
+  "id": 5706138922,
+  "lat": 35.3379816,
+  "lon": 25.1314560
+},
+{
+  "type": "node",
+  "id": 2218475496,
+  "lat": 35.3417349,
+  "lon": 25.1263865
+},
+{
+  "type": "node",
+  "id": 2218475500,
+  "lat": 35.3418750,
+  "lon": 25.1263535
+},
+{
+  "type": "node",
+  "id": 3579810351,
+  "lat": 35.3417396,
+  "lon": 25.1262218
+},
+{
+  "type": "node",
+  "id": 3579810352,
+  "lat": 35.3417604,
+  "lon": 25.1263823
+},
+{
+  "type": "node",
+  "id": 3579810353,
+  "lat": 35.3418346,
+  "lon": 25.1262069
+},
+{
+  "type": "node",
+  "id": 3579810354,
+  "lat": 35.3418520,
+  "lon": 25.1263574
+},
+{
+  "type": "node",
+  "id": 3579810355,
+  "lat": 35.3419300,
+  "lon": 25.1264241
+},
+{
+  "type": "node",
+  "id": 3579810356,
+  "lat": 35.3418859,
+  "lon": 25.1264332
+},
+{
+  "type": "node",
+  "id": 2218475497,
+  "lat": 35.3417728,
+  "lon": 25.1269424
+},
+{
+  "type": "node",
+  "id": 2218475498,
+  "lat": 35.3417884,
+  "lon": 25.1270563
+},
+{
+  "type": "node",
+  "id": 2218475499,
+  "lat": 35.3418099,
+  "lon": 25.1269348
+},
+{
+  "type": "node",
+  "id": 2218475501,
+  "lat": 35.3419526,
+  "lon": 25.1269030
+},
+{
+  "type": "node",
+  "id": 2218475502,
+  "lat": 35.3420015,
+  "lon": 25.1268930
+},
+{
+  "type": "node",
+  "id": 2218475503,
+  "lat": 35.3420174,
+  "lon": 25.1270092
+},
+{
+  "type": "node",
+  "id": 3561458189,
+  "lat": 35.3417432,
+  "lon": 25.1308409
+},
+{
+  "type": "node",
+  "id": 3561458191,
+  "lat": 35.3419632,
+  "lon": 25.1307581
+},
+{
+  "type": "node",
+  "id": 3561458192,
+  "lat": 35.3419605,
+  "lon": 25.1309068
+},
+{
+  "type": "node",
+  "id": 3561458193,
+  "lat": 35.3420015,
+  "lon": 25.1310604
+},
+{
+  "type": "node",
+  "id": 3579810357,
+  "lat": 35.3419855,
+  "lon": 25.1268301
+},
+{
+  "type": "node",
+  "id": 3579810358,
+  "lat": 35.3419438,
+  "lon": 25.1268387
+},
+{
+  "type": "node",
+  "id": 3579810359,
+  "lat": 35.3419675,
+  "lon": 25.1270194
+},
+{
+  "type": "node",
+  "id": 3579810360,
+  "lat": 35.3419950,
+  "lon": 25.1272566
+},
+{
+  "type": "node",
+  "id": 3579810361,
+  "lat": 35.3418787,
+  "lon": 25.1272786
+},
+{
+  "type": "node",
+  "id": 3579810362,
+  "lat": 35.3418654,
+  "lon": 25.1271687
+},
+{
+  "type": "node",
+  "id": 3579810363,
+  "lat": 35.3419174,
+  "lon": 25.1271604
+},
+{
+  "type": "node",
+  "id": 3579810364,
+  "lat": 35.3419003,
+  "lon": 25.1270332
+},
+{
+  "type": "node",
+  "id": 5703607746,
+  "lat": 35.3418510,
+  "lon": 25.1311078
+},
+{
+  "type": "node",
+  "id": 5884650071,
+  "lat": 35.3419156,
+  "lon": 25.1309133
+},
+{
+  "type": "node",
+  "id": 5884650072,
+  "lat": 35.3419047,
+  "lon": 25.1308626
+},
+{
+  "type": "node",
+  "id": 5884650073,
+  "lat": 35.3419825,
+  "lon": 25.1308302
+},
+{
+  "type": "node",
+  "id": 5884650074,
+  "lat": 35.3417648,
+  "lon": 25.1309119
+},
+{
+  "type": "node",
+  "id": 5884650075,
+  "lat": 35.3418628,
+  "lon": 25.1308766
+},
+{
+  "type": "node",
+  "id": 5884650076,
+  "lat": 35.3418755,
+  "lon": 25.1309310
+},
+{
+  "type": "node",
+  "id": 5884650077,
+  "lat": 35.3418104,
+  "lon": 25.1309558
+},
+{
+  "type": "node",
+  "id": 3751576337,
+  "lat": 35.3073420,
+  "lon": 25.3848358
+},
+{
+  "type": "node",
+  "id": 3751576338,
+  "lat": 35.3073047,
+  "lon": 25.3849179
+},
+{
+  "type": "node",
+  "id": 3751576339,
+  "lat": 35.3073741,
+  "lon": 25.3849653
+},
+{
+  "type": "node",
+  "id": 3751576340,
+  "lat": 35.3073589,
+  "lon": 25.3849988
+},
+{
+  "type": "node",
+  "id": 3751576341,
+  "lat": 35.3074757,
+  "lon": 25.3849271
+},
+{
+  "type": "node",
+  "id": 3751576342,
+  "lat": 35.3074232,
+  "lon": 25.3850427
+},
+{
+  "type": "node",
+  "id": 2388785050,
+  "lat": 35.3063446,
+  "lon": 25.4116567
+},
+{
+  "type": "node",
+  "id": 2388785053,
+  "lat": 35.3060004,
+  "lon": 25.4115910
+},
+{
+  "type": "node",
+  "id": 2388785054,
+  "lat": 35.3061854,
+  "lon": 25.4104621
+},
+{
+  "type": "node",
+  "id": 2388785056,
+  "lat": 35.3061244,
+  "lon": 25.4121631
+},
+{
+  "type": "node",
+  "id": 2388785057,
+  "lat": 35.3069049,
+  "lon": 25.4108808
+},
+{
+  "type": "node",
+  "id": 2388785059,
+  "lat": 35.3060777,
+  "lon": 25.4112496
+},
+{
+  "type": "node",
+  "id": 2388785060,
+  "lat": 35.3067836,
+  "lon": 25.4113134
+},
+{
+  "type": "node",
+  "id": 2388785062,
+  "lat": 35.3059538,
+  "lon": 25.4120494
+},
+{
+  "type": "node",
+  "id": 4410224698,
+  "lat": 35.3060494,
+  "lon": 25.4113643
+},
+{
+  "type": "way",
+  "id": 211917529,
+  "nodes": [
+    3579810364,
+    2218475498,
+    2218475497,
+    2218475499,
+    2218475496,
+    3579810352,
+    3579810351,
+    3579810353,
+    3579810354,
+    2218475500,
+    3579810356,
+    3579810355,
+    3579810357,
+    3579810358,
+    2218475501,
+    2218475502,
+    2218475503,
+    3579810359,
+    3579810360,
+    3579810361,
+    3579810362,
+    3579810363,
+    3579810364
+  ]
+}
+
+  ]
+}

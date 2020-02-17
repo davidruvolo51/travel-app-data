@@ -1,0 +1,885 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-14T12:19:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1506922579,
+  "lat": 49.4262299,
+  "lon": 22.3216809,
+  "tags": {
+    "name": "Muzeum Regionalne, Galeria",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4239181438,
+  "lat": 49.2523106,
+  "lon": 22.0830040,
+  "tags": {
+    "addr:city": "Nowy Łupków",
+    "addr:postcode": "38-543",
+    "description": "Pociąg Edwarda Gierka",
+    "ele": "592",
+    "name": "Bieszczadzkie Muzeum Kolejnictwa",
+    "tourism": "museum",
+    "wheelchair": "no",
+    "wikidata": "Q24948952",
+    "wikipedia": "pl:Bieszczadzkie Muzeum Kolejnictwa"
+  }
+},
+{
+  "type": "node",
+  "id": 6512691590,
+  "lat": 49.3162492,
+  "lon": 22.6850168,
+  "tags": {
+    "name": "Muzeum historii Bieszczad",
+    "name:en": "History museum of Bieszczady",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 73274186,
+  "nodes": [
+    869132533,
+    869132541,
+    869132552,
+    869132557,
+    869132560,
+    869132586,
+    869132592,
+    869132602,
+    869132606,
+    869132608,
+    869132610,
+    869132614,
+    869132620,
+    869132646,
+    869132651,
+    869132533
+  ],
+  "tags": {
+    "addr:city": "Medzilaborce-Podňagovčík",
+    "addr:housenumber": "760",
+    "addr:postcode": "068 01",
+    "addr:street": "Dobrianského",
+    "building": "yes",
+    "import": "budovy201004",
+    "int_name": "Andy Warhol Museum of Modern Art",
+    "name": "Múzeum moderného umenia A. Warhola Medzilaborce",
+    "source": "kapor2",
+    "tourism": "museum",
+    "wikidata": "Q4120060",
+    "wikipedia": "sk:Múzeum moderného umenia Andyho Warhola"
+  }
+},
+{
+  "type": "way",
+  "id": 238484951,
+  "nodes": [
+    3605606580,
+    3605606567,
+    3605606566,
+    3605606565,
+    3605606524,
+    3605606476,
+    3605606507,
+    3605606501,
+    3605606534,
+    3605606649,
+    3605606580
+  ],
+  "tags": {
+    "addr:city": "Ustrzyki Dolne",
+    "addr:housename": "Muzeum",
+    "addr:housenumber": "7",
+    "addr:postcode": "38-700",
+    "addr:street": "Bełska",
+    "building": "yes",
+    "image": "https://www.bdpn.pl/images/stories/bdpn/edukacja/muzeum/1.jpg",
+    "name": "Muzeum Bieszczadzkiego Parku Narodowego",
+    "opening_hours": "Tu-Sa 09:00-17:00",
+    "start_date": "1986",
+    "tourism": "museum",
+    "website": "https://www.bdpn.pl/index.php?option=com_content&task=view&id=97&Itemid=106",
+    "website:2": "http://www.bieszczady.net.pl/muzeum.php",
+    "wikidata": "Q16580062",
+    "wikipedia": "pl:Muzeum Przyrodnicze Bieszczadzkiego Parku Narodowego w Ustrzykach Dolnych"
+  }
+},
+{
+  "type": "way",
+  "id": 239592517,
+  "nodes": [
+    3605605650,
+    3605605643,
+    3605605649,
+    3605605551,
+    3605605590,
+    3605605628,
+    3605605681,
+    3605605744,
+    3605605650
+  ],
+  "tags": {
+    "addr:city": "Ustrzyki Dolne",
+    "addr:city:simc": "0953817",
+    "addr:housenumber": "12",
+    "addr:postcode": "38-700",
+    "addr:street": "Fabryczna",
+    "addr:street:sym_ul": "04863",
+    "building": "yes",
+    "email": "info@mlynbieszczady.pl",
+    "historic": "heritage",
+    "image": "http://mlynbieszczady.pl/wp-contentgallerymlyn-wczoraj-i-dzis/2.2..JPG",
+    "name": "Muzeum Młynarstwa i Wsi w Ustrzykach Dolnych",
+    "note": "Ustrzycki młyn parowy powstał w 1925 r. i przeznaczony był przede wszystkim do produkcji wysokogatunkowej białej mąki.",
+    "opening_hours": "Mo-Su 10:00-19:00",
+    "operator": "Bożena i Janusz Bałkot",
+    "phone": "+48 607 477 110",
+    "source:addr": "ustrzykidolne.e-mapa.net",
+    "start_date": "1905",
+    "tourism": "museum",
+    "website": "http://mlynbieszczady.pl/",
+    "wikidata": "Q16580004",
+    "wikipedia": "pl:Muzeum Młynarstwa i Wsi w Ustrzykach Dolnych"
+  }
+},
+{
+  "type": "way",
+  "id": 243705902,
+  "nodes": [
+    3622188392,
+    3622188398,
+    3622188391,
+    3622188378,
+    3622188382,
+    3622188397,
+    3622188393,
+    3622188395,
+    3622188392
+  ],
+  "tags": {
+    "building": "yes",
+    "email": "gjotek@poczta.onet.pl",
+    "image": "http://muzeum.ustrzykigorne.pttk.pl/grafika/domek.jpg",
+    "name": "Muzeum Turystyki Górskiej",
+    "official_name": "Bieszczadzki Ośrodek Historii Turystyki Górskiej \"Zielony Domek\"",
+    "opening_hours": "Jun-Jul 17:00-19:00",
+    "operator": "Jacek Gołębiowski",
+    "phone": "+48 607 638 761",
+    "start_date": "1991",
+    "tourism": "museum",
+    "website": "http://muzeum.ustrzykigorne.pttk.pl/",
+    "wikidata": "Q16580209",
+    "wikipedia": "pl:Ośrodek Kultury Turystyki Górskiej PTTK w Ustrzykach Górnych"
+  }
+},
+{
+  "type": "way",
+  "id": 294736348,
+  "nodes": [
+    3621312558,
+    3621312553,
+    3621312548,
+    3621312546,
+    3621312539,
+    3621312542,
+    3621312535,
+    3621312540,
+    3621312538,
+    3621312543,
+    3621312545,
+    3621312547,
+    3621312558
+  ],
+  "tags": {
+    "building": "train_station",
+    "email": "biuro@fbkl.pl",
+    "image": "http://kolejka.bieszczady.pl/wp-content/uploads/thumb2.png",
+    "name": "Muzeum Bieszczadzkiej Kolejki",
+    "phone": "+48 13 468 63 35",
+    "start_date": "1895",
+    "tourism": "museum",
+    "website": "http://fbkl.pl",
+    "wikidata": "Q4904682",
+    "wikipedia": "pl:Bieszczadzka Kolejka Leśna"
+  }
+},
+{
+  "type": "way",
+  "id": 294736349,
+  "nodes": [
+    2983514473,
+    2983514479,
+    2983514465,
+    3720257647,
+    2983514463,
+    2983514473
+  ],
+  "tags": {
+    "building": "roof",
+    "layer": "1",
+    "name": "Skansen Kolejki",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 356316696,
+  "nodes": [
+    3617741204,
+    3617741092,
+    3617741200,
+    3617741207,
+    3617741204
+  ],
+  "tags": {
+    "addr:city:simc": "0360572",
+    "addr:housenumber": "46",
+    "addr:place": "Myczków",
+    "addr:postcode": "38-610",
+    "building": "yes",
+    "description": "Gromadzi i dokumentuje pamiątki kultury materialnej i duchowej dawnych mieszkańców terenu obecnej gminy Solina",
+    "image": "http://mojebieszczady.com/uploads/media_items/muzeum-bojk%C3%B3w-7.480.319.s.jpg",
+    "name": "Muzeum Kultury Bojków",
+    "opening_hours": "Tu-Su 9:30-15:30",
+    "operator": "GOKSiT Polańczyk",
+    "phone": "+48 13 463 15 69",
+    "source:addr": "solina.e-mapa.net",
+    "start_date": "2013",
+    "tourism": "museum",
+    "website": "http://muzeumbojkow.pl"
+  }
+},
+{
+  "type": "way",
+  "id": 356732674,
+  "nodes": [
+    3621418418,
+    3621418417,
+    3621418414,
+    5745204639,
+    3621418424,
+    3621418428,
+    5745204640,
+    5745204641,
+    3621418418
+  ],
+  "tags": {
+    "building": "house",
+    "description": "Bogata kolekcja oryginalnych strojów ludowych oraz łemkowskich ozdób regionalnych.",
+    "image": "http://www.ooh.pl/boiwka/Images/boi3a.jpg",
+    "name": "Pamiątki Łemkowskie",
+    "phone": "+48 13 46 77 134",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 403928080,
+  "nodes": [
+    4062245710,
+    4062245709,
+    4062245705,
+    4062245704,
+    4062245703,
+    4062245706,
+    6776337804,
+    4062245711,
+    4062245710
+  ],
+  "tags": {
+    "name": "Park Miniatur Świątyń",
+    "phone": "+48 13 461 83 70",
+    "start_date": "2007",
+    "tourism": "museum",
+    "wikidata": "Q24944430",
+    "wikipedia": "pl:Park Miniatur Świątyń w Myczkowcach"
+  }
+},
+{
+  "type": "way",
+  "id": 499923219,
+  "nodes": [
+    4911047145,
+    4911047144,
+    4911047143,
+    4911047142,
+    4911047141,
+    4911047145
+  ],
+  "tags": {
+    "description": "militaria, ikony, eksponaty z całego świata. Teren dawnej leśniczówki Łodyna",
+    "image": "http://www.ustrzyki-dolne.pl/web/uploads/pub/pages/page_1642/100_2113%20paint.JPG",
+    "name": "Zbiory Leśnika",
+    "opening_hours": "10:00-18:00",
+    "tourism": "museum",
+    "website": "http://www.ustrzyki-dolne.pl/web/strona-1579-Warto+zobaczyc+Mini+muzeum++zbiory+lesnika.html"
+  }
+},
+{
+  "type": "way",
+  "id": 499929727,
+  "nodes": [
+    4911100665,
+    4911100664,
+    4911100663,
+    4911100662,
+    4911100661,
+    4911100665
+  ],
+  "tags": {
+    "description": "Odwiedzający może zobaczyć szereg trofeów myśliwskich, fotografie z historii Ustrzyk",
+    "email": "knieja@muzeumknieja.pl",
+    "image": "http://www.twojebieszczady.net/muzea/knieja300.jpg",
+    "name": "Muzeum Przyrodniczo-Łowieckie \"Knieja\"",
+    "opening_hours": "09:00-19:00",
+    "operator": "Henryka i Jerzy Wałachowscy",
+    "phone": "+48 609 474 783",
+    "start_date": "2002",
+    "tourism": "museum",
+    "website": "https://muzeumknieja.pl/",
+    "wikidata": "Q16580077",
+    "wikipedia": "pl:Muzeum Przyrodniczo-Łowieckie „Knieja” w Nowosiółkach"
+  }
+},
+{
+  "type": "node",
+  "id": 869132533,
+  "lat": 49.2683275,
+  "lon": 21.9050309
+},
+{
+  "type": "node",
+  "id": 869132541,
+  "lat": 49.2683380,
+  "lon": 21.9050425
+},
+{
+  "type": "node",
+  "id": 869132552,
+  "lat": 49.2683315,
+  "lon": 21.9050540
+},
+{
+  "type": "node",
+  "id": 869132557,
+  "lat": 49.2683222,
+  "lon": 21.9050434
+},
+{
+  "type": "node",
+  "id": 869132560,
+  "lat": 49.2682953,
+  "lon": 21.9050472
+},
+{
+  "type": "node",
+  "id": 869132586,
+  "lat": 49.2682167,
+  "lon": 21.9049617
+},
+{
+  "type": "node",
+  "id": 869132592,
+  "lat": 49.2682273,
+  "lon": 21.9049395
+},
+{
+  "type": "node",
+  "id": 869132602,
+  "lat": 49.2682181,
+  "lon": 21.9049292
+},
+{
+  "type": "node",
+  "id": 869132606,
+  "lat": 49.2682126,
+  "lon": 21.9048885
+},
+{
+  "type": "node",
+  "id": 869132608,
+  "lat": 49.2682191,
+  "lon": 21.9048777
+},
+{
+  "type": "node",
+  "id": 869132610,
+  "lat": 49.2681752,
+  "lon": 21.9048280
+},
+{
+  "type": "node",
+  "id": 869132614,
+  "lat": 49.2683651,
+  "lon": 21.9044178
+},
+{
+  "type": "node",
+  "id": 869132620,
+  "lat": 49.2687005,
+  "lon": 21.9047862
+},
+{
+  "type": "node",
+  "id": 869132646,
+  "lat": 49.2685071,
+  "lon": 21.9051933
+},
+{
+  "type": "node",
+  "id": 869132651,
+  "lat": 49.2683382,
+  "lon": 21.9050094
+},
+{
+  "type": "node",
+  "id": 3621418414,
+  "lat": 49.3314798,
+  "lon": 22.0675642
+},
+{
+  "type": "node",
+  "id": 3621418417,
+  "lat": 49.3314332,
+  "lon": 22.0675080
+},
+{
+  "type": "node",
+  "id": 3621418418,
+  "lat": 49.3315002,
+  "lon": 22.0673770
+},
+{
+  "type": "node",
+  "id": 3621418424,
+  "lat": 49.3315512,
+  "lon": 22.0675820
+},
+{
+  "type": "node",
+  "id": 3621418428,
+  "lat": 49.3315841,
+  "lon": 22.0675175
+},
+{
+  "type": "node",
+  "id": 5745204639,
+  "lat": 49.3315014,
+  "lon": 22.0675220
+},
+{
+  "type": "node",
+  "id": 5745204640,
+  "lat": 49.3315369,
+  "lon": 22.0674606
+},
+{
+  "type": "node",
+  "id": 5745204641,
+  "lat": 49.3315494,
+  "lon": 22.0674362
+},
+{
+  "type": "node",
+  "id": 2983514463,
+  "lat": 49.2052334,
+  "lon": 22.2995894
+},
+{
+  "type": "node",
+  "id": 2983514465,
+  "lat": 49.2052997,
+  "lon": 22.2996835
+},
+{
+  "type": "node",
+  "id": 2983514473,
+  "lat": 49.2054278,
+  "lon": 22.2992689
+},
+{
+  "type": "node",
+  "id": 2983514479,
+  "lat": 49.2054940,
+  "lon": 22.2993630
+},
+{
+  "type": "node",
+  "id": 3621312535,
+  "lat": 49.2059076,
+  "lon": 22.2984891
+},
+{
+  "type": "node",
+  "id": 3621312538,
+  "lat": 49.2059256,
+  "lon": 22.2985425
+},
+{
+  "type": "node",
+  "id": 3621312539,
+  "lat": 49.2059316,
+  "lon": 22.2984200
+},
+{
+  "type": "node",
+  "id": 3621312540,
+  "lat": 49.2059347,
+  "lon": 22.2985271
+},
+{
+  "type": "node",
+  "id": 3621312542,
+  "lat": 49.2059410,
+  "lon": 22.2984332
+},
+{
+  "type": "node",
+  "id": 3621312543,
+  "lat": 49.2059411,
+  "lon": 22.2985642
+},
+{
+  "type": "node",
+  "id": 3621312545,
+  "lat": 49.2059503,
+  "lon": 22.2985488
+},
+{
+  "type": "node",
+  "id": 3621312546,
+  "lat": 49.2059579,
+  "lon": 22.2983761
+},
+{
+  "type": "node",
+  "id": 3621312547,
+  "lat": 49.2059668,
+  "lon": 22.2985718
+},
+{
+  "type": "node",
+  "id": 3621312548,
+  "lat": 49.2059674,
+  "lon": 22.2983894
+},
+{
+  "type": "node",
+  "id": 3621312553,
+  "lat": 49.2060044,
+  "lon": 22.2983280
+},
+{
+  "type": "node",
+  "id": 3621312558,
+  "lat": 49.2060635,
+  "lon": 22.2984108
+},
+{
+  "type": "node",
+  "id": 3720257647,
+  "lat": 49.2052598,
+  "lon": 22.2996268
+},
+{
+  "type": "node",
+  "id": 4911100661,
+  "lat": 49.3995605,
+  "lon": 22.2839963
+},
+{
+  "type": "node",
+  "id": 4911100662,
+  "lat": 49.3996199,
+  "lon": 22.2839856
+},
+{
+  "type": "node",
+  "id": 4911100663,
+  "lat": 49.3998939,
+  "lon": 22.2835886
+},
+{
+  "type": "node",
+  "id": 4911100664,
+  "lat": 49.3996879,
+  "lon": 22.2831032
+},
+{
+  "type": "node",
+  "id": 4911100665,
+  "lat": 49.3993423,
+  "lon": 22.2835082
+},
+{
+  "type": "node",
+  "id": 3617741092,
+  "lat": 49.3798686,
+  "lon": 22.4127618
+},
+{
+  "type": "node",
+  "id": 3617741200,
+  "lat": 49.3799287,
+  "lon": 22.4128762
+},
+{
+  "type": "node",
+  "id": 3617741204,
+  "lat": 49.3800008,
+  "lon": 22.4125989
+},
+{
+  "type": "node",
+  "id": 3617741207,
+  "lat": 49.3800609,
+  "lon": 22.4127133
+},
+{
+  "type": "node",
+  "id": 4062245703,
+  "lat": 49.4456331,
+  "lon": 22.3973877
+},
+{
+  "type": "node",
+  "id": 4062245704,
+  "lat": 49.4456487,
+  "lon": 22.3974216
+},
+{
+  "type": "node",
+  "id": 4062245705,
+  "lat": 49.4456681,
+  "lon": 22.3974522
+},
+{
+  "type": "node",
+  "id": 4062245706,
+  "lat": 49.4456856,
+  "lon": 22.3969125
+},
+{
+  "type": "node",
+  "id": 4062245709,
+  "lat": 49.4461954,
+  "lon": 22.3975308
+},
+{
+  "type": "node",
+  "id": 4062245710,
+  "lat": 49.4463463,
+  "lon": 22.3973789
+},
+{
+  "type": "node",
+  "id": 4062245711,
+  "lat": 49.4464353,
+  "lon": 22.3969924
+},
+{
+  "type": "node",
+  "id": 6776337804,
+  "lat": 49.4460978,
+  "lon": 22.3969688
+},
+{
+  "type": "node",
+  "id": 3605606476,
+  "lat": 49.4305495,
+  "lon": 22.5866322
+},
+{
+  "type": "node",
+  "id": 3605606501,
+  "lat": 49.4305919,
+  "lon": 22.5868932
+},
+{
+  "type": "node",
+  "id": 3605606507,
+  "lat": 49.4306055,
+  "lon": 22.5868856
+},
+{
+  "type": "node",
+  "id": 3605606524,
+  "lat": 49.4306485,
+  "lon": 22.5865722
+},
+{
+  "type": "node",
+  "id": 3605606534,
+  "lat": 49.4306657,
+  "lon": 22.5872069
+},
+{
+  "type": "node",
+  "id": 3605606565,
+  "lat": 49.4307148,
+  "lon": 22.5868520
+},
+{
+  "type": "node",
+  "id": 3605606566,
+  "lat": 49.4307149,
+  "lon": 22.5868517
+},
+{
+  "type": "node",
+  "id": 3605606567,
+  "lat": 49.4307150,
+  "lon": 22.5868518
+},
+{
+  "type": "node",
+  "id": 3605606580,
+  "lat": 49.4307321,
+  "lon": 22.5868421
+},
+{
+  "type": "node",
+  "id": 3605606649,
+  "lat": 49.4308009,
+  "lon": 22.5871322
+},
+{
+  "type": "node",
+  "id": 3605605551,
+  "lat": 49.4293956,
+  "lon": 22.6031794
+},
+{
+  "type": "node",
+  "id": 3605605590,
+  "lat": 49.4294471,
+  "lon": 22.6032843
+},
+{
+  "type": "node",
+  "id": 3605605628,
+  "lat": 49.4294922,
+  "lon": 22.6032352
+},
+{
+  "type": "node",
+  "id": 3605605643,
+  "lat": 49.4295045,
+  "lon": 22.6030371
+},
+{
+  "type": "node",
+  "id": 3605605649,
+  "lat": 49.4295103,
+  "lon": 22.6030494
+},
+{
+  "type": "node",
+  "id": 3605605650,
+  "lat": 49.4295104,
+  "lon": 22.6030307
+},
+{
+  "type": "node",
+  "id": 3605605744,
+  "lat": 49.4296352,
+  "lon": 22.6032948
+},
+{
+  "type": "node",
+  "id": 3605605681,
+  "lat": 49.4295592,
+  "lon": 22.6033788
+},
+{
+  "type": "node",
+  "id": 4911047141,
+  "lat": 49.4537432,
+  "lon": 22.6033616
+},
+{
+  "type": "node",
+  "id": 4911047144,
+  "lat": 49.4542332,
+  "lon": 22.6033455
+},
+{
+  "type": "node",
+  "id": 4911047145,
+  "lat": 49.4540867,
+  "lon": 22.6029834
+},
+{
+  "type": "node",
+  "id": 4911047142,
+  "lat": 49.4540815,
+  "lon": 22.6033884
+},
+{
+  "type": "node",
+  "id": 4911047143,
+  "lat": 49.4541652,
+  "lon": 22.6034367
+},
+{
+  "type": "node",
+  "id": 3622188378,
+  "lat": 49.1084645,
+  "lon": 22.6531427
+},
+{
+  "type": "node",
+  "id": 3622188382,
+  "lat": 49.1085100,
+  "lon": 22.6532547
+},
+{
+  "type": "node",
+  "id": 3622188391,
+  "lat": 49.1085551,
+  "lon": 22.6530572
+},
+{
+  "type": "node",
+  "id": 3622188392,
+  "lat": 49.1085556,
+  "lon": 22.6531165
+},
+{
+  "type": "node",
+  "id": 3622188393,
+  "lat": 49.1085575,
+  "lon": 22.6531604
+},
+{
+  "type": "node",
+  "id": 3622188395,
+  "lat": 49.1085691,
+  "lon": 22.6531495
+},
+{
+  "type": "node",
+  "id": 3622188397,
+  "lat": 49.1085720,
+  "lon": 22.6531960
+},
+{
+  "type": "node",
+  "id": 3622188398,
+  "lat": 49.1085726,
+  "lon": 22.6531003
+}
+
+  ]
+}

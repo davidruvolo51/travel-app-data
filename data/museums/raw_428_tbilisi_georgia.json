@@ -1,0 +1,1237 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-14T19:17:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 412210717,
+  "lat": 41.6982945,
+  "lon": 44.7988291,
+  "tags": {
+    "name": "ცისფერი გალერეა",
+    "name:en": "National Gallery of Georgia (\"Blue Gallery\")",
+    "name:ja": "国立美術館",
+    "name:ka": "ცისფერი გალერეა",
+    "name:ru": "Национальная галерея Грузии («Голубая галерея»)",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 412214448,
+  "lat": 41.6960428,
+  "lon": 44.8002209,
+  "tags": {
+    "addr:city": "Tbilisi",
+    "addr:street": "რუსთაველის გამზირი",
+    "name": "საქართველოს ეროვნული მუზეუმი",
+    "name:en": "National Museum of Georgia",
+    "name:fr": "Musée national géorgien",
+    "name:ja": "国立ジョージア博物館",
+    "name:ka": "საქართველოს ეროვნული მუზეუმი",
+    "name:pl": "Gruzińskie Muzeum Narodowe",
+    "name:ru": "Грузинский национальный музей",
+    "opening_hours": "Tu-Su 09:00-18:00",
+    "tourism": "museum",
+    "website": "http://museum.ge/"
+  }
+},
+{
+  "type": "node",
+  "id": 460360927,
+  "lat": 41.7041857,
+  "lon": 44.7447627,
+  "tags": {
+    "addr:housenumber": "1",
+    "addr:street": "კუს ტბის ასახვევი",
+    "name": "Etnographic Museum",
+    "name:fr": "Musée Ethnographique",
+    "name:pl": "Muzeum Etnograficzne",
+    "name:ru": "Этнографический музей под открытым небом",
+    "opening_hours": "Tu-Su 11:00-18:00",
+    "phone": "+995-32-222 63 02",
+    "source": "address and opening hours: Kaukasische Post",
+    "tourism": "museum",
+    "website": "http://museum.ge/?lang_id=ENGGEO&sec_id=46"
+  }
+},
+{
+  "type": "node",
+  "id": 637763969,
+  "lat": 41.6950778,
+  "lon": 44.8020374,
+  "tags": {
+    "addr:city": "Tbilisi",
+    "addr:country": "GE",
+    "addr:country_code": "GE",
+    "addr:housenumber": "1",
+    "addr:postcode": "0105",
+    "addr:street": "Lado Gudiashvili Street",
+    "fax": "+995 (32) 996635",
+    "name": "საქართველოს ხელოვნების მუზეუმი",
+    "name:en": "Shalva Amiranashvili Museum of Fine Arts",
+    "name:fr": "Musée des beaux-arts Shalva Amiranashvili",
+    "name:ka": "საქართველოს ხელოვნების მუზეუმი",
+    "name:ru": "Государственный музей искусств Грузии",
+    "opening_hours": "Tu-Su 11:00-16:00; Mo off",
+    "phone": "+995 (32) 999909",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 916549480,
+  "lat": 41.6958049,
+  "lon": 44.8004212,
+  "tags": {
+    "addr:city": "Tbilisi",
+    "addr:street": "Rustaveli Avenue",
+    "is_in:city": "Tbilisi",
+    "is_in:country": "Georgia",
+    "name": "საბჭოთა ოკუპაციის მუზეუმი",
+    "name:en": "Museum of the Soviet Occupation",
+    "name:fr": "Musée de l'occupation soviétique",
+    "name:ja": "ソ連占領下博物館",
+    "name:ka": "საბჭოთა ოკუპაციის მუზეუმი",
+    "name:pl": "Muzeum Okupacji Sowieckiej",
+    "name:ru": "Музей советской оккупации",
+    "opening_hours": "Tu-Su 10:00-20:00",
+    "tourism": "museum",
+    "wikidata": "Q2562904",
+    "wikipedia": "en:Museum of Soviet Occupation (Tbilisi)"
+  }
+},
+{
+  "type": "node",
+  "id": 921298269,
+  "lat": 41.7038949,
+  "lon": 44.8062280,
+  "tags": {
+    "addr:city": "Tbilisi",
+    "addr:country": "GE",
+    "addr:country_code": "GE",
+    "addr:housenumber": "7",
+    "addr:street": "I. Javakhishvili Str.",
+    "name": "ილია ჭავჭავაძის მუზეუმი",
+    "name:en": "Ilia Chavchavadze Museum",
+    "name:ru": "Музей Ильи Чавчавадзе",
+    "opening_hours": "Mo-Fr 11:00-17:00",
+    "phone": "+995 (32) 957058",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1069478811,
+  "lat": 41.7230468,
+  "lon": 44.7775263,
+  "tags": {
+    "name": "Georgian Technical University",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1551655810,
+  "lat": 41.7187935,
+  "lon": 44.8002634,
+  "tags": {
+    "addr:housenumber": "29",
+    "addr:street": "ფიროსმანის ქ.",
+    "fixme": "phone, opening hours",
+    "name": "Pirosmani Museum",
+    "name:en": "Pirosmani Museum",
+    "name:ru": "Музей Пиросмани",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1561059942,
+  "lat": 41.6993313,
+  "lon": 44.7992392,
+  "tags": {
+    "name": "ლიტერატურის მუზეუმი",
+    "name:en": "Literature Museum",
+    "name:ka": "ლიტერატურის მუზეუმი",
+    "name:ru": "Литературный Музей",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1616390555,
+  "lat": 41.4491485,
+  "lon": 44.5407924,
+  "tags": {
+    "addr:housenumber": "95",
+    "addr:postcode": "1100",
+    "addr:street": "სულხან-საბა ორბელიანის ქუჩა",
+    "name": "ბოლნისის რაიონის მუზეუმი",
+    "name:en": "Bolnisi Local Museum",
+    "opening_hours": "Tu-Su 10:00-18:00",
+    "phone": "+995 258 22994",
+    "tourism": "museum",
+    "website": "http://www.georgianmuseums.ge/?lang=eng&id=1_1&sec_id=6&th_id=236"
+  }
+},
+{
+  "type": "node",
+  "id": 2891332680,
+  "lat": 41.7057861,
+  "lon": 44.7906260,
+  "tags": {
+    "name": "ელენე ახვლედიანის სახლ-მუსეუმი",
+    "name:en": "Elene Akhvlediani House Museum",
+    "name:ka": "ელენე ახვლედიანის სახლ-მუსეუმი",
+    "name:ru": "Дом-музей Елены Ахвледиани",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3671495315,
+  "lat": 41.7015891,
+  "lon": 44.7950883,
+  "tags": {
+    "name": "Tsereteli Museum of Modern Art",
+    "name:en": "Tsereteli Museum of Modern Art",
+    "name:ka": "წერეთლის თანამედროვე ხელოვნების მუზეუმი",
+    "name:ru": "Музей Cовременного Искусства Зураба Церетели",
+    "opening_hours": "Mo-Su 10:00-18:00",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4287240631,
+  "lat": 41.6905171,
+  "lon": 44.8301191,
+  "tags": {
+    "name": "Tbilisi Underground Printing Office",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4302896147,
+  "lat": 41.6893668,
+  "lon": 44.8096103,
+  "tags": {
+    "name": "ქართული ხალხური სიმღერისა და საკრავების სახელმწიფო მუზეუმი",
+    "name:ca": "Museu estatal de cançons tradicionals georgianes i instruments musicals",
+    "name:en": "State museum of Georgian folk songs and musical instruments",
+    "name:ka": "ქართული ხალხური სიმღერისა და საკრავების სახელმწიფო მუზეუმი",
+    "name:ru": "Государственный музей грузинской народной музыки и музыкальных инструментов",
+    "opening_hours": "Tu-Su 11:00-22:00",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4325006493,
+  "lat": 41.6909650,
+  "lon": 44.8075493,
+  "tags": {
+    "name": "Музей истории Тбилиси",
+    "name:ca": "Museu d’Història de Tbilisi",
+    "name:en": "Tbilisi History Museum",
+    "name:ja": "トビリシ歴史博物館",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4328045889,
+  "lat": 41.6975615,
+  "lon": 44.8002151,
+  "tags": {
+    "addr:housenumber": "11",
+    "addr:street": "ლადო გუდიაშვილის ქუჩა",
+    "name": "ლადო გუდიაშვილის სახელობის გალერეა",
+    "name:en": "Lado Gudiashvili gallery (foundation)",
+    "name:ru": "Галерея имени Ладо Гудиашвили",
+    "opening_hours": "Tu-Su 11:00-18:30",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4343374298,
+  "lat": 41.6906817,
+  "lon": 44.8300850,
+  "tags": {
+    "addr:housenumber": "7",
+    "addr:street": "კასპის ქ. (Kaspi Str.)",
+    "description": "Подпольная типография Сталина музей\nStalin's unlegal tipography museum",
+    "name": "Stalin,s unlegal tipography / Подпольная типография Сталина",
+    "name:en": "Stalin's Underground Printing Museum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4411354491,
+  "lat": 41.6901690,
+  "lon": 44.8023318,
+  "tags": {
+    "addr:housenumber": "28",
+    "addr:street": "შალვა დადიანის ქუჩა",
+    "name:ca": "Museu estatal de folklore i arts aplicades de Geòrgia",
+    "name:en": "State museum of folk and applied arts of Georgia",
+    "name:ru": "Музей народного промысла",
+    "opening_hours": "Tu, Th-Su 10:00-18:00; We 10:00-21:00",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4950669324,
+  "lat": 41.6770911,
+  "lon": 44.9022190,
+  "tags": {
+    "name:en": "Tbilisi Automuseum",
+    "name:ru": "Автомобильный музей",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 5268259321,
+  "lat": 41.7548880,
+  "lon": 44.7837096,
+  "tags": {
+    "name": "ხუმარას ქოხი",
+    "name:en": "Xumara's Cabin",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 5622501722,
+  "lat": 41.8465087,
+  "lon": 44.7178282,
+  "tags": {
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6147755785,
+  "lat": 41.7051967,
+  "lon": 44.7964066,
+  "tags": {
+    "addr:housenumber": "10",
+    "addr:street": "დოდო აბაშიძის ქუჩა",
+    "name:en": "ArtArea",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6162064485,
+  "lat": 41.6972082,
+  "lon": 44.7995506,
+  "tags": {
+    "amenity": "cafe",
+    "name:en": "THE GEORGRA",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6200547851,
+  "lat": 41.6897214,
+  "lon": 44.7939005,
+  "tags": {
+    "name": "Hovhannes Tumanyan House Scientific-Cultural Center",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6213730585,
+  "lat": 41.7020762,
+  "lon": 44.7882870,
+  "tags": {
+    "addr:housenumber": "20",
+    "addr:street": "ძმები კაკაბაძეების ქუჩა",
+    "name:ru": "уютная картинная галерея",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6403039188,
+  "lat": 41.6958368,
+  "lon": 44.7963334,
+  "tags": {
+    "name:en": "Experimentorium",
+    "tourism": "museum",
+    "website": "http://experimentorium.ge"
+  }
+},
+{
+  "type": "node",
+  "id": 6612890685,
+  "lat": 41.6885781,
+  "lon": 44.8158281,
+  "tags": {
+    "name:en": "Museum of Azerbaijani Culture",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6726870687,
+  "lat": 41.6898093,
+  "lon": 44.8061442,
+  "tags": {
+    "addr:housenumber": "10",
+    "addr:street": "ბეთლემის შესახვევი",
+    "name:en": "Museum of Illusions",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 7182715985,
+  "lat": 41.6898325,
+  "lon": 44.8061222,
+  "tags": {
+    "name:en": "Museum of Broken Relationships",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 57038408,
+  "nodes": [
+    712114519,
+    712114527,
+    712114554,
+    712114560,
+    712114564,
+    4582266668,
+    4582266667,
+    4582266669,
+    4582266670,
+    712114569,
+    4582266665,
+    4582266666,
+    712114519
+  ],
+  "tags": {
+    "addr:country": "GE",
+    "addr:housenumber": "4",
+    "addr:postcode": "0108",
+    "addr:street": "Ia Kargareteli street",
+    "building": "public",
+    "name": "საქართველოს თეატრის, მუსიკის, კინოსა და ქორეოგრაფიის სახელმწიფო მუზეუმი",
+    "name:en": "Georgian State Museum of Theatre, Music, Cinema and Choreography",
+    "name:ru": "Грузинский государственный музей театра, музыки, кино и хореографии",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 58756687,
+  "nodes": [
+    728175915,
+    728175916,
+    728175917,
+    728175918,
+    728175919,
+    728175920,
+    728175921,
+    728175922,
+    728175923,
+    728175924,
+    728175925,
+    728175926,
+    728175927,
+    728175928,
+    728175929,
+    728175930,
+    728175931,
+    728175932,
+    728175915
+  ],
+  "tags": {
+    "building": "yes",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 60789476,
+  "nodes": [
+    761100659,
+    761100660,
+    761100662,
+    761100666,
+    761100659
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "ნორიოს მუზეუმი",
+    "name:en": "Museum of Norio",
+    "name:ru": "Музей",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 80325559,
+  "nodes": [
+    937504652,
+    937504653,
+    5970095700,
+    5970095699,
+    937504654,
+    5970095698,
+    5970095697,
+    937504655,
+    937504658,
+    937504660,
+    5970095696,
+    5970095695,
+    937504652
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "არხეოლოგიური მუზეუმი",
+    "name:en": "Archaeological Museum",
+    "name:ru": "Археологический музей",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 135869289,
+  "nodes": [
+    705237296,
+    705237297,
+    705237298,
+    705237299,
+    705237296
+  ],
+  "tags": {
+    "addr:country": "GE",
+    "addr:housenumber": "6",
+    "addr:postcode": "0112",
+    "addr:street": "გიორგი ცაბაძის ქუჩა",
+    "building": "yes",
+    "email": "silkmuseum.tbilisi@gmail.com",
+    "internet_access": "wlan",
+    "name": "აბრეშუმის სახელმწიფო მუზეუმი",
+    "name:en": "State Silk Museum",
+    "name:ka": "აბრეშუმის სახელმწიფო მუზეუმი",
+    "name:pl": "Państwowe Muzeum Jedwabiu",
+    "name:ru": "Музей шелковичного дела",
+    "opening_hours": "Tu-Su 11:00-18:00",
+    "phone": "0322340963",
+    "tourism": "museum",
+    "website": "http://www.silkmuseum.ge"
+  }
+},
+{
+  "type": "way",
+  "id": 142657226,
+  "nodes": [
+    1561064501,
+    1561064498,
+    1561064497,
+    1561064494,
+    1561064495,
+    1561064493,
+    1561064504,
+    1561064499,
+    1561064492,
+    1561064496,
+    1561064501
+  ],
+  "tags": {
+    "addr:housenumber": "27",
+    "addr:street": "რუსთაველის გამზირი",
+    "building": "yes",
+    "name:en": "Zurab Tsereteli Museum of Modern Art",
+    "name:ka": "წერეთელის თანამედროვე ხელოვნების მუზეუმი",
+    "name:ru": "Музей современного искусства Зураба Церетели",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 158545938,
+  "nodes": [
+    1707290876,
+    1707290872,
+    1707290854,
+    1707290873,
+    1707290876
+  ],
+  "tags": {
+    "building": "yes",
+    "email": "andro_bedukadze@mail.ru",
+    "name": "ილია ჭავჭავაძის სახლ-მუზეუმი",
+    "name:en": "Ilia Chavchavadze State House Museum",
+    "name:ka": "ილია ჭავჭავაძის სახლ-მუზეუმი",
+    "opening_hours": "Tu-Su 10:00-18:00",
+    "phone": "(+995 55) 269 997",
+    "tourism": "museum",
+    "website": "http://www.georgianmuseums.ge/?lang=eng&id=1_1&sec_id=7&th_id=184"
+  }
+},
+{
+  "type": "way",
+  "id": 183948782,
+  "nodes": [
+    1943907245,
+    1943907234,
+    1943907224,
+    1943907238,
+    1943907243,
+    1943907227,
+    1943907268,
+    1943907225,
+    1943907240,
+    1943907260,
+    1943907242,
+    1943907265,
+    1943907245
+  ],
+  "tags": {
+    "addr:housenumber": "31",
+    "addr:street": "ოდიშარიას ქუჩა",
+    "building": "museum",
+    "name": "რუსთავის ქალაქის მუზეუმი",
+    "name:ru": "Музей города Рустави",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 183949707,
+  "nodes": [
+    1943916746,
+    1943916747,
+    1943916744,
+    1943916750,
+    1943916749,
+    1943916748,
+    1943916741,
+    1943916738,
+    1943916746
+  ],
+  "tags": {
+    "amenity": "arts_centre",
+    "building": "museum",
+    "name": "რუსთავის ხელოვნების ცენტრი",
+    "name:en": "Rustavi Arts Center",
+    "old_name": "ქალაქის კულტურის სახლი",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 427003509,
+  "nodes": [
+    4262478488,
+    4262481189,
+    4262481190,
+    4262481191,
+    4262478488
+  ],
+  "tags": {
+    "name": "ეთნოგრაფიული ექსპოზიცია",
+    "name:ru": "Этнагрофическая экспозиция",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 680607569,
+  "nodes": [
+    6372936813,
+    6372936812,
+    6372936811,
+    6372936810,
+    6372936813
+  ],
+  "tags": {
+    "addr:housenumber": "3",
+    "addr:street": "ანტონ კათალიკოსის ქ.",
+    "building": "yes",
+    "name": "ქართულ-ებრაული მუზეუმი",
+    "name:en": "Museum of History of Jews of Georgia",
+    "name:ka": "ქართულ-ებრაული მუზეუმი",
+    "name:ru": "Музей истории и этнографии грузинских евреев",
+    "tourism": "museum",
+    "wikidata": "Q5231015",
+    "wikipedia": "ka:საქართველოს ებრაელთა ისტორიის მუზეუმი",
+    "wikipedia:en": "David Baazov Museum of History of Jews of Georgia",
+    "wikipedia:ka": "საქართველოს ებრაელთა ისტორიის მუზეუმი",
+    "wikipedia:ru": "Музей истории и этнографии грузинских евреев"
+  }
+},
+{
+  "type": "node",
+  "id": 1943907224,
+  "lat": 41.5382593,
+  "lon": 45.0089066
+},
+{
+  "type": "node",
+  "id": 1943907225,
+  "lat": 41.5380539,
+  "lon": 45.0089151
+},
+{
+  "type": "node",
+  "id": 1943907227,
+  "lat": 41.5382159,
+  "lon": 45.0090748
+},
+{
+  "type": "node",
+  "id": 1943907234,
+  "lat": 41.5383509,
+  "lon": 45.0089217
+},
+{
+  "type": "node",
+  "id": 1943907238,
+  "lat": 41.5382545,
+  "lon": 45.0089580
+},
+{
+  "type": "node",
+  "id": 1943907240,
+  "lat": 41.5381216,
+  "lon": 45.0089263
+},
+{
+  "type": "node",
+  "id": 1943907242,
+  "lat": 41.5379810,
+  "lon": 45.0088455
+},
+{
+  "type": "node",
+  "id": 1943907243,
+  "lat": 41.5382271,
+  "lon": 45.0089534
+},
+{
+  "type": "node",
+  "id": 1943907245,
+  "lat": 41.5383666,
+  "lon": 45.0087527
+},
+{
+  "type": "node",
+  "id": 1943907260,
+  "lat": 41.5381269,
+  "lon": 45.0088696
+},
+{
+  "type": "node",
+  "id": 1943907265,
+  "lat": 41.5379953,
+  "lon": 45.0086912
+},
+{
+  "type": "node",
+  "id": 1943907268,
+  "lat": 41.5380417,
+  "lon": 45.0090459
+},
+{
+  "type": "node",
+  "id": 1943916738,
+  "lat": 41.5390670,
+  "lon": 45.0064891
+},
+{
+  "type": "node",
+  "id": 1943916741,
+  "lat": 41.5389834,
+  "lon": 45.0068239
+},
+{
+  "type": "node",
+  "id": 1943916744,
+  "lat": 41.5387310,
+  "lon": 45.0066828
+},
+{
+  "type": "node",
+  "id": 1943916746,
+  "lat": 41.5388609,
+  "lon": 45.0063973
+},
+{
+  "type": "node",
+  "id": 1943916747,
+  "lat": 41.5387837,
+  "lon": 45.0067063
+},
+{
+  "type": "node",
+  "id": 1943916748,
+  "lat": 41.5390267,
+  "lon": 45.0068432
+},
+{
+  "type": "node",
+  "id": 1943916749,
+  "lat": 41.5389964,
+  "lon": 45.0069645
+},
+{
+  "type": "node",
+  "id": 1943916750,
+  "lat": 41.5386943,
+  "lon": 45.0068298
+},
+{
+  "type": "node",
+  "id": 6372936810,
+  "lat": 41.6919951,
+  "lon": 44.8044515
+},
+{
+  "type": "node",
+  "id": 6372936811,
+  "lat": 41.6918705,
+  "lon": 44.8046199
+},
+{
+  "type": "node",
+  "id": 6372936812,
+  "lat": 41.6917579,
+  "lon": 44.8044703
+},
+{
+  "type": "node",
+  "id": 6372936813,
+  "lat": 41.6918825,
+  "lon": 44.8043020
+},
+{
+  "type": "node",
+  "id": 1561064492,
+  "lat": 41.7013188,
+  "lon": 44.7953116
+},
+{
+  "type": "node",
+  "id": 1561064493,
+  "lat": 41.7016491,
+  "lon": 44.7954412
+},
+{
+  "type": "node",
+  "id": 1561064494,
+  "lat": 41.7016980,
+  "lon": 44.7951266
+},
+{
+  "type": "node",
+  "id": 1561064495,
+  "lat": 41.7017958,
+  "lon": 44.7952513
+},
+{
+  "type": "node",
+  "id": 1561064496,
+  "lat": 41.7017861,
+  "lon": 44.7947149
+},
+{
+  "type": "node",
+  "id": 1561064497,
+  "lat": 41.7018379,
+  "lon": 44.7949480
+},
+{
+  "type": "node",
+  "id": 1561064498,
+  "lat": 41.7018651,
+  "lon": 44.7949863
+},
+{
+  "type": "node",
+  "id": 1561064499,
+  "lat": 41.7019239,
+  "lon": 44.7961524
+},
+{
+  "type": "node",
+  "id": 1561064501,
+  "lat": 41.7019249,
+  "lon": 44.7949099
+},
+{
+  "type": "node",
+  "id": 1561064504,
+  "lat": 41.7020343,
+  "lon": 44.7959906
+},
+{
+  "type": "node",
+  "id": 712114519,
+  "lat": 41.7159783,
+  "lon": 44.7939940
+},
+{
+  "type": "node",
+  "id": 712114527,
+  "lat": 41.7160284,
+  "lon": 44.7941185
+},
+{
+  "type": "node",
+  "id": 712114554,
+  "lat": 41.7159240,
+  "lon": 44.7941940
+},
+{
+  "type": "node",
+  "id": 712114560,
+  "lat": 41.7160446,
+  "lon": 44.7944934
+},
+{
+  "type": "node",
+  "id": 712114564,
+  "lat": 41.7159140,
+  "lon": 44.7945878
+},
+{
+  "type": "node",
+  "id": 712114569,
+  "lat": 41.7156625,
+  "lon": 44.7941527
+},
+{
+  "type": "node",
+  "id": 4582266665,
+  "lat": 41.7157936,
+  "lon": 44.7940580
+},
+{
+  "type": "node",
+  "id": 4582266666,
+  "lat": 41.7158153,
+  "lon": 44.7941117
+},
+{
+  "type": "node",
+  "id": 4582266667,
+  "lat": 41.7158202,
+  "lon": 44.7943905
+},
+{
+  "type": "node",
+  "id": 4582266668,
+  "lat": 41.7158313,
+  "lon": 44.7943825
+},
+{
+  "type": "node",
+  "id": 4582266669,
+  "lat": 41.7157862,
+  "lon": 44.7943060
+},
+{
+  "type": "node",
+  "id": 4582266670,
+  "lat": 41.7157382,
+  "lon": 44.7943407
+},
+{
+  "type": "node",
+  "id": 705237296,
+  "lat": 41.7218260,
+  "lon": 44.7880188
+},
+{
+  "type": "node",
+  "id": 705237297,
+  "lat": 41.7219845,
+  "lon": 44.7883981
+},
+{
+  "type": "node",
+  "id": 705237298,
+  "lat": 41.7218671,
+  "lon": 44.7884862
+},
+{
+  "type": "node",
+  "id": 705237299,
+  "lat": 41.7217087,
+  "lon": 44.7881072
+},
+{
+  "type": "node",
+  "id": 4262478488,
+  "lat": 41.7003306,
+  "lon": 44.8033782
+},
+{
+  "type": "node",
+  "id": 4262481189,
+  "lat": 41.7002731,
+  "lon": 44.8033243
+},
+{
+  "type": "node",
+  "id": 4262481190,
+  "lat": 41.6996627,
+  "lon": 44.8044940
+},
+{
+  "type": "node",
+  "id": 4262481191,
+  "lat": 41.6997889,
+  "lon": 44.8044162
+},
+{
+  "type": "node",
+  "id": 728175915,
+  "lat": 41.7638882,
+  "lon": 44.7667216
+},
+{
+  "type": "node",
+  "id": 728175916,
+  "lat": 41.7638461,
+  "lon": 44.7666224
+},
+{
+  "type": "node",
+  "id": 728175917,
+  "lat": 41.7637944,
+  "lon": 44.7665699
+},
+{
+  "type": "node",
+  "id": 728175918,
+  "lat": 41.7637459,
+  "lon": 44.7665472
+},
+{
+  "type": "node",
+  "id": 728175919,
+  "lat": 41.7636811,
+  "lon": 44.7665451
+},
+{
+  "type": "node",
+  "id": 728175920,
+  "lat": 41.7636265,
+  "lon": 44.7665681
+},
+{
+  "type": "node",
+  "id": 728175921,
+  "lat": 41.7635741,
+  "lon": 44.7666196
+},
+{
+  "type": "node",
+  "id": 728175922,
+  "lat": 41.7635419,
+  "lon": 44.7666810
+},
+{
+  "type": "node",
+  "id": 728175923,
+  "lat": 41.7635235,
+  "lon": 44.7667644
+},
+{
+  "type": "node",
+  "id": 728175924,
+  "lat": 41.7635229,
+  "lon": 44.7668126
+},
+{
+  "type": "node",
+  "id": 728175925,
+  "lat": 41.7635511,
+  "lon": 44.7669264
+},
+{
+  "type": "node",
+  "id": 728175926,
+  "lat": 41.7635947,
+  "lon": 44.7669908
+},
+{
+  "type": "node",
+  "id": 728175927,
+  "lat": 41.7636549,
+  "lon": 44.7670324
+},
+{
+  "type": "node",
+  "id": 728175928,
+  "lat": 41.7637193,
+  "lon": 44.7670429
+},
+{
+  "type": "node",
+  "id": 728175929,
+  "lat": 41.7637740,
+  "lon": 44.7670276
+},
+{
+  "type": "node",
+  "id": 728175930,
+  "lat": 41.7638494,
+  "lon": 44.7669582
+},
+{
+  "type": "node",
+  "id": 728175931,
+  "lat": 41.7638831,
+  "lon": 44.7668839
+},
+{
+  "type": "node",
+  "id": 728175932,
+  "lat": 41.7638943,
+  "lon": 44.7668262
+},
+{
+  "type": "node",
+  "id": 937504652,
+  "lat": 41.8448731,
+  "lon": 44.7203659
+},
+{
+  "type": "node",
+  "id": 937504653,
+  "lat": 41.8448660,
+  "lon": 44.7206671
+},
+{
+  "type": "node",
+  "id": 937504654,
+  "lat": 41.8446650,
+  "lon": 44.7207062
+},
+{
+  "type": "node",
+  "id": 937504655,
+  "lat": 41.8447368,
+  "lon": 44.7204033
+},
+{
+  "type": "node",
+  "id": 937504658,
+  "lat": 41.8446879,
+  "lon": 44.7204013
+},
+{
+  "type": "node",
+  "id": 937504660,
+  "lat": 41.8446900,
+  "lon": 44.7203159
+},
+{
+  "type": "node",
+  "id": 5970095695,
+  "lat": 41.8448199,
+  "lon": 44.7203636
+},
+{
+  "type": "node",
+  "id": 5970095696,
+  "lat": 41.8448209,
+  "lon": 44.7203214
+},
+{
+  "type": "node",
+  "id": 5970095697,
+  "lat": 41.8447323,
+  "lon": 44.7205937
+},
+{
+  "type": "node",
+  "id": 5970095698,
+  "lat": 41.8446677,
+  "lon": 44.7205909
+},
+{
+  "type": "node",
+  "id": 5970095699,
+  "lat": 41.8448138,
+  "lon": 44.7207126
+},
+{
+  "type": "node",
+  "id": 5970095700,
+  "lat": 41.8448150,
+  "lon": 44.7206650
+},
+{
+  "type": "node",
+  "id": 1707290854,
+  "lat": 41.8918304,
+  "lon": 44.7605190
+},
+{
+  "type": "node",
+  "id": 1707290872,
+  "lat": 41.8918874,
+  "lon": 44.7605942
+},
+{
+  "type": "node",
+  "id": 1707290873,
+  "lat": 41.8919460,
+  "lon": 44.7603607
+},
+{
+  "type": "node",
+  "id": 1707290876,
+  "lat": 41.8920031,
+  "lon": 44.7604359
+},
+{
+  "type": "node",
+  "id": 761100659,
+  "lat": 41.7885983,
+  "lon": 44.9784178
+},
+{
+  "type": "node",
+  "id": 761100660,
+  "lat": 41.7886177,
+  "lon": 44.9790825
+},
+{
+  "type": "node",
+  "id": 761100662,
+  "lat": 41.7883975,
+  "lon": 44.9790941
+},
+{
+  "type": "node",
+  "id": 761100666,
+  "lat": 41.7883781,
+  "lon": 44.9784294
+}
+
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-14T18:37:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1906025820,
+  "lat": 44.2926955,
+  "lon": 15.4558541,
+  "tags": {
+    "name": "Marasovići Ethno House",
+    "tourism": "museum",
+    "website": "http://www.paklenica.hr/paklenica_en/Paklenica_Etno-k_Marasovici_en.htm"
+  }
+},
+{
+  "type": "node",
+  "id": 2416411805,
+  "lat": 43.9378990,
+  "lon": 15.4402176,
+  "tags": {
+    "name": "Zavičajni muzej",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 2418992321,
+  "lat": 44.1143315,
+  "lon": 15.2295272,
+  "tags": {
+    "addr:city": "Zadar",
+    "addr:housenumber": "1",
+    "addr:postcode": "23000",
+    "addr:street": "Poljana Zemaljskog Odbora",
+    "email": "info@mas-zadar.hr",
+    "name": "Muzej antičkog stakla",
+    "name:en": "Museum of Ancient Glass",
+    "name:nl": "Glasmuseum",
+    "phone": "Tel: +385 (0)23 363 831 Tel: +385 (0)23 363 832 Fax: +385 (0)23 363 834",
+    "tourism": "museum",
+    "website": "http://www.mas-zadar.hr/",
+    "wheelchair": "yes",
+    "wheelchair:description": "RADNO VRIJEME: PON - SUB: 9:00 - 16:00 h MON - SUT: 9:00AM - 4:00 PM"
+  }
+},
+{
+  "type": "node",
+  "id": 2432622289,
+  "lat": 44.1127892,
+  "lon": 15.2282308,
+  "tags": {
+    "name": "Narodni muzej - Prirodoslovni odsjek",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3673429070,
+  "lat": 44.1164380,
+  "lon": 15.2266661,
+  "tags": {
+    "addr:postcode": "23000",
+    "addr:street": "Poljana Pape Aleksandra III.",
+    "name": "Narodni muzej Zadar",
+    "phone": "+38523251851",
+    "tourism": "museum",
+    "website": "http://nmz.hr/"
+  }
+},
+{
+  "type": "node",
+  "id": 3682747769,
+  "lat": 44.1153563,
+  "lon": 15.2270399,
+  "tags": {
+    "name": "Galerija keramike",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3821591257,
+  "lat": 44.1164880,
+  "lon": 15.2217213,
+  "tags": {
+    "name": "Riznica samostana",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3839987919,
+  "lat": 44.1153001,
+  "lon": 15.2250209,
+  "tags": {
+    "name": "Zlato i srebro Zadra",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4324965014,
+  "lat": 44.1141154,
+  "lon": 15.2297410,
+  "tags": {
+    "addr:city": "Zadar",
+    "addr:housenumber": "2",
+    "addr:street": "Poljana Zemaljskog Odbora",
+    "internet_access": "wlan",
+    "name": "Muzej iluzija",
+    "name:en": "Museum of Illusions",
+    "name:nl": "Museum voor illusies",
+    "opening_hours": "Mo-Su 09:00-24:00",
+    "tourism": "museum",
+    "website": "https://zadar.muzejiluzija.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 6698993029,
+  "lat": 44.2433525,
+  "lon": 15.1841274,
+  "tags": {
+    "name": "Muzej ninskih starina",
+    "name:en": "The Museum of Nin Antiquities",
+    "opening_hours": "Mo-Su 09:00-22:00",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 305269448,
+  "nodes": [
+    3098701514,
+    3098701520,
+    3098701501,
+    3098701502,
+    3098701504,
+    3098701515,
+    3098701514
+  ],
+  "tags": {
+    "addr:city": "Zadar",
+    "addr:housenumber": "1",
+    "addr:postcode": "23000",
+    "addr:street": "Trg opatice Čike",
+    "building": "yes",
+    "building:levels": "2",
+    "name": "Arheološki muzej Zadar",
+    "name:en": "Archeological museum",
+    "name:it": "Museo Archeologico",
+    "name:nl": "Archeologisch museum",
+    "opening_hours": "Mo-Su 09:00-21:00",
+    "phone": "+38523250542",
+    "tourism": "museum",
+    "website": "http://amzd.hr/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 364810349,
+  "nodes": [
+    3688510638,
+    6698955122,
+    3688510634,
+    3688510633,
+    3688510635,
+    3688510638
+  ],
+  "tags": {
+    "building": "yes",
+    "building:levels": "1",
+    "name": "Muzej soli",
+    "name:en": "Salt museum",
+    "tourism": "museum",
+    "website": "http://www.solananin.hr/hr/muzej-i-kuca-soli/muzej-soli/"
+  }
+},
+{
+  "type": "node",
+  "id": 3098701501,
+  "lat": 44.1155538,
+  "lon": 15.2253213
+},
+{
+  "type": "node",
+  "id": 3098701502,
+  "lat": 44.1154774,
+  "lon": 15.2252114
+},
+{
+  "type": "node",
+  "id": 3098701504,
+  "lat": 44.1154631,
+  "lon": 15.2251716
+},
+{
+  "type": "node",
+  "id": 3098701514,
+  "lat": 44.1154149,
+  "lon": 15.2247629
+},
+{
+  "type": "node",
+  "id": 3098701515,
+  "lat": 44.1152936,
+  "lon": 15.2249239
+},
+{
+  "type": "node",
+  "id": 3098701520,
+  "lat": 44.1156744,
+  "lon": 15.2251597
+},
+{
+  "type": "node",
+  "id": 3688510633,
+  "lat": 44.2438559,
+  "lon": 15.1921319
+},
+{
+  "type": "node",
+  "id": 3688510634,
+  "lat": 44.2438950,
+  "lon": 15.1919567
+},
+{
+  "type": "node",
+  "id": 3688510635,
+  "lat": 44.2439150,
+  "lon": 15.1921576
+},
+{
+  "type": "node",
+  "id": 3688510638,
+  "lat": 44.2439540,
+  "lon": 15.1919823
+},
+{
+  "type": "node",
+  "id": 6698955122,
+  "lat": 44.2439229,
+  "lon": 15.1919688
+}
+
+  ]
+}

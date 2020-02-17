@@ -1,0 +1,1379 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-14T15:54:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 160963272,
+  "lat": 48.7273150,
+  "lon": 21.2545752,
+  "tags": {
+    "addr:city": "Košice",
+    "addr:country": "SK",
+    "addr:housenumber": "3",
+    "addr:postcode": "04001",
+    "addr:street": "Zvonárska",
+    "addr:streetnumber": "3",
+    "email": "info@vsmuzeum.sk",
+    "fee": "yes",
+    "int_name": "East - Slovakian Museum Kosice",
+    "is_in": "Košice I, Košický kraj, Východné Slovensko, Slovensko",
+    "name": "Východoslovenské múzeum",
+    "name:hu": "Kelet-Szlovákiai Múzeum",
+    "name:ru": "Восточно-словацкий музей",
+    "note": "Príroda Karpát a Storočia v umení",
+    "opening_hours": "Mo off; Tu-Sa 09:00-17:00; Sa 14:00-18:00",
+    "payment:cash": "yes",
+    "payment:coins": "yes",
+    "phone": "+421 905 937 177",
+    "tourism": "museum",
+    "website": "http://www.vsmuzeum.sk",
+    "wheelchair": "limited",
+    "wikidata": "Q1186439",
+    "wikipedia": "sk:Východoslovenské múzeum"
+  }
+},
+{
+  "type": "node",
+  "id": 331925197,
+  "lat": 48.8513322,
+  "lon": 20.9330838,
+  "tags": {
+    "addr:city": "Gelnica",
+    "addr:housenumber": "8",
+    "addr:postcode": "05601",
+    "addr:street": "Banícke námestie",
+    "name": "Banícke múzeum",
+    "tourism": "museum",
+    "website": "https://www.gelnica.sk/banicke-muzeum-.phtml?id3=48695"
+  }
+},
+{
+  "type": "node",
+  "id": 432605429,
+  "lat": 48.7228107,
+  "lon": 21.2596341,
+  "tags": {
+    "email": "lektorna.kb@vsmuzeum.sk",
+    "fee": "yes",
+    "name": "Miklušova väznica",
+    "name:hu": "Miklós-börtön",
+    "opening_hours": "Mo off; Tu-Sa 09:00-17:00; Sa 14:00-18:00",
+    "operator": "Východoslovenské múzeum",
+    "payment:cash": "yes",
+    "payment:coins": "yes",
+    "phone": "+421 917 755 594",
+    "tourism": "museum",
+    "website": "http://www.vsmuzeum.sk/",
+    "wheelchair": "limited",
+    "wikidata": "Q3403979",
+    "wikipedia": "sk:Miklušova väznica"
+  }
+},
+{
+  "type": "node",
+  "id": 552798150,
+  "lat": 48.7157914,
+  "lon": 21.2170501,
+  "tags": {
+    "name": "Humno - súkromné etnografické múzeum",
+    "opening_hours": "Mo-Fr 15:00-20:00; Sa-Su 15:00-20:00",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 691083815,
+  "lat": 48.7242178,
+  "lon": 21.2558415,
+  "tags": {
+    "contact:facebook": "https://www.facebook.com/Slovenské-technické-múzeum-100782843311602/",
+    "contact:website": "http://www.stm-ke.sk/",
+    "email": "stmke@stm-ke.sk",
+    "fee": "yes",
+    "name": "Slovenské technické múzeum",
+    "name:hu": "Szlovák Műszaki Múzeum",
+    "opening_hours": "Mo off; Tu-Su 09:00-17:00",
+    "payment:cash": "yes",
+    "payment:coins": "yes",
+    "phone": "+421 55 622 4035",
+    "tourism": "museum",
+    "website": "http://www.stm-ke.sk/index.php/sk/",
+    "wheelchair": "yes",
+    "wikidata": "Q429663"
+  }
+},
+{
+  "type": "node",
+  "id": 691381354,
+  "lat": 48.7226337,
+  "lon": 21.2601858,
+  "tags": {
+    "name": "Katova bašta",
+    "name:hu": "Hóhér-bástya",
+    "tourism": "museum",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 708959056,
+  "lat": 48.6682787,
+  "lon": 21.2356245,
+  "tags": {
+    "email": "muzeumletectva@stm-ke.sk",
+    "fee": "yes",
+    "name": "Múzeum letectva",
+    "opening_hours": "Th-Fr 09:00-16:00; Sa-Su 10:00-17:00",
+    "operator": "Slovenské technické múzeum Košice",
+    "payment:cash": "yes",
+    "payment:coins": "yes",
+    "phone": "+421 55 683 2272",
+    "tourism": "museum",
+    "website": "http://www.stm-ke.sk/index.php/sk/muzeum-letectva",
+    "wheelchair": "limited",
+    "wikidata": "Q17512514",
+    "wikipedia": "sk:Múzeum letectva Košice"
+  }
+},
+{
+  "type": "node",
+  "id": 882867798,
+  "lat": 48.7206073,
+  "lon": 21.2564057,
+  "tags": {
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 882867877,
+  "lat": 48.7207089,
+  "lon": 21.2568589,
+  "tags": {
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 945361493,
+  "lat": 48.7009254,
+  "lon": 20.8888768,
+  "tags": {
+    "addr:city": "Medzev",
+    "addr:conscriptionnumber": "749",
+    "addr:country": "SK",
+    "addr:housenumber": "749",
+    "addr:postcode": "044 25",
+    "addr:street": "Štóska",
+    "addr:streetnumber": "16",
+    "contact:phone": "+421 918 965 701",
+    "name": "Múzeum kinematografie rodiny Schusterovej",
+    "operator": "Slovenské technické múzeum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1234610543,
+  "lat": 48.7196625,
+  "lon": 21.2555876,
+  "tags": {
+    "amenity": "arts_centre",
+    "contact:email": "lofflermuzeum@gmail.com",
+    "contact:facebook": "http://www.facebook.com/muzeumvojtecha.lofflera",
+    "contact:phone": "+421 055 62 230 73",
+    "contact:website": "http://www.lofflermuzeum.sk/",
+    "email": "info@lofflermuzeum.sk",
+    "fee": "yes",
+    "name": "Múzeum Vojtecha Löfflera",
+    "name:hu": "Vojtech Löffler Múzeum",
+    "opening_hours": "Mo off, Tu-Sa 10:00-18:00; Su 13:00-17:00",
+    "payment:cash": "yes",
+    "payment:coins": "yes",
+    "phone": "+421 55 622 3234",
+    "tourism": "museum",
+    "website": "http://www.lofflermuzeum.sk",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1831948738,
+  "lat": 48.5337129,
+  "lon": 21.4190884,
+  "tags": {
+    "addr:city": "Hollóháza",
+    "addr:housenumber": "11",
+    "addr:postcode": "3999",
+    "addr:street": "Károlyi út",
+    "contact:mobile": "+36 30 6374070",
+    "name": "Porcelán Múzeum, Márkabolt és Alkotó Centrum",
+    "note": "Gyárlátogatás K-P 10-12:30 között",
+    "opening_hours": "Tu-Sa 09:30-16:30; Su 10:00-14:00",
+    "operator": "Hollóházi Porcelán Manufaktúra Zrt.",
+    "phone": "+36 47 505400/155",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 2386326576,
+  "lat": 48.4707826,
+  "lon": 21.5115117,
+  "tags": {
+    "addr:city": "Pálháza",
+    "addr:housenumber": "151",
+    "addr:postcode": "3994",
+    "addr:street": "Dózsa György út",
+    "name": "Perlitmúzeum",
+    "opening_hours": "Apr 15-Oct 23 We-Su 10:00-12:00,13:30-16:00",
+    "phone": "+36 30 9075371",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3348399243,
+  "lat": 48.7083900,
+  "lon": 20.7908345,
+  "tags": {
+    "addr:city": "Štós",
+    "addr:conscriptionnumber": "189",
+    "addr:country": "SK",
+    "addr:housenumber": "189",
+    "addr:place": "Štós",
+    "addr:postcode": "044 26",
+    "name": "Múzeum Zoltána Fábryho",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3352349862,
+  "lat": 48.7046316,
+  "lon": 20.8859808,
+  "tags": {
+    "addr:city": "Medzev",
+    "addr:conscriptionnumber": "872",
+    "addr:country": "SK",
+    "addr:housenumber": "872/142",
+    "addr:postcode": "044 25",
+    "addr:street": "Štóska",
+    "addr:streetnumber": "142",
+    "contact:phone": "+421 918 965 701",
+    "contact:website": "http://www.stm-ke.sk/index.php/sk/hamor-v-medzeve",
+    "name": "Technické múzeum Košice, Hámor - Medzev",
+    "operator": "Slovenské technické múzeum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3358649113,
+  "lat": 48.6879007,
+  "lon": 20.9064733,
+  "tags": {
+    "contact:fax": "+421 55 466 76 37",
+    "contact:phone": "+421 55 466 76 37",
+    "contact:website": "http://www.medzev.info/mesto/zaujimavosti/hamor/",
+    "description": "Hámor je prístupný pre verejnosť od 1.apríla do 31.októbra.",
+    "name": "Hámor - národná kultúrna pamiatka",
+    "operator": "Mestský podnik služieb mesta Medzev",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3400702585,
+  "lat": 48.6355929,
+  "lon": 21.4785812,
+  "tags": {
+    "opening_hours": "Tu-We 09:00-12:00, 13:00-16:00; Fr 09:00-12:00, 13:00-16:00; Sa \"na objednávku – on demand\"",
+    "operator": "Obec Slanec",
+    "phone": "+421 911 930582",
+    "tourism": "museum",
+    "website": "https://www.slanec.sk/index.php?option=com_content&view=article&id=127%3Aotvaracie-hodiny&catid=81%3Ainfocentrum&Itemid=176&lang=sk"
+  }
+},
+{
+  "type": "node",
+  "id": 3427462264,
+  "lat": 48.7439951,
+  "lon": 21.1264953,
+  "tags": {
+    "name": "Minimúzeum ľudovej kultúry",
+    "operator": "Obec Vyšný Klátov",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3439663881,
+  "lat": 48.4729020,
+  "lon": 21.2791520,
+  "tags": {
+    "addr:city": "Gönc",
+    "addr:housenumber": "85",
+    "addr:postcode": "3895",
+    "addr:street": "Kossuth Lajos utca",
+    "name": "Huszita ház, Tájház",
+    "opening_hours": "Apr 15-Oct 15: Tu-Su 09:00-18:00",
+    "phone": "+36 46 588355",
+    "source": "turistautak.hu",
+    "source:date": "2011-05-08",
+    "tourism": "museum",
+    "url": "http://turistautak.hu/poi.php?id=24296"
+  }
+},
+{
+  "type": "node",
+  "id": 3439664022,
+  "lat": 48.4847883,
+  "lon": 21.3636654,
+  "tags": {
+    "addr:city": "Telkibánya",
+    "addr:housenumber": "15",
+    "addr:postcode": "3896",
+    "addr:street": "Múzeum utca",
+    "name": "Abaúji Múzeum, Érc- és Ásványbányászati Múzeum",
+    "phone": "+36 30 5014257",
+    "source": "turistautak.hu",
+    "source:date": "2011-05-08",
+    "tourism": "museum",
+    "url": "http://turistautak.hu/poi.php?id=84351"
+  }
+},
+{
+  "type": "node",
+  "id": 3439664077,
+  "lat": 48.5292747,
+  "lon": 21.3479018,
+  "tags": {
+    "description": "www.hasdat.hu",
+    "name": "Hasdát Hagyományőrző Ház",
+    "source": "turistautak.hu",
+    "source:date": "2011-05-08",
+    "tourism": "museum",
+    "url": "http://turistautak.hu/poi.php?id=104982"
+  }
+},
+{
+  "type": "node",
+  "id": 3439664499,
+  "lat": 48.4475430,
+  "lon": 21.2399230,
+  "tags": {
+    "name": "Kovácsműhely",
+    "source": "turistautak.hu",
+    "source:date": "2011-05-08",
+    "tourism": "museum",
+    "url": "http://turistautak.hu/poi.php?id=93781"
+  }
+},
+{
+  "type": "node",
+  "id": 3439665509,
+  "lat": 48.5242830,
+  "lon": 21.3166313,
+  "tags": {
+    "source": "turistautak.hu",
+    "source:date": "2011-05-08",
+    "tourism": "museum",
+    "url": "http://turistautak.hu/poi.php?id=37886"
+  }
+},
+{
+  "type": "node",
+  "id": 3439665531,
+  "lat": 48.4830500,
+  "lon": 21.3570500,
+  "tags": {
+    "name": "Ásványkiállítás és vásár",
+    "source": "turistautak.hu",
+    "source:date": "2011-05-08",
+    "tourism": "museum",
+    "url": "http://turistautak.hu/poi.php?id=98480"
+  }
+},
+{
+  "type": "node",
+  "id": 3456413856,
+  "lat": 48.4675170,
+  "lon": 21.4980670,
+  "tags": {
+    "addr:city": "Pálháza",
+    "addr:postcode": "3994",
+    "addr:street": "Ipartelep utca",
+    "description": "Ásvány- és 60 fajt bemutató gombagyűjtemény",
+    "name": "Erdészeti, vadászati és természetvédelmi kiállítás",
+    "opening_hours": "We-Su 08:00-13:00",
+    "source": "turistautak.hu",
+    "source:date": "2012-08-21",
+    "tourism": "museum",
+    "url": "http://turistautak.hu/poi.php?id=13065"
+  }
+},
+{
+  "type": "node",
+  "id": 3456413862,
+  "lat": 48.5348200,
+  "lon": 21.4190210,
+  "tags": {
+    "addr:city": "Hollóháza",
+    "addr:housenumber": "1",
+    "addr:postcode": "3999",
+    "addr:street": "Szent László út",
+    "name": "Fazekas Ház",
+    "opening_hours": "10:00-16:00",
+    "phone": "+36 20 4201472",
+    "source": "turistautak.hu",
+    "source:date": "2011-05-08",
+    "tourism": "museum",
+    "url": "http://turistautak.hu/poi.php?id=85597"
+  }
+},
+{
+  "type": "node",
+  "id": 3700387770,
+  "lat": 48.7137834,
+  "lon": 21.2554203,
+  "tags": {
+    "email": "info@steelpark.sk",
+    "fee": "yes",
+    "name": "Steelpark",
+    "opening_hours": "Mo-Tu 09:00-13:00; We-Fr 09:00-13:00,14:00-18:00; Sa-Su 14:00-18:00",
+    "operator": "K 13 – Košické kultúrne centrá",
+    "payment:cash": "yes",
+    "payment:coins": "yes",
+    "phone": "+421 55 300 9301",
+    "tourism": "museum",
+    "website": "https://steelpark.sk/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4594758681,
+  "lat": 48.4847602,
+  "lon": 21.3638106,
+  "tags": {
+    "name": "Malomkőpark",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4724462531,
+  "lat": 48.9879401,
+  "lon": 21.2484746,
+  "tags": {
+    "name": "Múzeum rusínskej kultúry (Filial SNM)",
+    "name:uk": "Музей Русинської культури (Філія СНМ)",
+    "tourism": "museum",
+    "website": "https://www.snm.sk/?muzeum-rusinskej-kultury-uvodna-stranka"
+  }
+},
+{
+  "type": "node",
+  "id": 4724526705,
+  "lat": 48.9973742,
+  "lon": 21.2397974,
+  "tags": {
+    "name": "Múzeum vín",
+    "name:uk": "Музей вина",
+    "opening_hours": "Mo-Fr 08:30-19:00",
+    "tourism": "museum",
+    "website": "http://www.muzeumvin.sk"
+  }
+},
+{
+  "type": "node",
+  "id": 5012194315,
+  "lat": 48.9767718,
+  "lon": 21.2786722,
+  "tags": {
+    "name": "Šachta a Gápeľ",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 5012194316,
+  "lat": 48.9794530,
+  "lon": 21.2760061,
+  "tags": {
+    "name": "Solivar Prešov",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 5012194317,
+  "lat": 48.9786361,
+  "lon": 21.2749144,
+  "tags": {
+    "name": "Varňa František",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 5012196946,
+  "lat": 48.9774971,
+  "lon": 21.2763950,
+  "tags": {
+    "name": "Cisterny - zásobníky Solianky",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 5204301126,
+  "lat": 48.5418918,
+  "lon": 21.4556270,
+  "tags": {
+    "addr:city": "Füzér",
+    "addr:housenumber": "11",
+    "addr:postcode": "3996",
+    "addr:street": "Szabadság út",
+    "name": "Füzéri tájház porták",
+    "phone": "+36308206388",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 5843996961,
+  "lat": 48.4708263,
+  "lon": 21.5115349,
+  "tags": {
+    "addr:city": "Pálháza",
+    "addr:housenumber": "151",
+    "addr:postcode": "3994",
+    "addr:street": "Dózsa György út",
+    "name": "Vadászati kiállítás",
+    "opening_hours": "08:00-17:00",
+    "phone": "+36 47 570026",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 5844023139,
+  "lat": 48.4507780,
+  "lon": 21.4801117,
+  "tags": {
+    "addr:city": "Kishuta",
+    "addr:housenumber": "53",
+    "addr:postcode": "3994",
+    "addr:street": "Kossuth Lajos utca",
+    "name": "Édesanyánk Öröksége Népművészeti Kiállítás",
+    "phone": "+36 47 370072",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6654831132,
+  "lat": 48.7230662,
+  "lon": 21.2547293,
+  "tags": {
+    "name": "Pamätná výstava Sándora Máraia",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6654831133,
+  "lat": 48.7236837,
+  "lon": 21.2539930,
+  "tags": {
+    "name": "Regionálne centrum remesiel ÚĽUV",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6899122358,
+  "lat": 48.6230793,
+  "lon": 21.3683371,
+  "tags": {
+    "fee": "yes",
+    "name": "Myšľanské obecné múzeum",
+    "tourism": "museum",
+    "website": "https://www.niznamysla.sk/titulna-strana/kultura/myslanske-obecne-muzeum/"
+  }
+},
+{
+  "type": "node",
+  "id": 7188145745,
+  "lat": 48.7956155,
+  "lon": 21.3067534,
+  "tags": {
+    "name": "Expozícia historických hodín",
+    "tourism": "museum",
+    "website": "http://www.stm-ke.sk/index.php/sk/kastiel-v-budimire"
+  }
+},
+{
+  "type": "way",
+  "id": 27035660,
+  "nodes": [
+    296347729,
+    606948497,
+    606948496,
+    606948494,
+    606948492,
+    606948491,
+    606948490,
+    606948359,
+    606948360,
+    296347730,
+    296347731,
+    606948502,
+    606948503,
+    296347732,
+    296347733,
+    606948504,
+    296347734,
+    296347735,
+    606948499,
+    606948500,
+    296347736,
+    296347729
+  ],
+  "tags": {
+    "addr:city": "Košice",
+    "addr:conscriptionnumber": "62",
+    "addr:country": "SK",
+    "addr:housenumber": "2",
+    "addr:postcode": "04001",
+    "addr:street": "Námestie Maratónu mieru",
+    "addr:streetnumber": "2",
+    "addr:suburb": "I",
+    "building": "yes",
+    "building:levels": "3",
+    "email": "info@vsmuzeum.sk",
+    "fax": "+421 55 622 8696",
+    "fee": "yes",
+    "int_name": "East - Slovakian Museum Kosice",
+    "is_in": "Košice I, Košický kraj, Východné Slovensko, Slovensko",
+    "name": "Východoslovenské múzeum",
+    "name:hu": "Kelet-Szlovákiai Múzeum",
+    "opening_hours": "Mo off; Tu-Sa 09:00-17:00; Sa 14:00-18:00",
+    "payment:cash": "yes",
+    "payment:coins": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+421 55 622 0309",
+    "source": "kapor2;survey",
+    "tourism": "museum",
+    "website": "http://www.vsmuzeum.sk",
+    "wheelchair": "limited",
+    "wikidata": "Q1186439",
+    "wikipedia": "sk:Východoslovenské múzeum"
+  }
+},
+{
+  "type": "way",
+  "id": 50299023,
+  "nodes": [
+    639095785,
+    639095800,
+    639095803,
+    639095805,
+    639095785
+  ],
+  "tags": {
+    "building": "yes",
+    "email": "kezeleznica@gmail.com",
+    "fee": "yes",
+    "name": "Košická detská historická železnica",
+    "opening_hours": "Mo-Fr 09:00-16:30; Sa-Su 09:00-18:30",
+    "payment:cash": "yes",
+    "payment:coins": "yes",
+    "phone": "+421 905 496 426",
+    "source": "kapor2",
+    "tourism": "museum",
+    "website": "http://www.detskazeleznica.sk",
+    "wheelchair": "limited",
+    "wikidata": "Q2655053",
+    "wikipedia": "sk:Železničná trať Čermeľ – Alpinka"
+  }
+},
+{
+  "type": "way",
+  "id": 62278991,
+  "nodes": [
+    778154635,
+    778154233,
+    6171641271,
+    778154437,
+    778154635
+  ],
+  "tags": {
+    "addr:city": "Košický Klečenov",
+    "addr:conscriptionnumber": "120",
+    "addr:country": "SK",
+    "addr:housenumber": "120",
+    "addr:place": "Košický Klečenov",
+    "building": "yes",
+    "name": "Sieň bojovej slávy",
+    "source": "kapor2",
+    "source:conscriptionnumber": "kapor2",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 80102337,
+  "nodes": [
+    934215249,
+    934215250,
+    934215251,
+    5592112021,
+    934215249
+  ],
+  "tags": {
+    "building": "yes",
+    "building:material": "wood",
+    "import": "budovy201004drev",
+    "name": "Drevená zvonica",
+    "name:en": "Wooden belfry",
+    "source": "kapor2",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 82143084,
+  "nodes": [
+    956499780,
+    956499430,
+    956494462,
+    956495651,
+    956496508,
+    4724452790,
+    4724452789,
+    956495970,
+    956494674,
+    956498621,
+    956499383,
+    956494422,
+    956495566,
+    956494939,
+    956499780
+  ],
+  "tags": {
+    "addr:city": "Prešov",
+    "addr:conscriptionnumber": "2985",
+    "addr:country": "SK",
+    "addr:housenumber": "2985/86",
+    "addr:street": "Hlavná",
+    "addr:streetnumber": "86",
+    "building": "yes",
+    "name": "Krajské múzeum Prešov",
+    "source": "kapor2",
+    "tourism": "museum",
+    "website": "www.muzeumpresov.sk",
+    "wikidata": "Q24702350"
+  }
+},
+{
+  "type": "way",
+  "id": 82412196,
+  "nodes": [
+    959371698,
+    959367877,
+    4724493741,
+    4724493734,
+    959337091,
+    4724493740,
+    959343663,
+    959371698
+  ],
+  "tags": {
+    "addr:conscriptionnumber": "11636",
+    "addr:housenumber": "11636/32",
+    "addr:street": "Okružná",
+    "addr:streetnumber": "32",
+    "building": "yes",
+    "name": "Synagóga v Prešove (Filial SNM)",
+    "name:uk": "Сінагога в Пряшеві (Філія СНМ)",
+    "source": "kapor2",
+    "tourism": "museum",
+    "website": "https://www.snm.sk/?synagoga-v-presove-uvodna-stranka",
+    "wikidata": "Q13537936"
+  }
+},
+{
+  "type": "way",
+  "id": 488160820,
+  "nodes": [
+    4805037627,
+    4805037624,
+    5189195517,
+    5189195516,
+    6327559888,
+    6327559891,
+    5189195518,
+    6327559889,
+    5334875741,
+    6327559890,
+    5189195514,
+    5189195515,
+    4805037625,
+    4805037626,
+    4805037627
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Nagy-Milic Natúrpark Látogató Központ és Várgondnokság",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 488160862,
+  "nodes": [
+    4805037803,
+    4805037802,
+    4805037801,
+    4805037800,
+    4805037803
+  ],
+  "tags": {
+    "building": "yes",
+    "mapillary": "w8TTJR6avVzLvINh2LEY7g",
+    "name": "Tájház",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 523844766,
+  "nodes": [
+    5098913599,
+    5098913600,
+    5098913601,
+    5098913602,
+    5098913599
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Múltidéző Ház",
+    "opening_hours": "Tu-Su 10:00-16:00",
+    "tourism": "museum",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 620685914,
+  "nodes": [
+    5864025300,
+    5864012417,
+    5864025211,
+    3439664077,
+    5864025300
+  ],
+  "tags": {
+    "building": "yes",
+    "description": "www.hasdat.hu",
+    "name": "Hasdát Hagyományőrző Ház",
+    "note": "POI details from node #3439664077 by szali",
+    "source": "turistautak.hu",
+    "source:date": "2011-05-08",
+    "tourism": "museum",
+    "url": "http://turistautak.hu/poi.php?id=104982"
+  }
+},
+{
+  "type": "node",
+  "id": 3439664077,
+  "lat": 48.5292747,
+  "lon": 21.3479018
+},
+{
+  "type": "node",
+  "id": 5864012417,
+  "lat": 48.5295230,
+  "lon": 21.3481722
+},
+{
+  "type": "node",
+  "id": 5864025211,
+  "lat": 48.5292458,
+  "lon": 21.3480392
+},
+{
+  "type": "node",
+  "id": 5864025300,
+  "lat": 48.5295519,
+  "lon": 21.3480348
+},
+{
+  "type": "node",
+  "id": 4805037624,
+  "lat": 48.5388962,
+  "lon": 21.4562437
+},
+{
+  "type": "node",
+  "id": 4805037627,
+  "lat": 48.5388190,
+  "lon": 21.4562751
+},
+{
+  "type": "node",
+  "id": 5189195516,
+  "lat": 48.5389898,
+  "lon": 21.4563988
+},
+{
+  "type": "node",
+  "id": 5189195517,
+  "lat": 48.5389287,
+  "lon": 21.4563995
+},
+{
+  "type": "node",
+  "id": 5189195518,
+  "lat": 48.5390188,
+  "lon": 21.4564331
+},
+{
+  "type": "node",
+  "id": 5334875741,
+  "lat": 48.5390165,
+  "lon": 21.4564771
+},
+{
+  "type": "node",
+  "id": 6327559888,
+  "lat": 48.5390029,
+  "lon": 21.4564037
+},
+{
+  "type": "node",
+  "id": 6327559889,
+  "lat": 48.5390199,
+  "lon": 21.4564570
+},
+{
+  "type": "node",
+  "id": 6327559891,
+  "lat": 48.5390139,
+  "lon": 21.4564169
+},
+{
+  "type": "node",
+  "id": 4805037625,
+  "lat": 48.5389815,
+  "lon": 21.4566658
+},
+{
+  "type": "node",
+  "id": 4805037626,
+  "lat": 48.5389053,
+  "lon": 21.4567029
+},
+{
+  "type": "node",
+  "id": 5189195514,
+  "lat": 48.5390031,
+  "lon": 21.4565042
+},
+{
+  "type": "node",
+  "id": 5189195515,
+  "lat": 48.5389518,
+  "lon": 21.4565128
+},
+{
+  "type": "node",
+  "id": 6327559890,
+  "lat": 48.5390113,
+  "lon": 21.4564908
+},
+{
+  "type": "node",
+  "id": 4805037800,
+  "lat": 48.5419389,
+  "lon": 21.4553813
+},
+{
+  "type": "node",
+  "id": 4805037801,
+  "lat": 48.5418101,
+  "lon": 21.4554430
+},
+{
+  "type": "node",
+  "id": 4805037802,
+  "lat": 48.5418311,
+  "lon": 21.4555429
+},
+{
+  "type": "node",
+  "id": 4805037803,
+  "lat": 48.5419598,
+  "lon": 21.4554812
+},
+{
+  "type": "node",
+  "id": 5098913599,
+  "lat": 48.5417276,
+  "lon": 21.4555691
+},
+{
+  "type": "node",
+  "id": 5098913600,
+  "lat": 48.5417534,
+  "lon": 21.4556764
+},
+{
+  "type": "node",
+  "id": 5098913601,
+  "lat": 48.5415580,
+  "lon": 21.4557729
+},
+{
+  "type": "node",
+  "id": 5098913602,
+  "lat": 48.5415314,
+  "lon": 21.4556696
+},
+{
+  "type": "node",
+  "id": 639095785,
+  "lat": 48.7496975,
+  "lon": 21.2286018
+},
+{
+  "type": "node",
+  "id": 639095800,
+  "lat": 48.7496532,
+  "lon": 21.2285814
+},
+{
+  "type": "node",
+  "id": 639095803,
+  "lat": 48.7496927,
+  "lon": 21.2283848
+},
+{
+  "type": "node",
+  "id": 639095805,
+  "lat": 48.7497369,
+  "lon": 21.2284052
+},
+{
+  "type": "node",
+  "id": 296347729,
+  "lat": 48.7274313,
+  "lon": 21.2530820
+},
+{
+  "type": "node",
+  "id": 296347736,
+  "lat": 48.7274879,
+  "lon": 21.2533030
+},
+{
+  "type": "node",
+  "id": 606948359,
+  "lat": 48.7270818,
+  "lon": 21.2533028
+},
+{
+  "type": "node",
+  "id": 606948360,
+  "lat": 48.7270782,
+  "lon": 21.2532889
+},
+{
+  "type": "node",
+  "id": 606948490,
+  "lat": 48.7271686,
+  "lon": 21.2532517
+},
+{
+  "type": "node",
+  "id": 606948491,
+  "lat": 48.7271560,
+  "lon": 21.2532026
+},
+{
+  "type": "node",
+  "id": 606948492,
+  "lat": 48.7272651,
+  "lon": 21.2531384
+},
+{
+  "type": "node",
+  "id": 606948494,
+  "lat": 48.7272774,
+  "lon": 21.2531865
+},
+{
+  "type": "node",
+  "id": 606948496,
+  "lat": 48.7273648,
+  "lon": 21.2531351
+},
+{
+  "type": "node",
+  "id": 606948497,
+  "lat": 48.7273617,
+  "lon": 21.2531229
+},
+{
+  "type": "node",
+  "id": 606948499,
+  "lat": 48.7274121,
+  "lon": 21.2533246
+},
+{
+  "type": "node",
+  "id": 296347730,
+  "lat": 48.7270045,
+  "lon": 21.2533322
+},
+{
+  "type": "node",
+  "id": 296347731,
+  "lat": 48.7270627,
+  "lon": 21.2535593
+},
+{
+  "type": "node",
+  "id": 296347732,
+  "lat": 48.7272190,
+  "lon": 21.2534441
+},
+{
+  "type": "node",
+  "id": 296347733,
+  "lat": 48.7272310,
+  "lon": 21.2534908
+},
+{
+  "type": "node",
+  "id": 296347734,
+  "lat": 48.7273373,
+  "lon": 21.2534283
+},
+{
+  "type": "node",
+  "id": 296347735,
+  "lat": 48.7273240,
+  "lon": 21.2533765
+},
+{
+  "type": "node",
+  "id": 606948500,
+  "lat": 48.7274172,
+  "lon": 21.2533446
+},
+{
+  "type": "node",
+  "id": 606948502,
+  "lat": 48.7271372,
+  "lon": 21.2535155
+},
+{
+  "type": "node",
+  "id": 606948503,
+  "lat": 48.7271320,
+  "lon": 21.2534953
+},
+{
+  "type": "node",
+  "id": 606948504,
+  "lat": 48.7272873,
+  "lon": 21.2534577
+},
+{
+  "type": "node",
+  "id": 959337091,
+  "lat": 49.0000042,
+  "lon": 21.2380747
+},
+{
+  "type": "node",
+  "id": 959343663,
+  "lat": 48.9998824,
+  "lon": 21.2379200
+},
+{
+  "type": "node",
+  "id": 959367877,
+  "lat": 49.0001930,
+  "lon": 21.2377369
+},
+{
+  "type": "node",
+  "id": 959371698,
+  "lat": 49.0000711,
+  "lon": 21.2375811
+},
+{
+  "type": "node",
+  "id": 4724493734,
+  "lat": 49.0000464,
+  "lon": 21.2379991
+},
+{
+  "type": "node",
+  "id": 4724493740,
+  "lat": 48.9999411,
+  "lon": 21.2379946
+},
+{
+  "type": "node",
+  "id": 4724493741,
+  "lat": 49.0001246,
+  "lon": 21.2378593
+},
+{
+  "type": "node",
+  "id": 956494422,
+  "lat": 48.9982518,
+  "lon": 21.2408700
+},
+{
+  "type": "node",
+  "id": 956494462,
+  "lat": 48.9982668,
+  "lon": 21.2413183
+},
+{
+  "type": "node",
+  "id": 956494674,
+  "lat": 48.9982777,
+  "lon": 21.2407979
+},
+{
+  "type": "node",
+  "id": 956494939,
+  "lat": 48.9983051,
+  "lon": 21.2412106
+},
+{
+  "type": "node",
+  "id": 956495566,
+  "lat": 48.9982055,
+  "lon": 21.2409037
+},
+{
+  "type": "node",
+  "id": 956495651,
+  "lat": 48.9981385,
+  "lon": 21.2409200
+},
+{
+  "type": "node",
+  "id": 956495970,
+  "lat": 48.9981940,
+  "lon": 21.2405308
+},
+{
+  "type": "node",
+  "id": 956496508,
+  "lat": 48.9980495,
+  "lon": 21.2406224
+},
+{
+  "type": "node",
+  "id": 956498621,
+  "lat": 48.9983064,
+  "lon": 21.2408915
+},
+{
+  "type": "node",
+  "id": 956499383,
+  "lat": 48.9982691,
+  "lon": 21.2409186
+},
+{
+  "type": "node",
+  "id": 956499430,
+  "lat": 48.9983349,
+  "lon": 21.2412687
+},
+{
+  "type": "node",
+  "id": 956499780,
+  "lat": 48.9983182,
+  "lon": 21.2412010
+},
+{
+  "type": "node",
+  "id": 4724452789,
+  "lat": 48.9981332,
+  "lon": 21.2405693
+},
+{
+  "type": "node",
+  "id": 4724452790,
+  "lat": 48.9980718,
+  "lon": 21.2406083
+},
+{
+  "type": "node",
+  "id": 778154233,
+  "lat": 48.7384915,
+  "lon": 21.5348275
+},
+{
+  "type": "node",
+  "id": 778154437,
+  "lat": 48.7385019,
+  "lon": 21.5350823
+},
+{
+  "type": "node",
+  "id": 778154635,
+  "lat": 48.7383405,
+  "lon": 21.5350922
+},
+{
+  "type": "node",
+  "id": 6171641271,
+  "lat": 48.7384966,
+  "lon": 21.5349513
+},
+{
+  "type": "node",
+  "id": 934215249,
+  "lat": 48.6813885,
+  "lon": 21.6156169
+},
+{
+  "type": "node",
+  "id": 934215250,
+  "lat": 48.6813865,
+  "lon": 21.6155426
+},
+{
+  "type": "node",
+  "id": 934215251,
+  "lat": 48.6814359,
+  "lon": 21.6155402
+},
+{
+  "type": "node",
+  "id": 5592112021,
+  "lat": 48.6814368,
+  "lon": 21.6156142
+}
+
+  ]
+}

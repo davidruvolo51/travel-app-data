@@ -1,0 +1,384 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-14T13:37:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2283568880,
+  "lat": 38.9070513,
+  "lon": 1.4294868,
+  "tags": {
+    "name": "Museo Monograpjic / Necròpoli de Puig des Molins",
+    "tourism": "museum",
+    "wikidata": "Q3346918",
+    "wikipedia": "es:Necrópolis cartaginesas en Ibiza"
+  }
+},
+{
+  "type": "node",
+  "id": 3774731211,
+  "lat": 38.9087200,
+  "lon": 1.4395981,
+  "tags": {
+    "addr:city": "Ibiza",
+    "addr:country": "ES",
+    "addr:housenumber": "15",
+    "addr:place": "Sa Penya",
+    "addr:postcode": "07800",
+    "addr:street": "Carreró de Sa Penya",
+    "name": "Museu Casa Broner",
+    "phone": "+34 971 399 232",
+    "tourism": "museum",
+    "website": "http://www.mace.eivissa.es/index.php?option=com_content&view=category&layout=blog&id=17&Itemid=112&lang=en"
+  }
+},
+{
+  "type": "node",
+  "id": 3789386314,
+  "lat": 38.9837815,
+  "lon": 1.5299363,
+  "tags": {
+    "addr:city": "Santa Eulària des Riu",
+    "addr:street": "Can Ros des Puig de Missa",
+    "name": "Museu d'Etnografia",
+    "tourism": "museum",
+    "website": "http://www.santaeulalia.net/index.php/ca/parroquies/santa-eularia-des-riu/museu-d-etnografia"
+  }
+},
+{
+  "type": "node",
+  "id": 3908335163,
+  "lat": 38.9070517,
+  "lon": 1.4350249,
+  "tags": {
+    "name": "Museu Puget",
+    "tourism": "museum",
+    "website": "http://www.eivissa.es/portal/index.php?option=com_content&view=article&id=563&Itemid=557&lang=ca"
+  }
+},
+{
+  "type": "node",
+  "id": 4879348322,
+  "lat": 38.9843418,
+  "lon": 1.5336993,
+  "tags": {
+    "name": "Sala de Laureà Barrau",
+    "name:ca": "Sala de Laureà Barrau",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6254322585,
+  "lat": 38.9463045,
+  "lon": 1.4677241,
+  "tags": {
+    "name": "Espacio Micus",
+    "opening_hours": "Su 11:00-14:00",
+    "phone": "+34971191923",
+    "tourism": "museum",
+    "website": "http://www.espacio-micus.com"
+  }
+},
+{
+  "type": "way",
+  "id": 173542979,
+  "nodes": [
+    1843372238,
+    3783508712,
+    1843372328,
+    1843372316,
+    1843372321,
+    3783508695,
+    1843372238
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Museo Arqueologic",
+    "opening_hours": "Mo off",
+    "source": "PNOA;survey",
+    "source:date": "2007",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 309426287,
+  "nodes": [
+    3147597476,
+    3147597477,
+    3147597478,
+    3773125617,
+    3147597479,
+    3303027186,
+    3296610037,
+    3147597480,
+    3147597476
+  ],
+  "tags": {
+    "addr:city": "Ibiza",
+    "addr:postcode": "07800",
+    "building": "yes",
+    "building:levels": "3",
+    "name": "Museu d'Art Contemporani",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 313283066,
+  "nodes": [
+    3191922947,
+    5647367366,
+    3191922949,
+    3191922948,
+    3191922951,
+    3191922950,
+    5647367367,
+    5647367368,
+    3191922953,
+    3191922954,
+    3191922955,
+    3191922952,
+    3191922959,
+    3191922933,
+    3191922934,
+    3191922935,
+    3191922936,
+    3191922942,
+    3191922943,
+    3191922944,
+    3191922945,
+    3191922946,
+    3191922947
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Museu Marítim de Sant Antoni",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1843372238,
+  "lat": 38.9070144,
+  "lon": 1.4365062
+},
+{
+  "type": "node",
+  "id": 1843372316,
+  "lat": 38.9068699,
+  "lon": 1.4367240
+},
+{
+  "type": "node",
+  "id": 1843372321,
+  "lat": 38.9069085,
+  "lon": 1.4367603
+},
+{
+  "type": "node",
+  "id": 1843372328,
+  "lat": 38.9069863,
+  "lon": 1.4364289
+},
+{
+  "type": "node",
+  "id": 3147597476,
+  "lat": 38.9085624,
+  "lon": 1.4360399
+},
+{
+  "type": "node",
+  "id": 3147597477,
+  "lat": 38.9084137,
+  "lon": 1.4364177
+},
+{
+  "type": "node",
+  "id": 3147597478,
+  "lat": 38.9081980,
+  "lon": 1.4363675
+},
+{
+  "type": "node",
+  "id": 3147597479,
+  "lat": 38.9082544,
+  "lon": 1.4361717
+},
+{
+  "type": "node",
+  "id": 3147597480,
+  "lat": 38.9084683,
+  "lon": 1.4359266
+},
+{
+  "type": "node",
+  "id": 3296610037,
+  "lat": 38.9083975,
+  "lon": 1.4362190
+},
+{
+  "type": "node",
+  "id": 3303027186,
+  "lat": 38.9083130,
+  "lon": 1.4361930
+},
+{
+  "type": "node",
+  "id": 3773125617,
+  "lat": 38.9082016,
+  "lon": 1.4363268
+},
+{
+  "type": "node",
+  "id": 3783508695,
+  "lat": 38.9069387,
+  "lon": 1.4367072
+},
+{
+  "type": "node",
+  "id": 3783508712,
+  "lat": 38.9070334,
+  "lon": 1.4364583
+},
+{
+  "type": "node",
+  "id": 3191922933,
+  "lat": 38.9794111,
+  "lon": 1.2982980
+},
+{
+  "type": "node",
+  "id": 3191922934,
+  "lat": 38.9794118,
+  "lon": 1.2983070
+},
+{
+  "type": "node",
+  "id": 3191922935,
+  "lat": 38.9794147,
+  "lon": 1.2983151
+},
+{
+  "type": "node",
+  "id": 3191922936,
+  "lat": 38.9794195,
+  "lon": 1.2983216
+},
+{
+  "type": "node",
+  "id": 3191922942,
+  "lat": 38.9794258,
+  "lon": 1.2983256
+},
+{
+  "type": "node",
+  "id": 3191922943,
+  "lat": 38.9794328,
+  "lon": 1.2983267
+},
+{
+  "type": "node",
+  "id": 3191922944,
+  "lat": 38.9794396,
+  "lon": 1.2983247
+},
+{
+  "type": "node",
+  "id": 3191922945,
+  "lat": 38.9794455,
+  "lon": 1.2983199
+},
+{
+  "type": "node",
+  "id": 3191922946,
+  "lat": 38.9794499,
+  "lon": 1.2983129
+},
+{
+  "type": "node",
+  "id": 3191922947,
+  "lat": 38.9794522,
+  "lon": 1.2983044
+},
+{
+  "type": "node",
+  "id": 3191922948,
+  "lat": 38.9795504,
+  "lon": 1.2983214
+},
+{
+  "type": "node",
+  "id": 3191922949,
+  "lat": 38.9794632,
+  "lon": 1.2983000
+},
+{
+  "type": "node",
+  "id": 3191922950,
+  "lat": 38.9794461,
+  "lon": 1.2984152
+},
+{
+  "type": "node",
+  "id": 3191922951,
+  "lat": 38.9795334,
+  "lon": 1.2984366
+},
+{
+  "type": "node",
+  "id": 3191922952,
+  "lat": 38.9793995,
+  "lon": 1.2982898
+},
+{
+  "type": "node",
+  "id": 3191922953,
+  "lat": 38.9793851,
+  "lon": 1.2984041
+},
+{
+  "type": "node",
+  "id": 3191922954,
+  "lat": 38.9792958,
+  "lon": 1.2983854
+},
+{
+  "type": "node",
+  "id": 3191922955,
+  "lat": 38.9793102,
+  "lon": 1.2982711
+},
+{
+  "type": "node",
+  "id": 3191922959,
+  "lat": 38.9793997,
+  "lon": 1.2982945
+},
+{
+  "type": "node",
+  "id": 5647367366,
+  "lat": 38.9794623,
+  "lon": 1.2983064
+},
+{
+  "type": "node",
+  "id": 5647367367,
+  "lat": 38.9794493,
+  "lon": 1.2983939
+},
+{
+  "type": "node",
+  "id": 5647367368,
+  "lat": 38.9793880,
+  "lon": 1.2983808
+}
+
+  ]
+}

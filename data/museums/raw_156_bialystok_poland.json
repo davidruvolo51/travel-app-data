@@ -1,0 +1,1028 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-14T12:27:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 841774137,
+  "lat": 53.1323898,
+  "lon": 23.1587714,
+  "tags": {
+    "email": "muzeum@muzeum.bialystok.pl",
+    "fax": "+48857407739",
+    "image": "File:Bialystok_-_ratusz_miejski_fc05.jpg",
+    "name": "Muzeum Podlaskie w Białymstoku - Ratusz",
+    "opening_hours": "Tu-Th 10:00-17:00; Fr 10:00-18:00; Sa-Su 10:00-17:00",
+    "phone": "+48857421440",
+    "tourism": "museum",
+    "website": "http://www.muzeum.bialystok.pl/",
+    "wheelchair": "yes",
+    "wikidata": "Q11787133",
+    "wikipedia": "pl:Muzeum Podlaskie w Białymstoku"
+  }
+},
+{
+  "type": "node",
+  "id": 1747326748,
+  "lat": 53.2111896,
+  "lon": 23.3379019,
+  "tags": {
+    "addr:housenumber": "1",
+    "addr:street": "Klasztorna",
+    "name": "Muzeum Ikon",
+    "tourism": "museum",
+    "wikidata": "Q11787015",
+    "wikipedia": "pl:Muzeum Ikon w Supraślu"
+  }
+},
+{
+  "type": "node",
+  "id": 3279533213,
+  "lat": 53.2108420,
+  "lon": 23.3381617,
+  "tags": {
+    "name": "Muzeum Sztuki Drukarskiej i Papiernictwa",
+    "tourism": "museum",
+    "website": "www.muzeumdruku.pl"
+  }
+},
+{
+  "type": "node",
+  "id": 4241033367,
+  "lat": 53.1320518,
+  "lon": 23.1720216,
+  "tags": {
+    "addr:city": "Białystok",
+    "addr:housenumber": "37",
+    "addr:postcode": "15-062",
+    "addr:street": "Warszawska",
+    "contact:phone": "+48 85 74 82 119",
+    "email": "muzeum.historyczne@muzeum.bialystok.pl",
+    "name": "Muzeum Historyczne",
+    "name:be": "Музей гісторыі",
+    "opening_hours": "Tu-Su 10:00-17:00; Mo off; PH off; May 01 - Aug 31 Fr 10:00-18:00",
+    "operator": "Muzeum Podlaskie",
+    "tourism": "museum",
+    "website": "http://www.muzeum.bialystok.pl/s,muzeum-historyczne,28.html",
+    "wikidata": "Q11787010",
+    "wikipedia": "pl:Muzeum Historyczne w Białymstoku"
+  }
+},
+{
+  "type": "node",
+  "id": 4382713473,
+  "lat": 53.2065524,
+  "lon": 22.7668490,
+  "tags": {
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4869358389,
+  "lat": 53.1344948,
+  "lon": 23.1630068,
+  "tags": {
+    "name": "Muzeum Sybiru - Centrum Edukacyjno-Wystawiennicze",
+    "tourism": "museum",
+    "website": "https://www.sybir.com.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 6364648476,
+  "lat": 53.1313167,
+  "lon": 23.1655379,
+  "tags": {
+    "email": "muzeum@umb.edu.pl",
+    "name": "Muzeum Historii Medycyny i Farmacji",
+    "opening_hours": "Tu-Fr 10:00-17:00, Sa-Su 09:00-17:00; Mo,PH off",
+    "operator": "Uniwersytet Medyczny w Białymstoku",
+    "phone": "+48 85 748 54 67",
+    "tourism": "museum",
+    "website": "https://www.umb.edu.pl/muzeum_historii_medycyny_i_farmacji"
+  }
+},
+{
+  "type": "node",
+  "id": 7151554423,
+  "lat": 52.9537779,
+  "lon": 22.9612605,
+  "tags": {
+    "addr:housenumber": "16",
+    "addr:street": "Białostocka",
+    "description": "Zbiór ok. 350 kapliczek z Polski i ze świata",
+    "name": "Muzeum Kapliczek w Surażu",
+    "opening_hours": "Mo-Su 09:00-21:00",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 196780657,
+  "nodes": [
+    2070742780,
+    2070742757,
+    2070742727,
+    2070742733,
+    2070742780
+  ],
+  "tags": {
+    "addr:city": "Choroszcz",
+    "addr:housenumber": "2",
+    "addr:postcode": "16-070",
+    "addr:street": "Pałacowa",
+    "alt_name": "Dwór Branickich",
+    "building": "yes",
+    "ele": "2",
+    "name": "Muzeum Wnętrz Pałacowych",
+    "name:be": "Сядзібна-паркавы комплекс Браніцкіх",
+    "name:pl": "Muzeum Wnętrz Pałacowych",
+    "name:ru": "Усадебно-парковый комплекс Браницких",
+    "operator": "Muzeum Podlaskie w Białymstoku",
+    "phone": "0048857191233",
+    "source": "http://www.muzeum.bialystok.pl/",
+    "tourism": "museum",
+    "website": "http://www.muzeum.bialystok.pl/s,muzeum-wnetrz-palacowych-w-choroszczy,59.html",
+    "wheelchair": "no",
+    "wikidata": "Q11787246",
+    "wikipedia": "pl:Muzeum Wnętrz Pałacowych w Choroszczy"
+  }
+},
+{
+  "type": "way",
+  "id": 222212733,
+  "nodes": [
+    4222436350,
+    4222436349,
+    4222436343,
+    4222436344,
+    4222436336,
+    4222436319,
+    4222436324,
+    4222436326,
+    4222436333,
+    4222436331,
+    4222436340,
+    4222436341,
+    4222436345,
+    4222436339,
+    4222436338,
+    4222436327,
+    4222436330,
+    4222436351,
+    4222436355,
+    4222436364,
+    4222436363,
+    4222436367,
+    4222436366,
+    4222436362,
+    4222436358,
+    4222436359,
+    4222436350
+  ],
+  "tags": {
+    "addr:city": "Białystok",
+    "addr:country": "PL",
+    "addr:housename": "Muzeum Rzeźby Alfonsa Karnego",
+    "addr:housenumber": "17",
+    "addr:postcode": "15-277",
+    "addr:street": "Świętojańska",
+    "building": "yes",
+    "name": "Muzeum Rzeźby Alfonsa Karnego",
+    "opening_hours": "Tu,We,Th,Sa,Su 10:00-17:00;Fr 10:00-18:00",
+    "operator": "Muzeum Podlaskie w Białymstoku",
+    "tourism": "museum",
+    "wikidata": "Q11787203",
+    "wikipedia": "pl:Muzeum Rzeźby Alfonsa Karnego"
+  }
+},
+{
+  "type": "way",
+  "id": 231111093,
+  "nodes": [
+    2395184773,
+    2395184774,
+    3152573738,
+    1006089097,
+    3152582217,
+    1006089165,
+    7184589027,
+    7184589026,
+    3152582220,
+    3152582222,
+    7184589028,
+    7184589029,
+    2395184773
+  ],
+  "tags": {
+    "addr:city": "Białystok",
+    "addr:country": "PL",
+    "addr:housenumber": "7",
+    "addr:postcode": "15-089",
+    "addr:street": "Jana Kilińskiego",
+    "building": "civic",
+    "contact:facebook": "https://www.facebook.com/muzeumwojska",
+    "email": "biuro@mwb.com.pl",
+    "fax": "+48857415448",
+    "image": "File:Muzeum Wojska 01.JPG",
+    "name": "Muzeum Wojska",
+    "phone": "+48857416449",
+    "source:addr": "EMUiA (emuia.gugik.gov.pl)",
+    "tourism": "museum",
+    "website": "https://www.mwb.com.pl/",
+    "wikidata": "Q11787250",
+    "wikipedia": "pl:Muzeum Wojska w Białymstoku"
+  }
+},
+{
+  "type": "way",
+  "id": 237167045,
+  "nodes": [
+    4897222010,
+    6350900465,
+    6350900450,
+    2451124753,
+    1590086621,
+    1590086629,
+    1590086649,
+    4897222011,
+    4897222010
+  ],
+  "tags": {
+    "name": "Podlaskie Muzeum Kultury Ludowej",
+    "old_name": "Białostockie Muzeum Wsi",
+    "tourism": "museum",
+    "website": "http://www.skansen.bialystok.pl/",
+    "wikidata": "Q9170563",
+    "wikipedia": "pl:Podlaskie Muzeum Kultury Ludowej"
+  }
+},
+{
+  "type": "way",
+  "id": 237167074,
+  "nodes": [
+    2451124784,
+    6350900456,
+    4897222009,
+    4897222002,
+    4897222000,
+    4897222001,
+    6350900455,
+    6350900453,
+    6350900451,
+    6350900452,
+    2451124881,
+    4897222006,
+    2451124911,
+    2451124939,
+    7110241726,
+    2451124933,
+    2451124931,
+    2451124927,
+    2451124925,
+    2451124922,
+    2451124891,
+    2451124903,
+    2451124900,
+    2451124877,
+    2451124955,
+    2451124957,
+    2451124963,
+    3119350394,
+    7110241801,
+    2451124961,
+    2451124954,
+    2451124952,
+    7110241769,
+    1590086788,
+    2451124808,
+    2451124810,
+    2451124814,
+    2451124819,
+    2513718448,
+    1590086790,
+    2451124783,
+    2451124784
+  ],
+  "tags": {
+    "barrier": "fence",
+    "fence_type": "split_rail",
+    "name": "Podlaskie Muzeum Kultury Ludowej - Skansen",
+    "old_name": "Białostockie Muzeum Wsi",
+    "tourism": "museum",
+    "website": "http://www.skansen.bialystok.pl/",
+    "wikidata": "Q9170563",
+    "wikipedia": "pl:Podlaskie Muzeum Kultury Ludowej"
+  }
+},
+{
+  "type": "way",
+  "id": 241572160,
+  "nodes": [
+    2491820899,
+    2491820903,
+    2491820905,
+    2491820906,
+    2491820893,
+    2491820892,
+    2491820894,
+    2491820883,
+    2491820899
+  ],
+  "tags": {
+    "addr:city": "Białystok",
+    "addr:country": "PL",
+    "addr:housenumber": "8",
+    "addr:postcode": "15-121",
+    "addr:street": "Węglowa",
+    "building": "yes",
+    "contact:website": "http://www.motoretro.org.pl/",
+    "name": "Muzeum Motoryzacji i Techniki",
+    "tourism": "museum",
+    "wikidata": "Q16486095",
+    "wikipedia": "pl:Muzeum Motoryzacji i Techniki w Białymstoku"
+  }
+},
+{
+  "type": "way",
+  "id": 440508974,
+  "nodes": [
+    4382472521,
+    4382472522,
+    4382472519,
+    4382472517,
+    4382472521
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Muzeum Archeologiczno-Etnograficzne Wiktor Litwińczuk",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 591083089,
+  "nodes": [
+    5642596635,
+    5642596632,
+    5642596633,
+    5642596634,
+    5642596635
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Muzeum Wsi działające przy szkole podstawowej",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4382472517,
+  "lat": 52.9522903,
+  "lon": 22.9604474
+},
+{
+  "type": "node",
+  "id": 4382472519,
+  "lat": 52.9523262,
+  "lon": 22.9606527
+},
+{
+  "type": "node",
+  "id": 4382472521,
+  "lat": 52.9523617,
+  "lon": 22.9604130
+},
+{
+  "type": "node",
+  "id": 4382472522,
+  "lat": 52.9523976,
+  "lon": 22.9606183
+},
+{
+  "type": "node",
+  "id": 5642596632,
+  "lat": 53.0201693,
+  "lon": 23.0024685
+},
+{
+  "type": "node",
+  "id": 5642596633,
+  "lat": 53.0200897,
+  "lon": 23.0024105
+},
+{
+  "type": "node",
+  "id": 5642596634,
+  "lat": 53.0201094,
+  "lon": 23.0023357
+},
+{
+  "type": "node",
+  "id": 5642596635,
+  "lat": 53.0201890,
+  "lon": 23.0023937
+},
+{
+  "type": "node",
+  "id": 2070742727,
+  "lat": 53.1523766,
+  "lon": 22.9795948
+},
+{
+  "type": "node",
+  "id": 2070742733,
+  "lat": 53.1525002,
+  "lon": 22.9794724
+},
+{
+  "type": "node",
+  "id": 2070742757,
+  "lat": 53.1522726,
+  "lon": 22.9793028
+},
+{
+  "type": "node",
+  "id": 2070742780,
+  "lat": 53.1523962,
+  "lon": 22.9791804
+},
+{
+  "type": "node",
+  "id": 4222436319,
+  "lat": 53.1246572,
+  "lon": 23.1668230
+},
+{
+  "type": "node",
+  "id": 4222436324,
+  "lat": 53.1246894,
+  "lon": 23.1668903
+},
+{
+  "type": "node",
+  "id": 4222436326,
+  "lat": 53.1247052,
+  "lon": 23.1668703
+},
+{
+  "type": "node",
+  "id": 4222436331,
+  "lat": 53.1247342,
+  "lon": 23.1669544
+},
+{
+  "type": "node",
+  "id": 4222436333,
+  "lat": 53.1247397,
+  "lon": 23.1669462
+},
+{
+  "type": "node",
+  "id": 4222436336,
+  "lat": 53.1247654,
+  "lon": 23.1666844
+},
+{
+  "type": "node",
+  "id": 4222436343,
+  "lat": 53.1247906,
+  "lon": 23.1667559
+},
+{
+  "type": "node",
+  "id": 4222436344,
+  "lat": 53.1247960,
+  "lon": 23.1667494
+},
+{
+  "type": "node",
+  "id": 4222436349,
+  "lat": 53.1248245,
+  "lon": 23.1668275
+},
+{
+  "type": "node",
+  "id": 4222436350,
+  "lat": 53.1248301,
+  "lon": 23.1668209
+},
+{
+  "type": "node",
+  "id": 4222436358,
+  "lat": 53.1248751,
+  "lon": 23.1669354
+},
+{
+  "type": "node",
+  "id": 4222436359,
+  "lat": 53.1248806,
+  "lon": 23.1669281
+},
+{
+  "type": "node",
+  "id": 4222436327,
+  "lat": 53.1247106,
+  "lon": 23.1671760
+},
+{
+  "type": "node",
+  "id": 4222436330,
+  "lat": 53.1247337,
+  "lon": 23.1672270
+},
+{
+  "type": "node",
+  "id": 4222436338,
+  "lat": 53.1247714,
+  "lon": 23.1671012
+},
+{
+  "type": "node",
+  "id": 4222436339,
+  "lat": 53.1247757,
+  "lon": 23.1671090
+},
+{
+  "type": "node",
+  "id": 4222436340,
+  "lat": 53.1247819,
+  "lon": 23.1670575
+},
+{
+  "type": "node",
+  "id": 4222436341,
+  "lat": 53.1247880,
+  "lon": 23.1670514
+},
+{
+  "type": "node",
+  "id": 4222436345,
+  "lat": 53.1248003,
+  "lon": 23.1670791
+},
+{
+  "type": "node",
+  "id": 4222436351,
+  "lat": 53.1248356,
+  "lon": 23.1671016
+},
+{
+  "type": "node",
+  "id": 4222436355,
+  "lat": 53.1248639,
+  "lon": 23.1671608
+},
+{
+  "type": "node",
+  "id": 4222436362,
+  "lat": 53.1249060,
+  "lon": 23.1670003
+},
+{
+  "type": "node",
+  "id": 4222436363,
+  "lat": 53.1249066,
+  "lon": 23.1670996
+},
+{
+  "type": "node",
+  "id": 4222436364,
+  "lat": 53.1249084,
+  "lon": 23.1671052
+},
+{
+  "type": "node",
+  "id": 4222436366,
+  "lat": 53.1249120,
+  "lon": 23.1669939
+},
+{
+  "type": "node",
+  "id": 4222436367,
+  "lat": 53.1249399,
+  "lon": 23.1670530
+},
+{
+  "type": "node",
+  "id": 1006089097,
+  "lat": 53.1321056,
+  "lon": 23.1666504
+},
+{
+  "type": "node",
+  "id": 1006089165,
+  "lat": 53.1320505,
+  "lon": 23.1664892
+},
+{
+  "type": "node",
+  "id": 2395184773,
+  "lat": 53.1322147,
+  "lon": 23.1662782
+},
+{
+  "type": "node",
+  "id": 2395184774,
+  "lat": 53.1322813,
+  "lon": 23.1664206
+},
+{
+  "type": "node",
+  "id": 3152573738,
+  "lat": 53.1322716,
+  "lon": 23.1664385
+},
+{
+  "type": "node",
+  "id": 3152582217,
+  "lat": 53.1320555,
+  "lon": 23.1665009
+},
+{
+  "type": "node",
+  "id": 3152582220,
+  "lat": 53.1321200,
+  "lon": 23.1663861
+},
+{
+  "type": "node",
+  "id": 3152582222,
+  "lat": 53.1321581,
+  "lon": 23.1663353
+},
+{
+  "type": "node",
+  "id": 7184589026,
+  "lat": 53.1320904,
+  "lon": 23.1664269
+},
+{
+  "type": "node",
+  "id": 7184589027,
+  "lat": 53.1320914,
+  "lon": 23.1664377
+},
+{
+  "type": "node",
+  "id": 7184589028,
+  "lat": 53.1321871,
+  "lon": 23.1663009
+},
+{
+  "type": "node",
+  "id": 7184589029,
+  "lat": 53.1321906,
+  "lon": 23.1663100
+},
+{
+  "type": "node",
+  "id": 2491820883,
+  "lat": 53.1457039,
+  "lon": 23.1706520
+},
+{
+  "type": "node",
+  "id": 2491820892,
+  "lat": 53.1457512,
+  "lon": 23.1718464
+},
+{
+  "type": "node",
+  "id": 2491820893,
+  "lat": 53.1457610,
+  "lon": 23.1720278
+},
+{
+  "type": "node",
+  "id": 2491820894,
+  "lat": 53.1457682,
+  "lon": 23.1718438
+},
+{
+  "type": "node",
+  "id": 2491820899,
+  "lat": 53.1458651,
+  "lon": 23.1706278
+},
+{
+  "type": "node",
+  "id": 2491820903,
+  "lat": 53.1459292,
+  "lon": 23.1718165
+},
+{
+  "type": "node",
+  "id": 2491820905,
+  "lat": 53.1459378,
+  "lon": 23.1718152
+},
+{
+  "type": "node",
+  "id": 2491820906,
+  "lat": 53.1459478,
+  "lon": 23.1719998
+},
+{
+  "type": "node",
+  "id": 1590086621,
+  "lat": 53.1745759,
+  "lon": 23.1495812
+},
+{
+  "type": "node",
+  "id": 1590086629,
+  "lat": 53.1752287,
+  "lon": 23.1497393
+},
+{
+  "type": "node",
+  "id": 1590086649,
+  "lat": 53.1753209,
+  "lon": 23.1492686
+},
+{
+  "type": "node",
+  "id": 2451124753,
+  "lat": 53.1746442,
+  "lon": 23.1485540
+},
+{
+  "type": "node",
+  "id": 2451124783,
+  "lat": 53.1765617,
+  "lon": 23.1495249
+},
+{
+  "type": "node",
+  "id": 2451124784,
+  "lat": 53.1765987,
+  "lon": 23.1489544
+},
+{
+  "type": "node",
+  "id": 4897222000,
+  "lat": 53.1766307,
+  "lon": 23.1482566
+},
+{
+  "type": "node",
+  "id": 4897222001,
+  "lat": 53.1766256,
+  "lon": 23.1482044
+},
+{
+  "type": "node",
+  "id": 4897222002,
+  "lat": 53.1765707,
+  "lon": 23.1482729
+},
+{
+  "type": "node",
+  "id": 4897222009,
+  "lat": 53.1763523,
+  "lon": 23.1487943
+},
+{
+  "type": "node",
+  "id": 4897222010,
+  "lat": 53.1760001,
+  "lon": 23.1488049
+},
+{
+  "type": "node",
+  "id": 4897222011,
+  "lat": 53.1756754,
+  "lon": 23.1493145
+},
+{
+  "type": "node",
+  "id": 6350900450,
+  "lat": 53.1747431,
+  "lon": 23.1485757
+},
+{
+  "type": "node",
+  "id": 6350900451,
+  "lat": 53.1767669,
+  "lon": 23.1479002
+},
+{
+  "type": "node",
+  "id": 6350900452,
+  "lat": 53.1770218,
+  "lon": 23.1479409
+},
+{
+  "type": "node",
+  "id": 6350900453,
+  "lat": 53.1767300,
+  "lon": 23.1479761
+},
+{
+  "type": "node",
+  "id": 6350900455,
+  "lat": 53.1766847,
+  "lon": 23.1480695
+},
+{
+  "type": "node",
+  "id": 6350900456,
+  "lat": 53.1763146,
+  "lon": 23.1488757
+},
+{
+  "type": "node",
+  "id": 6350900465,
+  "lat": 53.1750995,
+  "lon": 23.1486407
+},
+{
+  "type": "node",
+  "id": 1590086790,
+  "lat": 53.1797685,
+  "lon": 23.1500681
+},
+{
+  "type": "node",
+  "id": 2451124814,
+  "lat": 53.1798274,
+  "lon": 23.1514891
+},
+{
+  "type": "node",
+  "id": 2451124819,
+  "lat": 53.1798931,
+  "lon": 23.1505956
+},
+{
+  "type": "node",
+  "id": 2451124881,
+  "lat": 53.1800286,
+  "lon": 23.1485412
+},
+{
+  "type": "node",
+  "id": 2451124891,
+  "lat": 53.1808607,
+  "lon": 23.1528731
+},
+{
+  "type": "node",
+  "id": 2451124900,
+  "lat": 53.1809336,
+  "lon": 23.1534302
+},
+{
+  "type": "node",
+  "id": 2451124903,
+  "lat": 53.1809430,
+  "lon": 23.1531163
+},
+{
+  "type": "node",
+  "id": 2451124911,
+  "lat": 53.1810723,
+  "lon": 23.1488639
+},
+{
+  "type": "node",
+  "id": 2451124922,
+  "lat": 53.1811169,
+  "lon": 23.1529280
+},
+{
+  "type": "node",
+  "id": 2451124925,
+  "lat": 53.1811854,
+  "lon": 23.1519645
+},
+{
+  "type": "node",
+  "id": 2451124927,
+  "lat": 53.1811984,
+  "lon": 23.1517818
+},
+{
+  "type": "node",
+  "id": 2451124931,
+  "lat": 53.1812400,
+  "lon": 23.1511967
+},
+{
+  "type": "node",
+  "id": 2451124933,
+  "lat": 53.1812606,
+  "lon": 23.1509067
+},
+{
+  "type": "node",
+  "id": 2451124939,
+  "lat": 53.1813567,
+  "lon": 23.1495543
+},
+{
+  "type": "node",
+  "id": 2513718448,
+  "lat": 53.1799296,
+  "lon": 23.1500939
+},
+{
+  "type": "node",
+  "id": 4897222006,
+  "lat": 53.1801134,
+  "lon": 23.1485674
+},
+{
+  "type": "node",
+  "id": 7110241726,
+  "lat": 53.1813054,
+  "lon": 23.1502760
+},
+{
+  "type": "node",
+  "id": 1590086788,
+  "lat": 53.1795370,
+  "lon": 23.1560733
+},
+{
+  "type": "node",
+  "id": 2451124808,
+  "lat": 53.1795629,
+  "lon": 23.1554662
+},
+{
+  "type": "node",
+  "id": 2451124810,
+  "lat": 53.1796428,
+  "lon": 23.1539990
+},
+{
+  "type": "node",
+  "id": 2451124877,
+  "lat": 53.1807079,
+  "lon": 23.1542893
+},
+{
+  "type": "node",
+  "id": 2451124952,
+  "lat": 53.1817188,
+  "lon": 23.1569687
+},
+{
+  "type": "node",
+  "id": 2451124954,
+  "lat": 53.1818152,
+  "lon": 23.1564901
+},
+{
+  "type": "node",
+  "id": 2451124955,
+  "lat": 53.1820032,
+  "lon": 23.1546110
+},
+{
+  "type": "node",
+  "id": 2451124957,
+  "lat": 53.1820597,
+  "lon": 23.1542442
+},
+{
+  "type": "node",
+  "id": 2451124961,
+  "lat": 53.1822101,
+  "lon": 23.1570785
+},
+{
+  "type": "node",
+  "id": 2451124963,
+  "lat": 53.1824881,
+  "lon": 23.1543329
+},
+{
+  "type": "node",
+  "id": 3119350394,
+  "lat": 53.1822364,
+  "lon": 23.1568090
+},
+{
+  "type": "node",
+  "id": 7110241769,
+  "lat": 53.1809666,
+  "lon": 23.1566600
+},
+{
+  "type": "node",
+  "id": 7110241801,
+  "lat": 53.1822261,
+  "lon": 23.1569101
+}
+
+  ]
+}

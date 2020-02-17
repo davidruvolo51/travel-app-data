@@ -1,0 +1,1336 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-14T14:20:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2634651859,
+  "lat": 46.7674110,
+  "lon": 23.5921480,
+  "tags": {
+    "SIRUTA:code": "54984",
+    "addr:city": "Cluj-Napoca",
+    "addr:country": "RO",
+    "addr:housenumber": "4",
+    "addr:postcode": "400084",
+    "addr:street": "Strada Mihail Kogălniceanu",
+    "codul_entității_muzeale": "5.1620000169E10",
+    "description:en": "The Museum was inaugurated in April 2001, during the mandate of Professor Andrei Marga as president of the \"Babes-Bolyai\" University. The idea of such a Museum was first discussed in 1994 at the 75-th anniversary of the creation of the Cluj Romanian Univ",
+    "description:ro": "Muzeul a fost inaugurat in aprilie 2001, in timpul rectoratului profesorului Andrei Marga, dupa ce ideea aparitiei unei asemenea institutii a aparut odata cu aniversarea a 75 de ani de la infiintarea universitatii romanesti din Cluj (in 1994), ea fiind r",
+    "email": "amstan@staff.ubbcluj.ro",
+    "name": "Muzeul Universității „Babeș-Bolyai”",
+    "name:en": "\"Babes-Bolyai\" University Museum",
+    "name:ro": "Muzeul Universității „Babeș-Bolyai”",
+    "opening_hours": "Mo-Fr 9:30-13:30",
+    "phone": "0264/591.471",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "start_date": "2001",
+    "tourism": "museum",
+    "tourism_survey": "04.12.2013 15:09:14",
+    "website": "https://www.ubbcluj.ro/ro/structura/muzee/muzeul_universitatii",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2634652006,
+  "lat": 46.9031300,
+  "lon": 23.7739210,
+  "tags": {
+    "SIRUTA:code": "56247",
+    "addr:city": "Răscruci",
+    "addr:postcode": "407107",
+    "codul_entității_muzeale": "5.160000117E9",
+    "fixme": "Adresa muzeului este de fapt adresa localitati, trebuie cautat manual unde este adresa corecta",
+    "name": "Muzeul Etnografic \"Kallos Zoltan?",
+    "name:en": "\"Kallos Zoltan\" Museum",
+    "opening_hours": "unknown",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "tourism": "museum",
+    "tourism_survey": "26.10.2012 20:20:41"
+  }
+},
+{
+  "type": "node",
+  "id": 2634652009,
+  "lat": 46.8138549,
+  "lon": 23.4531616,
+  "tags": {
+    "SIRUTA:code": "55865",
+    "addr:city": "Mera",
+    "addr:housenumber": "54",
+    "addr:postcode": "407057",
+    "addr:street": "Strada Nádas",
+    "codul_entității_muzeale": "650810.0",
+    "email": "csata_tunde@yahoo.fr; tunde.csata@wvi.org",
+    "fixme": "Adresa muzeului este de fapt adresa localitati, trebuie cautat manual unde este adresa corecta",
+    "name": "Colecția Kelemen Ana „Muzeul Puci”",
+    "name:en": "\"Kelemen Ana\" Museum",
+    "opening_hours": "We-Su 10:00-19:00",
+    "phone": "0264/28.11.63",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "tourism": "museum",
+    "tourism_survey": "21.01.2013 15:53:12"
+  }
+},
+{
+  "type": "node",
+  "id": 2634652199,
+  "lat": 46.7705668,
+  "lon": 23.5904227,
+  "tags": {
+    "LMI": "CJ-II-m-A-07497",
+    "SIRUTA:code": "54984",
+    "addr:city": "Cluj-Napoca",
+    "addr:country": "RO",
+    "addr:housenumber": "30",
+    "addr:postcode": "400098",
+    "addr:street": "Piața Unirii",
+    "codul_entității_muzeale": "7024500.0",
+    "description:ro": "infiintat in palatul Banffy, edificiu baroc de secol XVIII, are ca fond de baza colectia Virgil Cioflec, la care s-au mai adaugat cele donate de Universitatea Babes-Bolyai.",
+    "email": "macn@cluj.astral.ro",
+    "fax": "0264/596.952;0264/596.953",
+    "name": "Muzeul Național de Artă",
+    "name:de": "Kunstmuseum",
+    "name:en": "National Art Museum",
+    "name:hu": "Szépművészeti Múzeum",
+    "opening_hours": "We-Su 10:00-17:00",
+    "phone": "+4-0264-596952;+4-0264-596953",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "start_date": "1951",
+    "tourism": "museum",
+    "tourism_survey": "05.12.2013 11:37:36",
+    "website": "http://www.macluj.ro/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 2634652260,
+  "lat": 46.7720399,
+  "lon": 23.5972390,
+  "tags": {
+    "SIRUTA:code": "54984",
+    "addr:city": "Cluj-Napoca",
+    "addr:country": "RO",
+    "addr:housenumber": "18",
+    "addr:postcode": "400117",
+    "addr:street": "Piața Avram Iancu",
+    "codul_entității_muzeale": "5.1210017502E10",
+    "description:ro": "infiintata de episcopul Nicolae Ivan.",
+    "name": "Colecția Muzeală a Mitropoliei Ortodoxe Cluj",
+    "name:en": "Cluj Orthodox Metropolitan Museum Collection",
+    "opening_hours": "10:00-15:00;Sa, Su closed",
+    "phone": "0264/595.184;0264/431.004",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "start_date": "1921",
+    "tourism": "museum",
+    "tourism_survey": "17.09.2013 11:11:00"
+  }
+},
+{
+  "type": "node",
+  "id": 2634652312,
+  "lat": 46.5486180,
+  "lon": 23.8799920,
+  "tags": {
+    "SIRUTA:code": "0",
+    "addr:city": "Câmpia Turzii",
+    "codul_entității_muzeale": "7139850.0",
+    "email": "acop.ngo@gmail.com",
+    "fixme": "Adresa muzeului este de fapt adresa localitati, trebuie cautat manual unde este adresa corecta",
+    "name": "Muzeul Etnografic al Văii Arieșului, Asociația Culturală Octavian Pacurar-ACOP",
+    "name:en": "Ethnographic Museum of Aries Valley, Octavian Pacurar Cultural Association",
+    "opening_hours": "Mo-Su 10:00-18:00; closed Mo",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "start_date": "2011",
+    "tourism": "museum",
+    "tourism_survey": "10.04.2012 12:27:41"
+  }
+},
+{
+  "type": "node",
+  "id": 2634652314,
+  "lat": 46.7692686,
+  "lon": 23.5865425,
+  "tags": {
+    "SIRUTA:code": "54984",
+    "addr:city": "Cluj-Napoca",
+    "addr:country": "RO",
+    "addr:housenumber": "21",
+    "addr:postcode": "400114",
+    "addr:street": "Strada Memorandumului",
+    "codul_entității_muzeale": "7024600.0",
+    "description:en": "The Ministry of Arts took the initiative to found the museum, but in 1922 they transferred the task to the \"Prince Carol\" Cultural Foundation who appointed a commission for making proposals with a view to founding the museum. The commission charged Romul",
+    "description:ro": "Initiativa infiintarii muzeului apartine Ministerului Artelor care pune la dispozitie o anumita suma de bani in acest scop. in 1922 ministerul transfera problema infiintarii muzeului din Cluj pe seama Fundatiei Culturale \"Principele Carol\", care numeste",
+    "email": "contact@muzeul-etnografic.ro",
+    "fax": "0264/592.148",
+    "name": "Muzeul Etnografic al Transilvaniei",
+    "name:de": "Ethnographisches Museum von Siebenbürgen",
+    "name:en": "Ethnographic Museum of Transylvania",
+    "name:fr": "Musée ethnographique de Transylvanie",
+    "name:hu": "Erdélyi Néprajzi Múzeum",
+    "note": "Currently closed for renovations",
+    "opening_hours": "Oct-Mar 08:00-17:00; Apr-Sep 08:00-16:00; Mo closed",
+    "phone": "0264/592.148, 0264/592.334",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "start_date": "1922",
+    "tourism": "museum",
+    "tourism_survey": "10.12.2013 11:45:13",
+    "website": "https://www.muzeul-etnografic.ro/",
+    "wheelchair": "yes",
+    "wikidata": "Q3330569",
+    "wikipedia": "en:Ethnographic Museum of Transylvania"
+  }
+},
+{
+  "type": "node",
+  "id": 2634652369,
+  "lat": 46.4789940,
+  "lon": 23.4654880,
+  "tags": {
+    "SIRUTA:code": "0",
+    "addr:city": "Ocoliș",
+    "addr:housenumber": "6",
+    "addr:postcode": "517525",
+    "addr:street": "Strada Principală",
+    "codul_entității_muzeale": "7111760.0",
+    "name": "Expoziția Etnografică",
+    "name:en": "Ethnographic exhibition",
+    "opening_hours": "unknown",
+    "phone": "0258-776300, 0766-220245, 0784-203167",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "start_date": "2005",
+    "tourism": "museum",
+    "tourism_survey": "13.02.2013 13:12:38"
+  }
+},
+{
+  "type": "node",
+  "id": 2634652435,
+  "lat": 46.7710801,
+  "lon": 23.5897637,
+  "tags": {
+    "LMI": "CJ-II-m-B-07495",
+    "SIRUTA:code": "54984",
+    "addr:city": "Cluj-Napoca",
+    "addr:housenumber": "28",
+    "addr:postcode": "400113",
+    "addr:street": "Piața Unirii",
+    "alt_name": "Casa Mauksch-Hintz",
+    "codul_entității_muzeale": "6924501.0",
+    "description:ro": "Organizata in vechea farmacie a orasului Cluj.",
+    "email": "secretariat@mnit.museum.utcluj.ro",
+    "name": "Muzeul Farmaciei",
+    "name:de": "Apothekenmuseum",
+    "name:en": "Pharmaceutical Museum",
+    "name:hu": "Gyógyszerésztörténeti múzeum",
+    "opening_hours": "10:00-16:00; Sa-Su off",
+    "phone": "0264/597.567",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "start_date": "1963",
+    "tourism": "museum",
+    "tourism_survey": "02.11.2012 18:50:09",
+    "website": "http://www.mnit.ro",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2634652633,
+  "lat": 46.7522330,
+  "lon": 23.5146260,
+  "tags": {
+    "SIRUTA:code": "57715",
+    "addr:city": "Florești",
+    "addr:postcode": "407280",
+    "addr:street": "DN 1",
+    "codul_entității_muzeale": "5.1620000187E10",
+    "email": "rajac@rajaccj.ro",
+    "fax": "0264/591.444",
+    "museum_type": "Science and Technology",
+    "name": "Muzeul Apei",
+    "name:en": "Museum of Water",
+    "phone": "0264/591.444",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "tourism": "museum",
+    "tourism_survey": "17.09.2013 14:15:39"
+  }
+},
+{
+  "type": "node",
+  "id": 2634652872,
+  "lat": 46.7677640,
+  "lon": 23.5920940,
+  "tags": {
+    "SIRUTA:code": "54984",
+    "addr:city": "Cluj-Napoca",
+    "addr:country": "RO",
+    "addr:housenumber": "1",
+    "addr:postcode": "400084",
+    "addr:street": "Strada Mihail Kogălniceanu",
+    "codul_entității_muzeale": "7411111.0",
+    "email": "sliana@bioge.ubbcluj.ro",
+    "fax": "0264/591.906",
+    "museum_type": "Paleontology, Geology",
+    "name": "Muzeul de Paleontologie-Stratigrafie al Universității „Babeș-Bolyai”",
+    "name:en": "Palaeontological and Stratighraphical Museum of the \"Babes-Bolyai\" University",
+    "name:ro": "Muzeul de Paleontologie-Stratigrafie al Universității „Babeș-Bolyai”",
+    "opening_hours": "Mo-Fr 10:00-14:00 || \"on appointment\"",
+    "phone": "0264/405.300 (int. 5204)",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "tourism": "museum",
+    "tourism_survey": "04.12.2013 15:09:16",
+    "website": "https://www.ubbcluj.ro/ro/structura/muzee/muzeul_paleontologie"
+  }
+},
+{
+  "type": "node",
+  "id": 2634652941,
+  "lat": 46.7675540,
+  "lon": 23.5913470,
+  "tags": {
+    "SIRUTA:code": "54984",
+    "addr:city": "Cluj-Napoca",
+    "addr:country": "RO",
+    "addr:housenumber": "1",
+    "addr:postcode": "400084",
+    "addr:street": "Strada Mihail Kogălniceanu",
+    "codul_entității_muzeale": "5.1620000117E10",
+    "description:en": "The Mineralogical Museum of the \"Babes-Bolyai\" University has a long history and a rich scientific tradition. It was established as academic collection in 1919, inheriting a collection of samples from the Institute of Mineralogy (Franz Joszef University,",
+    "description:ro": "Muzeul de Mineralogie al Universitatii \"Babes-Bolyai\" are o istorie indelungata si o bogata traditie stiintifica. S-a constituit ca si colectie academica in 1919, preluand partial din colectiile Institutului de Mineralogie (Universitatea Franz Joszef, in",
+    "email": "danapop@bioge.ubbcluj.ro",
+    "fax": "0264/591.906",
+    "museum_type": "Mineralogy, Geology",
+    "name": "Muzeul de Mineralogie al Universității „Babeș-Bolyai”",
+    "name:en": "The Mineralogical Museum of the \"Babes-Bolyai\" University",
+    "name:ro": "Muzeul de Mineralogie al Universității „Babeș-Bolyai”",
+    "opening_hours": "Tu-Fr 11:00-14:00",
+    "phone": "0264/405.300 (int. 5121)",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "tourism": "museum",
+    "tourism_survey": "04.12.2013 15:10:20",
+    "website": "http://bioge.ubbcluj.ro/MuzeuMin/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2634653063,
+  "lat": 46.9882730,
+  "lon": 23.8119394,
+  "tags": {
+    "SIRUTA:code": "58151",
+    "addr:city": "Iclod",
+    "addr:postcode": "407375",
+    "codul_entității_muzeale": "5.1620000116E10",
+    "fixme": "Adresa muzeului este de fapt adresa localitati, trebuie cautat manual unde este adresa corecta",
+    "name": "Muzeul Sătesc",
+    "name:en": "Village Museum",
+    "opening_hours": "Mo, Tu, Th 8:00-16:00",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "start_date": "1993",
+    "tourism": "museum",
+    "tourism_survey": "26.04.2012 13:57:48"
+  }
+},
+{
+  "type": "node",
+  "id": 2634653070,
+  "lat": 46.7639409,
+  "lon": 23.5800271,
+  "tags": {
+    "SIRUTA:code": "54984",
+    "addr:city": "Cluj-Napoca",
+    "addr:housenumber": "5-7",
+    "addr:postcode": "400006",
+    "addr:street": "Strada Clinicilor",
+    "codul_entității_muzeale": "5.162000017E10",
+    "leisure": "garden",
+    "museum_type": "Natural Sciences - Zoology",
+    "name": "Vivariul Universității „Babeș-Bolyai”",
+    "name:en": "Vivarium of the \"Babes-Bolyai\" University",
+    "phone": "0264/595739 (int.115)",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "start_date": "2001",
+    "tourism": "museum",
+    "tourism_survey": "04.12.2013 15:09:09",
+    "website": "https://www.ubbcluj.ro/ro/structura/muzee/muzeul_vivariu"
+  }
+},
+{
+  "type": "node",
+  "id": 2634653094,
+  "lat": 46.7639890,
+  "lon": 23.5799710,
+  "tags": {
+    "SIRUTA:code": "54984",
+    "addr:city": "Cluj-Napoca",
+    "addr:housenumber": "5-7",
+    "addr:postcode": "400006",
+    "addr:street": "Strada Clinicilor",
+    "codul_entității_muzeale": "7411100.0",
+    "description:ro": "Muzeul Universitatii din Cluj a fost infiintat in 1859 ca o sectie a Muzeului Ardelean. Cuprinde 200.000 de piese de fauna romaneasca si din alte zone, pe o suprafata de 700 metri patrati.",
+    "email": "dceuca@biolog.ubbcluj.ro",
+    "leisure": "garden",
+    "museum_type": "Natural Sciences - Zoology",
+    "name": "Muzeul Zoologic al Universității „Babeș-Bolyai”",
+    "name:de": "Zoologisches Museum",
+    "name:en": "Zoological Museum of the \"Babes-Bolyai\" University",
+    "name:hu": "Állattani Múzeum",
+    "opening_hours": "9:00-15:00; Sa 10:00-14:00",
+    "operator": "Universitatea Babeș-Bolyai",
+    "phone": "0264/595.739 (int.121)",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "start_date": "1859",
+    "tourism": "museum",
+    "tourism_survey": "04.12.2013 15:09:12",
+    "website": "https://www.ubbcluj.ro/ro/structura/muzee/muzeul_universitatii",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4494263688,
+  "lat": 46.7621978,
+  "lon": 23.5877581,
+  "tags": {
+    "name": "Muzeul Botanic al Universității „Babeș-Bolyai”",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 5428923121,
+  "lat": 46.5864143,
+  "lon": 23.7928251,
+  "tags": {
+    "name:es": "minas de sal",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 5535518009,
+  "lat": 46.7806848,
+  "lon": 23.5884955,
+  "tags": {
+    "addr:city": "Cluj-Napoca",
+    "addr:housenumber": "1",
+    "addr:postcode": "400275",
+    "addr:street": "Strada Academician David Prodan",
+    "name": "Muzeul memorial David Prodan",
+    "operator": "Universitatea Babeș-Bolyai",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6356323436,
+  "lat": 46.7719776,
+  "lon": 23.5964495,
+  "tags": {
+    "level": "-1",
+    "name": "Muzeul Mitropoliei Clujului",
+    "opening_hours": "Mo off; Tu-Sa 10:00-16:00; Su 12:00-16:00",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6470522185,
+  "lat": 46.5841552,
+  "lon": 23.7776685,
+  "tags": {
+    "name": "Intrarea veche",
+    "name:en": "Old entrance to Salina Turda (can be used)",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6551718799,
+  "lat": 46.7710450,
+  "lon": 23.5898240,
+  "tags": {
+    "addr:postcode": "400113",
+    "description:en": "The exhibition functions in the oldest town pharmacy, and includes: typical furniture, faience vessels, old scales, and pharmacy laboratory instruments (over 3,000 objects).",
+    "description:ro": "Organizata in cea mai veche farmacie a orasului Cluj, expozitia prezinta mobilier specific, vase de faianta, cantare vechi, instrumente de laborator farmaceutic (circa 3.000 de obiecte).",
+    "email": "secretariat@mnit.museum.utcluj.ro",
+    "foundation_date": "1963",
+    "name": "Colectia de Istorie a Farmaciei",
+    "name:en": "History of Pharmacy Collection",
+    "opening_hours": "luni, marti, miercuri, vineri: 10:00 - 16:00; 10.00 -16.00; joi: 12.00 -18.00; sambata, duminica: inchis",
+    "phone": "(+40) 264597567",
+    "ref:codul_entitații_muzeale": "6924501",
+    "reviewed": "no",
+    "tourism": "museum",
+    "website": "http://www.mnit.ro"
+  }
+},
+{
+  "type": "node",
+  "id": 6551718805,
+  "lat": 46.7640104,
+  "lon": 23.5802493,
+  "tags": {
+    "addr:postcode": "400113",
+    "description:en": "Tibor Szervatiuzs, established since 1976 in the city of Budapest, in 1996 donated his father's work. The museum, located in an indoor garden, is actually composed of hundreds of exhibits donated to the Catholic Parish by the family of sculptors Szerva...",
+    "description:ro": "Szervatiuzs Tibor s-a stabilit incepand cu anul 1976 in orasul Budapesta, el a donat in 1996 comunitatii parohiale lucrarile tatalui sau, dar si cateva din cele personale. Muzeul situat intr-o gradina interioara este de fapt alcatuit din cele cateva su...",
+    "foundation_date": "1996",
+    "name": "Muzeul Szervatiuzs",
+    "name:en": "Szervatiuzs Museum",
+    "opening_hours": "9:00 - 16:00; Monday closed; The Treasure: Tuesday - Friday 11:00-14:00",
+    "phone": "(+40) 264595677",
+    "ref:codul_entitații_muzeale": "520203033",
+    "reviewed": "no",
+    "tourism": "museum",
+    "website": "https://www.welcometoromania.ro/Cluj/Cluj_Muzeul_Szervatiusz_r.htm"
+  }
+},
+{
+  "type": "node",
+  "id": 6551718809,
+  "lat": 46.7527959,
+  "lon": 23.6622440,
+  "tags": {
+    "addr:postcode": "400482",
+    "description:en": "The private folk art collection is in the house of Gheorghe Capusan. In two rooms there are more than 2000 items: folk garments, tools, textiles, religious books, lamps and other objects specific to Transylvania.",
+    "description:ro": "Muzeul este organizat in doua incaperi din gospodaria lui Gheorghe Capusan, amenajata in stil traditional, cu o poarta maramureseana la intrare. In muzeu sunt prezentate circa 2000 de piese: costume populare din zona Ardealului si Maramuresului, opinci...",
+    "email": "capusan.gheorghe@yahoo.ro",
+    "foundation_date": "2013",
+    "name": "Muzeul Poarta de su' Feleac",
+    "name:en": "Poarta de su' Feleac Museum",
+    "opening_hours": "by appointment",
+    "phone": "(+40) 766529550",
+    "ref:codul_entitații_muzeale": "7139851",
+    "reviewed": "no",
+    "tourism": "museum",
+    "website": "https://www.facebook.com/poartadesubfeleac?fref=ts"
+  }
+},
+{
+  "type": "node",
+  "id": 6558155986,
+  "lat": 46.9092071,
+  "lon": 23.7745810,
+  "tags": {
+    "name": "Kallos Zoltán hagyaték",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 43276243,
+  "nodes": [
+    5599488403,
+    5599488406,
+    5599488404,
+    1357493199,
+    1357493225,
+    543578499,
+    543578505,
+    5599488403
+  ],
+  "tags": {
+    "SIRUTA:code": "54984",
+    "addr:city": "Cluj-Napoca",
+    "addr:postcode": "400221",
+    "addr:street": "Strada Tăietura Turcului",
+    "codul_entității_muzeale": "7024601.0",
+    "email": "contact@muzeul-etnografic.ro",
+    "name": "Parcul Etnografic „Romulus Vuia”",
+    "name:en": "\"Romulus Vuia\" Ethnographic Park",
+    "opening_hours": "Tu-Su 09:00-17:00",
+    "operator": "Consiliul Județean Cluj",
+    "phone": "+4-0264-586776",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "start_date": "1929",
+    "tourism": "museum",
+    "website": "https://www.muzeul-etnografic.ro/",
+    "wikipedia": "ro:Parcul Etnografic „Romulus Vuia”"
+  }
+},
+{
+  "type": "way",
+  "id": 227756436,
+  "nodes": [
+    2364187751,
+    2364187738,
+    2364187721,
+    2364187713,
+    2364187743,
+    2364187732,
+    2364187733,
+    2364187709,
+    2364187752,
+    2364187730,
+    2364187726,
+    2364187723,
+    2364187751
+  ],
+  "tags": {
+    "name": "Muzeul Ethnoarheologic",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 237823690,
+  "nodes": [
+    2456879614,
+    2456879632,
+    2456879642,
+    2456879648,
+    2456879647,
+    2456879619,
+    2456879613,
+    2456879620,
+    2456879614
+  ],
+  "tags": {
+    "addr:city": "Cluj-Napoca",
+    "addr:country": "RO",
+    "addr:housenumber": "2",
+    "addr:postcode": "400020",
+    "addr:street": "Strada Constantin Daicoviciu",
+    "building": "yes",
+    "name": "Muzeul Național de Istorie a Transilvaniei",
+    "name:de": "Nationalmuseum für Siebenbürgische Geschichte",
+    "name:en": "National Museum of Transylvanian History",
+    "name:hu": "Erdély Nemzeti Történelmi Múzeum",
+    "note": "Currently closed for renovation",
+    "tourism": "museum",
+    "website": "http://www.mnit.ro/",
+    "wheelchair": "no",
+    "wikidata": "Q1327937"
+  }
+},
+{
+  "type": "way",
+  "id": 276163308,
+  "nodes": [
+    2807874819,
+    2807874604,
+    2807874247,
+    2807874638,
+    2807875089,
+    2807874823,
+    2807874225,
+    2807874615,
+    2807874637,
+    2807874626,
+    2807875082,
+    2807874819
+  ],
+  "tags": {
+    "addr:city": "Cluj-Napoca",
+    "addr:country": "RO",
+    "addr:housenumber": "16",
+    "addr:postcode": "400165",
+    "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+    "addr:street": "Strada Emil Racoviță",
+    "addr:unit": "1948",
+    "building": "yes",
+    "name": "Casa Muzeu Corneliu Radu Zăvoiu",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 340621222,
+  "nodes": [
+    3478658759,
+    3478658769,
+    3478658740,
+    3478658738,
+    3478658733,
+    3478658759
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Muzeul Bivolului din Mera",
+    "name:hu": "Mérai Bivalymúzeum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 340621224,
+  "nodes": [
+    3478658333,
+    3478658332,
+    3478658331,
+    3478658327,
+    3478658326,
+    3478658324,
+    3478658334,
+    3478658337,
+    3478658336,
+    3478658340,
+    3478658338,
+    3478658342,
+    3478658333
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Muzeul Etnografic Mera",
+    "name:hu": "Mérai Tájház",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 340621360,
+  "nodes": [
+    3478658738,
+    3478658718,
+    3478658722,
+    3478658740,
+    3478658738
+  ],
+  "tags": {
+    "building": "yes",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 340621381,
+  "nodes": [
+    3478658305,
+    3478658293,
+    3478658301,
+    3478658316,
+    3478658305
+  ],
+  "tags": {
+    "building": "yes",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 340622210,
+  "nodes": [
+    3478658329,
+    3478658320,
+    3478658310,
+    3478658315,
+    3478658319,
+    3478658322,
+    3478658329
+  ],
+  "tags": {
+    "building": "yes",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 464274171,
+  "nodes": [
+    4594083965,
+    4594083995,
+    4594083994,
+    4594083980,
+    4594083944,
+    4594084000,
+    4594083965
+  ],
+  "tags": {
+    "SIRUTA:code": "55268",
+    "addr:city": "Turda",
+    "addr:housenumber": "2",
+    "addr:postcode": "401154",
+    "addr:street": "Strada Bogdan Petriceicu Hașdeu",
+    "building": "yes",
+    "email": "muzeulturda@yahoo.com",
+    "fax": "0264/311.826",
+    "fee": "yes",
+    "name": "Muzeul de Istorie",
+    "name:en": "History Museum",
+    "opening_hours": "May-Aug: Tu-Fr 10:00-17:00; May-Aug: Sa-Su 11:00-19:00; Sep-Apr: Tu-Su 10:00-17:00; Mo off",
+    "phone": "0264/311.826",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "start_date": "1943",
+    "tourism": "museum",
+    "tourism_survey": "05.12.2013 11:37:36",
+    "website": "http://muzeu-turda.cimec.ro/"
+  }
+},
+{
+  "type": "way",
+  "id": 491322457,
+  "nodes": [
+    4834484655,
+    4834484654,
+    4834484653,
+    4834484652,
+    4834484655
+  ],
+  "tags": {
+    "addr:city": "Câmpia Turzii",
+    "addr:housenumber": "8",
+    "addr:street": "Strada Avram Iancu",
+    "building": "public",
+    "name": "Prima școala românească din Câmpia Turzii",
+    "tourism": "museum",
+    "wikipedia": "ro:Prima școala românească din Câmpia Turzii"
+  }
+},
+{
+  "type": "way",
+  "id": 508699186,
+  "nodes": [
+    4979558385,
+    4979558386,
+    4979558387,
+    4979558388,
+    4979558389,
+    4979558390,
+    4979558391,
+    4979558392,
+    4979558385
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Punct Muzeal",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4594083944,
+  "lat": 46.5718491,
+  "lon": 23.7846631
+},
+{
+  "type": "node",
+  "id": 4594083965,
+  "lat": 46.5721339,
+  "lon": 23.7845595
+},
+{
+  "type": "node",
+  "id": 4594083980,
+  "lat": 46.5718599,
+  "lon": 23.7843737
+},
+{
+  "type": "node",
+  "id": 4594083994,
+  "lat": 46.5720280,
+  "lon": 23.7843870
+},
+{
+  "type": "node",
+  "id": 4594083995,
+  "lat": 46.5720219,
+  "lon": 23.7845507
+},
+{
+  "type": "node",
+  "id": 4594084000,
+  "lat": 46.5721292,
+  "lon": 23.7846852
+},
+{
+  "type": "node",
+  "id": 4834484652,
+  "lat": 46.5490303,
+  "lon": 23.8852940
+},
+{
+  "type": "node",
+  "id": 4834484653,
+  "lat": 46.5489086,
+  "lon": 23.8856409
+},
+{
+  "type": "node",
+  "id": 4834484654,
+  "lat": 46.5489834,
+  "lon": 23.8856964
+},
+{
+  "type": "node",
+  "id": 4834484655,
+  "lat": 46.5491050,
+  "lon": 23.8853495
+},
+{
+  "type": "node",
+  "id": 3478658293,
+  "lat": 46.8134994,
+  "lon": 23.4526723
+},
+{
+  "type": "node",
+  "id": 3478658301,
+  "lat": 46.8135602,
+  "lon": 23.4526030
+},
+{
+  "type": "node",
+  "id": 3478658305,
+  "lat": 46.8135861,
+  "lon": 23.4528347
+},
+{
+  "type": "node",
+  "id": 3478658310,
+  "lat": 46.8136118,
+  "lon": 23.4528689
+},
+{
+  "type": "node",
+  "id": 3478658315,
+  "lat": 46.8136456,
+  "lon": 23.4529157
+},
+{
+  "type": "node",
+  "id": 3478658316,
+  "lat": 46.8136469,
+  "lon": 23.4527653
+},
+{
+  "type": "node",
+  "id": 3478658319,
+  "lat": 46.8136544,
+  "lon": 23.4529022
+},
+{
+  "type": "node",
+  "id": 3478658320,
+  "lat": 46.8136621,
+  "lon": 23.4527915
+},
+{
+  "type": "node",
+  "id": 3478658322,
+  "lat": 46.8136789,
+  "lon": 23.4529360
+},
+{
+  "type": "node",
+  "id": 3478658324,
+  "lat": 46.8136881,
+  "lon": 23.4529392
+},
+{
+  "type": "node",
+  "id": 3478658326,
+  "lat": 46.8137138,
+  "lon": 23.4530396
+},
+{
+  "type": "node",
+  "id": 3478658327,
+  "lat": 46.8137188,
+  "lon": 23.4530369
+},
+{
+  "type": "node",
+  "id": 3478658329,
+  "lat": 46.8137203,
+  "lon": 23.4528721
+},
+{
+  "type": "node",
+  "id": 3478658331,
+  "lat": 46.8137332,
+  "lon": 23.4530933
+},
+{
+  "type": "node",
+  "id": 3478658332,
+  "lat": 46.8137387,
+  "lon": 23.4530903
+},
+{
+  "type": "node",
+  "id": 3478658333,
+  "lat": 46.8137546,
+  "lon": 23.4531528
+},
+{
+  "type": "node",
+  "id": 3478658334,
+  "lat": 46.8137637,
+  "lon": 23.4528980
+},
+{
+  "type": "node",
+  "id": 3478658336,
+  "lat": 46.8137831,
+  "lon": 23.4530014
+},
+{
+  "type": "node",
+  "id": 3478658337,
+  "lat": 46.8137893,
+  "lon": 23.4529980
+},
+{
+  "type": "node",
+  "id": 3478658338,
+  "lat": 46.8137926,
+  "lon": 23.4530595
+},
+{
+  "type": "node",
+  "id": 3478658340,
+  "lat": 46.8137973,
+  "lon": 23.4530569
+},
+{
+  "type": "node",
+  "id": 3478658342,
+  "lat": 46.8138088,
+  "lon": 23.4531232
+},
+{
+  "type": "node",
+  "id": 3478658718,
+  "lat": 46.8150736,
+  "lon": 23.4542475
+},
+{
+  "type": "node",
+  "id": 3478658722,
+  "lat": 46.8150829,
+  "lon": 23.4543445
+},
+{
+  "type": "node",
+  "id": 3478658733,
+  "lat": 46.8151147,
+  "lon": 23.4540512
+},
+{
+  "type": "node",
+  "id": 3478658738,
+  "lat": 46.8151324,
+  "lon": 23.4542354
+},
+{
+  "type": "node",
+  "id": 3478658740,
+  "lat": 46.8151417,
+  "lon": 23.4543325
+},
+{
+  "type": "node",
+  "id": 3478658759,
+  "lat": 46.8151832,
+  "lon": 23.4540372
+},
+{
+  "type": "node",
+  "id": 3478658769,
+  "lat": 46.8152102,
+  "lon": 23.4543185
+},
+{
+  "type": "node",
+  "id": 543578499,
+  "lat": 46.7773689,
+  "lon": 23.5535374
+},
+{
+  "type": "node",
+  "id": 543578505,
+  "lat": 46.7778294,
+  "lon": 23.5513474
+},
+{
+  "type": "node",
+  "id": 5599488403,
+  "lat": 46.7791549,
+  "lon": 23.5516902
+},
+{
+  "type": "node",
+  "id": 1357493225,
+  "lat": 46.7770969,
+  "lon": 23.5572928
+},
+{
+  "type": "node",
+  "id": 5599488406,
+  "lat": 46.7791808,
+  "lon": 23.5576718
+},
+{
+  "type": "node",
+  "id": 1357493199,
+  "lat": 46.7771193,
+  "lon": 23.5604672
+},
+{
+  "type": "node",
+  "id": 5599488404,
+  "lat": 46.7775087,
+  "lon": 23.5605680
+},
+{
+  "type": "node",
+  "id": 2456879613,
+  "lat": 46.7717798,
+  "lon": 23.5861246
+},
+{
+  "type": "node",
+  "id": 2456879614,
+  "lat": 46.7715318,
+  "lon": 23.5859878
+},
+{
+  "type": "node",
+  "id": 2456879619,
+  "lat": 46.7718385,
+  "lon": 23.5861380
+},
+{
+  "type": "node",
+  "id": 2456879620,
+  "lat": 46.7716238,
+  "lon": 23.5862743
+},
+{
+  "type": "node",
+  "id": 2456879632,
+  "lat": 46.7713942,
+  "lon": 23.5860704
+},
+{
+  "type": "node",
+  "id": 2456879647,
+  "lat": 46.7718790,
+  "lon": 23.5862534
+},
+{
+  "type": "node",
+  "id": 2807874225,
+  "lat": 46.7761892,
+  "lon": 23.5854570
+},
+{
+  "type": "node",
+  "id": 2807874247,
+  "lat": 46.7762039,
+  "lon": 23.5851968
+},
+{
+  "type": "node",
+  "id": 2807874604,
+  "lat": 46.7761911,
+  "lon": 23.5851297
+},
+{
+  "type": "node",
+  "id": 2807874615,
+  "lat": 46.7761874,
+  "lon": 23.5853631
+},
+{
+  "type": "node",
+  "id": 2807874626,
+  "lat": 46.7762351,
+  "lon": 23.5854301
+},
+{
+  "type": "node",
+  "id": 2807874637,
+  "lat": 46.7762204,
+  "lon": 23.5853604
+},
+{
+  "type": "node",
+  "id": 2807874638,
+  "lat": 46.7761488,
+  "lon": 23.5851968
+},
+{
+  "type": "node",
+  "id": 2807874819,
+  "lat": 46.7762737,
+  "lon": 23.5851163
+},
+{
+  "type": "node",
+  "id": 2807874823,
+  "lat": 46.7761010,
+  "lon": 23.5854865
+},
+{
+  "type": "node",
+  "id": 2807875082,
+  "lat": 46.7763031,
+  "lon": 23.5854060
+},
+{
+  "type": "node",
+  "id": 2807875089,
+  "lat": 46.7760790,
+  "lon": 23.5852129
+},
+{
+  "type": "node",
+  "id": 2456879642,
+  "lat": 46.7715189,
+  "lon": 23.5865833
+},
+{
+  "type": "node",
+  "id": 2456879648,
+  "lat": 46.7715318,
+  "lon": 23.5865913
+},
+{
+  "type": "node",
+  "id": 2364187709,
+  "lat": 46.9779646,
+  "lon": 23.8137383
+},
+{
+  "type": "node",
+  "id": 2364187713,
+  "lat": 46.9777395,
+  "lon": 23.8135586
+},
+{
+  "type": "node",
+  "id": 2364187721,
+  "lat": 46.9777688,
+  "lon": 23.8134540
+},
+{
+  "type": "node",
+  "id": 2364187723,
+  "lat": 46.9780507,
+  "lon": 23.8134138
+},
+{
+  "type": "node",
+  "id": 2364187726,
+  "lat": 46.9780269,
+  "lon": 23.8135076
+},
+{
+  "type": "node",
+  "id": 2364187730,
+  "lat": 46.9779482,
+  "lon": 23.8134674
+},
+{
+  "type": "node",
+  "id": 2364187732,
+  "lat": 46.9777432,
+  "lon": 23.8137142
+},
+{
+  "type": "node",
+  "id": 2364187733,
+  "lat": 46.9779408,
+  "lon": 23.8138322
+},
+{
+  "type": "node",
+  "id": 2364187738,
+  "lat": 46.9778036,
+  "lon": 23.8134728
+},
+{
+  "type": "node",
+  "id": 2364187743,
+  "lat": 46.9777780,
+  "lon": 23.8135801
+},
+{
+  "type": "node",
+  "id": 2364187751,
+  "lat": 46.9778475,
+  "lon": 23.8133011
+},
+{
+  "type": "node",
+  "id": 2364187752,
+  "lat": 46.9778914,
+  "lon": 23.8137008
+},
+{
+  "type": "node",
+  "id": 4979558385,
+  "lat": 47.0783142,
+  "lon": 23.5228696
+},
+{
+  "type": "node",
+  "id": 4979558386,
+  "lat": 47.0783317,
+  "lon": 23.5230307
+},
+{
+  "type": "node",
+  "id": 4979558387,
+  "lat": 47.0786719,
+  "lon": 23.5229117
+},
+{
+  "type": "node",
+  "id": 4979558388,
+  "lat": 47.0786195,
+  "lon": 23.5224703
+},
+{
+  "type": "node",
+  "id": 4979558389,
+  "lat": 47.0784326,
+  "lon": 23.5225229
+},
+{
+  "type": "node",
+  "id": 4979558390,
+  "lat": 47.0784473,
+  "lon": 23.5226519
+},
+{
+  "type": "node",
+  "id": 4979558391,
+  "lat": 47.0785262,
+  "lon": 23.5226300
+},
+{
+  "type": "node",
+  "id": 4979558392,
+  "lat": 47.0785466,
+  "lon": 23.5227989
+}
+
+  ]
+}

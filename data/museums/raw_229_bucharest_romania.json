@@ -1,0 +1,4159 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-14T14:21:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 449745388,
+  "lat": 44.4985451,
+  "lon": 26.0752517,
+  "tags": {
+    "addr:city": "București",
+    "addr:country": "RO",
+    "addr:housenumber": "4",
+    "addr:postcode": "013813",
+    "addr:street": "Bulevardul Ion Ionescu de la Brad",
+    "name": "Casa lui Nae Ionescu și a Mareșalului Ion Antonescu",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 450651523,
+  "lat": 44.4690901,
+  "lon": 26.0933052,
+  "tags": {
+    "is_in:city": "București",
+    "name": "Fosta locuință a lui Nicolae Ceaușescu",
+    "name:de": "Ehemaliges Haus von Nicolae Ceausescu",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 2634651829,
+  "lat": 44.4486460,
+  "lon": 26.0928150,
+  "tags": {
+    "LMI": "B-II-m-B-271",
+    "SIRUTA:code": "179141",
+    "addr:city": "București",
+    "addr:housenumber": "21",
+    "addr:postcode": "010662",
+    "addr:street": "Bulevardul Lascăr Catargiu",
+    "codul_entității_muzeale": "7083506.0",
+    "email": "dialog@astro-urseanu.ro",
+    "leisure": "garden",
+    "man_made": "telescope",
+    "museum_type": "Natural Sciences - Observatory",
+    "name": "Observatorul Astronomic Municipal \"Amiral Vasile Urseanu\" Bucuresti",
+    "name:en": "\"Admiral Vasile Urseanu\" Bucharest City Observatory",
+    "opening_hours": "17:00-21:00; Mo,Tu closed",
+    "phone": "021/212.96.44",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "start_date": "1956",
+    "tourism": "museum",
+    "tourism_survey": "21.10.2013 14:39:41",
+    "website": "http://www.astro-urseanu.ro"
+  }
+},
+{
+  "type": "node",
+  "id": 2634651866,
+  "lat": 44.5276500,
+  "lon": 25.9926440,
+  "tags": {
+    "SIRUTA:code": "17472",
+    "addr:city": "Mogoșoaia",
+    "addr:housenumber": "1",
+    "addr:postcode": "077135",
+    "addr:street": "Strada Valea Parcului",
+    "codul_entității_muzeale": "7300202.0",
+    "description:en": "The museum is organized in the palace built in 1702 by Constatin Brancoveanu.",
+    "description:ro": "Organizat in Palatul construit, in 1702, de Constantin Brancoveanu.",
+    "email": "office@palatebrancovenesti.ro",
+    "fax": "021/350.66.18",
+    "name": "Centrul de Cultură „Palatele Brâncovenești de la Porțile Bucureștiului”",
+    "name:en": "\"Brancovan Palaces at the Bucharest Gates\" Cultural Centre",
+    "opening_hours": "Apr-Sep 10:00-19:00; Oct-Mar 09:00-17:00; Mo closed",
+    "phone": "+4021 350 6620",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "start_date": "2000",
+    "tourism": "museum",
+    "tourism_survey": "30.11.2011 13:47:00",
+    "website": "https://www.palatebrancovenesti.ro/ro/"
+  }
+},
+{
+  "type": "node",
+  "id": 2634651869,
+  "lat": 44.4461300,
+  "lon": 26.1089080,
+  "tags": {
+    "LMI": "B-II-m-B-18550",
+    "SIRUTA:code": "179150",
+    "addr:city": "București",
+    "addr:housenumber": "105",
+    "addr:postcode": "010406",
+    "addr:street": "Bulevardul Dacia",
+    "codul_entității_muzeale": "7083503.0",
+    "description:en": "It is organized in the building where the great actor C. I. Nottara and his son, composer C. C. Nottara, lived.",
+    "description:ro": "Organizat in cladirea in care au trait marele actor C. I. Nottara si fiul sau, compozitorul C. C. Nottara, avand la baza donatiile facute de Ana C. Nottara.",
+    "historic": "memorial",
+    "name": "Muzeul Memorial \"C.I. si C.C. Nottara\"",
+    "name:en": "\"C.I. and C.C. Nottara\" Memorial Museum",
+    "opening_hours": "9:00-16:30; Mo closed",
+    "phone": "021/210.38.23; 021/613.85.15",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "start_date": "1956",
+    "tourism": "museum",
+    "tourism_survey": "30.09.2013 12:50:47"
+  }
+},
+{
+  "type": "node",
+  "id": 2634651874,
+  "lat": 44.4283890,
+  "lon": 26.1079610,
+  "tags": {
+    "SIRUTA:code": "179169",
+    "addr:city": "București",
+    "addr:housenumber": "3",
+    "addr:postcode": "030771",
+    "addr:street": "Strada Mămulari",
+    "codul_entității_muzeale": "6402000.0",
+    "fax": "021/315.10.45",
+    "museum_type": "History",
+    "name": "Muzeul de Istorie a Evreilor din România \"sef rabin Dr. Moses Rosen\"",
+    "name:en": "\"Chief-Rabbi Dr. Moses Rosen\" History Museum of the Jews in Romania",
+    "opening_hours": "Mo,We 09:00-13:00; Th 09:00-12:30,15:00-18:00",
+    "phone": "021/311.08.70",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "start_date": "1978",
+    "tourism": "museum",
+    "tourism_survey": "11.12.2013 13:29:24",
+    "website": "http://romanianjewish.org/ro"
+  }
+},
+{
+  "type": "node",
+  "id": 2634651890,
+  "lat": 44.4503170,
+  "lon": 26.0964480,
+  "tags": {
+    "SIRUTA:code": "179141",
+    "addr:city": "București",
+    "addr:housenumber": "4",
+    "addr:postcode": "010602",
+    "addr:street": "Strada Ion Slătineanu",
+    "codul_entității_muzeale": "7300208.0",
+    "historic": "memorial",
+    "name": "Casa Memorială \"Constantin Joja\"",
+    "name:en": "\"Constantin Joja\" Memorial House",
+    "opening_hours": "10:00-16:00",
+    "phone": "0216/593.210",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "tourism": "museum",
+    "tourism_survey": "03.10.2013 16:08:17"
+  }
+},
+{
+  "type": "node",
+  "id": 2634651900,
+  "lat": 44.4369000,
+  "lon": 26.0663620,
+  "tags": {
+    "SIRUTA:code": "179196",
+    "addr:city": "București",
+    "addr:housenumber": "32",
+    "addr:postcode": "060114",
+    "addr:street": "Șoseaua Cotroceni",
+    "alt_name:ro": "Grădina Botanică „Dimitrie Brândză” a Universității din București",
+    "codul_entității_muzeale": "7419400.0",
+    "description:ro": "Sub domnia lui Al. I. Cuza, se inaugureaza Gradina Botanica, pe locul actualei gradini, se construisc primele sere, dar, in 1870, este mutata in Gradina sutu. Dr. Dimitrie Brandza reuseste ca, in 1884, sa readuca Gradina Botanica pe fostul ei teren.",
+    "leisure": "garden",
+    "museum_type": "Natural Sciences - Botanics",
+    "name": "Grădina Botanică",
+    "name:en": "\"Dimitrie Brandza\" Botanic Garden",
+    "old_name:en": "Bucharest Botanical Garden",
+    "old_name:ro": "Grădina Botanică din București",
+    "opening_hours": "Apr-Sep 08:00-19:00; Oct-Mar 09:00-17:00; Mo off",
+    "phone": "+4021 410 9139",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "start_date": "1860",
+    "tourism": "museum",
+    "wikidata": "Q2616933",
+    "wikipedia": "ro:Grădina Botanică din București"
+  }
+},
+{
+  "type": "node",
+  "id": 2634651903,
+  "lat": 44.4322040,
+  "lon": 26.0740940,
+  "tags": {
+    "SIRUTA:code": "179187",
+    "addr:city": "București",
+    "addr:housenumber": "14",
+    "addr:postcode": "050527",
+    "addr:street": "Strada Doctor Jean Clunet",
+    "codul_entității_muzeale": "7300210.0",
+    "email": "national.art@art.museum.ro",
+    "historic": "memorial",
+    "name": "Muzeul Memorial \"Dimitrie și Aurelia Ghiata\"",
+    "name:en": "\"Dimitrie and Aurelia Ghiata\" Memorial Museum",
+    "opening_hours": "closed",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "start_date": "1992",
+    "tourism": "museum",
+    "tourism_survey": "30.09.2013 12:50:47",
+    "wikidata": "Q18542262"
+  }
+},
+{
+  "type": "node",
+  "id": 2634651916,
+  "lat": 44.4600650,
+  "lon": 26.0913290,
+  "tags": {
+    "LMI": "B-II-m-B-1927",
+    "SIRUTA:code": "179141",
+    "addr:city": "București",
+    "addr:housenumber": "14A",
+    "addr:postcode": "011843",
+    "addr:street": "Strada Poet Andrei Mureșanu",
+    "codul_entității_muzeale": "7083504.0",
+    "description:ro": "Muzeul a luat fiinta in anul 1954 pe baza donatiei facute de Mircea V. Babes si a fost inaugurat in 1955 in frumoasa vila din strada Andrei Muresanu.",
+    "historic": "memorial",
+    "museum_type": "Memorials -",
+    "name": "Muzeul Memorial \"Dr. Victor Babeș\"",
+    "name:en": "\"Dr. Victor Babes\" Memorial Museum",
+    "opening_hours": "10:00-16:00; Mo,Tu closed",
+    "phone": "021/230.23.02",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "start_date": "1954",
+    "tourism": "museum",
+    "tourism_survey": "30.09.2013 12:50:47",
+    "website": "http://museum.ici.ro/mbucur/romanian/babes.htm"
+  }
+},
+{
+  "type": "node",
+  "id": 2634651927,
+  "lat": 44.4842560,
+  "lon": 26.0746510,
+  "tags": {
+    "LMI": "B-II-m-A-19206",
+    "SIRUTA:code": "179141",
+    "addr:city": "București",
+    "addr:housenumber": "3",
+    "addr:postcode": "013712",
+    "addr:street": "Strada Dr. Nicolae Minovici",
+    "codul_entității_muzeale": "7300205.0",
+    "name": "Muzeul de Artă Veche Apuseană \"Ing. Dumitru Minovici\"",
+    "name:en": "\"Eng. Dumitru Minovici\" Western Old Art Museum",
+    "opening_hours": "Tu-Su 9:00-17:00",
+    "phone": "0216/657.334",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "start_date": "1946",
+    "tourism": "museum",
+    "tourism_survey": "05.12.2013 11:37:34",
+    "website": "http://muzeuldeartavecheapuseana.blogspot.com/",
+    "wikidata": "Q18542195"
+  }
+},
+{
+  "type": "node",
+  "id": 2634651941,
+  "lat": 44.4621620,
+  "lon": 26.0995460,
+  "tags": {
+    "LMI": "B-II-m-B-18411",
+    "SIRUTA:code": "179141",
+    "addr:city": "București",
+    "addr:housenumber": "53",
+    "addr:postcode": "011692",
+    "addr:street": "Strada George Călinescu",
+    "codul_entității_muzeale": "7300402.0",
+    "historic": "memorial",
+    "name": "Muzeul Memorial \"George Călinescu\"",
+    "name:en": "\"George Calinescu\" Memorial Museum",
+    "opening_hours": "Tu,Fr 10:00-14:00; Mo closed",
+    "phone": "021/231.31.63",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "tourism": "museum",
+    "tourism_survey": "30.09.2013 12:50:47",
+    "wikidata": "Q18542263"
+  }
+},
+{
+  "type": "node",
+  "id": 2634651946,
+  "lat": 44.4486790,
+  "lon": 26.0883000,
+  "tags": {
+    "LMI": "B-II-m-A-19869",
+    "SIRUTA:code": "179141",
+    "addr:city": "București",
+    "addr:housenumber": "141",
+    "addr:postcode": "010071",
+    "addr:street": "Calea Victoriei",
+    "codul_entității_muzeale": "7300203.0",
+    "description:en": "In 1967, Maria Cantacuzino - Enescu, G. Enescu's widow, donated the building.",
+    "description:ro": "in 1967, Maria Cantacuzino-Enescu, vaduva lui G. Enescu, doneaza imobilul.",
+    "email": "office@georgeenescu.ro; muzeu.enescu@rdsmail.ro",
+    "fax": "021/312.91.82",
+    "name": "Muzeul Național \"George Enescu\"",
+    "name:en": "\"George Enescu\" National Museum",
+    "opening_hours": "10:00-17:00; Mo closed",
+    "phone": "021/318.14.50; 021/318.14.49",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "start_date": "1956",
+    "tourism": "museum",
+    "tourism_survey": "17.12.2013 12:21:07",
+    "website": "https://www.georgeenescu.ro/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2634651950,
+  "lat": 44.3970060,
+  "lon": 26.1012410,
+  "tags": {
+    "SIRUTA:code": "179178",
+    "addr:city": "București",
+    "addr:housenumber": "63",
+    "addr:postcode": "040691",
+    "addr:street": "Strada George Bacovia",
+    "codul_entității_muzeale": "7300407.0",
+    "description:en": "The museum was organized in the house where the poet lived, between 1933 and 1957 and inaugurated in 1966.",
+    "description:ro": "Organizat in casa in care a locuit poetul, intre anii 1933 - 1957, muzeul a fost inaugurat in 1966.",
+    "historic": "memorial",
+    "name": "Casa Memorială \"George și Agatha Bacovia\"",
+    "name:en": "\"George and Agatha Bacovia\" Memorial House",
+    "opening_hours": "We-Fr 10:00-17:00; Mo,Tu closed",
+    "phone": "021/332.45.47",
+    "source": "Bing, survey, keypad mapper, vespucci",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "start_date": "1958",
+    "tourism": "museum",
+    "tourism_survey": "03.10.2013 16:08:28",
+    "website": "http://www.mlr.ro/newindex.htm"
+  }
+},
+{
+  "type": "node",
+  "id": 2634651951,
+  "lat": 44.4337019,
+  "lon": 26.0952910,
+  "tags": {
+    "LMI": "B-II-m-B-18607",
+    "SIRUTA:code": "179187",
+    "addr:city": "București",
+    "addr:postcode": "050034",
+    "codul_entității_muzeale": "7084102.0",
+    "email": "mmb@b.astral.ro",
+    "fax": "021/310.25.62",
+    "historic": "memorial",
+    "name": "Muzeul Memorial \"Gh. M. Tattarescu\"",
+    "name:en": "\"Gh. M. Tattarescu\" Memorial Museum",
+    "opening_hours": "closed",
+    "phone": "021/314.10.06",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "start_date": "1953",
+    "tourism": "museum",
+    "tourism_survey": "05.12.2013 11:37:34"
+  }
+},
+{
+  "type": "node",
+  "id": 2634651959,
+  "lat": 44.4531130,
+  "lon": 26.0846380,
+  "tags": {
+    "LMI": "B-II-m-A-18983",
+    "SIRUTA:code": "179141",
+    "addr:city": "București",
+    "addr:housenumber": "1",
+    "addr:postcode": "011341",
+    "addr:street": "Șoseaua Pavel Dimitrievici Kiseleff",
+    "codul_entității_muzeale": "7419300.0",
+    "description:en": "The first collections, from 1834, belonging to Saint Sava College, are the basis of the museum.",
+    "description:ro": "Primele colectii, din 1834, apartinand Colegiului Sf. Sava, stau la baza constituirii muzeului.",
+    "email": "dmurariu@antipa.ro; auroras@antipa.ro (Sectia de marketing cultural si pedagogie muzeala)",
+    "fax": "021/312.88.63; 021/312.88.86",
+    "leisure": "garden",
+    "museum_type": "Natural Sciences - Zoology",
+    "name": "Muzeul Național de Istorie Naturală \"Grigore Antipa\"",
+    "name:en": "\"Grigore Antipa\" Natural History National Museum",
+    "opening_hours": "Tu-Su 10:00-20:00",
+    "phone": "021/312.88.63; 021/312.88.26",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "start_date": "1908",
+    "tourism": "museum",
+    "tourism_survey": "13.01.2014 12:23:47",
+    "website": "https://www.antipa.ro/; http://www.muzeul-antipa.ro/",
+    "wheelchair": "no",
+    "wikidata": "Q3330898"
+  }
+},
+{
+  "type": "node",
+  "id": 2634651973,
+  "lat": 44.4365770,
+  "lon": 26.1035940,
+  "tags": {
+    "SIRUTA:code": "179150",
+    "addr:city": "București",
+    "addr:housenumber": "2-4",
+    "addr:postcode": "010051",
+    "addr:street": "Bulevardul Nicolae Bălcescu",
+    "codul_entității_muzeale": "8.8600201E7",
+    "email": "tnbcomunicare@gmail.com",
+    "name": "Muzeul Teatrului Național „Ion Luca Caragiale”",
+    "name:en": "\"I.L. Caragiale\" National Theatre Museum",
+    "opening_hours": "10:00-13:00;Mo 10:00-13:00 || \"during performances closed\"",
+    "phone": "0216/139.175",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "start_date": "2001",
+    "tourism": "museum",
+    "tourism_survey": "07.12.2011 16:22:50",
+    "website": "https://www.tnb.ro/index.php?page=muzeul-tnb-film-cu-muzeul",
+    "wikidata": "Q6695864",
+    "wikipedia": "en:Luca Caragiale"
+  }
+},
+{
+  "type": "node",
+  "id": 2634651992,
+  "lat": 44.4346780,
+  "lon": 26.0670390,
+  "tags": {
+    "SIRUTA:code": "179196",
+    "addr:city": "București",
+    "addr:housenumber": "19",
+    "addr:postcode": "050482",
+    "addr:street": "Bulevardul Profesor Doctor Gheorghe Marinescu",
+    "codul_entității_muzeale": "7300405.0",
+    "historic": "memorial",
+    "name": "Casa Memorială \"Ion Minulescu\"",
+    "name:en": "\"Ion Minulescu\" Memorial House",
+    "opening_hours": "10:00-17:00; Mo closed",
+    "phone": "021/317.90.41",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "start_date": "1991",
+    "tourism": "museum",
+    "tourism_survey": "03.10.2013 16:08:28",
+    "website": "http://www.mlr.ro/newindex.htm"
+  }
+},
+{
+  "type": "node",
+  "id": 2634652010,
+  "lat": 44.4413922,
+  "lon": 26.0764826,
+  "tags": {
+    "SIRUTA:code": "179141",
+    "addr:city": "București",
+    "addr:housenumber": "125-127",
+    "addr:postcode": "010819",
+    "addr:street": "Strada Mircea Vulcănescu",
+    "codul_entității_muzeale": "7510100.0",
+    "email": "relatii.publice@muzeulmilitar.ro",
+    "fax": "021/319.59.03",
+    "name": "Muzeul Militar Național \"Regele Ferdinand I\"",
+    "name:en": "\"King Ferdinand I\" National Military Museum",
+    "opening_hours": "9:00-17:00; Mo,Tu closed",
+    "phone": "021/319.59.04; 021/319.60.15; 021/319.59.07",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "start_date": "1923",
+    "tourism": "museum",
+    "tourism_survey": "13.12.2013 11:40:30",
+    "website": "https://www.mapn.ro/smg/muzeumilitar/index.html"
+  }
+},
+{
+  "type": "node",
+  "id": 2634652016,
+  "lat": 44.4348350,
+  "lon": 26.0670240,
+  "tags": {
+    "SIRUTA:code": "179196",
+    "addr:city": "București",
+    "addr:housenumber": "19",
+    "addr:postcode": "050482",
+    "addr:street": "Bulevardul Profesor Doctor Gheorghe Marinescu",
+    "codul_entității_muzeale": "7300406.0",
+    "historic": "memorial",
+    "name": "Casa Memorială \"Liviu Rebreanu - Fanny Rebreanu\"",
+    "name:en": "\"Liviu Rebreanu and Fanny Rebreanu\" Memorial House",
+    "opening_hours": "10:00-17:00; Mo closed",
+    "phone": "021/317.90.42",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "start_date": "1992",
+    "tourism": "museum",
+    "tourism_survey": "27.09.2013 12:54:12",
+    "website": "http://www.mlr.ro/newindex.htm"
+  }
+},
+{
+  "type": "node",
+  "id": 2634652025,
+  "lat": 44.4357910,
+  "lon": 26.0839250,
+  "tags": {
+    "LMI": "B-II-m-B-19375",
+    "SIRUTA:code": "179141",
+    "addr:city": "București",
+    "addr:housenumber": "12",
+    "addr:postcode": "010216",
+    "addr:street": "Strada Vasile Pârvan",
+    "codul_entității_muzeale": "7241100.0",
+    "name": "Colecția Memorială \"Maria Filotti\"",
+    "name:en": "\"Maria Filotti\" Memorial Collection",
+    "opening_hours": "unknown",
+    "phone": "0216/137/272",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "tourism": "museum",
+    "tourism_survey": "30.09.2013 12:50:47"
+  }
+},
+{
+  "type": "node",
+  "id": 2634652026,
+  "lat": 44.4474241,
+  "lon": 26.0929281,
+  "tags": {
+    "LMI": "B-II-m-B-18442",
+    "SIRUTA:code": "179141",
+    "addr:city": "București",
+    "addr:postcode": "010668",
+    "codul_entității_muzeale": "7083501.0",
+    "description:en": "The collection was donated to the History Museum of the city of Bucharest as a result of the desire of the well known radiologist dr. George Severeanu before his premature death in 1939. The first donation was made by Maria Severeanu in 1939. The collect",
+    "description:ro": "Colectia a fost donata Muzeului de Istorie a Municipiului Bucuresti ca urmare a dorintei exprimate de cunoscutul medic radiolog si pasionat colectionar numismat Dr. George Severeanu inainte de disparitia sa prematura, la 20 septembrie 1939. Prima donatie",
+    "name": "Colecția \"Maria și Dr. George Severeanu\"",
+    "name:en": "\"Maria and Dr. George Severeanu\" Collection",
+    "opening_hours": "closed",
+    "phone": "0216317.96.48",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "start_date": "1956",
+    "tourism": "museum",
+    "tourism_survey": "28.08.2013 13:01:43",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2634652031,
+  "lat": 44.4261410,
+  "lon": 26.0938670,
+  "tags": {
+    "SIRUTA:code": "179187",
+    "addr:city": "București",
+    "addr:housenumber": "29",
+    "addr:postcode": "040111",
+    "addr:street": "Strada Antim",
+    "codul_entității_muzeale": "5.110000007E9",
+    "name": "Muzeul \"Mitropolit Antim Ivireanul\"",
+    "name:en": "\"Metropolitan Bishop Antim Ivireanu\" Museum",
+    "phone": "021/614.10.60",
+    "source": "survey, field survey ( 2014 - 2016)",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "tourism": "museum",
+    "tourism_survey": "25.04.2012 12:55:25"
+  }
+},
+{
+  "type": "node",
+  "id": 2634652102,
+  "lat": 44.4842896,
+  "lon": 26.0754207,
+  "tags": {
+    "LMI": "B-II-m-A-19207",
+    "SIRUTA:code": "179141",
+    "addr:city": "București",
+    "addr:housenumber": "1",
+    "addr:postcode": "013712",
+    "addr:street": "Strada Doctor Nicolae Minovici",
+    "codul_entității_muzeale": "7083509.0",
+    "description:en": "The house, together with the collection items, became available to the public in 1914, but only in 1936 were they donated to the town of Bucharest, in order to form a folk art museum.",
+    "email": "muzeul.minovici@muzeulbucurestiului.ro",
+    "name": "Muzeul de Artă Populară \"Prof. Dr. Nicolae Minovici\"",
+    "name:en": "\"Prof. Dr. Nicolae Minovici\" Folk Art Museum",
+    "opening_hours": "closed",
+    "phone": "021/222.48.66",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "start_date": "1915",
+    "tourism": "museum",
+    "tourism_survey": "21.10.2013 14:52:31",
+    "website": "http://www.minovici.ro/",
+    "wikidata": "Q12736104"
+  }
+},
+{
+  "type": "node",
+  "id": 2634652103,
+  "lat": 44.4170310,
+  "lon": 26.0965260,
+  "tags": {
+    "LMI": "B-II-m-B-19461",
+    "SIRUTA:code": "179187",
+    "addr:city": "București",
+    "addr:postcode": "040583",
+    "codul_entității_muzeale": "7520100.0",
+    "description:en": "The museum was founded by professor engineer Dimitrie Leonida in 1909, modelled on the Technical Museum in Munich (1903), that Leonida visited during his university studies at the polytechnic institute of Charlottenburg (1903 - 1908), near Berlin. Dimitr",
+    "description:ro": "Muzeul a fost infiintat de prof. ing. Dimitrie Leonida in anul 1909, avand ca model Muzeul Tehnic din M?nchen (1903), vizitat de Leonida in perioada studiilor universitare efectuate la Politehnica din Charlottenburg (1903 - 1908), langa Berlin. Dimitrie",
+    "email": "mirela.pestritu@electricaserv.ro; muzel_tehnic_leonida@yahoo.com",
+    "fax": "021/336.77.77",
+    "museum_type": "Science and Technology",
+    "name": "Muzeul Național Tehnic \"Prof. ing. Dimitrie Leonida\"",
+    "name:en": "\"Prof. Eng. Dimitrie Leonida\" National Technological Museum",
+    "phone": "021/336.77.77; 021/336.93.90",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "start_date": "1909",
+    "toilets:wheelchair": "no",
+    "tourism": "museum",
+    "tourism_survey": "10.12.2013 12:32:42",
+    "website": "http://www.mnt-leonida.ro",
+    "wheelchair": "yes",
+    "wikidata": "Q3080132"
+  }
+},
+{
+  "type": "node",
+  "id": 2634652134,
+  "lat": 44.4300555,
+  "lon": 26.1012742,
+  "tags": {
+    "LMI": "B-II-a-A-18779",
+    "SIRUTA:code": "179150",
+    "addr:city": "București",
+    "addr:housenumber": "25-31",
+    "addr:postcode": "030103",
+    "addr:street": "Strada Franceză",
+    "codul_entității_muzeale": "7083507.0",
+    "email": "muzeucurteaveche@yahoo.com",
+    "museum_type": "Site Museum",
+    "name": "\"Curtea Veche\" - Palatul Voievodal",
+    "name:en": "\"The Old Court\" - Princely Palace",
+    "opening_hours": "10:00-18:00",
+    "phone": "021/314.03.75",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "start_date": "1972",
+    "tourism": "museum",
+    "tourism_survey": "10.12.2013 12:30:29"
+  }
+},
+{
+  "type": "node",
+  "id": 2634652136,
+  "lat": 44.4402460,
+  "lon": 26.0981800,
+  "tags": {
+    "LMI": "B-II-m-A-19621",
+    "SIRUTA:code": "179141",
+    "addr:city": "București",
+    "addr:housenumber": "8",
+    "addr:postcode": "010283",
+    "addr:street": "Strada C. A. Rosetti",
+    "codul_entității_muzeale": "7084101.0",
+    "description:en": "Organized as a result of a 1904 donation by Ana Aman, the painter's wife, in the house built in 1869, after the designs of the artist and decorated by him.",
+    "description:ro": "Organizat ca urmare a donatiei, din 1904, a Anei Aman, sotia pictorului, in casa construita, in 1869, dupa planurile artistului si decorata de el insusi.",
+    "name": "Muzeul \"Theodor Aman\"",
+    "name:en": "\"Theodor Aman\" Museum",
+    "opening_hours": "closed",
+    "phone": "021/314.58.12; 021/313.85.15",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "start_date": "1908",
+    "tourism": "museum",
+    "tourism_survey": "23.09.2013 13:38:07",
+    "website": "http://museum.ici.ro/mbucur/romanian/theodoraman.htm",
+    "wheelchair": "no",
+    "wikidata": "Q12736101"
+  }
+},
+{
+  "type": "node",
+  "id": 2634652138,
+  "lat": 44.4391285,
+  "lon": 26.1135448,
+  "tags": {
+    "SIRUTA:code": "179150",
+    "addr:city": "București",
+    "addr:housenumber": "22",
+    "addr:postcode": "020775",
+    "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+    "addr:street": "Strada Spătarului",
+    "codul_entității_muzeale": "7300211.0",
+    "description:en": "The building has functioned as a museum since 1971. It reopened in 1994 after a restoration period.",
+    "email": "national.art@art.museum.ro",
+    "heritage": "2",
+    "heritage:operator": "lmi",
+    "name": "Muzeul \"Theodor Pallady\"",
+    "name:en": "\"Theodor Pallady\" Museum",
+    "opening_hours": "Apr-Sep 11:00-19:00; Oct-Mar 10:00-18:00; Mo,Tu closed",
+    "phone": "021/211.49.79",
+    "ref:RO:lmi": "B-II-m-A-19723",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "start_date": "1971",
+    "tourism": "museum",
+    "tourism_survey": "27.08.2013 12:01:39",
+    "website": "http://www.mnar.arts.ro/",
+    "wikidata": "Q7781611"
+  }
+},
+{
+  "type": "node",
+  "id": 2634652142,
+  "lat": 44.3972410,
+  "lon": 26.1177170,
+  "tags": {
+    "LMI": "B-II-m-B-19174",
+    "SIRUTA:code": "179187",
+    "addr:city": "București",
+    "addr:housenumber": "26",
+    "addr:postcode": "041242",
+    "addr:street": "Strada Mărțișor",
+    "codul_entității_muzeale": "7300401.0",
+    "description:en": "Organized in the house where the poet lived, from 1930.",
+    "description:ro": "Organizata in casa in care a locuit poetul, incepand cu 1930.",
+    "historic": "memorial",
+    "name": "Casa Memorială \"Tudor Arghezi\"",
+    "name:en": "\"Tudor Arghezi\" Memorial House",
+    "opening_hours": "10:00-18:00; Mo closed",
+    "phone": "021/332.59.00",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "start_date": "1967",
+    "tourism": "museum",
+    "tourism_survey": "30.09.2013 12:50:47",
+    "website": "http://www.mlr.ro/newindex.htm"
+  }
+},
+{
+  "type": "node",
+  "id": 2634652153,
+  "lat": 44.4422775,
+  "lon": 26.1080550,
+  "tags": {
+    "SIRUTA:code": "179150",
+    "addr:city": "București",
+    "addr:housenumber": "29",
+    "addr:postcode": "020482",
+    "addr:street": "Strada Maria Rosetti",
+    "codul_entității_muzeale": "7300212.0",
+    "email": "muzeul_v_grigore@yahoo.com",
+    "fax": "021/211.54.09",
+    "name": "Muzeul de Artă \"Vasile Grigore - Pictor și Colecționar\"",
+    "name:en": "\"Vasile Grigore - Painter and Collector\" Art Museum",
+    "opening_hours": "9:00-17:00; Mo,Tu closed",
+    "phone": "021/211.54.09",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "start_date": "2003",
+    "tourism": "museum",
+    "tourism_survey": "13.01.2014 12:24:06",
+    "website": "http://www.muzeul-vasile-grigore.ro/",
+    "wikidata": "Q18542200"
+  }
+},
+{
+  "type": "node",
+  "id": 2634652176,
+  "lat": 44.4480265,
+  "lon": 26.0923485,
+  "tags": {
+    "SIRUTA:code": "179141",
+    "addr:city": "București",
+    "addr:postcode": "010667",
+    "codul_entității_muzeale": "5.1620000161E10",
+    "email": "iab_vparvan@yahoo.com",
+    "fixme": "Adresa muzeului este de fapt adresa strazi, trebuie cautat manual unde este adresa corecta",
+    "name": "Colecția de Antichități a Institutului de Arheologie \"Vasile Pârvan\"",
+    "name:en": "Antiquities Collection of \"Vasile Parvan\" Institute of Archaeology",
+    "opening_hours": "unknown",
+    "phone": "021/212.88.62",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "start_date": "1864",
+    "tourism": "museum",
+    "tourism_survey": "12.12.2013 12:22:46",
+    "website": "http://www.instarhparvan.ro/MNA.htm"
+  }
+},
+{
+  "type": "node",
+  "id": 2634652183,
+  "lat": 44.4372979,
+  "lon": 26.1102998,
+  "tags": {
+    "SIRUTA:code": "179150",
+    "addr:city": "București",
+    "addr:housenumber": "9",
+    "addr:postcode": "021042",
+    "addr:street": "Strada Armenească",
+    "codul_entității_muzeale": "6.201000003E9",
+    "email": "arshaluis@yahoo.com",
+    "name": "Colecția Muzeală a Episcopiei Armeano-Gregoriene",
+    "name:en": "Armenian-Gregorian Bishopric Museum Collection",
+    "opening_hours": "unknown",
+    "phone": "021/313.90.70",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "tourism": "museum",
+    "tourism_survey": "22.08.2012 12:57:24"
+  }
+},
+{
+  "type": "node",
+  "id": 2634652186,
+  "lat": 44.4446430,
+  "lon": 26.0910970,
+  "tags": {
+    "LMI": "B-II-m-B-19869",
+    "SIRUTA:code": "179141",
+    "addr:city": "București",
+    "addr:housenumber": "111",
+    "addr:postcode": "010071",
+    "addr:street": "Calea Victoriei",
+    "email": "national.art@art.museum.ro",
+    "fax": "021/312.43.27",
+    "name": "Muzeul Colectiilor de Artă",
+    "name:en": "Art Collections Museum",
+    "opening_hours": "Apr-Sep 11:00-19:00; Oct-Mar 10:00-18:00; Th,Fr closed",
+    "phone": "021/211.17.49; 021/212.96.41",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "start_date": "1978",
+    "tourism": "museum",
+    "tourism_survey": "03.06.2013 13:19:08",
+    "website": "http://www.mnar.arts.ro/",
+    "wikidata": "Q6940756"
+  }
+},
+{
+  "type": "node",
+  "id": 2634652241,
+  "lat": 44.6757750,
+  "lon": 26.2668012,
+  "tags": {
+    "SIRUTA:code": "104911",
+    "addr:city": "Moara Vlăsiei",
+    "addr:postcode": "77130",
+    "codul_entității_muzeale": "5.1210001101E10",
+    "description:en": "Between 1636 and 1638, Matei Basarab built the beautiful architectonic complex of Caldarusani, that was to be a strong cultural centre of the time.",
+    "description:ro": "in anii 1636 - 1638, Matei Basarab ridica frumosul complex arhitectonic de la Caldarusani, care va constitui un puternic focar de cultura pentru acea vreme.",
+    "name": "Colecția Muzeală a Mănăstirii Ortodoxe Căldărușani",
+    "name:en": "Caldarusani Orthodox Monastery Museum Collection",
+    "opening_hours": "unknown",
+    "phone": "0217/940.307",
+    "shop": "religion",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "tourism": "museum",
+    "tourism_survey": "07.11.2013 12:03:18",
+    "website": "http://www.manastirea-caldarusani.ro/"
+  }
+},
+{
+  "type": "node",
+  "id": 2634652251,
+  "lat": 44.4349443,
+  "lon": 26.2582530,
+  "tags": {
+    "SIRUTA:code": "101751",
+    "addr:city": "Cernica",
+    "addr:postcode": "77035",
+    "codul_entității_muzeale": "5.1210001201E10",
+    "description:en": "The monastery was built in 1608 by the high official Cernica stirbei.",
+    "description:ro": "Manastire ctitorita in 1608 de vornicul Cernica stirbei.",
+    "fax": "021/351.07.36",
+    "name": "Colecția Muzeală a Mănăstirii Ortodoxe Cernica",
+    "name:en": "Cernica Orthodox Monastery Museum Collection",
+    "opening_hours": "unknown",
+    "phone": "021/351.17.36",
+    "shop": "religion",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "tourism": "museum",
+    "tourism_survey": "16.09.2013 13:44:18",
+    "website": "http://www.ilfov.djc.ro/ObiectiveDetalii.aspx?ID=37&lacas=true"
+  }
+},
+{
+  "type": "node",
+  "id": 2634652271,
+  "lat": 44.7077378,
+  "lon": 26.1738350,
+  "tags": {
+    "SIRUTA:code": "105179",
+    "addr:city": "Snagov",
+    "addr:housenumber": "78",
+    "addr:postcode": "0077165",
+    "addr:street": "Șoseaua Snagov",
+    "codul_entității_muzeale": "7140090.0",
+    "email": "office@fundatiasnagov.ro",
+    "fax": "021/3239905",
+    "fixme": "Adresa muzeului este de fapt adresa localitati, trebuie cautat manual unde este adresa corecta",
+    "name": "Colecția Publică „Istoria Locală-Zona Snagov/Codrii Vlasiei”",
+    "phone": "021/323.99.05",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "start_date": "2010",
+    "tourism": "museum",
+    "tourism_survey": "04.12.2013 15:32:36",
+    "website": "http://www.FundatiaSnagov.ro"
+  }
+},
+{
+  "type": "node",
+  "id": 2634652277,
+  "lat": 44.4342166,
+  "lon": 26.0625020,
+  "tags": {
+    "SIRUTA:code": "179196",
+    "addr:city": "București",
+    "addr:housenumber": "1",
+    "addr:postcode": "060116",
+    "addr:street": "Bulevardul Geniului",
+    "codul_entității_muzeale": "7300500.0",
+    "description:en": "The museum was founded on the 10th of July 1991 and opened for visitors in December 1991. It integrates the history of two successive monuments - Cotroceni Monastery and the Royal Palace. Cotroceni Monastery, built by Serban Cantacuzino (1678 - 1688), wa",
+    "description:ro": "Muzeul a fost infiintat la 10 iulie 1991 si deschis pentru vizitatori in decembrie 1991, ambianta integrand istoria a doua monumente succesive in timp - Manastirea Cotroceni si Palatul Regal. Manastirea Cotroceni, ctitorita de serban Cantacuzino (1678 -",
+    "email": "secretariat@muzeulcotroceni.ro; relatiipublice@muzeulcotroceni.ro; vizitare@muzeulcotroceni.ro",
+    "fax": "021/312.16.18",
+    "name": "Muzeul Național Cotroceni",
+    "name:en": "Cotroceni National Museum",
+    "opening_hours": "9:30-17:30; Mo closed",
+    "phone": "021/317.31.06 (relatii publice); 021/317.31.07 (programari vizite); 021/317.31.00",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "start_date": "1991",
+    "tourism": "museum",
+    "tourism_survey": "10.12.2013 11:52:38",
+    "website": "http://www.muzeulcotroceni.ro"
+  }
+},
+{
+  "type": "node",
+  "id": 2634652441,
+  "lat": 44.4295620,
+  "lon": 26.1084080,
+  "tags": {
+    "SIRUTA:code": "179169",
+    "addr:city": "București",
+    "addr:housenumber": "11",
+    "addr:postcode": "030783",
+    "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+    "addr:street": "Strada Vasile Adamache",
+    "codul_entității_muzeale": "650890.0",
+    "name": "Muzeul Holocaustului",
+    "name:en": "Holocaust Museum",
+    "name:fr": "Musée de l'holocauste",
+    "opening_hours": "9:00-13:00, mo closed",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "tourism": "museum",
+    "tourism_survey": "11.04.2013 11:44:30"
+  }
+},
+{
+  "type": "node",
+  "id": 2634652507,
+  "lat": 44.2578070,
+  "lon": 25.8837630,
+  "tags": {
+    "SIRUTA:code": "103700",
+    "addr:city": "Iepurești",
+    "addr:postcode": "087130",
+    "addr:street": "in cadrul vechii scoli din Iepuresti, langa Primarie",
+    "codul_entității_muzeale": "7423219.0",
+    "email": "scoalaiepuresti@yahoo.com",
+    "fax": "0246/23.22.05",
+    "name": "Colecția Muzeală",
+    "name:en": "Museum Collection",
+    "phone": "0246/23.22.05",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "start_date": "1998",
+    "tourism": "museum",
+    "tourism_survey": "10.04.2012 12:07:59"
+  }
+},
+{
+  "type": "node",
+  "id": 2634652537,
+  "lat": 44.4282970,
+  "lon": 26.0882550,
+  "tags": {
+    "SIRUTA:code": "179187",
+    "addr:city": "București",
+    "addr:postcode": "050563",
+    "addr:street": "Palatul Parlamentului, Str. Izvor 2 - 4, corpurile A3 - F, sector 5",
+    "codul_entității_muzeale": "5.1620000175E10",
+    "email": "contact@muzeul-satului.ro",
+    "fax": "021/5894.479",
+    "name": "Muzeul Costumelor Populare din Romania",
+    "name:en": "Museum of Folk Costumes in Romania",
+    "opening_hours": "10:00-17:00",
+    "phone": "0215/894.479; 0215/894/480",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "tourism": "museum",
+    "tourism_survey": "04.12.2013 13:57:48",
+    "website": "http://www.panoramax.ro/panorame-virtuale/galerie.php?id=109"
+  }
+},
+{
+  "type": "node",
+  "id": 2634652547,
+  "lat": 44.4489720,
+  "lon": 26.0788300,
+  "tags": {
+    "SIRUTA:code": "179141",
+    "addr:city": "București",
+    "addr:housenumber": "132",
+    "addr:postcode": "010707",
+    "addr:street": "Calea Griviței",
+    "codul_entității_muzeale": "5.1620000184E10",
+    "description:ro": "in baza hotararii Biroului Senatului din data de 14.12.2000, rectorul a emis Decizia Nr. 42/52 privind infiintarea Comisiei pentru organizarea Muzeului Universitatii Politehnica din Bucuresti. Comisia Nationala a Muzeelor si Colectiilor din Ministerul Cu",
+    "email": "museum@utis.cpru.pub.ro",
+    "fax": "021/402.39.55",
+    "museum_type": "Science and Technology",
+    "name": "Muzeul Universității Politehnice",
+    "name:en": "Museum of Polytechnical University",
+    "phone": "021/402.39.55",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "tourism": "museum",
+    "tourism_survey": "06.11.2013 12:17:22",
+    "website": "http://muzeu.upb.ro/"
+  }
+},
+{
+  "type": "node",
+  "id": 2634652560,
+  "lat": 44.4679493,
+  "lon": 26.0766070,
+  "tags": {
+    "SIRUTA:code": "179141",
+    "addr:city": "București",
+    "addr:housenumber": "20A",
+    "addr:postcode": "011468",
+    "addr:street": "Bulevardul Mărăști",
+    "codul_entității_muzeale": "7700100.0",
+    "name": "Muzeul Sportului din Romania",
+    "name:en": "Museum of Sports in Romania",
+    "opening_hours": "closed",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "start_date": "1971",
+    "tourism": "museum",
+    "tourism_survey": "27.08.2013 12:01:39"
+  }
+},
+{
+  "type": "node",
+  "id": 2634652661,
+  "lat": 44.4330560,
+  "lon": 26.0997220,
+  "tags": {
+    "SIRUTA:code": "179169",
+    "addr:city": "București",
+    "addr:housenumber": "25",
+    "addr:postcode": "030031",
+    "addr:street": "Strada Lipscani",
+    "codul_entității_muzeale": "9280000.0",
+    "description:en": "The Board of the bank decided in 1914 to organize the museum. The action started in 1933 and the first exhibition was organized in 1943. It reopened in 1949 in the Rosenthal block on the Calea Victoriei. In the autumn of 1952 the ground floor of the old",
+    "description:ro": "inca de la crearea sa in 1880, Banca Nationala a Romaniei, prin stradania lui Eugeniu Carada, a inceput sa-si formeze o colectie de blocuri, medalii, sigilii si sculpturi, la care s-au adaugat treptat colectii de monede, bancnote, medalii, sigilii etc, a",
+    "fax": "021/3123831",
+    "museum_type": "Numismatics",
+    "name": "Muzeul Băncii Naționale a României",
+    "name:en": "Museum of the National Bank of Romania",
+    "opening_hours": "10:00-16:00",
+    "phone": "021/313.04.10 (int:. 4342, 4949); 021/314.23.70",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "start_date": "1943",
+    "tourism": "museum",
+    "tourism_survey": "05.12.2013 11:37:34",
+    "website": "https://www.bnro.ro/Muzeu-707.aspx",
+    "wikidata": "Q18542176"
+  }
+},
+{
+  "type": "node",
+  "id": 2634652680,
+  "lat": 44.4353810,
+  "lon": 26.0820760,
+  "tags": {
+    "SIRUTA:code": "179141",
+    "addr:city": "București",
+    "addr:housenumber": "64",
+    "addr:postcode": "050108",
+    "addr:street": "Bulevardul Mihail Kogălniceanu",
+    "codul_entității_muzeale": "7419100.0",
+    "name": "Muzeul Universității București",
+    "name:en": "Museum of the University of Bucharest",
+    "name:fr": "Musée de l'université de Bucarest",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "start_date": "1967",
+    "tourism": "museum",
+    "tourism_survey": "23.09.2013 13:38:07"
+  }
+},
+{
+  "type": "node",
+  "id": 2634652830,
+  "lat": 44.4547810,
+  "lon": 26.0850180,
+  "tags": {
+    "LMI": "B-II-m-B-18984",
+    "SIRUTA:code": "179141",
+    "addr:city": "București",
+    "addr:housenumber": "2",
+    "addr:postcode": "011345",
+    "addr:street": "Șoseaua Pavel Dimitrievici Kiseleff",
+    "codul_entității_muzeale": "7300600.0",
+    "description:en": "The museum was founded in 1892. In 1990 it was refounded. The collections are displayed on three floors, comprising halls of: mineralogy, petrography, external and internal dynamics of the earth, paleobotanics, paleontology, stratigraphy, hydrogeology, R",
+    "description:ro": "Muzeul a fost fondat in 1892. in 1990 a fost reinfiintat. Colectiile Muzeului Geologic se intind pe trei niveluri; se parcurg sali dedicate mineralogiei, petrografiei, dinamicii externe si interne a Pamantului, paleobotanicii, paleontologiei, stratigrafi",
+    "fax": "021/318.13.26",
+    "museum_type": "Natural Sciences - Geology",
+    "name": "Muzeul Național Geologic",
+    "name:en": "National Geological Museum",
+    "opening_hours": "10:00-18:00",
+    "phone": "021/318.13.26",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "start_date": "1990",
+    "tourism": "museum",
+    "tourism_survey": "17.12.2013 11:40:23",
+    "website": "http://www.geology.ro/"
+  }
+},
+{
+  "type": "node",
+  "id": 2634652837,
+  "lat": 44.4398220,
+  "lon": 26.0959780,
+  "tags": {
+    "LMI": "B-II-m-A-19856",
+    "SIRUTA:code": "179141",
+    "addr:city": "București",
+    "addr:housenumber": "49-53",
+    "addr:postcode": "010063",
+    "addr:street": "Calea Victoriei",
+    "description:en": "Founded under the name of ethnography museum of national art, decorative and industrial art; it was reorganized in the present building in 1953.",
+    "description:ro": "infiintat sub numele de Muzeul de etnografie, de arta nationala, arta decorativa si industriala; este reorganizat, in 1953, in cladirea actuala.",
+    "email": "national.art@art.museum.ro",
+    "fax": "021/312.43.27",
+    "name": "Muzeul Național de Artă al României",
+    "name:en": "National Museum of Art of Romania",
+    "opening_hours": "Apr-Sep 11:00-19:00; Oct-Mar 10:00-18:00; Mo,Tu closed",
+    "operator": "The Ministery of Culture",
+    "phone": "021/313.30.30;021/314.81.19",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "start_date": "1948",
+    "tourism": "museum",
+    "tourism_survey": "10.12.2013 11:53:11",
+    "website": "http://www.mnar.arts.ro/",
+    "wikidata": "Q1319192"
+  }
+},
+{
+  "type": "node",
+  "id": 2634652838,
+  "lat": 44.4281360,
+  "lon": 26.0866315,
+  "tags": {
+    "SIRUTA:code": "179187",
+    "addr:city": "București",
+    "addr:housenumber": "2-4",
+    "addr:postcode": "050563",
+    "addr:street": "Strada Izvor",
+    "codul_entității_muzeale": "7300700.0",
+    "email": "info@mnac.ro",
+    "fax": "021/318.91.38",
+    "name": "Muzeul Național de Artă Contemporană",
+    "name:en": "National Museum of Contemporary Art",
+    "opening_hours": "10:00-18:00; Mo closed",
+    "phone": "021/318.91.37",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "start_date": "2001",
+    "tourism": "museum",
+    "tourism_survey": "10.12.2013 11:49:04",
+    "website": "http://www.mnac.ro",
+    "wikidata": "Q6963033"
+  }
+},
+{
+  "type": "node",
+  "id": 2634652840,
+  "lat": 44.4569656,
+  "lon": 26.0927720,
+  "tags": {
+    "SIRUTA:code": "179141",
+    "addr:city": "București",
+    "addr:housenumber": "39",
+    "addr:postcode": "011762",
+    "addr:street": "Strada Londra",
+    "codul_entității_muzeale": "7300800.0",
+    "email": "muzeulhartilor@yahoo.com",
+    "fax": "021/230.52.84",
+    "name": "Muzeul Național al Hărților și Cărții Vechi",
+    "name:en": "National Museum of Maps and Rare Books",
+    "opening_hours": "10:00-18:00; Mo; Tu closed",
+    "phone": "021/230.44.68",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "start_date": "2003",
+    "tourism": "museum",
+    "tourism_survey": "10.12.2013 11:53:55",
+    "website": "http://www.muzeulhartilor.ro/",
+    "wikidata": "Q18542278"
+  }
+},
+{
+  "type": "node",
+  "id": 2634652844,
+  "lat": 44.4544226,
+  "lon": 26.0839829,
+  "tags": {
+    "LMI": "B-II-m-A-18985",
+    "SIRUTA:code": "179141",
+    "addr:city": "București",
+    "addr:housenumber": "3",
+    "addr:postcode": "011341",
+    "addr:street": "Șoseaua Pavel Dimitrievici Kiseleff",
+    "codul_entității_muzeale": "7300350.0",
+    "email": "info@muzeultaranuluiroman.ro; vsnitulescu@yahoo.co.uk",
+    "fax": "021/312.98.75, 021/317.96.60",
+    "name": "Muzeul Național al Țăranului Român",
+    "name:en": "National Museum of the Romanian Peasant",
+    "opening_hours": "10:00-18:00; Mo closed",
+    "phone": "021/317.96.61; 021/317.96.64; 021/317.96.65",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "start_date": "1906, reinfiintat in 1990",
+    "tourism": "museum",
+    "tourism_survey": "13.01.2014 12:27:58",
+    "website": "http://www.muzeultaranuluiroman.ro/",
+    "wikidata": "Q623662"
+  }
+},
+{
+  "type": "node",
+  "id": 2634652846,
+  "lat": 44.4362757,
+  "lon": 26.0792941,
+  "tags": {
+    "SIRUTA:code": "179150",
+    "addr:city": "București",
+    "addr:housenumber": "70-72",
+    "addr:postcode": "050108",
+    "addr:street": "Bulevardul Mihail Kogălniceanu",
+    "codul_entității_muzeale": "8.8600101E7",
+    "fax": "021/315.78.49",
+    "name": "Muzeul Operei Naționale București",
+    "name:en": "National Opera House Museum",
+    "phone": "021/314.69.80",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "tourism": "museum",
+    "tourism_survey": "24.02.2012 13:05:27",
+    "wikidata": "Q18542281"
+  }
+},
+{
+  "type": "node",
+  "id": 2634652847,
+  "lat": 44.4312385,
+  "lon": 26.0972809,
+  "tags": {
+    "SIRUTA:code": "179169",
+    "addr:city": "București",
+    "addr:postcode": "030026",
+    "codul_entității_muzeale": "5.1620000188E10",
+    "description:en": "The idea of organizing a stamps museum it is not new. It dates from the last ten-year period of the 19th century, when there were some private tries of organizing this kind of museum. During the inter-war period, the Romanian Post has made the steps in o",
+    "description:ro": "Ideea organizarii unui muzeu filatelic nu este noua in Romania. Ea dateaza inca din ultimul deceniu al secolului XIX, cand au fost incercari notabile pe plan privat de organizare a unui astfel de muzeu. Timp indelungat Directia Generala a Telegrafelor si",
+    "email": "muzeul.filatelic@posta-romana.ro",
+    "fax": "021/312.55.85",
+    "name": "Muzeul Național Filatelic",
+    "name:en": "National Philatelic Museum",
+    "opening_hours": "Apr-Sep 10:00-18:00; Oct-Mar 09:00-17:00; Mo,Tu closed",
+    "phone": "021.312.55.86, 021.312.55.42",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "tourism": "museum",
+    "tourism_survey": "05.12.2013 11:37:35",
+    "website": "http://www.muzeulfilatelic.ro/"
+  }
+},
+{
+  "type": "node",
+  "id": 2634652874,
+  "lat": 44.4762706,
+  "lon": 26.3086758,
+  "tags": {
+    "SIRUTA:code": "101323",
+    "addr:city": "Pasărea",
+    "addr:country": "RO",
+    "addr:postcode": "077032",
+    "codul_entității_muzeale": "5.1210004601E10",
+    "denomination": "romanian_orthodox",
+    "description:ro": "Clădirea a fost construită în anul 1827 de către Frusina Băltărețu și a fost folosită ca trapeză a mănăstirii. Din anul 1889 a fost folosită pentru alte cerințe ale mănăstirii, iar din 1966 adăpostește Colecția de Obiecte Religioase.",
+    "is_in": "Pasărea",
+    "is_in:city": "Brănești",
+    "is_in:country": "România",
+    "is_in:country_code": "RO",
+    "is_in:county": "Ilfov",
+    "name": "Colecția muzeală a Mănăstirii Ortodoxe Pasărea",
+    "name:en": "Pasarea Orthodox Monastery Museum Collection",
+    "opening_hours": "8:00-19:00",
+    "phone": "+40 21 793 1258",
+    "religion": "christian",
+    "shop": "religion",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "start_date": "1966",
+    "tourism": "museum",
+    "tourism_survey": "28.08.2013 13:02:56",
+    "website": "http://www.manastireapasarea.ro/"
+  }
+},
+{
+  "type": "node",
+  "id": 2634652911,
+  "lat": 44.7196791,
+  "lon": 26.0290231,
+  "tags": {
+    "SIRUTA:code": "104555",
+    "addr:city": "Periș",
+    "addr:postcode": "77150",
+    "codul_entității_muzeale": "9000032.0",
+    "name": "Palatul Scroviștea",
+    "name:en": "Scrovistea Palace",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "tourism": "museum",
+    "tourism_survey": "11.06.2012 14:12:30"
+  }
+},
+{
+  "type": "node",
+  "id": 2634652937,
+  "lat": 44.4608708,
+  "lon": 26.0909391,
+  "tags": {
+    "SIRUTA:code": "179141",
+    "addr:city": "București",
+    "addr:housenumber": "21",
+    "addr:postcode": "011871",
+    "addr:street": "Strada Muzeul Zambaccian",
+    "codul_entității_muzeale": "7300206.0",
+    "description:en": "Krikor H. Zambaccian was born in 1889 in an Armenian family living in Constanta. From 1907 he studied trade at Antwerp and later in Paris, where he bacame familiar with West European art and met Matisse, Dufy, Derain, Bonnard. As he was endowed with a pe",
+    "description:ro": "Krikor H. Zambaccian s-a nascut in 1889 intr-o familie de armeni stabilita la Constanta. Din 1907 a studiat comertul la Antwerp si mai tarziu la Paris, unde s-a familiarizat cu arta vest-europeana si i-a cunoscut pe Matisse, Dufy, Derain, Bonnard. Dotat",
+    "email": "national.art@art.museum.ro",
+    "fax": "021/312.43.27",
+    "name": "Muzeul \"K. H. Zambaccian\"",
+    "name:en": "The \"K.H. Zambaccian\" Museum",
+    "opening_hours": "Sa-We 11:00-19:00 Apr-Sep; 10:00-18:00 Oct-Mar",
+    "phone": "021/230.19. 20",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "start_date": "1947",
+    "tourism": "museum",
+    "tourism_survey": "26.11.2013 13:50:43",
+    "website": "http://www.mnar.arts.ro/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2634652940,
+  "lat": 44.4385623,
+  "lon": 26.1080883,
+  "tags": {
+    "SIRUTA:code": "179150",
+    "addr:city": "București",
+    "addr:housenumber": "26-28",
+    "addr:postcode": "020501",
+    "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+    "addr:street": "Strada Vasile Lascăr",
+    "codul_entității_muzeale": "650850.0",
+    "name": "Colecție Muzeală a Aromânilor",
+    "name:en": "The Aromanian Museum Collection",
+    "opening_hours": "unknown",
+    "phone": "0726252789",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "tourism": "museum",
+    "tourism_survey": "04.12.2013 14:25:05"
+  }
+},
+{
+  "type": "node",
+  "id": 2634652944,
+  "lat": 44.2097891,
+  "lon": 26.3634241,
+  "tags": {
+    "SIRUTA:code": "103657",
+    "addr:city": "Herești",
+    "addr:housenumber": "32",
+    "addr:postcode": "087126",
+    "addr:street": "Strada Milos Obrenovici",
+    "codul_entității_muzeale": "7300351.0",
+    "fax": "021/312.98.75",
+    "heritage": "2",
+    "heritage:operator": "lmi",
+    "name": "Casa de Piatră din Herăști",
+    "name:en": "The Stone House",
+    "opening_hours": "10:00-18:00",
+    "phone": "021 /317.96.63;0729.361.965",
+    "ref:ro:lmi": "GR-II-a-A-15013",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "tourism": "museum",
+    "tourism_survey": "11.12.2013 11:21:27"
+  }
+},
+{
+  "type": "node",
+  "id": 2634653097,
+  "lat": 44.7291125,
+  "lon": 26.0843146,
+  "tags": {
+    "LMI": "IF-II-a-B-15271",
+    "SIRUTA:code": "101911",
+    "addr:city": "Ciolpani",
+    "addr:postcode": "77050",
+    "codul_entității_muzeale": "5.1210006901E10",
+    "description:ro": "42B0023",
+    "fax": "021/266.81.85",
+    "name": "Colecția Muzeală a Mănăstirii Ortodoxe Țigănești",
+    "name:en": "tiganesti Orthodox Monastery Museum Collection",
+    "opening_hours": "08:00-20:00",
+    "phone": "021/266.82.32",
+    "shop": "religion",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "start_date": "1840",
+    "tourism": "museum",
+    "tourism_survey": "19.09.2013 14:46:32",
+    "website": "http://www.ilfov.djc.ro/ObiectiveDetalii.aspx?ID=40&lacas=true"
+  }
+},
+{
+  "type": "node",
+  "id": 3394605820,
+  "lat": 44.5283998,
+  "lon": 25.9972127,
+  "tags": {
+    "name": "Palatul Brâncovenesc Mogoșoaia",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3424574370,
+  "lat": 44.4615946,
+  "lon": 26.0944663,
+  "tags": {
+    "addr:city": "București",
+    "addr:housenumber": "9",
+    "addr:street": "Strada Locotenent Aviator Radu Beller",
+    "name": "Muzeul Parfumurilor",
+    "opening_hours": "Mo-Su 10:00-22:00",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4505417867,
+  "lat": 44.4347636,
+  "lon": 26.1022245,
+  "tags": {
+    "LMI": "B-II-m-A-18221",
+    "SIRUTA:code": "179169",
+    "addr:city": "București",
+    "addr:housenumber": "2",
+    "addr:postcode": "030174",
+    "addr:street": "Bulevardul Ion Constantin Brătianu",
+    "alt_name": "Palatul Șuțu",
+    "codul_entității_muzeale": "7083500.0",
+    "description:en": "The museum was founded following the decision of the city council of the Bucharest city hall from June 1921. C. A. Rosetti's donation from 1929 was the core of the stock. The museum functioned first in 115 Calea Mosilor, then in 117 Calea Victoriei, and",
+    "description:ro": "Muzeul isi are inceputul in hotararea Consiliului Comunal al Primariei Bucurestilor de la sfarsitul lunii iunie 1921, prin care s-a propus infiintarea unui muzeu comunal. Lipsa patrimoniului a facut ca institutia sa nu fiinteze de sine statator imediat d",
+    "email": "office@muzeulbucurestiului.ro",
+    "fax": "021/310.25.62",
+    "name": "Muzeul Municipiului București",
+    "name:en": "Bucharest Municipality Museum",
+    "old_name": "Palatul Șuțu",
+    "opening_hours": "10:00-18:00; Mo closed; Tu \"free admission\"",
+    "operator": "The city of Bucharest",
+    "phone": "021/310.25.62; 021/315.68.58",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "start_date": "1921",
+    "tourism": "museum",
+    "tourism_survey": "10.12.2013 12:08:03",
+    "website": "http://www.muzeulbucurestiului.ro/",
+    "wikidata": "Q12404278"
+  }
+},
+{
+  "type": "node",
+  "id": 4718366791,
+  "lat": 44.5234049,
+  "lon": 26.0807608,
+  "tags": {
+    "addr:street": "Aleea Padina",
+    "name:en": "Chapel Mauriciu Blank",
+    "name:ro": "Capela Mauriciu Blank",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 5041664522,
+  "lat": 44.4355186,
+  "lon": 26.2576753,
+  "tags": {
+    "email": "manastirea.cernica@yahoo.ro",
+    "name": "Muzeul Mănăstirii Cernica",
+    "opening_hours": "Mo-Su 09:00-18:00",
+    "phone": "0213511737",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 5146804838,
+  "lat": 44.4723895,
+  "lon": 26.0766274,
+  "tags": {
+    "name": "Muzeul Național al Satului Dimitrie Gusti",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 5898884385,
+  "lat": 44.4307955,
+  "lon": 26.1013829,
+  "tags": {
+    "name:en": "Romanian Kitsch Museum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6275995659,
+  "lat": 44.4420454,
+  "lon": 26.0952646,
+  "tags": {
+    "SIRUTA:code": "179150",
+    "addr:city": "București",
+    "addr:postcode": "010402",
+    "description:en": "The museum was founded in 1971 by academician D. Panaitescu - Perpessicius, who was also its first manager. At first the museum functioned in the Toma Stelian House, in 10 Kiseleff Road.",
+    "description:ro": "Avand ca fondator si prim director pe acad. D. Panaitescu-Perpessicius, muzeul este reorganizat in 1971 in cladirea actuala, monument istoric. Initial muzeul a functionat in Casa Toma Stelian de pe sos. Kiseleff nr.10.",
+    "email": "relatiipublice@mnlr.ro",
+    "fax": "021/212.58.46; 021/212.96.52",
+    "name": "Muzeul Național al Literaturii Române",
+    "name:en": "National Museum of the Romanian Literature",
+    "opening_hours": "Apr-Sep 10:00-18:00; Oct-Mar 09:00-17:00; Mo closed",
+    "phone": "021/212.58.45; 021/212 96 52; 021/212.58.46; 021/212.96.52",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "start_date": "1957",
+    "tourism": "museum",
+    "tourism_survey": "10.12.2013 11:50:01",
+    "website": "http://www.mlr.ro",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 6551718804,
+  "lat": 44.4414112,
+  "lon": 26.0764521,
+  "tags": {
+    "addr:postcode": "30925",
+    "description:en": "Exhibition of old radios, telephones, military communication equipment.",
+    "description:ro": "Punctul muzeal aflat la sediul ANCOM prezinta echipamente de comunicatii ca urmare a aniversarii a 20 de ani de administrare a spectrului de frecvente radio si de a exemplifica modul in care au evoluat comunicatiile si tehnologia de-a lungul vremii. In...",
+    "email": "melania.nandrea@ancom.org.ro",
+    "fax": "(+40) 372. 845.402",
+    "foundation_date": "2013",
+    "name": "Muzeul Telecomunicatiilor",
+    "name:en": "Museum of Telecommunication",
+    "opening_hours": "Mo-Th 08:30-17:00; Fr 08:30-14:30",
+    "phone": "(+40) 372. 845.845",
+    "ref:codul_entitații_muzeale": "7520200",
+    "reviewed": "no",
+    "tourism": "museum",
+    "website": "http://www.ancom.org.ro/muzeul-virtual-de-telecomunicatii_4927"
+  }
+},
+{
+  "type": "node",
+  "id": 6551718823,
+  "lat": 44.4718108,
+  "lon": 26.0755687,
+  "tags": {
+    "addr:postcode": "32324",
+    "description:en": "The museum houses in seven rooms the history of public transport. The museum has not trams and trolleybuses which escaped scrapping and today are scattered in several places, in conservation.",
+    "description:ro": "Muzeul adaposteste, in sapte incaperi, istoria transportului public. De la muzeu lipsesc tramvaiele si troleibuzele care au scapat de casare si care astazi se afla risipite in mai multe locuri.",
+    "email": "info@ratb.ro",
+    "foundation_date": "2011",
+    "name": "Muzeul Regiei Autonome de Transport Bucuresti RATB",
+    "name:en": "Museum of Bucharest Public Transport",
+    "opening_hours": "phone appointment (031.425.04.82), daily 10:00 - 15:00",
+    "phone": "(+40) 31.425.04.82 (informatii, programari)",
+    "ref:codul_entitații_muzeale": "9010010",
+    "reviewed": "no",
+    "tourism": "museum",
+    "website": "http://www.ratb.ro/muzeu.php;http://www.b365.ro/istoria-transportului-in-comun-in-bucuresti-de-la-tramvaiul-tras-de-cai-la-mercedes-urile-citaro_188991.html;http://adevarul.ro/news/bucuresti/ratb-muzeu-1_5163a67600f5182b859ba48e/index.html"
+  }
+},
+{
+  "type": "node",
+  "id": 6945381892,
+  "lat": 44.4323967,
+  "lon": 26.1087950,
+  "tags": {
+    "name": "Dracula",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 23556233,
+  "nodes": [
+    255083755,
+    255083756,
+    5254645115,
+    5254645090,
+    5254645117,
+    255083761,
+    7015451248,
+    7015451249,
+    255083762,
+    7015451250,
+    7015451254,
+    7015451245,
+    255083763,
+    471024760,
+    7015451251,
+    7015451252,
+    471024761,
+    255083764,
+    7015451244,
+    255083755
+  ],
+  "tags": {
+    "addr:housenumber": "125",
+    "addr:street": "Strada Mircea Vulcănescu",
+    "name": "Muzeul Militar",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 28490253,
+  "nodes": [
+    254343777,
+    1754330862,
+    6157571255,
+    6157552706,
+    254372847,
+    254372807,
+    254372846,
+    254372805,
+    6157640466,
+    6231340035,
+    1754330899,
+    254372804,
+    254342899,
+    6169982517,
+    254343777
+  ],
+  "tags": {
+    "addr:city": "București",
+    "addr:housenumber": "12",
+    "addr:postcode": "030026",
+    "addr:street": "Calea Victoriei",
+    "name": "Muzeul Național de Istorie a României",
+    "name:en": "National History Museum of Romania",
+    "opening_hours": "Apr-Sep 10:00-18:00; Oct-Mar 09:00-17:00; Mo,Tu closed",
+    "phone": "+40213158207",
+    "tourism": "museum",
+    "website": "https://www.mnir.ro/",
+    "wikidata": "Q179283"
+  }
+},
+{
+  "type": "way",
+  "id": 29701978,
+  "nodes": [
+    327098668,
+    327098671,
+    327098674,
+    2380399940,
+    327098677,
+    327098680,
+    327098683,
+    327098686,
+    327098689,
+    327098692,
+    327098695,
+    327098698,
+    327098701,
+    327098704,
+    327098707,
+    327098710,
+    327098713,
+    327098719,
+    327098722,
+    327098725,
+    327098727,
+    327098730,
+    327098733,
+    327098736,
+    327098739,
+    2380476715,
+    327098668
+  ],
+  "tags": {
+    "LMI": "B-II-a-A-18994",
+    "SIRUTA:code": "179141",
+    "addr:housenumber": "28-30",
+    "addr:postcode": "011347",
+    "addr:street": "Șoseaua Pavel Dimitrievici Kiseleff",
+    "alt_name": "Muzeul Satului",
+    "alt_name:en": "Village Museum",
+    "area": "yes",
+    "codul_entității_muzeale": "7300300.0",
+    "description:en": "Professor Dimitrie Gusti, after 10 years of researches and ground aquisitions, had the idea to found the museum. The initial siting designs were executed by Victor Ion Popa. Between 1948 and 1978 the museum was managed by professor Gh. Focsa.",
+    "description:ro": "Ideea infiintarii a fost a prof. Dimitrie Gusti, dupa 10 ani de cercetari si achizitii pe teren. Planurile de amplasament initiale au fost executate de Victor Ion Popa. in perioada 1948 - l978, conducerea muzeului a fost asigurata de prof. Gh. Focsa.",
+    "email": "contact@muzeul-satului.ro",
+    "fax": "+40 0213 1790 68",
+    "name": "Muzeul Național al Satului Dimitrie Gusti",
+    "name:en": "Dimitrie Gusti National Village Museum",
+    "phone": "+40 21 317 9068",
+    "start_date": "1936",
+    "tourism": "museum",
+    "website": "http://www.muzeul-satului.ro/",
+    "wikipedia": "ro:Dimitrie Gusti National Village Museum in Bucharest"
+  }
+},
+{
+  "type": "way",
+  "id": 38234390,
+  "nodes": [
+    450623171,
+    450623172,
+    450623173,
+    450623174,
+    450623171
+  ],
+  "tags": {
+    "addr:city": "București",
+    "addr:housenumber": "1",
+    "addr:interpolation": "odd",
+    "addr:postcode": "013712",
+    "addr:street": "Strada Doctor Nicolae Minovici",
+    "building": "yes",
+    "name": "Muzeul Doctor Nicolae Minovici",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 38236017,
+  "nodes": [
+    450651264,
+    450651265,
+    450651266,
+    450651267,
+    450651264
+  ],
+  "tags": {
+    "addr:city": "București",
+    "addr:housenumber": "50",
+    "addr:interpolation": "odd",
+    "addr:postcode": "011971",
+    "addr:street": "Bulevardul Primăverii",
+    "name": "Palatul Primăverii (fosta locuință a lui Nicolae Ceaușescu)",
+    "name:de": "Frühlingspalast",
+    "name:en": "Spring Palace",
+    "opening_hours": "We-Su 10:00-18:00",
+    "start_date": "1965",
+    "tourism": "museum",
+    "website": "https://www.palatulprimaverii.ro",
+    "wikidata": "Q28649190"
+  }
+},
+{
+  "type": "way",
+  "id": 76918335,
+  "nodes": [
+    906011767,
+    906011770,
+    906011772,
+    906011774,
+    906011776,
+    906011778,
+    906011779,
+    906011789,
+    906011791,
+    906011793,
+    906011795,
+    906011796,
+    906011798,
+    906011799,
+    906011801,
+    906011804,
+    906011767
+  ],
+  "tags": {
+    "addr:housenumber": "141",
+    "addr:street": "Calea Victoriei",
+    "amenity": "public_building",
+    "building": "yes",
+    "name": "Palatul Cantacuzino",
+    "source": "Yahoo",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 79134335,
+  "nodes": [
+    924611343,
+    6696629599,
+    924611346,
+    924611350,
+    924611355,
+    5870647082,
+    924611360,
+    5870647083,
+    924611343
+  ],
+  "tags": {
+    "addr:city": "București",
+    "addr:housenumber": "193B",
+    "addr:postcode": "010711",
+    "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+    "addr:street": "Calea Griviței",
+    "alt_name": "Muzeul CFR",
+    "building": "public",
+    "building:levels": "3",
+    "is_in:city": "București",
+    "museum": "railway",
+    "name": "Muzeul CFR",
+    "name:en": "Romanian Railway Museum",
+    "opening_hours": "10:00-16:00; Tu closed",
+    "tourism": "museum",
+    "website": "http://ghidulmuzeelor.cimec.ro/id.asp?k=43"
+  }
+},
+{
+  "type": "way",
+  "id": 179319668,
+  "nodes": [
+    7042460253,
+    2634651912,
+    1896615370,
+    1896615363,
+    1896615359,
+    1896615393,
+    7042460261,
+    7042460260,
+    7042460256,
+    7042460255,
+    7042460257,
+    7042460258,
+    7042460259,
+    7042460262,
+    1896615396,
+    7042460253
+  ],
+  "tags": {
+    "SIRUTA:code": "179150",
+    "addr:city": "București",
+    "addr:housenumber": "2",
+    "addr:postcode": "010159",
+    "addr:street": "Strada Sion",
+    "building": "yes",
+    "building:levels": "2",
+    "codul_entității_muzeale": "7300209.0",
+    "email": "national.art@art.museum.ro",
+    "fax": "021/312.43.27",
+    "name": "Muzeul \"Dr. Ioan si Nicolae Kalinderu\"",
+    "name:en": "\"Dr. Ioan and Nicolae Kalinderu\" Museum",
+    "opening_hours": "closed",
+    "phone": "021/313.30.30; 021/314.81.19",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "tourism": "museum",
+    "tourism_survey": "30.11.2011 13:43:21"
+  }
+},
+{
+  "type": "way",
+  "id": 215350961,
+  "nodes": [
+    2247677437,
+    2247677458,
+    2247677450,
+    2247677449,
+    2247677437
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Muzeul Tudor Arghezi",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 232472401,
+  "nodes": [
+    2408212762,
+    2408212716,
+    2408212783,
+    2408212729,
+    2408212767,
+    2408212793,
+    2408212704,
+    2408212752,
+    2408212702,
+    2408212712,
+    2408212749,
+    2408212723,
+    2408212735,
+    2408212733,
+    2408212778,
+    2408212714,
+    2408212699,
+    2408212706,
+    2408212708,
+    2408212684,
+    2408212727,
+    2408212754,
+    2408212787,
+    2408212785,
+    2408212690,
+    2408212697,
+    2408212739,
+    2408212760,
+    2408212791,
+    2408212771,
+    2408212776,
+    2408212719,
+    2408212745,
+    2408212695,
+    2408212780,
+    2408212688,
+    2408212721,
+    2408212748,
+    2408212757,
+    2408212774,
+    2408212710,
+    2408212782,
+    2408212763,
+    2408212765,
+    2408212693,
+    2408212769,
+    2408212731,
+    2408212789,
+    2408212743,
+    2408212741,
+    2408212773,
+    2408212725,
+    2408212737,
+    2408212762
+  ],
+  "tags": {
+    "building": "civic",
+    "building:levels": "4",
+    "internet_access": "wlan",
+    "name": "Palatul Regal",
+    "name:en": "Royal palace",
+    "name:fr": "Palais royal",
+    "name:ja": "国立美術館(共和国宮殿)",
+    "opening_hours": "Tu 10:00-18:00",
+    "roof:levels": "0",
+    "start_date": "1937",
+    "tourism": "museum",
+    "wheelchair": "limited",
+    "wikidata": "Q3361220",
+    "wikipedia": "ro:Palatul Regal din București‎"
+  }
+},
+{
+  "type": "way",
+  "id": 251129768,
+  "nodes": [
+    2574127585,
+    2574127570,
+    2574127584,
+    2574127587,
+    2574127585
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Muzeul Universității Politehnica din București",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 258094089,
+  "nodes": [
+    2635056775,
+    2635056783,
+    2635056767,
+    2635056781,
+    2635056768,
+    2635056770,
+    2635056772,
+    2635056752,
+    2635056749,
+    2635056778,
+    2635056750,
+    2635056754,
+    2635056763,
+    2635056765,
+    2635056762,
+    2635056776,
+    2635056780,
+    2635056773,
+    2635056775
+  ],
+  "tags": {
+    "LMI": "B-II-m-B-18722",
+    "SIRUTA:code": "179150",
+    "addr:city": "București",
+    "addr:housenumber": "33",
+    "addr:postcode": "021381",
+    "addr:street": "Bulevardul Ferdinand I",
+    "alt_name": "Foișorul de foc",
+    "building": "yes",
+    "codul_entității_muzeale": "7540200.0",
+    "description:en": "Founded in 1963, as a Section of the History Museum of the city of Bucharest, it was transferred to the Ministry of the Internal Affairs in 1972. In 1992 it was turned into the Fireman National Museum.",
+    "description:ro": "infiintat in 1963, ca sectie a Muzeului de Istorie a orasului Bucuresti, este transferat la Ministerul de Interne in 1972. in 1992 s-a transformat in Muzeu National al Pompierilor.",
+    "email": "contact@muzeulpompierilor.ro",
+    "fax": "08.06.2012",
+    "name": "Muzeul Național al Pompierilor",
+    "name:en": "National Museum of Firemen",
+    "opening_hours": "8:00-16:00; Sa, Su closed",
+    "phone": "021/242.09.90",
+    "source": "INP",
+    "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+    "start_date": "1963",
+    "tourism": "museum",
+    "tourism_survey": "05.12.2013 11:37:34",
+    "website": "http://www.muzeulpompierilor.ro; http://www.foisoruldefoc.ro",
+    "wikidata": "Q4687576"
+  }
+},
+{
+  "type": "way",
+  "id": 392466489,
+  "nodes": [
+    4161774638,
+    4161774640,
+    2314133636,
+    4402490615,
+    696844041,
+    4161774658,
+    4161774643,
+    4161774631,
+    4161774657,
+    4161774633,
+    7161915123,
+    7161915122,
+    7071776771,
+    7161915107,
+    7161915110,
+    7161915111,
+    7161915112,
+    7161915113,
+    7161915114,
+    7161915115,
+    7161915116,
+    7161915117,
+    7161915109,
+    7161915108,
+    4161774636,
+    4161774638
+  ],
+  "tags": {
+    "addr:city": "București",
+    "addr:housenumber": "2-4",
+    "addr:postcode": "013695",
+    "addr:street": "Șoseaua Fabrica de Glucoză",
+    "name": "Muzeul Aviației",
+    "name:en": "Aviation Museum",
+    "official_name": "Muzeul Naţional al Aviaţiei Române",
+    "opening_hours": "8:00-16:00; Sa, Su 9:00-17:00; Mo closed",
+    "operator": "Muzeul Aviației",
+    "operator:type": "public",
+    "phone": "021.232.04.04",
+    "tourism": "museum",
+    "website": "http://www.roaf.ro/ro/muzeu.php"
+  }
+},
+{
+  "type": "way",
+  "id": 621440628,
+  "nodes": [
+    5870632071,
+    5870632070,
+    5870632069,
+    6696629596,
+    6696629598,
+    6696629599,
+    924611343,
+    5870647083,
+    5870632071
+  ],
+  "tags": {
+    "addr:city": "București",
+    "addr:housenumber": "193B",
+    "addr:postcode": "010711",
+    "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+    "addr:street": "Calea Griviței",
+    "alt_name": "Muzeul CFR",
+    "building": "public",
+    "building:levels": "2",
+    "is_in:city": "București",
+    "museum": "railway",
+    "opening_hours": "10:00-16:00; Tu closed",
+    "tourism": "museum",
+    "website": "http://ghidulmuzeelor.cimec.ro/id.asp?k=43"
+  }
+},
+{
+  "type": "relation",
+  "id": 2272921,
+  "members": [
+    {
+      "type": "way",
+      "ref": 23557098,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 170952565,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 170952564,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "addr:housenumber": "1",
+    "addr:street": "Bulevardul Geniului",
+    "amenity": "public_building",
+    "building": "yes",
+    "name": "Palatul Cotroceni",
+    "name:de": "Schloss Cotroceni",
+    "tourism": "museum",
+    "type": "multipolygon",
+    "wikidata": "Q733838",
+    "wikipedia": "en:Cotroceni Palace"
+  }
+},
+{
+  "type": "node",
+  "id": 255095233,
+  "lat": 44.4345204,
+  "lon": 26.0605873
+},
+{
+  "type": "node",
+  "id": 255095234,
+  "lat": 44.4344544,
+  "lon": 26.0626263
+},
+{
+  "type": "node",
+  "id": 255095235,
+  "lat": 44.4334353,
+  "lon": 26.0625497
+},
+{
+  "type": "node",
+  "id": 255095236,
+  "lat": 44.4334435,
+  "lon": 26.0622972
+},
+{
+  "type": "node",
+  "id": 255095237,
+  "lat": 44.4334706,
+  "lon": 26.0622191
+},
+{
+  "type": "node",
+  "id": 255095238,
+  "lat": 44.4334836,
+  "lon": 26.0618287
+},
+{
+  "type": "node",
+  "id": 255095239,
+  "lat": 44.4333900,
+  "lon": 26.0616854
+},
+{
+  "type": "node",
+  "id": 255095240,
+  "lat": 44.4333934,
+  "lon": 26.0614894
+},
+{
+  "type": "node",
+  "id": 255095241,
+  "lat": 44.4335467,
+  "lon": 26.0614959
+},
+{
+  "type": "node",
+  "id": 255095242,
+  "lat": 44.4335544,
+  "lon": 26.0611740
+},
+{
+  "type": "node",
+  "id": 255095243,
+  "lat": 44.4337160,
+  "lon": 26.0612562
+},
+{
+  "type": "node",
+  "id": 255095244,
+  "lat": 44.4337368,
+  "lon": 26.0605413
+},
+{
+  "type": "node",
+  "id": 1820593836,
+  "lat": 44.4343391,
+  "lon": 26.0621189
+},
+{
+  "type": "node",
+  "id": 1820593838,
+  "lat": 44.4335525,
+  "lon": 26.0612472
+},
+{
+  "type": "node",
+  "id": 1820593840,
+  "lat": 44.4338564,
+  "lon": 26.0612331
+},
+{
+  "type": "node",
+  "id": 1820593854,
+  "lat": 44.4344917,
+  "lon": 26.0614831
+},
+{
+  "type": "node",
+  "id": 1820593858,
+  "lat": 44.4343679,
+  "lon": 26.0614252
+},
+{
+  "type": "node",
+  "id": 1820593860,
+  "lat": 44.4343274,
+  "lon": 26.0623885
+},
+{
+  "type": "node",
+  "id": 1820593864,
+  "lat": 44.4335474,
+  "lon": 26.0614376
+},
+{
+  "type": "node",
+  "id": 1820593866,
+  "lat": 44.4336838,
+  "lon": 26.0611804
+},
+{
+  "type": "node",
+  "id": 1820593868,
+  "lat": 44.4337684,
+  "lon": 26.0617944
+},
+{
+  "type": "node",
+  "id": 1820593872,
+  "lat": 44.4344751,
+  "lon": 26.0626055
+},
+{
+  "type": "node",
+  "id": 1820593888,
+  "lat": 44.4341399,
+  "lon": 26.0626317
+},
+{
+  "type": "node",
+  "id": 1820593890,
+  "lat": 44.4344602,
+  "lon": 26.0624650
+},
+{
+  "type": "node",
+  "id": 1820593891,
+  "lat": 44.4343525,
+  "lon": 26.0626127
+},
+{
+  "type": "node",
+  "id": 1820593893,
+  "lat": 44.4334868,
+  "lon": 26.0626188
+},
+{
+  "type": "node",
+  "id": 1820593896,
+  "lat": 44.4337803,
+  "lon": 26.0625897
+},
+{
+  "type": "node",
+  "id": 1820593897,
+  "lat": 44.4345292,
+  "lon": 26.0607090
+},
+{
+  "type": "node",
+  "id": 1820593898,
+  "lat": 44.4338143,
+  "lon": 26.0616469
+},
+{
+  "type": "node",
+  "id": 1820593900,
+  "lat": 44.4345390,
+  "lon": 26.0619844
+},
+{
+  "type": "node",
+  "id": 1820593904,
+  "lat": 44.4341023,
+  "lon": 26.0623248
+},
+{
+  "type": "node",
+  "id": 1820593905,
+  "lat": 44.4343547,
+  "lon": 26.0617429
+},
+{
+  "type": "node",
+  "id": 1820593911,
+  "lat": 44.4337475,
+  "lon": 26.0623974
+},
+{
+  "type": "node",
+  "id": 1820593912,
+  "lat": 44.4341713,
+  "lon": 26.0626021
+},
+{
+  "type": "node",
+  "id": 1820593913,
+  "lat": 44.4343585,
+  "lon": 26.0626429
+},
+{
+  "type": "node",
+  "id": 1820593914,
+  "lat": 44.4345136,
+  "lon": 26.0614554
+},
+{
+  "type": "node",
+  "id": 1820593915,
+  "lat": 44.4339312,
+  "lon": 26.0624113
+},
+{
+  "type": "node",
+  "id": 1820593916,
+  "lat": 44.4341744,
+  "lon": 26.0626334
+},
+{
+  "type": "node",
+  "id": 1820593918,
+  "lat": 44.4343124,
+  "lon": 26.0621184
+},
+{
+  "type": "node",
+  "id": 1820593919,
+  "lat": 44.4335345,
+  "lon": 26.0622246
+},
+{
+  "type": "node",
+  "id": 1820593921,
+  "lat": 44.4335363,
+  "lon": 26.0612511
+},
+{
+  "type": "node",
+  "id": 1820593925,
+  "lat": 44.4341418,
+  "lon": 26.0626055
+},
+{
+  "type": "node",
+  "id": 1820593926,
+  "lat": 44.4341193,
+  "lon": 26.0618101
+},
+{
+  "type": "node",
+  "id": 1820593927,
+  "lat": 44.4342277,
+  "lon": 26.0623334
+},
+{
+  "type": "node",
+  "id": 1820593928,
+  "lat": 44.4343266,
+  "lon": 26.0617419
+},
+{
+  "type": "node",
+  "id": 1820593933,
+  "lat": 44.4337096,
+  "lon": 26.0626656
+},
+{
+  "type": "node",
+  "id": 1820593935,
+  "lat": 44.4337894,
+  "lon": 26.0616710
+},
+{
+  "type": "node",
+  "id": 1820593938,
+  "lat": 44.4345988,
+  "lon": 26.0608767
+},
+{
+  "type": "node",
+  "id": 1820593940,
+  "lat": 44.4342282,
+  "lon": 26.0623782
+},
+{
+  "type": "node",
+  "id": 1820593941,
+  "lat": 44.4344712,
+  "lon": 26.0621216
+},
+{
+  "type": "node",
+  "id": 1820593942,
+  "lat": 44.4345970,
+  "lon": 26.0609493
+},
+{
+  "type": "node",
+  "id": 1820593955,
+  "lat": 44.4339944,
+  "lon": 26.0617998
+},
+{
+  "type": "node",
+  "id": 1820593958,
+  "lat": 44.4344311,
+  "lon": 26.0626236
+},
+{
+  "type": "node",
+  "id": 1820593960,
+  "lat": 44.4337501,
+  "lon": 26.0617929
+},
+{
+  "type": "node",
+  "id": 1820593961,
+  "lat": 44.4336323,
+  "lon": 26.0626230
+},
+{
+  "type": "node",
+  "id": 1820593962,
+  "lat": 44.4346150,
+  "lon": 26.0610982
+},
+{
+  "type": "node",
+  "id": 1820593963,
+  "lat": 44.4343782,
+  "lon": 26.0607733
+},
+{
+  "type": "node",
+  "id": 1820593964,
+  "lat": 44.4336822,
+  "lon": 26.0612569
+},
+{
+  "type": "node",
+  "id": 1820593965,
+  "lat": 44.4343334,
+  "lon": 26.0626411
+},
+{
+  "type": "node",
+  "id": 1820593967,
+  "lat": 44.4335310,
+  "lon": 26.0614273
+},
+{
+  "type": "node",
+  "id": 1820593969,
+  "lat": 44.4339733,
+  "lon": 26.0623711
+},
+{
+  "type": "node",
+  "id": 1820593970,
+  "lat": 44.4345330,
+  "lon": 26.0621281
+},
+{
+  "type": "node",
+  "id": 1820593972,
+  "lat": 44.4335451,
+  "lon": 26.0618282
+},
+{
+  "type": "node",
+  "id": 1820593975,
+  "lat": 44.4337784,
+  "lon": 26.0613884
+},
+{
+  "type": "node",
+  "id": 1820593976,
+  "lat": 44.4345153,
+  "lon": 26.0607047
+},
+{
+  "type": "node",
+  "id": 1820593980,
+  "lat": 44.4339331,
+  "lon": 26.0623711
+},
+{
+  "type": "node",
+  "id": 1820593981,
+  "lat": 44.4344793,
+  "lon": 26.0624696
+},
+{
+  "type": "node",
+  "id": 1820593983,
+  "lat": 44.4340466,
+  "lon": 26.0625922
+},
+{
+  "type": "node",
+  "id": 1820593984,
+  "lat": 44.4338717,
+  "lon": 26.0607424
+},
+{
+  "type": "node",
+  "id": 1820593985,
+  "lat": 44.4344294,
+  "lon": 26.0626461
+},
+{
+  "type": "node",
+  "id": 1820593993,
+  "lat": 44.4345223,
+  "lon": 26.0608745
+},
+{
+  "type": "node",
+  "id": 1820593998,
+  "lat": 44.4340461,
+  "lon": 26.0626272
+},
+{
+  "type": "node",
+  "id": 1820594001,
+  "lat": 44.4338335,
+  "lon": 26.0615664
+},
+{
+  "type": "node",
+  "id": 1820594006,
+  "lat": 44.4336536,
+  "lon": 26.0626672
+},
+{
+  "type": "node",
+  "id": 1820594008,
+  "lat": 44.4335486,
+  "lon": 26.0616915
+},
+{
+  "type": "node",
+  "id": 1820594010,
+  "lat": 44.4338316,
+  "lon": 26.0616120
+},
+{
+  "type": "node",
+  "id": 1820594013,
+  "lat": 44.4346231,
+  "lon": 26.0609532
+},
+{
+  "type": "node",
+  "id": 1820594014,
+  "lat": 44.4345934,
+  "lon": 26.0610968
+},
+{
+  "type": "node",
+  "id": 1820594019,
+  "lat": 44.4345173,
+  "lon": 26.0613981
+},
+{
+  "type": "node",
+  "id": 1820594020,
+  "lat": 44.4343629,
+  "lon": 26.0612641
+},
+{
+  "type": "node",
+  "id": 1820594033,
+  "lat": 44.4344758,
+  "lon": 26.0619795
+},
+{
+  "type": "node",
+  "id": 1820594034,
+  "lat": 44.4338009,
+  "lon": 26.0615158
+},
+{
+  "type": "node",
+  "id": 1820594037,
+  "lat": 44.4343359,
+  "lon": 26.0626155
+},
+{
+  "type": "node",
+  "id": 1820594038,
+  "lat": 44.4345867,
+  "lon": 26.0613723
+},
+{
+  "type": "node",
+  "id": 1820594040,
+  "lat": 44.4337533,
+  "lon": 26.0616744
+},
+{
+  "type": "node",
+  "id": 1820594042,
+  "lat": 44.4337760,
+  "lon": 26.0615074
+},
+{
+  "type": "node",
+  "id": 1820594043,
+  "lat": 44.4338182,
+  "lon": 26.0615288
+},
+{
+  "type": "node",
+  "id": 1820594046,
+  "lat": 44.4344955,
+  "lon": 26.0613683
+},
+{
+  "type": "node",
+  "id": 1820594048,
+  "lat": 44.4344556,
+  "lon": 26.0626099
+},
+{
+  "type": "node",
+  "id": 1820594049,
+  "lat": 44.4335333,
+  "lon": 26.0623021
+},
+{
+  "type": "node",
+  "id": 4666839306,
+  "lat": 44.4334702,
+  "lon": 26.0614927
+},
+{
+  "type": "node",
+  "id": 4666839314,
+  "lat": 44.4334473,
+  "lon": 26.0616876
+},
+{
+  "type": "node",
+  "id": 255083756,
+  "lat": 44.4413340,
+  "lon": 26.0754829
+},
+{
+  "type": "node",
+  "id": 255083761,
+  "lat": 44.4404283,
+  "lon": 26.0759764
+},
+{
+  "type": "node",
+  "id": 255083762,
+  "lat": 44.4401451,
+  "lon": 26.0756447
+},
+{
+  "type": "node",
+  "id": 255083763,
+  "lat": 44.4402031,
+  "lon": 26.0765504
+},
+{
+  "type": "node",
+  "id": 5254645090,
+  "lat": 44.4410342,
+  "lon": 26.0756372
+},
+{
+  "type": "node",
+  "id": 5254645115,
+  "lat": 44.4411747,
+  "lon": 26.0755650
+},
+{
+  "type": "node",
+  "id": 5254645117,
+  "lat": 44.4410124,
+  "lon": 26.0756502
+},
+{
+  "type": "node",
+  "id": 7015451245,
+  "lat": 44.4401162,
+  "lon": 26.0763010
+},
+{
+  "type": "node",
+  "id": 7015451248,
+  "lat": 44.4403048,
+  "lon": 26.0756019
+},
+{
+  "type": "node",
+  "id": 7015451249,
+  "lat": 44.4401650,
+  "lon": 26.0756998
+},
+{
+  "type": "node",
+  "id": 7015451250,
+  "lat": 44.4399390,
+  "lon": 26.0757829
+},
+{
+  "type": "node",
+  "id": 7015451254,
+  "lat": 44.4400307,
+  "lon": 26.0760496
+},
+{
+  "type": "node",
+  "id": 255083755,
+  "lat": 44.4418057,
+  "lon": 26.0768415
+},
+{
+  "type": "node",
+  "id": 255083764,
+  "lat": 44.4400283,
+  "lon": 26.0776986
+},
+{
+  "type": "node",
+  "id": 471024760,
+  "lat": 44.4403847,
+  "lon": 26.0771033
+},
+{
+  "type": "node",
+  "id": 471024761,
+  "lat": 44.4399415,
+  "lon": 26.0774540
+},
+{
+  "type": "node",
+  "id": 7015451244,
+  "lat": 44.4417954,
+  "lon": 26.0768766
+},
+{
+  "type": "node",
+  "id": 7015451251,
+  "lat": 44.4403391,
+  "lon": 26.0771315
+},
+{
+  "type": "node",
+  "id": 7015451252,
+  "lat": 44.4403521,
+  "lon": 26.0771700
+},
+{
+  "type": "node",
+  "id": 924611343,
+  "lat": 44.4481383,
+  "lon": 26.0730108
+},
+{
+  "type": "node",
+  "id": 924611346,
+  "lat": 44.4481766,
+  "lon": 26.0727249
+},
+{
+  "type": "node",
+  "id": 924611350,
+  "lat": 44.4485007,
+  "lon": 26.0728102
+},
+{
+  "type": "node",
+  "id": 924611355,
+  "lat": 44.4485691,
+  "lon": 26.0730242
+},
+{
+  "type": "node",
+  "id": 924611360,
+  "lat": 44.4484185,
+  "lon": 26.0730844
+},
+{
+  "type": "node",
+  "id": 5870632069,
+  "lat": 44.4482057,
+  "lon": 26.0732213
+},
+{
+  "type": "node",
+  "id": 5870632070,
+  "lat": 44.4482488,
+  "lon": 26.0731125
+},
+{
+  "type": "node",
+  "id": 5870632071,
+  "lat": 44.4482077,
+  "lon": 26.0730812
+},
+{
+  "type": "node",
+  "id": 5870647082,
+  "lat": 44.4485064,
+  "lon": 26.0731625
+},
+{
+  "type": "node",
+  "id": 5870647083,
+  "lat": 44.4482242,
+  "lon": 26.0730334
+},
+{
+  "type": "node",
+  "id": 6696629596,
+  "lat": 44.4480425,
+  "lon": 26.0730880
+},
+{
+  "type": "node",
+  "id": 6696629598,
+  "lat": 44.4480931,
+  "lon": 26.0728122
+},
+{
+  "type": "node",
+  "id": 6696629599,
+  "lat": 44.4481630,
+  "lon": 26.0728263
+},
+{
+  "type": "node",
+  "id": 2574127570,
+  "lat": 44.4486813,
+  "lon": 26.0787609
+},
+{
+  "type": "node",
+  "id": 2574127584,
+  "lat": 44.4490217,
+  "lon": 26.0781220
+},
+{
+  "type": "node",
+  "id": 2574127585,
+  "lat": 44.4490404,
+  "lon": 26.0791363
+},
+{
+  "type": "node",
+  "id": 2574127587,
+  "lat": 44.4493808,
+  "lon": 26.0784974
+},
+{
+  "type": "node",
+  "id": 254342899,
+  "lat": 44.4315881,
+  "lon": 26.0969709
+},
+{
+  "type": "node",
+  "id": 254343777,
+  "lat": 44.4310990,
+  "lon": 26.0968384
+},
+{
+  "type": "node",
+  "id": 254372804,
+  "lat": 44.4319486,
+  "lon": 26.0970708
+},
+{
+  "type": "node",
+  "id": 254372805,
+  "lat": 44.4318740,
+  "lon": 26.0986271
+},
+{
+  "type": "node",
+  "id": 254372807,
+  "lat": 44.4309203,
+  "lon": 26.0983631
+},
+{
+  "type": "node",
+  "id": 254372846,
+  "lat": 44.4315348,
+  "lon": 26.0985363
+},
+{
+  "type": "node",
+  "id": 254372847,
+  "lat": 44.4306447,
+  "lon": 26.0982674
+},
+{
+  "type": "node",
+  "id": 1754330862,
+  "lat": 44.4310650,
+  "lon": 26.0970428
+},
+{
+  "type": "node",
+  "id": 1754330899,
+  "lat": 44.4319272,
+  "lon": 26.0973102
+},
+{
+  "type": "node",
+  "id": 6157552706,
+  "lat": 44.4306523,
+  "lon": 26.0982442
+},
+{
+  "type": "node",
+  "id": 6157571255,
+  "lat": 44.4306786,
+  "lon": 26.0981678
+},
+{
+  "type": "node",
+  "id": 6157640466,
+  "lat": 44.4318782,
+  "lon": 26.0985235
+},
+{
+  "type": "node",
+  "id": 6169982517,
+  "lat": 44.4314486,
+  "lon": 26.0969331
+},
+{
+  "type": "node",
+  "id": 6231340035,
+  "lat": 44.4318800,
+  "lon": 26.0984783
+},
+{
+  "type": "node",
+  "id": 1896615359,
+  "lat": 44.4395333,
+  "lon": 26.0928706
+},
+{
+  "type": "node",
+  "id": 1896615363,
+  "lat": 44.4395335,
+  "lon": 26.0927570
+},
+{
+  "type": "node",
+  "id": 1896615370,
+  "lat": 44.4395814,
+  "lon": 26.0927576
+},
+{
+  "type": "node",
+  "id": 1896615393,
+  "lat": 44.4395867,
+  "lon": 26.0928637
+},
+{
+  "type": "node",
+  "id": 1896615396,
+  "lat": 44.4396930,
+  "lon": 26.0927957
+},
+{
+  "type": "node",
+  "id": 2408212688,
+  "lat": 44.4388091,
+  "lon": 26.0962950
+},
+{
+  "type": "node",
+  "id": 2408212693,
+  "lat": 44.4400805,
+  "lon": 26.0953240
+},
+{
+  "type": "node",
+  "id": 2408212695,
+  "lat": 44.4387670,
+  "lon": 26.0963808
+},
+{
+  "type": "node",
+  "id": 2408212699,
+  "lat": 44.4389491,
+  "lon": 26.0963140
+},
+{
+  "type": "node",
+  "id": 2408212702,
+  "lat": 44.4400484,
+  "lon": 26.0962389
+},
+{
+  "type": "node",
+  "id": 2408212704,
+  "lat": 44.4403640,
+  "lon": 26.0958390
+},
+{
+  "type": "node",
+  "id": 2408212710,
+  "lat": 44.4394641,
+  "lon": 26.0955922
+},
+{
+  "type": "node",
+  "id": 2408212712,
+  "lat": 44.4399963,
+  "lon": 26.0963164
+},
+{
+  "type": "node",
+  "id": 2408212714,
+  "lat": 44.4389776,
+  "lon": 26.0962789
+},
+{
+  "type": "node",
+  "id": 2408212716,
+  "lat": 44.4404046,
+  "lon": 26.0955254
+},
+{
+  "type": "node",
+  "id": 2408212721,
+  "lat": 44.4387823,
+  "lon": 26.0962950
+},
+{
+  "type": "node",
+  "id": 2408212723,
+  "lat": 44.4398277,
+  "lon": 26.0961340
+},
+{
+  "type": "node",
+  "id": 2408212725,
+  "lat": 44.4402644,
+  "lon": 26.0949595
+},
+{
+  "type": "node",
+  "id": 2408212729,
+  "lat": 44.4404865,
+  "lon": 26.0956942
+},
+{
+  "type": "node",
+  "id": 2408212731,
+  "lat": 44.4401150,
+  "lon": 26.0952170
+},
+{
+  "type": "node",
+  "id": 2408212733,
+  "lat": 44.4397167,
+  "lon": 26.0958712
+},
+{
+  "type": "node",
+  "id": 2408212735,
+  "lat": 44.4398546,
+  "lon": 26.0960911
+},
+{
+  "type": "node",
+  "id": 2408212737,
+  "lat": 44.4402950,
+  "lon": 26.0950614
+},
+{
+  "type": "node",
+  "id": 2408212741,
+  "lat": 44.4400614,
+  "lon": 26.0950346
+},
+{
+  "type": "node",
+  "id": 2408212743,
+  "lat": 44.4400422,
+  "lon": 26.0950829
+},
+{
+  "type": "node",
+  "id": 2408212748,
+  "lat": 44.4387746,
+  "lon": 26.0960428
+},
+{
+  "type": "node",
+  "id": 2408212749,
+  "lat": 44.4399312,
+  "lon": 26.0963111
+},
+{
+  "type": "node",
+  "id": 2408212752,
+  "lat": 44.4400346,
+  "lon": 26.0962145
+},
+{
+  "type": "node",
+  "id": 2408212757,
+  "lat": 44.4390198,
+  "lon": 26.0959034
+},
+{
+  "type": "node",
+  "id": 2408212762,
+  "lat": 44.4402797,
+  "lon": 26.0951043
+},
+{
+  "type": "node",
+  "id": 2408212763,
+  "lat": 44.4396288,
+  "lon": 26.0955869
+},
+{
+  "type": "node",
+  "id": 2408212765,
+  "lat": 44.4396249,
+  "lon": 26.0955279
+},
+{
+  "type": "node",
+  "id": 2408212767,
+  "lat": 44.4404787,
+  "lon": 26.0957483
+},
+{
+  "type": "node",
+  "id": 2408212769,
+  "lat": 44.4400576,
+  "lon": 26.0952438
+},
+{
+  "type": "node",
+  "id": 2408212773,
+  "lat": 44.4402223,
+  "lon": 26.0949434
+},
+{
+  "type": "node",
+  "id": 2408212774,
+  "lat": 44.4390198,
+  "lon": 26.0958444
+},
+{
+  "type": "node",
+  "id": 2408212778,
+  "lat": 44.4389891,
+  "lon": 26.0962252
+},
+{
+  "type": "node",
+  "id": 2408212780,
+  "lat": 44.4388053,
+  "lon": 26.0963754
+},
+{
+  "type": "node",
+  "id": 2408212782,
+  "lat": 44.4394930,
+  "lon": 26.0956542
+},
+{
+  "type": "node",
+  "id": 2408212783,
+  "lat": 44.4404444,
+  "lon": 26.0955064
+},
+{
+  "type": "node",
+  "id": 2408212789,
+  "lat": 44.4400805,
+  "lon": 26.0951902
+},
+{
+  "type": "node",
+  "id": 2408212793,
+  "lat": 44.4403778,
+  "lon": 26.0958741
+},
+{
+  "type": "node",
+  "id": 2634651912,
+  "lat": 44.4396050,
+  "lon": 26.0925362
+},
+{
+  "type": "node",
+  "id": 7042460253,
+  "lat": 44.4397221,
+  "lon": 26.0925679
+},
+{
+  "type": "node",
+  "id": 7042460255,
+  "lat": 44.4396142,
+  "lon": 26.0928431
+},
+{
+  "type": "node",
+  "id": 7042460256,
+  "lat": 44.4396058,
+  "lon": 26.0928324
+},
+{
+  "type": "node",
+  "id": 7042460257,
+  "lat": 44.4396273,
+  "lon": 26.0928384
+},
+{
+  "type": "node",
+  "id": 7042460258,
+  "lat": 44.4396307,
+  "lon": 26.0928196
+},
+{
+  "type": "node",
+  "id": 7042460259,
+  "lat": 44.4396604,
+  "lon": 26.0928270
+},
+{
+  "type": "node",
+  "id": 7042460260,
+  "lat": 44.4396039,
+  "lon": 26.0928129
+},
+{
+  "type": "node",
+  "id": 7042460261,
+  "lat": 44.4395866,
+  "lon": 26.0928096
+},
+{
+  "type": "node",
+  "id": 7042460262,
+  "lat": 44.4396648,
+  "lon": 26.0927895
+},
+{
+  "type": "node",
+  "id": 906011767,
+  "lat": 44.4486181,
+  "lon": 26.0885939
+},
+{
+  "type": "node",
+  "id": 906011770,
+  "lat": 44.4487456,
+  "lon": 26.0884942
+},
+{
+  "type": "node",
+  "id": 906011772,
+  "lat": 44.4487695,
+  "lon": 26.0885354
+},
+{
+  "type": "node",
+  "id": 906011774,
+  "lat": 44.4488386,
+  "lon": 26.0884862
+},
+{
+  "type": "node",
+  "id": 906011776,
+  "lat": 44.4488265,
+  "lon": 26.0884413
+},
+{
+  "type": "node",
+  "id": 906011778,
+  "lat": 44.4489396,
+  "lon": 26.0883444
+},
+{
+  "type": "node",
+  "id": 906011779,
+  "lat": 44.4488980,
+  "lon": 26.0882305
+},
+{
+  "type": "node",
+  "id": 906011789,
+  "lat": 44.4488350,
+  "lon": 26.0882753
+},
+{
+  "type": "node",
+  "id": 906011791,
+  "lat": 44.4488067,
+  "lon": 26.0882145
+},
+{
+  "type": "node",
+  "id": 906011793,
+  "lat": 44.4488337,
+  "lon": 26.0881888
+},
+{
+  "type": "node",
+  "id": 906011795,
+  "lat": 44.4487536,
+  "lon": 26.0879965
+},
+{
+  "type": "node",
+  "id": 906011796,
+  "lat": 44.4485134,
+  "lon": 26.0881825
+},
+{
+  "type": "node",
+  "id": 906011798,
+  "lat": 44.4485844,
+  "lon": 26.0883681
+},
+{
+  "type": "node",
+  "id": 906011799,
+  "lat": 44.4486338,
+  "lon": 26.0883417
+},
+{
+  "type": "node",
+  "id": 906011801,
+  "lat": 44.4486600,
+  "lon": 26.0884045
+},
+{
+  "type": "node",
+  "id": 906011804,
+  "lat": 44.4485788,
+  "lon": 26.0884749
+},
+{
+  "type": "node",
+  "id": 2408212684,
+  "lat": 44.4389912,
+  "lon": 26.0968344
+},
+{
+  "type": "node",
+  "id": 2408212690,
+  "lat": 44.4385755,
+  "lon": 26.0969065
+},
+{
+  "type": "node",
+  "id": 2408212697,
+  "lat": 44.4385065,
+  "lon": 26.0969119
+},
+{
+  "type": "node",
+  "id": 2408212706,
+  "lat": 44.4389470,
+  "lon": 26.0966115
+},
+{
+  "type": "node",
+  "id": 2408212708,
+  "lat": 44.4389891,
+  "lon": 26.0966168
+},
+{
+  "type": "node",
+  "id": 2408212719,
+  "lat": 44.4387900,
+  "lon": 26.0965095
+},
+{
+  "type": "node",
+  "id": 2408212727,
+  "lat": 44.4389662,
+  "lon": 26.0968797
+},
+{
+  "type": "node",
+  "id": 2408212739,
+  "lat": 44.4384721,
+  "lon": 26.0968529
+},
+{
+  "type": "node",
+  "id": 2408212745,
+  "lat": 44.4387670,
+  "lon": 26.0965095
+},
+{
+  "type": "node",
+  "id": 2408212754,
+  "lat": 44.4388781,
+  "lon": 26.0968797
+},
+{
+  "type": "node",
+  "id": 2408212760,
+  "lat": 44.4384644,
+  "lon": 26.0964720
+},
+{
+  "type": "node",
+  "id": 2408212771,
+  "lat": 44.4386023,
+  "lon": 26.0966276
+},
+{
+  "type": "node",
+  "id": 2408212776,
+  "lat": 44.4387900,
+  "lon": 26.0966168
+},
+{
+  "type": "node",
+  "id": 2408212785,
+  "lat": 44.4385946,
+  "lon": 26.0968690
+},
+{
+  "type": "node",
+  "id": 2408212787,
+  "lat": 44.4388436,
+  "lon": 26.0968582
+},
+{
+  "type": "node",
+  "id": 2408212791,
+  "lat": 44.4385870,
+  "lon": 26.0964559
+},
+{
+  "type": "node",
+  "id": 327098698,
+  "lat": 44.4719257,
+  "lon": 26.0764747
+},
+{
+  "type": "node",
+  "id": 327098701,
+  "lat": 44.4727007,
+  "lon": 26.0760722
+},
+{
+  "type": "node",
+  "id": 327098704,
+  "lat": 44.4734447,
+  "lon": 26.0756936
+},
+{
+  "type": "node",
+  "id": 327098707,
+  "lat": 44.4743021,
+  "lon": 26.0753245
+},
+{
+  "type": "node",
+  "id": 327098710,
+  "lat": 44.4744307,
+  "lon": 26.0752988
+},
+{
+  "type": "node",
+  "id": 327098713,
+  "lat": 44.4745226,
+  "lon": 26.0756936
+},
+{
+  "type": "node",
+  "id": 327098719,
+  "lat": 44.4745777,
+  "lon": 26.0760798
+},
+{
+  "type": "node",
+  "id": 327098722,
+  "lat": 44.4747064,
+  "lon": 26.0764747
+},
+{
+  "type": "node",
+  "id": 327098668,
+  "lat": 44.4713175,
+  "lon": 26.0803289
+},
+{
+  "type": "node",
+  "id": 327098671,
+  "lat": 44.4709947,
+  "lon": 26.0802637
+},
+{
+  "type": "node",
+  "id": 327098674,
+  "lat": 44.4709989,
+  "lon": 26.0799496
+},
+{
+  "type": "node",
+  "id": 327098677,
+  "lat": 44.4709395,
+  "lon": 26.0790880
+},
+{
+  "type": "node",
+  "id": 327098680,
+  "lat": 44.4707426,
+  "lon": 26.0789670
+},
+{
+  "type": "node",
+  "id": 327098683,
+  "lat": 44.4706102,
+  "lon": 26.0789796
+},
+{
+  "type": "node",
+  "id": 327098686,
+  "lat": 44.4704101,
+  "lon": 26.0784200
+},
+{
+  "type": "node",
+  "id": 327098689,
+  "lat": 44.4702058,
+  "lon": 26.0778307
+},
+{
+  "type": "node",
+  "id": 327098692,
+  "lat": 44.4700685,
+  "lon": 26.0774281
+},
+{
+  "type": "node",
+  "id": 327098695,
+  "lat": 44.4712671,
+  "lon": 26.0768174
+},
+{
+  "type": "node",
+  "id": 327098725,
+  "lat": 44.4745055,
+  "lon": 26.0770064
+},
+{
+  "type": "node",
+  "id": 327098727,
+  "lat": 44.4739703,
+  "lon": 26.0768988
+},
+{
+  "type": "node",
+  "id": 327098730,
+  "lat": 44.4735733,
+  "lon": 26.0769124
+},
+{
+  "type": "node",
+  "id": 327098733,
+  "lat": 44.4733143,
+  "lon": 26.0770494
+},
+{
+  "type": "node",
+  "id": 327098736,
+  "lat": 44.4730522,
+  "lon": 26.0772185
+},
+{
+  "type": "node",
+  "id": 327098739,
+  "lat": 44.4720975,
+  "lon": 26.0778926
+},
+{
+  "type": "node",
+  "id": 2380399940,
+  "lat": 44.4709312,
+  "lon": 26.0799327
+},
+{
+  "type": "node",
+  "id": 2380476715,
+  "lat": 44.4719432,
+  "lon": 26.0781639
+},
+{
+  "type": "node",
+  "id": 450651264,
+  "lat": 44.4688078,
+  "lon": 26.0916614
+},
+{
+  "type": "node",
+  "id": 450651265,
+  "lat": 44.4684388,
+  "lon": 26.0920555
+},
+{
+  "type": "node",
+  "id": 450651266,
+  "lat": 44.4689457,
+  "lon": 26.0929874
+},
+{
+  "type": "node",
+  "id": 450651267,
+  "lat": 44.4693147,
+  "lon": 26.0925933
+},
+{
+  "type": "node",
+  "id": 7161915108,
+  "lat": 44.4759748,
+  "lon": 26.1094393
+},
+{
+  "type": "node",
+  "id": 7161915109,
+  "lat": 44.4758319,
+  "lon": 26.1090273
+},
+{
+  "type": "node",
+  "id": 7161915114,
+  "lat": 44.4758688,
+  "lon": 26.1079536
+},
+{
+  "type": "node",
+  "id": 7161915115,
+  "lat": 44.4757334,
+  "lon": 26.1081052
+},
+{
+  "type": "node",
+  "id": 7161915116,
+  "lat": 44.4757739,
+  "lon": 26.1087143
+},
+{
+  "type": "node",
+  "id": 7161915117,
+  "lat": 44.4757911,
+  "lon": 26.1088782
+},
+{
+  "type": "node",
+  "id": 2247677437,
+  "lat": 44.3983468,
+  "lon": 26.1183332
+},
+{
+  "type": "node",
+  "id": 2247677449,
+  "lat": 44.3982607,
+  "lon": 26.1185302
+},
+{
+  "type": "node",
+  "id": 2247677450,
+  "lat": 44.3983517,
+  "lon": 26.1186081
+},
+{
+  "type": "node",
+  "id": 2247677458,
+  "lat": 44.3984378,
+  "lon": 26.1184111
+},
+{
+  "type": "node",
+  "id": 2635056749,
+  "lat": 44.4402950,
+  "lon": 26.1208164
+},
+{
+  "type": "node",
+  "id": 2635056750,
+  "lat": 44.4402511,
+  "lon": 26.1208473
+},
+{
+  "type": "node",
+  "id": 2635056752,
+  "lat": 44.4403087,
+  "lon": 26.1207871
+},
+{
+  "type": "node",
+  "id": 2635056754,
+  "lat": 44.4402262,
+  "lon": 26.1208454
+},
+{
+  "type": "node",
+  "id": 2635056762,
+  "lat": 44.4401739,
+  "lon": 26.1207764
+},
+{
+  "type": "node",
+  "id": 2635056763,
+  "lat": 44.4402033,
+  "lon": 26.1208316
+},
+{
+  "type": "node",
+  "id": 2635056765,
+  "lat": 44.4401851,
+  "lon": 26.1208076
+},
+{
+  "type": "node",
+  "id": 2635056767,
+  "lat": 44.4402592,
+  "lon": 26.1206495
+},
+{
+  "type": "node",
+  "id": 2635056768,
+  "lat": 44.4403002,
+  "lon": 26.1206872
+},
+{
+  "type": "node",
+  "id": 2635056770,
+  "lat": 44.4403115,
+  "lon": 26.1207184
+},
+{
+  "type": "node",
+  "id": 2635056772,
+  "lat": 44.4403144,
+  "lon": 26.1207531
+},
+{
+  "type": "node",
+  "id": 2635056773,
+  "lat": 44.4401904,
+  "lon": 26.1206785
+},
+{
+  "type": "node",
+  "id": 2635056775,
+  "lat": 44.4402104,
+  "lon": 26.1206576
+},
+{
+  "type": "node",
+  "id": 2635056776,
+  "lat": 44.4401710,
+  "lon": 26.1207417
+},
+{
+  "type": "node",
+  "id": 2635056778,
+  "lat": 44.4402750,
+  "lon": 26.1208373
+},
+{
+  "type": "node",
+  "id": 2635056780,
+  "lat": 44.4401767,
+  "lon": 26.1207077
+},
+{
+  "type": "node",
+  "id": 2635056781,
+  "lat": 44.4402821,
+  "lon": 26.1206633
+},
+{
+  "type": "node",
+  "id": 2635056783,
+  "lat": 44.4402342,
+  "lon": 26.1206475
+},
+{
+  "type": "node",
+  "id": 450623171,
+  "lat": 44.4844091,
+  "lon": 26.0752248
+},
+{
+  "type": "node",
+  "id": 450623172,
+  "lat": 44.4843659,
+  "lon": 26.0754590
+},
+{
+  "type": "node",
+  "id": 450623173,
+  "lat": 44.4842127,
+  "lon": 26.0754035
+},
+{
+  "type": "node",
+  "id": 450623174,
+  "lat": 44.4842560,
+  "lon": 26.0751693
+},
+{
+  "type": "node",
+  "id": 4161774633,
+  "lat": 44.4781967,
+  "lon": 26.1089569
+},
+{
+  "type": "node",
+  "id": 7071776771,
+  "lat": 44.4785651,
+  "lon": 26.1079395
+},
+{
+  "type": "node",
+  "id": 7161915107,
+  "lat": 44.4766508,
+  "lon": 26.1093536
+},
+{
+  "type": "node",
+  "id": 7161915110,
+  "lat": 44.4766008,
+  "lon": 26.1093468
+},
+{
+  "type": "node",
+  "id": 7161915111,
+  "lat": 44.4765517,
+  "lon": 26.1093097
+},
+{
+  "type": "node",
+  "id": 7161915112,
+  "lat": 44.4765126,
+  "lon": 26.1092655
+},
+{
+  "type": "node",
+  "id": 7161915113,
+  "lat": 44.4763062,
+  "lon": 26.1087173
+},
+{
+  "type": "node",
+  "id": 7161915122,
+  "lat": 44.4786486,
+  "lon": 26.1083303
+},
+{
+  "type": "node",
+  "id": 7161915123,
+  "lat": 44.4781095,
+  "lon": 26.1087267
+},
+{
+  "type": "node",
+  "id": 696844041,
+  "lat": 44.4780162,
+  "lon": 26.1126398
+},
+{
+  "type": "node",
+  "id": 2314133636,
+  "lat": 44.4775039,
+  "lon": 26.1139153
+},
+{
+  "type": "node",
+  "id": 4161774631,
+  "lat": 44.4774275,
+  "lon": 26.1097881
+},
+{
+  "type": "node",
+  "id": 4161774636,
+  "lat": 44.4761062,
+  "lon": 26.1097968
+},
+{
+  "type": "node",
+  "id": 4161774638,
+  "lat": 44.4770218,
+  "lon": 26.1120822
+},
+{
+  "type": "node",
+  "id": 4161774640,
+  "lat": 44.4770763,
+  "lon": 26.1122884
+},
+{
+  "type": "node",
+  "id": 4161774643,
+  "lat": 44.4771611,
+  "lon": 26.1099717
+},
+{
+  "type": "node",
+  "id": 4161774657,
+  "lat": 44.4773525,
+  "lon": 26.1095778
+},
+{
+  "type": "node",
+  "id": 4161774658,
+  "lat": 44.4781175,
+  "lon": 26.1125677
+},
+{
+  "type": "node",
+  "id": 4402490615,
+  "lat": 44.4782749,
+  "lon": 26.1134286
+},
+{
+  "type": "way",
+  "id": 23557098,
+  "nodes": [
+    255095233,
+    1820593976,
+    1820593897,
+    1820593993,
+    1820593938,
+    1820593942,
+    1820594013,
+    1820593962,
+    1820594014,
+    1820594038,
+    1820594046,
+    1820594019,
+    1820593914,
+    1820593854,
+    1820594033,
+    1820593900,
+    1820593970,
+    1820593941,
+    1820593890,
+    1820593981,
+    1820593872,
+    1820594048,
+    255095234,
+    1820593958,
+    1820593985,
+    1820593913,
+    1820593891,
+    1820594037,
+    1820593965,
+    1820593916,
+    1820593912,
+    1820593925,
+    1820593888,
+    1820593998,
+    1820593983,
+    1820593896,
+    1820593933,
+    1820594006,
+    1820593961,
+    1820593893,
+    255095235,
+    255095236,
+    1820594049,
+    1820593919,
+    255095237,
+    255095238,
+    1820593972,
+    1820594008,
+    4666839314,
+    255095239,
+    255095240,
+    4666839306,
+    255095241,
+    1820593864,
+    1820593967,
+    1820593921,
+    1820593838,
+    255095242,
+    1820593866,
+    1820593964,
+    255095243,
+    255095244,
+    255095233
+  ]
+},
+{
+  "type": "way",
+  "id": 170952564,
+  "nodes": [
+    1820593858,
+    1820593905,
+    1820593928,
+    1820593918,
+    1820593836,
+    1820593860,
+    1820593940,
+    1820593927,
+    1820593904,
+    1820593926,
+    1820593955,
+    1820593969,
+    1820593980,
+    1820593915,
+    1820593911,
+    1820593868,
+    1820593960,
+    1820594040,
+    1820593935,
+    1820593898,
+    1820594010,
+    1820594001,
+    1820594043,
+    1820594034,
+    1820594042,
+    1820593975,
+    1820593858
+  ]
+},
+{
+  "type": "way",
+  "id": 170952565,
+  "nodes": [
+    1820593963,
+    1820594020,
+    1820593840,
+    1820593984,
+    1820593963
+  ]
+}
+
+  ]
+}

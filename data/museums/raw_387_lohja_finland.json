@@ -1,0 +1,1333 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-14T18:20:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 60250260,
+  "lat": 60.2210185,
+  "lon": 24.6798036,
+  "tags": {
+    "addr:city": "Espoo",
+    "addr:housenumber": "1",
+    "addr:postcode": "02740",
+    "addr:street": "Glimsintie",
+    "historic": "farm",
+    "name": "Glims",
+    "opening_hours": "Tu-Fr 10:00-16:00; Su 11:00-16:00",
+    "phone": "+358 9 816 27337",
+    "tourism": "museum",
+    "website": "http://www.espoonkaupunginmuseo.fi/fi-FI/Talomuseo_Glims"
+  }
+},
+{
+  "type": "node",
+  "id": 75210394,
+  "lat": 60.2636957,
+  "lon": 24.0696677,
+  "tags": {
+    "fee": "yes",
+    "name:en": "Tytyri Mine Experience",
+    "name:fi": "Tytyri Elämyskaivos",
+    "name:ru": "Горный музей Тютюри",
+    "phone": "+358 443691309",
+    "tourism": "museum",
+    "website": "https://www.tytyrielamyskaivos.fi/"
+  }
+},
+{
+  "type": "node",
+  "id": 852773060,
+  "lat": 60.4186049,
+  "lon": 24.3134160,
+  "tags": {
+    "addr:city": "Vihti",
+    "addr:housenumber": "1",
+    "addr:postcode": "03400",
+    "addr:street": "Kirkkoniementie",
+    "email": "museo@vihti.fi",
+    "facebook": "https://www.facebook.com/vihdinmuseo",
+    "museum": "history",
+    "museum_type": "municipal",
+    "name": "Vihdin museo",
+    "opening_hours": "We-Fr 12:00-16:00; Su 12:00-15:00",
+    "operator": "Vihdin kunta",
+    "phone": "09 4258 3185",
+    "start_date": "1958",
+    "tourism": "museum",
+    "website": "https://www.vihti.fi/kulttuuri-ja-vapaa-aika/museo/"
+  }
+},
+{
+  "type": "node",
+  "id": 912966000,
+  "lat": 60.4178540,
+  "lon": 24.3129076,
+  "tags": {
+    "name": "Evakkomuseo",
+    "operator": "Vihdin museo",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 937522657,
+  "lat": 60.2752786,
+  "lon": 24.6689599,
+  "tags": {
+    "addr:city": "Espoo",
+    "addr:country": "FI",
+    "addr:housenumber": "35",
+    "addr:postcode": "02740",
+    "addr:street": "Bodomintie",
+    "contact:phone": "+358 9 8557178",
+    "name": "Espoon automuseo",
+    "name:en": "Espoo Car Museum",
+    "name:fi": "Espoon automuseo",
+    "name:sv": "Esbo bilmuseum",
+    "opening_hours": "Tu 11:00-17:00; We 11:00-19:00; Th-Su 11:00-17:00",
+    "source": "extrapolation",
+    "tourism": "museum",
+    "website": "http://espoonautomuseo.com/",
+    "wikidata": "Q11858781",
+    "wikipedia": "fi:Espoon Automuseo"
+  }
+},
+{
+  "type": "node",
+  "id": 1081791351,
+  "lat": 60.5284935,
+  "lon": 24.1975402,
+  "tags": {
+    "name": "Högforsin Työläismuseo",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1081791600,
+  "lat": 60.5330130,
+  "lon": 24.1996087,
+  "tags": {
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 2050282242,
+  "lat": 60.1314106,
+  "lon": 24.4449207,
+  "tags": {
+    "name": "Gesterbyn museoalue",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 2050541008,
+  "lat": 60.1229815,
+  "lon": 24.4169655,
+  "tags": {
+    "name": "Ragvaldsin museoalue",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3573312444,
+  "lat": 60.1066461,
+  "lon": 24.6747482,
+  "tags": {
+    "addr:city": "Espoo",
+    "name": "Saaristomuseo Pentala",
+    "note": "Avataan virallisesti 2018.",
+    "operator": "Espoon kaupunginmuseo",
+    "phone": "+358 46 877 3775",
+    "tourism": "museum",
+    "website": "http://www.espoonkaupunginmuseo.fi/fi-FI/Saaristomuseo"
+  }
+},
+{
+  "type": "node",
+  "id": 3647997957,
+  "lat": 60.4620942,
+  "lon": 24.3614963,
+  "tags": {
+    "addr:city": "Vihti",
+    "addr:housenumber": "173",
+    "addr:postcode": "03400",
+    "addr:street": "Haavistontie",
+    "name": "Koiviston museomäki",
+    "opening_hours": "\"reservation by phone\"",
+    "phone": "0440410424",
+    "tourism": "museum",
+    "website": "http://koivistonmuseomaki.fi/"
+  }
+},
+{
+  "type": "node",
+  "id": 3765714202,
+  "lat": 60.4288015,
+  "lon": 24.2039830,
+  "tags": {
+    "name": "Kansainvälinen Suomen Golfmuseo",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4124569491,
+  "lat": 60.3338997,
+  "lon": 24.3201285,
+  "tags": {
+    "addr:city": "Nummela",
+    "addr:housenumber": "1",
+    "addr:postcode": "03100",
+    "addr:street": "Asemantie",
+    "name": "Vihdin PopUp Museo",
+    "shop": "interior_decoration",
+    "shop_1": "gift",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4141164872,
+  "lat": 60.0435965,
+  "lon": 23.9987498,
+  "tags": {
+    "addr:city": "Inkoo",
+    "addr:housenumber": "6",
+    "addr:postcode": "10210",
+    "addr:street": "Museivägen",
+    "name": "Gammelgården",
+    "name:fi": "Inkoon kotiseutumuseo",
+    "name:sv": "Gammelgården",
+    "tourism": "museum",
+    "website": "http://www.westernuusimaamuseums.fi/inkoon-kotiseutumuseo/"
+  }
+},
+{
+  "type": "node",
+  "id": 4370761331,
+  "lat": 60.2210129,
+  "lon": 24.4428921,
+  "tags": {
+    "addr:housenumber": "1",
+    "addr:street": "Alisgårdintie",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 77617734,
+  "nodes": [
+    913293602,
+    913293604,
+    913293605,
+    913293606,
+    913293602
+  ],
+  "tags": {
+    "addr:city": "Vihti",
+    "addr:housenumber": "10",
+    "addr:postcode": "03400",
+    "addr:street": "Niuhalanraitti",
+    "building": "civic",
+    "building:colour": "red",
+    "building:levels": "3",
+    "building:material": "wood",
+    "historic": "building",
+    "name": "Viljamakasiini",
+    "opening_hours": "\"only events and by appointment\"",
+    "operator": "Vihdin museo",
+    "start_date": "1811",
+    "tourism": "museum",
+    "window": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 129296328,
+  "nodes": [
+    1426803933,
+    1426803969,
+    1426803974,
+    1426803831,
+    1426803837,
+    1426803853,
+    1426803906,
+    1426803893,
+    1426803975,
+    1426803977,
+    1426803978,
+    1426803981,
+    1426803933
+  ],
+  "tags": {
+    "addr:city": "Espoo",
+    "addr:housenumber": "4",
+    "addr:postcode": "02770",
+    "addr:street": "Vanha Lagstadintie",
+    "building": "yes",
+    "description": "Espoon ensimmäinen kansakoulu, joka aloitti toimintansa 2.9.1873. Sodan aikana 1944 taloon evakuoitiin Helsingistä osa Kätilöopiston synnytyslaitosta. Yläkerta toimi silloin sisätautisairaalana. Kansakoulu muutti uuteen rakennukseen 1954.",
+    "museum": "local",
+    "museum_type": "municipal",
+    "name": "Lagstad hembygdsgård",
+    "name:fi": "Lagstadin kotiseututalo",
+    "name:sv": "Lagstad hembygdsgård",
+    "source": "Bing",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 129297025,
+  "nodes": [
+    1426809136,
+    1426809130,
+    1426809153,
+    1426809138,
+    1426809136
+  ],
+  "tags": {
+    "addr:city": "Espoo",
+    "addr:country": "FI",
+    "addr:housenumber": "1",
+    "addr:street": "Kirkonmäentie",
+    "building": "office",
+    "source": "Bing",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 167155451,
+  "nodes": [
+    1785592960,
+    1785592949,
+    1785592951,
+    1785592947,
+    1785592960
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Senkka Ruukkimuseo",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 198217570,
+  "nodes": [
+    2083792098,
+    2083792099,
+    2083792100,
+    2083792101,
+    2083792098
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Muséet Degerby Igor",
+    "name:fi": "Degerbyn Igor-museo",
+    "name:sv": "Muséet Degerby Igor",
+    "source": "Bing",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 247767180,
+  "nodes": [
+    2546304355,
+    2546304354,
+    2546304353,
+    2546304350,
+    2546304349,
+    2546304348,
+    2546304351,
+    2546304352,
+    2546304355
+  ],
+  "tags": {
+    "addr:housenumber": "15",
+    "addr:street": "Rullaniementie",
+    "building": "yes",
+    "building:levels": "2",
+    "fee": "no",
+    "name": "Villa Rulludd",
+    "opening_hours": "Su[1] 11:00-15:00",
+    "start_date": "1915",
+    "tourism": "museum",
+    "website": "http://www.espoonkaupunginmuseo.fi/fi-FI/Huvilamuseo",
+    "wikidata": "Q22946082",
+    "wikipedia": "sv:Villamuseet_Villa_Rulludd"
+  }
+},
+{
+  "type": "way",
+  "id": 282791819,
+  "nodes": [
+    2867334317,
+    2867445362,
+    2867334308,
+    2867445360,
+    2867334303,
+    2867334301,
+    2867445352,
+    2867334296,
+    2867334291,
+    2867334287,
+    2867334293,
+    2867334288,
+    2867334238,
+    2867334233,
+    2867334231,
+    2867334167,
+    2867334181,
+    2867334183,
+    2867334188,
+    2867334190,
+    2867334191,
+    2867334206,
+    2867334214,
+    2867334215,
+    2867334258,
+    2867334256,
+    2867334282,
+    2867334284,
+    2867334317
+  ],
+  "tags": {
+    "addr:city": "Luoma",
+    "addr:housename": "Hvitträsk",
+    "addr:housenumber": "166",
+    "addr:postcode": "02440",
+    "addr:street": "Hvitträskintie",
+    "building": "yes",
+    "layer": "2",
+    "name": "Hvitträsk",
+    "tourism": "museum",
+    "website": "http://www.nba.fi/fi/museot/hvittrask",
+    "wikidata": "Q3609412",
+    "wikipedia": "fi:Hvitträsk"
+  }
+},
+{
+  "type": "way",
+  "id": 396354415,
+  "nodes": [
+    3991661787,
+    3991661797,
+    3991661783,
+    3991661757,
+    3991661787
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Fanjunkars",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 560999509,
+  "nodes": [
+    5409804778,
+    5409804775,
+    5409804776,
+    5409804777,
+    5409804778
+  ],
+  "tags": {
+    "building": "yes",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 560999511,
+  "nodes": [
+    5409804782,
+    5409804781,
+    5409804780,
+    5409804779,
+    5409804782
+  ],
+  "tags": {
+    "building": "yes",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 560999513,
+  "nodes": [
+    5409804786,
+    5409804785,
+    5589062457,
+    5589062456,
+    5409804784,
+    5409804783,
+    5409804786
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Lohjan museo",
+    "tourism": "museum",
+    "website": "http://palvelut.lohja.fi/museo/"
+  }
+},
+{
+  "type": "way",
+  "id": 560999516,
+  "nodes": [
+    5409804790,
+    5409804787,
+    5409804788,
+    5409804789,
+    5409804790
+  ],
+  "tags": {
+    "building": "yes",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 560999518,
+  "nodes": [
+    5409804794,
+    5409804791,
+    5409804792,
+    5409804793,
+    5409804794
+  ],
+  "tags": {
+    "building": "yes",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 584754296,
+  "nodes": [
+    5589062440,
+    5589062441,
+    5589062442,
+    5589062443,
+    5589062440
+  ],
+  "tags": {
+    "building": "yes",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 584754299,
+  "nodes": [
+    5589062444,
+    5589062445,
+    5589062446,
+    5589062447,
+    5589062444
+  ],
+  "tags": {
+    "building": "yes",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 584754300,
+  "nodes": [
+    5589062448,
+    5589062449,
+    5589062450,
+    5589062451,
+    5589062448
+  ],
+  "tags": {
+    "building": "yes",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 584754301,
+  "nodes": [
+    5589062452,
+    5589062453,
+    5589062454,
+    5589062455,
+    5589062452
+  ],
+  "tags": {
+    "building": "yes",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 584754303,
+  "nodes": [
+    5589062458,
+    5589062459,
+    5589062460,
+    5589062461,
+    5589062458
+  ],
+  "tags": {
+    "building": "yes",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 584754304,
+  "nodes": [
+    5589062462,
+    5589062463,
+    5589062464,
+    5589062465,
+    5589062462
+  ],
+  "tags": {
+    "building": "yes",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 702537287,
+  "nodes": [
+    6597439923,
+    6597439924,
+    6597439925,
+    6597439926,
+    6597439923
+  ],
+  "tags": {
+    "alt_name": "Elias Lönnrotin synnyinkoti",
+    "building": "yes",
+    "name": "Paikkarin torppa",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6597439923,
+  "lat": 60.3524262,
+  "lon": 23.8049770
+},
+{
+  "type": "node",
+  "id": 6597439924,
+  "lat": 60.3523607,
+  "lon": 23.8048420
+},
+{
+  "type": "node",
+  "id": 6597439925,
+  "lat": 60.3523146,
+  "lon": 23.8049334
+},
+{
+  "type": "node",
+  "id": 6597439926,
+  "lat": 60.3523801,
+  "lon": 23.8050684
+},
+{
+  "type": "node",
+  "id": 2083792098,
+  "lat": 60.0839924,
+  "lon": 24.1753097
+},
+{
+  "type": "node",
+  "id": 2083792099,
+  "lat": 60.0840049,
+  "lon": 24.1753856
+},
+{
+  "type": "node",
+  "id": 2083792100,
+  "lat": 60.0841683,
+  "lon": 24.1752786
+},
+{
+  "type": "node",
+  "id": 2083792101,
+  "lat": 60.0841550,
+  "lon": 24.1752008
+},
+{
+  "type": "node",
+  "id": 3991661757,
+  "lat": 60.1355259,
+  "lon": 24.2277143
+},
+{
+  "type": "node",
+  "id": 3991661783,
+  "lat": 60.1354773,
+  "lon": 24.2278437
+},
+{
+  "type": "node",
+  "id": 3991661787,
+  "lat": 60.1353740,
+  "lon": 24.2274846
+},
+{
+  "type": "node",
+  "id": 3991661797,
+  "lat": 60.1353254,
+  "lon": 24.2276140
+},
+{
+  "type": "node",
+  "id": 5409804775,
+  "lat": 60.2570543,
+  "lon": 24.0703442
+},
+{
+  "type": "node",
+  "id": 5409804778,
+  "lat": 60.2570332,
+  "lon": 24.0705058
+},
+{
+  "type": "node",
+  "id": 5409804779,
+  "lat": 60.2560976,
+  "lon": 24.0697323
+},
+{
+  "type": "node",
+  "id": 5409804780,
+  "lat": 60.2559745,
+  "lon": 24.0696035
+},
+{
+  "type": "node",
+  "id": 5409804781,
+  "lat": 60.2559393,
+  "lon": 24.0697402
+},
+{
+  "type": "node",
+  "id": 5409804782,
+  "lat": 60.2560624,
+  "lon": 24.0698689
+},
+{
+  "type": "node",
+  "id": 5409804783,
+  "lat": 60.2563562,
+  "lon": 24.0711872
+},
+{
+  "type": "node",
+  "id": 5409804784,
+  "lat": 60.2564837,
+  "lon": 24.0706879
+},
+{
+  "type": "node",
+  "id": 5409804785,
+  "lat": 60.2564216,
+  "lon": 24.0704748
+},
+{
+  "type": "node",
+  "id": 5409804786,
+  "lat": 60.2562641,
+  "lon": 24.0710917
+},
+{
+  "type": "node",
+  "id": 5409804788,
+  "lat": 60.2557414,
+  "lon": 24.0711070
+},
+{
+  "type": "node",
+  "id": 5409804789,
+  "lat": 60.2558098,
+  "lon": 24.0711869
+},
+{
+  "type": "node",
+  "id": 5589062440,
+  "lat": 60.2560008,
+  "lon": 24.0701561
+},
+{
+  "type": "node",
+  "id": 5589062441,
+  "lat": 60.2559637,
+  "lon": 24.0702892
+},
+{
+  "type": "node",
+  "id": 5589062442,
+  "lat": 60.2560842,
+  "lon": 24.0704270
+},
+{
+  "type": "node",
+  "id": 5589062443,
+  "lat": 60.2561212,
+  "lon": 24.0702939
+},
+{
+  "type": "node",
+  "id": 5589062444,
+  "lat": 60.2558225,
+  "lon": 24.0708315
+},
+{
+  "type": "node",
+  "id": 5589062445,
+  "lat": 60.2557865,
+  "lon": 24.0709589
+},
+{
+  "type": "node",
+  "id": 5589062446,
+  "lat": 60.2559596,
+  "lon": 24.0711573
+},
+{
+  "type": "node",
+  "id": 5589062447,
+  "lat": 60.2559955,
+  "lon": 24.0710298
+},
+{
+  "type": "node",
+  "id": 5589062448,
+  "lat": 60.2560079,
+  "lon": 24.0710631
+},
+{
+  "type": "node",
+  "id": 5589062449,
+  "lat": 60.2559870,
+  "lon": 24.0711387
+},
+{
+  "type": "node",
+  "id": 5589062450,
+  "lat": 60.2560409,
+  "lon": 24.0711992
+},
+{
+  "type": "node",
+  "id": 5589062451,
+  "lat": 60.2560618,
+  "lon": 24.0711237
+},
+{
+  "type": "node",
+  "id": 5589062456,
+  "lat": 60.2564550,
+  "lon": 24.0706582
+},
+{
+  "type": "node",
+  "id": 5589062457,
+  "lat": 60.2564850,
+  "lon": 24.0705406
+},
+{
+  "type": "node",
+  "id": 5589062458,
+  "lat": 60.2565080,
+  "lon": 24.0701699
+},
+{
+  "type": "node",
+  "id": 5589062459,
+  "lat": 60.2564932,
+  "lon": 24.0702447
+},
+{
+  "type": "node",
+  "id": 5589062460,
+  "lat": 60.2565275,
+  "lon": 24.0702722
+},
+{
+  "type": "node",
+  "id": 5589062461,
+  "lat": 60.2565423,
+  "lon": 24.0701974
+},
+{
+  "type": "node",
+  "id": 5589062462,
+  "lat": 60.2553940,
+  "lon": 24.0695087
+},
+{
+  "type": "node",
+  "id": 5589062463,
+  "lat": 60.2553541,
+  "lon": 24.0696307
+},
+{
+  "type": "node",
+  "id": 5589062464,
+  "lat": 60.2554016,
+  "lon": 24.0696937
+},
+{
+  "type": "node",
+  "id": 5589062465,
+  "lat": 60.2554415,
+  "lon": 24.0695717
+},
+{
+  "type": "node",
+  "id": 5409804787,
+  "lat": 60.2556362,
+  "lon": 24.0714732
+},
+{
+  "type": "node",
+  "id": 5409804790,
+  "lat": 60.2557047,
+  "lon": 24.0715530
+},
+{
+  "type": "node",
+  "id": 5409804791,
+  "lat": 60.2557054,
+  "lon": 24.0715946
+},
+{
+  "type": "node",
+  "id": 5409804792,
+  "lat": 60.2559447,
+  "lon": 24.0718688
+},
+{
+  "type": "node",
+  "id": 5409804793,
+  "lat": 60.2558896,
+  "lon": 24.0720642
+},
+{
+  "type": "node",
+  "id": 5409804794,
+  "lat": 60.2556503,
+  "lon": 24.0717900
+},
+{
+  "type": "node",
+  "id": 5589062452,
+  "lat": 60.2560591,
+  "lon": 24.0714103
+},
+{
+  "type": "node",
+  "id": 5589062453,
+  "lat": 60.2560239,
+  "lon": 24.0715428
+},
+{
+  "type": "node",
+  "id": 5589062454,
+  "lat": 60.2560653,
+  "lon": 24.0715874
+},
+{
+  "type": "node",
+  "id": 5589062455,
+  "lat": 60.2561005,
+  "lon": 24.0714550
+},
+{
+  "type": "node",
+  "id": 5409804776,
+  "lat": 60.2572769,
+  "lon": 24.0704623
+},
+{
+  "type": "node",
+  "id": 5409804777,
+  "lat": 60.2572558,
+  "lon": 24.0706240
+},
+{
+  "type": "node",
+  "id": 913293602,
+  "lat": 60.4161824,
+  "lon": 24.3192509
+},
+{
+  "type": "node",
+  "id": 913293604,
+  "lat": 60.4160444,
+  "lon": 24.3194275
+},
+{
+  "type": "node",
+  "id": 913293605,
+  "lat": 60.4159818,
+  "lon": 24.3192266
+},
+{
+  "type": "node",
+  "id": 913293606,
+  "lat": 60.4161197,
+  "lon": 24.3190500
+},
+{
+  "type": "node",
+  "id": 1785592947,
+  "lat": 60.5328935,
+  "lon": 24.1998958
+},
+{
+  "type": "node",
+  "id": 1785592949,
+  "lat": 60.5329833,
+  "lon": 24.1994065
+},
+{
+  "type": "node",
+  "id": 1785592951,
+  "lat": 60.5328122,
+  "lon": 24.1997001
+},
+{
+  "type": "node",
+  "id": 1785592960,
+  "lat": 60.5330646,
+  "lon": 24.1996022
+},
+{
+  "type": "node",
+  "id": 2867334167,
+  "lat": 60.1811170,
+  "lon": 24.5198423
+},
+{
+  "type": "node",
+  "id": 2867334181,
+  "lat": 60.1811456,
+  "lon": 24.5196742
+},
+{
+  "type": "node",
+  "id": 2867334183,
+  "lat": 60.1811484,
+  "lon": 24.5196576
+},
+{
+  "type": "node",
+  "id": 2867334188,
+  "lat": 60.1811565,
+  "lon": 24.5196100
+},
+{
+  "type": "node",
+  "id": 2867334190,
+  "lat": 60.1811588,
+  "lon": 24.5195967
+},
+{
+  "type": "node",
+  "id": 2867334191,
+  "lat": 60.1811614,
+  "lon": 24.5195811
+},
+{
+  "type": "node",
+  "id": 2867334206,
+  "lat": 60.1812117,
+  "lon": 24.5196157
+},
+{
+  "type": "node",
+  "id": 2867334214,
+  "lat": 60.1812281,
+  "lon": 24.5196269
+},
+{
+  "type": "node",
+  "id": 2867334215,
+  "lat": 60.1812362,
+  "lon": 24.5195795
+},
+{
+  "type": "node",
+  "id": 2867334231,
+  "lat": 60.1812729,
+  "lon": 24.5199493
+},
+{
+  "type": "node",
+  "id": 2867334233,
+  "lat": 60.1812776,
+  "lon": 24.5199217
+},
+{
+  "type": "node",
+  "id": 2867334238,
+  "lat": 60.1812934,
+  "lon": 24.5198286
+},
+{
+  "type": "node",
+  "id": 2867334256,
+  "lat": 60.1813977,
+  "lon": 24.5197434
+},
+{
+  "type": "node",
+  "id": 2867334258,
+  "lat": 60.1814058,
+  "lon": 24.5196960
+},
+{
+  "type": "node",
+  "id": 2867334282,
+  "lat": 60.1814908,
+  "lon": 24.5198074
+},
+{
+  "type": "node",
+  "id": 2867334284,
+  "lat": 60.1814957,
+  "lon": 24.5197782
+},
+{
+  "type": "node",
+  "id": 2867334287,
+  "lat": 60.1815096,
+  "lon": 24.5201171
+},
+{
+  "type": "node",
+  "id": 2867334288,
+  "lat": 60.1815145,
+  "lon": 24.5199804
+},
+{
+  "type": "node",
+  "id": 2867334291,
+  "lat": 60.1815228,
+  "lon": 24.5201262
+},
+{
+  "type": "node",
+  "id": 2867334293,
+  "lat": 60.1815309,
+  "lon": 24.5199917
+},
+{
+  "type": "node",
+  "id": 2867334296,
+  "lat": 60.1815352,
+  "lon": 24.5201347
+},
+{
+  "type": "node",
+  "id": 2867334301,
+  "lat": 60.1815565,
+  "lon": 24.5200093
+},
+{
+  "type": "node",
+  "id": 2867334303,
+  "lat": 60.1815688,
+  "lon": 24.5200177
+},
+{
+  "type": "node",
+  "id": 2867334308,
+  "lat": 60.1815830,
+  "lon": 24.5199341
+},
+{
+  "type": "node",
+  "id": 2867334317,
+  "lat": 60.1815976,
+  "lon": 24.5198482
+},
+{
+  "type": "node",
+  "id": 2867445352,
+  "lat": 60.1815372,
+  "lon": 24.5201232
+},
+{
+  "type": "node",
+  "id": 2867445360,
+  "lat": 60.1815803,
+  "lon": 24.5199497
+},
+{
+  "type": "node",
+  "id": 2867445362,
+  "lat": 60.1815851,
+  "lon": 24.5199219
+},
+{
+  "type": "node",
+  "id": 2546304348,
+  "lat": 60.1418073,
+  "lon": 24.7100382
+},
+{
+  "type": "node",
+  "id": 2546304349,
+  "lat": 60.1417994,
+  "lon": 24.7102667
+},
+{
+  "type": "node",
+  "id": 2546304350,
+  "lat": 60.1418910,
+  "lon": 24.7102693
+},
+{
+  "type": "node",
+  "id": 2546304351,
+  "lat": 60.1419066,
+  "lon": 24.7100513
+},
+{
+  "type": "node",
+  "id": 2546304352,
+  "lat": 60.1419014,
+  "lon": 24.7102220
+},
+{
+  "type": "node",
+  "id": 2546304353,
+  "lat": 60.1419433,
+  "lon": 24.7104164
+},
+{
+  "type": "node",
+  "id": 2546304354,
+  "lat": 60.1420871,
+  "lon": 24.7104269
+},
+{
+  "type": "node",
+  "id": 2546304355,
+  "lat": 60.1420937,
+  "lon": 24.7102299
+},
+{
+  "type": "node",
+  "id": 1426803831,
+  "lat": 60.2078614,
+  "lon": 24.6519124
+},
+{
+  "type": "node",
+  "id": 1426803837,
+  "lat": 60.2078842,
+  "lon": 24.6519594
+},
+{
+  "type": "node",
+  "id": 1426803853,
+  "lat": 60.2079053,
+  "lon": 24.6519179
+},
+{
+  "type": "node",
+  "id": 1426803893,
+  "lat": 60.2079684,
+  "lon": 24.6519056
+},
+{
+  "type": "node",
+  "id": 1426803906,
+  "lat": 60.2079331,
+  "lon": 24.6519751
+},
+{
+  "type": "node",
+  "id": 1426803933,
+  "lat": 60.2078826,
+  "lon": 24.6515723
+},
+{
+  "type": "node",
+  "id": 1426803969,
+  "lat": 60.2077566,
+  "lon": 24.6518203
+},
+{
+  "type": "node",
+  "id": 1426803974,
+  "lat": 60.2078306,
+  "lon": 24.6519729
+},
+{
+  "type": "node",
+  "id": 1426803975,
+  "lat": 60.2079800,
+  "lon": 24.6519295
+},
+{
+  "type": "node",
+  "id": 1426803977,
+  "lat": 60.2080052,
+  "lon": 24.6518799
+},
+{
+  "type": "node",
+  "id": 1426803978,
+  "lat": 60.2079935,
+  "lon": 24.6518557
+},
+{
+  "type": "node",
+  "id": 1426803981,
+  "lat": 60.2080071,
+  "lon": 24.6518287
+},
+{
+  "type": "node",
+  "id": 1426809130,
+  "lat": 60.2089399,
+  "lon": 24.6505665
+},
+{
+  "type": "node",
+  "id": 1426809136,
+  "lat": 60.2089042,
+  "lon": 24.6504109
+},
+{
+  "type": "node",
+  "id": 1426809138,
+  "lat": 60.2090810,
+  "lon": 24.6502464
+},
+{
+  "type": "node",
+  "id": 1426809153,
+  "lat": 60.2091167,
+  "lon": 24.6504020
+}
+
+  ]
+}

@@ -1,0 +1,553 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-14T17:28:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 288032467,
+  "lat": 57.1131955,
+  "lon": 12.4051604,
+  "tags": {
+    "museum": "technology",
+    "name": "Världsarvet Grimeton, besökscentrum",
+    "note": "http://www.grimetonradio.se/",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 849023164,
+  "lat": 57.1139513,
+  "lon": 12.4044395,
+  "tags": {
+    "museum": "technology",
+    "name": "Världsarvet Grimeton, radiostationen",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 849023167,
+  "lat": 57.1137299,
+  "lon": 12.4049424,
+  "tags": {
+    "name": "Alex-labb",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1884118899,
+  "lat": 57.0456030,
+  "lon": 12.3136269,
+  "tags": {
+    "museum": "local",
+    "name": "Nostalgimacken Åhs",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 2540942647,
+  "lat": 56.6789872,
+  "lon": 12.7738529,
+  "tags": {
+    "addr:city": "Halmstad",
+    "addr:postcode": "30591",
+    "museum": "art",
+    "name": "Mjellby Konstmuseum",
+    "operator": "Halmstad Kommun",
+    "phone": "+46-35 13 71 95",
+    "source": "http://www.mjellbykonstmuseum.se/",
+    "tourism": "museum",
+    "website": "http://www.mjellbykonstmuseum.se/",
+    "wheelchair": "yes",
+    "wikidata": "Q3369146",
+    "wikipedia": "sv:Mjellby konstmuseum"
+  }
+},
+{
+  "type": "node",
+  "id": 5949597565,
+  "lat": 56.6881641,
+  "lon": 12.8611708,
+  "tags": {
+    "museum": "military",
+    "name": "Garnisonsmuseet",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 43378230,
+  "nodes": [
+    546325114,
+    546325118,
+    546325120,
+    546325125,
+    546325130,
+    546325134,
+    546325114
+  ],
+  "tags": {
+    "addr:city": "Falkenberg",
+    "addr:country": "SE",
+    "addr:housenumber": "13A",
+    "addr:postcode": "31134",
+    "addr:street": "Sandgatan",
+    "amenity": "cinema",
+    "building": "yes",
+    "contact:email": "info@fotomuseet-olympia.com",
+    "contact:phone": "+46 346 879 28",
+    "contact:website": "http://www.fotomuseet-olympia.com/",
+    "description:de": "Zeigt die Entwicklung der Photographie von 1840 und vorwärts",
+    "description:en": "Shows the progress of the photography from 1840 and forward",
+    "museum": "technology",
+    "name": "Fotomuseet Olympia",
+    "opening_hours": "Tu-Th 14:00-18:00; Sa 14:00-17:00",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 88051568,
+  "nodes": [
+    1023375459,
+    1023375471,
+    1023375433,
+    1023375453,
+    1023375459
+  ],
+  "tags": {
+    "building": "yes",
+    "museum": "local",
+    "name": "Länsmuseet Halmstad",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 354626153,
+  "nodes": [
+    3603082110,
+    3603082112,
+    3603082119,
+    3603082111,
+    3603082110
+  ],
+  "tags": {
+    "alt_name": "Galtabäcks Båtmuseum",
+    "building": "yes",
+    "museum": "maritime",
+    "name": "Båtmuseet i Galtabäck",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 361847347,
+  "nodes": [
+    3662671889,
+    3662671885,
+    3662671856,
+    3662671879,
+    3662671889
+  ],
+  "tags": {
+    "museum": "military",
+    "name": "Luftvärnsmuseet",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 433819440,
+  "nodes": [
+    4323063192,
+    4323082992,
+    4323082993,
+    4323063492,
+    4323063192
+  ],
+  "tags": {
+    "building": "yes",
+    "museum": "transport",
+    "name": "Svedinos bil- och flygmuseum",
+    "tourism": "museum",
+    "website": "http://www.svedinos.se"
+  }
+},
+{
+  "type": "way",
+  "id": 608137581,
+  "nodes": [
+    5762226668,
+    5762226669,
+    5762226670,
+    5762226671,
+    5762226668
+  ],
+  "tags": {
+    "building": "yes",
+    "building:name": "Berte Qvarn",
+    "museum": "local",
+    "name": "Berte Museum",
+    "tourism": "museum",
+    "website": "https://www.bertemuseum.se"
+  }
+},
+{
+  "type": "way",
+  "id": 691025457,
+  "nodes": [
+    6483731964,
+    829617271,
+    6483731963,
+    6483731962,
+    6483731964
+  ],
+  "tags": {
+    "building": "yes",
+    "museum": "maritime",
+    "name": "Särdals Livräddningsstation",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 738483568,
+  "nodes": [
+    6915085756,
+    6915085757,
+    6915085758,
+    544303407,
+    6915085756
+  ],
+  "tags": {
+    "building": "yes",
+    "museum": "local",
+    "name": "Rian designmuseum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "relation",
+  "id": 10460073,
+  "members": [
+    {
+      "type": "way",
+      "ref": 757835637,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 573717196,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "alt_name": "Söndrums hembygdsgård",
+    "amenity": "community_centre",
+    "museum": "local",
+    "name": "Bergsgård",
+    "operator": "Söndrums hembygdsgårdsförening",
+    "tourism": "museum",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "node",
+  "id": 3603082110,
+  "lat": 57.0280498,
+  "lon": 12.3105200
+},
+{
+  "type": "node",
+  "id": 3603082111,
+  "lat": 57.0281317,
+  "lon": 12.3108454
+},
+{
+  "type": "node",
+  "id": 3603082112,
+  "lat": 57.0281416,
+  "lon": 12.3104421
+},
+{
+  "type": "node",
+  "id": 3603082119,
+  "lat": 57.0282234,
+  "lon": 12.3107675
+},
+{
+  "type": "node",
+  "id": 544303407,
+  "lat": 56.8988699,
+  "lon": 12.4950107
+},
+{
+  "type": "node",
+  "id": 6915085756,
+  "lat": 56.8989823,
+  "lon": 12.4945938
+},
+{
+  "type": "node",
+  "id": 6915085757,
+  "lat": 56.8990888,
+  "lon": 12.4946897
+},
+{
+  "type": "node",
+  "id": 6915085758,
+  "lat": 56.8989725,
+  "lon": 12.4951038
+},
+{
+  "type": "node",
+  "id": 546325114,
+  "lat": 56.9034186,
+  "lon": 12.4881043
+},
+{
+  "type": "node",
+  "id": 546325118,
+  "lat": 56.9033773,
+  "lon": 12.4883027
+},
+{
+  "type": "node",
+  "id": 546325120,
+  "lat": 56.9034438,
+  "lon": 12.4883491
+},
+{
+  "type": "node",
+  "id": 546325125,
+  "lat": 56.9034532,
+  "lon": 12.4883037
+},
+{
+  "type": "node",
+  "id": 546325130,
+  "lat": 56.9035634,
+  "lon": 12.4883806
+},
+{
+  "type": "node",
+  "id": 546325134,
+  "lat": 56.9035953,
+  "lon": 12.4882276
+},
+{
+  "type": "node",
+  "id": 829617271,
+  "lat": 56.7424477,
+  "lon": 12.6278748
+},
+{
+  "type": "node",
+  "id": 6483731962,
+  "lat": 56.7423061,
+  "lon": 12.6278653
+},
+{
+  "type": "node",
+  "id": 6483731963,
+  "lat": 56.7424053,
+  "lon": 12.6279884
+},
+{
+  "type": "node",
+  "id": 6483731964,
+  "lat": 56.7423485,
+  "lon": 12.6277518
+},
+{
+  "type": "node",
+  "id": 5509277288,
+  "lat": 56.6653239,
+  "lon": 12.7787928
+},
+{
+  "type": "node",
+  "id": 5509277289,
+  "lat": 56.6649811,
+  "lon": 12.7785550
+},
+{
+  "type": "node",
+  "id": 5509277290,
+  "lat": 56.6648818,
+  "lon": 12.7783655
+},
+{
+  "type": "node",
+  "id": 5509277291,
+  "lat": 56.6646548,
+  "lon": 12.7779489
+},
+{
+  "type": "node",
+  "id": 5509277292,
+  "lat": 56.6645220,
+  "lon": 12.7778496
+},
+{
+  "type": "node",
+  "id": 4884035962,
+  "lat": 56.6651597,
+  "lon": 12.7795753
+},
+{
+  "type": "node",
+  "id": 4884035963,
+  "lat": 56.6650914,
+  "lon": 12.7799708
+},
+{
+  "type": "node",
+  "id": 4884035964,
+  "lat": 56.6647915,
+  "lon": 12.7798005
+},
+{
+  "type": "node",
+  "id": 5509277284,
+  "lat": 56.6646552,
+  "lon": 12.7805587
+},
+{
+  "type": "node",
+  "id": 5509277293,
+  "lat": 56.6640684,
+  "lon": 12.7802145
+},
+{
+  "type": "node",
+  "id": 4323063192,
+  "lat": 56.8210225,
+  "lon": 12.6310355
+},
+{
+  "type": "node",
+  "id": 4323063492,
+  "lat": 56.8211872,
+  "lon": 12.6304830
+},
+{
+  "type": "node",
+  "id": 4323082992,
+  "lat": 56.8216407,
+  "lon": 12.6315820
+},
+{
+  "type": "node",
+  "id": 4323082993,
+  "lat": 56.8217596,
+  "lon": 12.6310295
+},
+{
+  "type": "node",
+  "id": 1023375433,
+  "lat": 56.6804693,
+  "lon": 12.8620590
+},
+{
+  "type": "node",
+  "id": 1023375453,
+  "lat": 56.6805456,
+  "lon": 12.8618206
+},
+{
+  "type": "node",
+  "id": 1023375459,
+  "lat": 56.6808831,
+  "lon": 12.8621696
+},
+{
+  "type": "node",
+  "id": 1023375471,
+  "lat": 56.6808104,
+  "lon": 12.8624063
+},
+{
+  "type": "node",
+  "id": 3662671856,
+  "lat": 56.6844740,
+  "lon": 12.9383432
+},
+{
+  "type": "node",
+  "id": 3662671879,
+  "lat": 56.6847235,
+  "lon": 12.9388021
+},
+{
+  "type": "node",
+  "id": 3662671885,
+  "lat": 56.6850765,
+  "lon": 12.9372596
+},
+{
+  "type": "node",
+  "id": 3662671889,
+  "lat": 56.6853255,
+  "lon": 12.9377236
+},
+{
+  "type": "node",
+  "id": 5762226668,
+  "lat": 56.8494599,
+  "lon": 12.6761531
+},
+{
+  "type": "node",
+  "id": 5762226669,
+  "lat": 56.8496858,
+  "lon": 12.6768938
+},
+{
+  "type": "node",
+  "id": 5762226670,
+  "lat": 56.8494783,
+  "lon": 12.6771054
+},
+{
+  "type": "node",
+  "id": 5762226671,
+  "lat": 56.8492524,
+  "lon": 12.6763647
+},
+{
+  "type": "way",
+  "id": 573717196,
+  "nodes": [
+    4884035962,
+    5509277288,
+    5509277289,
+    5509277290,
+    5509277291,
+    5509277292,
+    5509277293,
+    5509277284
+  ]
+},
+{
+  "type": "way",
+  "id": 757835637,
+  "nodes": [
+    5509277284,
+    4884035964,
+    4884035963,
+    4884035962
+  ]
+}
+
+  ]
+}

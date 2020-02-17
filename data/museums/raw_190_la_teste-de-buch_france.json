@@ -1,0 +1,482 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.9 ab41fea6",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-14T13:21:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1508590127,
+  "lat": 44.3892176,
+  "lon": -1.1816658,
+  "tags": {
+    "alt_name": "Musée historique de l'hydraviation",
+    "name": "Musée de l'Hydraviation",
+    "tourism": "museum",
+    "wikidata": "Q3330593"
+  }
+},
+{
+  "type": "node",
+  "id": 1508590129,
+  "lat": 44.3891659,
+  "lon": -1.1809553,
+  "tags": {
+    "name": "Musée des Traditions",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1771748960,
+  "lat": 44.4827157,
+  "lon": -1.0751767,
+  "tags": {
+    "addr:city": "Sanguinet",
+    "addr:postcode": "40460",
+    "addr:street": "Allée du Musée",
+    "name": "Musée municipal de Sanguinet - Musée de France",
+    "operator": "Commune de Sanguinet",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3594399914,
+  "lat": 44.6413672,
+  "lon": -1.0723559,
+  "tags": {
+    "name": "Maison de l'Huître",
+    "source": "Observatoire du comité départemental du Tourisme de la Gironde - 09/2013",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 5825837339,
+  "lat": 44.4475186,
+  "lon": -1.2537171,
+  "tags": {
+    "name": "Surf Museum",
+    "ref:FR:CRTA": "PCUAQU040V50HF5M",
+    "source": "Réseau SIRTAQUI - Comité Régional de Tourisme d'Aquitaine - www.sirtaqui-aquitaine.com - 08/2018",
+    "tourism": "museum",
+    "website": "http://www.surfpalacebiscarrosse.com/surf-musee/"
+  }
+},
+{
+  "type": "node",
+  "id": 5825837340,
+  "lat": 44.7154819,
+  "lon": -1.0686774,
+  "tags": {
+    "name": "Ecomusée Gardarem",
+    "ref:FR:CRTA": "PCUAQU033V50INPC",
+    "source": "Réseau SIRTAQUI - Comité Régional de Tourisme d'Aquitaine - www.sirtaqui-aquitaine.com - 08/2018",
+    "tourism": "museum",
+    "website": "https://www.gardarem.fr/"
+  }
+},
+{
+  "type": "way",
+  "id": 70634723,
+  "nodes": [
+    842568065,
+    842596933,
+    842420879,
+    842531481,
+    842415980,
+    842439984,
+    842595498,
+    842411562,
+    842477362,
+    842382912,
+    842495393,
+    842324685,
+    842492741,
+    842380585,
+    842587612,
+    842533442,
+    842622074,
+    842354309,
+    842530546,
+    842319364,
+    842353734,
+    842556595,
+    842656215,
+    842540203,
+    842651335,
+    842391176,
+    842633749,
+    842463363,
+    842370277,
+    842557418,
+    842640685,
+    842417032,
+    842545633,
+    842609131,
+    842568065
+  ],
+  "tags": {
+    "building": "yes",
+    "historic": "monument",
+    "name": "Maison Louis David",
+    "source": "Observatoire du comité départemental du Tourisme de la Gironde - 09/2013",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 113365405,
+  "nodes": [
+    1285357030,
+    1285313370,
+    1285278395,
+    1285290580,
+    1285427141,
+    1285393262,
+    1285361139,
+    1285272094,
+    1285400965,
+    1285375407,
+    1285336117,
+    1285352197,
+    1285308269,
+    1285357030
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Aquarium",
+    "source": "Observatoire du comité départemental du Tourisme de la Gironde - 09/2013",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 231604670,
+  "nodes": [
+    2399523950,
+    2399524099,
+    2399524314,
+    2399524163,
+    2399523950
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Musée Archéologique de Sanguinet",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2009",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 2399523950,
+  "lat": 44.4826480,
+  "lon": -1.0752390
+},
+{
+  "type": "node",
+  "id": 2399524099,
+  "lat": 44.4827190,
+  "lon": -1.0750770
+},
+{
+  "type": "node",
+  "id": 2399524163,
+  "lat": 44.4827570,
+  "lon": -1.0753320
+},
+{
+  "type": "node",
+  "id": 2399524314,
+  "lat": 44.4828280,
+  "lon": -1.0751690
+},
+{
+  "type": "node",
+  "id": 1285272094,
+  "lat": 44.6632920,
+  "lon": -1.1636920
+},
+{
+  "type": "node",
+  "id": 1285278395,
+  "lat": 44.6633930,
+  "lon": -1.1634150
+},
+{
+  "type": "node",
+  "id": 1285290580,
+  "lat": 44.6633980,
+  "lon": -1.1635300
+},
+{
+  "type": "node",
+  "id": 1285308269,
+  "lat": 44.6632570,
+  "lon": -1.1632950
+},
+{
+  "type": "node",
+  "id": 1285313370,
+  "lat": 44.6633420,
+  "lon": -1.1633220
+},
+{
+  "type": "node",
+  "id": 1285336117,
+  "lat": 44.6631810,
+  "lon": -1.1634010
+},
+{
+  "type": "node",
+  "id": 1285352197,
+  "lat": 44.6632610,
+  "lon": -1.1633950
+},
+{
+  "type": "node",
+  "id": 1285357030,
+  "lat": 44.6633400,
+  "lon": -1.1632870
+},
+{
+  "type": "node",
+  "id": 1285361139,
+  "lat": 44.6633780,
+  "lon": -1.1636850
+},
+{
+  "type": "node",
+  "id": 1285375407,
+  "lat": 44.6631860,
+  "lon": -1.1636210
+},
+{
+  "type": "node",
+  "id": 1285393262,
+  "lat": 44.6633770,
+  "lon": -1.1636430
+},
+{
+  "type": "node",
+  "id": 1285400965,
+  "lat": 44.6632890,
+  "lon": -1.1636170
+},
+{
+  "type": "node",
+  "id": 1285427141,
+  "lat": 44.6633860,
+  "lon": -1.1636420
+},
+{
+  "type": "node",
+  "id": 842319364,
+  "lat": 44.7408074,
+  "lon": -1.0989014
+},
+{
+  "type": "node",
+  "id": 842324685,
+  "lat": 44.7409821,
+  "lon": -1.0987303
+},
+{
+  "type": "node",
+  "id": 842353734,
+  "lat": 44.7408003,
+  "lon": -1.0989125
+},
+{
+  "type": "node",
+  "id": 842354309,
+  "lat": 44.7408754,
+  "lon": -1.0988292
+},
+{
+  "type": "node",
+  "id": 842370277,
+  "lat": 44.7407625,
+  "lon": -1.0987469
+},
+{
+  "type": "node",
+  "id": 842380585,
+  "lat": 44.7408884,
+  "lon": -1.0987908
+},
+{
+  "type": "node",
+  "id": 842382912,
+  "lat": 44.7410063,
+  "lon": -1.0986747
+},
+{
+  "type": "node",
+  "id": 842391176,
+  "lat": 44.7407418,
+  "lon": -1.0987822
+},
+{
+  "type": "node",
+  "id": 842411562,
+  "lat": 44.7409411,
+  "lon": -1.0986379
+},
+{
+  "type": "node",
+  "id": 842415980,
+  "lat": 44.7408645,
+  "lon": -1.0985931
+},
+{
+  "type": "node",
+  "id": 842417032,
+  "lat": 44.7407961,
+  "lon": -1.0987064
+},
+{
+  "type": "node",
+  "id": 842420879,
+  "lat": 44.7408421,
+  "lon": -1.0986165
+},
+{
+  "type": "node",
+  "id": 842439984,
+  "lat": 44.7408762,
+  "lon": -1.0986082
+},
+{
+  "type": "node",
+  "id": 842463363,
+  "lat": 44.7407547,
+  "lon": -1.0987491
+},
+{
+  "type": "node",
+  "id": 842477362,
+  "lat": 44.7409609,
+  "lon": -1.0986106
+},
+{
+  "type": "node",
+  "id": 842492741,
+  "lat": 44.7409176,
+  "lon": -1.0988287
+},
+{
+  "type": "node",
+  "id": 842495393,
+  "lat": 44.7409758,
+  "lon": -1.0987200
+},
+{
+  "type": "node",
+  "id": 842530546,
+  "lat": 44.7408191,
+  "lon": -1.0989148
+},
+{
+  "type": "node",
+  "id": 842531481,
+  "lat": 44.7408567,
+  "lon": -1.0985943
+},
+{
+  "type": "node",
+  "id": 842533442,
+  "lat": 44.7408764,
+  "lon": -1.0988007
+},
+{
+  "type": "node",
+  "id": 842540203,
+  "lat": 44.7407309,
+  "lon": -1.0988252
+},
+{
+  "type": "node",
+  "id": 842545633,
+  "lat": 44.7408149,
+  "lon": -1.0986781
+},
+{
+  "type": "node",
+  "id": 842556595,
+  "lat": 44.7407744,
+  "lon": -1.0988794
+},
+{
+  "type": "node",
+  "id": 842557418,
+  "lat": 44.7407742,
+  "lon": -1.0987621
+},
+{
+  "type": "node",
+  "id": 842568065,
+  "lat": 44.7408534,
+  "lon": -1.0986406
+},
+{
+  "type": "node",
+  "id": 842587612,
+  "lat": 44.7408802,
+  "lon": -1.0988036
+},
+{
+  "type": "node",
+  "id": 842595498,
+  "lat": 44.7408960,
+  "lon": -1.0985801
+},
+{
+  "type": "node",
+  "id": 842596933,
+  "lat": 44.7408433,
+  "lon": -1.0986274
+},
+{
+  "type": "node",
+  "id": 842609131,
+  "lat": 44.7408288,
+  "lon": -1.0986773
+},
+{
+  "type": "node",
+  "id": 842622074,
+  "lat": 44.7408653,
+  "lon": -1.0988169
+},
+{
+  "type": "node",
+  "id": 842633749,
+  "lat": 44.7407401,
+  "lon": -1.0987704
+},
+{
+  "type": "node",
+  "id": 842640685,
+  "lat": 44.7407977,
+  "lon": -1.0987244
+},
+{
+  "type": "node",
+  "id": 842651335,
+  "lat": 44.7407513,
+  "lon": -1.0987954
+},
+{
+  "type": "node",
+  "id": 842656215,
+  "lat": 44.7407726,
+  "lon": -1.0988819
+}
+
+  ]
+}

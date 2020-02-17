@@ -43,11 +43,22 @@ source("scripts/utils/utils_2_museums.R")
 #'      - ["museum"="children"]
 #' For ease, these tags were combined into one ["museum" ~ "^(history|art|...)"]
 #'
+#' Make sure ouput directory is created
+#' dir.create("data/museums")
 
-#' init loop vars
-d <- 1
+#' For failed items, run the following lines. Adjust `d` and reps accordingly
+#' with row name
+failures <- failed
+failed_cities <- sapply(seq_len(length(failures)), function(x) {
+   failed[[x]][["city"]]
+})
+city_info[city_info$city %in% failed_cities,] %>% rownames()
+
+
+#' init loop vars (adjust d and reps if failed)
+d <- 216
 fails <- 0
-reps <- 1#NROW(city_info)
+reps <- 216# NROW(city_info)
 failed <- list()
 
 # run
@@ -61,6 +72,7 @@ while (d <= reps) {
     )
 
     # Send request
+    cat("\tSEnding GET request...")
     response <- httr::GET(
         url = "http://overpass-api.de/",
         path = paste0("api/interpreter?data=", URLencode(q, reserved = T))

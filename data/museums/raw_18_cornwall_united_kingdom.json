@@ -1,0 +1,769 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-14T09:07:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 268150576,
+  "lat": 50.6389741,
+  "lon": -4.6872512,
+  "tags": {
+    "created_by": "JOSM",
+    "name": "Museum of Cycling",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 354537020,
+  "lat": 50.2637715,
+  "lon": -5.0547420,
+  "tags": {
+    "name": "Royal Cornwall Museum",
+    "tourism": "museum",
+    "wikidata": "Q1251321"
+  }
+},
+{
+  "type": "node",
+  "id": 475376292,
+  "lat": 50.4072238,
+  "lon": -4.6702289,
+  "tags": {
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 587892391,
+  "lat": 50.4549037,
+  "lon": -4.4641695,
+  "tags": {
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 705127066,
+  "lat": 50.2701351,
+  "lon": -4.7843046,
+  "tags": {
+    "name": "Mevagissey Museum",
+    "tourism": "museum",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 705650946,
+  "lat": 50.3327867,
+  "lon": -4.7567361,
+  "tags": {
+    "name": "Charlestown Shipwreck Centre",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 735051394,
+  "lat": 50.2038652,
+  "lon": -5.2756386,
+  "tags": {
+    "addr:city": "Camborne",
+    "addr:country": "GB",
+    "addr:place": "Troon",
+    "addr:postcode": "TR14 9HW",
+    "addr:street": "Newton Moor",
+    "name": "King Edward Mine",
+    "tourism": "museum",
+    "website": "https://www.kingedwardmine.co.uk/"
+  }
+},
+{
+  "type": "node",
+  "id": 753784103,
+  "lat": 50.3645321,
+  "lon": -4.8064394,
+  "tags": {
+    "name": "Wheal Martyn",
+    "tourism": "museum",
+    "website": "https://www.wheal-martyn.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 865013907,
+  "lat": 50.1558425,
+  "lon": -5.0723561,
+  "tags": {
+    "name": "Falmouth Art Gallery",
+    "tourism": "museum",
+    "wikidata": "Q5432578"
+  }
+},
+{
+  "type": "node",
+  "id": 865125078,
+  "lat": 50.1473315,
+  "lon": -5.0475892,
+  "tags": {
+    "addr:city": "Falmouth",
+    "addr:country": "GB",
+    "addr:housename": "Pendennis Castle",
+    "addr:postcode": "TR11 4LP",
+    "addr:street": "Castle Drive",
+    "name": "Pendennis Castle Museum",
+    "tourism": "museum",
+    "wikidata": "Q2371954"
+  }
+},
+{
+  "type": "node",
+  "id": 1289419339,
+  "lat": 50.6905948,
+  "lon": -4.6949915,
+  "tags": {
+    "name": "Witchcraft Museum",
+    "tourism": "museum",
+    "website": "https://www.museumofwitchcraft.com/",
+    "wikidata": "Q1402017",
+    "wikipedia": "en:Museum of Witchcraft and Magic"
+  }
+},
+{
+  "type": "node",
+  "id": 1735449175,
+  "lat": 50.3351278,
+  "lon": -4.6348014,
+  "tags": {
+    "name": "Fowey Town Museum",
+    "source": "OS_OpenData_StreetView",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1745313041,
+  "lat": 50.5414520,
+  "lon": -4.9390259,
+  "tags": {
+    "name": "Library & Museum",
+    "source": "OS_OpenData_StreetView",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1745986274,
+  "lat": 50.5387305,
+  "lon": -4.9962277,
+  "tags": {
+    "source": "OS_OpenData_StreetView",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1773914982,
+  "lat": 50.4705788,
+  "lon": -4.7190636,
+  "tags": {
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1872585117,
+  "lat": 50.5621516,
+  "lon": -4.5667137,
+  "tags": {
+    "name": "Daphne du Maurier's Smugglers Museum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 2627749856,
+  "lat": 50.3315032,
+  "lon": -4.5165199,
+  "tags": {
+    "addr:city": "Polperro",
+    "addr:housename": "Harbour Studio",
+    "addr:street": "The Warren",
+    "name": "Polperro Heritage Museum of Smuggling & Fishing",
+    "phone": "+44 1503 272423",
+    "tourism": "museum",
+    "website": "http://www.polperro.org/museum.html"
+  }
+},
+{
+  "type": "node",
+  "id": 3936165897,
+  "lat": 50.2310378,
+  "lon": -5.2620677,
+  "tags": {
+    "name": "East Pool Mine",
+    "operator": "National Trust",
+    "tourism": "museum",
+    "website": "https://www.nationaltrust.org.uk/east-pool-mine"
+  }
+},
+{
+  "type": "node",
+  "id": 3936165962,
+  "lat": 50.2255689,
+  "lon": -5.2713294,
+  "tags": {
+    "name": "Heartlands",
+    "tourism": "museum",
+    "website": "www.heartlandscornwall.com"
+  }
+},
+{
+  "type": "node",
+  "id": 4438069773,
+  "lat": 50.1681079,
+  "lon": -5.1030410,
+  "tags": {
+    "name": "Penryn Museum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 5713678347,
+  "lat": 50.6629413,
+  "lon": -4.7497357,
+  "tags": {
+    "name": "King Arthur's Great Halls",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6602333862,
+  "lat": 50.5431091,
+  "lon": -4.9461034,
+  "tags": {
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6773073385,
+  "lat": 50.3200452,
+  "lon": -5.1923657,
+  "tags": {
+    "name": "Blue Hills Tin Streams",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 60413721,
+  "nodes": [
+    751977937,
+    751977973,
+    751977956,
+    751977928,
+    751977937
+  ],
+  "tags": {
+    "name": "Duke of Cornwall's Light Infantry Museum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 64435504,
+  "nodes": [
+    792575466,
+    2077990676,
+    1137379805,
+    792575400,
+    792575545,
+    4107823973,
+    1137379716,
+    792575487,
+    792575421,
+    792575346,
+    792575502,
+    792575516,
+    792575367,
+    792575550,
+    792575494,
+    792575466
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "National Maritime Museum Cornwall",
+    "source": "OS_OpenData_StreetView;survey",
+    "tourism": "museum",
+    "wikidata": "Q6974252",
+    "wikipedia": "en:National Maritime Museum Cornwall"
+  }
+},
+{
+  "type": "way",
+  "id": 162800782,
+  "nodes": [
+    1746171302,
+    1746171310,
+    1746171306,
+    1746171295,
+    1746171302
+  ],
+  "tags": {
+    "addr:city": "Padstow",
+    "addr:postcode": "PL28 8BL",
+    "addr:street": "South Quay",
+    "building": "yes",
+    "name": "National Lobster Hatchery",
+    "phone": "+44 1841 533 877",
+    "shop": "gift",
+    "source": "Bing",
+    "tourism": "museum",
+    "website": "https://www.nationallobsterhatchery.co.uk/"
+  }
+},
+{
+  "type": "way",
+  "id": 278789450,
+  "nodes": [
+    751977932,
+    2830982658,
+    2830983163,
+    751977962,
+    751977932
+  ],
+  "tags": {
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 332810021,
+  "nodes": [
+    3399317219,
+    3399317220,
+    3399317212,
+    3399317211,
+    3399317222,
+    3399317213,
+    3399317210,
+    3399317221,
+    3399317219
+  ],
+  "tags": {
+    "building": "civic",
+    "name": "County Records Office",
+    "source": "OS Local",
+    "source:id": "607CF419-C622-444C-9F32-8E3F657EB7C8",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 390468231,
+  "nodes": [
+    3936165912,
+    3936165913,
+    3936165914,
+    3936165915,
+    3936165916,
+    3936165917,
+    3936165918,
+    3936165919,
+    3936165920,
+    3936165921,
+    3936165922,
+    3936165923,
+    3936165912
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Michell's Engine House",
+    "operator": "National Trust",
+    "tourism": "museum",
+    "website": "https://www.nationaltrust.org.uk/east-pool-mine"
+  }
+},
+{
+  "type": "way",
+  "id": 390468244,
+  "nodes": [
+    3936165985,
+    3936166013,
+    3936166014,
+    3936166015,
+    3936166016,
+    3936166017,
+    3936166018,
+    3936166023,
+    3936166019,
+    3936165987,
+    3936165984,
+    3936165985
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "World Heritage Site Exhibitions",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3936165984,
+  "lat": 50.2253309,
+  "lon": -5.2713095
+},
+{
+  "type": "node",
+  "id": 3936165985,
+  "lat": 50.2253247,
+  "lon": -5.2713342
+},
+{
+  "type": "node",
+  "id": 3936165987,
+  "lat": 50.2253566,
+  "lon": -5.2712070
+},
+{
+  "type": "node",
+  "id": 3936166013,
+  "lat": 50.2252077,
+  "lon": -5.2712626
+},
+{
+  "type": "node",
+  "id": 3936166014,
+  "lat": 50.2252198,
+  "lon": -5.2712143
+},
+{
+  "type": "node",
+  "id": 3936166015,
+  "lat": 50.2251677,
+  "lon": -5.2711824
+},
+{
+  "type": "node",
+  "id": 3936166016,
+  "lat": 50.2251899,
+  "lon": -5.2710940
+},
+{
+  "type": "node",
+  "id": 3936166017,
+  "lat": 50.2252412,
+  "lon": -5.2711255
+},
+{
+  "type": "node",
+  "id": 3936166018,
+  "lat": 50.2252537,
+  "lon": -5.2710756
+},
+{
+  "type": "node",
+  "id": 3936166019,
+  "lat": 50.2253715,
+  "lon": -5.2711477
+},
+{
+  "type": "node",
+  "id": 3936166023,
+  "lat": 50.2253331,
+  "lon": -5.2711242
+},
+{
+  "type": "node",
+  "id": 3936165912,
+  "lat": 50.2280683,
+  "lon": -5.2647336
+},
+{
+  "type": "node",
+  "id": 3936165913,
+  "lat": 50.2280416,
+  "lon": -5.2647093
+},
+{
+  "type": "node",
+  "id": 3936165914,
+  "lat": 50.2280102,
+  "lon": -5.2647940
+},
+{
+  "type": "node",
+  "id": 3936165915,
+  "lat": 50.2279816,
+  "lon": -5.2647681
+},
+{
+  "type": "node",
+  "id": 3936165916,
+  "lat": 50.2279672,
+  "lon": -5.2648071
+},
+{
+  "type": "node",
+  "id": 3936165917,
+  "lat": 50.2278962,
+  "lon": -5.2647429
+},
+{
+  "type": "node",
+  "id": 3936165918,
+  "lat": 50.2279474,
+  "lon": -5.2646048
+},
+{
+  "type": "node",
+  "id": 3936165919,
+  "lat": 50.2279922,
+  "lon": -5.2646453
+},
+{
+  "type": "node",
+  "id": 3936165920,
+  "lat": 50.2279991,
+  "lon": -5.2646346
+},
+{
+  "type": "node",
+  "id": 3936165921,
+  "lat": 50.2280202,
+  "lon": -5.2646537
+},
+{
+  "type": "node",
+  "id": 3936165922,
+  "lat": 50.2280518,
+  "lon": -5.2645685
+},
+{
+  "type": "node",
+  "id": 3936165923,
+  "lat": 50.2281100,
+  "lon": -5.2646211
+},
+{
+  "type": "node",
+  "id": 792575367,
+  "lat": 50.1512315,
+  "lon": -5.0618644
+},
+{
+  "type": "node",
+  "id": 792575346,
+  "lat": 50.1517042,
+  "lon": -5.0611629
+},
+{
+  "type": "node",
+  "id": 792575400,
+  "lat": 50.1518028,
+  "lon": -5.0614057
+},
+{
+  "type": "node",
+  "id": 792575421,
+  "lat": 50.1517329,
+  "lon": -5.0611630
+},
+{
+  "type": "node",
+  "id": 792575466,
+  "lat": 50.1516912,
+  "lon": -5.0617598
+},
+{
+  "type": "node",
+  "id": 792575487,
+  "lat": 50.1517596,
+  "lon": -5.0611936
+},
+{
+  "type": "node",
+  "id": 792575494,
+  "lat": 50.1515925,
+  "lon": -5.0621421
+},
+{
+  "type": "node",
+  "id": 792575502,
+  "lat": 50.1516526,
+  "lon": -5.0611007
+},
+{
+  "type": "node",
+  "id": 792575516,
+  "lat": 50.1515558,
+  "lon": -5.0609692
+},
+{
+  "type": "node",
+  "id": 792575545,
+  "lat": 50.1517906,
+  "lon": -5.0613561
+},
+{
+  "type": "node",
+  "id": 792575550,
+  "lat": 50.1514574,
+  "lon": -5.0621317
+},
+{
+  "type": "node",
+  "id": 1137379716,
+  "lat": 50.1517771,
+  "lon": -5.0612436
+},
+{
+  "type": "node",
+  "id": 1137379805,
+  "lat": 50.1517765,
+  "lon": -5.0614765
+},
+{
+  "type": "node",
+  "id": 2077990676,
+  "lat": 50.1517503,
+  "lon": -5.0615830
+},
+{
+  "type": "node",
+  "id": 4107823973,
+  "lat": 50.1517583,
+  "lon": -5.0613182
+},
+{
+  "type": "node",
+  "id": 3399317210,
+  "lat": 50.2620039,
+  "lon": -5.0670650
+},
+{
+  "type": "node",
+  "id": 3399317211,
+  "lat": 50.2620614,
+  "lon": -5.0667011
+},
+{
+  "type": "node",
+  "id": 3399317212,
+  "lat": 50.2619782,
+  "lon": -5.0666428
+},
+{
+  "type": "node",
+  "id": 3399317213,
+  "lat": 50.2620666,
+  "lon": -5.0668462
+},
+{
+  "type": "node",
+  "id": 3399317219,
+  "lat": 50.2619283,
+  "lon": -5.0671526
+},
+{
+  "type": "node",
+  "id": 3399317220,
+  "lat": 50.2618483,
+  "lon": -5.0670965
+},
+{
+  "type": "node",
+  "id": 3399317221,
+  "lat": 50.2619618,
+  "lon": -5.0670355
+},
+{
+  "type": "node",
+  "id": 3399317222,
+  "lat": 50.2620276,
+  "lon": -5.0668190
+},
+{
+  "type": "node",
+  "id": 1746171295,
+  "lat": 50.5385360,
+  "lon": -4.9350992
+},
+{
+  "type": "node",
+  "id": 1746171302,
+  "lat": 50.5385636,
+  "lon": -4.9349845
+},
+{
+  "type": "node",
+  "id": 1746171306,
+  "lat": 50.5383603,
+  "lon": -4.9349946
+},
+{
+  "type": "node",
+  "id": 1746171310,
+  "lat": 50.5383879,
+  "lon": -4.9348798
+},
+{
+  "type": "node",
+  "id": 751977928,
+  "lat": 50.4650159,
+  "lon": -4.7149335
+},
+{
+  "type": "node",
+  "id": 751977932,
+  "lat": 50.4647872,
+  "lon": -4.7148851
+},
+{
+  "type": "node",
+  "id": 751977937,
+  "lat": 50.4650993,
+  "lon": -4.7150608
+},
+{
+  "type": "node",
+  "id": 751977956,
+  "lat": 50.4652066,
+  "lon": -4.7146414
+},
+{
+  "type": "node",
+  "id": 751977962,
+  "lat": 50.4651262,
+  "lon": -4.7143571
+},
+{
+  "type": "node",
+  "id": 751977973,
+  "lat": 50.4652781,
+  "lon": -4.7147837
+},
+{
+  "type": "node",
+  "id": 2830982658,
+  "lat": 50.4652603,
+  "lon": -4.7153215
+},
+{
+  "type": "node",
+  "id": 2830983163,
+  "lat": 50.4654037,
+  "lon": -4.7150882
+}
+
+  ]
+}

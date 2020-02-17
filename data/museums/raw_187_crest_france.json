@@ -1,0 +1,1606 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-14T13:16:01Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 455094652,
+  "lat": 44.9411955,
+  "lon": 4.8504713,
+  "tags": {
+    "addr:city": "Saint-Péray",
+    "addr:postcode": "07130",
+    "addr:street": "Chemin de Beauregard",
+    "contact:facebook": "https://www.facebook.com/chateaudecrussol",
+    "email": "sitedecrussol@rhone-crussol.fr",
+    "name": "Musée de Crussol",
+    "opening_hours": "Apr,Sep Tu-Su 13:30-18:30; May-Jun Tu-Su 10:00-13:00,15:00-18:30; Jul-Aug Tu-Su 10:00-13:00,15:30-19:30; Oct Sa,Su 13:30-17:30",
+    "phone": "+33 4 75 81 00 51",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2008",
+    "tourism": "museum",
+    "website": "https://chateaudecrussol.com/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 534586525,
+  "lat": 44.8756268,
+  "lon": 4.8443765,
+  "tags": {
+    "name": "Ardéche Miniatures",
+    "phone": "+33 4 75 60 96 58",
+    "tourism": "museum",
+    "website": "http://www.ardeche-miniatures.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 1930073223,
+  "lat": 44.4292957,
+  "lon": 5.0496037,
+  "tags": {
+    "name": "Musée archéologique",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3032576744,
+  "lat": 44.7266416,
+  "lon": 5.1074036,
+  "tags": {
+    "fee": "yes",
+    "name": "Musée des Berthalais",
+    "tourism": "museum",
+    "website": "http://musee-des-berthalais.fr/"
+  }
+},
+{
+  "type": "node",
+  "id": 3520087595,
+  "lat": 45.0386012,
+  "lon": 5.0471817,
+  "tags": {
+    "name": "Musée de la Pogne",
+    "tourism": "museum",
+    "website": "http://www.pascalis.com/visitez-pascalis"
+  }
+},
+{
+  "type": "node",
+  "id": 3528598654,
+  "lat": 44.5361757,
+  "lon": 5.0149913,
+  "tags": {
+    "name": "Museée du Protestantisme Dauphinois",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3836827505,
+  "lat": 44.5564951,
+  "lon": 4.7501258,
+  "tags": {
+    "name": "Musée de la Miniature",
+    "operator": "Ville de Montélimar",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3847795321,
+  "lat": 44.5622891,
+  "lon": 4.7528529,
+  "tags": {
+    "name": "Musée d'Art conteporain Saint Martin",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4881145550,
+  "lat": 44.7550103,
+  "lon": 5.3698205,
+  "tags": {
+    "addr:housenumber": "11",
+    "name": "Musée Archéologique de Die du Diois",
+    "name:nl": "Archeologisch Museum Die en Diois",
+    "official_name": "Musée d'histoire et d'archéologie de Die et du Diois",
+    "opening_hours": "Apr 15-Jun 15 Tu-Fr 14:00-17:00; Jun 15-Sep 15 Tu-Sa 15:00-19:00",
+    "phone": "+33 4 75 22 40 05",
+    "ref:FR:museofile": "M0982",
+    "source": "Ministère de la Culture - Muséofile - 09/2019",
+    "tourism": "museum",
+    "website": "http://www.museededie.org",
+    "wikidata": "Q3329716",
+    "wikipedia": "fr:Musée de Die"
+  }
+},
+{
+  "type": "node",
+  "id": 4943667119,
+  "lat": 44.7489408,
+  "lon": 4.9199935,
+  "tags": {
+    "name": "La Gare des Ramières",
+    "tourism": "museum",
+    "website": "https://lagaredesramieres.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 6435638940,
+  "lat": 44.7781903,
+  "lon": 5.1425504,
+  "tags": {
+    "addr:city": "Beaufort-sur-Gervanne",
+    "addr:housenumber": "25",
+    "addr:postcode": "26400",
+    "addr:street": "Grand Rue",
+    "description": "Ce musée est dédié à la Résistance en Pays de Gervanne durant la 2ème guerre mondiale.",
+    "name": "Maison de la Résistance Mathias Mathieu",
+    "opening_hours": "Jun,Sep Mo,Su 09:00-12:00,15:00-18:00; Jul-Aug 09:00-12:00,15:00-18:00; Jul-Aug Th,Fr off",
+    "operator": "Association des Amis de la Maison de la Résistance Mathias Mathieu",
+    "phone": "+33 4 75764738",
+    "start_date": "2018-06-30",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 67980512,
+  "nodes": [
+    820140526,
+    820131182,
+    820138177,
+    820141079,
+    820124165,
+    820140130,
+    820134647,
+    820141549,
+    820127503,
+    820140526
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Centre d'Art et d'Histoire André Auclair",
+    "short_name": "Centre André Auclair",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+    "tourism": "museum",
+    "website": "http://www.ot-cruas.fr/musee_auclair.php"
+  }
+},
+{
+  "type": "way",
+  "id": 68332777,
+  "nodes": [
+    822717239,
+    822708879,
+    822703434,
+    822715231,
+    822710072,
+    822717239
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Musée archéologique",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+    "tourism": "museum",
+    "website": "https://www.soyons.fr/le-musee"
+  }
+},
+{
+  "type": "way",
+  "id": 74401897,
+  "nodes": [
+    879240823,
+    879354029,
+    4861727315,
+    4861727316,
+    879250877,
+    879334985,
+    879240823
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Musée Européen de l'Aviation de Chasse",
+    "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2017",
+    "tourism": "museum",
+    "wall": "no",
+    "website": "http://www.meacmtl.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 74774477,
+  "nodes": [
+    883253326,
+    883285053,
+    883336089,
+    883387729,
+    883325963,
+    883396118,
+    883286006,
+    4861706522,
+    4861706523,
+    883372049,
+    883382657,
+    883248035,
+    883354971,
+    4861729828,
+    4861729831,
+    883396297,
+    883253326
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Fabrique et Musée du Nougat",
+    "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2017",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 79026640,
+  "nodes": [
+    923911355,
+    923908937,
+    923909287,
+    923910834,
+    923910009,
+    923911061,
+    4787077798,
+    6709425164,
+    4787077799,
+    4787077800,
+    923911355
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Musée Résistance Vercors",
+    "opening_hours": "Jul-Aug: Mo-Su 10:00-12:30;Jul-Aug: Mo-Su 13:30-18:30;Apr: Tu-Su 10:00-12:00;Apr: Tu-Su 14:00-18:00;May-Jun: Mo-Su 10:00-12:00;May-Jun: Mo-Su 14:00-18:00;Sep: Mo-Su 10:00-12:00;Sep: Mo-Su 14:00-18:00;Nov-Mar: We-Su 14:00-17:00",
+    "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2017",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 79026706,
+  "nodes": [
+    923909397,
+    923911511,
+    923911489,
+    923911573,
+    923911055,
+    923910524,
+    923909037,
+    923910443,
+    923910231,
+    923910377,
+    923910620,
+    923910747,
+    923911584,
+    923909397
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Mémorial de la Résistance en Vercors",
+    "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2017",
+    "tourism": "museum",
+    "wikidata": "Q3333149",
+    "wikipedia": "fr:Mémorial de la Résistance en Vercors"
+  }
+},
+{
+  "type": "way",
+  "id": 79026838,
+  "nodes": [
+    6719592606,
+    923911446,
+    923910798,
+    923911581,
+    6719592613,
+    6719592614,
+    6719592608,
+    6719592612,
+    6719592609,
+    6719592610,
+    923910913,
+    923909444,
+    923911606,
+    923910998,
+    923911373,
+    923910795,
+    923909906,
+    6719592606
+  ],
+  "tags": {
+    "building": "yes",
+    "contact:website": "http://memorial-vercors.fr",
+    "name": "Musée de la Resistance Nationale",
+    "opening_hours": "10:00-18:00",
+    "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2017",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 79027111,
+  "nodes": [
+    4787077762,
+    923910507,
+    923908904,
+    923910878,
+    923909802,
+    4787077761,
+    923909636,
+    4787077902,
+    4787077903,
+    923909767,
+    4787077762
+  ],
+  "tags": {
+    "addr:city": "Vassieux-en-Vercors",
+    "addr:country": "FR",
+    "addr:postcode": "26420",
+    "building": "yes",
+    "contact:email": "info@prehistoire-vercors.fr",
+    "contact:fax": "+33 4 75 48 29 60",
+    "contact:phone": "+33 4 75 48 27 81",
+    "contact:website": "http://www.prehistoire-vercors.fr/",
+    "name": "Musée de la Préhistoire de Vassieux-en-Vercors",
+    "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2017",
+    "tourism": "museum",
+    "wall": "no",
+    "wikidata": "Q26257881"
+  }
+},
+{
+  "type": "way",
+  "id": 97407566,
+  "nodes": [
+    1128106030,
+    4863628613,
+    1128105107,
+    1128102884,
+    1128104816,
+    1128104207,
+    1128105558,
+    1128102720,
+    1128105900,
+    1128104945,
+    1128105745,
+    1128104877,
+    4863628614,
+    1128103002,
+    1128105951,
+    1128105205,
+    1128105130,
+    1128102129,
+    1128103582,
+    1128104256,
+    1128104439,
+    1128102898,
+    1128102704,
+    1128103473,
+    1128102686,
+    1128106095,
+    4863628615,
+    4863628616,
+    4863628617,
+    4863628618,
+    4863628619,
+    4863628620,
+    4863629221,
+    1128102976,
+    1128102236,
+    4863629229,
+    1128106030
+  ],
+  "tags": {
+    "building": "yes",
+    "contact:facebook": "https://www.facebook.com/museedevalence",
+    "name": "Musée de Valence",
+    "opening_hours": "Tu-Su 10:00-18:00",
+    "phone": "+33475792080",
+    "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2017",
+    "tourism": "museum",
+    "website": "http://www.museedevalence.fr/",
+    "wikidata": "Q3330224"
+  }
+},
+{
+  "type": "way",
+  "id": 104169272,
+  "nodes": [
+    1201981684,
+    1201930882,
+    1201932660,
+    1201954053,
+    1201913461,
+    4805841663,
+    4805841664,
+    4805846809,
+    1201964419,
+    1201948047,
+    1201911660,
+    1201978717,
+    1201973382,
+    1201961175,
+    1201921402,
+    1201917653,
+    1201981684
+  ],
+  "tags": {
+    "addr:city": "Étoile-sur-Rhône",
+    "addr:postcode": "26800",
+    "addr:street": "Route de Marmans",
+    "amenity": "arts_centre",
+    "building": "yes",
+    "name": "Les Clévos, cité des savoirs",
+    "short_name": "Les Clévos",
+    "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2017",
+    "tourism": "museum",
+    "website": "http://www.lesclevos.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 116656224,
+  "nodes": [
+    1314595826,
+    1314592523,
+    1314597886,
+    1314580532,
+    1314587854,
+    1314585736,
+    1314591254,
+    1314599747,
+    1314579151,
+    1314603969,
+    1314576486,
+    1314597142,
+    1314600412,
+    1314595826
+  ],
+  "tags": {
+    "addr:city": "Dieulefit",
+    "addr:postcode": "26220",
+    "addr:street": "Rue des Reymonds",
+    "building": "yes",
+    "building:levels": "1",
+    "contact:email": "info@maisondelaceramique.fr",
+    "contact:phone": "+33 4 75 50 20 98",
+    "fee": "yes",
+    "name": "Maison de la Céramique du Pays de Dieulefit",
+    "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2017",
+    "tourism": "museum",
+    "website": "http://maisondelaceramique.fr/"
+  }
+},
+{
+  "type": "way",
+  "id": 568594594,
+  "nodes": [
+    5470122135,
+    2362125429,
+    5470122134,
+    5470122135
+  ],
+  "tags": {
+    "building": "yes",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "relation",
+  "id": 1573550,
+  "members": [
+    {
+      "type": "way",
+      "ref": 71210408,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 99235343,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 111834305,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 111834303,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 71210187,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "addr:city": "Valence",
+    "addr:housenumber": "14",
+    "addr:postcode": "26000",
+    "addr:street": "Rue Louis Gallet",
+    "fee": "yes",
+    "name": "Centre du patrimoine arménien",
+    "opening_hours": "Tu-Fr 10:00-13:00,14:00-18:00; Sa,Su 14:00-18:00; PH off",
+    "phone": "+33 4 75 80 13 00",
+    "tourism": "museum",
+    "type": "multipolygon",
+    "website": "https://www.le-cpa.com/",
+    "wikidata": "Q8298179"
+  }
+},
+{
+  "type": "node",
+  "id": 883248035,
+  "lat": 44.5322885,
+  "lon": 4.7412465
+},
+{
+  "type": "node",
+  "id": 883253326,
+  "lat": 44.5329306,
+  "lon": 4.7416777
+},
+{
+  "type": "node",
+  "id": 883285053,
+  "lat": 44.5329331,
+  "lon": 4.7416614
+},
+{
+  "type": "node",
+  "id": 883286006,
+  "lat": 44.5323073,
+  "lon": 4.7411493
+},
+{
+  "type": "node",
+  "id": 883325963,
+  "lat": 44.5330365,
+  "lon": 4.7414541
+},
+{
+  "type": "node",
+  "id": 883336089,
+  "lat": 44.5329773,
+  "lon": 4.7416781
+},
+{
+  "type": "node",
+  "id": 883354971,
+  "lat": 44.5323223,
+  "lon": 4.7412599
+},
+{
+  "type": "node",
+  "id": 883372049,
+  "lat": 44.5322712,
+  "lon": 4.7412205
+},
+{
+  "type": "node",
+  "id": 883382657,
+  "lat": 44.5322920,
+  "lon": 4.7412283
+},
+{
+  "type": "node",
+  "id": 883387729,
+  "lat": 44.5330011,
+  "lon": 4.7416625
+},
+{
+  "type": "node",
+  "id": 883396118,
+  "lat": 44.5330208,
+  "lon": 4.7414168
+},
+{
+  "type": "node",
+  "id": 883396297,
+  "lat": 44.5322864,
+  "lon": 4.7414385
+},
+{
+  "type": "node",
+  "id": 4861706522,
+  "lat": 44.5323038,
+  "lon": 4.7411676
+},
+{
+  "type": "node",
+  "id": 4861706523,
+  "lat": 44.5322829,
+  "lon": 4.7411598
+},
+{
+  "type": "node",
+  "id": 4861729828,
+  "lat": 44.5323212,
+  "lon": 4.7412653
+},
+{
+  "type": "node",
+  "id": 4861729831,
+  "lat": 44.5323071,
+  "lon": 4.7413356
+},
+{
+  "type": "node",
+  "id": 879240823,
+  "lat": 44.5819303,
+  "lon": 4.7355270
+},
+{
+  "type": "node",
+  "id": 879250877,
+  "lat": 44.5814690,
+  "lon": 4.7355176
+},
+{
+  "type": "node",
+  "id": 879334985,
+  "lat": 44.5818713,
+  "lon": 4.7357381
+},
+{
+  "type": "node",
+  "id": 879354029,
+  "lat": 44.5815616,
+  "lon": 4.7353250
+},
+{
+  "type": "node",
+  "id": 4861727315,
+  "lat": 44.5815746,
+  "lon": 4.7352781
+},
+{
+  "type": "node",
+  "id": 4861727316,
+  "lat": 44.5815411,
+  "lon": 4.7352597
+},
+{
+  "type": "node",
+  "id": 820124165,
+  "lat": 44.6546175,
+  "lon": 4.7628269
+},
+{
+  "type": "node",
+  "id": 820127503,
+  "lat": 44.6547442,
+  "lon": 4.7627278
+},
+{
+  "type": "node",
+  "id": 820131182,
+  "lat": 44.6546921,
+  "lon": 4.7627233
+},
+{
+  "type": "node",
+  "id": 820134647,
+  "lat": 44.6546566,
+  "lon": 4.7628690
+},
+{
+  "type": "node",
+  "id": 820138177,
+  "lat": 44.6546284,
+  "lon": 4.7626940
+},
+{
+  "type": "node",
+  "id": 820140130,
+  "lat": 44.6546608,
+  "lon": 4.7628498
+},
+{
+  "type": "node",
+  "id": 820140526,
+  "lat": 44.6546963,
+  "lon": 4.7627044
+},
+{
+  "type": "node",
+  "id": 820141079,
+  "lat": 44.6545965,
+  "lon": 4.7628137
+},
+{
+  "type": "node",
+  "id": 820141549,
+  "lat": 44.6547009,
+  "lon": 4.7628929
+},
+{
+  "type": "node",
+  "id": 2362125429,
+  "lat": 44.7640183,
+  "lon": 4.9152401
+},
+{
+  "type": "node",
+  "id": 5470122134,
+  "lat": 44.7639677,
+  "lon": 4.9154022
+},
+{
+  "type": "node",
+  "id": 5470122135,
+  "lat": 44.7640329,
+  "lon": 4.9153448
+},
+{
+  "type": "node",
+  "id": 1201911660,
+  "lat": 44.8406155,
+  "lon": 4.8842925
+},
+{
+  "type": "node",
+  "id": 1201913461,
+  "lat": 44.8408863,
+  "lon": 4.8846995
+},
+{
+  "type": "node",
+  "id": 1201917653,
+  "lat": 44.8407436,
+  "lon": 4.8847516
+},
+{
+  "type": "node",
+  "id": 1201921402,
+  "lat": 44.8406668,
+  "lon": 4.8846267
+},
+{
+  "type": "node",
+  "id": 1201930882,
+  "lat": 44.8408479,
+  "lon": 4.8848041
+},
+{
+  "type": "node",
+  "id": 1201932660,
+  "lat": 44.8408976,
+  "lon": 4.8847425
+},
+{
+  "type": "node",
+  "id": 1201948047,
+  "lat": 44.8406751,
+  "lon": 4.8843930
+},
+{
+  "type": "node",
+  "id": 1201954053,
+  "lat": 44.8408791,
+  "lon": 4.8847099
+},
+{
+  "type": "node",
+  "id": 1201961175,
+  "lat": 44.8404600,
+  "lon": 4.8843105
+},
+{
+  "type": "node",
+  "id": 1201964419,
+  "lat": 44.8406693,
+  "lon": 4.8844000
+},
+{
+  "type": "node",
+  "id": 1201973382,
+  "lat": 44.8405466,
+  "lon": 4.8842111
+},
+{
+  "type": "node",
+  "id": 1201978717,
+  "lat": 44.8406039,
+  "lon": 4.8843055
+},
+{
+  "type": "node",
+  "id": 1201981684,
+  "lat": 44.8407838,
+  "lon": 4.8847024
+},
+{
+  "type": "node",
+  "id": 4805841663,
+  "lat": 44.8407927,
+  "lon": 4.8845488
+},
+{
+  "type": "node",
+  "id": 4805841664,
+  "lat": 44.8407772,
+  "lon": 4.8845679
+},
+{
+  "type": "node",
+  "id": 4805846809,
+  "lat": 44.8407296,
+  "lon": 4.8844938
+},
+{
+  "type": "node",
+  "id": 822703434,
+  "lat": 44.8878896,
+  "lon": 4.8506831
+},
+{
+  "type": "node",
+  "id": 822708879,
+  "lat": 44.8879348,
+  "lon": 4.8506669
+},
+{
+  "type": "node",
+  "id": 822710072,
+  "lat": 44.8879655,
+  "lon": 4.8508768
+},
+{
+  "type": "node",
+  "id": 822715231,
+  "lat": 44.8879190,
+  "lon": 4.8508841
+},
+{
+  "type": "node",
+  "id": 822717239,
+  "lat": 44.8879537,
+  "lon": 4.8508057
+},
+{
+  "type": "node",
+  "id": 1314576486,
+  "lat": 44.5216006,
+  "lon": 5.0671634
+},
+{
+  "type": "node",
+  "id": 1314579151,
+  "lat": 44.5215596,
+  "lon": 5.0671274
+},
+{
+  "type": "node",
+  "id": 1314580532,
+  "lat": 44.5215346,
+  "lon": 5.0668047
+},
+{
+  "type": "node",
+  "id": 1314585736,
+  "lat": 44.5215190,
+  "lon": 5.0668845
+},
+{
+  "type": "node",
+  "id": 1314587854,
+  "lat": 44.5215391,
+  "lon": 5.0668933
+},
+{
+  "type": "node",
+  "id": 1314591254,
+  "lat": 44.5214758,
+  "lon": 5.0670930
+},
+{
+  "type": "node",
+  "id": 1314592523,
+  "lat": 44.5216306,
+  "lon": 5.0669281
+},
+{
+  "type": "node",
+  "id": 1314595826,
+  "lat": 44.5216950,
+  "lon": 5.0669541
+},
+{
+  "type": "node",
+  "id": 1314597142,
+  "lat": 44.5216144,
+  "lon": 5.0671493
+},
+{
+  "type": "node",
+  "id": 1314597886,
+  "lat": 44.5216363,
+  "lon": 5.0668991
+},
+{
+  "type": "node",
+  "id": 1314599747,
+  "lat": 44.5215207,
+  "lon": 5.0671114
+},
+{
+  "type": "node",
+  "id": 1314600412,
+  "lat": 44.5216507,
+  "lon": 5.0671626
+},
+{
+  "type": "node",
+  "id": 1314603969,
+  "lat": 44.5215687,
+  "lon": 5.0671496
+},
+{
+  "type": "node",
+  "id": 923908904,
+  "lat": 44.8651494,
+  "lon": 5.3563546
+},
+{
+  "type": "node",
+  "id": 923909636,
+  "lat": 44.8650229,
+  "lon": 5.3558212
+},
+{
+  "type": "node",
+  "id": 923909767,
+  "lat": 44.8649168,
+  "lon": 5.3559385
+},
+{
+  "type": "node",
+  "id": 923909802,
+  "lat": 44.8652444,
+  "lon": 5.3562172
+},
+{
+  "type": "node",
+  "id": 923910507,
+  "lat": 44.8651383,
+  "lon": 5.3563347
+},
+{
+  "type": "node",
+  "id": 923910878,
+  "lat": 44.8652555,
+  "lon": 5.3562372
+},
+{
+  "type": "node",
+  "id": 4787077761,
+  "lat": 44.8650458,
+  "lon": 5.3558622
+},
+{
+  "type": "node",
+  "id": 4787077762,
+  "lat": 44.8649398,
+  "lon": 5.3559795
+},
+{
+  "type": "node",
+  "id": 4787077902,
+  "lat": 44.8649946,
+  "lon": 5.3558525
+},
+{
+  "type": "node",
+  "id": 4787077903,
+  "lat": 44.8649698,
+  "lon": 5.3558799
+},
+{
+  "type": "node",
+  "id": 1128102129,
+  "lat": 44.9312937,
+  "lon": 4.8886918
+},
+{
+  "type": "node",
+  "id": 1128102686,
+  "lat": 44.9311664,
+  "lon": 4.8886873
+},
+{
+  "type": "node",
+  "id": 1128102704,
+  "lat": 44.9312043,
+  "lon": 4.8887441
+},
+{
+  "type": "node",
+  "id": 1128102898,
+  "lat": 44.9312043,
+  "lon": 4.8887592
+},
+{
+  "type": "node",
+  "id": 1128103002,
+  "lat": 44.9313905,
+  "lon": 4.8888302
+},
+{
+  "type": "node",
+  "id": 1128103473,
+  "lat": 44.9312131,
+  "lon": 4.8887139
+},
+{
+  "type": "node",
+  "id": 1128103582,
+  "lat": 44.9312802,
+  "lon": 4.8887234
+},
+{
+  "type": "node",
+  "id": 1128104256,
+  "lat": 44.9312856,
+  "lon": 4.8887279
+},
+{
+  "type": "node",
+  "id": 1128104439,
+  "lat": 44.9312641,
+  "lon": 4.8887903
+},
+{
+  "type": "node",
+  "id": 1128104816,
+  "lat": 44.9311820,
+  "lon": 4.8889110
+},
+{
+  "type": "node",
+  "id": 1128105130,
+  "lat": 44.9313375,
+  "lon": 4.8887265
+},
+{
+  "type": "node",
+  "id": 1128105205,
+  "lat": 44.9313295,
+  "lon": 4.8887557
+},
+{
+  "type": "node",
+  "id": 1128105745,
+  "lat": 44.9314351,
+  "lon": 4.8889679
+},
+{
+  "type": "node",
+  "id": 1128105951,
+  "lat": 44.9313990,
+  "lon": 4.8888063
+},
+{
+  "type": "node",
+  "id": 1128106095,
+  "lat": 44.9311874,
+  "lon": 4.8886172
+},
+{
+  "type": "node",
+  "id": 4863628614,
+  "lat": 44.9315312,
+  "lon": 4.8889266
+},
+{
+  "type": "node",
+  "id": 4863628615,
+  "lat": 44.9311260,
+  "lon": 4.8885813
+},
+{
+  "type": "node",
+  "id": 4863628616,
+  "lat": 44.9310959,
+  "lon": 4.8886947
+},
+{
+  "type": "node",
+  "id": 4863628617,
+  "lat": 44.9311276,
+  "lon": 4.8887042
+},
+{
+  "type": "node",
+  "id": 847684423,
+  "lat": 44.9313882,
+  "lon": 4.8935027
+},
+{
+  "type": "node",
+  "id": 847685170,
+  "lat": 44.9314535,
+  "lon": 4.8933391
+},
+{
+  "type": "node",
+  "id": 847685214,
+  "lat": 44.9312879,
+  "lon": 4.8934643
+},
+{
+  "type": "node",
+  "id": 847685230,
+  "lat": 44.9315546,
+  "lon": 4.8935988
+},
+{
+  "type": "node",
+  "id": 847685279,
+  "lat": 44.9312287,
+  "lon": 4.8934370
+},
+{
+  "type": "node",
+  "id": 847685823,
+  "lat": 44.9312362,
+  "lon": 4.8936699
+},
+{
+  "type": "node",
+  "id": 847685882,
+  "lat": 44.9314051,
+  "lon": 4.8933759
+},
+{
+  "type": "node",
+  "id": 847686008,
+  "lat": 44.9314388,
+  "lon": 4.8933933
+},
+{
+  "type": "node",
+  "id": 847686047,
+  "lat": 44.9315244,
+  "lon": 4.8937243
+},
+{
+  "type": "node",
+  "id": 847686084,
+  "lat": 44.9313966,
+  "lon": 4.8934393
+},
+{
+  "type": "node",
+  "id": 847686161,
+  "lat": 44.9311950,
+  "lon": 4.8935485
+},
+{
+  "type": "node",
+  "id": 847686268,
+  "lat": 44.9315976,
+  "lon": 4.8934092
+},
+{
+  "type": "node",
+  "id": 847686334,
+  "lat": 44.9312429,
+  "lon": 4.8935576
+},
+{
+  "type": "node",
+  "id": 1128102236,
+  "lat": 44.9310241,
+  "lon": 4.8892104
+},
+{
+  "type": "node",
+  "id": 1128102720,
+  "lat": 44.9314070,
+  "lon": 4.8893470
+},
+{
+  "type": "node",
+  "id": 1128102884,
+  "lat": 44.9311030,
+  "lon": 4.8891730
+},
+{
+  "type": "node",
+  "id": 1128102976,
+  "lat": 44.9307811,
+  "lon": 4.8890812
+},
+{
+  "type": "node",
+  "id": 1128104207,
+  "lat": 44.9313272,
+  "lon": 4.8889949
+},
+{
+  "type": "node",
+  "id": 1128104877,
+  "lat": 44.9315056,
+  "lon": 4.8890130
+},
+{
+  "type": "node",
+  "id": 1128104945,
+  "lat": 44.9313674,
+  "lon": 4.8892304
+},
+{
+  "type": "node",
+  "id": 1128105107,
+  "lat": 44.9311690,
+  "lon": 4.8892120
+},
+{
+  "type": "node",
+  "id": 1128105558,
+  "lat": 44.9312593,
+  "lon": 4.8892624
+},
+{
+  "type": "node",
+  "id": 1128105900,
+  "lat": 44.9314303,
+  "lon": 4.8892652
+},
+{
+  "type": "node",
+  "id": 1128106030,
+  "lat": 44.9311560,
+  "lon": 4.8892810
+},
+{
+  "type": "node",
+  "id": 2503403587,
+  "lat": 44.9312134,
+  "lon": 4.8934873
+},
+{
+  "type": "node",
+  "id": 4863628613,
+  "lat": 44.9311683,
+  "lon": 4.8892221
+},
+{
+  "type": "node",
+  "id": 4863628618,
+  "lat": 44.9310140,
+  "lon": 4.8891264
+},
+{
+  "type": "node",
+  "id": 4863628619,
+  "lat": 44.9309737,
+  "lon": 4.8891049
+},
+{
+  "type": "node",
+  "id": 4863628620,
+  "lat": 44.9309687,
+  "lon": 4.8891205
+},
+{
+  "type": "node",
+  "id": 4863629221,
+  "lat": 44.9307945,
+  "lon": 4.8890271
+},
+{
+  "type": "node",
+  "id": 4863629229,
+  "lat": 44.9310669,
+  "lon": 4.8892332
+},
+{
+  "type": "node",
+  "id": 923909444,
+  "lat": 44.9064277,
+  "lon": 5.3591242
+},
+{
+  "type": "node",
+  "id": 923909906,
+  "lat": 44.9062089,
+  "lon": 5.3598702
+},
+{
+  "type": "node",
+  "id": 923910795,
+  "lat": 44.9061564,
+  "lon": 5.3597589
+},
+{
+  "type": "node",
+  "id": 923910798,
+  "lat": 44.9063903,
+  "lon": 5.3596947
+},
+{
+  "type": "node",
+  "id": 923910913,
+  "lat": 44.9065046,
+  "lon": 5.3590602
+},
+{
+  "type": "node",
+  "id": 923910998,
+  "lat": 44.9063081,
+  "lon": 5.3594116
+},
+{
+  "type": "node",
+  "id": 923911373,
+  "lat": 44.9062733,
+  "lon": 5.3595297
+},
+{
+  "type": "node",
+  "id": 923911446,
+  "lat": 44.9063372,
+  "lon": 5.3598602
+},
+{
+  "type": "node",
+  "id": 923911581,
+  "lat": 44.9064292,
+  "lon": 5.3594947
+},
+{
+  "type": "node",
+  "id": 923911606,
+  "lat": 44.9063361,
+  "lon": 5.3592448
+},
+{
+  "type": "node",
+  "id": 6719592606,
+  "lat": 44.9062930,
+  "lon": 5.3599709
+},
+{
+  "type": "node",
+  "id": 6719592608,
+  "lat": 44.9066102,
+  "lon": 5.3592011
+},
+{
+  "type": "node",
+  "id": 6719592609,
+  "lat": 44.9065732,
+  "lon": 5.3590442
+},
+{
+  "type": "node",
+  "id": 6719592610,
+  "lat": 44.9065470,
+  "lon": 5.3590498
+},
+{
+  "type": "node",
+  "id": 6719592612,
+  "lat": 44.9065948,
+  "lon": 5.3591356
+},
+{
+  "type": "node",
+  "id": 6719592613,
+  "lat": 44.9064545,
+  "lon": 5.3593875
+},
+{
+  "type": "node",
+  "id": 6719592614,
+  "lat": 44.9065352,
+  "lon": 5.3592628
+},
+{
+  "type": "node",
+  "id": 923908937,
+  "lat": 44.8957290,
+  "lon": 5.3682458
+},
+{
+  "type": "node",
+  "id": 923909287,
+  "lat": 44.8957176,
+  "lon": 5.3682586
+},
+{
+  "type": "node",
+  "id": 923910009,
+  "lat": 44.8956903,
+  "lon": 5.3683040
+},
+{
+  "type": "node",
+  "id": 923910834,
+  "lat": 44.8957174,
+  "lon": 5.3683045
+},
+{
+  "type": "node",
+  "id": 923911061,
+  "lat": 44.8956915,
+  "lon": 5.3685186
+},
+{
+  "type": "node",
+  "id": 923911355,
+  "lat": 44.8958574,
+  "lon": 5.3682486
+},
+{
+  "type": "node",
+  "id": 4787077798,
+  "lat": 44.8957299,
+  "lon": 5.3685179
+},
+{
+  "type": "node",
+  "id": 4787077799,
+  "lat": 44.8957301,
+  "lon": 5.3685396
+},
+{
+  "type": "node",
+  "id": 4787077800,
+  "lat": 44.8958582,
+  "lon": 5.3685389
+},
+{
+  "type": "node",
+  "id": 6709425164,
+  "lat": 44.8957300,
+  "lon": 5.3685306
+},
+{
+  "type": "node",
+  "id": 923909037,
+  "lat": 44.9034225,
+  "lon": 5.3709870
+},
+{
+  "type": "node",
+  "id": 923909397,
+  "lat": 44.9032713,
+  "lon": 5.3709991
+},
+{
+  "type": "node",
+  "id": 923910231,
+  "lat": 44.9033819,
+  "lon": 5.3708463
+},
+{
+  "type": "node",
+  "id": 923910377,
+  "lat": 44.9033791,
+  "lon": 5.3708214
+},
+{
+  "type": "node",
+  "id": 923910443,
+  "lat": 44.9034505,
+  "lon": 5.3708984
+},
+{
+  "type": "node",
+  "id": 923910524,
+  "lat": 44.9033852,
+  "lon": 5.3709779
+},
+{
+  "type": "node",
+  "id": 923910620,
+  "lat": 44.9033222,
+  "lon": 5.3708412
+},
+{
+  "type": "node",
+  "id": 923910747,
+  "lat": 44.9032762,
+  "lon": 5.3708840
+},
+{
+  "type": "node",
+  "id": 923911055,
+  "lat": 44.9033673,
+  "lon": 5.3709814
+},
+{
+  "type": "node",
+  "id": 923911489,
+  "lat": 44.9033417,
+  "lon": 5.3710147
+},
+{
+  "type": "node",
+  "id": 923911511,
+  "lat": 44.9033132,
+  "lon": 5.3710084
+},
+{
+  "type": "node",
+  "id": 923911573,
+  "lat": 44.9033535,
+  "lon": 5.3709906
+},
+{
+  "type": "node",
+  "id": 923911584,
+  "lat": 44.9032852,
+  "lon": 5.3709078
+},
+{
+  "type": "way",
+  "id": 71210187,
+  "nodes": [
+    847685214,
+    847684423,
+    847686084
+  ]
+},
+{
+  "type": "way",
+  "id": 71210408,
+  "nodes": [
+    847685214,
+    847685279,
+    2503403587,
+    847686161,
+    847686334,
+    847685823,
+    847686047,
+    847685230
+  ]
+},
+{
+  "type": "way",
+  "id": 99235343,
+  "nodes": [
+    847685230,
+    847686268
+  ]
+},
+{
+  "type": "way",
+  "id": 111834303,
+  "nodes": [
+    847686084,
+    847685882
+  ]
+},
+{
+  "type": "way",
+  "id": 111834305,
+  "nodes": [
+    847685882,
+    847686008,
+    847685170,
+    847686268
+  ]
+}
+
+  ]
+}

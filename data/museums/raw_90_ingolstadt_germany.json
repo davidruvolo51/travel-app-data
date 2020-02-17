@@ -1,0 +1,3120 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-14T10:50:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 262203906,
+  "lat": 48.8919894,
+  "lon": 10.9924095,
+  "tags": {
+    "name": "Bürgermeister-Müller-Museum",
+    "toilets:wheelchair": "yes",
+    "tourism": "museum",
+    "website": "https://www.solnhofen.de/index.php?id=0,49",
+    "wheelchair": "yes",
+    "wikidata": "Q4306225"
+  }
+},
+{
+  "type": "node",
+  "id": 295603345,
+  "lat": 48.7674472,
+  "lon": 11.4161255,
+  "tags": {
+    "addr:city": "Ingolstadt",
+    "addr:country": "DE",
+    "addr:housenumber": "45",
+    "addr:postcode": "85049",
+    "addr:street": "Auf der Schanz",
+    "name": "Stadtmuseum",
+    "tourism": "museum",
+    "wikidata": "Q1487537"
+  }
+},
+{
+  "type": "node",
+  "id": 297076215,
+  "lat": 48.8950102,
+  "lon": 11.1686061,
+  "tags": {
+    "name": "Jura-Museum",
+    "opening_hours": "Apr-Sep Tu-Su 09:00-18:00; Oct-Mar Tu-Su 10:00-16:00; Jan 01 off; Nov 01 off; Dec 24-25 off; Dec 31 off",
+    "tourism": "museum",
+    "wikidata": "Q458586",
+    "wikipedia": "de:Jura-Museum"
+  }
+},
+{
+  "type": "node",
+  "id": 304613072,
+  "lat": 49.0374139,
+  "lon": 11.4616771,
+  "tags": {
+    "fixme": "location",
+    "name": "Brauereimuseum",
+    "operator": "J. B. Prinstner GmbH & Co. KG",
+    "tourism": "museum",
+    "url": "https://www.beilngries.de/poi/brauereimuseum_im_unterirdisch-45/",
+    "website": "https://www.altmuehltaler-abenteuerpark.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 304753045,
+  "lat": 48.9494635,
+  "lon": 11.3944158,
+  "tags": {
+    "addr:housenumber": "1",
+    "addr:street": "Torbäckgäßchen",
+    "name": "Fastnachtsmusem Fasenickl",
+    "opening_hours": "May-Oct Su[1] 14:00-17:00",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 320777074,
+  "lat": 48.8245745,
+  "lon": 11.2349973,
+  "tags": {
+    "name": "Villa Rustica",
+    "tourism": "museum",
+    "website": "http://www.roemervilla-moeckenlohe.de"
+  }
+},
+{
+  "type": "node",
+  "id": 389957259,
+  "lat": 48.9593459,
+  "lon": 11.6895821,
+  "tags": {
+    "name": "Kristallmuseum Riedenburg",
+    "tourism": "museum",
+    "website": "https://www.kristallmuseum-riedenburg.de/",
+    "wheelchair": "yes",
+    "wikidata": "Q76629284"
+  }
+},
+{
+  "type": "node",
+  "id": 389957280,
+  "lat": 48.9620893,
+  "lon": 11.6840878,
+  "tags": {
+    "name": "Meeresmuseum Ozeania",
+    "tourism": "museum",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 442118634,
+  "lat": 48.7616336,
+  "lon": 11.4320391,
+  "tags": {
+    "name": "Museum des Ersten Weltkriegs",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 450607935,
+  "lat": 48.8145938,
+  "lon": 11.8456828,
+  "tags": {
+    "addr:city": "Abensberg",
+    "addr:country": "DE",
+    "addr:housename": "Herzogskasten",
+    "addr:housenumber": "18",
+    "addr:postcode": "93326",
+    "addr:street": "Dollingerstraße",
+    "email": "museum@abensberg.de",
+    "fax": "+49 9443 9103-18",
+    "name": "Stadtmuseum",
+    "opening_hours": "Tu-Su 10:00-17:00",
+    "phone": "+49 9443 9103-59",
+    "toilets:wheelchair": "yes",
+    "tourism": "museum",
+    "website": "https://www.stadtmuseum-abensberg.de/",
+    "wheelchair": "yes",
+    "wikidata": "Q1615340"
+  }
+},
+{
+  "type": "node",
+  "id": 504315071,
+  "lat": 48.8507080,
+  "lon": 11.6448010,
+  "tags": {
+    "name": "Geburtshaus Anna Schäffer",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 521990057,
+  "lat": 48.8102370,
+  "lon": 11.4999950,
+  "tags": {
+    "addr:city": "Kösching",
+    "addr:country": "DE",
+    "addr:housenumber": "3",
+    "addr:postcode": "85092",
+    "addr:street": "Klosterstraße",
+    "fee": "yes",
+    "fee:children": "no",
+    "lastcheck": "2018-02-03",
+    "name": "Museum Kösching",
+    "opening_hours": "We 09:00-12:00;Th 14:00-17:00;Su 14:00-17:00",
+    "operator": "Markt Kösching",
+    "phone": "+49 8456 963009",
+    "tourism": "museum",
+    "wikidata": "Q1481121",
+    "wikipedia": "de:Museum Kösching"
+  }
+},
+{
+  "type": "node",
+  "id": 561224307,
+  "lat": 48.6084065,
+  "lon": 11.6176152,
+  "tags": {
+    "addr:city": "Wolnzach",
+    "addr:country": "DE",
+    "addr:housenumber": "1B",
+    "addr:postcode": "85283",
+    "addr:street": "Am Brunnen",
+    "name": "Kulturgeschichte der Hand",
+    "tourism": "museum",
+    "wikidata": "Q1954455"
+  }
+},
+{
+  "type": "node",
+  "id": 676268249,
+  "lat": 48.9325333,
+  "lon": 11.7070935,
+  "tags": {
+    "name": "Bauernhofmuseum Josef Böhm",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 685956223,
+  "lat": 49.0354166,
+  "lon": 11.5883222,
+  "tags": {
+    "description": "Auch Touristeninfo",
+    "name": "Museum im Hollerhaus",
+    "tourism": "museum",
+    "wikidata": "Q76627387"
+  }
+},
+{
+  "type": "node",
+  "id": 882872093,
+  "lat": 48.7647102,
+  "lon": 11.4313081,
+  "tags": {
+    "addr:postcode": "85049",
+    "name": "Bayerisches Armeemuseum",
+    "tourism": "museum",
+    "website": "http://www.bayerisches-armeemuseum.de/",
+    "wikidata": "Q812396",
+    "wikipedia": "de:Bayerisches Armeemuseum"
+  }
+},
+{
+  "type": "node",
+  "id": 1043683659,
+  "lat": 48.5092211,
+  "lon": 11.1534629,
+  "tags": {
+    "description": "Modelltraktoren-Museum",
+    "name": "Tyro Toys",
+    "opening_hours": "Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00",
+    "shop": "toys",
+    "tourism": "museum",
+    "website": "https://www.tyrotoys.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 1234735063,
+  "lat": 48.7617172,
+  "lon": 11.4273556,
+  "tags": {
+    "addr:city": "Ingolstadt",
+    "addr:country": "DE",
+    "addr:housenumber": "6-8",
+    "addr:postcode": "85049",
+    "addr:street": "Tränktorstraße",
+    "contact:phone": "+49 841 3051871",
+    "contact:website": "http://mkk-ingolstadt.de",
+    "fee": "3€ (2011)",
+    "name": "Museum für konkrete Kunst",
+    "opening_hours": "Tu-Su 10:00-17:00",
+    "phone": "+49 841 3051871",
+    "tourism": "museum",
+    "website": "http://words.mkki.de/",
+    "wheelchair": "limited",
+    "wikidata": "Q1687177",
+    "wikipedia": "de:Museum für Konkrete Kunst"
+  }
+},
+{
+  "type": "node",
+  "id": 1644871400,
+  "lat": 48.8947879,
+  "lon": 11.1685767,
+  "tags": {
+    "name": "Museum für Ur- und Frühgeschichte",
+    "opening_hours": "Apr-Sep Tu-Su 09:00-18:00; Oct-Mar Tu-Su 10:00-16:00; Jan 01 off; Nov 01 off; Dec 24-25 off; Dec 31 off",
+    "tourism": "museum",
+    "wikidata": "Q1517435",
+    "wikipedia": "de:Museum für Ur- und Frühgeschichte auf der Willibaldsburg"
+  }
+},
+{
+  "type": "node",
+  "id": 1665122992,
+  "lat": 48.7281990,
+  "lon": 11.4040210,
+  "tags": {
+    "addr:city": "Ingolstadt",
+    "addr:country": "DE",
+    "addr:housename": "Beim Blasibauern",
+    "addr:housenumber": "13",
+    "addr:postcode": "85051",
+    "addr:street": "Probststraße",
+    "name": "Bauerngerätemuseum",
+    "tourism": "museum",
+    "website": "http://www2.ingolstadt.de/index.phtml?NavID=1842.134&La=1",
+    "wikidata": "Q76628016"
+  }
+},
+{
+  "type": "node",
+  "id": 1768900294,
+  "lat": 49.0040796,
+  "lon": 11.4518664,
+  "tags": {
+    "man_made": "watermill",
+    "name": "Kratzmühle Technikmuseum",
+    "tourism": "museum",
+    "wikidata": "Q76628136"
+  }
+},
+{
+  "type": "node",
+  "id": 1777369327,
+  "lat": 48.8169606,
+  "lon": 11.8425748,
+  "tags": {
+    "name": "Kuchlbauers Bierwelt",
+    "toilets:wheelchair": "no",
+    "tourism": "museum",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1818065219,
+  "lat": 48.8918516,
+  "lon": 11.1828086,
+  "tags": {
+    "access": "permissive",
+    "level": "1",
+    "name": "C. O. Müller Galerie",
+    "note": "Zugang nur im Rahmen einer Führung durch die Residenz",
+    "tourism": "museum",
+    "website": "http://www.eichstaett.info/sehenswertes/c_o_mueller_galerie-2336/",
+    "wikidata": "Q76627478"
+  }
+},
+{
+  "type": "node",
+  "id": 1947633187,
+  "lat": 48.7067426,
+  "lon": 11.5073984,
+  "tags": {
+    "access": "private",
+    "addr:postcode": "85077",
+    "name": "Flugmuseum Messerschmitt",
+    "note": "preregistration required",
+    "tourism": "museum",
+    "website": "https://www.flugmuseum-messerschmitt.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 2225390430,
+  "lat": 49.0358843,
+  "lon": 11.4713802,
+  "tags": {
+    "club": "history",
+    "name": "Spielzeugmuseum",
+    "tourism": "museum",
+    "url": "https://www.beilngries.de/poi/spielzeug_figuren_museum_anno-66/",
+    "website": "https://www.museen-anno-dazumal.de/",
+    "wheelchair": "no",
+    "wikidata": "Q76627235"
+  }
+},
+{
+  "type": "node",
+  "id": 2229470191,
+  "lat": 48.7369317,
+  "lon": 11.1811350,
+  "tags": {
+    "name": "Schlossmuseum",
+    "tourism": "museum",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2315137447,
+  "lat": 49.0341262,
+  "lon": 11.5912947,
+  "tags": {
+    "name": "Altmühltaler Mühlenmuseum",
+    "tourism": "museum",
+    "website": "http://www.altmuehltalermuehle.de",
+    "wikidata": "Q76627390"
+  }
+},
+{
+  "type": "node",
+  "id": 2315138144,
+  "lat": 49.0343029,
+  "lon": 11.5872659,
+  "tags": {
+    "name": "Wagnerei Museum",
+    "tourism": "museum",
+    "website": "http://www.dietfurt.de/sehenswertes/wagnerei-museum_zacherl-10018/#"
+  }
+},
+{
+  "type": "node",
+  "id": 2384317550,
+  "lat": 48.6830662,
+  "lon": 11.6134692,
+  "tags": {
+    "addr:city": "Geisenfeld",
+    "addr:postcode": "85290",
+    "name": "Hallertauer Heimat-und Hopfenmuseum",
+    "tourism": "museum",
+    "website": "http://www.heimatmuseum-geisenfeld.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 2412108751,
+  "lat": 48.8724260,
+  "lon": 11.3287846,
+  "tags": {
+    "name": "Jura-Bauernhof-Museum",
+    "opening_hours": "Tu-Fr 14:00-16:00; Sa,Su,PH 14:00-17:00",
+    "tourism": "museum",
+    "website": "http://www.jura-bauernhof-museum.de",
+    "wikidata": "Q26836737"
+  }
+},
+{
+  "type": "node",
+  "id": 2444268166,
+  "lat": 48.7623907,
+  "lon": 11.4351571,
+  "tags": {
+    "addr:housenumber": "4",
+    "addr:street": "Paradeplatz",
+    "name": "Bayerisches Polizeimuseum",
+    "opening_hours": "Tu-Fr 09:00-17:30; Sa-Su 10:00-17:30",
+    "phone": "+49 (0)841-9377-0",
+    "tourism": "museum",
+    "website": "http://www.armeemuseum.de/de/ausstellungen/polizei.html",
+    "wikidata": "Q812435"
+  }
+},
+{
+  "type": "node",
+  "id": 2444275771,
+  "lat": 48.7584823,
+  "lon": 11.4303366,
+  "tags": {
+    "addr:housenumber": "1",
+    "addr:street": "Brückenkopf",
+    "name": "Heinrich-Stiefel-Schulmuseum",
+    "opening_hours": "Mo-Th 08:00-16:00;Fr 08:00-13:00",
+    "tourism": "museum",
+    "website": "www.heinrichstiefel-schulmuseum.de",
+    "wikidata": "Q76628037"
+  }
+},
+{
+  "type": "node",
+  "id": 3020064830,
+  "lat": 48.8178021,
+  "lon": 11.0796531,
+  "tags": {
+    "fee": "0.75 Eu",
+    "name": "Urdonautal",
+    "opening_hours": "Mo,Th,Fr 15:30-18:00; Sa 10:00-12:00",
+    "tourism": "museum",
+    "wheelchair": "no",
+    "wikidata": "Q76629775"
+  }
+},
+{
+  "type": "node",
+  "id": 3032139044,
+  "lat": 49.0473390,
+  "lon": 11.3553921,
+  "tags": {
+    "addr:city": "Greding",
+    "addr:housenumber": "1",
+    "addr:postcode": "91171",
+    "addr:street": "Maria-Hilf-Weg",
+    "name": "Motorradmuseum Oldtimer Just",
+    "note": "Öffnungszeiten und Führungen: Nach Vereinbarung",
+    "operator": "Werner Just",
+    "phone": "+49 8463 9285",
+    "tourism": "museum",
+    "website": "https://www.greding.de/freizeit/a-z/motorradmuseum_oldtimer_just-14122/"
+  }
+},
+{
+  "type": "node",
+  "id": 3339580122,
+  "lat": 48.8751435,
+  "lon": 11.0727032,
+  "tags": {
+    "email": "info@altmuehlzentrum.de",
+    "fax": "+49 8422 9879811",
+    "name": "Altmühlzentrum",
+    "opening_hours": "Tu-Su 9:30-17:30",
+    "phone": "+49 8422 9879810",
+    "toilets:wheelchair": "yes",
+    "tourism": "museum",
+    "website": "http://www.altmuehlzentrum.de/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3639772019,
+  "lat": 48.8983821,
+  "lon": 11.1399282,
+  "tags": {
+    "fee": "yes",
+    "name": "Museum Bergér",
+    "note": "2018 family 13€ incl. Steinbruch",
+    "tourism": "museum",
+    "website": "http://www.museum-berger.de",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 3721395576,
+  "lat": 48.5293765,
+  "lon": 11.5050070,
+  "tags": {
+    "name": "Heimatmuseum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3721404520,
+  "lat": 48.5301442,
+  "lon": 11.5045181,
+  "tags": {
+    "name": "Städtische Galerie",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3721408620,
+  "lat": 48.5325987,
+  "lon": 11.5064476,
+  "tags": {
+    "addr:city": "Pfaffenhofen a.d. Ilm",
+    "addr:country": "DE",
+    "addr:housenumber": "6a",
+    "addr:postcode": "85276",
+    "addr:street": "Kellerstraße",
+    "name": "Kulturhalle",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3721412293,
+  "lat": 48.5230879,
+  "lon": 11.5117183,
+  "tags": {
+    "addr:city": "Pfaffenhofen a.d. Ilm",
+    "addr:country": "DE",
+    "addr:housenumber": "1",
+    "addr:postcode": "85276",
+    "addr:street": "Bahnhofstraße",
+    "name": "Kunstraum am Bahnhof",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3797175439,
+  "lat": 48.7588443,
+  "lon": 11.4400770,
+  "tags": {
+    "name": "Oldtimer",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4063168868,
+  "lat": 48.6712950,
+  "lon": 11.3401855,
+  "tags": {
+    "description": "Freilichtmuseum",
+    "name": "Freilichtmuseum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4214539681,
+  "lat": 48.7372056,
+  "lon": 11.1774187,
+  "tags": {
+    "addr:housenumber": "A 19",
+    "addr:street": "Amalienstraße",
+    "name": "Stadtmuseum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4234673565,
+  "lat": 48.7371273,
+  "lon": 11.2633090,
+  "tags": {
+    "email": "info@aueninformationszentrum.de",
+    "name": "Aueninformationszentrum Neuburg",
+    "opening_hours": "We-Fr 09:00-12:00,12:45-18:00; Sa,Su 10:00-18:00",
+    "tourism": "museum",
+    "website": "http://www.auenzentrum-neuburg-ingolstadt.de"
+  }
+},
+{
+  "type": "node",
+  "id": 5311812684,
+  "lat": 49.0549337,
+  "lon": 11.4643575,
+  "tags": {
+    "name": "Erlebniswelt Wasserstraße",
+    "operator": "Wasserstraßen- und Schifffahrtsamt Nürnberg",
+    "tourism": "museum",
+    "url": "https://www.beilngries.de/poi/erlebniswelt_wasserstrasse-22287/"
+  }
+},
+{
+  "type": "node",
+  "id": 5840491227,
+  "lat": 48.8914181,
+  "lon": 11.1838527,
+  "tags": {
+    "addr:city": "Eichstätt",
+    "addr:country": "DE",
+    "addr:housenumber": "7",
+    "addr:postcode": "85072",
+    "addr:street": "Residenzplatz",
+    "description": "Das Museum ist im obersten Geschoss und nur über Treppe erreichbar.",
+    "name": "Diözesanmuseum",
+    "tourism": "museum",
+    "website": "https://www.dioezesanmuseum-eichstaett.de/",
+    "wheelchair": "no",
+    "wikidata": "Q1231889",
+    "wikipedia": "de:Diözesanmuseum Eichstätt"
+  }
+},
+{
+  "type": "node",
+  "id": 6369283388,
+  "lat": 48.5857729,
+  "lon": 11.7486213,
+  "tags": {
+    "name": "Eisenbahnfahrzeugsammlung Adolf Hagl",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 23258329,
+  "nodes": [
+    3588428939,
+    3588428940,
+    3588428942,
+    7114627442,
+    251699945,
+    251699947,
+    973899809,
+    973900147,
+    973899978,
+    973899844,
+    973899950,
+    973899814,
+    973899711,
+    973900001,
+    3588428939
+  ],
+  "tags": {
+    "addr:city": "Kipfenberg",
+    "addr:postcode": "85110",
+    "addr:street": "Burg",
+    "building": "yes",
+    "email": "bajuwarenmuseum@altmuehlnet.de",
+    "fax": "+49 8465 905708",
+    "name": "Römer und Bajuwaren Museum",
+    "opening_hours": "10:00-16:00",
+    "phone": "+49 8465 905707",
+    "tourism": "museum",
+    "website": "http://www.bajuwaren-kipfenberg.de/",
+    "wheelchair": "yes",
+    "wheelchair:description": "Mai – werktags von 10-16 Uhr, sonntags von 10-18 Uhr --\r\nJuni, Juli, August – werktags von 10-18 Uhr, sonntags von 10-19 Uhr --\r\nSeptember, Oktober – werktags von 10-16 Uhr, sonntags von 10-18 Uhr --\r\nNovember bis März – Sonn- und feiertags von 10-16 Uhr",
+    "wikidata": "Q2179520"
+  }
+},
+{
+  "type": "way",
+  "id": 28012817,
+  "nodes": [
+    307612947,
+    307612948,
+    307612949,
+    307612950,
+    307612947
+  ],
+  "tags": {
+    "addr:city": "Ingolstadt",
+    "addr:country": "DE",
+    "addr:housenumber": "9",
+    "addr:postcode": "85049",
+    "addr:street": "Esplanade",
+    "building": "yes",
+    "name": "Lechner-Museum",
+    "source": "HiRes aerial imagery",
+    "tourism": "museum",
+    "wikidata": "Q17066668"
+  }
+},
+{
+  "type": "way",
+  "id": 29205385,
+  "nodes": [
+    321243597,
+    417298763,
+    321243599,
+    417298760,
+    321243600,
+    417298759,
+    321243601,
+    417298758,
+    321243603,
+    417298761,
+    321243604,
+    417298762,
+    321243606,
+    321243660,
+    1840464505,
+    321243607,
+    1840464510,
+    1840464512,
+    321243659,
+    321243609,
+    417298755,
+    1840464513,
+    417298754,
+    321243597
+  ],
+  "tags": {
+    "alt_name": "S42",
+    "building": "yes",
+    "level": "5",
+    "name": "Museum Mobile",
+    "name:es": "Museum mobile",
+    "name:fr": "Audi Museum mobile d'Ingolstadt",
+    "operator": "Audi",
+    "toilets:wheelchair": "yes",
+    "tourism": "museum",
+    "website": "https://museumsshop.audi.de/",
+    "wheelchair": "yes",
+    "wikidata": "Q265338",
+    "wikipedia": "de:Museum mobile"
+  }
+},
+{
+  "type": "way",
+  "id": 31096783,
+  "nodes": [
+    345571298,
+    345571302,
+    345571305,
+    345571309,
+    345571315,
+    345571320,
+    345571325,
+    345571331,
+    345571298
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Urgeschichtliches Museum Felsenhäusl",
+    "source": "survey;extrapolation",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 34047714,
+  "nodes": [
+    2041856405,
+    2041856406,
+    2041856407,
+    2041856408,
+    390153576,
+    390153657,
+    2041856405
+  ],
+  "tags": {
+    "addr:city": "Wolnzach",
+    "addr:country": "DE",
+    "addr:housenumber": "2",
+    "addr:postcode": "85283",
+    "addr:street": "Elsenheimerstraße",
+    "building": "yes",
+    "building:height": "8",
+    "name": "Deutsches Hopfenmuseum",
+    "opening_hours": "Tu-Su 10:0-17:00",
+    "roof:shape": "flat",
+    "tourism": "museum",
+    "website": "http://www.hopfenmuseum.de/",
+    "wikidata": "Q1167242"
+  }
+},
+{
+  "type": "way",
+  "id": 51930436,
+  "nodes": [
+    662429546,
+    6120859410,
+    6120823953,
+    6120859413,
+    662429595,
+    6120845071,
+    662429597,
+    662429600,
+    662429546
+  ],
+  "tags": {
+    "addr:city": "Manching",
+    "addr:housenumber": "2",
+    "addr:postcode": "85077",
+    "addr:street": "Im Erlet",
+    "building": "commercial",
+    "description": "Das Kelten- und Römer-Museum Manching präsentiert Funde aus über 100 Jahren archäologischer Ausgrabungen der Keltenstadt an der Donau.",
+    "name": "Kelten- und Römermuseum",
+    "opening_hours": "Tu-Fr 09:30-16:00; Sa, Su 10:00-17:00",
+    "operator": "Zweckverband kelten römer museum manching",
+    "tourism": "museum",
+    "website": "https://www.museum-manching.de/",
+    "wheelchair": "yes",
+    "wikidata": "Q1550590",
+    "wikipedia": "de:Kelten Römer Museum"
+  }
+},
+{
+  "type": "way",
+  "id": 61161405,
+  "nodes": [
+    764928327,
+    1356743260,
+    764928328,
+    764928329,
+    764928331,
+    764928332,
+    764928334,
+    764928335,
+    764928327
+  ],
+  "tags": {
+    "addr:city": "Karlshuld",
+    "addr:country": "DE",
+    "addr:housenumber": "108",
+    "addr:postcode": "86668",
+    "addr:street": "Kleinhohenried",
+    "building": "yes",
+    "fax": "+49 8454 95207",
+    "name": "Haus im Moos",
+    "phone": "+49 8454 95205",
+    "tourism": "museum",
+    "website": "https://www.haus-im-moos.de/",
+    "wikidata": "Q76628059"
+  }
+},
+{
+  "type": "way",
+  "id": 116390306,
+  "nodes": [
+    1312144008,
+    1312144037,
+    1312144028,
+    1312144022,
+    1312144008
+  ],
+  "tags": {
+    "building": "yes",
+    "contact:website": "http://www.auenzentrum-neuburg-ingolstadt.de/aueninformationszentrum/donaupavillon.html",
+    "name": "Donaupavillon Ingolstadt",
+    "tourism": "museum",
+    "website": "http://www.auenzentrum-neuburg-ingolstadt.de/aueninformationszentrum/donaupavillon.html"
+  }
+},
+{
+  "type": "way",
+  "id": 120126495,
+  "nodes": [
+    4196021038,
+    1347655234,
+    4196021039,
+    1347655238,
+    1347655246,
+    1347655247,
+    1347655248,
+    1347655249,
+    1347655250,
+    4196021040,
+    1347655252,
+    6434371570,
+    6434371580,
+    6434371582,
+    1347655254,
+    4196021038
+  ],
+  "tags": {
+    "BLfD:criteria": "Baudenkmal",
+    "addr:city": "Schrobenhausen",
+    "addr:country": "DE",
+    "addr:housenumber": "3",
+    "addr:postcode": "86529",
+    "addr:street": "Am Hofgraben",
+    "building": "yes",
+    "fixme:wikipedia": "wikipedia tag links to a list article, not an article about this specific object. It would be better to fix it, or to rename \"wikipedia\" to \"related:wikipedia\"",
+    "heritage": "4",
+    "heritage:operator": "BLfD",
+    "name": "Museum im Pflegschloss",
+    "ref:BLfD": "D-1-85-158-10",
+    "start_date": "1525",
+    "tourism": "museum",
+    "website": "https://museen-schrobenhausen.byseum.de/de/pflegschloss",
+    "wikipedia": "de:Liste der Baudenkmäler in Schrobenhausen#Am Hofgraben 3, Museum im Pflegschloss"
+  }
+},
+{
+  "type": "way",
+  "id": 120126498,
+  "nodes": [
+    1347655290,
+    1347655300,
+    415460869,
+    2196570938,
+    2196570941,
+    1347655302,
+    6434371888,
+    1347655304,
+    1347655305,
+    1347655306,
+    2196570937,
+    1347655288,
+    1347655289,
+    2171579161,
+    2196570922,
+    2196570921,
+    1347655320,
+    2196570917,
+    1347655321,
+    2196570915,
+    2171579155,
+    2171579158,
+    2171579160,
+    1347655290
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Europäisches Spargelmuseum",
+    "tourism": "museum",
+    "website": "https://museen-schrobenhausen.byseum.de/de/spargelmuseum",
+    "wikidata": "Q1274894",
+    "wikipedia": "de:Europäisches Spargelmuseum"
+  }
+},
+{
+  "type": "way",
+  "id": 142100537,
+  "nodes": [
+    1555233341,
+    1555578030,
+    1555668071,
+    1555667887,
+    1555233341
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Ignaz-Günther-Museum",
+    "tourism": "museum",
+    "wikidata": "Q76626965"
+  }
+},
+{
+  "type": "way",
+  "id": 162249042,
+  "nodes": [
+    1741697941,
+    1741697936,
+    1741697933,
+    1741697939,
+    1741697941
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Marktmuseum Gaimersheim",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 164823886,
+  "nodes": [
+    1764266801,
+    1764266804,
+    1764266806,
+    1764266808,
+    1764266810,
+    1764266809,
+    1764266807,
+    1764266805,
+    1764266803,
+    1764266802,
+    1764266800,
+    1764266801
+  ],
+  "tags": {
+    "building": "yes",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 168959395,
+  "nodes": [
+    1927730619,
+    1801417603,
+    1801417607,
+    1839752457,
+    1801423889,
+    1801417600,
+    4400539736,
+    1801417606,
+    1801417616,
+    1801417615,
+    1801417610,
+    1927730653,
+    1801417613,
+    1927730654,
+    1801417612,
+    1801417611,
+    1927730651,
+    1801417608,
+    1801417605,
+    1927730644,
+    1927730619
+  ],
+  "tags": {
+    "addr:city": "Ingolstadt",
+    "addr:country": "DE",
+    "addr:housenumber": "20",
+    "addr:postcode": "85049",
+    "addr:street": "Anatomiestraße",
+    "building": "house",
+    "historic": "museum",
+    "name": "Deutsches Medizinhistorisches Museum",
+    "name_1": "Alte Anatomie",
+    "source": "HiRes aerial imagery",
+    "tourism": "museum",
+    "website": "http://www.dmm-ingolstadt.de/",
+    "wheelchair": "limited",
+    "wikidata": "Q435363",
+    "wikipedia": "de:Deutsches Medizinhistorisches Museum (Ingolstadt)"
+  }
+},
+{
+  "type": "way",
+  "id": 168960236,
+  "nodes": [
+    1927730780,
+    1927730785,
+    1927730773,
+    1801423947,
+    1801423942,
+    1927730764,
+    1927730780
+  ],
+  "tags": {
+    "building": "house",
+    "name": "Abteilung Medizintechnik",
+    "operator": "Deutsches Medizinhistorisches MuseumDeutsches Medizinhistorisches Museum",
+    "source": "HiRes aerial imagery",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 168960250,
+  "nodes": [
+    1839752453,
+    1927730605,
+    6339314972,
+    4400539734,
+    1801417600,
+    1801423889,
+    1839752457,
+    6339314971,
+    1839752458,
+    6339314974,
+    1839752456,
+    1839752455,
+    1801423870,
+    1839752453
+  ],
+  "tags": {
+    "addr:city": "Ingolstadt",
+    "addr:country": "DE",
+    "addr:housenumber": "18",
+    "addr:postcode": "85049",
+    "addr:street": "Anatomiestraße",
+    "building": "house",
+    "name": "Deutsches Medizinhistorisches Museum",
+    "note": "Erweiterungsbau des Berliner Architekten Volker Staab",
+    "opening_hours": "Tu-Su 10:00-17:00",
+    "source": "local knowledge",
+    "tourism": "museum",
+    "website": "http://www.dmm-ingolstadt.de",
+    "wikidata": "Q28777953"
+  }
+},
+{
+  "type": "way",
+  "id": 196259262,
+  "nodes": [
+    2066098737,
+    2066098749,
+    2066098751,
+    2066098729,
+    2066098755,
+    2066098732,
+    2066098747,
+    2066098739,
+    2066098737
+  ],
+  "tags": {
+    "addr:city": "Greding",
+    "addr:housenumber": "8",
+    "addr:postcode": "91171",
+    "addr:street": "Marktplatz",
+    "building": "yes",
+    "elevator": "yes",
+    "name": "Archäologisches Museum",
+    "note": "Touristinformation im gleichen Haus.",
+    "operator": "Stadt Greding",
+    "phone": "+49 8463 904 60",
+    "toilets:wheelchair": "yes",
+    "tourism": "museum",
+    "website": "http://www.greding-museum.de/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 205404984,
+  "nodes": [
+    2153790973,
+    2153790976,
+    2153790972,
+    2153790971,
+    2153790975,
+    2153790974,
+    2153790973
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Kleinhäuslermuseum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 206859081,
+  "nodes": [
+    2169067925,
+    2169067938,
+    2169067958,
+    2169067937,
+    2169067925
+  ],
+  "tags": {
+    "addr:city": "Schrobenhausen",
+    "addr:country": "DE",
+    "addr:housenumber": "1",
+    "addr:postcode": "86529",
+    "addr:street": "In der Lachen",
+    "building": "yes",
+    "name": "Zeiselmairhaus",
+    "tourism": "museum",
+    "wikidata": "Q55007273"
+  }
+},
+{
+  "type": "way",
+  "id": 216223752,
+  "nodes": [
+    2255746815,
+    2255746818,
+    2255746836,
+    2255746857,
+    2255746841,
+    2255746845,
+    2255746802,
+    2255746791,
+    2255746775,
+    2255746769,
+    2255746781,
+    2255746777,
+    2255746815
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Römisches Museum für Kur- und Badewesen",
+    "tourism": "museum",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "way",
+  "id": 219393427,
+  "nodes": [
+    2285558836,
+    2285558833,
+    2285558840,
+    2285558850,
+    2285558836
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Brauereimuseum",
+    "source": "Bing",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 219687967,
+  "nodes": [
+    1801417616,
+    2288274043,
+    2288274042,
+    1839752457,
+    1801417616
+  ],
+  "tags": {
+    "fee": "no",
+    "leisure": "garden",
+    "name": "Arzneipflanzengarten",
+    "opening_hours": "Tu-Su 10:00-17:00",
+    "operator": "Deutsches Medizinhistorisches Museum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 223138951,
+  "nodes": [
+    2320712838,
+    2320712839,
+    2320712833,
+    2320712832,
+    2320712838
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Feuerwehrmuseum Essing",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 228631911,
+  "nodes": [
+    2372926251,
+    2372926263,
+    2372926271,
+    2372926262,
+    2372926251
+  ],
+  "tags": {
+    "addr:city": "Mainburg",
+    "addr:housenumber": "15",
+    "addr:postcode": "84048",
+    "addr:street": "Abensbergerstraße",
+    "building": "civic",
+    "contact:email": "info@heimatmuseum-mainburg.de",
+    "contact:fax": "+49 8751 875638",
+    "contact:phone": "+49 8751 4027",
+    "contact:website": "www.heimatmuseum-mainburg.de",
+    "name": "Hallertauer Heimat- und Hopfenmuseum",
+    "tourism": "museum",
+    "wikidata": "Q76628369"
+  }
+},
+{
+  "type": "way",
+  "id": 255719096,
+  "nodes": [
+    2613911479,
+    2613911480,
+    2613911483,
+    2613911489,
+    2613911493,
+    2613911494,
+    2613911495,
+    2613911499,
+    2613911498,
+    2613911500,
+    2613911451,
+    2613911447,
+    2613911479
+  ],
+  "tags": {
+    "addr:city": "Schrobenhausen",
+    "addr:country": "DE",
+    "addr:housenumber": "3",
+    "addr:postcode": "86529",
+    "addr:street": "Ulrich-Peisser-Gasse",
+    "building": "yes",
+    "name": "Hartlturm",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 255719110,
+  "nodes": [
+    2613911345,
+    2613911396,
+    2613911400,
+    2613911352,
+    2613911345
+  ],
+  "tags": {
+    "BLfD:criteria": "Baudenkmal",
+    "addr:city": "Schrobenhausen",
+    "addr:country": "DE",
+    "addr:housenumber": "1",
+    "addr:postcode": "86529",
+    "addr:street": "Ulrich-Peisser-Gasse",
+    "building": "yes",
+    "fixme:wikipedia": "wikipedia tag links to a list article, not an article about this specific object. It would be better to fix it, or to rename \"wikipedia\" to \"related:wikipedia\"",
+    "heritage": "4",
+    "heritage:operator": "BLfD",
+    "image": "https://commons.wikimedia.org/wiki/File:SchrobenhausenLenbachhaus.jpg",
+    "name": "Lenbachmuseum",
+    "ref:BLfD": "D-1-85-158-69",
+    "start_date": "1823–25",
+    "tourism": "museum",
+    "website": "https://museen-schrobenhausen.byseum.de/de/lenbachmuseum",
+    "wikidata": "Q76629441",
+    "wikipedia": "de:Liste der Baudenkmäler in Schrobenhausen#Ulrich-Peißer-Gasse 1, Lenbachmuseum"
+  }
+},
+{
+  "type": "way",
+  "id": 386707925,
+  "nodes": [
+    3900618909,
+    3900618903,
+    3900618905,
+    3900618911,
+    3900618909
+  ],
+  "tags": {
+    "addr:city": "Pfaffenhofen a.d. Ilm",
+    "addr:country": "DE",
+    "addr:housenumber": "2",
+    "addr:postcode": "85276",
+    "addr:street": "Untere Stadtmauer",
+    "building": "yes",
+    "name": "Dichtermuseum Joseph Maria Lutz",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 427991925,
+  "nodes": [
+    3987083816,
+    4271489526,
+    4271489524,
+    3460128865,
+    3987083814,
+    3987083819,
+    3987083818,
+    3987083820,
+    4271489543,
+    3987083830,
+    3987083827,
+    4271489539,
+    3987083822,
+    3987083816
+  ],
+  "tags": {
+    "area": "yes",
+    "fee": "no",
+    "name": "Alcmona",
+    "opening_hours": "24/7",
+    "tourism": "museum",
+    "website": "http://www.alcmona.de"
+  }
+},
+{
+  "type": "way",
+  "id": 439059898,
+  "nodes": [
+    4395630165,
+    4366830902,
+    2057928589,
+    2057928608,
+    2057928630,
+    5620715919,
+    4366830903,
+    4366830904,
+    4965475597,
+    4965475598,
+    4965475599,
+    4366830906,
+    4965475600,
+    4366830907,
+    4366830908,
+    360718346,
+    360718351,
+    97108148,
+    4392182861,
+    6400139318,
+    6400139319,
+    4364575997,
+    4392182860,
+    3378504160,
+    6400139320,
+    4395630165
+  ],
+  "tags": {
+    "addr:city": "Denkendorf",
+    "addr:housenumber": "1",
+    "addr:postcode": "85095",
+    "addr:street": "Dinopark",
+    "alt_name": "Dinopark Bayern",
+    "barrier": "fence",
+    "name": "Dinosaurier Freiluftmuseum Altmühltal",
+    "opening_hours": "09:00-18:00",
+    "operator": "Dinosaurier-Park Altmühltal GmbH",
+    "tourism": "museum",
+    "website": "http://www.dinopark-bayern.de/"
+  }
+},
+{
+  "type": "way",
+  "id": 442356780,
+  "nodes": [
+    4400518772,
+    4400518773,
+    1927730776,
+    4400518774,
+    4400518772
+  ],
+  "tags": {
+    "area": "yes",
+    "leisure": "garden",
+    "name": "Duft-und Tastgarten",
+    "opening_hours": "Tu-Su 10:00-17:00",
+    "operator": "Deutsches Medizinhistorisches Museum",
+    "tourism": "museum",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 415460869,
+  "lat": 48.5597797,
+  "lon": 11.2642281
+},
+{
+  "type": "node",
+  "id": 1347655234,
+  "lat": 48.5600406,
+  "lon": 11.2636973
+},
+{
+  "type": "node",
+  "id": 1347655238,
+  "lat": 48.5601956,
+  "lon": 11.2638326
+},
+{
+  "type": "node",
+  "id": 1347655246,
+  "lat": 48.5601853,
+  "lon": 11.2639397
+},
+{
+  "type": "node",
+  "id": 1347655247,
+  "lat": 48.5602282,
+  "lon": 11.2639491
+},
+{
+  "type": "node",
+  "id": 1347655248,
+  "lat": 48.5602176,
+  "lon": 11.2640584
+},
+{
+  "type": "node",
+  "id": 1347655249,
+  "lat": 48.5601684,
+  "lon": 11.2640475
+},
+{
+  "type": "node",
+  "id": 1347655250,
+  "lat": 48.5601630,
+  "lon": 11.2641037
+},
+{
+  "type": "node",
+  "id": 1347655252,
+  "lat": 48.5600631,
+  "lon": 11.2638900
+},
+{
+  "type": "node",
+  "id": 1347655254,
+  "lat": 48.5598823,
+  "lon": 11.2638834
+},
+{
+  "type": "node",
+  "id": 1347655288,
+  "lat": 48.5597108,
+  "lon": 11.2638226
+},
+{
+  "type": "node",
+  "id": 1347655289,
+  "lat": 48.5596610,
+  "lon": 11.2639760
+},
+{
+  "type": "node",
+  "id": 1347655290,
+  "lat": 48.5595867,
+  "lon": 11.2641581
+},
+{
+  "type": "node",
+  "id": 1347655300,
+  "lat": 48.5596632,
+  "lon": 11.2641971
+},
+{
+  "type": "node",
+  "id": 1347655302,
+  "lat": 48.5597949,
+  "lon": 11.2640500
+},
+{
+  "type": "node",
+  "id": 1347655304,
+  "lat": 48.5597162,
+  "lon": 11.2640251
+},
+{
+  "type": "node",
+  "id": 1347655305,
+  "lat": 48.5597679,
+  "lon": 11.2638389
+},
+{
+  "type": "node",
+  "id": 1347655306,
+  "lat": 48.5597528,
+  "lon": 11.2638327
+},
+{
+  "type": "node",
+  "id": 1347655320,
+  "lat": 48.5596201,
+  "lon": 11.2640171
+},
+{
+  "type": "node",
+  "id": 1347655321,
+  "lat": 48.5596009,
+  "lon": 11.2640461
+},
+{
+  "type": "node",
+  "id": 2171579155,
+  "lat": 48.5596032,
+  "lon": 11.2640840
+},
+{
+  "type": "node",
+  "id": 2171579158,
+  "lat": 48.5596075,
+  "lon": 11.2640954
+},
+{
+  "type": "node",
+  "id": 2171579160,
+  "lat": 48.5595997,
+  "lon": 11.2641210
+},
+{
+  "type": "node",
+  "id": 2171579161,
+  "lat": 48.5596538,
+  "lon": 11.2640184
+},
+{
+  "type": "node",
+  "id": 2196570915,
+  "lat": 48.5596004,
+  "lon": 11.2640638
+},
+{
+  "type": "node",
+  "id": 2196570917,
+  "lat": 48.5596094,
+  "lon": 11.2640301
+},
+{
+  "type": "node",
+  "id": 2196570921,
+  "lat": 48.5596304,
+  "lon": 11.2640119
+},
+{
+  "type": "node",
+  "id": 2196570922,
+  "lat": 48.5596404,
+  "lon": 11.2640126
+},
+{
+  "type": "node",
+  "id": 2196570937,
+  "lat": 48.5597422,
+  "lon": 11.2638301
+},
+{
+  "type": "node",
+  "id": 2196570938,
+  "lat": 48.5597812,
+  "lon": 11.2642009
+},
+{
+  "type": "node",
+  "id": 2196570941,
+  "lat": 48.5597912,
+  "lon": 11.2640928
+},
+{
+  "type": "node",
+  "id": 2613911345,
+  "lat": 48.5603813,
+  "lon": 11.2631399
+},
+{
+  "type": "node",
+  "id": 2613911352,
+  "lat": 48.5603942,
+  "lon": 11.2632825
+},
+{
+  "type": "node",
+  "id": 2613911396,
+  "lat": 48.5605576,
+  "lon": 11.2631036
+},
+{
+  "type": "node",
+  "id": 2613911400,
+  "lat": 48.5605705,
+  "lon": 11.2632462
+},
+{
+  "type": "node",
+  "id": 2613911447,
+  "lat": 48.5606637,
+  "lon": 11.2631652
+},
+{
+  "type": "node",
+  "id": 2613911451,
+  "lat": 48.5606680,
+  "lon": 11.2632043
+},
+{
+  "type": "node",
+  "id": 2613911479,
+  "lat": 48.5607217,
+  "lon": 11.2631509
+},
+{
+  "type": "node",
+  "id": 2613911480,
+  "lat": 48.5607269,
+  "lon": 11.2631243
+},
+{
+  "type": "node",
+  "id": 2613911483,
+  "lat": 48.5607434,
+  "lon": 11.2631108
+},
+{
+  "type": "node",
+  "id": 2613911489,
+  "lat": 48.5607613,
+  "lon": 11.2631189
+},
+{
+  "type": "node",
+  "id": 2613911493,
+  "lat": 48.5607686,
+  "lon": 11.2631393
+},
+{
+  "type": "node",
+  "id": 2613911494,
+  "lat": 48.5607688,
+  "lon": 11.2631393
+},
+{
+  "type": "node",
+  "id": 2613911495,
+  "lat": 48.5607689,
+  "lon": 11.2631403
+},
+{
+  "type": "node",
+  "id": 2613911498,
+  "lat": 48.5607696,
+  "lon": 11.2631467
+},
+{
+  "type": "node",
+  "id": 2613911499,
+  "lat": 48.5607702,
+  "lon": 11.2631438
+},
+{
+  "type": "node",
+  "id": 2613911500,
+  "lat": 48.5607731,
+  "lon": 11.2631784
+},
+{
+  "type": "node",
+  "id": 4196021038,
+  "lat": 48.5599032,
+  "lon": 11.2636671
+},
+{
+  "type": "node",
+  "id": 4196021039,
+  "lat": 48.5600310,
+  "lon": 11.2637963
+},
+{
+  "type": "node",
+  "id": 4196021040,
+  "lat": 48.5600450,
+  "lon": 11.2640777
+},
+{
+  "type": "node",
+  "id": 6434371570,
+  "lat": 48.5600176,
+  "lon": 11.2638800
+},
+{
+  "type": "node",
+  "id": 6434371580,
+  "lat": 48.5600037,
+  "lon": 11.2638769
+},
+{
+  "type": "node",
+  "id": 6434371582,
+  "lat": 48.5600005,
+  "lon": 11.2639094
+},
+{
+  "type": "node",
+  "id": 6434371888,
+  "lat": 48.5597592,
+  "lon": 11.2640387
+},
+{
+  "type": "node",
+  "id": 2169067925,
+  "lat": 48.5605166,
+  "lon": 11.2662973
+},
+{
+  "type": "node",
+  "id": 2169067937,
+  "lat": 48.5605809,
+  "lon": 11.2664171
+},
+{
+  "type": "node",
+  "id": 2169067938,
+  "lat": 48.5605811,
+  "lon": 11.2662183
+},
+{
+  "type": "node",
+  "id": 2169067958,
+  "lat": 48.5606454,
+  "lon": 11.2663381
+},
+{
+  "type": "node",
+  "id": 3900618903,
+  "lat": 48.5287307,
+  "lon": 11.5074078
+},
+{
+  "type": "node",
+  "id": 3900618905,
+  "lat": 48.5286963,
+  "lon": 11.5074524
+},
+{
+  "type": "node",
+  "id": 3900618909,
+  "lat": 48.5286995,
+  "lon": 11.5073523
+},
+{
+  "type": "node",
+  "id": 3900618911,
+  "lat": 48.5286650,
+  "lon": 11.5073957
+},
+{
+  "type": "node",
+  "id": 390153576,
+  "lat": 48.6044630,
+  "lon": 11.6281862
+},
+{
+  "type": "node",
+  "id": 390153657,
+  "lat": 48.6043365,
+  "lon": 11.6276230
+},
+{
+  "type": "node",
+  "id": 2041856405,
+  "lat": 48.6040935,
+  "lon": 11.6277478
+},
+{
+  "type": "node",
+  "id": 2041856406,
+  "lat": 48.6041346,
+  "lon": 11.6279252
+},
+{
+  "type": "node",
+  "id": 2041856407,
+  "lat": 48.6041641,
+  "lon": 11.6280524
+},
+{
+  "type": "node",
+  "id": 2041856408,
+  "lat": 48.6042237,
+  "lon": 11.6283092
+},
+{
+  "type": "node",
+  "id": 764928327,
+  "lat": 48.6727188,
+  "lon": 11.3400510
+},
+{
+  "type": "node",
+  "id": 764928328,
+  "lat": 48.6728915,
+  "lon": 11.3406824
+},
+{
+  "type": "node",
+  "id": 764928329,
+  "lat": 48.6727587,
+  "lon": 11.3407658
+},
+{
+  "type": "node",
+  "id": 764928331,
+  "lat": 48.6726304,
+  "lon": 11.3402968
+},
+{
+  "type": "node",
+  "id": 764928332,
+  "lat": 48.6723794,
+  "lon": 11.3404542
+},
+{
+  "type": "node",
+  "id": 764928334,
+  "lat": 48.6723432,
+  "lon": 11.3403217
+},
+{
+  "type": "node",
+  "id": 764928335,
+  "lat": 48.6723350,
+  "lon": 11.3402917
+},
+{
+  "type": "node",
+  "id": 1356743260,
+  "lat": 48.6727420,
+  "lon": 11.3401358
+},
+{
+  "type": "node",
+  "id": 1312144008,
+  "lat": 48.7507252,
+  "lon": 11.4103897
+},
+{
+  "type": "node",
+  "id": 1312144022,
+  "lat": 48.7507232,
+  "lon": 11.4102054
+},
+{
+  "type": "node",
+  "id": 1312144028,
+  "lat": 48.7506824,
+  "lon": 11.4102064
+},
+{
+  "type": "node",
+  "id": 1312144037,
+  "lat": 48.7506844,
+  "lon": 11.4103907
+},
+{
+  "type": "node",
+  "id": 1801417600,
+  "lat": 48.7624180,
+  "lon": 11.4194594
+},
+{
+  "type": "node",
+  "id": 1801417603,
+  "lat": 48.7624695,
+  "lon": 11.4194548
+},
+{
+  "type": "node",
+  "id": 1801417605,
+  "lat": 48.7625263,
+  "lon": 11.4194390
+},
+{
+  "type": "node",
+  "id": 1801417606,
+  "lat": 48.7625550,
+  "lon": 11.4191196
+},
+{
+  "type": "node",
+  "id": 1801417607,
+  "lat": 48.7625474,
+  "lon": 11.4195271
+},
+{
+  "type": "node",
+  "id": 1801417608,
+  "lat": 48.7625491,
+  "lon": 11.4194251
+},
+{
+  "type": "node",
+  "id": 1801417610,
+  "lat": 48.7625828,
+  "lon": 11.4192141
+},
+{
+  "type": "node",
+  "id": 1801417611,
+  "lat": 48.7625774,
+  "lon": 11.4193816
+},
+{
+  "type": "node",
+  "id": 1801417612,
+  "lat": 48.7625846,
+  "lon": 11.4193506
+},
+{
+  "type": "node",
+  "id": 1801417613,
+  "lat": 48.7625862,
+  "lon": 11.4192665
+},
+{
+  "type": "node",
+  "id": 1801417615,
+  "lat": 48.7626606,
+  "lon": 11.4192863
+},
+{
+  "type": "node",
+  "id": 1801417616,
+  "lat": 48.7626808,
+  "lon": 11.4192363
+},
+{
+  "type": "node",
+  "id": 1801423870,
+  "lat": 48.7623869,
+  "lon": 11.4197701
+},
+{
+  "type": "node",
+  "id": 1801423889,
+  "lat": 48.7625140,
+  "lon": 11.4195485
+},
+{
+  "type": "node",
+  "id": 1801423942,
+  "lat": 48.7629161,
+  "lon": 11.4198244
+},
+{
+  "type": "node",
+  "id": 1801423947,
+  "lat": 48.7629787,
+  "lon": 11.4198993
+},
+{
+  "type": "node",
+  "id": 1839752453,
+  "lat": 48.7624270,
+  "lon": 11.4196840
+},
+{
+  "type": "node",
+  "id": 1839752455,
+  "lat": 48.7625751,
+  "lon": 11.4199964
+},
+{
+  "type": "node",
+  "id": 1839752456,
+  "lat": 48.7626075,
+  "lon": 11.4199278
+},
+{
+  "type": "node",
+  "id": 1839752457,
+  "lat": 48.7625320,
+  "lon": 11.4195652
+},
+{
+  "type": "node",
+  "id": 1839752458,
+  "lat": 48.7624984,
+  "lon": 11.4197349
+},
+{
+  "type": "node",
+  "id": 1927730605,
+  "lat": 48.7623498,
+  "lon": 11.4196022
+},
+{
+  "type": "node",
+  "id": 1927730619,
+  "lat": 48.7624767,
+  "lon": 11.4194370
+},
+{
+  "type": "node",
+  "id": 1927730644,
+  "lat": 48.7625012,
+  "lon": 11.4194432
+},
+{
+  "type": "node",
+  "id": 1927730651,
+  "lat": 48.7625631,
+  "lon": 11.4194082
+},
+{
+  "type": "node",
+  "id": 1927730653,
+  "lat": 48.7625763,
+  "lon": 11.4192303
+},
+{
+  "type": "node",
+  "id": 1927730654,
+  "lat": 48.7625885,
+  "lon": 11.4193056
+},
+{
+  "type": "node",
+  "id": 1927730764,
+  "lat": 48.7629854,
+  "lon": 11.4196714
+},
+{
+  "type": "node",
+  "id": 1927730773,
+  "lat": 48.7630130,
+  "lon": 11.4198269
+},
+{
+  "type": "node",
+  "id": 1927730776,
+  "lat": 48.7630280,
+  "lon": 11.4199883
+},
+{
+  "type": "node",
+  "id": 1927730780,
+  "lat": 48.7630345,
+  "lon": 11.4197031
+},
+{
+  "type": "node",
+  "id": 1927730785,
+  "lat": 48.7630641,
+  "lon": 11.4197211
+},
+{
+  "type": "node",
+  "id": 2288274042,
+  "lat": 48.7628146,
+  "lon": 11.4198903
+},
+{
+  "type": "node",
+  "id": 2288274043,
+  "lat": 48.7629832,
+  "lon": 11.4195134
+},
+{
+  "type": "node",
+  "id": 4400518772,
+  "lat": 48.7628411,
+  "lon": 11.4199162
+},
+{
+  "type": "node",
+  "id": 4400518773,
+  "lat": 48.7628853,
+  "lon": 11.4198305
+},
+{
+  "type": "node",
+  "id": 4400518774,
+  "lat": 48.7629899,
+  "lon": 11.4200868
+},
+{
+  "type": "node",
+  "id": 4400539734,
+  "lat": 48.7624076,
+  "lon": 11.4194768
+},
+{
+  "type": "node",
+  "id": 4400539736,
+  "lat": 48.7624840,
+  "lon": 11.4192977
+},
+{
+  "type": "node",
+  "id": 6339314971,
+  "lat": 48.7625051,
+  "lon": 11.4197009
+},
+{
+  "type": "node",
+  "id": 6339314972,
+  "lat": 48.7623668,
+  "lon": 11.4195654
+},
+{
+  "type": "node",
+  "id": 6339314974,
+  "lat": 48.7626133,
+  "lon": 11.4199017
+},
+{
+  "type": "node",
+  "id": 662429546,
+  "lat": 48.7129598,
+  "lon": 11.4916924
+},
+{
+  "type": "node",
+  "id": 662429595,
+  "lat": 48.7128692,
+  "lon": 11.4930485
+},
+{
+  "type": "node",
+  "id": 662429597,
+  "lat": 48.7127049,
+  "lon": 11.4930231
+},
+{
+  "type": "node",
+  "id": 662429600,
+  "lat": 48.7127945,
+  "lon": 11.4916673
+},
+{
+  "type": "node",
+  "id": 6120823953,
+  "lat": 48.7128904,
+  "lon": 11.4927408
+},
+{
+  "type": "node",
+  "id": 6120845071,
+  "lat": 48.7127902,
+  "lon": 11.4930360
+},
+{
+  "type": "node",
+  "id": 6120859410,
+  "lat": 48.7128952,
+  "lon": 11.4926718
+},
+{
+  "type": "node",
+  "id": 6120859413,
+  "lat": 48.7128855,
+  "lon": 11.4928126
+},
+{
+  "type": "node",
+  "id": 307612947,
+  "lat": 48.7665956,
+  "lon": 11.4304914
+},
+{
+  "type": "node",
+  "id": 307612948,
+  "lat": 48.7667458,
+  "lon": 11.4307534
+},
+{
+  "type": "node",
+  "id": 307612949,
+  "lat": 48.7670439,
+  "lon": 11.4303601
+},
+{
+  "type": "node",
+  "id": 307612950,
+  "lat": 48.7668937,
+  "lon": 11.4300980
+},
+{
+  "type": "node",
+  "id": 1741697933,
+  "lat": 48.8071275,
+  "lon": 11.3698609
+},
+{
+  "type": "node",
+  "id": 1741697936,
+  "lat": 48.8071572,
+  "lon": 11.3696004
+},
+{
+  "type": "node",
+  "id": 1741697939,
+  "lat": 48.8072181,
+  "lon": 11.3698847
+},
+{
+  "type": "node",
+  "id": 1741697941,
+  "lat": 48.8072478,
+  "lon": 11.3696242
+},
+{
+  "type": "node",
+  "id": 321243597,
+  "lat": 48.7829457,
+  "lon": 11.4142276
+},
+{
+  "type": "node",
+  "id": 321243599,
+  "lat": 48.7830097,
+  "lon": 11.4140813
+},
+{
+  "type": "node",
+  "id": 321243600,
+  "lat": 48.7830129,
+  "lon": 11.4138619
+},
+{
+  "type": "node",
+  "id": 321243601,
+  "lat": 48.7829257,
+  "lon": 11.4136763
+},
+{
+  "type": "node",
+  "id": 321243603,
+  "lat": 48.7827686,
+  "lon": 11.4136108
+},
+{
+  "type": "node",
+  "id": 321243604,
+  "lat": 48.7826405,
+  "lon": 11.4136903
+},
+{
+  "type": "node",
+  "id": 321243606,
+  "lat": 48.7825624,
+  "lon": 11.4138774
+},
+{
+  "type": "node",
+  "id": 321243607,
+  "lat": 48.7826080,
+  "lon": 11.4141885
+},
+{
+  "type": "node",
+  "id": 321243609,
+  "lat": 48.7827508,
+  "lon": 11.4143142
+},
+{
+  "type": "node",
+  "id": 321243659,
+  "lat": 48.7827005,
+  "lon": 11.4142925
+},
+{
+  "type": "node",
+  "id": 321243660,
+  "lat": 48.7825558,
+  "lon": 11.4139869
+},
+{
+  "type": "node",
+  "id": 417298754,
+  "lat": 48.7828924,
+  "lon": 11.4142824
+},
+{
+  "type": "node",
+  "id": 417298755,
+  "lat": 48.7828144,
+  "lon": 11.4143169
+},
+{
+  "type": "node",
+  "id": 417298758,
+  "lat": 48.7828492,
+  "lon": 11.4136214
+},
+{
+  "type": "node",
+  "id": 417298759,
+  "lat": 48.7829777,
+  "lon": 11.4137547
+},
+{
+  "type": "node",
+  "id": 417298760,
+  "lat": 48.7830226,
+  "lon": 11.4139797
+},
+{
+  "type": "node",
+  "id": 417298761,
+  "lat": 48.7826973,
+  "lon": 11.4136380
+},
+{
+  "type": "node",
+  "id": 417298762,
+  "lat": 48.7825929,
+  "lon": 11.4137714
+},
+{
+  "type": "node",
+  "id": 417298763,
+  "lat": 48.7829863,
+  "lon": 11.4141547
+},
+{
+  "type": "node",
+  "id": 1840464505,
+  "lat": 48.7825720,
+  "lon": 11.4140958
+},
+{
+  "type": "node",
+  "id": 1840464510,
+  "lat": 48.7826261,
+  "lon": 11.4142184
+},
+{
+  "type": "node",
+  "id": 1840464512,
+  "lat": 48.7826639,
+  "lon": 11.4142638
+},
+{
+  "type": "node",
+  "id": 1840464513,
+  "lat": 48.7828535,
+  "lon": 11.4143052
+},
+{
+  "type": "node",
+  "id": 2153790971,
+  "lat": 48.8098270,
+  "lon": 11.6859762
+},
+{
+  "type": "node",
+  "id": 2153790972,
+  "lat": 48.8098518,
+  "lon": 11.6858957
+},
+{
+  "type": "node",
+  "id": 2153790973,
+  "lat": 48.8098889,
+  "lon": 11.6859199
+},
+{
+  "type": "node",
+  "id": 2153790974,
+  "lat": 48.8098638,
+  "lon": 11.6860069
+},
+{
+  "type": "node",
+  "id": 2153790975,
+  "lat": 48.8098429,
+  "lon": 11.6860003
+},
+{
+  "type": "node",
+  "id": 2153790976,
+  "lat": 48.8098747,
+  "lon": 11.6858877
+},
+{
+  "type": "node",
+  "id": 251699945,
+  "lat": 48.9488449,
+  "lon": 11.3978044
+},
+{
+  "type": "node",
+  "id": 251699947,
+  "lat": 48.9487181,
+  "lon": 11.3973880
+},
+{
+  "type": "node",
+  "id": 973899711,
+  "lat": 48.9486118,
+  "lon": 11.3979081
+},
+{
+  "type": "node",
+  "id": 973899809,
+  "lat": 48.9486996,
+  "lon": 11.3974024
+},
+{
+  "type": "node",
+  "id": 973899814,
+  "lat": 48.9485452,
+  "lon": 11.3977049
+},
+{
+  "type": "node",
+  "id": 973899844,
+  "lat": 48.9486645,
+  "lon": 11.3977378
+},
+{
+  "type": "node",
+  "id": 973899950,
+  "lat": 48.9486305,
+  "lon": 11.3976322
+},
+{
+  "type": "node",
+  "id": 973899978,
+  "lat": 48.9487139,
+  "lon": 11.3976956
+},
+{
+  "type": "node",
+  "id": 973900001,
+  "lat": 48.9484961,
+  "lon": 11.3980356
+},
+{
+  "type": "node",
+  "id": 973900147,
+  "lat": 48.9486363,
+  "lon": 11.3974490
+},
+{
+  "type": "node",
+  "id": 3588428939,
+  "lat": 48.9485183,
+  "lon": 11.3980775
+},
+{
+  "type": "node",
+  "id": 3588428940,
+  "lat": 48.9485264,
+  "lon": 11.3980974
+},
+{
+  "type": "node",
+  "id": 3588428942,
+  "lat": 48.9486644,
+  "lon": 11.3979508
+},
+{
+  "type": "node",
+  "id": 7114627442,
+  "lat": 48.9487470,
+  "lon": 11.3978838
+},
+{
+  "type": "node",
+  "id": 97108148,
+  "lat": 48.9525328,
+  "lon": 11.4679764
+},
+{
+  "type": "node",
+  "id": 360718346,
+  "lat": 48.9522895,
+  "lon": 11.4676525
+},
+{
+  "type": "node",
+  "id": 360718351,
+  "lat": 48.9525468,
+  "lon": 11.4677780
+},
+{
+  "type": "node",
+  "id": 2057928589,
+  "lat": 48.9564353,
+  "lon": 11.4670004
+},
+{
+  "type": "node",
+  "id": 2057928608,
+  "lat": 48.9565848,
+  "lon": 11.4664881
+},
+{
+  "type": "node",
+  "id": 2057928630,
+  "lat": 48.9567499,
+  "lon": 11.4654317
+},
+{
+  "type": "node",
+  "id": 4366830902,
+  "lat": 48.9556396,
+  "lon": 11.4687146
+},
+{
+  "type": "node",
+  "id": 4366830903,
+  "lat": 48.9557633,
+  "lon": 11.4644254
+},
+{
+  "type": "node",
+  "id": 4366830904,
+  "lat": 48.9552344,
+  "lon": 11.4644197
+},
+{
+  "type": "node",
+  "id": 4366830906,
+  "lat": 48.9540952,
+  "lon": 11.4671443
+},
+{
+  "type": "node",
+  "id": 4366830907,
+  "lat": 48.9530384,
+  "lon": 11.4673589
+},
+{
+  "type": "node",
+  "id": 4366830908,
+  "lat": 48.9524591,
+  "lon": 11.4667086
+},
+{
+  "type": "node",
+  "id": 4392182861,
+  "lat": 48.9525804,
+  "lon": 11.4679848
+},
+{
+  "type": "node",
+  "id": 4965475597,
+  "lat": 48.9550196,
+  "lon": 11.4648983
+},
+{
+  "type": "node",
+  "id": 4965475598,
+  "lat": 48.9548428,
+  "lon": 11.4656976
+},
+{
+  "type": "node",
+  "id": 4965475599,
+  "lat": 48.9548023,
+  "lon": 11.4660174
+},
+{
+  "type": "node",
+  "id": 4965475600,
+  "lat": 48.9537321,
+  "lon": 11.4675919
+},
+{
+  "type": "node",
+  "id": 5620715919,
+  "lat": 48.9567543,
+  "lon": 11.4651185
+},
+{
+  "type": "node",
+  "id": 6400139318,
+  "lat": 48.9525708,
+  "lon": 11.4685052
+},
+{
+  "type": "node",
+  "id": 6400139319,
+  "lat": 48.9526905,
+  "lon": 11.4685110
+},
+{
+  "type": "node",
+  "id": 3378504160,
+  "lat": 48.9524675,
+  "lon": 11.4696113
+},
+{
+  "type": "node",
+  "id": 4364575997,
+  "lat": 48.9526481,
+  "lon": 11.4695470
+},
+{
+  "type": "node",
+  "id": 4392182860,
+  "lat": 48.9524802,
+  "lon": 11.4695483
+},
+{
+  "type": "node",
+  "id": 4395630165,
+  "lat": 48.9555288,
+  "lon": 11.4699596
+},
+{
+  "type": "node",
+  "id": 6400139320,
+  "lat": 48.9539795,
+  "lon": 11.4697585
+},
+{
+  "type": "node",
+  "id": 2066098729,
+  "lat": 49.0455472,
+  "lon": 11.3528030
+},
+{
+  "type": "node",
+  "id": 2066098732,
+  "lat": 49.0454839,
+  "lon": 11.3527842
+},
+{
+  "type": "node",
+  "id": 2066098737,
+  "lat": 49.0457285,
+  "lon": 11.3526384
+},
+{
+  "type": "node",
+  "id": 2066098739,
+  "lat": 49.0454962,
+  "lon": 11.3529988
+},
+{
+  "type": "node",
+  "id": 2066098747,
+  "lat": 49.0454188,
+  "lon": 11.3528941
+},
+{
+  "type": "node",
+  "id": 2066098749,
+  "lat": 49.0456492,
+  "lon": 11.3524838
+},
+{
+  "type": "node",
+  "id": 2066098751,
+  "lat": 49.0455138,
+  "lon": 11.3527466
+},
+{
+  "type": "node",
+  "id": 2066098755,
+  "lat": 49.0455120,
+  "lon": 11.3528378
+},
+{
+  "type": "node",
+  "id": 1555233341,
+  "lat": 48.8969348,
+  "lon": 11.6506717
+},
+{
+  "type": "node",
+  "id": 1555578030,
+  "lat": 48.8970594,
+  "lon": 11.6506741
+},
+{
+  "type": "node",
+  "id": 1555667887,
+  "lat": 48.8969326,
+  "lon": 11.6509422
+},
+{
+  "type": "node",
+  "id": 1555668071,
+  "lat": 48.8970572,
+  "lon": 11.6509445
+},
+{
+  "type": "node",
+  "id": 3460128865,
+  "lat": 49.0310146,
+  "lon": 11.5626099
+},
+{
+  "type": "node",
+  "id": 3987083814,
+  "lat": 49.0311507,
+  "lon": 11.5625727
+},
+{
+  "type": "node",
+  "id": 3987083816,
+  "lat": 49.0311540,
+  "lon": 11.5628773
+},
+{
+  "type": "node",
+  "id": 3987083818,
+  "lat": 49.0313327,
+  "lon": 11.5621261
+},
+{
+  "type": "node",
+  "id": 3987083819,
+  "lat": 49.0313621,
+  "lon": 11.5621955
+},
+{
+  "type": "node",
+  "id": 3987083820,
+  "lat": 49.0313971,
+  "lon": 11.5620188
+},
+{
+  "type": "node",
+  "id": 3987083822,
+  "lat": 49.0314145,
+  "lon": 11.5624797
+},
+{
+  "type": "node",
+  "id": 3987083827,
+  "lat": 49.0315676,
+  "lon": 11.5622140
+},
+{
+  "type": "node",
+  "id": 3987083830,
+  "lat": 49.0317263,
+  "lon": 11.5617472
+},
+{
+  "type": "node",
+  "id": 4271489524,
+  "lat": 49.0310313,
+  "lon": 11.5627276
+},
+{
+  "type": "node",
+  "id": 4271489526,
+  "lat": 49.0311095,
+  "lon": 11.5628419
+},
+{
+  "type": "node",
+  "id": 4271489539,
+  "lat": 49.0314677,
+  "lon": 11.5623907
+},
+{
+  "type": "node",
+  "id": 4271489543,
+  "lat": 49.0316066,
+  "lon": 11.5616986
+},
+{
+  "type": "node",
+  "id": 2372926251,
+  "lat": 48.6430181,
+  "lon": 11.7865030
+},
+{
+  "type": "node",
+  "id": 2372926262,
+  "lat": 48.6429440,
+  "lon": 11.7867864
+},
+{
+  "type": "node",
+  "id": 2372926263,
+  "lat": 48.6428330,
+  "lon": 11.7863922
+},
+{
+  "type": "node",
+  "id": 2372926271,
+  "lat": 48.6427589,
+  "lon": 11.7866756
+},
+{
+  "type": "node",
+  "id": 2255746769,
+  "lat": 48.8259513,
+  "lon": 11.7812898
+},
+{
+  "type": "node",
+  "id": 2255746775,
+  "lat": 48.8259828,
+  "lon": 11.7815053
+},
+{
+  "type": "node",
+  "id": 2255746777,
+  "lat": 48.8259908,
+  "lon": 11.7811992
+},
+{
+  "type": "node",
+  "id": 2255746781,
+  "lat": 48.8260006,
+  "lon": 11.7812630
+},
+{
+  "type": "node",
+  "id": 2255746791,
+  "lat": 48.8260403,
+  "lon": 11.7815229
+},
+{
+  "type": "node",
+  "id": 2255746802,
+  "lat": 48.8260558,
+  "lon": 11.7816239
+},
+{
+  "type": "node",
+  "id": 2255746815,
+  "lat": 48.8261068,
+  "lon": 11.7811582
+},
+{
+  "type": "node",
+  "id": 2255746818,
+  "lat": 48.8261135,
+  "lon": 11.7812015
+},
+{
+  "type": "node",
+  "id": 2255746836,
+  "lat": 48.8261600,
+  "lon": 11.7811762
+},
+{
+  "type": "node",
+  "id": 2255746841,
+  "lat": 48.8261677,
+  "lon": 11.7815557
+},
+{
+  "type": "node",
+  "id": 2255746845,
+  "lat": 48.8261718,
+  "lon": 11.7815829
+},
+{
+  "type": "node",
+  "id": 2255746857,
+  "lat": 48.8262069,
+  "lon": 11.7815079
+},
+{
+  "type": "node",
+  "id": 2285558833,
+  "lat": 48.8985441,
+  "lon": 11.8198943
+},
+{
+  "type": "node",
+  "id": 2285558836,
+  "lat": 48.8986021,
+  "lon": 11.8200144
+},
+{
+  "type": "node",
+  "id": 2285558840,
+  "lat": 48.8986732,
+  "lon": 11.8197499
+},
+{
+  "type": "node",
+  "id": 2285558850,
+  "lat": 48.8987312,
+  "lon": 11.8198700
+},
+{
+  "type": "node",
+  "id": 1764266800,
+  "lat": 48.9277974,
+  "lon": 11.8209605
+},
+{
+  "type": "node",
+  "id": 1764266801,
+  "lat": 48.9277991,
+  "lon": 11.8209212
+},
+{
+  "type": "node",
+  "id": 1764266802,
+  "lat": 48.9278099,
+  "lon": 11.8209950
+},
+{
+  "type": "node",
+  "id": 1764266803,
+  "lat": 48.9278327,
+  "lon": 11.8210138
+},
+{
+  "type": "node",
+  "id": 1764266804,
+  "lat": 48.9278146,
+  "lon": 11.8208895
+},
+{
+  "type": "node",
+  "id": 1764266805,
+  "lat": 48.9278585,
+  "lon": 11.8210108
+},
+{
+  "type": "node",
+  "id": 1764266806,
+  "lat": 48.9278388,
+  "lon": 11.8208756
+},
+{
+  "type": "node",
+  "id": 1764266807,
+  "lat": 48.9278792,
+  "lon": 11.8209871
+},
+{
+  "type": "node",
+  "id": 1764266808,
+  "lat": 48.9278641,
+  "lon": 11.8208839
+},
+{
+  "type": "node",
+  "id": 1764266809,
+  "lat": 48.9278881,
+  "lon": 11.8209501
+},
+{
+  "type": "node",
+  "id": 1764266810,
+  "lat": 48.9278825,
+  "lon": 11.8209116
+},
+{
+  "type": "node",
+  "id": 345571298,
+  "lat": 48.9416604,
+  "lon": 11.7690255
+},
+{
+  "type": "node",
+  "id": 345571302,
+  "lat": 48.9418025,
+  "lon": 11.7694253
+},
+{
+  "type": "node",
+  "id": 345571305,
+  "lat": 48.9416660,
+  "lon": 11.7695544
+},
+{
+  "type": "node",
+  "id": 345571309,
+  "lat": 48.9416265,
+  "lon": 11.7694418
+},
+{
+  "type": "node",
+  "id": 345571315,
+  "lat": 48.9417237,
+  "lon": 11.7693586
+},
+{
+  "type": "node",
+  "id": 345571320,
+  "lat": 48.9416786,
+  "lon": 11.7692320
+},
+{
+  "type": "node",
+  "id": 345571325,
+  "lat": 48.9416054,
+  "lon": 11.7692955
+},
+{
+  "type": "node",
+  "id": 345571331,
+  "lat": 48.9415466,
+  "lon": 11.7691283
+},
+{
+  "type": "node",
+  "id": 2320712832,
+  "lat": 48.9382719,
+  "lon": 11.7910254
+},
+{
+  "type": "node",
+  "id": 2320712833,
+  "lat": 48.9382743,
+  "lon": 11.7911098
+},
+{
+  "type": "node",
+  "id": 2320712838,
+  "lat": 48.9383142,
+  "lon": 11.7910225
+},
+{
+  "type": "node",
+  "id": 2320712839,
+  "lat": 48.9383166,
+  "lon": 11.7911070
+}
+
+  ]
+}

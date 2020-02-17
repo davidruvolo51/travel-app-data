@@ -1,0 +1,5683 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-14T18:52:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 256556276,
+  "lat": 56.9465410,
+  "lon": 24.1105396,
+  "tags": {
+    "name": "Latvijas Fotogrāfijas muzejs",
+    "name:be": "Музей фатаграфіі",
+    "name:en": "Photography museum",
+    "name:ru": "Музей фотографии",
+    "opening_hours": "We,Fr-Su 10:00-17:00; Th 12:00-19:00",
+    "tourism": "museum",
+    "website": "http://www.fotomuzejs.lv/",
+    "wheelchair": "no",
+    "wikidata": "Q2047244"
+  }
+},
+{
+  "type": "node",
+  "id": 382382211,
+  "lat": 56.9486082,
+  "lon": 24.1059640,
+  "tags": {
+    "name": "1991. gada barikāžu muzejs",
+    "name:be": "Музей барыкад 1991",
+    "name:en": "Museum of barricaces of 1991",
+    "name:ru": "Музей баррикад 1991 года",
+    "opening_hours": "Mo-Fr 10:00-17:00",
+    "phone": "+371 67 213525",
+    "tourism": "museum",
+    "website": "http://barikades.lv/",
+    "wikidata": "Q59504500"
+  }
+},
+{
+  "type": "node",
+  "id": 454158608,
+  "lat": 56.7903528,
+  "lon": 23.9367991,
+  "tags": {
+    "name": "Olaines Vēstures un Mākslas muzejs",
+    "name:en": "Museum of History And Art of Olaine",
+    "name:lv": "Olaines Vēstures un Mākslas muzejs",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 457061944,
+  "lat": 56.9622688,
+  "lon": 24.1121380,
+  "tags": {
+    "email": "muzejs@vugd.gov.lv",
+    "name": "Latvijas Ugunsdzēsības muzejs",
+    "name:be": "Музей пажарнай справы Латвіі",
+    "name:en": "Latvian fire fighting museum",
+    "name:et": "Läti tuletõrjemuuseum",
+    "name:lt": "Latvijos ugniagesių muziejus",
+    "name:pl": "Muzeum łotewskiej straży pożarnej",
+    "name:ru": "Музей пожарного дела Латвии",
+    "opening_hours": "Tu-Sa 10:00-17:00",
+    "phone": "+371-67331334",
+    "tourism": "museum",
+    "website": "http://muzejs.vugd.gov.lv/",
+    "wikidata": "Q4306427",
+    "wikipedia": "ru:Музей пожарного дела Латвии"
+  }
+},
+{
+  "type": "node",
+  "id": 470042272,
+  "lat": 56.9494863,
+  "lon": 24.1181106,
+  "tags": {
+    "addr:housenumber": "4",
+    "addr:street": "Krišjāņa Barona iela",
+    "name": "Latvijas Dabas muzejs",
+    "name:be": "Латвійскі музей прыроды",
+    "name:cs": "Lotyšské muzeum přírody",
+    "name:en": "Natural History Museum of Latvia",
+    "name:es": "Museo de historia natural de Letonia",
+    "name:fr": "Musée d'histoire naturelle de Lettonie",
+    "name:lt": "Latvijos gamtos muziejus",
+    "name:pl": "Łotewskie muzeum historii przyrody",
+    "name:pt": "Museu da História Natural da Letónia",
+    "name:ru": "Латвийский музей природы",
+    "opening_hours": "We,Fr 10:00-17:00; Th 10:00-19:00; Sa,Su 11:00-17:00",
+    "phone": "+371 67356023",
+    "tourism": "museum",
+    "website": "http://www.dabasmuzejs.gov.lv/",
+    "wheelchair": "no",
+    "wikidata": "Q6497382"
+  }
+},
+{
+  "type": "node",
+  "id": 519036413,
+  "lat": 56.8299299,
+  "lon": 23.7032314,
+  "tags": {
+    "name": "Ziemassvētku kauju muzejs",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 837991340,
+  "lat": 56.8487322,
+  "lon": 24.2285660,
+  "tags": {
+    "email": "daugavas.muzejs@inbox.lv",
+    "fax": "+371 67216398",
+    "image": "File:Lasu tacis.JPG",
+    "name": "Daugavas muzejs",
+    "name:de": "Museum des Flusses Düna",
+    "name:lv": "Daugavas muzejs",
+    "name:ru": "Музей Даугавы",
+    "opening_hours": "We-Mo 10:00-17:00",
+    "operator": "Nodibinājums “Doles salas atbalsta fonds”",
+    "payment:coins": "yes",
+    "phone": "+371 67216367",
+    "tourism": "museum",
+    "website": "http://www.daugavasmuzejs.lv",
+    "wikidata": "Q55286033",
+    "wikipedia": "lv:Daugavas muzejs"
+  }
+},
+{
+  "type": "node",
+  "id": 1160803214,
+  "lat": 56.9596116,
+  "lon": 24.1085923,
+  "tags": {
+    "email": "jrrbm@memorialiemuzeji.lv",
+    "name": "Jaņa Rozentāla un Rūdolfa Blaumaņa muzejs",
+    "name:be": "Музей Я.Разэнталя і Р.Блаўмана",
+    "name:en": "Riga Art Nouveau Museum",
+    "opening_hours": "We-Su 11:00-18:00",
+    "phone": "+371 67331641",
+    "tourism": "museum",
+    "website": "http://memorialiemuzeji.lv/"
+  }
+},
+{
+  "type": "node",
+  "id": 1160803251,
+  "lat": 56.9594975,
+  "lon": 24.1085091,
+  "tags": {
+    "name": "Rīgas Jūgendstila muzejs",
+    "name:en": "Art Nouveau Museum",
+    "name:ru": "Музей Югендстиля",
+    "opening_hours": "Tu-Su 10:00-18:00",
+    "phone": "67181465",
+    "tourism": "museum",
+    "website": "http://www.jugendstils.riga.lv/",
+    "wikidata": "Q51032428"
+  }
+},
+{
+  "type": "node",
+  "id": 1190742833,
+  "lat": 56.9570522,
+  "lon": 24.1080286,
+  "tags": {
+    "fax": "+371 67333478",
+    "name": "Medicīnas Vēstures Muzejs",
+    "name:be": "Музей гісторыі медыцыны",
+    "name:lt": "Medicinos istorijos muziejus",
+    "name:ru": "Музей истории медицины имени Паула Страдыня",
+    "opening_hours": "Tu-We, Fr-Sa 11:00-17:00; Th 11:00-19:00; Su 11:00-16:00",
+    "phone": "+371 67222665",
+    "tourism": "museum",
+    "website": "http://www.mvm.lv/",
+    "wikidata": "Q4306334"
+  }
+},
+{
+  "type": "node",
+  "id": 1419918947,
+  "lat": 56.8178556,
+  "lon": 24.6060083,
+  "tags": {
+    "addr:city": "Ogre",
+    "addr:housenumber": "36",
+    "addr:street": "Brīvības iela",
+    "email": "ogresmuzejs@ogresnovads.lv",
+    "name": "Ogres vēstures un mākslas muzejs",
+    "name:en": "Ogre History and Art Museum",
+    "opening_hours": "Mo-Fr 10:00-17:00; Sa-Su 12:00-16:00",
+    "operator": "Ogres Dome",
+    "phone": "+371 650 359 23",
+    "tourism": "museum",
+    "website": "http://www.ogresmuzejs.lv",
+    "wikidata": "Q59504555"
+  }
+},
+{
+  "type": "node",
+  "id": 1668588574,
+  "lat": 56.9759363,
+  "lon": 23.8080103,
+  "tags": {
+    "name": "Raiņa un Aspazijas vasarnīca",
+    "source": "http://memorialiemuzeji.lv/muzeji/raina-un-aspazijas-muzejs/raina-un-aspazijas-vasarnica/",
+    "tourism": "museum",
+    "wikidata": "Q72794392"
+  }
+},
+{
+  "type": "node",
+  "id": 1832152306,
+  "lat": 56.9797608,
+  "lon": 24.1840958,
+  "tags": {
+    "name": "Latviešu mākslas muzejs",
+    "phone": "+371-26002050",
+    "tourism": "museum",
+    "website": "http://www.plmm.lv"
+  }
+},
+{
+  "type": "node",
+  "id": 1907311602,
+  "lat": 56.9485104,
+  "lon": 24.1117375,
+  "tags": {
+    "name": "Farmācijas muzejs",
+    "name:be": "Музей аптэкі",
+    "name:en": "Pharmacy Museum",
+    "name:ru": "Музей-аптека",
+    "opening_hours": "Tu-Sa 10:00-18:00",
+    "tourism": "museum",
+    "website": "http://fm.mvm.lv/",
+    "wikidata": "Q3013764"
+  }
+},
+{
+  "type": "node",
+  "id": 2373656078,
+  "lat": 57.2419358,
+  "lon": 24.4011519,
+  "tags": {
+    "name": "Bicycle museum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 2803440764,
+  "lat": 56.9761179,
+  "lon": 24.0723384,
+  "tags": {
+    "name": "Aviācijas muzejs \"Spilve\"",
+    "name:en": "Spilve aircraft museum",
+    "name:lv": "Aviācijas muzejs \"Spilve\"",
+    "note": "Some time already museum is closed; in survey June 2016 it was still closed",
+    "opening_hours": "closed",
+    "tourism": "museum",
+    "website": "http://spilve-rix.lv"
+  }
+},
+{
+  "type": "node",
+  "id": 2934512739,
+  "lat": 56.8821108,
+  "lon": 23.7471986,
+  "tags": {
+    "name": "1. pasaules kara ierakumi",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3318331078,
+  "lat": 56.9631102,
+  "lon": 24.1317305,
+  "tags": {
+    "name": "Šokolādes muzejs",
+    "name:en": "Chocolate Museum",
+    "name:ru": "Музей шоколада",
+    "opening_hours": "Tu-Su 10:00-18:00",
+    "operator": "OOO „Orkla Confectionery & Snacks Latvija”",
+    "phone": "+371 66154777",
+    "tourism": "museum",
+    "website": "http://www.laimasokoladesmuzejs.lv/"
+  }
+},
+{
+  "type": "node",
+  "id": 3733396425,
+  "lat": 56.9581684,
+  "lon": 24.1242122,
+  "tags": {
+    "fee": "free",
+    "name": "Stūra māja",
+    "name:be": "\"Кутавы дом\" КДБ",
+    "name:en": "KGB Building \"Corner House\"",
+    "name:ru": "\"Угловой дом\" КГБ",
+    "name:sv": "KGB museum",
+    "opening_hours": "Mo-Tu, Th-Fr 10:00-17:30; We 12:00-19:00; Sa,Su 10:00-16:00",
+    "tourism": "museum",
+    "website": "http://sturamaja.lv"
+  }
+},
+{
+  "type": "node",
+  "id": 3744135928,
+  "lat": 56.9503263,
+  "lon": 24.1043074,
+  "tags": {
+    "name": "Latvijas Arhitektūras muzejs",
+    "name:be": "Латвійскі музей архітэктуры",
+    "name:en": "Latvian Museum of Architecture",
+    "name:lv": "Latvijas Arhitektūras muzejs",
+    "name:ru": "Латвийский музей архитектуры",
+    "tourism": "museum",
+    "website": "http://www.archmuseum.lv",
+    "website:en": "http://www.archmuseum.lv/en/actualities.htm",
+    "website:lv": "http://www.archmuseum.lv/lat/actualities.htm",
+    "wikidata": "Q4254893"
+  }
+},
+{
+  "type": "node",
+  "id": 3815198372,
+  "lat": 56.9663191,
+  "lon": 24.0938296,
+  "tags": {
+    "name": "Latvenergo Enerģētikas muzeja krātuves",
+    "tourism": "museum",
+    "website": "http://www.latvenergo.lv/lat/korporativa_sociala_atbildiba/energetikas_muzejs/muzeja_kratuves_riga/"
+  }
+},
+{
+  "type": "node",
+  "id": 4246679918,
+  "lat": 56.9563957,
+  "lon": 24.1166195,
+  "tags": {
+    "email": "info@jewishmuseum.lv",
+    "fee": "voluntary",
+    "name": "Jews in Latvia",
+    "name:be": "Габрэі ў Латвіі",
+    "name:ru": "Евреи в Латвии",
+    "opening_hours": "Su-Th 11:00-17:00",
+    "phone": "+37167283484",
+    "tourism": "museum",
+    "website": "http://jewishmuseum.lv",
+    "wheelchair": "no",
+    "wikidata": "Q15978608",
+    "wikipedia": "en:Jews in Latvia (museum)",
+    "wikipedia:ru": "Евреи_в_Латвии_(музей)"
+  }
+},
+{
+  "type": "node",
+  "id": 4425100786,
+  "lat": 56.9521793,
+  "lon": 24.1149689,
+  "tags": {
+    "email": "info@lnvm.lv",
+    "name": "Latvijas Nacionālais vēstures muzejs",
+    "name:be": "Латвійскі Нацыянальны музей гісторыі",
+    "name:en": "Latvian National History Museum",
+    "name:ru": "Латвийский национальный исторический музей",
+    "opening_hours": "Tu-Su 10:00-17:00",
+    "phone": "+371 67221357",
+    "tourism": "museum",
+    "website": "http://lnvm.lv",
+    "wheelchair": "yes",
+    "wikidata": "Q1781530"
+  }
+},
+{
+  "type": "node",
+  "id": 4692383589,
+  "lat": 56.9613741,
+  "lon": 24.1021747,
+  "tags": {
+    "name": "Okeānijas salu mākslas muzejs",
+    "name:en": "Museum of Pacific and Oceanic Arts",
+    "opening_hours": "We, Fr 17:00-19:00",
+    "operator": "SM D",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4728981289,
+  "lat": 56.9466833,
+  "lon": 24.1077134,
+  "tags": {
+    "name": "Modes muzejs",
+    "name:be": "Музей моды",
+    "name:en": "Fashion museum",
+    "name:lv": "Modes muzejs",
+    "name:ru": "Музей моды",
+    "opening_hours": "Mo-Su 11:00-19:00",
+    "phone": "+371 200 33 450",
+    "toilets:wheelchair": "yes",
+    "tourism": "museum",
+    "website": "https://fashionmuseumriga.lv/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4803432121,
+  "lat": 56.9488995,
+  "lon": 24.1035167,
+  "tags": {
+    "name": "Cosmos Ilūziju Muzejs",
+    "opening_hours": "Mo-Su 11:00-21:00",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4804651769,
+  "lat": 56.9616145,
+  "lon": 24.1100341,
+  "tags": {
+    "name": "RIXC",
+    "tourism": "museum",
+    "website": "http://rixc.org"
+  }
+},
+{
+  "type": "node",
+  "id": 4813948103,
+  "lat": 56.9481179,
+  "lon": 24.1092618,
+  "tags": {
+    "email": "dmdm@lnmm.lv",
+    "name": "Dekoratīvās mākslas un dizaina muzejs",
+    "name:be": "Музей дэкаратыўнага мастацтва і дызайну",
+    "name:en": "Museum of Decorative Arts and Design",
+    "old_name": "Dekoratīvi lietišķās mākslas muzejs",
+    "phone": "+371 67222235",
+    "tourism": "museum",
+    "website": "http://lnmm.lv/lv/dmdm",
+    "wikidata": "Q6497376"
+  }
+},
+{
+  "type": "node",
+  "id": 5494979145,
+  "lat": 56.8205332,
+  "lon": 24.5967347,
+  "tags": {
+    "addr:city": "Ogre",
+    "addr:housenumber": "10",
+    "addr:postcode": "LV-5001",
+    "addr:street": "Mālkalnes prospekts",
+    "email": "muzejs@skauti.lv",
+    "name": "Gaidu un Skautu Muzejs",
+    "opening_hours": "Mo-Su 08:00-22:00",
+    "tourism": "museum",
+    "website": "http://skauti.lv"
+  }
+},
+{
+  "type": "node",
+  "id": 5895773609,
+  "lat": 56.9531047,
+  "lon": 24.1115703,
+  "tags": {
+    "addr:city": "Rīga",
+    "addr:housenumber": "7",
+    "addr:postcode": "LV-1050",
+    "addr:street": "Raiņa bulvāris",
+    "description": "Temporary location with only part of exposition presented.",
+    "name": "Latvijas Okupācijas muzejs",
+    "name:en": "Occupation Museum of Latvia",
+    "opening_hours": "11:00-18:00; Jan 1, Mar 30, Apr 1, Jun 23-24, Dec 24-26, 31: off",
+    "phone": "+371 67 212 715",
+    "tourism": "museum",
+    "website": "http://okupacijasmuzejs.lv/",
+    "wikidata": "Q1586390"
+  }
+},
+{
+  "type": "node",
+  "id": 5921715413,
+  "lat": 56.9420291,
+  "lon": 24.0499225,
+  "tags": {
+    "addr:housenumber": "1",
+    "addr:street": "Fridriha Candera iela",
+    "name": "Candera muzejs",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 5954279709,
+  "lat": 56.9514133,
+  "lon": 24.1212446,
+  "tags": {
+    "addr:city": "Rīga",
+    "addr:housenumber": "3",
+    "addr:postcode": "LV-1050",
+    "addr:street": "Krišjāņa Barona iela",
+    "name": "Krišjāņa Barona muzejs",
+    "opening_hours": "We 13:00-19:00,Th-Su 11:00-18:00",
+    "tourism": "museum",
+    "website": "http://www.baronamuzejs.lv/",
+    "wheelchair": "no",
+    "wikidata": "Q6438644"
+  }
+},
+{
+  "type": "node",
+  "id": 6043727182,
+  "lat": 56.9524263,
+  "lon": 24.1287007,
+  "tags": {
+    "addr:city": "Rīga",
+    "addr:door": "8",
+    "addr:housenumber": "48",
+    "addr:postcode": "LV-1011",
+    "addr:street": "Lāčplēša iela",
+    "name": "Aleksandra Čaka memoriālais dzīvoklis - muzejs",
+    "tourism": "museum",
+    "website": "http://www.cakamuzejs.lv/",
+    "wikidata": "Q59504515"
+  }
+},
+{
+  "type": "node",
+  "id": 6116710485,
+  "lat": 56.9635839,
+  "lon": 24.1184072,
+  "tags": {
+    "name": "Kim? Laikmetīgās mākslas centrs",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6176103786,
+  "lat": 56.9480302,
+  "lon": 24.1101906,
+  "tags": {
+    "addr:housenumber": "9/11",
+    "addr:street": "Kalēju iela",
+    "name": "Porcelāna muzejs",
+    "name:en": "Porcelain museum",
+    "name:ru": "Музей фарфора",
+    "opening_hours": "Tu-Su 09:00-18:00",
+    "tourism": "museum",
+    "wikidata": "Q7333341"
+  }
+},
+{
+  "type": "node",
+  "id": 6815988866,
+  "lat": 56.9602579,
+  "lon": 24.1013204,
+  "tags": {
+    "addr:city": "Rīga",
+    "addr:door": "12",
+    "addr:housenumber": "7",
+    "addr:street": "Vīlandes iela",
+    "name": "Cepures pasaule",
+    "tourism": "museum",
+    "website": "http://worldhat.net/",
+    "wikidata": "Q72793426"
+  }
+},
+{
+  "type": "node",
+  "id": 7116332085,
+  "lat": 56.9460927,
+  "lon": 24.1112365,
+  "tags": {
+    "addr:housenumber": "9",
+    "addr:street": "Alksnāja iela",
+    "name": "Latvijas Sporta muzejs",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 7116367585,
+  "lat": 56.9593767,
+  "lon": 24.1338192,
+  "tags": {
+    "addr:housenumber": "75",
+    "addr:street": "Tērbatas iela",
+    "name": "Rakstniecības un mūzikas muzejs",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 37192262,
+  "nodes": [
+    432828977,
+    1223743926,
+    432829757,
+    432829758,
+    369046281,
+    369046269,
+    369046277,
+    1223743378,
+    369046303,
+    432828977
+  ],
+  "tags": {
+    "addr:city": "Jūrmala",
+    "addr:country": "LV",
+    "addr:housenumber": "1A",
+    "addr:postcode": "LV-2010",
+    "addr:street": "Tīklu iela",
+    "barrier": "fence",
+    "email": "daiga.sejane@inbox.lv",
+    "fax": "67754909",
+    "name": "Jūrmalas brīvdabas muzejs",
+    "opening_hours": "Tu-Su 10:00-18:00",
+    "phone": "67754909",
+    "tourism": "museum",
+    "website": "http://www.jurmalasmuzejs.lv/",
+    "wikidata": "Q59504534"
+  }
+},
+{
+  "type": "way",
+  "id": 45817525,
+  "nodes": [
+    583208377,
+    583208376,
+    1487791935,
+    1487791939,
+    1487791933,
+    1487791931,
+    583208410,
+    583208411,
+    1700719294,
+    583208406,
+    1700719279,
+    583208401,
+    1828816072,
+    583208372,
+    5942791244,
+    5942791238,
+    5942791243,
+    5942791237,
+    5942791242,
+    5942791236,
+    5942791241,
+    5942791235,
+    5942791240,
+    5942791234,
+    5942791239,
+    583208375,
+    583208380,
+    3619393405,
+    583208379,
+    3619393406,
+    583208378,
+    583208377
+  ],
+  "tags": {
+    "addr:city": "Rīga",
+    "addr:country": "LV",
+    "addr:housenumber": "1",
+    "addr:postcode": "LV-1050",
+    "addr:street": "Torņa iela",
+    "building": "yes",
+    "building:levels": "2",
+    "name": "Izstāžu zāle Arsenāls",
+    "name:be": "Выставачная зала Арсенал",
+    "name:de": "Arsenal",
+    "name:en": "Arsenāls Exhibition Hall",
+    "name:ru": "Выставочный зал Арсенал",
+    "opening_hours": "Tu-We,Fr 12:00-18:00; Th 12:00-20:00; Sa-Su 12:00-17:00",
+    "phone": "+371 67 357527",
+    "toilets:wheelchair": "yes",
+    "tourism": "museum",
+    "website": "http://www.lnmm.lv/",
+    "wheelchair": "yes",
+    "wikidata": "Q4796493"
+  }
+},
+{
+  "type": "way",
+  "id": 80443303,
+  "nodes": [
+    938647962,
+    938648044,
+    938648128,
+    1656539892,
+    1656539879,
+    1656539830,
+    1656539876,
+    938647765,
+    1656539931,
+    1656539902,
+    1656539935,
+    1656539936,
+    938647962
+  ],
+  "tags": {
+    "addr:city": "Ķekava",
+    "addr:country": "LV",
+    "addr:housenumber": "26",
+    "addr:street": "Rīgas iela",
+    "building": "yes",
+    "building:levels": "3",
+    "name": "Ķekavas novadpētniecības muzejs",
+    "tourism": "museum",
+    "wikidata": "Q59504536"
+  }
+},
+{
+  "type": "way",
+  "id": 87410111,
+  "nodes": [
+    1016398574,
+    1016398504,
+    1016398152,
+    6684370089,
+    1016397714,
+    1016398251,
+    1016397933,
+    1016398468,
+    501864797,
+    1016398206,
+    1016398574
+  ],
+  "tags": {
+    "addr:city": "Rīga",
+    "addr:country": "LV",
+    "addr:housenumber": "2A",
+    "addr:street": "Uzvaras bulvāris",
+    "building": "industrial",
+    "building:levels": "1",
+    "height": "5",
+    "name": "Latvijas dzelzceļa vēstures muzejs",
+    "name:ru": "Музей истории Латвийской железной дороги",
+    "opening_hours": "Tu-We, Fr-Sa 10:00-17:00; Th 10:00-20:00",
+    "tourism": "museum",
+    "website": "https://www.railwaymuseum.lv/",
+    "wikidata": "Q4306301",
+    "wikipedia": "lv:Latvijas dzelzceļa vēstures muzejs"
+  }
+},
+{
+  "type": "way",
+  "id": 87493995,
+  "nodes": [
+    1017744559,
+    1017744839,
+    1801385310,
+    4209046810,
+    1017744466,
+    678896394,
+    4209046809,
+    1700719273,
+    570752014,
+    4209046797,
+    1700719266,
+    4209046795,
+    1700719262,
+    4209046792,
+    570752019,
+    570752018,
+    4209042787,
+    570752015,
+    1700719243,
+    4209042785,
+    1700719240,
+    1017744559
+  ],
+  "tags": {
+    "addr:housenumber": "20",
+    "addr:postcode": "LV-1050",
+    "addr:street": "Smilšu iela",
+    "building": "yes",
+    "building:levels": "4",
+    "name": "Latvijas kara muzejs",
+    "name:be": "Латвійскі музей вайны",
+    "name:de": "Lettisches Kriegsmuseum",
+    "name:en": "Latvian War Museum",
+    "name:lv": "Latvijas kara muzejs",
+    "name:ru": "Военный музей Латвии",
+    "opening_hours": "Apr-Oct: 10:00-18:00; Nov-Mar: 10:00-17:00",
+    "phone": "+371 67 223743",
+    "source": "Rīgas ĢeoMetrs, 29.02.2012",
+    "tourism": "museum",
+    "website": "http://www.karamuzejs.lv/",
+    "wikidata": "Q1572611",
+    "wikipedia": "lv:Latvijas Kara muzejs"
+  }
+},
+{
+  "type": "way",
+  "id": 87971760,
+  "nodes": [
+    256556283,
+    1022614042,
+    1022658689,
+    1022613847,
+    1022614674,
+    5942235342,
+    1022614426,
+    5813016723,
+    1022613922,
+    5811700486,
+    1022614613,
+    1022613952,
+    1022613794,
+    1022614219,
+    1022613729,
+    1022614378,
+    256556283
+  ],
+  "tags": {
+    "addr:city": "Rīga",
+    "addr:country": "LV",
+    "addr:housenumber": "1",
+    "addr:postcode": "LV-1010",
+    "addr:street": "Jaņa Rozentāla laukums",
+    "building": "public",
+    "building:levels": "6",
+    "description": "Art-Museum-wifi : Latvianart1",
+    "name": "Latvijas Nacionālais Mākslas muzejs",
+    "name:be": "Латвійскі Нацыянальны мастацкі музей",
+    "name:da": "Letlands Nationale Kunstmuseum",
+    "name:de": "Lettisches Nationales Kunstmuseum",
+    "name:en": "The Latvian National Museum of Art",
+    "name:ru": "Латвийский Национальный художественный музей",
+    "opening_hours": "Tu-Th 10:00-18:00; Fr 10:00-20:00; Sa-Su 10:00-17:00",
+    "source": "Bing",
+    "toilets:wheelchair": "yes",
+    "tourism": "museum",
+    "website": "http://www.lnmm.lv",
+    "wheelchair": "yes",
+    "wikidata": "Q1370465",
+    "wikipedia": "lv:Latvijas Nacionālais mākslas muzejs"
+  }
+},
+{
+  "type": "way",
+  "id": 103966372,
+  "nodes": [
+    1200014182,
+    1653796635,
+    1200014013,
+    1653796639,
+    1653796687,
+    1653796715,
+    1653796820,
+    1200014016,
+    1653796850,
+    1653796868,
+    1653796887,
+    1653796891,
+    1653796899,
+    1200014116,
+    4236814659,
+    1653796924,
+    1653796922,
+    1653796921,
+    1653796903,
+    1200014118,
+    1653796890,
+    1653796888,
+    1653796894,
+    1653796897,
+    1653796893,
+    1653796885,
+    1200014105,
+    1653796636,
+    1200014112,
+    1200014103,
+    1200014143,
+    1200014040,
+    1200014035,
+    1200014038,
+    1296738116,
+    1200014182
+  ],
+  "tags": {
+    "historic": "memorial",
+    "name": "Salaspils memoriālais ansamblis",
+    "tourism": "museum",
+    "wikidata": "Q4405712"
+  }
+},
+{
+  "type": "way",
+  "id": 105114039,
+  "nodes": [
+    1211328893,
+    1211556506,
+    1211498071,
+    1237520062,
+    1211565909,
+    1211284439,
+    1211500578,
+    1211142118,
+    1237520072,
+    1237520214,
+    1237520129,
+    1211574805,
+    1237520268,
+    1237520246,
+    1237520149,
+    1237520190,
+    1237520029,
+    1237520173,
+    1211144327,
+    1211521236,
+    1211331087,
+    1211328893
+  ],
+  "tags": {
+    "addr:city": "Jūrmala",
+    "addr:country": "LV",
+    "addr:housenumber": "20",
+    "addr:postcode": "LV-2015",
+    "addr:street": "Zigfrīda Meierovica prospekts",
+    "building": "yes",
+    "name": "Aspazijas māja",
+    "opening_hours": "We-Su 10:00-17:00",
+    "source": "Jūrmalas Domes Pilsētplānošanas nodaļa",
+    "tourism": "museum",
+    "wikidata": "Q72734216"
+  }
+},
+{
+  "type": "way",
+  "id": 105122230,
+  "nodes": [
+    1211089141,
+    1211514812,
+    1211094462,
+    1211548371,
+    1211337502,
+    1211551984,
+    1211534754,
+    1211577119,
+    1211197034,
+    1211277460,
+    1211485091,
+    1211130189,
+    1211228674,
+    1211530856,
+    1211218930,
+    1211551517,
+    1211225663,
+    1211103767,
+    1211507604,
+    1211547014,
+    1211089141
+  ],
+  "tags": {
+    "addr:housenumber": "4",
+    "addr:street": "Jomas iela",
+    "building": "yes",
+    "name": "Latvenergo Energoefektivitātes centrs",
+    "source": "Jūrmalas Domes Pilsētplānošanas nodaļa",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 105132512,
+  "nodes": [
+    1211527878,
+    1211376295,
+    1211081404,
+    1211272205,
+    1211253706,
+    1211094512,
+    1211567861,
+    1211244481,
+    1211447158,
+    1213671768,
+    1211355731,
+    1211217751,
+    1211386735,
+    1211473787,
+    1211305741,
+    1211483906,
+    1211572155,
+    1211323229,
+    1211457300,
+    1211531140,
+    1211144857,
+    1211200618,
+    1211237147,
+    1211452172,
+    1211471395,
+    1211197009,
+    1211516120,
+    1211527878
+  ],
+  "tags": {
+    "addr:housenumber": "29",
+    "addr:street": "Tirgoņu iela",
+    "building": "yes",
+    "name": "Jurmala city museum",
+    "source": "Jūrmalas Domes Pilsētplānošanas nodaļa",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 114471498,
+  "nodes": [
+    1296752522,
+    6726800666,
+    1296752755,
+    1296752525,
+    1653796624,
+    1653796620,
+    1653796613,
+    1653796617,
+    1296752626,
+    1296752522
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Salaspils koncentrācijas nometnes memoriālā kompleksa galvenā ēka",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 120879122,
+  "nodes": [
+    5599143182,
+    1354289371,
+    5599143222,
+    5599143221,
+    1354289378,
+    5599143220,
+    5599143219,
+    5599143218,
+    5599143217,
+    5599143216,
+    5599143215,
+    5599143214,
+    5599143213,
+    5599143212,
+    5599143211,
+    5599143210,
+    1354289375,
+    5599143209,
+    5599143208,
+    5599143207,
+    5599143206,
+    5599143205,
+    5599143204,
+    5599143203,
+    5599143202,
+    1354289367,
+    5599143201,
+    5599143200,
+    5599143199,
+    5599143198,
+    5599143197,
+    5599143196,
+    5599143195,
+    5599143194,
+    5599143193,
+    5599143192,
+    5599143191,
+    5599143190,
+    5599143189,
+    5599143188,
+    5599143187,
+    5599143186,
+    5599143185,
+    5599143184,
+    5599143183,
+    5599143182
+  ],
+  "tags": {
+    "addr:housenumber": "7",
+    "addr:street": "Zāģeru iela",
+    "building": "manor",
+    "building:levels": "3",
+    "email": "dauderi@history-museum.lv",
+    "historic": "manor",
+    "name": "Dauderi",
+    "name:ru": "Латвийский музей культуры «Даудери»",
+    "opening_hours": "Mo-Su 11:00-17:00; Tu off",
+    "phone": "+371-67391780",
+    "tourism": "museum",
+    "website": "http://www.history-museum.lv",
+    "wikidata": "Q4254892",
+    "wikipedia": "ru:Латвийский музей культуры «Даудери»"
+  }
+},
+{
+  "type": "way",
+  "id": 132471912,
+  "nodes": [
+    6502701116,
+    6432616368,
+    1067778297,
+    2255593198,
+    1067779119,
+    1067778225,
+    1632037344,
+    1067778962,
+    1067778114,
+    985737182,
+    985286535,
+    985422124,
+    985490513,
+    985605218,
+    985764739,
+    985424236,
+    985493202,
+    985617621,
+    985312824,
+    985446110,
+    985512262,
+    985666353,
+    985712290,
+    985266169,
+    985407299,
+    985288266,
+    985760478,
+    985305056,
+    985440468,
+    985504487,
+    985457671,
+    985397616,
+    985467356,
+    985561456,
+    985732262,
+    985281980,
+    985418235,
+    985485572,
+    985596423,
+    985489114,
+    985603763,
+    985762544,
+    985442776,
+    985452704,
+    985529523,
+    985694183,
+    985262402,
+    985401674,
+    985470288,
+    985565893,
+    985736030,
+    985754040,
+    985293188,
+    985632991,
+    985774404,
+    985795528,
+    985394687,
+    985722246,
+    985271397,
+    985553172,
+    985729614,
+    985280348,
+    985755825,
+    985303075,
+    985770489,
+    985448046,
+    985520825,
+    985800204,
+    985465624,
+    985409621,
+    985475663,
+    985289853,
+    985620073,
+    985508077,
+    985649254,
+    985387081,
+    985537426,
+    985268026,
+    985720814,
+    985412631,
+    985478271,
+    985586432,
+    985752607,
+    985605983,
+    985311226,
+    985390747,
+    985404801,
+    985737800,
+    985422735,
+    985491629,
+    985635422,
+    985382526,
+    985458263,
+    985535856,
+    985712852,
+    985266783,
+    985408145,
+    985486277,
+    985597013,
+    985305888,
+    985505125,
+    985398513,
+    985468233,
+    985732958,
+    985282693,
+    985418807,
+    985291951,
+    985772825,
+    985318188,
+    985450741,
+    985524168,
+    985777508,
+    985380950,
+    985453519,
+    985529998,
+    985695527,
+    985263407,
+    1067778456,
+    985471112,
+    985593947,
+    985293740,
+    985501783,
+    985667477,
+    985464545,
+    985743202,
+    985493867,
+    985766481,
+    985313484,
+    985446693,
+    985771826,
+    985449337,
+    985688837,
+    985397105,
+    985410968,
+    985585265,
+    985430339,
+    985497140,
+    985650669,
+    985786636,
+    985389207,
+    985460816,
+    985736600,
+    985285505,
+    985489975,
+    985604548,
+    985309777,
+    985492557,
+    985445554,
+    985511660,
+    985665299,
+    985406370,
+    985473381,
+    985578331,
+    985738852,
+    985287816,
+    985304233,
+    985439629,
+    985503899,
+    985645779,
+    985780132,
+    985456879,
+    985466698,
+    985560177,
+    985731208,
+    985281376,
+    985417453,
+    985595809,
+    985760037,
+    985419710,
+    985487951,
+    985603209,
+    985761822,
+    985307389,
+    985442220,
+    985505864,
+    985529061,
+    985692891,
+    985564591,
+    985753416,
+    985292677,
+    985435552,
+    985773853,
+    985319345,
+    985451954,
+    985548682,
+    985413434,
+    985480241,
+    985272932,
+    985755580,
+    985302761,
+    985438404,
+    985447668,
+    985669946,
+    985799555,
+    985395945,
+    985552487,
+    985744519,
+    985427602,
+    985619593,
+    985314658,
+    985785118,
+    985459235,
+    985713742,
+    985475394,
+    985269653,
+    985477751,
+    985586051,
+    985752390,
+    985291746,
+    985432976,
+    985310951,
+    985663360,
+    985788142,
+    985390421,
+    985461790,
+    985540440,
+    985472005,
+    985576573,
+    985737503,
+    1224464618,
+    1224465896,
+    1224464903,
+    528976196,
+    528976195,
+    528976194,
+    1067778436,
+    528976193,
+    528976186,
+    528976183,
+    6580688265,
+    6580688264,
+    6580688263,
+    6580688257,
+    6580688256,
+    6580688255,
+    528976181,
+    6580688261,
+    6580688260,
+    6580688262,
+    6580688259,
+    6580688258,
+    528976180,
+    6580688267,
+    6580688266,
+    528976179,
+    1067778261,
+    528976178,
+    528976177,
+    528976175,
+    528976174,
+    528976173,
+    528976172,
+    528976171,
+    1226912396,
+    1067778638,
+    1067778238,
+    1067778982,
+    1067779160,
+    1067778311,
+    86658218,
+    1457241723,
+    6502701112,
+    6502701113,
+    6502701117,
+    6502701116
+  ],
+  "tags": {
+    "name": "Latvijas Etnogrāfiskais brīvdabas muzejs",
+    "name:en": "Latvian Ethnographic Open-Air Museum",
+    "name:lv": "Latvijas Etnogrāfiskais brīvdabas muzejs",
+    "name:ru": "Латвийский этнографический музей под открытым небом",
+    "opening_hours": "10:00-17:00 \"entrance, facilities, houses & toilets\"; 10:00-20:00 \"park stroll\"",
+    "phone": "+371 67994106",
+    "tourism": "museum",
+    "website": "http://brivdabasmuzejs.lv/",
+    "wikidata": "Q2622671",
+    "wikipedia": "lv:Latvijas Etnogrāfiskais brīvdabas muzejs"
+  }
+},
+{
+  "type": "way",
+  "id": 157820969,
+  "nodes": [
+    1700717450,
+    1700717364,
+    1700717321,
+    1700717310,
+    1700717434,
+    1700717450
+  ],
+  "tags": {
+    "addr:city": "Rīga",
+    "addr:country": "LV",
+    "addr:housenumber": "18",
+    "addr:postcode": "LV-1050",
+    "addr:street": "Grēcinieku iela",
+    "building": "yes",
+    "building:levels": "3",
+    "name": "Mencendorfa nams",
+    "name:be": "Музей моды",
+    "name:de": "Mentzendorffhaus",
+    "name:ru": "Дом-музей Менцендорфа",
+    "opening_hours": "We-Su 11:00-17:00",
+    "phone": "+371 67212951",
+    "source": "Rīgas ĢeoMetrs, 29.02.2012",
+    "tourism": "museum",
+    "website": "http://www.mencendorfanams.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 157821136,
+  "nodes": [
+    1700718357,
+    1700718329,
+    1700718112,
+    1700718131,
+    1808965006,
+    1700718369,
+    1700718357
+  ],
+  "tags": {
+    "addr:housenumber": "4",
+    "addr:postcode": "LV-1050",
+    "addr:street": "Palasta iela",
+    "building": "yes",
+    "building:levels": "3",
+    "name": "Rīgas vēstures un kuģniecības muzejs",
+    "name:be": "Музей Рыгі і мараходства",
+    "name:da": "Museet for Rigas Historie og Søfart",
+    "name:en": "Museum of the history of Riga and navigation",
+    "name:lt": "Rygos istorijos ir navigacijos muziejus",
+    "name:lv": "Rīgas vēstures un kuģniecības muzejs",
+    "name:no": "Riga by- og sjøfartsmuseum",
+    "name:ru": "Музей истории Риги и мореходства",
+    "name:zh": "历史和航海博物馆",
+    "opening_hours": "May-Sep: 10:00-17:00; Oct-Apr: We-Su 11:00-17:00",
+    "phone": "+ 371 67 356676",
+    "source": "Rīgas ĢeoMetrs, 29.02.2012",
+    "tourism": "museum",
+    "website": "http://www.rigamuz.lv/",
+    "wheelchair": "no",
+    "wikidata": "Q2478651",
+    "wikipedia": "lv:Rīgas vēstures un kuģniecības muzejs"
+  }
+},
+{
+  "type": "way",
+  "id": 164291461,
+  "nodes": [
+    1759417893,
+    1759417897,
+    1759417957,
+    2820185670,
+    2820185665,
+    2820185663,
+    2820185664,
+    1759417951,
+    4140590783,
+    1759417893
+  ],
+  "tags": {
+    "addr:city": "Rīga",
+    "addr:country": "LV",
+    "addr:housenumber": "30",
+    "addr:postcode": "LV-1010",
+    "addr:street": "Baznīcas iela",
+    "building": "residential",
+    "building:levels": "2",
+    "name": "Raiņa un Aspazijas muzejs",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 165792285,
+  "nodes": [
+    1773237577,
+    1773237578,
+    1773237558,
+    4680914479,
+    4680914478,
+    1773237557,
+    1773237577
+  ],
+  "tags": {
+    "addr:city": "Rīga",
+    "addr:country": "LV",
+    "addr:housenumber": "9",
+    "addr:postcode": "LV-1048",
+    "addr:street": "Mazais Balasta dambis",
+    "building": "memorial",
+    "building:levels": "2",
+    "name": "Žaņa Lipkes memoriāls",
+    "opening_hours": "Tu-We 12:00-18:00; Th 12:00-20:00; Fr-Sa 12:00-18:00",
+    "tourism": "museum",
+    "website": "http://www.lipke.lv/",
+    "wikidata": "Q565603",
+    "wikipedia": "lv:Žanis Lipke"
+  }
+},
+{
+  "type": "way",
+  "id": 197482423,
+  "nodes": [
+    2077193298,
+    2077193201,
+    2077193286,
+    3916287799,
+    3916287800,
+    3916287795,
+    3916287801,
+    3916287796,
+    3916287798,
+    3916287797,
+    3916287794,
+    3916287793,
+    2077193119,
+    2077193267,
+    2077193124,
+    2077193253,
+    2077193219,
+    2077193249,
+    2077193136,
+    2077193147,
+    2077193149,
+    2077193298
+  ],
+  "tags": {
+    "addr:housenumber": "19",
+    "addr:street": "Ojāra Vācieša iela",
+    "building": "residential",
+    "building:levels": "2",
+    "email": "vacietis@memorialiemuzeji.lv",
+    "name": "Ojāra Vācieša memoriālais muzejs",
+    "opening_hours": "Mo off; Tu-Sa 10:00-17:00; Su off",
+    "phone": "+371 67619905",
+    "tourism": "museum",
+    "website": "http://vaciesamuzejs.asp.lv"
+  }
+},
+{
+  "type": "way",
+  "id": 205121940,
+  "nodes": [
+    2150917468,
+    2150917494,
+    3234961109,
+    2145342953,
+    2150917423,
+    2150917476,
+    3234961108,
+    3234961111,
+    3234961113,
+    2150917410,
+    2150917468
+  ],
+  "tags": {
+    "addr:housenumber": "37",
+    "addr:street": "Eduarda Smiļģa iela",
+    "building": "yes",
+    "building:levels": "3",
+    "fax": "http://www.teatramuzejs.lv/",
+    "name": "Eduarda Smiļģa Teātra muzejs",
+    "opening_hours": "We-Sa 11:00-18:00",
+    "phone": "+371 67611893",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 235634247,
+  "nodes": [
+    1049528644,
+    2133752112,
+    2133752078,
+    1460657214,
+    1460657216,
+    7078405244,
+    7078405245,
+    2133752157,
+    5590253666,
+    1049528619,
+    1049528644
+  ],
+  "tags": {
+    "description": "7 EUR per person",
+    "name": "Rīgas aviācijas tehnikas muzejs",
+    "name:en": "Riga Aviation Museum",
+    "name:lv": "Rīgas aviācijas tehnikas muzejs",
+    "name:pl": "Muzeum lotnictwa w Rydze",
+    "name:ru": "Рижский музей авиации",
+    "opening_hours": "Mo-Fr 09:00-18:00",
+    "payment:cash": "yes",
+    "phone": "+371 26862707",
+    "tourism": "museum",
+    "website": "http://aviamuseum.org/",
+    "wikidata": "Q81993",
+    "wikipedia": "en:Riga Aviation Museum"
+  }
+},
+{
+  "type": "way",
+  "id": 268498858,
+  "nodes": [
+    2738299545,
+    2738299479,
+    2738299444,
+    2738299476,
+    2738299545
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Carnikavas Novadpētniecības centrs",
+    "opening_hours": "May-Sep: Tu-Fr 12:00-16:00; Sa 10:00-14:00",
+    "phone": "+371 29128086",
+    "source": "Carnikavas nov terplāns 2005-2017",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 269777881,
+  "nodes": [
+    2749127585,
+    2749127587,
+    2749127588,
+    2749127589,
+    2749127585
+  ],
+  "tags": {
+    "building": "residential",
+    "building:levels": "1",
+    "name": "Rīgas Geto un Latvijas Holokausta Muzejs",
+    "name:en": "Riga Gheto and Latvian Holocaust museum",
+    "name:ru": "Музей Рижского гетто и холокоста в Латвии",
+    "opening_hours": "Mo-Su 10:00-18:00",
+    "tourism": "museum",
+    "website": "http://www.rgm.lv/"
+  }
+},
+{
+  "type": "relation",
+  "id": 7829177,
+  "members": [
+    {
+      "type": "way",
+      "ref": 627730712,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "addr:city": "Rīga",
+    "addr:country": "LV",
+    "addr:housenumber": "8",
+    "addr:postcode": "LV-1079",
+    "addr:street": "Sergeja Eizenšteina iela",
+    "building": "yes",
+    "building:levels": "3",
+    "name": "Rīgas Motormuzejs",
+    "name:da": "Rigas Motormuseum",
+    "name:de": "Rigaer Motormuseum",
+    "name:en": "Riga Motor Museum",
+    "name:ja": "リガ自動車博物館",
+    "name:pl": "Ryskie Muzeum Motoryzacji",
+    "name:pt": "Motormuzejs",
+    "name:ru": "Рижский мотормузей",
+    "tourism": "museum",
+    "type": "multipolygon",
+    "wikidata": "Q2152796",
+    "wikipedia": "lv:Rīgas Motormuzejs"
+  }
+},
+{
+  "type": "relation",
+  "id": 9248240,
+  "members": [
+    {
+      "type": "way",
+      "ref": 87493939,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 665689327,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "addr:housenumber": "6",
+    "addr:postcode": "LV-1050",
+    "addr:street": "Doma laukums",
+    "building": "yes",
+    "name": "Mākslas muzejs \"Rīgas Birža\"",
+    "name:be": "Мастацкі музей \"Рыжская біржа\"",
+    "name:en": "Art Museum \"Riga Bourse\"",
+    "name:ru": "Художественный музей «Рижская биржа»",
+    "opening_hours": "Tu-Th,Sa-Su 10:00-18:00; Fr 10:00-20:00",
+    "phone": "+371 67 223434",
+    "source": "Rīgas ĢeoMetrs, 29.02.2012",
+    "tourism": "museum",
+    "type": "multipolygon",
+    "website": "http://rigasbirza.lv/",
+    "wikidata": "Q1954623"
+  }
+},
+{
+  "type": "node",
+  "id": 1211142118,
+  "lat": 56.9715722,
+  "lon": 23.7813466
+},
+{
+  "type": "node",
+  "id": 1211144327,
+  "lat": 56.9714353,
+  "lon": 23.7813087
+},
+{
+  "type": "node",
+  "id": 1211284439,
+  "lat": 56.9715383,
+  "lon": 23.7812703
+},
+{
+  "type": "node",
+  "id": 1211328893,
+  "lat": 56.9714490,
+  "lon": 23.7812553
+},
+{
+  "type": "node",
+  "id": 1211331087,
+  "lat": 56.9714120,
+  "lon": 23.7812875
+},
+{
+  "type": "node",
+  "id": 1211498071,
+  "lat": 56.9715152,
+  "lon": 23.7812533
+},
+{
+  "type": "node",
+  "id": 1211500578,
+  "lat": 56.9715501,
+  "lon": 23.7812606
+},
+{
+  "type": "node",
+  "id": 1211521236,
+  "lat": 56.9714216,
+  "lon": 23.7813211
+},
+{
+  "type": "node",
+  "id": 1211556506,
+  "lat": 56.9715037,
+  "lon": 23.7812076
+},
+{
+  "type": "node",
+  "id": 1211565909,
+  "lat": 56.9715340,
+  "lon": 23.7812536
+},
+{
+  "type": "node",
+  "id": 1211574805,
+  "lat": 56.9714666,
+  "lon": 23.7814284
+},
+{
+  "type": "node",
+  "id": 1237520029,
+  "lat": 56.9714337,
+  "lon": 23.7813467
+},
+{
+  "type": "node",
+  "id": 1237520062,
+  "lat": 56.9715233,
+  "lon": 23.7812469
+},
+{
+  "type": "node",
+  "id": 1237520072,
+  "lat": 56.9715442,
+  "lon": 23.7813704
+},
+{
+  "type": "node",
+  "id": 1237520129,
+  "lat": 56.9714716,
+  "lon": 23.7814489
+},
+{
+  "type": "node",
+  "id": 1237520149,
+  "lat": 56.9714333,
+  "lon": 23.7813680
+},
+{
+  "type": "node",
+  "id": 1237520173,
+  "lat": 56.9714430,
+  "lon": 23.7813389
+},
+{
+  "type": "node",
+  "id": 1237520190,
+  "lat": 56.9714310,
+  "lon": 23.7813600
+},
+{
+  "type": "node",
+  "id": 1237520214,
+  "lat": 56.9715478,
+  "lon": 23.7813818
+},
+{
+  "type": "node",
+  "id": 1237520246,
+  "lat": 56.9714194,
+  "lon": 23.7813808
+},
+{
+  "type": "node",
+  "id": 1237520268,
+  "lat": 56.9714381,
+  "lon": 23.7814531
+},
+{
+  "type": "node",
+  "id": 1211089141,
+  "lat": 56.9721255,
+  "lon": 23.7895512
+},
+{
+  "type": "node",
+  "id": 1211103767,
+  "lat": 56.9720718,
+  "lon": 23.7892989
+},
+{
+  "type": "node",
+  "id": 1211130189,
+  "lat": 56.9719772,
+  "lon": 23.7893202
+},
+{
+  "type": "node",
+  "id": 1211197034,
+  "lat": 56.9719930,
+  "lon": 23.7895440
+},
+{
+  "type": "node",
+  "id": 1211218930,
+  "lat": 56.9719956,
+  "lon": 23.7891973
+},
+{
+  "type": "node",
+  "id": 1211225663,
+  "lat": 56.9720556,
+  "lon": 23.7893025
+},
+{
+  "type": "node",
+  "id": 1211228674,
+  "lat": 56.9719703,
+  "lon": 23.7892217
+},
+{
+  "type": "node",
+  "id": 1211277460,
+  "lat": 56.9719836,
+  "lon": 23.7895462
+},
+{
+  "type": "node",
+  "id": 1211485091,
+  "lat": 56.9719680,
+  "lon": 23.7893223
+},
+{
+  "type": "node",
+  "id": 1211507604,
+  "lat": 56.9720772,
+  "lon": 23.7893774
+},
+{
+  "type": "node",
+  "id": 1211514812,
+  "lat": 56.9720901,
+  "lon": 23.7895597
+},
+{
+  "type": "node",
+  "id": 1211530856,
+  "lat": 56.9719969,
+  "lon": 23.7892156
+},
+{
+  "type": "node",
+  "id": 1211547014,
+  "lat": 56.9721129,
+  "lon": 23.7893688
+},
+{
+  "type": "node",
+  "id": 1211551517,
+  "lat": 56.9720475,
+  "lon": 23.7891851
+},
+{
+  "type": "node",
+  "id": 1211094462,
+  "lat": 56.9720984,
+  "lon": 23.7896787
+},
+{
+  "type": "node",
+  "id": 1211337502,
+  "lat": 56.9720758,
+  "lon": 23.7897436
+},
+{
+  "type": "node",
+  "id": 1211534754,
+  "lat": 56.9720606,
+  "lon": 23.7898069
+},
+{
+  "type": "node",
+  "id": 1211548371,
+  "lat": 56.9720717,
+  "lon": 23.7896851
+},
+{
+  "type": "node",
+  "id": 1211551984,
+  "lat": 56.9720565,
+  "lon": 23.7897483
+},
+{
+  "type": "node",
+  "id": 1211577119,
+  "lat": 56.9720121,
+  "lon": 23.7898186
+},
+{
+  "type": "node",
+  "id": 1211081404,
+  "lat": 56.9710786,
+  "lon": 23.8016719
+},
+{
+  "type": "node",
+  "id": 1211094512,
+  "lat": 56.9710228,
+  "lon": 23.8016679
+},
+{
+  "type": "node",
+  "id": 1211144857,
+  "lat": 56.9714133,
+  "lon": 23.8012070
+},
+{
+  "type": "node",
+  "id": 1211197009,
+  "lat": 56.9712555,
+  "lon": 23.8015577
+},
+{
+  "type": "node",
+  "id": 1211200618,
+  "lat": 56.9714486,
+  "lon": 23.8013530
+},
+{
+  "type": "node",
+  "id": 1211217751,
+  "lat": 56.9709965,
+  "lon": 23.8014528
+},
+{
+  "type": "node",
+  "id": 1211237147,
+  "lat": 56.9714310,
+  "lon": 23.8013673
+},
+{
+  "type": "node",
+  "id": 1211244481,
+  "lat": 56.9709825,
+  "lon": 23.8016331
+},
+{
+  "type": "node",
+  "id": 1211253706,
+  "lat": 56.9710489,
+  "lon": 23.8016626
+},
+{
+  "type": "node",
+  "id": 1211272205,
+  "lat": 56.9710565,
+  "lon": 23.8016941
+},
+{
+  "type": "node",
+  "id": 1211305741,
+  "lat": 56.9710262,
+  "lon": 23.8014537
+},
+{
+  "type": "node",
+  "id": 1211323229,
+  "lat": 56.9711767,
+  "lon": 23.8012959
+},
+{
+  "type": "node",
+  "id": 1211355731,
+  "lat": 56.9709696,
+  "lon": 23.8015094
+},
+{
+  "type": "node",
+  "id": 1211376295,
+  "lat": 56.9710847,
+  "lon": 23.8016972
+},
+{
+  "type": "node",
+  "id": 1211386735,
+  "lat": 56.9710072,
+  "lon": 23.8014436
+},
+{
+  "type": "node",
+  "id": 1211447158,
+  "lat": 56.9709686,
+  "lon": 23.8015911
+},
+{
+  "type": "node",
+  "id": 1211452172,
+  "lat": 56.9714412,
+  "lon": 23.8014099
+},
+{
+  "type": "node",
+  "id": 1211457300,
+  "lat": 56.9713723,
+  "lon": 23.8011248
+},
+{
+  "type": "node",
+  "id": 1211471395,
+  "lat": 56.9714293,
+  "lon": 23.8014185
+},
+{
+  "type": "node",
+  "id": 1211473787,
+  "lat": 56.9710123,
+  "lon": 23.8014648
+},
+{
+  "type": "node",
+  "id": 1211483906,
+  "lat": 56.9710160,
+  "lon": 23.8014113
+},
+{
+  "type": "node",
+  "id": 1211516120,
+  "lat": 56.9711652,
+  "lon": 23.8016323
+},
+{
+  "type": "node",
+  "id": 1211527878,
+  "lat": 56.9711443,
+  "lon": 23.8016495
+},
+{
+  "type": "node",
+  "id": 1211531140,
+  "lat": 56.9713957,
+  "lon": 23.8012212
+},
+{
+  "type": "node",
+  "id": 1211567861,
+  "lat": 56.9710004,
+  "lon": 23.8016570
+},
+{
+  "type": "node",
+  "id": 1211572155,
+  "lat": 56.9711744,
+  "lon": 23.8012864
+},
+{
+  "type": "node",
+  "id": 1213671768,
+  "lat": 56.9709646,
+  "lon": 23.8015495
+},
+{
+  "type": "node",
+  "id": 938647765,
+  "lat": 56.8287937,
+  "lon": 24.2385792
+},
+{
+  "type": "node",
+  "id": 938647962,
+  "lat": 56.8290614,
+  "lon": 24.2381907
+},
+{
+  "type": "node",
+  "id": 938648044,
+  "lat": 56.8291402,
+  "lon": 24.2383757
+},
+{
+  "type": "node",
+  "id": 938648128,
+  "lat": 56.8288651,
+  "lon": 24.2387675
+},
+{
+  "type": "node",
+  "id": 1656539830,
+  "lat": 56.8287222,
+  "lon": 24.2386574
+},
+{
+  "type": "node",
+  "id": 1656539876,
+  "lat": 56.8287874,
+  "lon": 24.2385645
+},
+{
+  "type": "node",
+  "id": 1656539879,
+  "lat": 56.8288113,
+  "lon": 24.2388662
+},
+{
+  "type": "node",
+  "id": 1656539892,
+  "lat": 56.8288709,
+  "lon": 24.2387812
+},
+{
+  "type": "node",
+  "id": 1656539902,
+  "lat": 56.8289075,
+  "lon": 24.2383124
+},
+{
+  "type": "node",
+  "id": 1656539931,
+  "lat": 56.8289353,
+  "lon": 24.2383775
+},
+{
+  "type": "node",
+  "id": 1656539935,
+  "lat": 56.8289424,
+  "lon": 24.2382627
+},
+{
+  "type": "node",
+  "id": 1656539936,
+  "lat": 56.8289682,
+  "lon": 24.2383233
+},
+{
+  "type": "node",
+  "id": 1049528619,
+  "lat": 56.9247832,
+  "lon": 23.9812250
+},
+{
+  "type": "node",
+  "id": 1049528644,
+  "lat": 56.9247733,
+  "lon": 23.9803675
+},
+{
+  "type": "node",
+  "id": 1460657214,
+  "lat": 56.9253513,
+  "lon": 23.9796945
+},
+{
+  "type": "node",
+  "id": 1460657216,
+  "lat": 56.9263497,
+  "lon": 23.9798653
+},
+{
+  "type": "node",
+  "id": 2133752078,
+  "lat": 56.9253270,
+  "lon": 23.9802282
+},
+{
+  "type": "node",
+  "id": 2133752112,
+  "lat": 56.9247736,
+  "lon": 23.9801307
+},
+{
+  "type": "node",
+  "id": 2133752157,
+  "lat": 56.9263269,
+  "lon": 23.9814444
+},
+{
+  "type": "node",
+  "id": 5590253666,
+  "lat": 56.9248688,
+  "lon": 23.9812364
+},
+{
+  "type": "node",
+  "id": 7078405244,
+  "lat": 56.9263149,
+  "lon": 23.9808637
+},
+{
+  "type": "node",
+  "id": 7078405245,
+  "lat": 56.9263471,
+  "lon": 23.9809039
+},
+{
+  "type": "node",
+  "id": 2145342953,
+  "lat": 56.9374426,
+  "lon": 24.0754751
+},
+{
+  "type": "node",
+  "id": 2150917410,
+  "lat": 56.9375420,
+  "lon": 24.0757119
+},
+{
+  "type": "node",
+  "id": 2150917423,
+  "lat": 56.9374094,
+  "lon": 24.0754500
+},
+{
+  "type": "node",
+  "id": 2150917468,
+  "lat": 56.9375878,
+  "lon": 24.0755189
+},
+{
+  "type": "node",
+  "id": 2150917476,
+  "lat": 56.9373694,
+  "lon": 24.0756192
+},
+{
+  "type": "node",
+  "id": 2150917494,
+  "lat": 56.9374644,
+  "lon": 24.0754220
+},
+{
+  "type": "node",
+  "id": 3234961108,
+  "lat": 56.9374334,
+  "lon": 24.0756702
+},
+{
+  "type": "node",
+  "id": 3234961109,
+  "lat": 56.9374564,
+  "lon": 24.0754166
+},
+{
+  "type": "node",
+  "id": 3234961111,
+  "lat": 56.9374889,
+  "lon": 24.0757145
+},
+{
+  "type": "node",
+  "id": 3234961113,
+  "lat": 56.9374974,
+  "lon": 24.0756779
+},
+{
+  "type": "node",
+  "id": 2077193119,
+  "lat": 56.9300184,
+  "lon": 24.0809608
+},
+{
+  "type": "node",
+  "id": 2077193124,
+  "lat": 56.9299091,
+  "lon": 24.0810625
+},
+{
+  "type": "node",
+  "id": 2077193136,
+  "lat": 56.9297699,
+  "lon": 24.0806820
+},
+{
+  "type": "node",
+  "id": 2077193147,
+  "lat": 56.9298832,
+  "lon": 24.0807307
+},
+{
+  "type": "node",
+  "id": 2077193149,
+  "lat": 56.9299052,
+  "lon": 24.0805641
+},
+{
+  "type": "node",
+  "id": 2077193201,
+  "lat": 56.9299522,
+  "lon": 24.0807445
+},
+{
+  "type": "node",
+  "id": 2077193219,
+  "lat": 56.9298609,
+  "lon": 24.0809105
+},
+{
+  "type": "node",
+  "id": 2077193249,
+  "lat": 56.9297480,
+  "lon": 24.0808654
+},
+{
+  "type": "node",
+  "id": 2077193253,
+  "lat": 56.9298454,
+  "lon": 24.0810316
+},
+{
+  "type": "node",
+  "id": 2077193267,
+  "lat": 56.9299297,
+  "lon": 24.0809216
+},
+{
+  "type": "node",
+  "id": 2077193286,
+  "lat": 56.9300316,
+  "lon": 24.0807759
+},
+{
+  "type": "node",
+  "id": 2077193298,
+  "lat": 56.9299696,
+  "lon": 24.0805929
+},
+{
+  "type": "node",
+  "id": 3916287793,
+  "lat": 56.9300227,
+  "lon": 24.0809301
+},
+{
+  "type": "node",
+  "id": 3916287794,
+  "lat": 56.9300273,
+  "lon": 24.0809184
+},
+{
+  "type": "node",
+  "id": 3916287795,
+  "lat": 56.9300296,
+  "lon": 24.0808268
+},
+{
+  "type": "node",
+  "id": 3916287796,
+  "lat": 56.9300314,
+  "lon": 24.0808633
+},
+{
+  "type": "node",
+  "id": 3916287797,
+  "lat": 56.9300322,
+  "lon": 24.0808992
+},
+{
+  "type": "node",
+  "id": 3916287798,
+  "lat": 56.9300329,
+  "lon": 24.0808786
+},
+{
+  "type": "node",
+  "id": 3916287799,
+  "lat": 56.9300349,
+  "lon": 24.0807819
+},
+{
+  "type": "node",
+  "id": 3916287800,
+  "lat": 56.9300356,
+  "lon": 24.0807903
+},
+{
+  "type": "node",
+  "id": 3916287801,
+  "lat": 56.9300360,
+  "lon": 24.0808295
+},
+{
+  "type": "node",
+  "id": 1773237557,
+  "lat": 56.9539301,
+  "lon": 24.0845582
+},
+{
+  "type": "node",
+  "id": 1773237558,
+  "lat": 56.9539303,
+  "lon": 24.0847119
+},
+{
+  "type": "node",
+  "id": 4680914478,
+  "lat": 56.9539301,
+  "lon": 24.0845887
+},
+{
+  "type": "node",
+  "id": 4680914479,
+  "lat": 56.9539302,
+  "lon": 24.0846444
+},
+{
+  "type": "node",
+  "id": 501864797,
+  "lat": 56.9408457,
+  "lon": 24.0947684
+},
+{
+  "type": "node",
+  "id": 1016398206,
+  "lat": 56.9408644,
+  "lon": 24.0947364
+},
+{
+  "type": "node",
+  "id": 1016398468,
+  "lat": 56.9408177,
+  "lon": 24.0948162
+},
+{
+  "type": "node",
+  "id": 1016398504,
+  "lat": 56.9407857,
+  "lon": 24.0939446
+},
+{
+  "type": "node",
+  "id": 1016398574,
+  "lat": 56.9406084,
+  "lon": 24.0942480
+},
+{
+  "type": "node",
+  "id": 1016397714,
+  "lat": 56.9410868,
+  "lon": 24.0943495
+},
+{
+  "type": "node",
+  "id": 1016397933,
+  "lat": 56.9409878,
+  "lon": 24.0951387
+},
+{
+  "type": "node",
+  "id": 1016398152,
+  "lat": 56.9410408,
+  "lon": 24.0944328
+},
+{
+  "type": "node",
+  "id": 1016398251,
+  "lat": 56.9412541,
+  "lon": 24.0946695
+},
+{
+  "type": "node",
+  "id": 6684370089,
+  "lat": 56.9410642,
+  "lon": 24.0943904
+},
+{
+  "type": "node",
+  "id": 583208372,
+  "lat": 56.9513694,
+  "lon": 24.1038641
+},
+{
+  "type": "node",
+  "id": 583208375,
+  "lat": 56.9513676,
+  "lon": 24.1037016
+},
+{
+  "type": "node",
+  "id": 583208376,
+  "lat": 56.9516784,
+  "lon": 24.1030154
+},
+{
+  "type": "node",
+  "id": 583208377,
+  "lat": 56.9514537,
+  "lon": 24.1029752
+},
+{
+  "type": "node",
+  "id": 583208378,
+  "lat": 56.9514435,
+  "lon": 24.1031074
+},
+{
+  "type": "node",
+  "id": 583208379,
+  "lat": 56.9514231,
+  "lon": 24.1036527
+},
+{
+  "type": "node",
+  "id": 583208380,
+  "lat": 56.9513671,
+  "lon": 24.1036450
+},
+{
+  "type": "node",
+  "id": 583208401,
+  "lat": 56.9513460,
+  "lon": 24.1041276
+},
+{
+  "type": "node",
+  "id": 1487791935,
+  "lat": 56.9516465,
+  "lon": 24.1036895
+},
+{
+  "type": "node",
+  "id": 1487791939,
+  "lat": 56.9516525,
+  "lon": 24.1036891
+},
+{
+  "type": "node",
+  "id": 1700718131,
+  "lat": 56.9484458,
+  "lon": 24.1040764
+},
+{
+  "type": "node",
+  "id": 1700718369,
+  "lat": 56.9485586,
+  "lon": 24.1041182
+},
+{
+  "type": "node",
+  "id": 1808965006,
+  "lat": 56.9485282,
+  "lon": 24.1041069
+},
+{
+  "type": "node",
+  "id": 1828816072,
+  "lat": 56.9513721,
+  "lon": 24.1041256
+},
+{
+  "type": "node",
+  "id": 3619393405,
+  "lat": 56.9513700,
+  "lon": 24.1036456
+},
+{
+  "type": "node",
+  "id": 3619393406,
+  "lat": 56.9514490,
+  "lon": 24.1031071
+},
+{
+  "type": "node",
+  "id": 5942791234,
+  "lat": 56.9513493,
+  "lon": 24.1037091
+},
+{
+  "type": "node",
+  "id": 5942791235,
+  "lat": 56.9513323,
+  "lon": 24.1037345
+},
+{
+  "type": "node",
+  "id": 5942791236,
+  "lat": 56.9513242,
+  "lon": 24.1037693
+},
+{
+  "type": "node",
+  "id": 5942791237,
+  "lat": 56.9513286,
+  "lon": 24.1038204
+},
+{
+  "type": "node",
+  "id": 5942791238,
+  "lat": 56.9513467,
+  "lon": 24.1038542
+},
+{
+  "type": "node",
+  "id": 5942791239,
+  "lat": 56.9513582,
+  "lon": 24.1037036
+},
+{
+  "type": "node",
+  "id": 5942791240,
+  "lat": 56.9513399,
+  "lon": 24.1037199
+},
+{
+  "type": "node",
+  "id": 5942791241,
+  "lat": 56.9513271,
+  "lon": 24.1037510
+},
+{
+  "type": "node",
+  "id": 5942791242,
+  "lat": 56.9513241,
+  "lon": 24.1037955
+},
+{
+  "type": "node",
+  "id": 5942791243,
+  "lat": 56.9513363,
+  "lon": 24.1038398
+},
+{
+  "type": "node",
+  "id": 5942791244,
+  "lat": 56.9513577,
+  "lon": 24.1038619
+},
+{
+  "type": "node",
+  "id": 1700717310,
+  "lat": 56.9466747,
+  "lon": 24.1082548
+},
+{
+  "type": "node",
+  "id": 1700717321,
+  "lat": 56.9466932,
+  "lon": 24.1083114
+},
+{
+  "type": "node",
+  "id": 1700717364,
+  "lat": 56.9467222,
+  "lon": 24.1084000
+},
+{
+  "type": "node",
+  "id": 1700717434,
+  "lat": 56.9468200,
+  "lon": 24.1081089
+},
+{
+  "type": "node",
+  "id": 1700717450,
+  "lat": 56.9468540,
+  "lon": 24.1082563
+},
+{
+  "type": "node",
+  "id": 2749127585,
+  "lat": 56.9411984,
+  "lon": 24.1167704
+},
+{
+  "type": "node",
+  "id": 2749127587,
+  "lat": 56.9411690,
+  "lon": 24.1168525
+},
+{
+  "type": "node",
+  "id": 2749127588,
+  "lat": 56.9410954,
+  "lon": 24.1167638
+},
+{
+  "type": "node",
+  "id": 2749127589,
+  "lat": 56.9411248,
+  "lon": 24.1166817
+},
+{
+  "type": "node",
+  "id": 291172821,
+  "lat": 56.9499091,
+  "lon": 24.1051861
+},
+{
+  "type": "node",
+  "id": 570752014,
+  "lat": 56.9512686,
+  "lon": 24.1085930
+},
+{
+  "type": "node",
+  "id": 570752015,
+  "lat": 56.9511533,
+  "lon": 24.1086703
+},
+{
+  "type": "node",
+  "id": 570752018,
+  "lat": 56.9511680,
+  "lon": 24.1086011
+},
+{
+  "type": "node",
+  "id": 570752019,
+  "lat": 56.9511841,
+  "lon": 24.1085745
+},
+{
+  "type": "node",
+  "id": 583208387,
+  "lat": 56.9499122,
+  "lon": 24.1046183
+},
+{
+  "type": "node",
+  "id": 583208406,
+  "lat": 56.9513852,
+  "lon": 24.1051458
+},
+{
+  "type": "node",
+  "id": 583208410,
+  "lat": 56.9515722,
+  "lon": 24.1052557
+},
+{
+  "type": "node",
+  "id": 583208411,
+  "lat": 56.9514228,
+  "lon": 24.1052656
+},
+{
+  "type": "node",
+  "id": 678896394,
+  "lat": 56.9513749,
+  "lon": 24.1085793
+},
+{
+  "type": "node",
+  "id": 1017744170,
+  "lat": 56.9502060,
+  "lon": 24.1047428
+},
+{
+  "type": "node",
+  "id": 1017744232,
+  "lat": 56.9501231,
+  "lon": 24.1046222
+},
+{
+  "type": "node",
+  "id": 1017744466,
+  "lat": 56.9514057,
+  "lon": 24.1081024
+},
+{
+  "type": "node",
+  "id": 1017744553,
+  "lat": 56.9502441,
+  "lon": 24.1052743
+},
+{
+  "type": "node",
+  "id": 1017744559,
+  "lat": 56.9509500,
+  "lon": 24.1081122
+},
+{
+  "type": "node",
+  "id": 1017744637,
+  "lat": 56.9499173,
+  "lon": 24.1045001
+},
+{
+  "type": "node",
+  "id": 1017744789,
+  "lat": 56.9502543,
+  "lon": 24.1052624
+},
+{
+  "type": "node",
+  "id": 1017744839,
+  "lat": 56.9510294,
+  "lon": 24.1080242
+},
+{
+  "type": "node",
+  "id": 1487791931,
+  "lat": 56.9516021,
+  "lon": 24.1045828
+},
+{
+  "type": "node",
+  "id": 1487791933,
+  "lat": 56.9516102,
+  "lon": 24.1045802
+},
+{
+  "type": "node",
+  "id": 1700718112,
+  "lat": 56.9483924,
+  "lon": 24.1046165
+},
+{
+  "type": "node",
+  "id": 1700718329,
+  "lat": 56.9485044,
+  "lon": 24.1046534
+},
+{
+  "type": "node",
+  "id": 1700718357,
+  "lat": 56.9485564,
+  "lon": 24.1041418
+},
+{
+  "type": "node",
+  "id": 1700719183,
+  "lat": 56.9499564,
+  "lon": 24.1052732
+},
+{
+  "type": "node",
+  "id": 1700719240,
+  "lat": 56.9511134,
+  "lon": 24.1085969
+},
+{
+  "type": "node",
+  "id": 1700719243,
+  "lat": 56.9511465,
+  "lon": 24.1086774
+},
+{
+  "type": "node",
+  "id": 1700719262,
+  "lat": 56.9512148,
+  "lon": 24.1085555
+},
+{
+  "type": "node",
+  "id": 1700719266,
+  "lat": 56.9512453,
+  "lon": 24.1085641
+},
+{
+  "type": "node",
+  "id": 1700719273,
+  "lat": 56.9512727,
+  "lon": 24.1085558
+},
+{
+  "type": "node",
+  "id": 1700719279,
+  "lat": 56.9513550,
+  "lon": 24.1045383
+},
+{
+  "type": "node",
+  "id": 1700719294,
+  "lat": 56.9514113,
+  "lon": 24.1051375
+},
+{
+  "type": "node",
+  "id": 1797267953,
+  "lat": 56.9499160,
+  "lon": 24.1051869
+},
+{
+  "type": "node",
+  "id": 1797267954,
+  "lat": 56.9499565,
+  "lon": 24.1052627
+},
+{
+  "type": "node",
+  "id": 1797268101,
+  "lat": 56.9502044,
+  "lon": 24.1045965
+},
+{
+  "type": "node",
+  "id": 1797268105,
+  "lat": 56.9502055,
+  "lon": 24.1046832
+},
+{
+  "type": "node",
+  "id": 1797268113,
+  "lat": 56.9502443,
+  "lon": 24.1052612
+},
+{
+  "type": "node",
+  "id": 1801385310,
+  "lat": 56.9513290,
+  "lon": 24.1080857
+},
+{
+  "type": "node",
+  "id": 1828821327,
+  "lat": 56.9500502,
+  "lon": 24.1047353
+},
+{
+  "type": "node",
+  "id": 1828821330,
+  "lat": 56.9501511,
+  "lon": 24.1047643
+},
+{
+  "type": "node",
+  "id": 4209042785,
+  "lat": 56.9511175,
+  "lon": 24.1085930
+},
+{
+  "type": "node",
+  "id": 4209042787,
+  "lat": 56.9511578,
+  "lon": 24.1086333
+},
+{
+  "type": "node",
+  "id": 4209046792,
+  "lat": 56.9511983,
+  "lon": 24.1085619
+},
+{
+  "type": "node",
+  "id": 4209046795,
+  "lat": 56.9512300,
+  "lon": 24.1085564
+},
+{
+  "type": "node",
+  "id": 4209046797,
+  "lat": 56.9512577,
+  "lon": 24.1085761
+},
+{
+  "type": "node",
+  "id": 4209046809,
+  "lat": 56.9513236,
+  "lon": 24.1085675
+},
+{
+  "type": "node",
+  "id": 4209046810,
+  "lat": 56.9513389,
+  "lon": 24.1080879
+},
+{
+  "type": "node",
+  "id": 6231106545,
+  "lat": 56.9501506,
+  "lon": 24.1047302
+},
+{
+  "type": "node",
+  "id": 6231106546,
+  "lat": 56.9500177,
+  "lon": 24.1047369
+},
+{
+  "type": "node",
+  "id": 6231106547,
+  "lat": 56.9500206,
+  "lon": 24.1049337
+},
+{
+  "type": "node",
+  "id": 6231106548,
+  "lat": 56.9501535,
+  "lon": 24.1049270
+},
+{
+  "type": "node",
+  "id": 369046269,
+  "lat": 56.9971322,
+  "lon": 23.9154919
+},
+{
+  "type": "node",
+  "id": 369046277,
+  "lat": 56.9967655,
+  "lon": 23.9160373
+},
+{
+  "type": "node",
+  "id": 369046281,
+  "lat": 56.9969210,
+  "lon": 23.9149020
+},
+{
+  "type": "node",
+  "id": 369046303,
+  "lat": 56.9965413,
+  "lon": 23.9166962
+},
+{
+  "type": "node",
+  "id": 432828977,
+  "lat": 56.9964283,
+  "lon": 23.9170407
+},
+{
+  "type": "node",
+  "id": 432829757,
+  "lat": 56.9959901,
+  "lon": 23.9166433
+},
+{
+  "type": "node",
+  "id": 432829758,
+  "lat": 56.9963113,
+  "lon": 23.9148633
+},
+{
+  "type": "node",
+  "id": 1223743378,
+  "lat": 56.9967532,
+  "lon": 23.9162501
+},
+{
+  "type": "node",
+  "id": 1223743926,
+  "lat": 56.9961675,
+  "lon": 23.9167856
+},
+{
+  "type": "node",
+  "id": 1773237577,
+  "lat": 56.9541207,
+  "lon": 24.0845572
+},
+{
+  "type": "node",
+  "id": 1773237578,
+  "lat": 56.9541209,
+  "lon": 24.0847109
+},
+{
+  "type": "node",
+  "id": 256556283,
+  "lat": 56.9557708,
+  "lon": 24.1128564
+},
+{
+  "type": "node",
+  "id": 1022613729,
+  "lat": 56.9554468,
+  "lon": 24.1127387
+},
+{
+  "type": "node",
+  "id": 1022613794,
+  "lat": 56.9556654,
+  "lon": 24.1132063
+},
+{
+  "type": "node",
+  "id": 1022613847,
+  "lat": 56.9559179,
+  "lon": 24.1129798
+},
+{
+  "type": "node",
+  "id": 1022613922,
+  "lat": 56.9559903,
+  "lon": 24.1136366
+},
+{
+  "type": "node",
+  "id": 1022613952,
+  "lat": 56.9557092,
+  "lon": 24.1132921
+},
+{
+  "type": "node",
+  "id": 1022614042,
+  "lat": 56.9558144,
+  "lon": 24.1128120
+},
+{
+  "type": "node",
+  "id": 1022614219,
+  "lat": 56.9556555,
+  "lon": 24.1130708
+},
+{
+  "type": "node",
+  "id": 1022614378,
+  "lat": 56.9555702,
+  "lon": 24.1124885
+},
+{
+  "type": "node",
+  "id": 1022614426,
+  "lat": 56.9561073,
+  "lon": 24.1134103
+},
+{
+  "type": "node",
+  "id": 1022614613,
+  "lat": 56.9557903,
+  "lon": 24.1132946
+},
+{
+  "type": "node",
+  "id": 1022614674,
+  "lat": 56.9559052,
+  "lon": 24.1130630
+},
+{
+  "type": "node",
+  "id": 1022658689,
+  "lat": 56.9558866,
+  "lon": 24.1128888
+},
+{
+  "type": "node",
+  "id": 5811700486,
+  "lat": 56.9559179,
+  "lon": 24.1135128
+},
+{
+  "type": "node",
+  "id": 5813016723,
+  "lat": 56.9560422,
+  "lon": 24.1135363
+},
+{
+  "type": "node",
+  "id": 5942235342,
+  "lat": 56.9559206,
+  "lon": 24.1130895
+},
+{
+  "type": "node",
+  "id": 1200014013,
+  "lat": 56.8741921,
+  "lon": 24.2979804
+},
+{
+  "type": "node",
+  "id": 1200014016,
+  "lat": 56.8750437,
+  "lon": 24.2982534
+},
+{
+  "type": "node",
+  "id": 1200014038,
+  "lat": 56.8719875,
+  "lon": 24.3004695
+},
+{
+  "type": "node",
+  "id": 1200014182,
+  "lat": 56.8728083,
+  "lon": 24.2996970
+},
+{
+  "type": "node",
+  "id": 1296738116,
+  "lat": 56.8723306,
+  "lon": 24.3001778
+},
+{
+  "type": "node",
+  "id": 1653796635,
+  "lat": 56.8733418,
+  "lon": 24.2985310
+},
+{
+  "type": "node",
+  "id": 1653796639,
+  "lat": 56.8743227,
+  "lon": 24.2988531
+},
+{
+  "type": "node",
+  "id": 1653796687,
+  "lat": 56.8748196,
+  "lon": 24.2982787
+},
+{
+  "type": "node",
+  "id": 1653796715,
+  "lat": 56.8748475,
+  "lon": 24.2980155
+},
+{
+  "type": "node",
+  "id": 1653796820,
+  "lat": 56.8750512,
+  "lon": 24.2980020
+},
+{
+  "type": "node",
+  "id": 1653796850,
+  "lat": 56.8752127,
+  "lon": 24.2987197
+},
+{
+  "type": "node",
+  "id": 1653796868,
+  "lat": 56.8753479,
+  "lon": 24.2990354
+},
+{
+  "type": "node",
+  "id": 1200014035,
+  "lat": 56.8718233,
+  "lon": 24.3016711
+},
+{
+  "type": "node",
+  "id": 1200014040,
+  "lat": 56.8723627,
+  "lon": 24.3029586
+},
+{
+  "type": "node",
+  "id": 1200014103,
+  "lat": 56.8721047,
+  "lon": 24.3043748
+},
+{
+  "type": "node",
+  "id": 1200014105,
+  "lat": 56.8745321,
+  "lon": 24.3047946
+},
+{
+  "type": "node",
+  "id": 1200014112,
+  "lat": 56.8734416,
+  "lon": 24.3046752
+},
+{
+  "type": "node",
+  "id": 1200014143,
+  "lat": 56.8712369,
+  "lon": 24.3040744
+},
+{
+  "type": "node",
+  "id": 1296752522,
+  "lat": 56.8727077,
+  "lon": 24.3018737
+},
+{
+  "type": "node",
+  "id": 1296752525,
+  "lat": 56.8731851,
+  "lon": 24.3033577
+},
+{
+  "type": "node",
+  "id": 1296752626,
+  "lat": 56.8726786,
+  "lon": 24.3019077
+},
+{
+  "type": "node",
+  "id": 1296752755,
+  "lat": 56.8732142,
+  "lon": 24.3033237
+},
+{
+  "type": "node",
+  "id": 1653796613,
+  "lat": 56.8730619,
+  "lon": 24.3034534
+},
+{
+  "type": "node",
+  "id": 1653796617,
+  "lat": 56.8730953,
+  "lon": 24.3031044
+},
+{
+  "type": "node",
+  "id": 1653796620,
+  "lat": 56.8731142,
+  "lon": 24.3034660
+},
+{
+  "type": "node",
+  "id": 1653796624,
+  "lat": 56.8731371,
+  "lon": 24.3032261
+},
+{
+  "type": "node",
+  "id": 1653796636,
+  "lat": 56.8742979,
+  "lon": 24.3049936
+},
+{
+  "type": "node",
+  "id": 1653796885,
+  "lat": 56.8753744,
+  "lon": 24.3035504
+},
+{
+  "type": "node",
+  "id": 6726800666,
+  "lat": 56.8727835,
+  "lon": 24.3020906
+},
+{
+  "type": "node",
+  "id": 1200014116,
+  "lat": 56.8765006,
+  "lon": 24.3001095
+},
+{
+  "type": "node",
+  "id": 1653796887,
+  "lat": 56.8755435,
+  "lon": 24.2990094
+},
+{
+  "type": "node",
+  "id": 1653796891,
+  "lat": 56.8756804,
+  "lon": 24.2987490
+},
+{
+  "type": "node",
+  "id": 1653796899,
+  "lat": 56.8758545,
+  "lon": 24.2990134
+},
+{
+  "type": "node",
+  "id": 1653796924,
+  "lat": 56.8763773,
+  "lon": 24.3006453
+},
+{
+  "type": "node",
+  "id": 4236814659,
+  "lat": 56.8764752,
+  "lon": 24.3004316
+},
+{
+  "type": "node",
+  "id": 1200014118,
+  "lat": 56.8758571,
+  "lon": 24.3025723
+},
+{
+  "type": "node",
+  "id": 1653796888,
+  "lat": 56.8755882,
+  "lon": 24.3032834
+},
+{
+  "type": "node",
+  "id": 1653796890,
+  "lat": 56.8756108,
+  "lon": 24.3029428
+},
+{
+  "type": "node",
+  "id": 1653796893,
+  "lat": 56.8756963,
+  "lon": 24.3038403
+},
+{
+  "type": "node",
+  "id": 1653796894,
+  "lat": 56.8757039,
+  "lon": 24.3034353
+},
+{
+  "type": "node",
+  "id": 1653796897,
+  "lat": 56.8757542,
+  "lon": 24.3036884
+},
+{
+  "type": "node",
+  "id": 1653796903,
+  "lat": 56.8761652,
+  "lon": 24.3017097
+},
+{
+  "type": "node",
+  "id": 1653796921,
+  "lat": 56.8761759,
+  "lon": 24.3014624
+},
+{
+  "type": "node",
+  "id": 1653796922,
+  "lat": 56.8761924,
+  "lon": 24.3008991
+},
+{
+  "type": "node",
+  "id": 1759417893,
+  "lat": 56.9591451,
+  "lon": 24.1238529
+},
+{
+  "type": "node",
+  "id": 1759417897,
+  "lat": 56.9592545,
+  "lon": 24.1240415
+},
+{
+  "type": "node",
+  "id": 1759417951,
+  "lat": 56.9590898,
+  "lon": 24.1239574
+},
+{
+  "type": "node",
+  "id": 1759417957,
+  "lat": 56.9592034,
+  "lon": 24.1241531
+},
+{
+  "type": "node",
+  "id": 2820185663,
+  "lat": 56.9591338,
+  "lon": 24.1241048
+},
+{
+  "type": "node",
+  "id": 2820185664,
+  "lat": 56.9591533,
+  "lon": 24.1240667
+},
+{
+  "type": "node",
+  "id": 2820185665,
+  "lat": 56.9591624,
+  "lon": 24.1241541
+},
+{
+  "type": "node",
+  "id": 2820185670,
+  "lat": 56.9591819,
+  "lon": 24.1241160
+},
+{
+  "type": "node",
+  "id": 4140590783,
+  "lat": 56.9591397,
+  "lon": 24.1238631
+},
+{
+  "type": "node",
+  "id": 1354289367,
+  "lat": 57.0038923,
+  "lon": 24.1241608
+},
+{
+  "type": "node",
+  "id": 1354289371,
+  "lat": 57.0038476,
+  "lon": 24.1238394
+},
+{
+  "type": "node",
+  "id": 1354289375,
+  "lat": 57.0040387,
+  "lon": 24.1241861
+},
+{
+  "type": "node",
+  "id": 1354289378,
+  "lat": 57.0039647,
+  "lon": 24.1238573
+},
+{
+  "type": "node",
+  "id": 5599143182,
+  "lat": 57.0038423,
+  "lon": 24.1239256
+},
+{
+  "type": "node",
+  "id": 5599143183,
+  "lat": 57.0038403,
+  "lon": 24.1239258
+},
+{
+  "type": "node",
+  "id": 5599143184,
+  "lat": 57.0038367,
+  "lon": 24.1239277
+},
+{
+  "type": "node",
+  "id": 5599143185,
+  "lat": 57.0038343,
+  "lon": 24.1239298
+},
+{
+  "type": "node",
+  "id": 5599143186,
+  "lat": 57.0038320,
+  "lon": 24.1239332
+},
+{
+  "type": "node",
+  "id": 5599143187,
+  "lat": 57.0038304,
+  "lon": 24.1239364
+},
+{
+  "type": "node",
+  "id": 5599143188,
+  "lat": 57.0038292,
+  "lon": 24.1239396
+},
+{
+  "type": "node",
+  "id": 5599143189,
+  "lat": 57.0038283,
+  "lon": 24.1239435
+},
+{
+  "type": "node",
+  "id": 5599143190,
+  "lat": 57.0038274,
+  "lon": 24.1239480
+},
+{
+  "type": "node",
+  "id": 5599143191,
+  "lat": 57.0038272,
+  "lon": 24.1239539
+},
+{
+  "type": "node",
+  "id": 5599143192,
+  "lat": 57.0038276,
+  "lon": 24.1239584
+},
+{
+  "type": "node",
+  "id": 5599143193,
+  "lat": 57.0038280,
+  "lon": 24.1239619
+},
+{
+  "type": "node",
+  "id": 5599143194,
+  "lat": 57.0038292,
+  "lon": 24.1239665
+},
+{
+  "type": "node",
+  "id": 5599143195,
+  "lat": 57.0038310,
+  "lon": 24.1239715
+},
+{
+  "type": "node",
+  "id": 5599143196,
+  "lat": 57.0038331,
+  "lon": 24.1239748
+},
+{
+  "type": "node",
+  "id": 5599143197,
+  "lat": 57.0038356,
+  "lon": 24.1239779
+},
+{
+  "type": "node",
+  "id": 5599143198,
+  "lat": 57.0038377,
+  "lon": 24.1239793
+},
+{
+  "type": "node",
+  "id": 5599143199,
+  "lat": 57.0038394,
+  "lon": 24.1239801
+},
+{
+  "type": "node",
+  "id": 5599143200,
+  "lat": 57.0038367,
+  "lon": 24.1240284
+},
+{
+  "type": "node",
+  "id": 5599143201,
+  "lat": 57.0038989,
+  "lon": 24.1240413
+},
+{
+  "type": "node",
+  "id": 5599143202,
+  "lat": 57.0039395,
+  "lon": 24.1241713
+},
+{
+  "type": "node",
+  "id": 5599143203,
+  "lat": 57.0039388,
+  "lon": 24.1241879
+},
+{
+  "type": "node",
+  "id": 5599143204,
+  "lat": 57.0039525,
+  "lon": 24.1242184
+},
+{
+  "type": "node",
+  "id": 5599143205,
+  "lat": 57.0039738,
+  "lon": 24.1242227
+},
+{
+  "type": "node",
+  "id": 5599143206,
+  "lat": 57.0039905,
+  "lon": 24.1241981
+},
+{
+  "type": "node",
+  "id": 5599143207,
+  "lat": 57.0039910,
+  "lon": 24.1241797
+},
+{
+  "type": "node",
+  "id": 5599143208,
+  "lat": 57.0039951,
+  "lon": 24.1241805
+},
+{
+  "type": "node",
+  "id": 5599143209,
+  "lat": 57.0039953,
+  "lon": 24.1241764
+},
+{
+  "type": "node",
+  "id": 5599143210,
+  "lat": 57.0040492,
+  "lon": 24.1240285
+},
+{
+  "type": "node",
+  "id": 5599143211,
+  "lat": 57.0040292,
+  "lon": 24.1240240
+},
+{
+  "type": "node",
+  "id": 5599143212,
+  "lat": 57.0040328,
+  "lon": 24.1239697
+},
+{
+  "type": "node",
+  "id": 5599143213,
+  "lat": 57.0040087,
+  "lon": 24.1239626
+},
+{
+  "type": "node",
+  "id": 5599143214,
+  "lat": 57.0040088,
+  "lon": 24.1239577
+},
+{
+  "type": "node",
+  "id": 5599143215,
+  "lat": 57.0039922,
+  "lon": 24.1239559
+},
+{
+  "type": "node",
+  "id": 5599143216,
+  "lat": 57.0039932,
+  "lon": 24.1239244
+},
+{
+  "type": "node",
+  "id": 5599143217,
+  "lat": 57.0039827,
+  "lon": 24.1238992
+},
+{
+  "type": "node",
+  "id": 5599143218,
+  "lat": 57.0039659,
+  "lon": 24.1238948
+},
+{
+  "type": "node",
+  "id": 5599143219,
+  "lat": 57.0039672,
+  "lon": 24.1238627
+},
+{
+  "type": "node",
+  "id": 5599143220,
+  "lat": 57.0039645,
+  "lon": 24.1238622
+},
+{
+  "type": "node",
+  "id": 5599143221,
+  "lat": 57.0039117,
+  "lon": 24.1238471
+},
+{
+  "type": "node",
+  "id": 5599143222,
+  "lat": 57.0039114,
+  "lon": 24.1238517
+},
+{
+  "type": "node",
+  "id": 1070466147,
+  "lat": 56.9706257,
+  "lon": 24.2282384
+},
+{
+  "type": "node",
+  "id": 1070466185,
+  "lat": 56.9707634,
+  "lon": 24.2273795
+},
+{
+  "type": "node",
+  "id": 1070466230,
+  "lat": 56.9706011,
+  "lon": 24.2281480
+},
+{
+  "type": "node",
+  "id": 1070466254,
+  "lat": 56.9702591,
+  "lon": 24.2277092
+},
+{
+  "type": "node",
+  "id": 1070466274,
+  "lat": 56.9706417,
+  "lon": 24.2281187
+},
+{
+  "type": "node",
+  "id": 1070466403,
+  "lat": 56.9707142,
+  "lon": 24.2273183
+},
+{
+  "type": "node",
+  "id": 1070466448,
+  "lat": 56.9703765,
+  "lon": 24.2281746
+},
+{
+  "type": "node",
+  "id": 1070466488,
+  "lat": 56.9706431,
+  "lon": 24.2273662
+},
+{
+  "type": "node",
+  "id": 1070466532,
+  "lat": 56.9700837,
+  "lon": 24.2278475
+},
+{
+  "type": "node",
+  "id": 1070466557,
+  "lat": 56.9706156,
+  "lon": 24.2280017
+},
+{
+  "type": "node",
+  "id": 1070466581,
+  "lat": 56.9702649,
+  "lon": 24.2279991
+},
+{
+  "type": "node",
+  "id": 1070466680,
+  "lat": 56.9704417,
+  "lon": 24.2281347
+},
+{
+  "type": "node",
+  "id": 1070466711,
+  "lat": 56.9703895,
+  "lon": 24.2271508
+},
+{
+  "type": "node",
+  "id": 1070466810,
+  "lat": 56.9702895,
+  "lon": 24.2281107
+},
+{
+  "type": "node",
+  "id": 4307479613,
+  "lat": 56.9703510,
+  "lon": 24.2281558
+},
+{
+  "type": "node",
+  "id": 5297558759,
+  "lat": 56.9707684,
+  "lon": 24.2281866
+},
+{
+  "type": "node",
+  "id": 5297558760,
+  "lat": 56.9708558,
+  "lon": 24.2281954
+},
+{
+  "type": "node",
+  "id": 5297558761,
+  "lat": 56.9709400,
+  "lon": 24.2281633
+},
+{
+  "type": "node",
+  "id": 5297558762,
+  "lat": 56.9710051,
+  "lon": 24.2280963
+},
+{
+  "type": "node",
+  "id": 5297558763,
+  "lat": 56.9710718,
+  "lon": 24.2279884
+},
+{
+  "type": "node",
+  "id": 5297558764,
+  "lat": 56.9711084,
+  "lon": 24.2278631
+},
+{
+  "type": "node",
+  "id": 5297558765,
+  "lat": 56.9711211,
+  "lon": 24.2277523
+},
+{
+  "type": "node",
+  "id": 5297558766,
+  "lat": 56.9711179,
+  "lon": 24.2276474
+},
+{
+  "type": "node",
+  "id": 5297558767,
+  "lat": 56.9709860,
+  "lon": 24.2276707
+},
+{
+  "type": "node",
+  "id": 5297558768,
+  "lat": 56.9708971,
+  "lon": 24.2276066
+},
+{
+  "type": "node",
+  "id": 5297558794,
+  "lat": 56.9708828,
+  "lon": 24.2276347
+},
+{
+  "type": "node",
+  "id": 5297558795,
+  "lat": 56.9707356,
+  "lon": 24.2275235
+},
+{
+  "type": "node",
+  "id": 5297558796,
+  "lat": 56.9707236,
+  "lon": 24.2275770
+},
+{
+  "type": "node",
+  "id": 5297558797,
+  "lat": 56.9708708,
+  "lon": 24.2276882
+},
+{
+  "type": "node",
+  "id": 5297558798,
+  "lat": 56.9707744,
+  "lon": 24.2276154
+},
+{
+  "type": "node",
+  "id": 5297558799,
+  "lat": 56.9707878,
+  "lon": 24.2275630
+},
+{
+  "type": "node",
+  "id": 5646235158,
+  "lat": 56.9702845,
+  "lon": 24.2276005
+},
+{
+  "type": "node",
+  "id": 5646235162,
+  "lat": 56.9702820,
+  "lon": 24.2280767
+},
+{
+  "type": "node",
+  "id": 5646235165,
+  "lat": 56.9702090,
+  "lon": 24.2279523
+},
+{
+  "type": "node",
+  "id": 985262402,
+  "lat": 56.9911378,
+  "lon": 24.2667829
+},
+{
+  "type": "node",
+  "id": 985266169,
+  "lat": 56.9923941,
+  "lon": 24.2661867
+},
+{
+  "type": "node",
+  "id": 985268026,
+  "lat": 56.9899576,
+  "lon": 24.2678031
+},
+{
+  "type": "node",
+  "id": 985271397,
+  "lat": 56.9902461,
+  "lon": 24.2667563
+},
+{
+  "type": "node",
+  "id": 985280348,
+  "lat": 56.9900813,
+  "lon": 24.2665736
+},
+{
+  "type": "node",
+  "id": 985281980,
+  "lat": 56.9916442,
+  "lon": 24.2667865
+},
+{
+  "type": "node",
+  "id": 985286535,
+  "lat": 56.9928576,
+  "lon": 24.2656858
+},
+{
+  "type": "node",
+  "id": 985288266,
+  "lat": 56.9921733,
+  "lon": 24.2664877
+},
+{
+  "type": "node",
+  "id": 985289853,
+  "lat": 56.9900361,
+  "lon": 24.2671179
+},
+{
+  "type": "node",
+  "id": 985293188,
+  "lat": 56.9907966,
+  "lon": 24.2667199
+},
+{
+  "type": "node",
+  "id": 985303075,
+  "lat": 56.9898834,
+  "lon": 24.2664512
+},
+{
+  "type": "node",
+  "id": 985305056,
+  "lat": 56.9920960,
+  "lon": 24.2665880
+},
+{
+  "type": "node",
+  "id": 985312824,
+  "lat": 56.9925708,
+  "lon": 24.2659661
+},
+{
+  "type": "node",
+  "id": 985387081,
+  "lat": 56.9899912,
+  "lon": 24.2675210
+},
+{
+  "type": "node",
+  "id": 985394687,
+  "lat": 56.9904332,
+  "lon": 24.2667778
+},
+{
+  "type": "node",
+  "id": 985397616,
+  "lat": 56.9917983,
+  "lon": 24.2668077
+},
+{
+  "type": "node",
+  "id": 985401674,
+  "lat": 56.9911048,
+  "lon": 24.2667423
+},
+{
+  "type": "node",
+  "id": 985407299,
+  "lat": 56.9923610,
+  "lon": 24.2662470
+},
+{
+  "type": "node",
+  "id": 985409621,
+  "lat": 56.9899373,
+  "lon": 24.2669760
+},
+{
+  "type": "node",
+  "id": 985418235,
+  "lat": 56.9915892,
+  "lon": 24.2667861
+},
+{
+  "type": "node",
+  "id": 985422124,
+  "lat": 56.9928135,
+  "lon": 24.2657056
+},
+{
+  "type": "node",
+  "id": 985424236,
+  "lat": 56.9927034,
+  "lon": 24.2657452
+},
+{
+  "type": "node",
+  "id": 985440468,
+  "lat": 56.9920519,
+  "lon": 24.2666482
+},
+{
+  "type": "node",
+  "id": 985442776,
+  "lat": 56.9913581,
+  "lon": 24.2667037
+},
+{
+  "type": "node",
+  "id": 985446110,
+  "lat": 56.9925596,
+  "lon": 24.2660265
+},
+{
+  "type": "node",
+  "id": 985448046,
+  "lat": 56.9898280,
+  "lon": 24.2666323
+},
+{
+  "type": "node",
+  "id": 985452704,
+  "lat": 56.9912589,
+  "lon": 24.2667635
+},
+{
+  "type": "node",
+  "id": 985457671,
+  "lat": 56.9918424,
+  "lon": 24.2667879
+},
+{
+  "type": "node",
+  "id": 985465624,
+  "lat": 56.9898934,
+  "lon": 24.2669353
+},
+{
+  "type": "node",
+  "id": 985467356,
+  "lat": 56.9917653,
+  "lon": 24.2667874
+},
+{
+  "type": "node",
+  "id": 985470288,
+  "lat": 56.9910498,
+  "lon": 24.2667621
+},
+{
+  "type": "node",
+  "id": 985475663,
+  "lat": 56.9899483,
+  "lon": 24.2670164
+},
+{
+  "type": "node",
+  "id": 985485572,
+  "lat": 56.9915782,
+  "lon": 24.2667658
+},
+{
+  "type": "node",
+  "id": 985489114,
+  "lat": 56.9914572,
+  "lon": 24.2667044
+},
+{
+  "type": "node",
+  "id": 985490513,
+  "lat": 56.9927914,
+  "lon": 24.2657458
+},
+{
+  "type": "node",
+  "id": 985493202,
+  "lat": 56.9927033,
+  "lon": 24.2657855
+},
+{
+  "type": "node",
+  "id": 985504487,
+  "lat": 56.9919858,
+  "lon": 24.2666679
+},
+{
+  "type": "node",
+  "id": 985508077,
+  "lat": 56.9900466,
+  "lon": 24.2673802
+},
+{
+  "type": "node",
+  "id": 985512262,
+  "lat": 56.9925376,
+  "lon": 24.2660465
+},
+{
+  "type": "node",
+  "id": 985520825,
+  "lat": 56.9898279,
+  "lon": 24.2666727
+},
+{
+  "type": "node",
+  "id": 985529523,
+  "lat": 56.9912149,
+  "lon": 24.2667632
+},
+{
+  "type": "node",
+  "id": 985537426,
+  "lat": 56.9899799,
+  "lon": 24.2676822
+},
+{
+  "type": "node",
+  "id": 985553172,
+  "lat": 56.9901582,
+  "lon": 24.2666549
+},
+{
+  "type": "node",
+  "id": 985561456,
+  "lat": 56.9917212,
+  "lon": 24.2668072
+},
+{
+  "type": "node",
+  "id": 985565893,
+  "lat": 56.9910057,
+  "lon": 24.2667617
+},
+{
+  "type": "node",
+  "id": 985596423,
+  "lat": 56.9915342,
+  "lon": 24.2667655
+},
+{
+  "type": "node",
+  "id": 985603763,
+  "lat": 56.9914352,
+  "lon": 24.2667043
+},
+{
+  "type": "node",
+  "id": 985605218,
+  "lat": 56.9927584,
+  "lon": 24.2657657
+},
+{
+  "type": "node",
+  "id": 985617621,
+  "lat": 56.9926701,
+  "lon": 24.2658458
+},
+{
+  "type": "node",
+  "id": 985620073,
+  "lat": 56.9900688,
+  "lon": 24.2672996
+},
+{
+  "type": "node",
+  "id": 985632991,
+  "lat": 56.9906316,
+  "lon": 24.2666582
+},
+{
+  "type": "node",
+  "id": 985649254,
+  "lat": 56.9900245,
+  "lon": 24.2674203
+},
+{
+  "type": "node",
+  "id": 985666353,
+  "lat": 56.9925156,
+  "lon": 24.2660464
+},
+{
+  "type": "node",
+  "id": 985694183,
+  "lat": 56.9911708,
+  "lon": 24.2667831
+},
+{
+  "type": "node",
+  "id": 985712290,
+  "lat": 56.9924383,
+  "lon": 24.2661467
+},
+{
+  "type": "node",
+  "id": 985722246,
+  "lat": 56.9902791,
+  "lon": 24.2667767
+},
+{
+  "type": "node",
+  "id": 985729614,
+  "lat": 56.9901252,
+  "lon": 24.2666345
+},
+{
+  "type": "node",
+  "id": 985732262,
+  "lat": 56.9916882,
+  "lon": 24.2668070
+},
+{
+  "type": "node",
+  "id": 985736030,
+  "lat": 56.9909837,
+  "lon": 24.2667818
+},
+{
+  "type": "node",
+  "id": 985737182,
+  "lat": 56.9928687,
+  "lon": 24.2656455
+},
+{
+  "type": "node",
+  "id": 985754040,
+  "lat": 56.9908847,
+  "lon": 24.2667206
+},
+{
+  "type": "node",
+  "id": 985755825,
+  "lat": 56.9899165,
+  "lon": 24.2664313
+},
+{
+  "type": "node",
+  "id": 985760478,
+  "lat": 56.9921402,
+  "lon": 24.2665480
+},
+{
+  "type": "node",
+  "id": 985762544,
+  "lat": 56.9914241,
+  "lon": 24.2667445
+},
+{
+  "type": "node",
+  "id": 985764739,
+  "lat": 56.9927364,
+  "lon": 24.2657454
+},
+{
+  "type": "node",
+  "id": 985770489,
+  "lat": 56.9898503,
+  "lon": 24.2664913
+},
+{
+  "type": "node",
+  "id": 985774404,
+  "lat": 56.9905765,
+  "lon": 24.2666780
+},
+{
+  "type": "node",
+  "id": 985795528,
+  "lat": 56.9904773,
+  "lon": 24.2667580
+},
+{
+  "type": "node",
+  "id": 985800204,
+  "lat": 56.9898496,
+  "lon": 24.2668342
+},
+{
+  "type": "node",
+  "id": 1067778114,
+  "lat": 56.9928919,
+  "lon": 24.2656822
+},
+{
+  "type": "node",
+  "id": 1067778962,
+  "lat": 56.9928871,
+  "lon": 24.2659199
+},
+{
+  "type": "node",
+  "id": 985263407,
+  "lat": 56.9903392,
+  "lon": 24.2742454
+},
+{
+  "type": "node",
+  "id": 985266783,
+  "lat": 56.9906669,
+  "lon": 24.2707328
+},
+{
+  "type": "node",
+  "id": 985282693,
+  "lat": 56.9907718,
+  "lon": 24.2731337
+},
+{
+  "type": "node",
+  "id": 985291951,
+  "lat": 56.9907164,
+  "lon": 24.2732947
+},
+{
+  "type": "node",
+  "id": 985305888,
+  "lat": 56.9907859,
+  "lon": 24.2717018
+},
+{
+  "type": "node",
+  "id": 985311226,
+  "lat": 56.9900664,
+  "lon": 24.2683888
+},
+{
+  "type": "node",
+  "id": 985318188,
+  "lat": 56.9906710,
+  "lon": 24.2739196
+},
+{
+  "type": "node",
+  "id": 985380950,
+  "lat": 56.9905710,
+  "lon": 24.2743223
+},
+{
+  "type": "node",
+  "id": 985382526,
+  "lat": 56.9905589,
+  "lon": 24.2697638
+},
+{
+  "type": "node",
+  "id": 985390747,
+  "lat": 56.9902420,
+  "lon": 24.2686724
+},
+{
+  "type": "node",
+  "id": 985398513,
+  "lat": 56.9907952,
+  "lon": 24.2724884
+},
+{
+  "type": "node",
+  "id": 985404801,
+  "lat": 56.9903077,
+  "lon": 24.2688141
+},
+{
+  "type": "node",
+  "id": 985408145,
+  "lat": 56.9906779,
+  "lon": 24.2707530
+},
+{
+  "type": "node",
+  "id": 985412631,
+  "lat": 56.9899238,
+  "lon": 24.2681457
+},
+{
+  "type": "node",
+  "id": 985418807,
+  "lat": 56.9907386,
+  "lon": 24.2732142
+},
+{
+  "type": "node",
+  "id": 985422735,
+  "lat": 56.9904609,
+  "lon": 24.2692387
+},
+{
+  "type": "node",
+  "id": 985450741,
+  "lat": 56.9906708,
+  "lon": 24.2740003
+},
+{
+  "type": "node",
+  "id": 985453519,
+  "lat": 56.9905489,
+  "lon": 24.2743423
+},
+{
+  "type": "node",
+  "id": 985458263,
+  "lat": 56.9906566,
+  "lon": 24.2703898
+},
+{
+  "type": "node",
+  "id": 985468233,
+  "lat": 56.9907838,
+  "lon": 24.2726699
+},
+{
+  "type": "node",
+  "id": 985471112,
+  "lat": 56.9904594,
+  "lon": 24.2745277
+},
+{
+  "type": "node",
+  "id": 985478271,
+  "lat": 56.9899457,
+  "lon": 24.2682064
+},
+{
+  "type": "node",
+  "id": 985486277,
+  "lat": 56.9907756,
+  "lon": 24.2713991
+},
+{
+  "type": "node",
+  "id": 985491629,
+  "lat": 56.9904937,
+  "lon": 24.2693600
+},
+{
+  "type": "node",
+  "id": 985505125,
+  "lat": 56.9908078,
+  "lon": 24.2717826
+},
+{
+  "type": "node",
+  "id": 985524168,
+  "lat": 56.9906485,
+  "lon": 24.2741413
+},
+{
+  "type": "node",
+  "id": 985529998,
+  "lat": 56.9904463,
+  "lon": 24.2741991
+},
+{
+  "type": "node",
+  "id": 985535856,
+  "lat": 56.9906781,
+  "lon": 24.2706320
+},
+{
+  "type": "node",
+  "id": 985586432,
+  "lat": 56.9899347,
+  "lon": 24.2682265
+},
+{
+  "type": "node",
+  "id": 985597013,
+  "lat": 56.9907971,
+  "lon": 24.2716212
+},
+{
+  "type": "node",
+  "id": 985605983,
+  "lat": 56.9900005,
+  "lon": 24.2683076
+},
+{
+  "type": "node",
+  "id": 985635422,
+  "lat": 56.9905152,
+  "lon": 24.2696224
+},
+{
+  "type": "node",
+  "id": 985695527,
+  "lat": 56.9903737,
+  "lon": 24.2741776
+},
+{
+  "type": "node",
+  "id": 985712852,
+  "lat": 56.9906780,
+  "lon": 24.2707127
+},
+{
+  "type": "node",
+  "id": 985720814,
+  "lat": 56.9899791,
+  "lon": 24.2680453
+},
+{
+  "type": "node",
+  "id": 985732958,
+  "lat": 56.9907830,
+  "lon": 24.2730330
+},
+{
+  "type": "node",
+  "id": 985737800,
+  "lat": 56.9903733,
+  "lon": 24.2690364
+},
+{
+  "type": "node",
+  "id": 985752607,
+  "lat": 56.9899565,
+  "lon": 24.2682871
+},
+{
+  "type": "node",
+  "id": 985772825,
+  "lat": 56.9906933,
+  "lon": 24.2737786
+},
+{
+  "type": "node",
+  "id": 985777508,
+  "lat": 56.9906152,
+  "lon": 24.2742419
+},
+{
+  "type": "node",
+  "id": 1067778456,
+  "lat": 56.9903692,
+  "lon": 24.2743642
+},
+{
+  "type": "node",
+  "id": 1067778225,
+  "lat": 56.9938344,
+  "lon": 24.2659727
+},
+{
+  "type": "node",
+  "id": 1067778297,
+  "lat": 56.9948829,
+  "lon": 24.2670979
+},
+{
+  "type": "node",
+  "id": 1067779119,
+  "lat": 56.9941566,
+  "lon": 24.2659977
+},
+{
+  "type": "node",
+  "id": 1632037344,
+  "lat": 56.9937571,
+  "lon": 24.2659684
+},
+{
+  "type": "node",
+  "id": 2255593198,
+  "lat": 56.9945600,
+  "lon": 24.2666087
+},
+{
+  "type": "node",
+  "id": 6432616368,
+  "lat": 56.9949072,
+  "lon": 24.2673623
+},
+{
+  "type": "node",
+  "id": 6502701116,
+  "lat": 56.9949421,
+  "lon": 24.2676858
+},
+{
+  "type": "node",
+  "id": 86658218,
+  "lat": 56.9951622,
+  "lon": 24.2686688
+},
+{
+  "type": "node",
+  "id": 1067778238,
+  "lat": 56.9952170,
+  "lon": 24.2695740
+},
+{
+  "type": "node",
+  "id": 1067778311,
+  "lat": 56.9952052,
+  "lon": 24.2687227
+},
+{
+  "type": "node",
+  "id": 1067778638,
+  "lat": 56.9949543,
+  "lon": 24.2703355
+},
+{
+  "type": "node",
+  "id": 1067778982,
+  "lat": 56.9950039,
+  "lon": 24.2694461
+},
+{
+  "type": "node",
+  "id": 1067779160,
+  "lat": 56.9950113,
+  "lon": 24.2694141
+},
+{
+  "type": "node",
+  "id": 1226912396,
+  "lat": 56.9953568,
+  "lon": 24.2713477
+},
+{
+  "type": "node",
+  "id": 1457241723,
+  "lat": 56.9951457,
+  "lon": 24.2686416
+},
+{
+  "type": "node",
+  "id": 6502701112,
+  "lat": 56.9950779,
+  "lon": 24.2687993
+},
+{
+  "type": "node",
+  "id": 6502701113,
+  "lat": 56.9949307,
+  "lon": 24.2685871
+},
+{
+  "type": "node",
+  "id": 6502701117,
+  "lat": 56.9949577,
+  "lon": 24.2682881
+},
+{
+  "type": "node",
+  "id": 985281376,
+  "lat": 56.9863447,
+  "lon": 24.2787078
+},
+{
+  "type": "node",
+  "id": 985292677,
+  "lat": 56.9851188,
+  "lon": 24.2803926
+},
+{
+  "type": "node",
+  "id": 985307389,
+  "lat": 56.9860130,
+  "lon": 24.2793103
+},
+{
+  "type": "node",
+  "id": 985319345,
+  "lat": 56.9848645,
+  "lon": 24.2808949
+},
+{
+  "type": "node",
+  "id": 985417453,
+  "lat": 56.9863006,
+  "lon": 24.2787277
+},
+{
+  "type": "node",
+  "id": 985419710,
+  "lat": 56.9861458,
+  "lon": 24.2790088
+},
+{
+  "type": "node",
+  "id": 985435552,
+  "lat": 56.9850745,
+  "lon": 24.2805133
+},
+{
+  "type": "node",
+  "id": 985442220,
+  "lat": 56.9859577,
+  "lon": 24.2794309
+},
+{
+  "type": "node",
+  "id": 985451954,
+  "lat": 56.9848203,
+  "lon": 24.2809752
+},
+{
+  "type": "node",
+  "id": 985456879,
+  "lat": 56.9866320,
+  "lon": 24.2782259
+},
+{
+  "type": "node",
+  "id": 985466698,
+  "lat": 56.9865211,
+  "lon": 24.2785679
+},
+{
+  "type": "node",
+  "id": 985487951,
+  "lat": 56.9861236,
+  "lon": 24.2791095
+},
+{
+  "type": "node",
+  "id": 985505864,
+  "lat": 56.9859025,
+  "lon": 24.2794910
+},
+{
+  "type": "node",
+  "id": 985529061,
+  "lat": 56.9857702,
+  "lon": 24.2795707
+},
+{
+  "type": "node",
+  "id": 985560177,
+  "lat": 56.9864439,
+  "lon": 24.2786481
+},
+{
+  "type": "node",
+  "id": 985564591,
+  "lat": 56.9854610,
+  "lon": 24.2799919
+},
+{
+  "type": "node",
+  "id": 985595809,
+  "lat": 56.9862121,
+  "lon": 24.2789085
+},
+{
+  "type": "node",
+  "id": 985603209,
+  "lat": 56.9860905,
+  "lon": 24.2791294
+},
+{
+  "type": "node",
+  "id": 985692891,
+  "lat": 56.9856929,
+  "lon": 24.2796911
+},
+{
+  "type": "node",
+  "id": 985731208,
+  "lat": 56.9863778,
+  "lon": 24.2786677
+},
+{
+  "type": "node",
+  "id": 985753416,
+  "lat": 56.9851851,
+  "lon": 24.2802923
+},
+{
+  "type": "node",
+  "id": 985760037,
+  "lat": 56.9861680,
+  "lon": 24.2789485
+},
+{
+  "type": "node",
+  "id": 985761822,
+  "lat": 56.9860353,
+  "lon": 24.2791895
+},
+{
+  "type": "node",
+  "id": 985773853,
+  "lat": 56.9849307,
+  "lon": 24.2808349
+},
+{
+  "type": "node",
+  "id": 985780132,
+  "lat": 56.9867318,
+  "lon": 24.2778838
+},
+{
+  "type": "node",
+  "id": 985269653,
+  "lat": 56.9861861,
+  "lon": 24.2855433
+},
+{
+  "type": "node",
+  "id": 985272932,
+  "lat": 56.9848510,
+  "lon": 24.2820039
+},
+{
+  "type": "node",
+  "id": 985291746,
+  "lat": 56.9863058,
+  "lon": 24.2861694
+},
+{
+  "type": "node",
+  "id": 985302761,
+  "lat": 56.9851579,
+  "lon": 24.2825911
+},
+{
+  "type": "node",
+  "id": 985310951,
+  "lat": 56.9863274,
+  "lon": 24.2863511
+},
+{
+  "type": "node",
+  "id": 985314658,
+  "lat": 56.9859248,
+  "lon": 24.2842506
+},
+{
+  "type": "node",
+  "id": 985390421,
+  "lat": 56.9863919,
+  "lon": 24.2870171
+},
+{
+  "type": "node",
+  "id": 985395945,
+  "lat": 56.9855749,
+  "lon": 24.2832195
+},
+{
+  "type": "node",
+  "id": 985413434,
+  "lat": 56.9847526,
+  "lon": 24.2817007
+},
+{
+  "type": "node",
+  "id": 985427602,
+  "lat": 56.9858818,
+  "lon": 24.2838268
+},
+{
+  "type": "node",
+  "id": 985432976,
+  "lat": 56.9863164,
+  "lon": 24.2863308
+},
+{
+  "type": "node",
+  "id": 985438404,
+  "lat": 56.9852347,
+  "lon": 24.2827127
+},
+{
+  "type": "node",
+  "id": 985447668,
+  "lat": 56.9853774,
+  "lon": 24.2828953
+},
+{
+  "type": "node",
+  "id": 985459235,
+  "lat": 56.9859792,
+  "lon": 24.2845334
+},
+{
+  "type": "node",
+  "id": 985461790,
+  "lat": 56.9864027,
+  "lon": 24.2871382
+},
+{
+  "type": "node",
+  "id": 985472005,
+  "lat": 56.9864020,
+  "lon": 24.2874205
+},
+{
+  "type": "node",
+  "id": 985475394,
+  "lat": 56.9861649,
+  "lon": 24.2851802
+},
+{
+  "type": "node",
+  "id": 985477751,
+  "lat": 56.9862296,
+  "lon": 24.2858058
+},
+{
+  "type": "node",
+  "id": 985480241,
+  "lat": 56.9847634,
+  "lon": 24.2817815
+},
+{
+  "type": "node",
+  "id": 985540440,
+  "lat": 56.9863914,
+  "lon": 24.2872591
+},
+{
+  "type": "node",
+  "id": 985548682,
+  "lat": 56.9847533,
+  "lon": 24.2813781
+},
+{
+  "type": "node",
+  "id": 985552487,
+  "lat": 56.9856294,
+  "lon": 24.2834417
+},
+{
+  "type": "node",
+  "id": 985576573,
+  "lat": 56.9864237,
+  "lon": 24.2875820
+},
+{
+  "type": "node",
+  "id": 985586051,
+  "lat": 56.9862623,
+  "lon": 24.2859271
+},
+{
+  "type": "node",
+  "id": 985619593,
+  "lat": 56.9859253,
+  "lon": 24.2840288
+},
+{
+  "type": "node",
+  "id": 985663360,
+  "lat": 56.9863816,
+  "lon": 24.2867145
+},
+{
+  "type": "node",
+  "id": 985669946,
+  "lat": 56.9854983,
+  "lon": 24.2830172
+},
+{
+  "type": "node",
+  "id": 985713742,
+  "lat": 56.9860337,
+  "lon": 24.2847960
+},
+{
+  "type": "node",
+  "id": 985744519,
+  "lat": 56.9857280,
+  "lon": 24.2836643
+},
+{
+  "type": "node",
+  "id": 985752390,
+  "lat": 56.9862731,
+  "lon": 24.2860482
+},
+{
+  "type": "node",
+  "id": 985755580,
+  "lat": 56.9850922,
+  "lon": 24.2824494
+},
+{
+  "type": "node",
+  "id": 985785118,
+  "lat": 56.9859137,
+  "lon": 24.2843110
+},
+{
+  "type": "node",
+  "id": 985788142,
+  "lat": 56.9863923,
+  "lon": 24.2868759
+},
+{
+  "type": "node",
+  "id": 985799555,
+  "lat": 56.9855201,
+  "lon": 24.2831182
+},
+{
+  "type": "node",
+  "id": 985285505,
+  "lat": 56.9881637,
+  "lon": 24.2775920
+},
+{
+  "type": "node",
+  "id": 985287816,
+  "lat": 56.9873600,
+  "lon": 24.2776062
+},
+{
+  "type": "node",
+  "id": 985293740,
+  "lat": 56.9903935,
+  "lon": 24.2749462
+},
+{
+  "type": "node",
+  "id": 985304233,
+  "lat": 56.9872169,
+  "lon": 24.2775849
+},
+{
+  "type": "node",
+  "id": 985309777,
+  "lat": 56.9880536,
+  "lon": 24.2775912
+},
+{
+  "type": "node",
+  "id": 985313484,
+  "lat": 56.9896086,
+  "lon": 24.2764127
+},
+{
+  "type": "node",
+  "id": 985389207,
+  "lat": 56.9883401,
+  "lon": 24.2774925
+},
+{
+  "type": "node",
+  "id": 985397105,
+  "lat": 56.9891778,
+  "lon": 24.2770550
+},
+{
+  "type": "node",
+  "id": 985406370,
+  "lat": 56.9875910,
+  "lon": 24.2777087
+},
+{
+  "type": "node",
+  "id": 985410968,
+  "lat": 56.9890343,
+  "lon": 24.2772354
+},
+{
+  "type": "node",
+  "id": 985430339,
+  "lat": 56.9887366,
+  "lon": 24.2774147
+},
+{
+  "type": "node",
+  "id": 985439629,
+  "lat": 56.9870629,
+  "lon": 24.2775233
+},
+{
+  "type": "node",
+  "id": 985445554,
+  "lat": 56.9877895,
+  "lon": 24.2775690
+},
+{
+  "type": "node",
+  "id": 985446693,
+  "lat": 56.9895534,
+  "lon": 24.2764728
+},
+{
+  "type": "node",
+  "id": 985449337,
+  "lat": 56.9893986,
+  "lon": 24.2767541
+},
+{
+  "type": "node",
+  "id": 985460816,
+  "lat": 56.9883290,
+  "lon": 24.2775327
+},
+{
+  "type": "node",
+  "id": 985464545,
+  "lat": 56.9900286,
+  "lon": 24.2756696
+},
+{
+  "type": "node",
+  "id": 985473381,
+  "lat": 56.9875690,
+  "lon": 24.2776884
+},
+{
+  "type": "node",
+  "id": 985489975,
+  "lat": 56.9881306,
+  "lon": 24.2776321
+},
+{
+  "type": "node",
+  "id": 985492557,
+  "lat": 56.9879986,
+  "lon": 24.2775705
+},
+{
+  "type": "node",
+  "id": 985493867,
+  "lat": 56.9896970,
+  "lon": 24.2762520
+},
+{
+  "type": "node",
+  "id": 985497140,
+  "lat": 56.9886594,
+  "lon": 24.2774746
+},
+{
+  "type": "node",
+  "id": 985501783,
+  "lat": 56.9903051,
+  "lon": 24.2751069
+},
+{
+  "type": "node",
+  "id": 985503899,
+  "lat": 56.9869417,
+  "lon": 24.2775627
+},
+{
+  "type": "node",
+  "id": 985511660,
+  "lat": 56.9877564,
+  "lon": 24.2775889
+},
+{
+  "type": "node",
+  "id": 985578331,
+  "lat": 56.9875581,
+  "lon": 24.2776480
+},
+{
+  "type": "node",
+  "id": 985585265,
+  "lat": 56.9889460,
+  "lon": 24.2773154
+},
+{
+  "type": "node",
+  "id": 985593947,
+  "lat": 56.9904379,
+  "lon": 24.2747650
+},
+{
+  "type": "node",
+  "id": 985604548,
+  "lat": 56.9880975,
+  "lon": 24.2776520
+},
+{
+  "type": "node",
+  "id": 985645779,
+  "lat": 56.9868424,
+  "lon": 24.2776628
+},
+{
+  "type": "node",
+  "id": 985650669,
+  "lat": 56.9883950,
+  "lon": 24.2775534
+},
+{
+  "type": "node",
+  "id": 985665299,
+  "lat": 56.9877232,
+  "lon": 24.2776492
+},
+{
+  "type": "node",
+  "id": 985667477,
+  "lat": 56.9901944,
+  "lon": 24.2753683
+},
+{
+  "type": "node",
+  "id": 985688837,
+  "lat": 56.9892663,
+  "lon": 24.2768539
+},
+{
+  "type": "node",
+  "id": 985736600,
+  "lat": 56.9881967,
+  "lon": 24.2776124
+},
+{
+  "type": "node",
+  "id": 985738852,
+  "lat": 56.9874810,
+  "lon": 24.2776676
+},
+{
+  "type": "node",
+  "id": 985743202,
+  "lat": 56.9898515,
+  "lon": 24.2760716
+},
+{
+  "type": "node",
+  "id": 985766481,
+  "lat": 56.9896417,
+  "lon": 24.2763928
+},
+{
+  "type": "node",
+  "id": 985771826,
+  "lat": 56.9894870,
+  "lon": 24.2766337
+},
+{
+  "type": "node",
+  "id": 985786636,
+  "lat": 56.9883511,
+  "lon": 24.2774925
+},
+{
+  "type": "node",
+  "id": 528976180,
+  "lat": 56.9916023,
+  "lon": 24.2871654
+},
+{
+  "type": "node",
+  "id": 528976181,
+  "lat": 56.9906847,
+  "lon": 24.2862716
+},
+{
+  "type": "node",
+  "id": 528976183,
+  "lat": 56.9903896,
+  "lon": 24.2859839
+},
+{
+  "type": "node",
+  "id": 6580688255,
+  "lat": 56.9907944,
+  "lon": 24.2862693
+},
+{
+  "type": "node",
+  "id": 6580688256,
+  "lat": 56.9908727,
+  "lon": 24.2861192
+},
+{
+  "type": "node",
+  "id": 6580688257,
+  "lat": 56.9909249,
+  "lon": 24.2861863
+},
+{
+  "type": "node",
+  "id": 6580688258,
+  "lat": 56.9914296,
+  "lon": 24.2870872
+},
+{
+  "type": "node",
+  "id": 6580688259,
+  "lat": 56.9913809,
+  "lon": 24.2871926
+},
+{
+  "type": "node",
+  "id": 6580688260,
+  "lat": 56.9909824,
+  "lon": 24.2865090
+},
+{
+  "type": "node",
+  "id": 6580688261,
+  "lat": 56.9908814,
+  "lon": 24.2864994
+},
+{
+  "type": "node",
+  "id": 6580688262,
+  "lat": 56.9911007,
+  "lon": 24.2868444
+},
+{
+  "type": "node",
+  "id": 6580688263,
+  "lat": 56.9910746,
+  "lon": 24.2859658
+},
+{
+  "type": "node",
+  "id": 6580688264,
+  "lat": 56.9908257,
+  "lon": 24.2857422
+},
+{
+  "type": "node",
+  "id": 6580688265,
+  "lat": 56.9906325,
+  "lon": 24.2861735
+},
+{
+  "type": "node",
+  "id": 6580688266,
+  "lat": 56.9918804,
+  "lon": 24.2872502
+},
+{
+  "type": "node",
+  "id": 6580688267,
+  "lat": 56.9918195,
+  "lon": 24.2870904
+},
+{
+  "type": "node",
+  "id": 985737503,
+  "lat": 56.9864342,
+  "lon": 24.2877838
+},
+{
+  "type": "node",
+  "id": 1224464618,
+  "lat": 56.9865412,
+  "lon": 24.2881124
+},
+{
+  "type": "node",
+  "id": 1224464903,
+  "lat": 56.9868008,
+  "lon": 24.2880330
+},
+{
+  "type": "node",
+  "id": 1224465896,
+  "lat": 56.9867445,
+  "lon": 24.2886483
+},
+{
+  "type": "node",
+  "id": 528976179,
+  "lat": 56.9921818,
+  "lon": 24.2876471
+},
+{
+  "type": "node",
+  "id": 528976186,
+  "lat": 56.9896578,
+  "lon": 24.2877483
+},
+{
+  "type": "node",
+  "id": 528976193,
+  "lat": 56.9895325,
+  "lon": 24.2882209
+},
+{
+  "type": "node",
+  "id": 528976194,
+  "lat": 56.9881536,
+  "lon": 24.2883971
+},
+{
+  "type": "node",
+  "id": 528976195,
+  "lat": 56.9877042,
+  "lon": 24.2886381
+},
+{
+  "type": "node",
+  "id": 528976196,
+  "lat": 56.9869087,
+  "lon": 24.2879649
+},
+{
+  "type": "node",
+  "id": 1067778436,
+  "lat": 56.9889651,
+  "lon": 24.2888423
+},
+{
+  "type": "node",
+  "id": 528976171,
+  "lat": 56.9964525,
+  "lon": 24.2777986
+},
+{
+  "type": "node",
+  "id": 528976172,
+  "lat": 56.9962237,
+  "lon": 24.2781600
+},
+{
+  "type": "node",
+  "id": 528976173,
+  "lat": 56.9959759,
+  "lon": 24.2784316
+},
+{
+  "type": "node",
+  "id": 528976174,
+  "lat": 56.9947525,
+  "lon": 24.2790357
+},
+{
+  "type": "node",
+  "id": 528976175,
+  "lat": 56.9943034,
+  "lon": 24.2801691
+},
+{
+  "type": "node",
+  "id": 528976177,
+  "lat": 56.9937140,
+  "lon": 24.2828957
+},
+{
+  "type": "node",
+  "id": 528976178,
+  "lat": 56.9934588,
+  "lon": 24.2841995
+},
+{
+  "type": "node",
+  "id": 1067778261,
+  "lat": 56.9935660,
+  "lon": 24.2843816
+},
+{
+  "type": "node",
+  "id": 2738299444,
+  "lat": 57.1354115,
+  "lon": 24.2715056
+},
+{
+  "type": "node",
+  "id": 2738299476,
+  "lat": 57.1354617,
+  "lon": 24.2714477
+},
+{
+  "type": "node",
+  "id": 2738299479,
+  "lat": 57.1354655,
+  "lon": 24.2716639
+},
+{
+  "type": "node",
+  "id": 2738299545,
+  "lat": 57.1355157,
+  "lon": 24.2716061
+},
+{
+  "type": "way",
+  "id": 87493939,
+  "nodes": [
+    1017744637,
+    1017744232,
+    1797268101,
+    1797268105,
+    1017744170,
+    1017744789,
+    1797268113,
+    1017744553,
+    1700719183,
+    1797267954,
+    1797267953,
+    291172821,
+    583208387,
+    1017744637
+  ]
+},
+{
+  "type": "way",
+  "id": 665689327,
+  "nodes": [
+    6231106545,
+    1828821327,
+    6231106546,
+    6231106547,
+    6231106548,
+    1828821330,
+    6231106545
+  ]
+},
+{
+  "type": "way",
+  "id": 627730712,
+  "nodes": [
+    5297558760,
+    5297558759,
+    5297558797,
+    5297558798,
+    5297558796,
+    1070466557,
+    1070466274,
+    1070466230,
+    1070466147,
+    1070466680,
+    1070466448,
+    4307479613,
+    1070466810,
+    5646235162,
+    1070466581,
+    5646235165,
+    1070466532,
+    1070466254,
+    5646235158,
+    1070466711,
+    1070466488,
+    1070466403,
+    1070466185,
+    5297558795,
+    5297558799,
+    5297558794,
+    5297558768,
+    5297558767,
+    5297558766,
+    5297558765,
+    5297558764,
+    5297558763,
+    5297558762,
+    5297558761,
+    5297558760
+  ]
+}
+
+  ]
+}

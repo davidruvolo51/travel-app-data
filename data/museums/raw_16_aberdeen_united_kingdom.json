@@ -1,0 +1,872 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-14T09:04:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 845706132,
+  "lat": 57.3508874,
+  "lon": -1.9453694,
+  "tags": {
+    "name": "Forvie National Nature Reserve Visitor Centre",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1183067139,
+  "lat": 57.2844025,
+  "lon": -2.3746723,
+  "tags": {
+    "addr:postcode": "AB51 3SN",
+    "addr:street": "The Square",
+    "name": "Carnegie Inverurie Museum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1363475675,
+  "lat": 56.9607820,
+  "lon": -2.2020797,
+  "tags": {
+    "name": "Tolbooth Museum",
+    "opening_hours": "Oct-Mar: Sa,Su 12:30-15:30;Apr-Sep: We-Mo 13:30-16:30",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 2623027758,
+  "lat": 57.3713661,
+  "lon": -2.2211349,
+  "tags": {
+    "name": "Tarves Heritage Project",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3097277973,
+  "lat": 57.0947031,
+  "lon": -2.2629789,
+  "tags": {
+    "name": "St Peter's Heritage Centre",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6025874004,
+  "lat": 57.1683088,
+  "lon": -2.1065643,
+  "tags": {
+    "name": "Zoology Museum",
+    "operator": "University of Aberdeen",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6345973789,
+  "lat": 57.1480089,
+  "lon": -2.0941492,
+  "tags": {
+    "name": "Tolbooth Museum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6458161313,
+  "lat": 57.3434982,
+  "lon": -2.1935362,
+  "tags": {
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6574528547,
+  "lat": 57.0988697,
+  "lon": -2.1946631,
+  "tags": {
+    "name": "Blairs Museum",
+    "tourism": "museum",
+    "wikidata": "Q4924227",
+    "wikipedia": "en:Blairs College"
+  }
+},
+{
+  "type": "node",
+  "id": 7190414113,
+  "lat": 57.1497845,
+  "lon": -2.1012769,
+  "tags": {
+    "addr:city": "Aberdeen",
+    "addr:housenumber": "107",
+    "addr:postcode": "AB25 1HU",
+    "addr:street": "George Street",
+    "internet_access": "wlan",
+    "museum": "science",
+    "name": "Aberdeen Science Centre",
+    "opening_hours": "Mo-Su 09:00-21:00",
+    "phone": "+44 1224 640340",
+    "tourism": "museum",
+    "website": "https://www.aberdeensciencecentre.org"
+  }
+},
+{
+  "type": "way",
+  "id": 100711705,
+  "nodes": [
+    1164231686,
+    1164231489,
+    1164231621,
+    1164231485,
+    1164231635,
+    1164231510,
+    1164231428,
+    1164231407,
+    1164231593,
+    1164231686
+  ],
+  "tags": {
+    "addr:postcode": "AB15 7XH",
+    "addr:street": "Viewfield Road",
+    "building": "museum",
+    "name": "The Gordon Highlanders Museum",
+    "old_name": "Saint Luke's",
+    "source:addr": "fhrs [enclosed cafe]",
+    "tourism": "museum",
+    "website": "http://www.gordonhighlanders.com/",
+    "wikipedia": "en:Gordon Highlanders Museum"
+  }
+},
+{
+  "type": "way",
+  "id": 144795265,
+  "nodes": [
+    1582992647,
+    1582992650,
+    1582992649,
+    1582992648,
+    1582992647
+  ],
+  "tags": {
+    "addr:city": "Aberdeen",
+    "addr:housename": "The Old Town House",
+    "addr:postcode": "AB24 3EE",
+    "addr:street": "High Street",
+    "building": "yes",
+    "building:levels": "3",
+    "name": "King's Museum",
+    "opening_hours": "Mo 10:00-16:00; Tu 10:00-19:30; We-Fr 10:00-16:00; Sa 11:00-16:00",
+    "operator": "University of Aberdeen",
+    "tourism": "museum",
+    "website": "http://www.abdn.ac.uk/kingsmuseum/"
+  }
+},
+{
+  "type": "way",
+  "id": 314075005,
+  "nodes": [
+    3201163049,
+    3201163047,
+    3201163045,
+    6532128932,
+    3201163043,
+    3201163041,
+    3201163039,
+    3201163040,
+    3201163038,
+    3201163046,
+    6532128931,
+    3201163049
+  ],
+  "tags": {
+    "addr:housename": "Aberdeen Maritime Museum",
+    "addr:postcode": "AB11 5BY",
+    "addr:street": "Shiprow",
+    "building": "yes",
+    "email": "info@aagm.co.uk",
+    "name": "Aberdeen Maritime Museum",
+    "opening_hours": "Mo-Sa 10:00-17:00; Su 12:00-15:00",
+    "tourism": "museum",
+    "wheelchair": "yes",
+    "wikidata": "Q4666952",
+    "wikipedia": "en:Aberdeen Maritime Museum"
+  }
+},
+{
+  "type": "way",
+  "id": 354189928,
+  "nodes": [
+    3599504479,
+    3599504480,
+    3599504481,
+    3599504483,
+    2423739881,
+    3599504475,
+    3599504476,
+    3599504474,
+    3599504479
+  ],
+  "tags": {
+    "addr:housenumber": "179",
+    "addr:postcode": "AB24 5TU",
+    "addr:street": "Constitution Street",
+    "building": "yes",
+    "contact:website": "http://www.satrosphere.net/",
+    "fhrs:id": "135609",
+    "name": "Satrosphere",
+    "opening_hours": "Mo, We-Fr 10:00-16:00; Tu 10:00-15:00; Sa-Su 10:00-17:00",
+    "source": "knowledge;website",
+    "source:addr": "fhrs",
+    "source:position": "extrapolated from knowledge",
+    "tourism": "museum",
+    "wikipedia": "en:Satrosphere Science Centre"
+  }
+},
+{
+  "type": "way",
+  "id": 405147287,
+  "nodes": [
+    4073678929,
+    4073678928,
+    4073678926,
+    4073678927,
+    1823375904,
+    4073678924,
+    4073678923,
+    4073678922,
+    4073678921,
+    4073678920,
+    4073678919,
+    4073678925,
+    4073678929
+  ],
+  "tags": {
+    "addr:postcode": "AB10 1AS",
+    "addr:street": "Guest Row",
+    "building": "yes",
+    "contact:website": "http://www.aagm.co.uk/Venues/ProvostSkenesHouse/psh-overview.aspx",
+    "fhrs:id": "85550",
+    "historic": "house",
+    "name": "Provost Skene's House",
+    "note": "originally marked as historic monument; believe this is more a museum?",
+    "note:shape": "NLS shape, aligned to bing",
+    "note_2": "addr and fhrs are for coffee shop",
+    "source": "knowledge;website",
+    "source:addr": "fhrs",
+    "source:shape": "bing-aligned NLS (Aberdeen town plans 1866/7)",
+    "tourism": "museum",
+    "wikipedia": "en:Provost Skene"
+  }
+},
+{
+  "type": "way",
+  "id": 466086231,
+  "nodes": [
+    4609689475,
+    4609689476,
+    4609689477,
+    4609689488,
+    4609689478,
+    4609689479,
+    4609689480,
+    4609689481,
+    4609689482,
+    4609689483,
+    4609689484,
+    4609689485,
+    4609689486,
+    4609689487,
+    4609689475
+  ],
+  "tags": {
+    "addr:city": "Arbuthnott",
+    "addr:postcode": "AB30 1PB",
+    "building": "yes",
+    "cafe": "yes",
+    "museum": "yes",
+    "name": "The Grassic Gibbon Centre",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 700106684,
+  "nodes": [
+    6574552400,
+    6574552401,
+    5340613296,
+    5340613295,
+    6574552402,
+    6574552403,
+    6574552404,
+    6574552405,
+    6574552406,
+    6574552407,
+    6574552408,
+    6574552410,
+    6574552409,
+    6574552400
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Banchory Museum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "relation",
+  "id": 8259506,
+  "members": [
+    {
+      "type": "way",
+      "ref": 314075005,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 314075006,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 314075007,
+      "role": ""
+    }
+  ],
+  "tags": {
+    "addr:postcode": "AB11 5BY",
+    "addr:street": "Shiprow",
+    "name": "Aberdeen Maritime Museum",
+    "opening_hours": "Mo-Sa 10:00-17:00;su 12:00-15:00",
+    "toilets:wheelchair": "yes",
+    "tourism": "museum",
+    "type": "site",
+    "website": "http://www.aagm.co.uk/Visit/AberdeenMaritimeMuseum/amm-overview.aspx",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4609689475,
+  "lat": 56.8688368,
+  "lon": -2.3284359
+},
+{
+  "type": "node",
+  "id": 4609689476,
+  "lat": 56.8688100,
+  "lon": -2.3283169
+},
+{
+  "type": "node",
+  "id": 4609689477,
+  "lat": 56.8688529,
+  "lon": -2.3282845
+},
+{
+  "type": "node",
+  "id": 4609689478,
+  "lat": 56.8688475,
+  "lon": -2.3281133
+},
+{
+  "type": "node",
+  "id": 4609689479,
+  "lat": 56.8688121,
+  "lon": -2.3279560
+},
+{
+  "type": "node",
+  "id": 4609689480,
+  "lat": 56.8686499,
+  "lon": -2.3280780
+},
+{
+  "type": "node",
+  "id": 4609689481,
+  "lat": 56.8686694,
+  "lon": -2.3281645
+},
+{
+  "type": "node",
+  "id": 4609689482,
+  "lat": 56.8686894,
+  "lon": -2.3281495
+},
+{
+  "type": "node",
+  "id": 4609689483,
+  "lat": 56.8687099,
+  "lon": -2.3282407
+},
+{
+  "type": "node",
+  "id": 4609689484,
+  "lat": 56.8686512,
+  "lon": -2.3282849
+},
+{
+  "type": "node",
+  "id": 4609689485,
+  "lat": 56.8686799,
+  "lon": -2.3284123
+},
+{
+  "type": "node",
+  "id": 4609689486,
+  "lat": 56.8687645,
+  "lon": -2.3283486
+},
+{
+  "type": "node",
+  "id": 4609689487,
+  "lat": 56.8687917,
+  "lon": -2.3284698
+},
+{
+  "type": "node",
+  "id": 4609689488,
+  "lat": 56.8688191,
+  "lon": -2.3281347
+},
+{
+  "type": "node",
+  "id": 5340613295,
+  "lat": 57.0506853,
+  "lon": -2.5038533
+},
+{
+  "type": "node",
+  "id": 5340613296,
+  "lat": 57.0506891,
+  "lon": -2.5038884
+},
+{
+  "type": "node",
+  "id": 6574552400,
+  "lat": 57.0504953,
+  "lon": -2.5039799
+},
+{
+  "type": "node",
+  "id": 6574552401,
+  "lat": 57.0506913,
+  "lon": -2.5039084
+},
+{
+  "type": "node",
+  "id": 6574552402,
+  "lat": 57.0506691,
+  "lon": -2.5037032
+},
+{
+  "type": "node",
+  "id": 6574552403,
+  "lat": 57.0506556,
+  "lon": -2.5037081
+},
+{
+  "type": "node",
+  "id": 6574552404,
+  "lat": 57.0506486,
+  "lon": -2.5036431
+},
+{
+  "type": "node",
+  "id": 6574552405,
+  "lat": 57.0505825,
+  "lon": -2.5036672
+},
+{
+  "type": "node",
+  "id": 6574552406,
+  "lat": 57.0505736,
+  "lon": -2.5035855
+},
+{
+  "type": "node",
+  "id": 6574552407,
+  "lat": 57.0504979,
+  "lon": -2.5036132
+},
+{
+  "type": "node",
+  "id": 6574552408,
+  "lat": 57.0505045,
+  "lon": -2.5036745
+},
+{
+  "type": "node",
+  "id": 6574552409,
+  "lat": 57.0504665,
+  "lon": -2.5037134
+},
+{
+  "type": "node",
+  "id": 6574552410,
+  "lat": 57.0504907,
+  "lon": -2.5037045
+},
+{
+  "type": "node",
+  "id": 1164231485,
+  "lat": 57.1374652,
+  "lon": -2.1459744
+},
+{
+  "type": "node",
+  "id": 1164231489,
+  "lat": 57.1373890,
+  "lon": -2.1467312
+},
+{
+  "type": "node",
+  "id": 1164231510,
+  "lat": 57.1375433,
+  "lon": -2.1463968
+},
+{
+  "type": "node",
+  "id": 1164231621,
+  "lat": 57.1374211,
+  "lon": -2.1464126
+},
+{
+  "type": "node",
+  "id": 1164231407,
+  "lat": 57.1376398,
+  "lon": -2.1466153
+},
+{
+  "type": "node",
+  "id": 1164231428,
+  "lat": 57.1376578,
+  "lon": -2.1464360
+},
+{
+  "type": "node",
+  "id": 1164231593,
+  "lat": 57.1376728,
+  "lon": -2.1466266
+},
+{
+  "type": "node",
+  "id": 1164231635,
+  "lat": 57.1375819,
+  "lon": -2.1460143
+},
+{
+  "type": "node",
+  "id": 1164231686,
+  "lat": 57.1376531,
+  "lon": -2.1468216
+},
+{
+  "type": "node",
+  "id": 1823375904,
+  "lat": 57.1482225,
+  "lon": -2.0975644
+},
+{
+  "type": "node",
+  "id": 4073678919,
+  "lat": 57.1481249,
+  "lon": -2.0975900
+},
+{
+  "type": "node",
+  "id": 4073678920,
+  "lat": 57.1481636,
+  "lon": -2.0975262
+},
+{
+  "type": "node",
+  "id": 4073678921,
+  "lat": 57.1481656,
+  "lon": -2.0975289
+},
+{
+  "type": "node",
+  "id": 4073678922,
+  "lat": 57.1481862,
+  "lon": -2.0974952
+},
+{
+  "type": "node",
+  "id": 4073678923,
+  "lat": 57.1481974,
+  "lon": -2.0975215
+},
+{
+  "type": "node",
+  "id": 4073678924,
+  "lat": 57.1481999,
+  "lon": -2.0975178
+},
+{
+  "type": "node",
+  "id": 4073678925,
+  "lat": 57.1482044,
+  "lon": -2.0977557
+},
+{
+  "type": "node",
+  "id": 4073678926,
+  "lat": 57.1482927,
+  "lon": -2.0973837
+},
+{
+  "type": "node",
+  "id": 4073678927,
+  "lat": 57.1483129,
+  "lon": -2.0974239
+},
+{
+  "type": "node",
+  "id": 4073678928,
+  "lat": 57.1483558,
+  "lon": -2.0972841
+},
+{
+  "type": "node",
+  "id": 4073678929,
+  "lat": 57.1484138,
+  "lon": -2.0974236
+},
+{
+  "type": "node",
+  "id": 1582992647,
+  "lat": 57.1670894,
+  "lon": -2.1023632
+},
+{
+  "type": "node",
+  "id": 1582992648,
+  "lat": 57.1670881,
+  "lon": -2.1021660
+},
+{
+  "type": "node",
+  "id": 1582992649,
+  "lat": 57.1671722,
+  "lon": -2.1021642
+},
+{
+  "type": "node",
+  "id": 1582992650,
+  "lat": 57.1671734,
+  "lon": -2.1023614
+},
+{
+  "type": "node",
+  "id": 3201163036,
+  "lat": 57.1463175,
+  "lon": -2.0949726
+},
+{
+  "type": "node",
+  "id": 3201163037,
+  "lat": 57.1463988,
+  "lon": -2.0948147
+},
+{
+  "type": "node",
+  "id": 3201163038,
+  "lat": 57.1464357,
+  "lon": -2.0948706
+},
+{
+  "type": "node",
+  "id": 3201163039,
+  "lat": 57.1464379,
+  "lon": -2.0948207
+},
+{
+  "type": "node",
+  "id": 3201163040,
+  "lat": 57.1464509,
+  "lon": -2.0948446
+},
+{
+  "type": "node",
+  "id": 3201163041,
+  "lat": 57.1464823,
+  "lon": -2.0947367
+},
+{
+  "type": "node",
+  "id": 3201163042,
+  "lat": 57.1464910,
+  "lon": -2.0952784
+},
+{
+  "type": "node",
+  "id": 3201163043,
+  "lat": 57.1465138,
+  "lon": -2.0948027
+},
+{
+  "type": "node",
+  "id": 3201163044,
+  "lat": 57.1465214,
+  "lon": -2.0947287
+},
+{
+  "type": "node",
+  "id": 3201163045,
+  "lat": 57.1465340,
+  "lon": -2.0947824
+},
+{
+  "type": "node",
+  "id": 3201163046,
+  "lat": 57.1465268,
+  "lon": -2.0950605
+},
+{
+  "type": "node",
+  "id": 3201163047,
+  "lat": 57.1465604,
+  "lon": -2.0948526
+},
+{
+  "type": "node",
+  "id": 3201163048,
+  "lat": 57.1465658,
+  "lon": -2.0951305
+},
+{
+  "type": "node",
+  "id": 3201163049,
+  "lat": 57.1465930,
+  "lon": -2.0949526
+},
+{
+  "type": "node",
+  "id": 3201163050,
+  "lat": 57.1466190,
+  "lon": -2.0946527
+},
+{
+  "type": "node",
+  "id": 3201163051,
+  "lat": 57.1466493,
+  "lon": -2.0947887
+},
+{
+  "type": "node",
+  "id": 6532128931,
+  "lat": 57.1465845,
+  "lon": -2.0949664
+},
+{
+  "type": "node",
+  "id": 6532128932,
+  "lat": 57.1465243,
+  "lon": -2.0947922
+},
+{
+  "type": "node",
+  "id": 2423739881,
+  "lat": 57.1533149,
+  "lon": -2.0842693
+},
+{
+  "type": "node",
+  "id": 3599504474,
+  "lat": 57.1530584,
+  "lon": -2.0846611
+},
+{
+  "type": "node",
+  "id": 3599504475,
+  "lat": 57.1532262,
+  "lon": -2.0843685
+},
+{
+  "type": "node",
+  "id": 3599504476,
+  "lat": 57.1532351,
+  "lon": -2.0843955
+},
+{
+  "type": "node",
+  "id": 3599504479,
+  "lat": 57.1533086,
+  "lon": -2.0852271
+},
+{
+  "type": "node",
+  "id": 3599504480,
+  "lat": 57.1534424,
+  "lon": -2.0850260
+},
+{
+  "type": "node",
+  "id": 3599504481,
+  "lat": 57.1534734,
+  "lon": -2.0851202
+},
+{
+  "type": "node",
+  "id": 3599504483,
+  "lat": 57.1535621,
+  "lon": -2.0850210
+},
+{
+  "type": "way",
+  "id": 314075005,
+  "nodes": [
+    3201163049,
+    3201163047,
+    3201163045,
+    6532128932,
+    3201163043,
+    3201163041,
+    3201163039,
+    3201163040,
+    3201163038,
+    3201163046,
+    6532128931,
+    3201163049
+  ]
+},
+{
+  "type": "way",
+  "id": 314075006,
+  "nodes": [
+    3201163051,
+    3201163047,
+    3201163045,
+    3201163044,
+    3201163050,
+    3201163051
+  ]
+},
+{
+  "type": "way",
+  "id": 314075007,
+  "nodes": [
+    3201163042,
+    3201163048,
+    3201163046,
+    3201163038,
+    3201163037,
+    3201163036,
+    3201163042
+  ]
+}
+
+  ]
+}

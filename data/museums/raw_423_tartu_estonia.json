@@ -1,0 +1,1505 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-14T19:11:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 687056875,
+  "lat": 58.3864493,
+  "lon": 26.7327485,
+  "tags": {
+    "address": "Jaama 14, Tartu 51009",
+    "museum": "history",
+    "muuseum_id": "511",
+    "name": "Tartu Laulupeomuuseum",
+    "name:en": "Tartu Song Festival Museum",
+    "opening_hours": "Tu-Sa 12:00-18:00",
+    "phone": "+372 7461020",
+    "source": "http://www.muuseum.ee/et/muuseumid",
+    "tourism": "museum",
+    "url": "http://linnamuuseum.tartu.ee"
+  }
+},
+{
+  "type": "node",
+  "id": 687056876,
+  "lat": 58.2359821,
+  "lon": 26.7014580,
+  "tags": {
+    "address": "Kambja Põhikool, Kesk 5, Kambja, 62001 Tartumaa",
+    "muuseum_id": "536",
+    "name": "Kambja Põhikooli Muuseum",
+    "name:en": "Kambja school museum",
+    "phone": "+372 7416457",
+    "source": "http://www.muuseum.ee/et/muuseumid",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 687056906,
+  "lat": 58.2725928,
+  "lon": 26.5215204,
+  "tags": {
+    "address": "Nõo vallamaja, Voika 23, 61601 Nõo, Tartu maakond",
+    "alt_name": "Nõo koduloomuuseum",
+    "museum": "local",
+    "muuseum_id": "215",
+    "name": "Nõo Muuseum",
+    "name:en": "Nõo Museum",
+    "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-14:00",
+    "operator": "Nõovald",
+    "phone": "+372 7455237",
+    "source": "http://www.muuseum.ee/et/muuseumid",
+    "tourism": "museum",
+    "url": "https://nvv.kovtp.ee/",
+    "website": "https://nvv.kovtp.ee/noo-koduloomuuseum",
+    "wikidata": "Q16412508",
+    "wikipedia": "et:Nõo koduloomuuseum"
+  }
+},
+{
+  "type": "node",
+  "id": 687056912,
+  "lat": 58.2460749,
+  "lon": 26.4418663,
+  "tags": {
+    "address": "Variku talu, Vissi küla, 61602 Nõo vald, Tartu maakond",
+    "museum": "transport",
+    "muuseum_id": "211",
+    "name": "Heino Prosti Põllutöömasinate Muuseum",
+    "name:en": "Farming Machines & Museum Of Heino Prost",
+    "opening_hours": "Apr 15-Nov 1: \"by appointment\"",
+    "phone": "+372 7351401",
+    "source": "http://www.muuseum.ee/et/muuseumid",
+    "tourism": "museum",
+    "wikidata": "Q16409552",
+    "wikipedia": "et:Heino Prosti põllutöömasinate muuseum"
+  }
+},
+{
+  "type": "node",
+  "id": 687056916,
+  "lat": 58.3424373,
+  "lon": 26.7179128,
+  "tags": {
+    "address": "Ringtee 1, 51013 Tartu",
+    "muuseum_id": "190",
+    "name": "Eesti Pimedate Muuseum",
+    "name:en": "Estonian Museum Of The Blind",
+    "opening_hours": "\"Avatud etteteatamisel\"",
+    "phone": "+372 7481656",
+    "source": "http://www.muuseum.ee/et/muuseumid",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 687056970,
+  "lat": 58.5747043,
+  "lon": 26.2896687,
+  "tags": {
+    "address": "Puurmanni vald, 49001 Jõgeva maakond",
+    "muuseum_id": "86",
+    "name": "Kursi Kihelkonnamuuseum",
+    "name:en": "Kursi Local Lore Museum",
+    "opening_hours": "\"Avat etteteatamisel\"",
+    "phone": "+372 7763684",
+    "source": "http://www.muuseum.ee/et/muuseumid",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 687056971,
+  "lat": 58.3686272,
+  "lon": 26.7102076,
+  "tags": {
+    "address": "Riia 38, 50405 Tartu",
+    "museum": "person",
+    "muuseum_id": "200",
+    "name": "Oskar Lutsu Majamuuseum",
+    "name:en": "Oskar Luts Home Museum",
+    "opening_hours": "We-Sa 11:00-17:00; Jun off",
+    "phone": "+372 7461030",
+    "source": "http://www.muuseum.ee/et/muuseumid",
+    "tourism": "museum",
+    "url": "http://linnamuuseum.tartu.ee",
+    "website": "https://linnamuuseum.tartu.ee/lutsu-majamuuseum/",
+    "wikidata": "Q16407960",
+    "wikipedia": "et:Oskar Lutsu majamuuseum"
+  }
+},
+{
+  "type": "node",
+  "id": 687056972,
+  "lat": 58.3775854,
+  "lon": 26.7182180,
+  "tags": {
+    "address": "Vallikraavi 14, 51003 Tartu",
+    "museum": "art",
+    "muuseum_id": "566",
+    "name": "Tartu Kunstimuuseum",
+    "name:en": "Tartu Art Museum",
+    "name:zh": "塔尔图美术馆",
+    "opening_hours": "Mo-Fr 09:00-17:00",
+    "phone": "+372 7341050",
+    "source": "http://www.muuseum.ee/et/muuseumid",
+    "tourism": "museum",
+    "url": "http://www.tartmus.ee"
+  }
+},
+{
+  "type": "node",
+  "id": 687056974,
+  "lat": 58.3802281,
+  "lon": 26.7153639,
+  "tags": {
+    "address": "Lossi 25, 51003 Tartu",
+    "museum": "history",
+    "muuseum_id": "509",
+    "name": "Tartu Ülikooli ajaloo muuseum",
+    "name:en": "University of Tartu History Museum",
+    "name:zh": "塔尔图大学博物馆",
+    "opening_hours": "We-Su 11:00-17:00",
+    "phone": "+372 7375677",
+    "source": "http://www.muuseum.ee/et/muuseumid",
+    "tourism": "museum",
+    "url": "http://www.ut.ee/ajaloomuuseum"
+  }
+},
+{
+  "type": "node",
+  "id": 687056975,
+  "lat": 58.3734970,
+  "lon": 26.7161610,
+  "tags": {
+    "address": "Vanemuise 46, 51014 Tartu",
+    "museum": "nature",
+    "muuseum_id": "208",
+    "name": "Tartu Ülikooli Loodusmuuseum",
+    "name:en": "University of Tartu Natural History Museum",
+    "opening_hours": "We-Su 10:00-16:00",
+    "phone": "+372 7376076",
+    "source": "http://www.muuseum.ee/et/muuseumid",
+    "tourism": "museum",
+    "url": "http://natmuseum.ut.ee"
+  }
+},
+{
+  "type": "node",
+  "id": 687056977,
+  "lat": 58.3739700,
+  "lon": 26.7174700,
+  "tags": {
+    "address": "Vanemuise 42, 51004 Tartu",
+    "muuseum_id": "189",
+    "name": "Eesti Kirjandusmuuseum",
+    "name:en": "Estonian Literary Museum",
+    "opening_hours": "Mo-Fr 09:00-17:00",
+    "phone": "+372 7420155",
+    "tourism": "museum",
+    "url": "http://www.kirmus.ee"
+  }
+},
+{
+  "type": "node",
+  "id": 687056978,
+  "lat": 58.3862707,
+  "lon": 26.7060337,
+  "tags": {
+    "address": "Tähtvere 56/62, 50050 Tartu",
+    "museum": "food",
+    "muuseum_id": "520",
+    "name": "A. Le Coq Õllemuuseum",
+    "phone": "+372 7449711",
+    "source": "http://www.muuseum.ee/et/muuseumid",
+    "tourism": "museum",
+    "url": "http://www.alecoq.ee/meietegemised/ollemuuseum"
+  }
+},
+{
+  "type": "node",
+  "id": 687056979,
+  "lat": 58.3822588,
+  "lon": 26.7181170,
+  "tags": {
+    "address": "Lutsu 8, 51006 Tartu",
+    "muuseum_id": "202",
+    "name": "Tartu Mänguasjamuuseum",
+    "name:en": "Tartu Toy Museum",
+    "name:ru": "Музей игрушки",
+    "name:zh": "玩具博物馆",
+    "opening_hours": "We-Su 11:00-18:00 open, We-Su 11:00-16:00 open \"mängutuba\"",
+    "phone": "+372 7461777",
+    "source": "http://www.muuseum.ee/et/muuseumid",
+    "tourism": "museum",
+    "url": "http://www.mm.ee",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 687056980,
+  "lat": 58.5262246,
+  "lon": 26.6762883,
+  "tags": {
+    "addr:city": "Äksi alevik",
+    "addr:housenumber": "22",
+    "addr:postcode": "60543",
+    "addr:street": "Saadjärve",
+    "address": "Äksi, Tartu vald, 60543 Tartu maakond",
+    "museum": "military",
+    "muuseum_id": "216",
+    "name": "Soomepoiste muuseum",
+    "opening_hours": "Mo,We,Fr 11:00-18:00; Tu 11:00-20:00; Sa-Su 11:00-17:00",
+    "phone": "+372 7353138",
+    "source": "http://www.muuseum.ee/et/muuseumid;https://www.puhkaeestis.ee/et/soomepoiste-tuba-muuseum",
+    "tourism": "museum",
+    "wikidata": "Q18625517",
+    "wikipedia": "et:Soomepoiste muuseum"
+  }
+},
+{
+  "type": "node",
+  "id": 687056981,
+  "lat": 58.6544877,
+  "lon": 26.6025724,
+  "tags": {
+    "address": "Luua, Palamuse vald, 49203 Jõgevamaa",
+    "fixme": "Exact location needs verification at site",
+    "muuseum_id": "547",
+    "name": "Luua Topiste Muuseum",
+    "name:en": "Luua stuffed animals museum",
+    "phone": "+372 776 2111",
+    "source": "http://www.muuseum.ee/et/muuseumid",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 687056982,
+  "lat": 58.5491267,
+  "lon": 26.6035946,
+  "tags": {
+    "address": "Pargi 1, Tabivere, 49127 Jõgeva maakond",
+    "muuseum_id": "95",
+    "name": "Tabivere Vallamuuseum",
+    "name:en": "Tabivere Parish Museum",
+    "opening_hours": "\"Announce visit\"",
+    "phone": "+372 7736340",
+    "source": "http://www.muuseum.ee/et/muuseumid",
+    "tourism": "museum",
+    "url": "http://www.muuseum.tabivere.net"
+  }
+},
+{
+  "type": "node",
+  "id": 687057012,
+  "lat": 58.1216851,
+  "lon": 26.9258389,
+  "tags": {
+    "address": "Karilatsi küla, Kõlleste vald, 63505 Põlva maakond",
+    "muuseum_id": "560",
+    "name": "Põlva Talurahvamuuseum",
+    "name:en": "Põlva Peasantry Museum",
+    "opening_hours": "May 15-Sep 30 Mo-Su 9:00-18:00; \"muul ajal kokkuleppel\"",
+    "phone": "+372 7970310",
+    "source": "http://www.muuseum.ee/et/muuseumid",
+    "tourism": "museum",
+    "url": "http://www.polvatalurahvamuuseum.ee"
+  }
+},
+{
+  "type": "node",
+  "id": 687057014,
+  "lat": 58.2897086,
+  "lon": 26.7659086,
+  "tags": {
+    "address": "Veskiorg, Lange küla, Haaslava vald, 62101 Tartumaa",
+    "muuseum_id": "217",
+    "name": "Eesti Lennundusmuuseum",
+    "name:en": "Estonian Aviation Museum",
+    "opening_hours": "Apr-Oct Mo-Su 10:00-18:00; Nov-Mar \"kokkuleppel\"",
+    "source": "http://www.muuseum.ee/et/muuseumid",
+    "tourism": "museum",
+    "url": "http://www.lennundusmuuseum.ee"
+  }
+},
+{
+  "type": "node",
+  "id": 687057018,
+  "lat": 58.4268821,
+  "lon": 26.7802048,
+  "tags": {
+    "address": "Kõrveküla, Tartu vald, 60501 Tartumaa",
+    "museum": "person",
+    "muuseum_id": "549",
+    "name": "Miina Härma nimeline klass-muuseum",
+    "name:en": "Miina Härma class-museum",
+    "opening_hours": "\"Etteteatamisel\"",
+    "phone": "+372 730 3861",
+    "source": "http://www.muuseum.ee/et/muuseumid",
+    "tourism": "museum",
+    "url": "http://www.korve.edu.ee/miina-harma",
+    "wikidata": "Q16411757",
+    "wikipedia": "et:Miina Härma nimeline klass-muuseum"
+  }
+},
+{
+  "type": "node",
+  "id": 687057022,
+  "lat": 58.3807628,
+  "lon": 26.7194208,
+  "tags": {
+    "address": "Ülikooli 18, 50090 Tartu",
+    "muuseum_id": "207",
+    "name": "Tartu Ülikooli Kunstimuuseum",
+    "name:en": "University Of Tartu Art Museum",
+    "opening_hours": "Mo-Fr 11:00-17:00; Sa-Su \"Announce visit\"",
+    "phone": "+372 7375384",
+    "source": "http://www.muuseum.ee/et/muuseumid",
+    "tourism": "museum",
+    "url": "http://www.ut.ee/artmuseum",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 687057024,
+  "lat": 58.3732713,
+  "lon": 26.7199245,
+  "tags": {
+    "address": "Riia 15b, 51010 Tartu",
+    "museum": "history",
+    "muuseum_id": "199",
+    "name": "KGB Kongide Muuseum",
+    "name:en": "KGB Cells Museum",
+    "opening_hours": "Tu-Sa 11:00-16:00",
+    "phone": "+372 7461717",
+    "source": "http://www.muuseum.ee/et/muuseumid",
+    "tourism": "museum",
+    "url": "http://linnamuuseum.tartu.ee"
+  }
+},
+{
+  "type": "node",
+  "id": 687057025,
+  "lat": 58.3819747,
+  "lon": 26.7289356,
+  "tags": {
+    "address": "Narva mnt 23, 51009 Tartu",
+    "museum": "local",
+    "muuseum_id": "197",
+    "name": "Tartu Linnamuuseum",
+    "name:en": "Tartu City Museum",
+    "name:ru": "Городской музей Тарту",
+    "opening_hours": "Tu-Sa 11:00-18:00",
+    "phone": "+372 7461911",
+    "source": "http://www.muuseum.ee/et/muuseumid",
+    "tourism": "museum",
+    "url": "http://linnamuuseum.tartu.ee/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 687057026,
+  "lat": 58.3806659,
+  "lon": 26.7243296,
+  "tags": {
+    "address": "Raekoja plats 18, 51004 Tartu",
+    "muuseum_id": "196",
+    "name": "Tartu Kunstimuuseumi näitusemaja",
+    "name:en": "Exhibition House of Tartu Art Museum",
+    "name:ru": "Выставочный зал Тартусского художественного музея",
+    "opening_hours": "We,Fr-Su 11:00-18:00; Th 11:00-21:00",
+    "phone": "+372 7441080",
+    "source": "http://www.muuseum.ee/et/muuseumid",
+    "tourism": "museum",
+    "url": "http://www.tartmus.ee",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 687057027,
+  "lat": 58.3735448,
+  "lon": 26.7221638,
+  "tags": {
+    "addr:city": "Tartu",
+    "address": "Riia 12, 51013 Tartu",
+    "muuseum_id": "194",
+    "name": "Kaitseväe Akadeemia muuseum",
+    "name:en": "Museum of the Estonian Military Academy",
+    "opening_hours": "\"Opened only when requested\"",
+    "phone": "+372 7314161",
+    "source": "http://www.muuseum.ee/et/muuseumid",
+    "tourism": "museum",
+    "url": "http://www.ksk.edu.ee/est/muuseum",
+    "wikidata": "Q56425690"
+  }
+},
+{
+  "type": "node",
+  "id": 687057028,
+  "lat": 58.3823266,
+  "lon": 26.7213674,
+  "tags": {
+    "address": "Rüütli 15, 51007 Tartu",
+    "muuseum_id": "193",
+    "name": "Eesti Spordi- ja Olümpiamuuseum",
+    "name:en": "Estonian Sports and Olympic Museum",
+    "name:et": "Eesti Spordi- ja Olümpiamuuseum",
+    "old_name": "Eesti Spordimuuseum",
+    "old_name:en": "Estonian Sports Museum",
+    "old_name:ru": "Музей спорта",
+    "opening_hours": "Tu-Su 11:00-18:00",
+    "phone": "+372 7300750",
+    "source": "http://www.muuseum.ee/et/muuseumid",
+    "tourism": "museum",
+    "url": "http://www.spordimuuseum.ee",
+    "website": "https://spordimuuseum.ee/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 687057031,
+  "lat": 58.4909301,
+  "lon": 27.2413422,
+  "tags": {
+    "address": "Varnja küla, 60302 Tartu maakond",
+    "museum": "local",
+    "muuseum_id": "219",
+    "name": "Varnja Elava Ajaloo Muuseum",
+    "name:en": "Varnja living History Museum",
+    "opening_hours": "\"Avat etteteatamisel\"",
+    "phone": "+372 74 52 925",
+    "source": "http://www.muuseum.ee/et/muuseumid",
+    "tourism": "museum",
+    "url": "http://www.starover.ee/est/museums/varnja.html",
+    "wikidata": "Q18626968",
+    "wikipedia": "et:Varnja Elava Ajaloo Muuseum"
+  }
+},
+{
+  "type": "node",
+  "id": 687057033,
+  "lat": 58.5707029,
+  "lon": 27.1225677,
+  "tags": {
+    "address": "Rupsi küla, 60201 Alatskivi vald, Tartu maakond",
+    "museum": "person",
+    "muuseum_id": "214",
+    "name": "Liivi Muuseum",
+    "name:en": "Museum Of Juhan Liiv",
+    "opening_hours": "Jun-Aug Mo-Su 10:00-18:00; Sep-May Tu-Sa 10:00-16:00",
+    "phone": "+372 7453846",
+    "source": "http://www.muuseum.ee/et/muuseumid",
+    "tourism": "museum",
+    "url": "http://www.muusa.ee"
+  }
+},
+{
+  "type": "node",
+  "id": 1003067169,
+  "lat": 58.3819653,
+  "lon": 26.7173784,
+  "tags": {
+    "name": "Teatri Kodu",
+    "tourism": "museum",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1479373113,
+  "lat": 58.3696251,
+  "lon": 26.7180528,
+  "tags": {
+    "addr:city": "Tartu",
+    "addr:housenumber": "48f",
+    "addr:postcode": "50410",
+    "addr:street": "Kastani",
+    "contact:email": "gutenberg@trykimuuseum.ee",
+    "contact:phone": "+372 56828117",
+    "contact:website": "http://www.trykimuuseum.ee/",
+    "name": "Trükimuuseum",
+    "opening_hours": "We-Su 12:00-18:00",
+    "operator": "Eesti trükimuuseum MTÜ",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1995517634,
+  "lat": 58.5535736,
+  "lon": 27.2125965,
+  "tags": {
+    "name": "peipsimaa",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3546408868,
+  "lat": 58.2080595,
+  "lon": 27.0741626,
+  "tags": {
+    "name": "Ahja Valla Tuglase Muuseum",
+    "source": "http://www.muuseum.ee/et/muuseumid",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 30222487,
+  "nodes": [
+    333037664,
+    333037687,
+    333037684,
+    333037682,
+    333037680,
+    333037690,
+    333037673,
+    4209867054,
+    333037712,
+    333037668,
+    333037671,
+    333037664
+  ],
+  "tags": {
+    "addr:city": "Tartu",
+    "addr:country": "EE",
+    "addr:housenumber": "38",
+    "addr:postcode": "51005",
+    "addr:street": "Lai",
+    "building": "yes",
+    "maaamet:ETAK": "718123",
+    "museum": "nature",
+    "muuseum_id": "205",
+    "name": "Tartu Ülikooli Botaanikaaed",
+    "name:de": "Botanischer Garten der Universität Tartu",
+    "name:en": "Botanical Garden of the University of Tartu",
+    "name:ru": "Ботанический сад университета Тарту",
+    "opening_hours": "Mo-Su 10:00-17:00",
+    "phone": "+372 7376180",
+    "source": "http://www.muuseum.ee/et/muuseumid",
+    "source:addr": "Maa-amet 2012",
+    "tourism": "museum",
+    "url": "http://www.botaanikaaed.ut.ee/",
+    "website": "https://www.botaanikaaed.ut.ee/"
+  }
+},
+{
+  "type": "way",
+  "id": 60280039,
+  "nodes": [
+    749699613,
+    749699663,
+    749699705,
+    749699643,
+    749699695,
+    749699667,
+    749699706,
+    749699611,
+    749699677,
+    749699622,
+    749699685,
+    1438333663,
+    749699688,
+    749699613
+  ],
+  "tags": {
+    "email": "epm@epm.ee",
+    "name": "Eesti Põllumajandusmuuseum",
+    "opening_hours": "Tu-Su 10:00-18:00",
+    "source": "Maa-amet 01.06.2009, survey",
+    "tourism": "museum",
+    "website": "http://www.epm.ee/"
+  }
+},
+{
+  "type": "way",
+  "id": 61291509,
+  "nodes": [
+    765725735,
+    765725738,
+    765725730,
+    2444575245,
+    765725754,
+    765725749,
+    765725735
+  ],
+  "tags": {
+    "addr:city": "Elva",
+    "addr:country": "EE",
+    "addr:housenumber": "2",
+    "addr:street": "Pargi",
+    "building": "train_station",
+    "maaamet:ETAK": "660287",
+    "name": "Elva raudteejaam",
+    "name:ru": "???? ?? ??????",
+    "source:addr": "Maa-amet 2012",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 104797987,
+  "nodes": [
+    1208772973,
+    1208773074,
+    1208773031,
+    1208772995,
+    1208773105,
+    1208773064,
+    1208773021,
+    1208772985,
+    1208773086,
+    1208773051,
+    2483338967,
+    5908778633,
+    1208772973
+  ],
+  "tags": {
+    "addr:city": "Tartu",
+    "addr:country": "EE",
+    "addr:housenumber": "1",
+    "addr:postcode": "51004",
+    "addr:street": "Sadama",
+    "building": "yes",
+    "building:levels": "4",
+    "building:part": "base",
+    "maaamet:ETAK": "5690916",
+    "name": "AHHAA Teaduskeskus",
+    "name:en": "AHHAA Science Centre",
+    "name:ru": "Центр науки AHHAA",
+    "opening_hours": "Su-Th 10:00-19:00; Fr-Sa 10:00-20:00",
+    "phone": "+372 745 6789",
+    "source:addr": "Maa-amet 2013",
+    "tourism": "museum",
+    "website": "http://www.ahhaa.ee/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 220201097,
+  "nodes": [
+    2293328843,
+    2293328837,
+    2293328828,
+    2293328824,
+    2293328820,
+    2293328818,
+    2293328814,
+    2293328816,
+    2293328809,
+    2293328807,
+    2293328805,
+    2293328803,
+    2293328810,
+    2293328812,
+    2293328822,
+    2293328826,
+    2293328830,
+    2293328831,
+    2293328833,
+    2293328839,
+    2293328844,
+    2293328843
+  ],
+  "tags": {
+    "addr:city": "Äksi alevik",
+    "addr:country": "EE",
+    "addr:housenumber": "22",
+    "addr:housenumber2": "20",
+    "addr:postcode": "60543",
+    "addr:street": "Saadjärve",
+    "building": "residential",
+    "building:levels": "3",
+    "ele": "59",
+    "email": "info@jaaaeg.ee",
+    "maaamet:orig_tunnus": "79402:001:0368",
+    "name": "Jääaja Keskus",
+    "name:en": "Ice Age Center",
+    "opening_hours": "Mo-Su 11:00-18:00",
+    "phone": "+372 59113318",
+    "source:addr": "Maa-amet 2013",
+    "tourism": "museum",
+    "website": "http://www.jaaaeg.ee",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 250087365,
+  "nodes": [
+    2565989711,
+    2565989712,
+    2565989713,
+    2565989714,
+    2565989715,
+    2565989716,
+    2565989717,
+    2565989718,
+    2565989719,
+    2565989720,
+    2565989711
+  ],
+  "tags": {
+    "addr:country": "EE",
+    "building": "yes",
+    "email": "mae@veskimuuseum.ee",
+    "historic": "yes",
+    "man_made": "watermill",
+    "name": "Hellenurme Vesiveski",
+    "phone": "+372 7679809",
+    "source": "Maa-amet 2013",
+    "start_date": "1880s",
+    "tourism": "museum",
+    "website": "http://www.veskimuuseum.ee/",
+    "wikidata": "Q16409627",
+    "wikipedia": "et:Hellenurme vesiveski"
+  }
+},
+{
+  "type": "relation",
+  "id": 6109929,
+  "members": [
+    {
+      "type": "way",
+      "ref": 400141015,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 744169636,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 744169638,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 744169640,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 744169642,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 408045797,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 408045795,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "addr:city": "Tartu",
+    "addr:housenumber": "2",
+    "addr:postcode": "60532",
+    "addr:street": "Muuseumi tee",
+    "building": "public",
+    "name": "Eesti Rahva Muuseum",
+    "name:de": "Estnisches Nationalmuseum",
+    "name:en": "Estonian National Museum",
+    "name:fi": "Viron kansallismuseo",
+    "name:lv": "Igaunijas Nacionālais muzejs",
+    "name:ru": "Эстонский Национальный Музей",
+    "name:sv": "Estniska Folkets Museum",
+    "opening_hours": "Tu-Su 10:00-19:00; We 10:00-21:00; Mo off",
+    "phone": "+372 735 0400",
+    "tourism": "museum",
+    "type": "multipolygon",
+    "website": "https://www.erm.ee/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2565989711,
+  "lat": 58.1369470,
+  "lon": 26.3867760
+},
+{
+  "type": "node",
+  "id": 2565989712,
+  "lat": 58.1368020,
+  "lon": 26.3865940
+},
+{
+  "type": "node",
+  "id": 2565989713,
+  "lat": 58.1367390,
+  "lon": 26.3867760
+},
+{
+  "type": "node",
+  "id": 2565989714,
+  "lat": 58.1366240,
+  "lon": 26.3866320
+},
+{
+  "type": "node",
+  "id": 2565989715,
+  "lat": 58.1368680,
+  "lon": 26.3859350
+},
+{
+  "type": "node",
+  "id": 2565989716,
+  "lat": 58.1369840,
+  "lon": 26.3860800
+},
+{
+  "type": "node",
+  "id": 2565989717,
+  "lat": 58.1369070,
+  "lon": 26.3862980
+},
+{
+  "type": "node",
+  "id": 2565989718,
+  "lat": 58.1369510,
+  "lon": 26.3863540
+},
+{
+  "type": "node",
+  "id": 2565989719,
+  "lat": 58.1369030,
+  "lon": 26.3864910
+},
+{
+  "type": "node",
+  "id": 2565989720,
+  "lat": 58.1370030,
+  "lon": 26.3866160
+},
+{
+  "type": "node",
+  "id": 765725730,
+  "lat": 58.2243931,
+  "lon": 26.4218475
+},
+{
+  "type": "node",
+  "id": 765725735,
+  "lat": 58.2244881,
+  "lon": 26.4217262
+},
+{
+  "type": "node",
+  "id": 765725738,
+  "lat": 58.2244553,
+  "lon": 26.4218869
+},
+{
+  "type": "node",
+  "id": 765725749,
+  "lat": 58.2241741,
+  "lon": 26.4215292
+},
+{
+  "type": "node",
+  "id": 765725754,
+  "lat": 58.2241359,
+  "lon": 26.4216847
+},
+{
+  "type": "node",
+  "id": 2444575245,
+  "lat": 58.2242791,
+  "lon": 26.4217754
+},
+{
+  "type": "node",
+  "id": 749699643,
+  "lat": 58.3167672,
+  "lon": 26.7249880
+},
+{
+  "type": "node",
+  "id": 749699663,
+  "lat": 58.3171633,
+  "lon": 26.7225863
+},
+{
+  "type": "node",
+  "id": 749699695,
+  "lat": 58.3167720,
+  "lon": 26.7251788
+},
+{
+  "type": "node",
+  "id": 749699611,
+  "lat": 58.3185280,
+  "lon": 26.7246652
+},
+{
+  "type": "node",
+  "id": 749699613,
+  "lat": 58.3184596,
+  "lon": 26.7224445
+},
+{
+  "type": "node",
+  "id": 749699622,
+  "lat": 58.3187178,
+  "lon": 26.7244402
+},
+{
+  "type": "node",
+  "id": 749699677,
+  "lat": 58.3187286,
+  "lon": 26.7246211
+},
+{
+  "type": "node",
+  "id": 749699685,
+  "lat": 58.3189112,
+  "lon": 26.7244136
+},
+{
+  "type": "node",
+  "id": 749699688,
+  "lat": 58.3185357,
+  "lon": 26.7219765
+},
+{
+  "type": "node",
+  "id": 749699705,
+  "lat": 58.3172465,
+  "lon": 26.7248413
+},
+{
+  "type": "node",
+  "id": 1438333663,
+  "lat": 58.3188853,
+  "lon": 26.7219725
+},
+{
+  "type": "node",
+  "id": 749699667,
+  "lat": 58.3175204,
+  "lon": 26.7258293
+},
+{
+  "type": "node",
+  "id": 749699706,
+  "lat": 58.3184693,
+  "lon": 26.7256875
+},
+{
+  "type": "node",
+  "id": 1208772985,
+  "lat": 58.3761472,
+  "lon": 26.7346618
+},
+{
+  "type": "node",
+  "id": 1208773086,
+  "lat": 58.3761455,
+  "lon": 26.7345382
+},
+{
+  "type": "node",
+  "id": 1208772973,
+  "lat": 58.3769436,
+  "lon": 26.7343984
+},
+{
+  "type": "node",
+  "id": 1208772995,
+  "lat": 58.3765343,
+  "lon": 26.7350359
+},
+{
+  "type": "node",
+  "id": 1208773021,
+  "lat": 58.3762447,
+  "lon": 26.7352709
+},
+{
+  "type": "node",
+  "id": 1208773031,
+  "lat": 58.3765957,
+  "lon": 26.7351595
+},
+{
+  "type": "node",
+  "id": 1208773051,
+  "lat": 58.3765309,
+  "lon": 26.7338552
+},
+{
+  "type": "node",
+  "id": 1208773064,
+  "lat": 58.3764354,
+  "lon": 26.7351627
+},
+{
+  "type": "node",
+  "id": 1208773074,
+  "lat": 58.3768004,
+  "lon": 26.7348050
+},
+{
+  "type": "node",
+  "id": 1208773105,
+  "lat": 58.3764286,
+  "lon": 26.7351042
+},
+{
+  "type": "node",
+  "id": 2483338967,
+  "lat": 58.3765857,
+  "lon": 26.7339558
+},
+{
+  "type": "node",
+  "id": 5908778633,
+  "lat": 58.3769082,
+  "lon": 26.7343546
+},
+{
+  "type": "node",
+  "id": 333037664,
+  "lat": 58.3842500,
+  "lon": 26.7207260
+},
+{
+  "type": "node",
+  "id": 333037668,
+  "lat": 58.3841960,
+  "lon": 26.7213640
+},
+{
+  "type": "node",
+  "id": 333037671,
+  "lat": 58.3841240,
+  "lon": 26.7207840
+},
+{
+  "type": "node",
+  "id": 333037673,
+  "lat": 58.3843300,
+  "lon": 26.7220710
+},
+{
+  "type": "node",
+  "id": 333037680,
+  "lat": 58.3843440,
+  "lon": 26.7214670
+},
+{
+  "type": "node",
+  "id": 333037682,
+  "lat": 58.3843880,
+  "lon": 26.7214470
+},
+{
+  "type": "node",
+  "id": 333037684,
+  "lat": 58.3843590,
+  "lon": 26.7212180
+},
+{
+  "type": "node",
+  "id": 333037687,
+  "lat": 58.3843140,
+  "lon": 26.7212380
+},
+{
+  "type": "node",
+  "id": 333037690,
+  "lat": 58.3844160,
+  "lon": 26.7220300
+},
+{
+  "type": "node",
+  "id": 333037712,
+  "lat": 58.3842380,
+  "lon": 26.7213450
+},
+{
+  "type": "node",
+  "id": 4209867054,
+  "lat": 58.3842472,
+  "lon": 26.7214176
+},
+{
+  "type": "node",
+  "id": 4027567308,
+  "lat": 58.3955321,
+  "lon": 26.7436198
+},
+{
+  "type": "node",
+  "id": 4027567309,
+  "lat": 58.3952133,
+  "lon": 26.7442687
+},
+{
+  "type": "node",
+  "id": 4027567314,
+  "lat": 58.3953679,
+  "lon": 26.7441660
+},
+{
+  "type": "node",
+  "id": 4027567317,
+  "lat": 58.3948533,
+  "lon": 26.7437795
+},
+{
+  "type": "node",
+  "id": 4100672650,
+  "lat": 58.3953065,
+  "lon": 26.7450663
+},
+{
+  "type": "node",
+  "id": 4100672651,
+  "lat": 58.3953816,
+  "lon": 26.7450042
+},
+{
+  "type": "node",
+  "id": 4100672655,
+  "lat": 58.3955199,
+  "lon": 26.7447395
+},
+{
+  "type": "node",
+  "id": 4100672656,
+  "lat": 58.3956257,
+  "lon": 26.7446534
+},
+{
+  "type": "node",
+  "id": 4100672657,
+  "lat": 58.3956279,
+  "lon": 26.7452227
+},
+{
+  "type": "node",
+  "id": 4100672658,
+  "lat": 58.3957337,
+  "lon": 26.7451367
+},
+{
+  "type": "node",
+  "id": 4405710585,
+  "lat": 58.3952829,
+  "lon": 26.7442225
+},
+{
+  "type": "node",
+  "id": 4588652016,
+  "lat": 58.3958519,
+  "lon": 26.7450576
+},
+{
+  "type": "node",
+  "id": 4588652043,
+  "lat": 58.3957555,
+  "lon": 26.7446241
+},
+{
+  "type": "node",
+  "id": 5532773516,
+  "lat": 58.3951393,
+  "lon": 26.7449844
+},
+{
+  "type": "node",
+  "id": 6964763772,
+  "lat": 58.3951721,
+  "lon": 26.7451319
+},
+{
+  "type": "node",
+  "id": 4100672652,
+  "lat": 58.3954000,
+  "lon": 26.7454782
+},
+{
+  "type": "node",
+  "id": 4100672654,
+  "lat": 58.3954751,
+  "lon": 26.7454161
+},
+{
+  "type": "node",
+  "id": 5532773515,
+  "lat": 58.3953624,
+  "lon": 26.7459876
+},
+{
+  "type": "node",
+  "id": 6964763773,
+  "lat": 58.3952674,
+  "lon": 26.7455606
+},
+{
+  "type": "node",
+  "id": 4027567310,
+  "lat": 58.3960692,
+  "lon": 26.7482040
+},
+{
+  "type": "node",
+  "id": 4027567311,
+  "lat": 58.3962669,
+  "lon": 26.7490909
+},
+{
+  "type": "node",
+  "id": 4027567312,
+  "lat": 58.3960852,
+  "lon": 26.7492373
+},
+{
+  "type": "node",
+  "id": 4027567313,
+  "lat": 58.3967127,
+  "lon": 26.7489279
+},
+{
+  "type": "node",
+  "id": 4027567315,
+  "lat": 58.3962919,
+  "lon": 26.7480231
+},
+{
+  "type": "node",
+  "id": 4027567316,
+  "lat": 58.3965319,
+  "lon": 26.7490764
+},
+{
+  "type": "node",
+  "id": 4405710586,
+  "lat": 58.3961751,
+  "lon": 26.7481220
+},
+{
+  "type": "node",
+  "id": 2293328803,
+  "lat": 58.5254590,
+  "lon": 26.6761150
+},
+{
+  "type": "node",
+  "id": 2293328805,
+  "lat": 58.5255100,
+  "lon": 26.6763640
+},
+{
+  "type": "node",
+  "id": 2293328807,
+  "lat": 58.5255470,
+  "lon": 26.6763370
+},
+{
+  "type": "node",
+  "id": 2293328809,
+  "lat": 58.5255710,
+  "lon": 26.6764550
+},
+{
+  "type": "node",
+  "id": 2293328810,
+  "lat": 58.5258060,
+  "lon": 26.6758612
+},
+{
+  "type": "node",
+  "id": 2293328812,
+  "lat": 58.5258238,
+  "lon": 26.6759592
+},
+{
+  "type": "node",
+  "id": 2293328814,
+  "lat": 58.5258700,
+  "lon": 26.6762090
+},
+{
+  "type": "node",
+  "id": 2293328816,
+  "lat": 58.5258750,
+  "lon": 26.6762310
+},
+{
+  "type": "node",
+  "id": 2293328818,
+  "lat": 58.5259140,
+  "lon": 26.6761770
+},
+{
+  "type": "node",
+  "id": 2293328820,
+  "lat": 58.5259270,
+  "lon": 26.6762420
+},
+{
+  "type": "node",
+  "id": 2293328822,
+  "lat": 58.5259443,
+  "lon": 26.6758800
+},
+{
+  "type": "node",
+  "id": 2293328824,
+  "lat": 58.5259640,
+  "lon": 26.6762150
+},
+{
+  "type": "node",
+  "id": 2293328826,
+  "lat": 58.5259662,
+  "lon": 26.6760143
+},
+{
+  "type": "node",
+  "id": 2293328828,
+  "lat": 58.5259690,
+  "lon": 26.6762390
+},
+{
+  "type": "node",
+  "id": 2293328830,
+  "lat": 58.5259829,
+  "lon": 26.6760061
+},
+{
+  "type": "node",
+  "id": 2293328831,
+  "lat": 58.5260024,
+  "lon": 26.6760030
+},
+{
+  "type": "node",
+  "id": 2293328833,
+  "lat": 58.5260239,
+  "lon": 26.6760081
+},
+{
+  "type": "node",
+  "id": 2293328837,
+  "lat": 58.5260380,
+  "lon": 26.6761945
+},
+{
+  "type": "node",
+  "id": 2293328839,
+  "lat": 58.5260394,
+  "lon": 26.6760178
+},
+{
+  "type": "node",
+  "id": 2293328843,
+  "lat": 58.5260696,
+  "lon": 26.6762754
+},
+{
+  "type": "node",
+  "id": 2293328844,
+  "lat": 58.5261185,
+  "lon": 26.6761955
+},
+{
+  "type": "way",
+  "id": 408045795,
+  "nodes": [
+    4100672654,
+    4100672651,
+    4100672650,
+    4100672652,
+    4100672654
+  ]
+},
+{
+  "type": "way",
+  "id": 744169640,
+  "nodes": [
+    4588652016,
+    4027567313,
+    4027567316,
+    4027567315,
+    4405710586,
+    4027567310,
+    4027567311,
+    4027567312,
+    5532773515,
+    6964763773
+  ]
+},
+{
+  "type": "way",
+  "id": 744169642,
+  "nodes": [
+    6964763773,
+    6964763772
+  ]
+},
+{
+  "type": "way",
+  "id": 400141015,
+  "nodes": [
+    6964763772,
+    5532773516,
+    4027567317,
+    4027567309
+  ]
+},
+{
+  "type": "way",
+  "id": 408045797,
+  "nodes": [
+    4100672655,
+    4100672656,
+    4100672658,
+    4100672657,
+    4100672655
+  ]
+},
+{
+  "type": "way",
+  "id": 744169636,
+  "nodes": [
+    4027567309,
+    4405710585,
+    4027567314,
+    4027567308,
+    4588652043
+  ]
+},
+{
+  "type": "way",
+  "id": 744169638,
+  "nodes": [
+    4588652043,
+    4588652016
+  ]
+}
+
+  ]
+}

@@ -1,0 +1,1108 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-14T18:40:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 664115484,
+  "lat": 43.7020251,
+  "lon": 16.6378058,
+  "tags": {
+    "name": "Franjevački Muzej",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 744582764,
+  "lat": 43.6195479,
+  "lon": 16.7253346,
+  "tags": {
+    "name": "Muzej grada Trilja",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1251177143,
+  "lat": 43.2607302,
+  "lon": 16.6667338,
+  "tags": {
+    "name": "Muzej Dominikanskog Samostana",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1390738099,
+  "lat": 43.1813789,
+  "lon": 16.6713160,
+  "tags": {
+    "int_name": "Fishman museum",
+    "name": "Ribarski muzej",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1412050462,
+  "lat": 43.5072166,
+  "lon": 16.4431032,
+  "tags": {
+    "addr:city": "Split",
+    "addr:housenumber": "3",
+    "addr:street": "Trpimirova",
+    "name": "Prirodoslovni muzej",
+    "opening_hours": "Mo-Fr 10:00-20:00, Sa 09:00-13:00",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1563850553,
+  "lat": 43.5089759,
+  "lon": 16.4389973,
+  "tags": {
+    "name": "Stara gradska vijećnica",
+    "opening_hours": "Tu-Su 09:00-13:00, 17:00-21:00",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1563932039,
+  "lat": 43.5076557,
+  "lon": 16.4400379,
+  "tags": {
+    "name": "Etnografski muzej",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1563932047,
+  "lat": 43.5082574,
+  "lon": 16.4410824,
+  "tags": {
+    "name": "Galerija Emanuela Vidovića",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1563932064,
+  "lat": 43.5087203,
+  "lon": 16.4472108,
+  "tags": {
+    "addr:city": "Split",
+    "addr:housenumber": "18",
+    "addr:postcode": "21000",
+    "addr:street": "Glagoljaška",
+    "name": "Hrvatski Pomorski muzej",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1563932080,
+  "lat": 43.5086348,
+  "lon": 16.4408445,
+  "tags": {
+    "addr:city": "Split",
+    "addr:country": "HR",
+    "addr:housenumber": "1",
+    "addr:street": "Papalićeva",
+    "email": "muzej.grada.splita@mgst.net",
+    "name": "Muzej grada Splita",
+    "name:zh": "城镇博物馆",
+    "opening_hours": "Tu-Fr 09:00-21:00; Sa-Mo 09:00-16:00",
+    "phone": "+385 021 360 171;+385 021 360 172;+385 021 344 917",
+    "tourism": "museum",
+    "website": "www.mgst.net",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1563932273,
+  "lat": 43.5095576,
+  "lon": 16.4405856,
+  "tags": {
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1805171450,
+  "lat": 43.5416891,
+  "lon": 16.4833117,
+  "tags": {
+    "name": "Arheološki Muzej (i prodaja karata)",
+    "name:de": "Archäologisches Museum Salona",
+    "name:en": "Archeological Museum Salona",
+    "opening_hours": "Mo-Sa 09:00-19:00; Su 09:00-14:00",
+    "phone": "+39521213358",
+    "tourism": "museum",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2491957156,
+  "lat": 43.4436140,
+  "lon": 16.6938756,
+  "tags": {
+    "name": "Gradski muzej Omiš",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 2756692556,
+  "lat": 43.5506627,
+  "lon": 16.3639658,
+  "tags": {
+    "name": "Muzej Grada Kaštela",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3701509547,
+  "lat": 43.7008651,
+  "lon": 16.6354523,
+  "tags": {
+    "name": "Muzej Sinjske alke",
+    "operator": "0-",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4234037724,
+  "lat": 43.1614245,
+  "lon": 16.6936432,
+  "tags": {
+    "addr:city": "Jelsa",
+    "addr:housenumber": "477",
+    "addr:postcode": "21465",
+    "addr:street": "Lučica",
+    "name": "Muzej općine Jelsa",
+    "opening_hours": "Jun-Sep 10:00-13:00,19:00-23:00",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 5026119218,
+  "lat": 43.5173297,
+  "lon": 16.2506656,
+  "tags": {
+    "name": "Muzej Grada Trogira",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 5902432176,
+  "lat": 43.1715291,
+  "lon": 16.4458214,
+  "tags": {
+    "name": "Muzej Hvarske baštine",
+    "tourism": "museum",
+    "website": "http://mhb.mdc.hr"
+  }
+},
+{
+  "type": "node",
+  "id": 6613029904,
+  "lat": 43.5093044,
+  "lon": 16.4392144,
+  "tags": {
+    "addr:city": "Split",
+    "addr:housenumber": "9",
+    "addr:postcode": "21000",
+    "addr:street": "Bosanska",
+    "name": "Game of Thrones Museum Split",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 39519262,
+  "nodes": [
+    473440448,
+    593860591,
+    593860590,
+    473440449,
+    473440450,
+    473440451,
+    473440448
+  ],
+  "tags": {
+    "addr:housenumber": "5",
+    "addr:street": "Ulica Andrije Kačića Miošića",
+    "building": "yes",
+    "description": "Opći muzej - zavičajni",
+    "name": "Muzej Cetinske Krajine",
+    "opening_hours": "Mo-Fr 08:00-16:00; Sa 08:00-13:00",
+    "phone": "+38521821949",
+    "roof:material": "roof_tiles",
+    "roof:shape": "gabled",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 83238358,
+  "nodes": [
+    968502354,
+    968502355,
+    1223045177,
+    1223045191,
+    968502356,
+    968502357,
+    968502354
+  ],
+  "tags": {
+    "addr:city": "Split",
+    "addr:housenumber": "18",
+    "addr:street": "Šetalište Ivana Meštrovića",
+    "building": "yes",
+    "building:levels": "3",
+    "name": "Muzej hrvatskih arheoloških spomenika",
+    "tourism": "museum",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 84629308,
+  "nodes": [
+    983126711,
+    1573841002,
+    1573841009,
+    1573841006,
+    1573841004,
+    1573841000,
+    983126713,
+    983126714,
+    983126715,
+    983126711
+  ],
+  "tags": {
+    "addr:city": "Split",
+    "addr:housenumber": "46",
+    "addr:street": "Šetalište Ivana Meštrovića",
+    "architect:wikidata": "Q313828;Q6502800;Q16216453",
+    "building": "yes",
+    "name": "Galerija Meštrović",
+    "roof:colour": "#800000",
+    "roof:shape": "hipped",
+    "tourism": "museum",
+    "wheelchair": "no",
+    "wikidata": "Q6096967"
+  }
+},
+{
+  "type": "way",
+  "id": 90990375,
+  "nodes": [
+    1056574529,
+    1056574567,
+    1056574565,
+    1056574564,
+    1056574529
+  ],
+  "tags": {
+    "addr:city": "Stari Grad",
+    "addr:housenumber": "4",
+    "addr:postcode": "21460",
+    "addr:street": "Braće Biankini",
+    "building": "yes",
+    "email": "info@msg.hr",
+    "int_name": "Stari Grad Museum",
+    "name": "Muzej Staroga Grada",
+    "name:en": "Stari Grad Museum",
+    "tourism": "museum",
+    "website": "https://msg.hr/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 118154598,
+  "nodes": [
+    1329523177,
+    1329523217,
+    1329523140,
+    1329523200,
+    1329523299,
+    1354656885,
+    1329523257,
+    1329523170,
+    1329523234,
+    1354656881,
+    1329523155,
+    1329523153,
+    1354656888,
+    1329523251,
+    1329523302,
+    1329523229,
+    1329523182,
+    1329523280,
+    1329523160,
+    1354656905,
+    1329523263,
+    1329523259,
+    1329523176,
+    1329523177
+  ],
+  "tags": {
+    "addr:city": "Split",
+    "addr:country": "HR",
+    "addr:housenumber": "25",
+    "addr:postcode": "21000",
+    "addr:street": "Zrinsko-Frankopanska",
+    "building": "yes",
+    "name": "Arheološki muzej",
+    "roof:material": "roof_tiles",
+    "roof:shape": "gabled",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 173181734,
+  "nodes": [
+    1840105012,
+    1840105013,
+    1840105015,
+    1840105014,
+    1840105012
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Muzej uljarstva",
+    "roof:material": "roof_tiles",
+    "roof:shape": "gabled",
+    "source": "survey",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 214381894,
+  "nodes": [
+    2239347720,
+    2239347714,
+    2239347711,
+    2239347709,
+    2239347706,
+    2239347717,
+    2239347720
+  ],
+  "tags": {
+    "building": "house",
+    "name": "Muzej Otoka Brača",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 360816061,
+  "nodes": [
+    3653685531,
+    3653683605,
+    3653683587,
+    3653683598,
+    3653683604,
+    3653683597,
+    3653683601,
+    3653683606,
+    3653683620,
+    3653685531
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Muzej grada Kaštela-Nadbiskupski kaštel",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 397585883,
+  "nodes": [
+    4003732077,
+    4003732075,
+    4003732074,
+    4003732073,
+    4003732072,
+    4003732076,
+    4003732077
+  ],
+  "tags": {
+    "building": "house",
+    "name": "Muzej Uja",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "relation",
+  "id": 1706926,
+  "members": [
+    {
+      "type": "way",
+      "ref": 125506981,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 125506965,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "addr:city": "Split",
+    "addr:country": "HR",
+    "addr:housenumber": "15",
+    "addr:postcode": "21000",
+    "addr:street": "Kralja Tomislava",
+    "building": "yes",
+    "name": "Galerija umjetnina",
+    "name:zh": "美术馆",
+    "opening_hours": "Mo 11:00-16:00; Tu-Fr 11:00-19:00; Sa 11:00-15:00",
+    "roof:material": "roof_tiles",
+    "roof:shape": "gabled",
+    "tourism": "museum",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "node",
+  "id": 1056574529,
+  "lat": 43.1828753,
+  "lon": 16.5953245
+},
+{
+  "type": "node",
+  "id": 1056574564,
+  "lat": 43.1828492,
+  "lon": 16.5954794
+},
+{
+  "type": "node",
+  "id": 1056574565,
+  "lat": 43.1826747,
+  "lon": 16.5954241
+},
+{
+  "type": "node",
+  "id": 1056574567,
+  "lat": 43.1827009,
+  "lon": 16.5952691
+},
+{
+  "type": "node",
+  "id": 1840105012,
+  "lat": 43.3847207,
+  "lon": 16.5222569
+},
+{
+  "type": "node",
+  "id": 1840105013,
+  "lat": 43.3847780,
+  "lon": 16.5222318
+},
+{
+  "type": "node",
+  "id": 1840105014,
+  "lat": 43.3847797,
+  "lon": 16.5225119
+},
+{
+  "type": "node",
+  "id": 1840105015,
+  "lat": 43.3848371,
+  "lon": 16.5224868
+},
+{
+  "type": "node",
+  "id": 2239347706,
+  "lat": 43.3555342,
+  "lon": 16.6121155
+},
+{
+  "type": "node",
+  "id": 2239347709,
+  "lat": 43.3555569,
+  "lon": 16.6119963
+},
+{
+  "type": "node",
+  "id": 2239347711,
+  "lat": 43.3556507,
+  "lon": 16.6120301
+},
+{
+  "type": "node",
+  "id": 2239347714,
+  "lat": 43.3556664,
+  "lon": 16.6119474
+},
+{
+  "type": "node",
+  "id": 2239347717,
+  "lat": 43.3556815,
+  "lon": 16.6121686
+},
+{
+  "type": "node",
+  "id": 2239347720,
+  "lat": 43.3557200,
+  "lon": 16.6119667
+},
+{
+  "type": "node",
+  "id": 4003732072,
+  "lat": 43.3567207,
+  "lon": 16.6104704
+},
+{
+  "type": "node",
+  "id": 4003732073,
+  "lat": 43.3567376,
+  "lon": 16.6104032
+},
+{
+  "type": "node",
+  "id": 4003732074,
+  "lat": 43.3567771,
+  "lon": 16.6104220
+},
+{
+  "type": "node",
+  "id": 4003732075,
+  "lat": 43.3567861,
+  "lon": 16.6103861
+},
+{
+  "type": "node",
+  "id": 4003732076,
+  "lat": 43.3569384,
+  "lon": 16.6105738
+},
+{
+  "type": "node",
+  "id": 4003732077,
+  "lat": 43.3569642,
+  "lon": 16.6104707
+},
+{
+  "type": "node",
+  "id": 968502354,
+  "lat": 43.5042209,
+  "lon": 16.4224728
+},
+{
+  "type": "node",
+  "id": 968502355,
+  "lat": 43.5044925,
+  "lon": 16.4225610
+},
+{
+  "type": "node",
+  "id": 968502356,
+  "lat": 43.5046288,
+  "lon": 16.4217638
+},
+{
+  "type": "node",
+  "id": 968502357,
+  "lat": 43.5043571,
+  "lon": 16.4216756
+},
+{
+  "type": "node",
+  "id": 983126711,
+  "lat": 43.5048513,
+  "lon": 16.4182735
+},
+{
+  "type": "node",
+  "id": 983126713,
+  "lat": 43.5048301,
+  "lon": 16.4176152
+},
+{
+  "type": "node",
+  "id": 983126714,
+  "lat": 43.5049467,
+  "lon": 16.4176082
+},
+{
+  "type": "node",
+  "id": 983126715,
+  "lat": 43.5049675,
+  "lon": 16.4182665
+},
+{
+  "type": "node",
+  "id": 1223045177,
+  "lat": 43.5045036,
+  "lon": 16.4224961
+},
+{
+  "type": "node",
+  "id": 1223045191,
+  "lat": 43.5046173,
+  "lon": 16.4218308
+},
+{
+  "type": "node",
+  "id": 1573841000,
+  "lat": 43.5048364,
+  "lon": 16.4178134
+},
+{
+  "type": "node",
+  "id": 1573841002,
+  "lat": 43.5048453,
+  "lon": 16.4180853
+},
+{
+  "type": "node",
+  "id": 1573841004,
+  "lat": 43.5048787,
+  "lon": 16.4178109
+},
+{
+  "type": "node",
+  "id": 1573841006,
+  "lat": 43.5048829,
+  "lon": 16.4179454
+},
+{
+  "type": "node",
+  "id": 1573841009,
+  "lat": 43.5048873,
+  "lon": 16.4180828
+},
+{
+  "type": "node",
+  "id": 1329523140,
+  "lat": 43.5154914,
+  "lon": 16.4347403
+},
+{
+  "type": "node",
+  "id": 1329523153,
+  "lat": 43.5157130,
+  "lon": 16.4347455
+},
+{
+  "type": "node",
+  "id": 1329523155,
+  "lat": 43.5157036,
+  "lon": 16.4346593
+},
+{
+  "type": "node",
+  "id": 1329523160,
+  "lat": 43.5160003,
+  "lon": 16.4350483
+},
+{
+  "type": "node",
+  "id": 1329523170,
+  "lat": 43.5156163,
+  "lon": 16.4351467
+},
+{
+  "type": "node",
+  "id": 1329523176,
+  "lat": 43.5161770,
+  "lon": 16.4345870
+},
+{
+  "type": "node",
+  "id": 1329523177,
+  "lat": 43.5159711,
+  "lon": 16.4344502
+},
+{
+  "type": "node",
+  "id": 1329523182,
+  "lat": 43.5160984,
+  "lon": 16.4346610
+},
+{
+  "type": "node",
+  "id": 1329523200,
+  "lat": 43.5155524,
+  "lon": 16.4352707
+},
+{
+  "type": "node",
+  "id": 1329523217,
+  "lat": 43.5156833,
+  "lon": 16.4345107
+},
+{
+  "type": "node",
+  "id": 1329523229,
+  "lat": 43.5159869,
+  "lon": 16.4346235
+},
+{
+  "type": "node",
+  "id": 1329523234,
+  "lat": 43.5155753,
+  "lon": 16.4347832
+},
+{
+  "type": "node",
+  "id": 1329523251,
+  "lat": 43.5159705,
+  "lon": 16.4346843
+},
+{
+  "type": "node",
+  "id": 1329523257,
+  "lat": 43.5157783,
+  "lon": 16.4351071
+},
+{
+  "type": "node",
+  "id": 1329523259,
+  "lat": 43.5162485,
+  "lon": 16.4350832
+},
+{
+  "type": "node",
+  "id": 1329523263,
+  "lat": 43.5160135,
+  "lon": 16.4351529
+},
+{
+  "type": "node",
+  "id": 1329523280,
+  "lat": 43.5161500,
+  "lon": 16.4350048
+},
+{
+  "type": "node",
+  "id": 1329523299,
+  "lat": 43.5157914,
+  "lon": 16.4352156
+},
+{
+  "type": "node",
+  "id": 1329523302,
+  "lat": 43.5159629,
+  "lon": 16.4346311
+},
+{
+  "type": "node",
+  "id": 1354656881,
+  "lat": 43.5156706,
+  "lon": 16.4346669
+},
+{
+  "type": "node",
+  "id": 1354656885,
+  "lat": 43.5157827,
+  "lon": 16.4351282
+},
+{
+  "type": "node",
+  "id": 1354656888,
+  "lat": 43.5158443,
+  "lon": 16.4347143
+},
+{
+  "type": "node",
+  "id": 1354656905,
+  "lat": 43.5160037,
+  "lon": 16.4350707
+},
+{
+  "type": "node",
+  "id": 1393824941,
+  "lat": 43.5096771,
+  "lon": 16.4402775
+},
+{
+  "type": "node",
+  "id": 1393824951,
+  "lat": 43.5097192,
+  "lon": 16.4400192
+},
+{
+  "type": "node",
+  "id": 1393824953,
+  "lat": 43.5097313,
+  "lon": 16.4404803
+},
+{
+  "type": "node",
+  "id": 1393824966,
+  "lat": 43.5097602,
+  "lon": 16.4403032
+},
+{
+  "type": "node",
+  "id": 1393824982,
+  "lat": 43.5098048,
+  "lon": 16.4400457
+},
+{
+  "type": "node",
+  "id": 1393824983,
+  "lat": 43.5098020,
+  "lon": 16.4402704
+},
+{
+  "type": "node",
+  "id": 1393824984,
+  "lat": 43.5098060,
+  "lon": 16.4405034
+},
+{
+  "type": "node",
+  "id": 1393825002,
+  "lat": 43.5098346,
+  "lon": 16.4398625
+},
+{
+  "type": "node",
+  "id": 1393825004,
+  "lat": 43.5098303,
+  "lon": 16.4400930
+},
+{
+  "type": "node",
+  "id": 1393825006,
+  "lat": 43.5098204,
+  "lon": 16.4404148
+},
+{
+  "type": "node",
+  "id": 1393825037,
+  "lat": 43.5098897,
+  "lon": 16.4399763
+},
+{
+  "type": "node",
+  "id": 1393825051,
+  "lat": 43.5099047,
+  "lon": 16.4398842
+},
+{
+  "type": "node",
+  "id": 1393825061,
+  "lat": 43.5099311,
+  "lon": 16.4403095
+},
+{
+  "type": "node",
+  "id": 1393825079,
+  "lat": 43.5099594,
+  "lon": 16.4401321
+},
+{
+  "type": "node",
+  "id": 1393825082,
+  "lat": 43.5099835,
+  "lon": 16.4405588
+},
+{
+  "type": "node",
+  "id": 1393825088,
+  "lat": 43.5099980,
+  "lon": 16.4404698
+},
+{
+  "type": "node",
+  "id": 1393825111,
+  "lat": 43.5100703,
+  "lon": 16.4400322
+},
+{
+  "type": "node",
+  "id": 1393825114,
+  "lat": 43.5100566,
+  "lon": 16.4405814
+},
+{
+  "type": "node",
+  "id": 1393825120,
+  "lat": 43.5100859,
+  "lon": 16.4399361
+},
+{
+  "type": "node",
+  "id": 1393825122,
+  "lat": 43.5100715,
+  "lon": 16.4404897
+},
+{
+  "type": "node",
+  "id": 1393825129,
+  "lat": 43.5101416,
+  "lon": 16.4400469
+},
+{
+  "type": "node",
+  "id": 1393825131,
+  "lat": 43.5101367,
+  "lon": 16.4405099
+},
+{
+  "type": "node",
+  "id": 1393825153,
+  "lat": 43.5101561,
+  "lon": 16.4399578
+},
+{
+  "type": "node",
+  "id": 1393825168,
+  "lat": 43.5102087,
+  "lon": 16.4400677
+},
+{
+  "type": "node",
+  "id": 3653683587,
+  "lat": 43.5456445,
+  "lon": 16.4258862
+},
+{
+  "type": "node",
+  "id": 3653683597,
+  "lat": 43.5457177,
+  "lon": 16.4258154
+},
+{
+  "type": "node",
+  "id": 3653683598,
+  "lat": 43.5457359,
+  "lon": 16.4259246
+},
+{
+  "type": "node",
+  "id": 3653683601,
+  "lat": 43.5457420,
+  "lon": 16.4257255
+},
+{
+  "type": "node",
+  "id": 3653683604,
+  "lat": 43.5457556,
+  "lon": 16.4258348
+},
+{
+  "type": "node",
+  "id": 3653683605,
+  "lat": 43.5457570,
+  "lon": 16.4253758
+},
+{
+  "type": "node",
+  "id": 3653683606,
+  "lat": 43.5457706,
+  "lon": 16.4255859
+},
+{
+  "type": "node",
+  "id": 3653683620,
+  "lat": 43.5458429,
+  "lon": 16.4256162
+},
+{
+  "type": "node",
+  "id": 3653685531,
+  "lat": 43.5458841,
+  "lon": 16.4254291
+},
+{
+  "type": "node",
+  "id": 473440448,
+  "lat": 43.7018928,
+  "lon": 16.6354856
+},
+{
+  "type": "node",
+  "id": 473440449,
+  "lat": 43.7018636,
+  "lon": 16.6358804
+},
+{
+  "type": "node",
+  "id": 473440450,
+  "lat": 43.7017168,
+  "lon": 16.6358173
+},
+{
+  "type": "node",
+  "id": 473440451,
+  "lat": 43.7018003,
+  "lon": 16.6354458
+},
+{
+  "type": "node",
+  "id": 593860590,
+  "lat": 43.7018907,
+  "lon": 16.6357599
+},
+{
+  "type": "node",
+  "id": 593860591,
+  "lat": 43.7018364,
+  "lon": 16.6357365
+},
+{
+  "type": "way",
+  "id": 125506965,
+  "nodes": [
+    1393825002,
+    1393824982,
+    1393824951,
+    1393824941,
+    1393824966,
+    1393824953,
+    1393824984,
+    1393825006,
+    1393825088,
+    1393825082,
+    1393825114,
+    1393825122,
+    1393825131,
+    1393825168,
+    1393825129,
+    1393825153,
+    1393825120,
+    1393825111,
+    1393825037,
+    1393825051,
+    1393825002
+  ]
+},
+{
+  "type": "way",
+  "id": 125506981,
+  "nodes": [
+    1393825004,
+    1393824983,
+    1393825061,
+    1393825079,
+    1393825004
+  ]
+}
+
+  ]
+}

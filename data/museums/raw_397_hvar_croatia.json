@@ -1,0 +1,344 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-14T18:34:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1251177143,
+  "lat": 43.2607302,
+  "lon": 16.6667338,
+  "tags": {
+    "name": "Muzej Dominikanskog Samostana",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1390738099,
+  "lat": 43.1813789,
+  "lon": 16.6713160,
+  "tags": {
+    "int_name": "Fishman museum",
+    "name": "Ribarski muzej",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 2330621038,
+  "lat": 42.9609137,
+  "lon": 16.7175825,
+  "tags": {
+    "name": "Arheološki muzej",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4234037724,
+  "lat": 43.1614245,
+  "lon": 16.6936432,
+  "tags": {
+    "addr:city": "Jelsa",
+    "addr:housenumber": "477",
+    "addr:postcode": "21465",
+    "addr:street": "Lučica",
+    "name": "Muzej općine Jelsa",
+    "opening_hours": "Jun-Sep 10:00-13:00,19:00-23:00",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 5902432176,
+  "lat": 43.1715291,
+  "lon": 16.4458214,
+  "tags": {
+    "name": "Muzej Hvarske baštine",
+    "tourism": "museum",
+    "website": "http://mhb.mdc.hr"
+  }
+},
+{
+  "type": "way",
+  "id": 90990375,
+  "nodes": [
+    1056574529,
+    1056574567,
+    1056574565,
+    1056574564,
+    1056574529
+  ],
+  "tags": {
+    "addr:city": "Stari Grad",
+    "addr:housenumber": "4",
+    "addr:postcode": "21460",
+    "addr:street": "Braće Biankini",
+    "building": "yes",
+    "email": "info@msg.hr",
+    "int_name": "Stari Grad Museum",
+    "name": "Muzej Staroga Grada",
+    "name:en": "Stari Grad Museum",
+    "tourism": "museum",
+    "website": "https://msg.hr/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 173181734,
+  "nodes": [
+    1840105012,
+    1840105013,
+    1840105015,
+    1840105014,
+    1840105012
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Muzej uljarstva",
+    "roof:material": "roof_tiles",
+    "roof:shape": "gabled",
+    "source": "survey",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 203872374,
+  "nodes": [
+    2138836072,
+    2138836071,
+    2138836065,
+    2138836066,
+    2138836059,
+    2138836060,
+    2138836067,
+    2138836068,
+    2138836072
+  ],
+  "tags": {
+    "addr:city": "Vis",
+    "addr:country": "HR",
+    "addr:housenumber": "12",
+    "addr:postcode": "21480",
+    "addr:street": "Šetalište Viški boj",
+    "building": "yes",
+    "name": "Arheološka zbirka",
+    "roof:material": "roof_tiles",
+    "roof:shape": "gabled",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 214381894,
+  "nodes": [
+    2239347720,
+    2239347714,
+    2239347711,
+    2239347709,
+    2239347706,
+    2239347717,
+    2239347720
+  ],
+  "tags": {
+    "building": "house",
+    "name": "Muzej Otoka Brača",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 397585883,
+  "nodes": [
+    4003732077,
+    4003732075,
+    4003732074,
+    4003732073,
+    4003732072,
+    4003732076,
+    4003732077
+  ],
+  "tags": {
+    "building": "house",
+    "name": "Muzej Uja",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 2138836059,
+  "lat": 43.0570420,
+  "lon": 16.1930566
+},
+{
+  "type": "node",
+  "id": 2138836060,
+  "lat": 43.0570430,
+  "lon": 16.1932127
+},
+{
+  "type": "node",
+  "id": 2138836065,
+  "lat": 43.0571358,
+  "lon": 16.1927794
+},
+{
+  "type": "node",
+  "id": 2138836066,
+  "lat": 43.0571376,
+  "lon": 16.1930554
+},
+{
+  "type": "node",
+  "id": 2138836067,
+  "lat": 43.0571424,
+  "lon": 16.1932115
+},
+{
+  "type": "node",
+  "id": 2138836068,
+  "lat": 43.0571442,
+  "lon": 16.1934928
+},
+{
+  "type": "node",
+  "id": 2138836071,
+  "lat": 43.0572569,
+  "lon": 16.1927779
+},
+{
+  "type": "node",
+  "id": 2138836072,
+  "lat": 43.0572616,
+  "lon": 16.1934913
+},
+{
+  "type": "node",
+  "id": 1056574529,
+  "lat": 43.1828753,
+  "lon": 16.5953245
+},
+{
+  "type": "node",
+  "id": 1056574564,
+  "lat": 43.1828492,
+  "lon": 16.5954794
+},
+{
+  "type": "node",
+  "id": 1056574565,
+  "lat": 43.1826747,
+  "lon": 16.5954241
+},
+{
+  "type": "node",
+  "id": 1056574567,
+  "lat": 43.1827009,
+  "lon": 16.5952691
+},
+{
+  "type": "node",
+  "id": 1840105012,
+  "lat": 43.3847207,
+  "lon": 16.5222569
+},
+{
+  "type": "node",
+  "id": 1840105013,
+  "lat": 43.3847780,
+  "lon": 16.5222318
+},
+{
+  "type": "node",
+  "id": 1840105014,
+  "lat": 43.3847797,
+  "lon": 16.5225119
+},
+{
+  "type": "node",
+  "id": 1840105015,
+  "lat": 43.3848371,
+  "lon": 16.5224868
+},
+{
+  "type": "node",
+  "id": 2239347706,
+  "lat": 43.3555342,
+  "lon": 16.6121155
+},
+{
+  "type": "node",
+  "id": 2239347709,
+  "lat": 43.3555569,
+  "lon": 16.6119963
+},
+{
+  "type": "node",
+  "id": 2239347711,
+  "lat": 43.3556507,
+  "lon": 16.6120301
+},
+{
+  "type": "node",
+  "id": 2239347714,
+  "lat": 43.3556664,
+  "lon": 16.6119474
+},
+{
+  "type": "node",
+  "id": 2239347717,
+  "lat": 43.3556815,
+  "lon": 16.6121686
+},
+{
+  "type": "node",
+  "id": 2239347720,
+  "lat": 43.3557200,
+  "lon": 16.6119667
+},
+{
+  "type": "node",
+  "id": 4003732072,
+  "lat": 43.3567207,
+  "lon": 16.6104704
+},
+{
+  "type": "node",
+  "id": 4003732073,
+  "lat": 43.3567376,
+  "lon": 16.6104032
+},
+{
+  "type": "node",
+  "id": 4003732074,
+  "lat": 43.3567771,
+  "lon": 16.6104220
+},
+{
+  "type": "node",
+  "id": 4003732075,
+  "lat": 43.3567861,
+  "lon": 16.6103861
+},
+{
+  "type": "node",
+  "id": 4003732076,
+  "lat": 43.3569384,
+  "lon": 16.6105738
+},
+{
+  "type": "node",
+  "id": 4003732077,
+  "lat": 43.3569642,
+  "lon": 16.6104707
+}
+
+  ]
+}
